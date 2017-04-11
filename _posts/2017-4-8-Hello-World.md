@@ -57,6 +57,20 @@ function word_count(str) {
       return(a.length)
 }
 ```
+Return an array whose element of array fall between and include start to end values
+
+```
+function arrayInterval(array, start, end) {
+  var arr = []
+  for (var i = 0; i < array.length; i++){
+    if ((array[i] >= start) && (array[i] <= end)){
+      arr.push(array[i])
+    }
+  }
+  return arr
+}
+```
+
 
 ## 4/12/17
 
