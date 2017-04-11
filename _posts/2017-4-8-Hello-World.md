@@ -7,13 +7,14 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- 4/10/17
+## 4/10/17
 
 - Set up Blog with Liz via online chat
 - Forked template, configured Git
 - Updated file in markdown and see if blog works
 
-- 4/11/17
+## 4/11/17
+
 - Solved a Kata:
   Given an array of numbers,
   sort them in such a manner that all the odd numbers are sorted in ascending order
@@ -49,27 +50,27 @@ function sortItOut(array){
 
 - Two
 
-- 4/12/17
+## 4/12/17
 
 - One
 - Two
 
-- 4/13/17
+## 4/13/17
 
 - One
 - Two
 
-- 4/14/17 
+## 4/14/17 
 
 - One
 - Two
 
-- 4/15/17 
+## 4/15/17 
 
 - One
 - Two
 
-- 4/16/17
+## 4/16/17
 
 ## Questions:
 
