@@ -22,7 +22,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
   
   Here is my solution:
   
-  function sortItOut(array){
+  '''function sortItOut(array){
         // I made two arrays
         var odd = []
         var even = []
@@ -44,7 +44,7 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
         // concat both lists and reverse the even while doing so
         return(odd.concat(even.reverse()) )
 }
-
+'''
 
 - Two
 
