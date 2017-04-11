@@ -49,7 +49,8 @@ function sortItOut(array){
 }
 ```
 
-- Count the number of words in a sentence
+
+Count the number of words in a sentence
 ```
 function word_count(str) {
       var a = str.split(/[ ,]+/);
