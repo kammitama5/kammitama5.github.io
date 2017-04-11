@@ -15,7 +15,8 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## 4/11/17
 
-- Solved a Kata:
+- Solved some katas:
+
   Given an array of numbers,
   sort them in such a manner that all the odd numbers are sorted in ascending order
   and the even are sorted in descending. If array contains decimals,
@@ -48,7 +49,13 @@ function sortItOut(array){
 }
 ```
 
-- Two
+- Count the number of words in a sentence
+```
+function word_count(str) {
+      var a = str.split(/[ ,]+/);
+      return(a.length)
+}
+```
 
 ## 4/12/17
 
