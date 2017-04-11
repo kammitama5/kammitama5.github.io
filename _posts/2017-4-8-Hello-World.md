@@ -14,7 +14,38 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 - Updated file in markdown and see if blog works
 
 - 4/11/17
-- One
+- Solved a Kata:
+  Given an array of numbers,
+  sort them in such a manner that all the odd numbers are sorted in ascending order
+  and the even are sorted in descending. If array contains decimals,
+  round them down while checking for odd/even.
+  
+  Here is my solution:
+  
+  function sortItOut(array){
+        // I made two arrays
+        var odd = []
+        var even = []
+        //Looped through the entire array -> array
+        for (var i = 0; i < array.length; i++){
+        //if values are even, round them down and push them to even array
+          if (Math.floor(array[i]) % 2 === 0){
+            even.push(array[i])
+          }
+          // if they're odd, push to odd array
+          else{
+            odd.push(array[i])
+          }
+        }
+        // double check they are sorted properly (JS needs to be sorted by integer, not string)
+        even=even.sort((a,b)=>a-b);
+        odd =odd.sort((a,b)=>a-b);
+        
+        // concat both lists and reverse the even while doing so
+        return(odd.concat(even.reverse()) )
+}
+
+
 - Two
 
 - 4/12/17
