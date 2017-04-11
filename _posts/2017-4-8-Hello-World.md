@@ -7,8 +7,37 @@ This is my first blog post made with Jekyll! Woohoo! In this first post, I'll sh
 
 ## Today I learned (#TIL):
 
-- ...thing 1
-- ...thing 2
+- 4/10/17
+
+- Set up Blog with Liz via online chat
+- Forked template, configured Git
+- Updated file in markdown and see if blog works
+
+- 4/11/17
+- One
+- Two
+
+- 4/12/17
+
+- One
+- Two
+
+- 4/13/17
+
+- One
+- Two
+
+- 4/14/17 
+
+- One
+- Two
+
+- 4/15/17 
+
+- One
+- Two
+
+- 4/16/17
 
 ## Questions:
 
