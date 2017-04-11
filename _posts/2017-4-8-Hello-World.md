@@ -61,16 +61,20 @@ Return an array whose element of array fall between and include start to end val
 
 ```
 function arrayInterval(array, start, end) {
-//pushing to arr which is currently empty
+
+  //pushing to arr which is currently empty
   var arr = []
+  
   // loop through given array, checking if values 
   // are part of and included in start to finish values
+  
   for (var i = 0; i < array.length; i++){
     if ((array[i] >= start) && (array[i] <= end)){
     //push to new array if satisfy values
       arr.push(array[i])
     }
   }
+  
   // return newly filled array
   return arr
 }
