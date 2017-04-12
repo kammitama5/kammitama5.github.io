@@ -79,9 +79,11 @@ function arrayInterval(array, start, end) {
   return arr
 }
 ```
--Directed Acrylic Graphs -> Topological Sorting
--planning to research and learn about Grothendieck to be caught up for LambdaConf/ Haskell talk
--Matlab EdX course begins today on producing logically sound programmes
+- Directed Acrylic Graphs -> Topological Sorting
+
+- planning to research and learn about Grothendieck to be caught up for LambdaConf/ Haskell talk
+
+- Matlab EdX course begins today on producing logically sound programmes
 
 
 ## 4/12/17
