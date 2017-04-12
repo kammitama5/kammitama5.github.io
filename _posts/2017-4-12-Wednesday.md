@@ -1,8 +1,6 @@
+## 4/12/17
 
 ## Today I learned:
-
-- Wednesday
-- 4/12/17
 
 - Working on C++ lab -> Linked List implementation (not due until 4/ 18)
 
