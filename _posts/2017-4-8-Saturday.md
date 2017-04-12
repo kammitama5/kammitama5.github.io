@@ -1,9 +1,6 @@
-
-
-
 ## 4/10/17
 
-- Monday
+Monday
 
 Personal: 
 
