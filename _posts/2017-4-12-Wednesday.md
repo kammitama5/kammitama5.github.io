@@ -16,15 +16,17 @@ It's about thinking computationally and using logic to parse sentences.
 
 - Logical statements can be simple propositions or they can be formed from operations on simple statements.
 
-1. Negation:  !, NOT.
+- Negation:  !, NOT.
 
-2. Conjunction: &&, AND. 
+- Conjunction: &&, AND. 
 
-3. Disjunction:  ||, OR. 
+- Disjunction: ||, OR. 
 
-4. Implication:  => if...then.
+- Implication:  => if...then.
 
-5. Equivalence:  <=> iff (if and only if).
+- Equivalence:  <=> iff (if and only if).
+
+================================================
 
 - If a predicate is always True, it is known as a *tautology*.
 
