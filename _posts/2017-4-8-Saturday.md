@@ -6,9 +6,11 @@
 - Monday
 
 Personal: 
-- Came back from BayHac. I am exhausted, and sick. 
-- Had a lot of fun and learned a lot. Specifically, the most interesting to me
-- were topics on:
+
+Came back from BayHac. I am exhausted, and sick. 
+Had a lot of fun and learned a lot. Specifically, the most interesting to me
+were topics on:
+
 - -Adjunctions
 - -Tensorflow Integration with Haskell API
 - -Free Monads
