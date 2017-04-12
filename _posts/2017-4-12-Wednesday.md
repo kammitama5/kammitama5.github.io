@@ -1,7 +1,8 @@
 
 ## Today I learned:
 
-## 4/12/17
+- Wednesday
+- 4/12/17
 
 - Working on C++ lab -> Linked List implementation (not due until 4/ 18)
 
