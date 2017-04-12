@@ -21,6 +21,10 @@ It's about thinking computationally and using logic to parse sentences.
 4. Implication => if...then
 5. Equivalence <=> iff (if and only if)
 
+- If a predicate is always True, it is known as a *tautology*.
+- If it is always False, it is called a *contradiction*.
+- If it is sometimes True and sometimes False, it is known as a *contingency*.
+
 =================================================
 
 ## Things to get done:
