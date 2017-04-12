@@ -18,7 +18,7 @@ It's about thinking computationally and using logic to parse sentences.
 
 1. Negation !, NOT
 
-2. Conjunction &&, AND
+2. Conjunction &&, AND 
 
 3. Disjunction ||, OR
 
