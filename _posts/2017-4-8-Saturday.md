@@ -5,7 +5,7 @@
 
 - Monday
 
-- Personal: 
+Personal: 
 - Came back from BayHac. I am exhausted, and sick. 
 - Had a lot of fun and learned a lot. Specifically, the most interesting to me
 - were topics on:
@@ -16,7 +16,7 @@
 - I may have a mentor in mind
 
 
-- Things completed: 
+Things completed: 
 
 - Set up Blog with Liz via online chat
 - Forked template, configured Git
