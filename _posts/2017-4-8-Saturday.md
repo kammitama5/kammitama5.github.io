@@ -2,6 +2,9 @@
 
 Monday
 
+## 4/10/17
+
+
 Personal: 
 
 Came back from BayHac. I am exhausted, and sick. 
