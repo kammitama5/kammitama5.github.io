@@ -11,7 +11,11 @@
 
 
 ================================================
+- Injective (one-to-one) : map by *at most one element*
 
+- Surjective (onto) : map by *at least one*
+
+- Bijective (one-to-one and onto) : map by *exactly one*
 
 =================================================
 
