@@ -25,24 +25,24 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 
 =========================================
-* 1. Both x and y are positive.*
+* Both x and y are positive.*
 
 -  p AND q 
 
 =========================================
 
-* 2. Either x or y is positive.*
+* Either x or y is positive.*
 
 -    p OR q 
 
 =========================================
 
-* 3. x is positive but y is not.*
+*  x is positive but y is not.*
 
 -    p OR (not q)
 =========================================
 
-* 4. Either x or y but not both are positive.*
+*  Either x or y but not both are positive.*
 
 -    (p OR q) AND (not(p AND q))
 
@@ -50,38 +50,38 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 =========================================
 
-* 5. x is not positive and y is not positive. *
+*  x is not positive and y is not positive. *
 
 - (not p) AND (not q)
 
 =========================================
 
-* 6. At least one of x and y is not positive. * 
+*  At least one of x and y is not positive. * 
 
 -    (not(p AND q))
 
 -    (not p) OR (not q)
 
 =========================================
-* 7. Neither x nor y is positive.*
+*  Neither x nor y is positive.*
 
 -    (not p) AND (not q)
 
 =========================================
 
-* 8. It is not the case that both x and y are positive.*
+*  It is not the case that both x and y are positive.*
 
 -    (not(p AND q))
 
 =========================================
 
-* 9. Both x and y are not positive. *
+*  Both x and y are not positive. *
 
 -    Not clear 
 
 =========================================
 
-* 10. If x is positive then y is positive. *
+*  If x is positive then y is positive. *
 
 -     p => q 
 
@@ -105,3 +105,7 @@ ability to fluently read mathematical notation, which is fantastic.
 - This is an interesting book to look at -> Zariski Geometries: Geometry from the Logician's Point of View (Boris Zilber).
 
 - Also, Saturated Model Theory -> by Gerald E. Sacks, which talks about "Saturated Bubbles" in Model Theory/ MT in general
+
+## Bugs
+
+- Formatting errors abound in this template. Numbers not printing, indentation and spacing is off. Had a similar issue with yesterday's   post. 
