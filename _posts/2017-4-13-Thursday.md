@@ -190,4 +190,4 @@ ability to fluently read mathematical notation, which is fantastic.
 ## Bugs
 
 - Formatting errors abound in this template. Numbers not printing, indentation and spacing is off. Had a similar issue with yesterday's   post. 
-- My markdown table renders beautifully in Github md format, but doesn't in the actual blog. :(
+- My markdown table renders beautifully in Github md format, but doesn't in the actual blog. Right now, LaTeX > Markdown :(
