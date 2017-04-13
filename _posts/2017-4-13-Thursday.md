@@ -26,4 +26,5 @@ ability to fluently read mathematical notation, which is fantastic.
 ## Other notes: 
 
 - Today I meet up with my Mathematician/ numerical computation friend. He usually helps with my understanding, so it's good to come to him with questions.
+
 - This is an interesting book to look at -> Zariski Geometries: Geometry from the Logician's Point of View (Boris Zilber).
