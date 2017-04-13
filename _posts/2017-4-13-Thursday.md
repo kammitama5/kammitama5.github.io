@@ -3,6 +3,7 @@
 ## Today I learned:
 
 - Starting to get a bit of intuition for Grothendieck. I particularly like this quote by Taylor Dupuy's Math Vlog:
+
 "if you have a covering and you cover the covering, (that) the covers of the covering give you a covering" :)
 
 - However, Zariski sites are a bit of a mystery. I'm learning
