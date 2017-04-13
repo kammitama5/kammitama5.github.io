@@ -5,10 +5,11 @@ permalink: /about/
 ---
 
 I'm a functional programming and Category theory junkie. Excited to learn a bit about Web Development, too.
+Also a book junkie. Love Hackerspaces, puzzles and making.  
 
 ### More Information
 
-I'm mostly located in California, but get around to the other states, too. Started out in NY. 
+Started out in New York, mostly in California, but get around to the other states, too. 
 
 ### Contact me
 
