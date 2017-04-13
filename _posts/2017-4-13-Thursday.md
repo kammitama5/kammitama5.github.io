@@ -141,6 +141,33 @@ Evaluate T OR (not T) OR F => T OR (not T) <=> T => F.
 
 =========================================
 
+## Homework 1.2.5.1 
+
+
+Complete the following truth table: (Enter T or F in each field)
+
+
+=========================================
+## Answers: 
+
+|E1   | E2  | E1 AND E2  | E2 AND E1  |  E2 AND E1 <=> E2 AND E1 |   
+|-----|-----|------------|------------|--------------------------|
+| T   |  T  | T          | T          |T                         |
+| T   |  F  | F          | F          |T                         |
+| F   |  T  | F          | F          |T                         |
+| F   |  F  | F          | F          |T                         |
+
+=========================================
+
+|p   | q  | p AND q | p AND q => q |   
+|----|----|---------|--------------|
+| T  |  T | T       | T            |
+| T  |  F | F       | T            |
+| F  |  T | F       | T            |
+| F  |  F | F       | T            |
+
+=========================================
+
 
 ## Things to get done:
 
