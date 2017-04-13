@@ -95,6 +95,51 @@ If x is positive then y is positive.
 
 ======================================================
 
+
+## Homework 1.2.4.1 
+
+
+Let p = F, q = F, and r = F. 
+
+
+=========================================
+## Answers: 
+
+p AND q => r
+
+-  True 
+
+=========================================
+
+(p AND q) => r 
+
+- True 
+
+=========================================
+
+p AND (q => r)
+
+- False 
+
+=========================================
+
+Evaluate T OR (not T) OR F => T OR (not T) <=> T => F.
+
+- >>  True 
+
+- >> Basically T OR F AND F => T OR F <=> T  => F
+
+- >> T OR F AND F => T AND F <=> T => F
+
+- >> T OR T => F <=> F 
+
+- >> T => T
+
+- >> = T
+
+=========================================
+
+
 ## Things to get done:
 
 - See if prof opens up quiz so I can take it. C++, that is. 
