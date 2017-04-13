@@ -18,6 +18,56 @@
 - Bijective (one-to-one and onto) : map by *exactly one*
 
 =================================================
+Homework 1.2.3.1 
+
+Let x and y be variables that take on integer values. Let p be the staement that x is positive and q be the statement that y is positive. Determine the symbolic statements for the following predicates described using English. Mark all that are appropriate.
+
+1. Both x and y are positive.
+
+-  p AND q 
+
+2. Either x or y is positive.
+
+- p OR q 
+
+3. x is positive but y is not.
+
+- p OR (not q)
+
+4. Either x or y but not both are positive.
+
+- (p OR q) AND (not(p AND q))
+
+- (p AND (not q)) OR ((not p) AND q)
+
+5. x is not positive and y is not positive.
+
+- (not p) AND (not q)
+
+6. At least one of x and y is not positive. 
+
+- (not(p AND q))
+
+- (not p) OR (not q)
+
+7. Neither x nor y is positive.
+
+- (not p) AND (not q)
+
+8. It is not the case that both x and y are positive.
+
+- (not(p AND q))
+
+9. Both x and y are not positive.
+
+- Not clear 
+
+10. If x is positive then y is positive.
+
+- p => q 
+
+
+======================================================
 
 ## Things to get done:
 
