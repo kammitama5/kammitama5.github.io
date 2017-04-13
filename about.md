@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a functional programming and Category theory junkie. Excited to learn a bit about Web Development, too.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm mostly located in California, but get around to the other states, too. Started out in NY. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[krystal.maughan@gmail.com](mailto:email@domain.com)
