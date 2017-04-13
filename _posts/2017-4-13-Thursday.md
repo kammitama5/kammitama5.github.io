@@ -25,6 +25,8 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 
 =========================================
+## Answers: 
+
 Both x and y are positive.
 
 -  p AND q 
