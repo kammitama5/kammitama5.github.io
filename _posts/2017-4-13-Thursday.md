@@ -25,24 +25,24 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 
 =========================================
-* Both x and y are positive.*
+Both x and y are positive.
 
 -  p AND q 
 
 =========================================
 
-* Either x or y is positive.*
+Either x or y is positive.
 
 -    p OR q 
 
 =========================================
 
-*  x is positive but y is not.*
+x is positive but y is not.
 
 -    p OR (not q)
 =========================================
 
-*  Either x or y but not both are positive.*
+Either x or y but not both are positive.
 
 -    (p OR q) AND (not(p AND q))
 
@@ -50,38 +50,38 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 =========================================
 
-*  x is not positive and y is not positive. *
+x is not positive and y is not positive.
 
 - (not p) AND (not q)
 
 =========================================
 
-*  At least one of x and y is not positive. * 
+At least one of x and y is not positive.  
 
 -    (not(p AND q))
 
 -    (not p) OR (not q)
 
 =========================================
-*  Neither x nor y is positive.*
+Neither x nor y is positive.
 
 -    (not p) AND (not q)
 
 =========================================
 
-*  It is not the case that both x and y are positive.*
+It is not the case that both x and y are positive.
 
 -    (not(p AND q))
 
 =========================================
 
-*  Both x and y are not positive. *
+Both x and y are not positive. 
 
 -    Not clear 
 
 =========================================
 
-*  If x is positive then y is positive. *
+If x is positive then y is positive. 
 
 -     p => q 
 
