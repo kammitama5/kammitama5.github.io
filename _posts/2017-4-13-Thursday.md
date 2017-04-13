@@ -41,7 +41,9 @@ Either x or y is positive.
 
 x is positive but y is not.
 
+
 -    p OR (not q)
+
 =========================================
 
 Either x or y but not both are positive.
@@ -65,6 +67,7 @@ At least one of x and y is not positive.
 -    (not p) OR (not q)
 
 =========================================
+
 Neither x nor y is positive.
 
 -    (not p) AND (not q)
