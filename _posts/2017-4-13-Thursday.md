@@ -125,7 +125,7 @@ p AND (q => r)
 
 Evaluate T OR (not T) OR F => T OR (not T) <=> T => F.
 
-- >>  True 
+- True 
 
 ## Basically :
 
