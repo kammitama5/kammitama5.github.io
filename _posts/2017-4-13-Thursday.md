@@ -23,24 +23,24 @@ Homework 1.2.3.1
 Let x and y be variables that take on integer values. Let p be the staement that x is positive and q be the statement that y is positive. Determine the symbolic statements for the following predicates described using English. Mark all that are appropriate.
 
 =========================================
-## Both x and y are positive.
+* 1. Both x and y are positive.*
 
 -  p AND q 
 
 =========================================
 
-## Either x or y is positive.
+* 2. Either x or y is positive.*
 
 - p OR q 
 
 =========================================
 
-## x is positive but y is not.
+* 3. x is positive but y is not.*
 
 - p OR (not q)
 =========================================
 
-## Either x or y but not both are positive.
+* 4. Either x or y but not both are positive.*
 
 - (p OR q) AND (not(p AND q))
 
@@ -48,38 +48,38 @@ Let x and y be variables that take on integer values. Let p be the staement that
 
 =========================================
 
-## x is not positive and y is not positive.
+* 5. x is not positive and y is not positive. *
 
 - (not p) AND (not q)
 
 =========================================
 
-## At least one of x and y is not positive. 
+* 6. At least one of x and y is not positive. * 
 
 - (not(p AND q))
 
 - (not p) OR (not q)
 
 =========================================
-## Neither x nor y is positive.
+* 7. Neither x nor y is positive.*
 
 - (not p) AND (not q)
 
 =========================================
 
-## It is not the case that both x and y are positive.
+* 8. It is not the case that both x and y are positive.*
 
 - (not(p AND q))
 
 =========================================
 
-## Both x and y are not positive.
+* 9. Both x and y are not positive. *
 
 - Not clear 
 
 =========================================
 
-## If x is positive then y is positive.
+* 10. If x is positive then y is positive. *
 
 - p => q 
 
