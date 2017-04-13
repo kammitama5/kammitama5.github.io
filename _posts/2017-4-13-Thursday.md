@@ -22,7 +22,7 @@
 ## Homework 1.2.3.1 
 
 
-Let x and y be variables that take on integer values. Let p be the staement that x is positive and q be the statement that y is positive. Determine the symbolic statements for the following predicates described using English. Mark all that are appropriate.
+Let x and y be variables that take on integer values. Let p be the statement that x is positive and q be the statement that y is positive. Determine the symbolic statements for the following predicates described using English. Mark all that are appropriate.
 
 
 
