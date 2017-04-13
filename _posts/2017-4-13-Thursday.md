@@ -127,7 +127,9 @@ Evaluate T OR (not T) OR F => T OR (not T) <=> T => F.
 
 - >>  True 
 
-- >> Basically T OR F AND F => T OR F <=> T  => F
+## Basically :
+
+- >> T OR F AND F => T OR F <=> T  => F
 
 - >> T OR F AND F => T AND F <=> T => F
 
