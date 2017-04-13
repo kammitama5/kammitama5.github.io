@@ -2,9 +2,10 @@
 
 ## Today I learned:
 
-- Starting to get a bit of intuition for Grothendieck. I particularly like this quote by Taylor Dupuy's Math Vlog:
+- Starting to get a bit of intuition for Grothendieck (usually denoted by Tau). I particularly like this quote by Taylor Dupuy's Math Vlog:
 
 *"if you have a covering and you cover the covering, (that) the covers of the covering give you a covering" :)*
+
 
 - However, Zariski sites are a bit of a mystery. I'm learning
 
@@ -29,3 +30,5 @@ ability to fluently read mathematical notation, which is fantastic.
 - Today I meet up with my Mathematician/ numerical computation friend. He usually helps with my understanding, so it's good to come to him with questions.
 
 - This is an interesting book to look at -> Zariski Geometries: Geometry from the Logician's Point of View (Boris Zilber).
+
+- Also, Saturated Model Theory -> by Gerald E. Sacks, which talks about "Saturated Bubbles" in Model Theory/ MT in general
