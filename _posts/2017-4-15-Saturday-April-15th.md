@@ -80,9 +80,9 @@ factorialize(5) // prints [120]
 
 ```
 
-Notes -> Functions in functions.
+## Notes -> Functions in functions.
 
-A neat example of nesting :
+- A neat example of nesting :
 
 ```
 /* 1. hello world
