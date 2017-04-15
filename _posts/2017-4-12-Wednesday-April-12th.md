@@ -6,9 +6,16 @@
 
 - Started learning how to properly write LaTeX. I've written a bit before on my own, but very sloppily. Writing great LaTeX is very important to me, based on my interests and my mentors. It's one of the skills I'd love to learn over the course of my life, and a tool and a mindset that I think will make me a better programmer in general.
 
-Sloppy LaTeX :)
+## Sloppy LaTeX :)
 
 ![latex](/images/latex.png) 
+
+
+This is from a course I taught myself several months ago. 
+
+
+
+
 
 - Learned about the origins of LaTeX from a great video interviewing Leslie Lamport. He is a 2013 Turing Award winner and spent many years at Microsoft.
 
