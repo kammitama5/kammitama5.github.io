@@ -1,4 +1,4 @@
-## 4/10/17
+## 4/10/17 - Return from BayHac
 
 
 Personal: 
