@@ -1,4 +1,4 @@
-## 4/12/17
+## 4/12/17 - Boolean Operators and Programming for Correctness
 
 ## Today I learned:
 
