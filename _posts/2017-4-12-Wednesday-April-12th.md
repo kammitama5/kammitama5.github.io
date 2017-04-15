@@ -11,7 +11,7 @@
 ![latex](/images/latex.png) 
 
 
-This is from a course I taught myself several months ago. 
+This is from a course. I taught myself LaTeX several months ago to make notes for this course. 
 
 
 
