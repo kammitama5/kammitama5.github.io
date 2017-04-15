@@ -21,7 +21,7 @@
 - I did one scenario that finds all the factors, and another which prints n!
 
 
-- Find factors (for-loop solution)
+## Find factors (for-loop solution)
 
 ```
 
@@ -45,7 +45,7 @@ factors(10) // prints [1, 2, 5, 10]
 
 ```
 
-- Factorialize (for-loop solution)
+## Factorialize (for-loop solution)
 
 ```
 
@@ -61,7 +61,7 @@ function factorialize(num){
 factorialize(5) // prints [120]
 
 ```
-- Factorialize (recursive solution) 
+## Factorialize (recursive solution) 
 
 ```
 function factorialize(num){
