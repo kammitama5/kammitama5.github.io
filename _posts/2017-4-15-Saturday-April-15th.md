@@ -80,6 +80,50 @@ factorialize(5) // prints [120]
 
 ```
 
+Notes -> Functions in functions.
+
+A neat example of nesting :
+
+```
+/* 1. hello world
+Define a function called sayHello that takes no input
+parameters and returns as output a string 
+that says hello to the world
+*/
+function sayHello(){
+  return "Hello world"
+}
+
+sayHello()
+
+/*2.  makeHeading 
+Define a function makeHeading that takes one parparameter
+surrounds it inside <h1> and </h1> and returns
+the combination as its output
+*/
+
+function makeHeading(heading)
+{
+  return "<h1>"+heading+"</h1>"
+}
+makeHeading("Hi")
+
+/*3. sayHello greeting
+Call the saHello function and save its output in a new var
+called greeting 
+*/
+var greeting = sayHello();
+
+
+/*4. Call the makeHeading function, passing it your 
+greeting variable as an argument, and save its output 
+in greeting 
+*/
+greeting = makeHeading(greeting);
+
+console.log(greeting) // returns <h1>Hello world</h1>
+
+```
 
 
 ## Bugs
