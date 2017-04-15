@@ -1,4 +1,4 @@
-## 4/13/17
+## 4/13/17 - Zariski and Table Troubles 
 
 ## Today I learned:
 
