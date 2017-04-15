@@ -5,6 +5,8 @@
 - FreeCodeCamp factorialize question.
 - I did one scenario that finds all the factors, and another which prints n!
 
+` find factors 
+
 ```
 
 function factors(num){
@@ -27,6 +29,8 @@ factors(10) // prints [1, 2, 5, 10]
 
 ```
 
+- for loop solution
+
 ```
 
 function factorialize(num){
@@ -41,7 +45,24 @@ function factorialize(num){
 factorialize(5) // prints [120]
 
 ```
+- recursive solution 
 
+```
+function factorialize(num){
+  //recursive solution
+  var fact = 1;
+  
+  if (num == 1){
+    return 1
+  }
+  else{
+    return num * factorialize(num - 1)
+  }
+}
+
+factorialize(5) // prints [120]
+
+```
 
 
 
