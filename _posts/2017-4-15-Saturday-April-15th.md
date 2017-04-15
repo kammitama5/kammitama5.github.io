@@ -2,10 +2,13 @@
 
 ## Today I learned:
 
+
 - FreeCodeCamp factorialize question.
+
 - I did one scenario that finds all the factors, and another which prints n!
 
-- Find factors 
+
+- Find factors (for-loop solutino)
 
 ```
 
@@ -29,7 +32,7 @@ factors(10) // prints [1, 2, 5, 10]
 
 ```
 
-- for loop solution
+- Factorialize (for-loop solution)
 
 ```
 
@@ -45,7 +48,7 @@ function factorialize(num){
 factorialize(5) // prints [120]
 
 ```
-- recursive solution 
+- Factorialize (recursive solution) 
 
 ```
 function factorialize(num){
