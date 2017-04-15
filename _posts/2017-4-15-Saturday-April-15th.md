@@ -3,10 +3,11 @@
 ## Today I learned:
 
 - FreeCodeCamp factorialize question.
+- I did one scenario that finds all the factors, and another which prints n!
 
 ```
 
-function factorialize(num){
+function factors(num){
 //empty array
   arr = []
   // loop through values from 1 to the number inclusive
@@ -21,8 +22,23 @@ function factorialize(num){
   return arr
 }
 
-factorialize(5) // prints [1, 5]
-factorialize(10) // prints [1, 2, 5, 10]
+factors(5) // prints [1, 5]
+factors(10) // prints [1, 2, 5, 10]
+
+```
+
+```
+
+function factorialize(num){
+  var fact = 1;
+  for (var i = 1; i <= num; i++){
+    fact = fact * i
+  }
+  console.log(fact)
+  return fact
+}
+
+factorialize(5) // prints [120]
 
 ```
 
