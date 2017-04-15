@@ -97,7 +97,7 @@ function sayHello(){
 sayHello()
 
 /*2.  makeHeading 
-Define a function makeHeading that takes one parparameter
+Define a function makeHeading that takes one parameter
 surrounds it inside <h1> and </h1> and returns
 the combination as its output
 */
@@ -109,7 +109,7 @@ function makeHeading(heading)
 makeHeading("Hi")
 
 /*3. sayHello greeting
-Call the saHello function and save its output in a new var
+Call the sayHello function and save its output in a new var
 called greeting 
 */
 var greeting = sayHello();
