@@ -8,7 +8,7 @@
 - I did one scenario that finds all the factors, and another which prints n!
 
 
-- Find factors (for-loop solutino)
+- Find factors (for-loop solution)
 
 ```
 
