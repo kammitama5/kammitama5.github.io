@@ -3,6 +3,13 @@
 
 ## Personal: 
 
+
+- BayHac :). 
+
+![Map in tattoo](/images/tat.png)
+
+- So...this happened at BayHac. It's a Map function in Haskell!
+
 Came back from BayHac. I am exhausted, and sick. 
 Had a lot of fun and learned a lot. Specifically, the most interesting to me
 were topics on:
