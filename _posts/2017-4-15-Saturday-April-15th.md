@@ -5,7 +5,7 @@
 - FreeCodeCamp factorialize question.
 - I did one scenario that finds all the factors, and another which prints n!
 
-` find factors 
+- Find factors 
 
 ```
 
