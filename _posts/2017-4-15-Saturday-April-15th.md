@@ -1,4 +1,17 @@
-## 4/15/17 - Session 2 -> Node JS
+## 4/15/17 - Session 2 -> Functions n' Stuff
+
+
+## Things to get done:
+
+- C++ quiz -> will be done today.
+
+- C++ discussion. Basically, something about Linked Lists and Palindromes. Will be completed today. 
+
+- Lab #3 for C++ -> due on the 18th...working on.
+
+- Continue with Matlab/ Logic for course. 
+
+- Got up early this morning (5: 38am) and was able to get laundry done and clean my apartment. Also had to post a t-shirt to my friend, Michael, along with some stickers (yes, they are related to Haskell) :) Had to be organized because I have a pretty tight schedule today, and I want to get everything done. Tomorrow is Easter, and I will be spending time mostly with a friend and her family, so I may not have that much time to spare to just focus solely on programming. 
 
 ## Today I learned:
 
