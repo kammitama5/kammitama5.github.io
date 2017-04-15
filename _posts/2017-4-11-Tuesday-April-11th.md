@@ -1,4 +1,4 @@
-## 4/11/17
+## 4/11/17 - Katas, Grothendieck and Matlab
 
 
 Personal: 
