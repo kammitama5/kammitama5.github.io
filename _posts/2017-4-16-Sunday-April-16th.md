@@ -37,8 +37,8 @@ I was reading about Manacher's Algorithm today. It's pretty interesting. It had 
 
 ![Solving Palindromic Substrings](/images/palpic.png)
 
-Imagine a word that is odd or even. How would we check recursively that it' a palindrome? I'm checking by dividing the word (depending on odd or even) into two and checking either side, walking down the length of the word, comparing either side. 
-I have another one with marker on it, but that's for another day. 
+Imagine a word that is odd or even. How would we check recursively that it is a palindrome? I'm checking by dividing the word (depending on odd or even) into two and checking either side, walking down the length of the word, comparing either side. 
+I have another one example of my thought-process with marker on it, but that's for another day. 
 
 
 ## Easter 
