@@ -4,7 +4,7 @@
 
 - I actually spent until 1 this morning looking at Lisp NYC's "Lambda Equivalence" talk by Jay Sulzberger. It's really fascinating, even though some parts are hard to follow. However, I was able to understand a good portion of it! He even did talk about alpha and beta reduction, which is amazing! 
 
-Other things he talks about that in which I'm highly interested in learning more about:
+Other things he talks about in which I'm highly interested in learning more about:
 
 - Abelian groups
 
@@ -16,7 +16,7 @@ Other things he talks about that in which I'm highly interested in learning more
 
 - Meta-calculus
 
-- Mu-Recursive functions 
+- Mu-Recursive functions -> See Ackermann's function
 
 - Reverse Beta-reduction 
 
