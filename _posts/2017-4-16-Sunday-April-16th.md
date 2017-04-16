@@ -1,4 +1,4 @@
-## 4/14/17 - Lambda Equivalence and Manacher's Algo
+## 4/16/17 - Lambda Equivalence and Manacher's Algo
 
 ## Happy Easter:
 
