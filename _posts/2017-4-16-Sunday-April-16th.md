@@ -1,4 +1,4 @@
-## 4/14/17 - Lambda Calculators <=> to the Moon and Back
+## 4/14/17 - Lambda Equivalence and Manacher's Algo
 
 ## Happy Easter:
 
@@ -32,6 +32,8 @@ Other things he talks about that in which I'm highly interested in learning more
 Having just started exploring equivalence through the course on Correctness helped a lot! He also spoke about things that don't seem to make much sense (I call them currently un-intuitive to me), such as implications. I thoroughly enjoyed his talk, and he is quite the character! 
 
 ## Solving palindromic substrings
+
+I was reading about Manacher's Algorithm today. It's pretty interesting. It had me thinking about ways to find palindromic substrings....
 
 ![Solving Palindromic Substrings](/images/palpic.png)
 
