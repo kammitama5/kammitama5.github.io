@@ -63,3 +63,11 @@ And this is what it looks like.
 
 ![latex_translate](/images/1.png)
 
+
+## Things I learned about 
+
+- International Conference on Functional Programming (ICFP). Looks interesting. Maybe one year I can attend. 
+
+
+
+
