@@ -12,6 +12,8 @@
 ## LambdaConf :)
 
   ![lambdaconfphoto](images/lambdaconf.png)
+  ==========================================
+  
   photo courtesy of the Fantasyland Institute 
   
   
