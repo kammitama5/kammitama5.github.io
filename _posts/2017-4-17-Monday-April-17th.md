@@ -16,7 +16,7 @@
   
   ==========================================
   
-  photo courtesy of the Fantasyland Institute 
+  photo courtesy of the **Fantasyland Institute**
   
   ==========================================
   
