@@ -11,7 +11,7 @@
   
 ## LambdaConf :)
 
-  ![lambdaconfphoto](/images/lambdaconf.png =100x)
+  ![lambdaconfphoto](/images/lambdaconf.png){:height="36px" width="36px"}
   ==========================================
   
   photo courtesy of the Fantasyland Institute 
