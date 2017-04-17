@@ -47,10 +47,10 @@ It's a really valuable to learn, particularly for preparing papers with scientif
 
 
 
-![latex](1_l.png)
+![latex](/images/1_l.png)
 
 ## Translation 
 
 And this is what it looks like
-![latex_translate](1.png)
+![latex_translate](/images/1.png)
 
