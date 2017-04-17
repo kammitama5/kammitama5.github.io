@@ -4,6 +4,23 @@
 
 - Completed quiz and discussion board for C++. Apparently only four of us did it by the deadline. Yikes. 
   Bear in mind there's an advanced version of this class. I wonder if there will just be two of us in that one! :)
+  
+- Also all booked for LambdaConf. I'm really excited; this will be my first year attending. 
+  The run-down is that I applied on a whim (while secretly hoping) to get a scholarship to attend this year, and I got one, out 
+  of five persons chosen. So I was psyched! 
+  
+## LambdaConf :)
+
+  ![lambdaconfphoto](images/lambdaconf.png)
+  photo courtesy of the Fantasyland Institute 
+  
+  
+  
+- I really really fit with those programmers and that group more than any other.
+  I'm not sure exactly why, but I'm excited to be around FP-ers 24/7 again :)
+  I've had a bit of depression since BayHac, and am trying to be more social with non-FP-ers in the dev community, but I can't say 
+  I'm enjoying it much. I really like the thought process, the wit and energy of the FP-community, and I've noticed that the only 
+  conferences that I seem to really, really enjoy attending are FP-ones. :)
 
 ## Things to be done:
 
