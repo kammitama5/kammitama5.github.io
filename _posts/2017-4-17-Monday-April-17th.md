@@ -16,7 +16,7 @@
   
   ==========================================
   
-  photo courtesy of the **Fantasyland Institute**
+  photo courtesy of the ![**Fantasyland Institute**] (http://lambdaconf.us/events/2017/scholarship/lcusc.html)
   
   ==========================================
   
