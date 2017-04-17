@@ -41,6 +41,7 @@ whatever("Cool Guy") // returns ['C', 'G']
 
 ## And some LaTeX for my Correctness course.
 
+
 If you've never seen LaTeX before, this is what it looks like.
 
 It's a really valuable to learn, particularly for preparing papers with scientific or mathematical notation.
@@ -49,8 +50,16 @@ It's a really valuable to learn, particularly for preparing papers with scientif
 
 ![latex](/images/1_l.png)
 
+
+
 ## Translation 
 
-And this is what it looks like
+
+
+
+And this is what it looks like. 
+
+
+
 ![latex_translate](/images/1.png)
 
