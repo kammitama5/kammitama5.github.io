@@ -1,5 +1,16 @@
 ## 4/17/17 - Post-Easter hangout
 
+
+## Today I learned
+
+- Bound vs free 
+
+- Bound -> tied to a specific set of values -> context specific
+
+## Questions / Concerns
+
+- I'd like a deeper understanding of Free Monads and Free in general in lambda calculus
+
 ## Completed:
 
 - Completed quiz and discussion board for C++. Apparently only four of us did it by the deadline. Yikes. 
