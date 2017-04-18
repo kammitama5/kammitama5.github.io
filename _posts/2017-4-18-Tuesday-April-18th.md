@@ -1,4 +1,4 @@
-## 4/17/17 - Post-Easter hangout
+## 4/18/17 - A Bit of Rest
 
 
 ## Today I learned
@@ -9,6 +9,8 @@
 - Look over some code for C++ and submit (hopefully) to my Lab
 
 - Do some more work on my Programming for Correctness work. I'm currently on Split ranges
+
+- Get some rest tonight, and be fresh to work on Homework 6 (due 4/23)
 
 
 ## A Kata Solved (note: this is in Python) :)
