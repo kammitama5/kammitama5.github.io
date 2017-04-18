@@ -12,12 +12,12 @@
 
 A few snippets of code 
 
-![C++ code](code1.png)
+![C++ code](/images/code1.png)
 
 
 Also, what my debugger looks like when the programme is run. 
 
-![debugger](debug.png)
+![debugger](/images/debug.png)
 
 
 ## Things to get done 
