@@ -64,6 +64,8 @@ Write a function that takes the value and returns the count of balls needed.
 
 The solution is an interesting one, based on a formula called "The Tetrahedral number" 
 
+![tetra formula](/images/tetra.png)
+
 [Tetrahedral number](https://en.wikipedia.org/wiki/Tetrahedral_number)
 
 also, check out another favourite site of mine, Math Stack Exchange:
