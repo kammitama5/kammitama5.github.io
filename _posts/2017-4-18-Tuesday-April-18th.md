@@ -62,6 +62,8 @@ if the edge of the tetrahedron consist of x balls?
 
 Write a function that takes the value and returns the count of balls needed.
 
+This is in Python, too (sorry) :)
+
 ```
 def count_balls(x):
     // the formula is :
