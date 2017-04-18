@@ -58,7 +58,7 @@ def factors(integer, limit):
 ## And now, another puzzle 
 
 How many balls would you need to assemble a regular tetrahedron,
-if the edge of the tetrahedron consist of x balls? 
+if the edge of the tetrahedron consists of x balls? 
 
 Write a function that takes the value and returns the count of balls needed.
 
