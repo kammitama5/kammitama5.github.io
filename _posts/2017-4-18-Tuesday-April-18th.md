@@ -16,7 +16,8 @@
 ## A Kata Solved (note: this is in Python) :)
 
 ```
-# In this Kata, you have to find the factors of integer down to the limit including the ilmiting number.
+# In this Kata, you have to find the factors of integer 
+# down to the limit including the ilmiting number.
 # If the limit is more than the integer, return an empty list
 
 def factors(integer, limit):
