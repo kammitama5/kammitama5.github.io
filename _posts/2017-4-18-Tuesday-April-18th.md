@@ -28,7 +28,8 @@ def factors(integer, limit):
       if limit > integer:
         return []
         
-        # else, find all the factors of the integer between the limit and the integer
+        # else, find all the factors of the integer 
+        # between the limit and the integer
         # push those factors to the empty array
       else:
         for i in range(limit, integer+1):
