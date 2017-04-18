@@ -83,6 +83,12 @@ def count_balls(x):
 
 ```
 
+## Side note
+
+I figured out how to re-write fractions and limits in LaTeX. Here is my code for generating the Tetrahedral formula
+
+![tetralatex](/images/tetralatex.png)
+
 
 
 
