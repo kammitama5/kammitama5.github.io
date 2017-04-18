@@ -10,7 +10,7 @@
   
 ## C++ homework done.
 
-A few snippets of code 
+A few snippets of code. I didn't include another three linked .h files here. Don't want people to copy, etc.
 
 ![C++ code](/images/code1.png)
 
