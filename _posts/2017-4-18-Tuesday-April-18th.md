@@ -3,6 +3,22 @@
 
 ## Today I learned
 
+- In C++, you can exit a programme gracefully by typing "return(0)".
+  Since you have int main() and it's looking for a return dig, you can insert it anywhere
+  to exit. Sort of like system.exit or whatever in other programmes.
+  
+  
+## C++ homework done.
+
+A few snippets of code 
+
+![C++ code](code1.png)
+
+
+Also, what my debugger looks like when the programme is run. 
+
+![debugger](debug.png)
+
 
 ## Things to get done 
 
