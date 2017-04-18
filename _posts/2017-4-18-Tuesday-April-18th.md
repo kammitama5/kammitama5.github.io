@@ -20,9 +20,15 @@
 # If the limit is more than the integer, return an empty list
 
 def factors(integer, limit):
-      arr = []
+      # make an empty list
+      arr = [] 
+      
+      # if limit exceeds integer, return an empty array 
       if limit > integer:
         return []
+        
+        # else, find all the factors of the integer between the limit and the integer
+        # push those factors to the empty array
       else:
         for i in range(limit, integer+1):
           if integer % i == 0:
