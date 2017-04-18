@@ -4,7 +4,7 @@
 ## Today I learned
 
 - In C++, you can exit a programme gracefully by typing "return(0)".
-  Since you have int main() and it's looking for a return dig, you can insert it anywhere
+  Since you have int main() and it's looking for a return int, you can insert it anywhere
   to exit. Sort of like system.exit or whatever in other programmes.
   
   
