@@ -78,7 +78,7 @@ whatever("Cool Guy") // returns ['C', 'G']
 
 If you've never seen LaTeX before, this is what it looks like.
 
-It's a really valuable to learn, particularly for preparing papers with scientific or mathematical notation.
+It's really valuable to learn, particularly for preparing papers with scientific or mathematical notation.
 
 
 
