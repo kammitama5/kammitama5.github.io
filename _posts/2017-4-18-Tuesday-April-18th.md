@@ -22,7 +22,7 @@ Also, what my debugger looks like when the programme is run.
 
 ## Things to get done 
 
-- Look over some code for C++ and submit (hopefully) to my Lab
+- Look over some code for C++ and submit (hopefully) to my Lab ---> done
 
 - Do some more work on my Programming for Correctness work. I'm currently on Split ranges
 
