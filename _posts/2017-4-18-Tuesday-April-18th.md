@@ -79,7 +79,7 @@ As for the solution, this is in Python, too (sorry) :)
 ```
 def count_balls(x):
     // the formula is :
-    return n * ((x + 1) * (x + 2)) / 6
+    return x * ((x + 1) * (x + 2)) / 6
 
 ```
 
