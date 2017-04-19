@@ -38,8 +38,9 @@ Hmm..good description :)
   but I never expect anything except good presentations and to meet
   good people and to strengthen my understanding / knowledge. 
   
-  Last year, I met a really cool game developer, who invited me to 
-  test out a few of some games she was working on in their 
+  Last year, I met a really cool game developer
+  named [Robin Hunicke](https://en.wikipedia.org/wiki/Robin_Hunicke),
+  who invited me to test out a few of some games she was working on in their 
   San Francisco office with various devices. That was really fun!
   
 ## Things to get done:
