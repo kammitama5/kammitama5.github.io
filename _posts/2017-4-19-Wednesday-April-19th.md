@@ -34,6 +34,10 @@ Hmm..good description :)
   but I never expect anything except good presentations and to meet
   good people and to strengthen my understanding / knowledge. 
   
+  Last year, I met a really cool game developer, who invited me to 
+  test out a few of some games she was working on in their 
+  San Francisco office with various devices. That was really fun!
+  
 ## Things to get done:
 
 - Getting started on Homework assignment 6 for C++ today. 
@@ -42,6 +46,8 @@ Hmm..good description :)
 - If I have time, I'll work on my logic course, but we'll see. 
 
 - I also need to rest. Stil have a cough, but getting better.
+
+
   
   
 
