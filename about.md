@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 ![beach](/images/beach.png){:height="300px" width="400px"}
@@ -19,7 +19,8 @@ permalink: /about/
 
 ### More Information
 
-Started out in New York, mostly in California, but get around to the other states, too. 
+Started out in New York, mostly in California, but get around to the other states, too.
+Trinidad -> New York -> California
 
 ### Contact me
 
