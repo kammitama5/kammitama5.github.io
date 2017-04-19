@@ -78,6 +78,11 @@ Bottom view of tetrahedron packed
 
 ![rhinotetrabottom](/images/rhinotetra1.png)
 
+* Btw I did these models in a 3D product/ architectural modelling programme I learned years ago called Rhino.
+* This software is also used by car designers and people in the movie industry. I learned it from 
+* two persons; one of whom was an Art Director, and the other, who was a car designer
+* (he designed grills for cars) for Honda.
+
 ![tetra formula](/images/latex2.png)
 
 [Tetrahedral number](https://en.wikipedia.org/wiki/Tetrahedral_number)
