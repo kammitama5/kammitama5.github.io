@@ -62,7 +62,21 @@ if the edge of the tetrahedron consists of x balls?
 
 Write a function that takes the value and returns the count of balls needed.
 
+![rhinotetra2](/images/rhinotetra2.png)
+
+
 The solution is an interesting one, based on a formula called "The Tetrahedral number" 
+
+## Here is a visualization of the problem 
+
+Side top view packed balls
+
+![rhinotetra](/images/rhinotetra.png)
+
+
+Bottom view of tetrahedron packed 
+
+![rhinotetrabottom](/images/rhinotetra1.png)
 
 ![tetra formula](/images/latex2.png)
 
