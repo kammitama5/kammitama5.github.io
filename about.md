@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![beach](/images/beach.png =300x)
+![beach](/images/beach.png) {width: 300px; }
 
 I'm a functional programming and Category theory junkie. Excited to learn a bit about Web Development, too.
 Also a book junkie. Love Hackerspaces, puzzles and making.  
