@@ -21,6 +21,8 @@ One of my friends just said casually ....
                
 
 Hmm..good description :)
+
+![Google IO_1](/images/io2.png) 
   
  - The only thing that made the situation a bit hairy is that I have class
   on Tuesday night that I definitely cannot miss (the subject matter is too
