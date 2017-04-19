@@ -68,8 +68,16 @@ Hmm..good description :)
 
 - I also need to rest. Stil have a cough, but getting better.
 
+## Homework done
 
-  
-  
+- This is from my Logic class 
+
+![latex1](/images/latex_001.png)
+![latex2](/images/latex_002.png)
+![latex3](/images/latex_003.png)
+![latex4](/images/latex_004.png)
+![latex5](/images/latex_005.png) 
+![latex6](/images/latex_006.png)
+![latex7](/images/latex_007.png)
 
 
