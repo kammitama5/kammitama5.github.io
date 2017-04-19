@@ -20,7 +20,11 @@ permalink: /about/
 ### More Information
 
 Started out in New York, mostly in California, but get around to the other states, too.
+
+
 Trinidad -> New York -> California
+
+
 
 ### Contact me
 
