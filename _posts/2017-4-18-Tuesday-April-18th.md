@@ -64,7 +64,7 @@ Write a function that takes the value and returns the count of balls needed.
 
 The solution is an interesting one, based on a formula called "The Tetrahedral number" 
 
-![tetra formula](/images/tetra.png)
+![tetra formula](/images/latex2.png)
 
 [Tetrahedral number](https://en.wikipedia.org/wiki/Tetrahedral_number)
 
@@ -87,7 +87,7 @@ def count_balls(x):
 
 I figured out how to re-write fractions and limits in LaTeX. Here is my code for generating the Tetrahedral formula
 
-![tetralatex](/images/tetralatex.png)
+![tetralatex](/images/latexfont.png)
 
 
 
