@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![beach](/images/beach.png){:height="300px" width="300px"}
+![beach](/images/beach.png){:height="300px" width="400px"}
 
 
 I'm a functional programming and Category theory junkie. Excited to learn a bit about Web Development, too.
