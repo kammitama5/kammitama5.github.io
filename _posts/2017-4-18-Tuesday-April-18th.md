@@ -74,7 +74,8 @@ Side top view packed balls
 ![rhinotetra](/images/rhinotetra.png)
 
 
-Bottom view of tetrahedron packed 
+Bottom view of tetrahedron packed -> the last row is 4 balls long. 
+Total is 20 for all balls counted
 
 ![rhinotetrabottom](/images/rhinotetra1.png)
 
