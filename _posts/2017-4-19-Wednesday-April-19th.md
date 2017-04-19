@@ -15,7 +15,7 @@ My mom was just confused by my photos from that event.  :)
 
 One of my friends just said casually ....
 
-             ## "Oh, so it's like Burning Man for devs". 
+             <"Oh, so it's like Burning Man for devs".>
 
 
 Hmm..good description :)
