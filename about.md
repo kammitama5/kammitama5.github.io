@@ -22,7 +22,7 @@ permalink: /about/
 Started out in New York, mostly in California, but get around to the other states, too.
 
 
-Trinidad -> New York -> California
+[Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California
 
 
 
