@@ -42,8 +42,9 @@ Hmm..good description :)
   named [Robin Hunicke](https://en.wikipedia.org/wiki/Robin_Hunicke),
   who invited me to test out a few of some games she was working on in their 
   San Francisco office with various devices. 
+  
   She spoke at IO in 2016. 
-  Her company is [Funomena](http://www.funomena.com/)
+  Her company is [Funomena](http://www.funomena.com/).
   That was really fun!
   
 ## Things to get done:
