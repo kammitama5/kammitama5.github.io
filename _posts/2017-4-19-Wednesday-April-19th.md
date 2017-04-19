@@ -1,0 +1,36 @@
+## 4/19/17 - Summa Time
+
+
+## Personal: 
+
+- Booked a flight to SFO for Google IO today. So relieving because
+  I was planning on taking an 8 to 11 hour bus up there. I know that sounds
+  pretty crazy to a lot of people, but I guess it's not a big deal to me...
+  maybe because I'm not from the US, I think about it as a road-trip.
+  
+  The only thing that made the situation a bit hairy is that I have class
+  on Tuesday night that I definitely cannot miss (the subject matter is too
+  important) and I got into JPL's Open House on Saturday morning. 
+  So I have a narrow window of time. So a flight is best this time.
+  
+  I really enjoy the bus trip generally because of the people I meet, 
+  the scenery, and just amusement in general. It's a stark contrast
+  to the general tech community, which can be a bit of a bubble, 
+  although a bubble is nice, sometimes, too. I will say, they treat
+  us really, really well at the tech conferences. I can see how after 
+  a while, people have come to expect certain things out of them,
+  but I never expect anything except good presentations and to meet
+  good people and to strengthen my understanding / knowledge. 
+  
+## Things to get done:
+
+- Getting started on Homework assignment 6 for C++ today. 
+  This is due on the 23rd, the day before my Midterm. 
+  
+- If I have time, I'll work on my logic course, but we'll see. 
+
+- I also need to rest. Stil have a cough, but getting better.
+  
+  
+
+
