@@ -1,5 +1,17 @@
 ## 4/19/17 - Summa Time
 
+## Kata solved:
+
+Say hello JS-style
+
+```
+var say = function(string1) {
+  return function(say){
+    return string1 + ' ' + say;
+  }
+}
+// returns 'Hello World!; -> was in format function x()(){}
+```
 
 ## Personal: 
 
