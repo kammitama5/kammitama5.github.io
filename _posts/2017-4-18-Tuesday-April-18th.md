@@ -82,8 +82,8 @@ Total is 20 for all balls counted
 
 Btw I did these models in a 3D product/ architectural modelling programme I learned years ago called Rhino.
 This software is also used by car designers and people in the movie industry. I learned it from 
-two persons; one of whom was an Art Director, and the other, who was a car designer
-(he designed grills for cars) for Honda.
+two persons; one of whom was an Art Director (who worked on Avatar and Star Trek)
+, and the other, who was a car designer (he designed grills for cars) for Honda.
 
 ![tetra formula](/images/latex2.png)
 
