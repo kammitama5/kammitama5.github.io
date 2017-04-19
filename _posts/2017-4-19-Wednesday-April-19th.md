@@ -8,7 +8,19 @@
   pretty crazy to a lot of people, but I guess it's not a big deal to me...
   maybe because I'm not from the US, I think about it as a road-trip.
   
-  The only thing that made the situation a bit hairy is that I have class
+  ![Google IO](/images/io1.png) 
+  
+This was from last year's IO. They had a huge Space Invaders game.
+My mom was just confused by my photos from that event.  :)
+
+One of my friends just said casually ....
+
+             ## "Oh, so it's like Burning Man for devs". 
+
+
+Hmm..good description :)
+  
+ - The only thing that made the situation a bit hairy is that I have class
   on Tuesday night that I definitely cannot miss (the subject matter is too
   important) and I got into JPL's Open House on Saturday morning. 
   So I have a narrow window of time. So a flight is best this time.
