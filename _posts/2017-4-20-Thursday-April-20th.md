@@ -5,10 +5,10 @@
 
 
 
-*"For after having listened to my problems patiently, he agreed that up till that moment
+_"For after having listened to my problems patiently, he agreed that up till that moment
    there was not much of a programming discipline, but then he went on to explain quietly that automatic computers were here to stay, 
    that we were just at the beginning and could not I be one of the persons called to make programming a respectable discipline in
-   the years to come? " - Edsger W. Dijkstra *
+   the years to come? " - Edsger W. Dijkstra_
 
 
 
