@@ -15,6 +15,20 @@ the years to come? " - Edsger W. Dijkstra
   I had barely started programming, but it was important to me to learn from
   the greats in the field. I'm not sure why, but I thought that it would be a good opportunity to learn
   about and sit on the shoulders of giants. I was not disappointed.
+  In one Meetup, we even wrote go-to statements in different languages. Many a CS student today may not even 
+  come across "go-to" statements, so it was really a unique opportunity. Scrawled across the page were 
+  go-to statements written in Python, Haskell, Scala, among others. 
   
 - Coming back full-circle, I have have had to read and to try to understand what exactly Dijkstra was getting at,
   why what he did for the field of Computer Science was so important. 
+  
+  
+## You should visit 
+
+[Computer History Museum](http://www.computerhistory.org/) 
+
+- My friend, Ken, spends a significant amount of time fixing the machines, volunteering his time for tours,
+  educating the next generation about the history of Computers, and maintaining a [blog](http://www.righto.com/).
+  He once gave me a tour where he introduced me to all these amazing retired IBM engineers who dedicated their 
+  free time to helping maintain the different computers at the Museum. Amazing! It's one of my favourite places
+  in the world!
