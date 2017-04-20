@@ -22,6 +22,17 @@ the years to come? " - Edsger W. Dijkstra
 - Coming back full-circle, I have have had to read and to try to understand what exactly Dijkstra was getting at,
   why what he did for the field of Computer Science was so important. 
   
+## Completed: 
+
+- Completed Week one of Programming for Correctness, pretty much. Predicate Calculus ftw!
+
+![latex2_001](/images/latex2_001.png)
+![latex2_002](/images/latex2_002.png)
+![latex2_003](/images/latex2_003.png)
+![latex2_004](/images/latex2_004.png)
+![latex2_005a](/images/latex2_005a.png)
+![latex2_005b](/images/latex2_005b.png)
+  
   
 ## You should visit 
 
