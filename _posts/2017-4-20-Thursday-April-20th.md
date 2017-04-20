@@ -33,13 +33,11 @@ _"For after having listened to my problems patiently, he agreed that up till tha
   ```
   /*
   JS
-  Create an object called rooms that contains at
-  
-  least three rooms as properties,
-  
-  and each individual room should have at least
-  
-  three properties 
+  // Create an object called rooms
+  // that contains at
+  // least three rooms as properties,
+  // and each individual room should have at least
+  // three properties 
   */
   
   var rooms = {
