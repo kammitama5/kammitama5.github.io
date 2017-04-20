@@ -70,3 +70,9 @@ You can read more about it here ->  [Babbage Differential Engine](http://www.com
   He once gave me a tour where he introduced me to all these amazing retired IBM engineers who dedicated their 
   free time to helping maintain the different computers at the Museum. Amazing! It's one of my favourite places
   in the world!
+  
+## Random:
+
+- I was looking up LaTeX symbols today and found this page, which is a database for mathematical and numerical sequences. Also, it will play MIDI versions of sequences. I found one for Pascal Triangle Sequences; you can download a MIDI of what that would sound like
+
+[Pascal's Triangle](http://oeis.org/play?seq=A007318)
