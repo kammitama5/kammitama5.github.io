@@ -56,8 +56,11 @@ It was on loan from a high-up person at Microsoft. It's an amazing machine!
 You can read more about it here ->  [Babbage Differential Engine](http://www.computerhistory.org/babbage/).
 
 
+And of course, the Computer History Museum:
 
 [Computer History Museum](http://www.computerhistory.org/) 
+
+
 
 - My friend, Ken, spends a significant amount of time fixing the machines, volunteering his time for tours,
   educating the next generation about the history of Computers, and maintaining a [blog](http://www.righto.com/).
