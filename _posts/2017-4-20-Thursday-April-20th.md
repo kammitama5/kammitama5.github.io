@@ -33,9 +33,12 @@ _"For after having listened to my problems patiently, he agreed that up till tha
   ```
   /*
   JS
-  Create an object called rooms that contains at least three rooms as properties,
-  and each individual room should have at least three properties 
+  Create an object called rooms that contains at
+  least three rooms as properties,
+  and each individual room should have at least
+  three properties 
   */
+  
   var rooms = {
       room1 : 
       {name: "room1", description: "black", completed: "done"},
@@ -60,7 +63,7 @@ _"For after having listened to my problems patiently, he agreed that up till tha
   experience -> 0
   */
   
-  function Hero (name, position, health, damage, experience) {
+  function Hero (name, position, health, damage, experience){
     if (name == undefined){
       this.name = 'Hero'
     }
