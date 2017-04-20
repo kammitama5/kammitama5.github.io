@@ -56,7 +56,7 @@ It was on loan from a high-up person at Microsoft. It's an amazing machine!
 You can read more about it here ->  [Babbage Differential Engine](http://www.computerhistory.org/babbage/).
 
 
-And of course, the Computer History Museum:
+## And of course, the Computer History Museum:
 
 [Computer History Museum](http://www.computerhistory.org/) 
 
