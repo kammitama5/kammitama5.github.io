@@ -28,7 +28,57 @@ _"For after having listened to my problems patiently, he agreed that up till tha
 - Coming back full-circle, I have have had to read and to try to understand what exactly Dijkstra was getting at,
   why what he did for the field of Computer Science was so important. 
   
+## Katas Solved (mix of Python and JS):
+
+  ```
+  //JS
+  //Create an object called rooms that contains at least three rooms as properties,
+  //and each individual room should have at least three properties 
   
+  var rooms = {
+      room1 : {name: "room1", description: "black", completed: "done"},
+      room2 : {name: "room2", description: "white", completed: "done"},
+      room3 : {name: "room3", description: "blue", completed: "done"}
+};
+  ```
+  
+  Another one in JavaScript
+  
+  ```
+  /*
+  In this first kata, define a Hero prototype to be used in 
+  a terminal Game.
+  It should have defined properties listed:
+  name -> user argument or "Hero"
+  position -> '00'
+  health -> 100
+  damage -> 5 
+  experience -> 0
+  */
+  
+  function Hero (name, position, health, damage, experience) {
+    if (name == undefined){
+      this.name = 'Hero'
+    }
+    else{
+    this.name = name;
+    }
+    this.position = '00';
+    this.health = 100;
+    this.damage = 5;
+    this.experience = 0;
+}
+  ```
+  
+  And the last one is in Python 
+  
+  ```
+  # Create a class named Python. It should take a name arg to be retrieved. 
+  
+  class Python():
+    def __init__(self, name):
+        self.name = name;
+  ```
   
   
 ## Completed: 
