@@ -43,7 +43,7 @@ _"For after having listened to my problems patiently, he agreed that up till tha
 };
   ```
   
-  Another one in JavaScript
+ - Another one in JavaScript
   
   ```
   /*
@@ -71,7 +71,7 @@ _"For after having listened to my problems patiently, he agreed that up till tha
 }
   ```
   
-  And the last one is in Python 
+ - And the last one is in Python 
   
   ```
   # Create a class named Python. It should take a name arg to be retrieved. 
