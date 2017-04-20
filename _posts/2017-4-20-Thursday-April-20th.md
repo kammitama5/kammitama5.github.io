@@ -37,9 +37,12 @@ _"For after having listened to my problems patiently, he agreed that up till tha
   and each individual room should have at least three properties 
   */
   var rooms = {
-      room1 : {name: "room1", description: "black", completed: "done"},
-      room2 : {name: "room2", description: "white", completed: "done"},
-      room3 : {name: "room3", description: "blue", completed: "done"}
+      room1 : 
+      {name: "room1", description: "black", completed: "done"},
+      room2 : 
+      {name: "room2", description: "white", completed: "done"},
+      room3 :
+      {name: "room3", description: "blue", completed: "done"}
 };
   ```
   
@@ -74,7 +77,10 @@ _"For after having listened to my problems patiently, he agreed that up till tha
  - And the last one is in Python 
   
   ```
-  # Create a class named Python. It should take a name arg(arr..I'm a Pirate! :)  )to be retrieved. 
+  # Create a class named Python. 
+  # It should take a name arg((hhh)...
+  # arrrrrRR..I'm a Pirate! :)
+  # )to be retrieved. 
   
   class Python():
     def __init__(self, name):
