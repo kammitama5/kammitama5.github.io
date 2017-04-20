@@ -79,5 +79,5 @@ You can read more about it here ->  [Babbage Differential Engine](http://www.com
 
 - It's called "The On-Line Encyclopedia of Integer Sequences", and it was founded by 
  [N. J. A. Sloane](https://en.wikipedia.org/wiki/Neil_Sloane), a mathematician.
-- Here is a really great article from [Quanta Magazine](https://www.quantamagazine.org/20150806-neil-sloane-oeis-interview/) about Neil Sloane and "Sloane", as OEIS is called by its users.
+- Here is a really great article from [Quanta Magazine](https://www.quantamagazine.org/20150806-neil-sloane-oeis-interview/) about Neil Sloane and "Sloane's", as OEIS is called by its users.
 - I also bought a book called "Recreations in the Theory of Numbers" by Beiler, which contains puzzles that concern [Number Theory](https://en.wikipedia.org/wiki/Number_theory).
