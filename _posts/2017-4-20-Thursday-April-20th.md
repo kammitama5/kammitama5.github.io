@@ -76,3 +76,5 @@ You can read more about it here ->  [Babbage Differential Engine](http://www.com
 - I was looking up LaTeX symbols today and found this page, which is a database for mathematical and numerical sequences. Also, it will play MIDI versions of sequences. I found one for Pascal Triangle Sequences; you can download a MIDI of what that would sound like
 
 [Pascal's Triangle](http://oeis.org/play?seq=A007318)
+
+It's called "The On-Line Encyclopedia of Integer Sequences", and it was founded by [N. J. A. Sloane](https://en.wikipedia.org/wiki/Neil_Sloane), a mathematician.
