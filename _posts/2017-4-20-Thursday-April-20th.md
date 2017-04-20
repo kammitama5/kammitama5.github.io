@@ -78,3 +78,4 @@ You can read more about it here ->  [Babbage Differential Engine](http://www.com
 [Pascal's Triangle](http://oeis.org/play?seq=A007318)
 
 It's called "The On-Line Encyclopedia of Integer Sequences", and it was founded by [N. J. A. Sloane](https://en.wikipedia.org/wiki/Neil_Sloane), a mathematician.
+Here is a really great article from [Quanta Magazine](https://www.quantamagazine.org/20150806-neil-sloane-oeis-interview/) about Neil Sloane and "Sloane", as OEIS is called by its users.
