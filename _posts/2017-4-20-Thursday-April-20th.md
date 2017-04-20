@@ -31,10 +31,11 @@ _"For after having listened to my problems patiently, he agreed that up till tha
 ## Katas Solved (mix of Python and JS):
 
   ```
-  //JS
-  //Create an object called rooms that contains at least three rooms as properties,
-  //and each individual room should have at least three properties 
-  
+  /*
+  JS
+  Create an object called rooms that contains at least three rooms as properties,
+  and each individual room should have at least three properties 
+  */
   var rooms = {
       room1 : {name: "room1", description: "black", completed: "done"},
       room2 : {name: "room2", description: "white", completed: "done"},
