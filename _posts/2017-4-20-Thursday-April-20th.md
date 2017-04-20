@@ -1,7 +1,7 @@
 ## 4/20/17 - Dijkstra
 
 
-## Personal: 
+## Quote for Today: 
 
 
 
@@ -12,6 +12,8 @@ _"For after having listened to my problems patiently, he agreed that up till tha
 
 
 
+
+## Personal:
 
 
 - So one of the reasons I'm taking this logic course is because of this group I joined about two years ago
