@@ -44,11 +44,18 @@ the years to come? " - Edsger W. Dijkstra
   
 ## You should visit 
 
+
+
 ![babbage](/images/babbage.png)
 
-This is the Babbage machine from the Computer History Museum. 
+
+This is the Babbage machine from the Computer History Museum.
+The Computer History Museum is one of the most amazing places!
 Every day the Museum was open, at 1pm, they'd demo it.
 It was on loan from a high-up person at Microsoft. It's an amazing machine!
+You can read more about it here [Babbage Differential Engine](http://www.computerhistory.org/babbage/)
+
+
 
 [Computer History Museum](http://www.computerhistory.org/) 
 
