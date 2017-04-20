@@ -10,6 +10,9 @@ that we were just at the beginning and could not I be one of the persons called 
 the years to come? " - Edsger W. Dijkstra
 
 
+
+
+
 - So one of the reasons I'm taking this logic course is because of this group I joined about two years ago
   called ["Papers We Love"](https://www.meetup.com/Papers-We-Love-LA/?scroll=true).
   I had barely started programming, but it was important to me to learn from
@@ -21,6 +24,9 @@ the years to come? " - Edsger W. Dijkstra
   
 - Coming back full-circle, I have have had to read and to try to understand what exactly Dijkstra was getting at,
   why what he did for the field of Computer Science was so important. 
+  
+  
+  
   
 ## Completed: 
 
