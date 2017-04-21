@@ -34,6 +34,9 @@ One of my friends just said casually ....
 
 Hmm..good description :)
 
+Wait..about that new IO 2017 interactive page...is that a [circular integral](https://physics.stackexchange.com/questions/38578/what-does-an-integral-symbol-with-a-circle-mean)
+[Line integral](https://upload.wikimedia.org/wikipedia/commons/b/b0/Line_integral_of_vector_field.gif)
+
 ![Google IO_1](/images/io2.png){:height="300px"} 
   
  - The only thing that made the situation a bit hairy is that I have class
