@@ -111,6 +111,11 @@ function trickyDoubles(n){
 
 ```
 
+PS I'm doing the JS stuff for an in-person course...
+over four weeks....
+I think once that's done you'll probably 
+just be seeing more C++ and FP stuff.
+:)
 
   
 ## I'd like to attend -> Bucket-list
