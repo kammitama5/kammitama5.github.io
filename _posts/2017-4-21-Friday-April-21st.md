@@ -54,6 +54,14 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
 ## Image 
 
 ![Haskell image](/images/hask3.png)
+
+## The Tutorial also shows you how to do a neat animation. I sort of did my own, so...
+
+![Haskell image](/images/hask4.png)
+
+![Haskell image](/images/hask5.png)
+
+![Haskell image](/images/hask6.png)
   
 ## Things I think about 
   
