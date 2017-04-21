@@ -41,7 +41,7 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   have a sort of structure that emphasize or encourage 
   _thinking_ before coding, which is why I'm sticking with them.
   
- ## I'd like to attend -> Bucket-list
+## I'd like to attend -> Bucket-list
  
  [CodeMesh.io](http://www.codemesh.io/)
 - My people! :)
