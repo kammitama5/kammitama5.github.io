@@ -47,3 +47,8 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
 - My people! :)
   My brother lives in the UK, so this isn't _impossible_.
   Hey, maybe we can do a two-for-one, since because of me he's learning some Rust (mwahaha).
+  
+## Other -> things to learn
+
+- [YORP effect](https://en.wikipedia.org/wiki/Yarkovsky%E2%80%93O%27Keefe%E2%80%93Radzievskii%E2%80%93Paddack_effect) (watching too much Scott Manley)
+- Clearer understanding of a [_monomorphism_](https://ncatlab.org/nlab/show/monomorphism)
