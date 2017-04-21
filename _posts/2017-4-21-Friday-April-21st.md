@@ -2,7 +2,9 @@
 
 ## A solution:
 
-- Determine whether +*a-b/c++de-fg is a pre-fix expression. If you are unfamiliar with
+_Determine whether +*a-b/c++de-fg is a pre-fix expression._
+
+- If you are unfamiliar with
   pre-and post expressions, there was this thing called ["Reverse Polish notation"](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
   
   This is for a C++ class, but having done some functional programming,
