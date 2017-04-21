@@ -44,6 +44,16 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
 ## Image produced 
    
    ![Haskell image](/images/hask1.png)
+   
+## Another one!
+
+(Code) -> based on the first [tutorial](https://www.seas.upenn.edu/~cis194/fall16/lectures/01-intro.html) 
+  
+![Haskell image](/images/hask2.png)
+
+## Image 
+
+![Haskell image](/images/hask3.png)
   
 ## Things I think about 
   
