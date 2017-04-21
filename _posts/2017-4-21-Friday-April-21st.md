@@ -10,7 +10,11 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   This is for a C++ class, but having done some functional programming,
   the first thing I thought of was a Lisp or Racket-esque approach.
   
-  So...I used Clojure and evaluated it as a pre-fix expression. 
+- So...I used Clojure and evaluated it as a pre-fix expression.
+  I actually first used a, b...g and separated them via parentheses. 
+  
+- When I was sure it was a legitimate expression in Clojure,
+  I evaluated the value using actual numbers.
   
   ![Clojure](/images/cloj1.png)
   
@@ -24,3 +28,15 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   And, I was also able to attend Clojure West in Portland, Oregon, this year.
   
   [Clojure repl](http://www.tryclj.com/)
+  
+  ## Things I think about 
+  
+- I have a mentor from JPL/NASA who I meet with every Thursday.
+  One of the things we spoke about was thinking before coding.
+  
+- It's something I think about a lot. Some of the best programmers I've met
+  _think_ before they code, they don't just tap-tap away.
+  
+- I think that tools like LaTeX, learning C++, Rust, Haskell
+  have a sort of structure that emphasize or encourage 
+  _thinking_ before coding, which is why I'm sticking with them.
