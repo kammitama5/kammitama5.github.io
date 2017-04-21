@@ -39,11 +39,11 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
    If that's impossibe, I'll just save the notes
    and do it another time.
    
-   ![Haskell](/images/hask1.png)
+   ![Haskell](/images/hask.png)
    
    - Image produced 
    
-   ![Haskell image](/images/hask2.png)
+   ![Haskell image](/images/hask1.png)
   
   ## Things I think about 
   
