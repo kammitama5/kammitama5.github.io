@@ -40,3 +40,8 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
 - I think that tools like LaTeX, learning C++, Rust, Haskell
   have a sort of structure that emphasize or encourage 
   _thinking_ before coding, which is why I'm sticking with them.
+  
+ ## I'd like to attend -> Bucket-list
+ 
+ [CodeMesh.io](http://www.codemesh.io/) My people! :)
+ My brother lives in the UK, so this isn't _impossible_.
