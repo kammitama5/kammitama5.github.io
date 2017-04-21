@@ -18,7 +18,7 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   
   ![Clojure](/images/cloj1.png)
   
-  You should definitely give Clojure, Racket, Lisp, Haskell, Rust, a try. 
+  You should definitely give [Clojure](http://www.tutorialspoint.com/clojure/), [Racket](https://racket-lang.org/), [Lisp](http://www.tutorialspoint.com/lisp/), [Haskell](https://www.tryhaskell.org/), [Rust](http://rustbyexample.com/index.html), a try. 
   
 - I'm a part of the Clojure (and Haskell, and Rust) community, 
   having received a scholarship to attend my first Clojure Conj last year in Austin, Texas,
