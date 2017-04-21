@@ -44,5 +44,6 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
  ## I'd like to attend -> Bucket-list
  
  [CodeMesh.io](http://www.codemesh.io/)
- My people! :)
- My brother lives in the UK, so this isn't _impossible_.
+- My people! :)
+  My brother lives in the UK, so this isn't _impossible_.
+  Hey, maybe we can do a two-for-one, since because of me he's learning some Rust (mwahaha).
