@@ -43,8 +43,8 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   
 ## Kata Solved 
 
-Create a function that returns 2x value unless it's tricky.
-Tricky = double number 
+Create a function that returns 2x its value unless it's tricky.
+Tricky = double number eg. 44, 4343, 77, 2525 etc. 
 
 ```
 function trickyDoubles(n){
