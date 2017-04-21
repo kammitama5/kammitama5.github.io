@@ -41,7 +41,7 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
    
    ![Haskell](/images/hask.png)
    
-   - Image produced 
+   Image produced 
    
    ![Haskell image](/images/hask1.png)
   
