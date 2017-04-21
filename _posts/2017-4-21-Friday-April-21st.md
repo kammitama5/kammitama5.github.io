@@ -63,6 +63,12 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
 ![Haskell image](/images/hask5.png)
 
 ![Haskell image](/images/hask6.png)
+
+So basically going through time and every time it finds
+an even t, it sets to first snapshot ie True,
+else False.
+Switching between the two images over time gives 
+the illusion of an animation, essentially.
   
 ## Things I think about 
   
