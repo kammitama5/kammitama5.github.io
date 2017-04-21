@@ -30,7 +30,7 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   [Clojure repl](http://www.tryclj.com/)
   
   
- ## Speaking of functional...
+## Speaking of functional...
  
  - I found UPenn's Online Haskell course. They use Pictures! 
    If I have time next week (after I get my midterm done,
