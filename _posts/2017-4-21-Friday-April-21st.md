@@ -41,6 +41,37 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   have a sort of structure that emphasize or encourage 
   _thinking_ before coding, which is why I'm sticking with them.
   
+## Kata Solved 
+
+Create a function that returns 2x value unless it's tricky.
+Tricky = double number 
+
+```
+function trickyDoubles(n){
+      var a = n.toString()  fomd 
+      var len = (a.length / 2); // find first half
+      var len1 = a.length; // find second half
+      
+      var x = a.slice(0, len)
+      //console.log(x) I was checking value 
+      var y = a.slice(len, len1)
+      //console.log(y) I was checking value
+      
+      
+      if (x == y){
+        return (n)
+      }
+      else{
+       return (n * 2)
+      }
+     
+      return
+}
+
+```
+
+
+  
 ## I'd like to attend -> Bucket-list
  
  [CodeMesh.io](http://www.codemesh.io/)
