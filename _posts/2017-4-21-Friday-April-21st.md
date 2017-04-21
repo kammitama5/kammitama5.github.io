@@ -41,11 +41,11 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
    
    ![Haskell](/images/hask.png)
    
-   Image produced 
+## Image produced 
    
    ![Haskell image](/images/hask1.png)
   
-  ## Things I think about 
+## Things I think about 
   
 - I have a mentor from JPL/NASA who I meet with every Thursday.
   One of the things we spoke about was thinking before coding.
