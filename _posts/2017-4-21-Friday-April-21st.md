@@ -29,6 +29,22 @@ _Determine whether +*a-b/c++de-fg is a pre-fix expression._
   
   [Clojure repl](http://www.tryclj.com/)
   
+  
+ ## Speaking of functional...
+ 
+ - I found UPenn's Online Haskell course. They use Pictures! 
+   If I have time next week (after I get my midterm done,
+   since that's going to be a week of no C++ homework for me)
+   I can breeze through the Haskell course for fun :)
+   If that's impossibe, I'll just save the notes
+   and do it another time.
+   
+   ![Haskell](/images/hask1.png)
+   
+   - Image produced 
+   
+   ![Haskell image](/images/hask2.png)
+  
   ## Things I think about 
   
 - I have a mentor from JPL/NASA who I meet with every Thursday.
