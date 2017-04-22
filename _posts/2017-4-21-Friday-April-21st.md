@@ -110,6 +110,26 @@ function trickyDoubles(n){
 }
 
 ```
+Free Code Camp challenge 
+```
+Write a function that splits an array (first argument)
+into groups the length of size
+and returns them as a two-dimensional
+array
+
+function chunkArrayInGroups(arr, size) {
+  var arr1 = [];
+  while (arr.length > 0)
+    arr1.push(arr.splice(0, size));
+
+console.log(arr1);
+  return arr1;
+}
+
+chunkArrayInGroups(["a", "b", "c", "d"], 2);
+
+returns [["a","b"],["c","d"]]
+```
 
 PS I'm doing the JS stuff for an in-person course...
 over four weeks....
