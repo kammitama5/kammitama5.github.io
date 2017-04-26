@@ -19,7 +19,7 @@
   
   ![Gnome Rave](/images/gnomerave.png)
   
-## I made the textures and stuff myself. 
+ *I made the textures and stuff myself.*
 
 
 ## Breakout cont'd...What I'd like to continue: 
