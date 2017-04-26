@@ -86,3 +86,7 @@
   It's on Number Theory. It's called "Recreations in the Theory of Numbers", and it's by Albert H. Beiler.
   
 - I am also bringing Haskell stickers tonight for my group. Woop!
+
+## Other TIL:
+
+- I learned the Laws of Thermodynamics in high school, but never can recall learning about Onsager reciprocal relations.
