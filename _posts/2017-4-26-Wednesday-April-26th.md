@@ -47,13 +47,13 @@
 - Here is the Hoare paper referenced:
   [Robert Rosen: The Well Posed Question and Its Answer- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html).
   
-- It proposes:
+## It proposes:
 
-## Proposition 1
+Proposition 1: 
 
 - "The only meaningful physical events which occur in the world are represented by the evaluation of *observables on states."*
 
-## Proposition 2 
+Proposition 2: 
 
 - "Every observable can be regarded as a mapping from states to real numbers." 
 
