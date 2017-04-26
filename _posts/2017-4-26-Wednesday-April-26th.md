@@ -40,3 +40,10 @@
 
 
 ## Personal:
+
+- I have a little bit of energy, because I'm getting better, and that can be a dangerous thing for me because I like working...a lot.
+
+- I also bought this neat book a while ago. It arrived and I hope a few people at PWL can see it, perhaps, tonight. 
+  It's on Number Theory. It's called "Recreations in the Theory of Numbers", and it's by Albert H. Beiler.
+  
+- I am also bringing Haskell stickers tonight for my group. Woop!
