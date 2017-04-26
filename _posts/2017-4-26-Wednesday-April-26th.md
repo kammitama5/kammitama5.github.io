@@ -45,8 +45,7 @@
 ## Hoare
 
 - Here is the Hoare paper referenced:
-  [Robert Rosen: The Well Posed Question and Its Answer
-- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
+  [Robert Rosen: The Well Posed Question and Its Answer- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
   
   
 ## Things to get done
