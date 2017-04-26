@@ -42,6 +42,12 @@
 - I may attend a really interesting talk tonight for Papers We Love, in my local chapter.
   My mom (I know...I'm ten :) ) doesn't want me to stay out too late, as I have a cold, so..we'll see.
   
+## Hoare
+
+- Here is the Hoare paper referenced:
+  [Robert Rosen: The Well Posed Question and Its Answer
+- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
+  
   
 ## Things to get done
 
