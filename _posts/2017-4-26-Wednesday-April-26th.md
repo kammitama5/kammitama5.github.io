@@ -14,8 +14,11 @@
   I did this one a while ago called "GnomeRave", based on a first-person shooter tutorial, in Java.
   
   ![Gnome Rave](/images/gnomerave.png)
+  
+  I made the textures and stuff myself. 
 
-- I started also with adding a second ball, but need to work out the mechanics, etc for it.
+- In terms of the Pong/Breakout game, 
+  I started also with adding a second ball, but need to work out the mechanics, etc for it.
 
 - Strangely, I remember my brother making this when we were younger. He probably used Java. :)
 
