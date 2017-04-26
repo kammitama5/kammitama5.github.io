@@ -84,6 +84,9 @@ Proposition 2:
 
 - I also bought this neat book a while ago. It arrived and I hope a few people at PWL can see it, perhaps, tonight. 
   It's on Number Theory. It's called "Recreations in the Theory of Numbers", and it's by Albert H. Beiler.
+  Why did you buy a random Mathematics book, Krystal?
+  Actually, I'm hoping that I can not just understand some of the problems, but solve them computationally 
+  (ie using a programming    language). That, and well, those kinds of books are very fun!
   
 - I am also bringing Haskell stickers tonight for my group. Woop!
 
