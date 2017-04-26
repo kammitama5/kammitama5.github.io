@@ -6,10 +6,14 @@
 - Did this tutorial today. 
 
   ![Typical](/images/breakout1.png)
+  
+  
 
-- In true "me" style, I always have fun with the messages.
+## In true "me" style, I always have fun with the messages.
 
   ![Win](/images/breakout2.png)
+  
+  
   
 ## I did this one a while ago called "GnomeRave", based on a first-person shooter tutorial, in Java.
   
