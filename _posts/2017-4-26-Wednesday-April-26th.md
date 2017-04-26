@@ -11,11 +11,14 @@
 
   ![Win](/images/breakout2.png)
   
-  I did this one a while ago called "GnomeRave", based on a first-person shooter tutorial, in Java.
+## I did this one a while ago called "GnomeRave", based on a first-person shooter tutorial, in Java.
   
   ![Gnome Rave](/images/gnomerave.png)
   
-  I made the textures and stuff myself. 
+## I made the textures and stuff myself. 
+
+
+## Breakout cont'd...What I'd like to continue: 
 
 - In terms of the Pong/Breakout game, 
   I started also with adding a second ball, but need to work out the mechanics, etc for it.
