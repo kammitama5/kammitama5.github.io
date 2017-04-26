@@ -31,6 +31,11 @@
 
 - Oh, and the bricks were made in Paint, pixel by pixel, etc.
 
+## Also some notes on Hoare -> Homework done today
+
+![hoare1](/images/h_001.png)
+![hoare2](/images/h_002.png)
+![hoare3](/images/h_003.png)
 
 ## Additional
   
