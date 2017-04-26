@@ -45,7 +45,26 @@
 ## Hoare
 
 - Here is the Hoare paper referenced:
-  [Robert Rosen: The Well Posed Question and Its Answer- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html)
+  [Robert Rosen: The Well Posed Question and Its Answer- Why are Organisms Different from Machines](http://www.people.vcu.edu/~mikuleck/PPRISS3.html).
+  
+- It proposes:
+
+## Proposition 1
+
+- "The only meaningful physical events which occur in the world are represented by the evaluation of *observables on states."*
+
+## Proposition 2 
+
+- "Every observable can be regarded as a mapping from states to real numbers." 
+
+## Hmm...
+
+- Yes. Map -> Category Theory. 
+
+- He says "In its purest form, it is called 'category theory'.
+
+- "Category theory is a stratified or hierarchical structure without limit,
+  which makes it suitable for modeling the process of modeling itself."
   
   
 ## Things to get done
