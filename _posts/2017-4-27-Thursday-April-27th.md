@@ -21,6 +21,11 @@ Weakest Proposition
 ![h_2_004](/images/h_2_004.png)
 ![h_2_005](/images/h_2_005.png)
 
-## Later
+## Random
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
+
+- I learned how to insert a therefore in LaTeX :) 
+  I enjoy hanging out with my mentor because he also deeply appreciates (and has been using for many years)
+  LaTeX. I really enjoy using it and hope to get better at it and use it professionally as long as I can
+  (or even just for fun). 
