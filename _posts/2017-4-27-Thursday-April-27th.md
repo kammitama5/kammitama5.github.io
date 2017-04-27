@@ -6,10 +6,14 @@
 
 ```
 def greetings(time, name):
+    // if either time or name is None, returns statement
     if (time == None) or (name == None):
         return "Hey dude greet someone"
     else:
-        return "Good {} {}".format(time, name)
+        // returns "Good" + time + name
+        return "Good {} {}".format(time, name) 
+        //why am I writing JavaScript comments in Python? :)
+        
 ```
 
 ## Working on 
