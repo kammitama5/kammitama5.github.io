@@ -20,14 +20,14 @@ def greetings(time, name):
 
 - Programming for Correctness 
 
-Weakest Proposition
+## Weakest Proposition
 
 ![h_2_004](/images/h_2_004.png)
 ![h_2_005](/images/h_2_005.png)
 ![h_2_006](/images/h_2_006.png)
 ![h_2_007](/images/h_2_007.png)
 
-Abort 
+## Abort 
 
 ![h_3_001](/images/h_3_001.png)
 ![h_3_002](/images/h_3_002.png)
