@@ -32,6 +32,10 @@ def greetings(time, name):
 ![h_3_001](/images/h_3_001.png)
 ![h_3_002](/images/h_3_002.png)
 
+## Assignment to a Simple Variable
+
+![h_4_001](/images/h_4_001.png)
+
 ## Random
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
