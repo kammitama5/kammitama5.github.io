@@ -24,6 +24,8 @@ Weakest Proposition
 
 ![h_2_004](/images/h_2_004.png)
 ![h_2_005](/images/h_2_005.png)
+![h_2_006](/images/h_2_006.png)
+![h_2_007](/images/h_2_007.png)
 
 ## Random
 
