@@ -16,6 +16,11 @@ def greetings(time, name):
 
 - Programming for Correctness 
 
+Weakest Proposition
+
+![h_2_004](/images/h_2_004.png)
+![h_2_005](/images/h_2_005.png)
+
 ## Later
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
