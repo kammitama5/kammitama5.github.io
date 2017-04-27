@@ -27,6 +27,11 @@ Weakest Proposition
 ![h_2_006](/images/h_2_006.png)
 ![h_2_007](/images/h_2_007.png)
 
+Abort 
+
+![h_3_001](/images/h_3_001.png)
+![h_3_002](/images/h_3_002.png)
+
 ## Random
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
