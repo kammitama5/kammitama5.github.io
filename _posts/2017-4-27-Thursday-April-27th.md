@@ -36,6 +36,16 @@ def greetings(time, name):
 
 ![h_4_001](/images/h_4_001.png)
 
+## When the Struggle is Real
+
+- I couldn't find this symbol.
+  The guy teaching refers to it as "Expression"
+  but I couldn't find it on Math Stack Exchange or in LaTeX documentation.
+  So I tweeted and asked my Computational Mathematics friend about it. We'll see.
+  
+![E](/images/E.png)  
+
+
 ## Random
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
