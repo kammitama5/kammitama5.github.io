@@ -45,6 +45,7 @@ def greetings(time, name):
   
 ![E](/images/E.png)  
 
+Yup...this little guy here in the Subscript. 
 
 ## Random
 
