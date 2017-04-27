@@ -38,7 +38,7 @@ def greetings(time, name):
 
 ## When the Struggle is Real
 
-- I couldn't find this symbol.
+- I couldn't find this symbol (shown below -> specifically the subscripted "E").
   The guy teaching refers to it as "Expression"
   but I couldn't find it on Math Stack Exchange or in LaTeX documentation.
   So I tweeted and asked my Computational Mathematics friend about it. We'll see.
