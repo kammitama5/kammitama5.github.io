@@ -34,7 +34,7 @@ def greetings(time, name):
 
 ## Assignment to a Simple Variable
 
-![h_4_001](/images/h_4_001.png)
+![h_4_002](/images/h_4_002.png)
 
 ## When the Struggle is Real
 
@@ -46,6 +46,12 @@ def greetings(time, name):
 ![E](/images/E.png)  
 
 Yup...this little guy here in the Subscript. 
+
+Solved it by using 
+
+```
+${R}_{\mathpzc{E}}^{k}$ $>$
+```
 
 ## Update
 
