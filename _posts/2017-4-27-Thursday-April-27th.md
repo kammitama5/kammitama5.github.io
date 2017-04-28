@@ -34,7 +34,7 @@ def greetings(time, name):
 
 ## Assignment to a Simple Variable
 
-![h_4_002](/images/h_4_002.png)
+![h_4002](/images/h_4002.png)
 
 ## When the Struggle is Real
 
