@@ -47,6 +47,14 @@ def greetings(time, name):
 
 Yup...this little guy here in the Subscript. 
 
+## Update
+
+- Got back from drinking with German scientists at JPL, 
+ and was informed that it is an old-school Math-Cal symbol.
+ There is a library using Lucida Calligraphy that can duplicate it.
+ See [this conversation on Math Stack Exchange](https://tex.stackexchange.com/questions/215375/how-to-get-the-old-mathcal-letters).
+ Yay. Problem solved!
+
 ## Random
 
 - I attend the JPL German Club once a month. It's really fun! It's tonight, so looking forward to it.
