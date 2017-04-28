@@ -1,5 +1,11 @@
 ## 4/28/17 - Chillax
 
+## Composition 
+
+![h_5_001](/images/h_5_001.png)
+![h_5_002](/images/h_5_002.png)
+![h_5_003](/images/h_5_003.png)
+
 ## More on this...
 - [Functions and epimoprhisms by Bartosz Milewski](https://www.youtube.com/watch?v=O2lZkr-aAqk)
 
