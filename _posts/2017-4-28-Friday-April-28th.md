@@ -21,11 +21,12 @@ please feel free to email me on the [about page](https://kammitama5.github.io/ab
 
 ## Things to get done:
 
-- Meeting with Liz (6:45pm)
+- Meeting with Liz (6:45pm) -> went well; we made a simple
+  App Guessing-Game so I could learn a bit more about the DOM in JS.
 
 - Logic work cont'd
 
-- C++ quiz
+- C++ quiz (probably will be done Saturday evening)
 
-- C++ lab start (design game structure, templates needed, etc)
+- C++ lab start (design game structure, templates needed, etc) -> starting Sunday.
 
