@@ -9,7 +9,7 @@
 ![h_6_002](/images/h_6_002.png)
 ![h_7_001](/images/h_7_001.png)
 ## More on this...
-- [Functions and epimoprhisms by Bartosz Milewski](https://www.youtube.com/watch?v=O2lZkr-aAqk)
+- [Functions and epimorphisms by Bartosz Milewski](https://www.youtube.com/watch?v=O2lZkr-aAqk)
 
 - [Math Exchange -> What is isomorphism](https://math.stackexchange.com/questions/441758/what-does-isomorphic-mean-in-linear-algebra)
 
