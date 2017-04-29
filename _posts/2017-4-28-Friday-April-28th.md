@@ -7,10 +7,13 @@
 ![h_5_003](/images/h_5_003.png)
 ![h_6_001](/images/h_6_001.png)
 ![h_6_002](/images/h_6_002.png)
+![h_7_001](/images/h_7_001.png)
 ## More on this...
 - [Functions and epimoprhisms by Bartosz Milewski](https://www.youtube.com/watch?v=O2lZkr-aAqk)
 
 - [Math Exchange -> What is isomorphism](https://math.stackexchange.com/questions/441758/what-does-isomorphic-mean-in-linear-algebra)
+
+- Interestingly, "guards" in Haskell have the same context in predicate calculus. I learned that today.
 
 PS I'm learning a lot of this myself, so if you find any errata, 
 please feel free to email me on the [about page](https://kammitama5.github.io/about/)
