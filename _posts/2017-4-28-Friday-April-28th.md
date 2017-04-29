@@ -14,6 +14,7 @@
 - [Math Exchange -> What is isomorphism](https://math.stackexchange.com/questions/441758/what-does-isomorphic-mean-in-linear-algebra)
 
 - Interestingly, "guards" in Haskell have the same context in predicate calculus. I learned that today.
+  (Learn more about "guards" in Haskell via the Haskell wiki [here](https://wiki.haskell.org/Pattern_guard)
 
 PS I'm learning a lot of this myself, so if you find any errata, 
 please feel free to email me on the [about page](https://kammitama5.github.io/about/)
