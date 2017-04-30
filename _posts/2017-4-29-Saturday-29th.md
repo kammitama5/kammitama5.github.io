@@ -45,3 +45,12 @@ function parameter(n) {
   I'm allowed to attend, so will probably do that on Saturdays.
   In the meantime, in between predicate calculus, C++, and category theory,
   I'll see if I can work my way through ["Eloquent JavaScript"](eloquentjavascript.net/)
+  
+## Things to start/ complete tomorrow ie Sunday:
+
+- C++ quiz
+
+- C++ lab (made quite a bit of headway on that one this evening with my lab-partner).
+  I do want to make sure my code is as clean as possible and readable.
+
+- Finish up Chapter 2 proofs for Predicate calculus class
