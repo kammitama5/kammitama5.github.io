@@ -57,3 +57,7 @@ function parameter(n) {
   I do want to make sure my code is as clean as possible and readable.
 
 - Finish up Chapter 2 proofs for Predicate calculus class
+
+## Of note: 
+- [Gabriel Gonzalez](http://www.haskellforall.com/) posted this interesting [link](https://www.willamette.edu/~fruehr/haskell/evolution.html)
+  for those engaged in learning Haskell. Definitely useful for my continued exploration of Haskell.
