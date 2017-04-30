@@ -17,6 +17,9 @@
   but this works in a REPL.
   
 ```
+// Basically, take an input, turn it into a string.
+// Find the total and product, and find the common LCM between both.
+
 var math = require('mathjs');
 function parameter(n) {
   var c = n.toString();
