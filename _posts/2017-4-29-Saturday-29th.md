@@ -30,7 +30,7 @@ function parameter(n) {
   var a = product;
   return(math.lcm(a,b))
  
- // returns the correct result eg. for 22-> 4
+ // returns the correct result eg. for 22 (total; 4, product; 4 and LCM 4)
  // returns 120 for 1234 (total; 10 and product 24, LCM 120, etc)
 }
  
