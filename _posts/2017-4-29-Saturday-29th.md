@@ -1,6 +1,6 @@
 ## 4/29/17 - Workshop Day
 
-## Today I learned:
+## Today I made (warm-up exercise in class):
 
 - simple calculator using HTML, CSS and JavaScript
 
