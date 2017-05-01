@@ -13,7 +13,7 @@
   find product and hold in another var, and then find LCM of the two numbers.
   
   I didn't know how to load libraries in JS before and hard code everything, so...
-  To pass the actual kata, you'll need to actual hard-code the GCD,
+  To pass the actual kata, you'll need to actual hard-code the LCM,
   but this works in a REPL.
   
 ```
