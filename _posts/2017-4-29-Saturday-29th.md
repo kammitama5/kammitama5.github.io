@@ -54,11 +54,11 @@ function parameter(n) {
 - C++ quiz (done)
 
 - C++ lab (made quite a bit of headway on that one this evening with my lab-partner).
-  I do want to make sure my code is as clean as possible and readable.
+  I do want to make sure my code is as clean as possible and readable. (almost done)
 
 - Finish up Chapter 2 proofs for Predicate calculus class (done)
 
-- Watch ["As We May Program"](https://vimeo.com/215418110), Peter Norvig's talk for Lisp NYC group
+- Watch ["As We May Program"](https://vimeo.com/215418110), Peter Norvig's talk for Lisp NYC group (done)
 
 
 
