@@ -72,6 +72,8 @@ function parameter(n) {
    1. Having an owner
    2. Resource: something that is acquired and then released eg. file -> get the file, read it, close the file.
    Very interesting. 
+   
+   [auto&](http://stackoverflow.com/questions/19414299/meaning-of-auto) - syntactic sugar -> forall
   
 ## Interested in learning about:
 
