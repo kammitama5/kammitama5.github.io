@@ -49,14 +49,18 @@ function parameter(n) {
   In the meantime, in between predicate calculus, C++, and category theory,
   I'll see if I can work my way through ["Eloquent JavaScript"](eloquentjavascript.net/)
   
-## Things to start/ complete tomorrow ie Sunday:
+## Things to do / complete:
 
-- C++ quiz
+- C++ quiz (done)
 
 - C++ lab (made quite a bit of headway on that one this evening with my lab-partner).
   I do want to make sure my code is as clean as possible and readable.
 
-- Finish up Chapter 2 proofs for Predicate calculus class
+- Finish up Chapter 2 proofs for Predicate calculus class (done)
+
+- Watch ["As We May Program"](https://vimeo.com/215418110), Peter Norvig's talk for Lisp NYC group
+
+
 
 ## Of note: 
 - [Gabriel Gonzalez](http://www.haskellforall.com/) posted this interesting [link](https://www.willamette.edu/~fruehr/haskell/evolution.html)
