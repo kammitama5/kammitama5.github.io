@@ -65,3 +65,7 @@ function parameter(n) {
 ## Of note: 
 - [Gabriel Gonzalez](http://www.haskellforall.com/) posted this interesting [link](https://www.willamette.edu/~fruehr/haskell/evolution.html)
   for those engaged in learning Haskell. Definitely useful for my continued exploration of Haskell.
+  
+## Interested in learning about:
+
+- [Neural Turing Machines](https://en.wikipedia.org/wiki/Neural_Turing_machine).
