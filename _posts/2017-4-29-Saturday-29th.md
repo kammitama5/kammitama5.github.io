@@ -66,7 +66,9 @@ function parameter(n) {
 - [Gabriel Gonzalez](http://www.haskellforall.com/) posted this interesting [link](https://www.willamette.edu/~fruehr/haskell/evolution.html)
   for those engaged in learning Haskell. Definitely useful for my continued exploration of Haskell.
   
- - Watched [Bjarne Stoustrop "The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE). I hadn't thought of resource management.
+ - Watched [Bjarne Stoustrop "The Essence of C++](https://www.youtube.com/watch?v=86xWVb4XIyE). 
+   I hadn't thought of resource management.
+   "Resource Acquisition is Initialization", commonly referred to as RAII.
    1. Having an owner
    2. Resource: something that is acquired and then released eg. file -> get the file, read it, close the file.
    Very interesting. 
