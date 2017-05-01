@@ -78,3 +78,8 @@ function parameter(n) {
 ## Interested in learning about:
 
 - [Neural Turing Machines](https://en.wikipedia.org/wiki/Neural_Turing_machine).
+
+## Amazingness:
+
+  Written mostly in purescript -> [Scientific Calculator](https://insect.sh/).
+  It's *so* intuitive!
