@@ -24,7 +24,7 @@
   keeping the numbers not a multiple of three, 
   then I thought I should just mirror the move of my opponent.
   This is one of those games where it really does have an 
-  advantage to start first. See [Impartial games](https://en.wikipedia.org/wiki/Impartial_game)
+  advantage to start first. See [Impartial games](https://en.wikipedia.org/wiki/Impartial_game).
   
 ## Developing Simple Commands
 
