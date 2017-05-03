@@ -18,6 +18,8 @@
   
   ![NimWin](/images/nim.png)
   
+  courtesy of ["Subtraction_game"](https://upload.wikimedia.org/wikipedia/commons/4/4d/Subtraction_game_SMIL.svg) on Wikipedia
+  
   Took me a while to figure it out. First I thought it was just
   keeping the numbers not a multiple of three, 
   then I thought I should just mirror the move of my opponent.
