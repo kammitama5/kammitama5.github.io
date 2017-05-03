@@ -26,7 +26,10 @@
   This is one of those games where it really does have an 
   advantage to start first. 
   
-  
+## Developing Simple Commands
+
+  While Loop
+  ![WhileLoop](/images/h_8_001.png)
   
 ## To do 
 
