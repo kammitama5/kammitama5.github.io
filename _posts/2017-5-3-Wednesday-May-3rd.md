@@ -31,6 +31,7 @@
   While Loop
   ![WhileLoop](/images/h_8_001.png)
   ![SimpleVarAssignment](/images/h_8_002.png)
+  ![Careful](/images/h_8_003a.png)
   
 ## To do 
 
