@@ -20,6 +20,8 @@
 We used this correctness approach to find the solution bit by bit of a function in Matlab,
 that evaluates Polynomials. I want to go over this chapter on my own again, if I have time.
 
+*Note: The fonts are different because I'm using an Online version of LaTeX with a small monitor.*
+
 ## Other
 
 I watched a really interesting lecture on Asteroid Mining last night. 
