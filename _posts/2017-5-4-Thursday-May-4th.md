@@ -14,6 +14,8 @@
 ![h_9_002](/images/h_9_002.png)
 ![h_9_003](/images/h_9_003.png)
 ![h_9_004](/images/h_9_004.png)
+![h_9_005](/images/h_9_005.png)
+![h_9_006](/images/h_9_006.png)
 
 We used this correctness approach to find the solution bit by bit of a function in Matlab,
 that evaluates Polynomials. I want to go over this chapter on my own again, if I have time.
