@@ -115,7 +115,7 @@
   
 - Also, tests...tests were great to double-check and really see if you had an understanding.
 
-- I thought we may have used Derived classes, but I didn't really see any of that.
+- I thought we may have used [Derived classes](http://en.cppreference.com/w/cpp/language/derived_class), but I didn't really see any of that. Something like the GameManager inheriting some of the other classes. Was expecting some of that.
 
 # Future goals 
 
