@@ -30,6 +30,8 @@ that evaluates Polynomials. I want to go over this chapter on my own again, if I
   
 ![Juno](/images/juno.png)
 
+## Random
+
 I watched a really interesting lecture on Asteroid Mining last night. 
 The link is [here](http://www.computerhistory.org/atchm/asteroid-mining-the-only-business-where-the-sky-isnt-the-limit/).
 Courtesy the [Computer History Museum](http://www.computerhistory.org/), one of my favourite places!
