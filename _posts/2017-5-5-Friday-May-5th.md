@@ -115,6 +115,14 @@
   
 - Also, tests...tests were great to double-check and really see if you had an understanding.
 
+- I thought we may have used Derived classes, but I didn't really see any of that.
+
+# Future goals 
+
+- I'd like to do more of these, build some of my own, etc.
+  Once I'm comfortable with some of those, I'd like to try some
+  using [function templates](http://www.cplusplus.com/doc/oldtutorial/templates/)
+
 
 # And...
 
