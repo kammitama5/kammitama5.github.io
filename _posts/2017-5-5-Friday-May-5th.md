@@ -26,6 +26,7 @@
   
 ## Ostream and Bitwise Operators 
 
+![bitwise](/images/bitwise.png)
 - 
   
 ## Pathway / Structure :
