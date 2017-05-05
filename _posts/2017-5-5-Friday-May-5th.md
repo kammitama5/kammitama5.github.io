@@ -40,6 +40,8 @@
 - I'd like to know more about this in terms of graphics programming
 
 ## Inline functions 
+
+![inline](/images/inline.png)
   
 - Good for increasing execution time. 
   Essentially, when you call the function, the compiler replaces the function call
