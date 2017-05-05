@@ -29,6 +29,8 @@
   
 ## Deconstructor to prevent Memory Leaks
 
+- release the memory of the pointers once the function goes out of scope. 
+
 ![decon](/images/decon.png)
   
 ## Ostream and Bitwise Operators 
