@@ -72,5 +72,10 @@
 - Also, tests...tests were great to double-check and really see if you had an understanding.
 
 
+# And...
+
+- Yes, I did change the ball to a cent sign..because "Dolla dolla bills y'all" 
+  (I actually have no idea what that means haha).
+
 
 
