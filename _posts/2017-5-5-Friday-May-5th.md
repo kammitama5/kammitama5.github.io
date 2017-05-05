@@ -73,7 +73,7 @@
 
 ![initial](/images/p_004.png)
 
-## This is where we inserted using Charmap, to get better images for the paddle and walls
+## This is where we inserted using Charmap, to get better images for the paddle and walls (\0xB2)
 
 ![charmap](/images/p_005_windowsr.png)
 
