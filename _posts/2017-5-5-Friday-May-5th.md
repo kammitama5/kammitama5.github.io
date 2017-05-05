@@ -6,7 +6,7 @@
   I decided to try a C++ Pong tutorial.
  369 lines of code later, I learned a *lot*.
   
-  ![p_011](/images/p_011.png)
+![p_011](/images/p_011.png)
   
 ## Things I had to deal with that I didn't have to in the JS version
 
