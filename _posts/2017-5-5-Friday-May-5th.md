@@ -8,7 +8,7 @@
   
 ![p_011](/images/p_011.png)
   
-## Things I had to deal with that I didn't have to in the JS version :
+## Things I had to deal with that I didn't have to in the JS version:
 
 ## Pointers
  ![pointers](/images/pointers.png)
