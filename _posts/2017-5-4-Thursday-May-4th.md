@@ -24,8 +24,10 @@ that evaluates Polynomials. I want to go over this chapter on my own again, if I
 
 ## Other
 
-This is from the talk tonight. It was the Cassini mission, and it was awesome!
-This is actually Juno Spacecraft (a model), to 1/5 scale. 
+- This is from the talk tonight. 
+  It was the Cassini mission, and it was awesome!
+  This is actually Juno Spacecraft (a model), to 1/5 scale. 
+  
 ![Juno](/images/juno.png)
 
 I watched a really interesting lecture on Asteroid Mining last night. 
