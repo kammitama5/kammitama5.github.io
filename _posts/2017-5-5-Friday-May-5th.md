@@ -31,8 +31,8 @@
   
 ## Pathway / Structure :
 
-- * Ball Function : * (position up and down)
-- * Paddle Function : * (position up and down)
+* Ball Function : * (position up and down)
+* Paddle Function : * (position up and down)
 * Reset Function* (ball and paddle back to zero)
 * Move Function : * (move up, move down -> defining enums in terms of x and y)
 * Change direction :  (obvious-> reverse direction) * 
