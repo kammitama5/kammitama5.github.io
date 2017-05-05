@@ -27,7 +27,7 @@
 
 ![ballfunc](/images/p_001.png)
 
-![ballfunc1](/imagse/p_002.png)
+![ballfunc1](/images/p_002.png)
 
 ## Then we tested that the paddle function worked
 
@@ -44,13 +44,13 @@
 ## Then we tested and tested and amended the game
 
 ![test1](images/p_006.png)
-![test1](images/p_007.png)
-![test1](images/p_008.png)
+![test2](images/p_007.png)
+![test3](images/p_008.png)
 
 ## Finally, we added and tested the score function. Game on!
 
-![test1](images/p_009.png)
-![test1](images/p_00010.png)
+![test5](images/p_009.png)
+![test6](images/p_0010.png)
 
 # Overall commentary
 
