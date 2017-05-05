@@ -5,6 +5,8 @@
 - Quite a few things, actually.
   I decided to try a C++ Pong tutorial.
  369 lines of code later, I learned a *lot*.
+ 
+ You can try the original tut (a three-parter) at: [NVitanovic](https://www.youtube.com/watch?v=y8QL62SDlcQ)
   
 ![p_011](/images/p_011.png)
   
@@ -112,6 +114,8 @@
 
 - Yes, I did change the ball to a cent sign..because "Dolla dolla bills y'all" 
   (I actually have no idea what that means haha).
+  
+  
 
 
 
