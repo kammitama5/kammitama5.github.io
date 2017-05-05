@@ -27,6 +27,10 @@
 - And yes, classes. This was all done in VS (Visual Studio). 
   All in one file, too. No header files or anything. 
   
+## Deconstructor to prevent Memory Leaks
+
+![decon](/images/decon.png)
+  
 ## Ostream and Bitwise Operators 
 
 ![bitwise](/images/bitwise.png)
@@ -73,7 +77,7 @@
 
 ![initial](/images/p_004.png)
 
-## This is where we inserted using Charmap, to get better images for the paddle and walls (\0xB2)
+## This is where we inserted using Charmap, to get better images for the paddle (\xDB) and walls (\xB2)
 
 ![charmap](/images/p_005_windowsr.png)
 
