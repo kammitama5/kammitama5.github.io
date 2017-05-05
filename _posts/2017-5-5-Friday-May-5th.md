@@ -8,7 +8,7 @@
   
 ![p_011](/images/p_011.png)
   
-## Things I had to deal with that I didn't have to in the JS version
+## Things I had to deal with that I didn't have to in the JS version :
 
 ## Pointers
  ![pointers](/images/pointers.png)
@@ -24,7 +24,28 @@
 - And yes, classes. This was all done in VS (Visual Studio). 
   All in one file, too. No header files or anything. 
   
-## Pathway
+## Ostream and Bitwise Operators 
+
+- 
+  
+## Pathway / Structure :
+
+- * Ball Function : * (position up and down)
+- * Paddle Function : * (position up and down)
+* Reset Function* (ball and paddle back to zero)
+* Move Function : * (move up, move down -> defining enums in terms of x and y)
+* Change direction :  (obvious-> reverse direction) * 
+* Random Direction : (so we can't predict where it will go) *
+* Input * (buttons up down from users)
+* Game : Game Logic*
+* Draw : (draw the images) *
+* Run : unless q is pressed *
+
+## Classes :
+
+* Ball * 
+* Paddle *
+* Game *
 
 ## First we tested that the ball function worked 
 
@@ -56,6 +77,8 @@
 ![test3](/images/p_008.png)
 
 ## Finally, we added and tested the score function. Game on!
+
+ *Ready to Play?*
 
 ## Game works...Score Updates
 ![test5](/images/p_009.png)
