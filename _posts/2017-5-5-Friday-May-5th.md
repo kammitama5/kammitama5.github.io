@@ -43,13 +43,22 @@
 
 ## Then we tested and tested and amended the game
 
+## Test One (Before CharMap)
 ![test1](/images/p_006.png)
+
+## Test Two (After CharMap)
 ![test2](/images/p_007.png)
+
+## Test Three (Fix Paddle)
 ![test3](/images/p_008.png)
 
 ## Finally, we added and tested the score function. Game on!
 
+## Game works...Score Updates
 ![test5](/images/p_009.png)
+
+## One More time...
+
 ![test6](/images/p_0010.png)
 
 # Overall commentary
