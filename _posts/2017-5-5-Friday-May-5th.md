@@ -19,7 +19,8 @@
  ![enums](/images/enums.png)
 
 - Charmap (didn't know about this one). Quite neat to make paddle.
-  Shortcut on Windows -> Windows + R. Find hex code to insert.
+  Shortcut on Windows -> Windows + R. 
+  Find hex code to insert.
   
 - And yes, classes. This was all done in VS (Visual Studio). 
   All in one file, too. No header files or anything. 
