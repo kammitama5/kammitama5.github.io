@@ -29,7 +29,9 @@
   
 ## Deconstructor to prevent Memory Leaks
 
-- release the memory of the pointers once the function goes out of scope. 
+- release the memory of the pointers once the function goes out of scope.
+  Otherwise, you can have memory just being used up and have unexpected
+  but familiar "garbage garbage". Treasures from your computer!
 
 ![decon](/images/decon.png)
   
