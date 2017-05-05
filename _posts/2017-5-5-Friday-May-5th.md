@@ -36,7 +36,7 @@
 
 ![paddlefunc](/images/p_003.png)
 
-##  Then we tested placement and that the cout has our positions for paddle and ball initial values
+##  Then we tested placement and that the cout (print) has our positions for paddle and ball initial values
 
 ![initial](/images/p_004.png)
 
