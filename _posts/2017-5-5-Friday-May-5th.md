@@ -43,7 +43,7 @@
 
 ## Then we tested and tested and amended the game
 
-## Test One (Before CharMap)
+## Test One (Before CharMap) -> CharMap *not* on Bottom Wall
 ![test1](/images/p_006.png)
 
 ## Test Two (After CharMap)
