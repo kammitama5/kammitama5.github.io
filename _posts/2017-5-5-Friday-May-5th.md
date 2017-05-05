@@ -121,7 +121,7 @@
 
 - I'd like to do more of these, build some of my own, etc.
   Once I'm comfortable with some of those, I'd like to try some
-  using [function templates](http://www.cplusplus.com/doc/oldtutorial/templates/)
+  using [function templates.](http://www.cplusplus.com/doc/oldtutorial/templates/)
 
 
 # And...
