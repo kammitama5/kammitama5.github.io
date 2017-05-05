@@ -27,6 +27,7 @@ that evaluates Polynomials. I want to go over this chapter on my own again, if I
 - This is from the talk tonight. 
   It was the Cassini mission, and it was awesome!
   This is actually Juno Spacecraft (a model), to 1/5 scale. 
+  These are the largest solar panels...because Jupiter is HUGE.
   
 ![Juno](/images/juno.png)
 
