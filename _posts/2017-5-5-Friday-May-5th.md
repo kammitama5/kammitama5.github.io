@@ -48,13 +48,13 @@
 * Input : (buttons up down from users)
 * Game : Game Logic 
 * Draw : (draw the images) 
-* Run : unless q is pressed 
+* Run : unless q is pressed, runs functions. I added Sleep(); 
 
 ## Classes :
 
 * Ball  
 * Paddle 
-* Game 
+* Game (includes score, player1, player 2, ball, etc) 
 
 ## First we tested that the ball function worked 
 
