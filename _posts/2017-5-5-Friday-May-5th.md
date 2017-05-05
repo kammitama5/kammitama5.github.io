@@ -35,12 +35,12 @@
 * Paddle Function : (position up and down)
 * Reset Function : (ball and paddle back to zero)
 * Move Function : (move up, move down -> defining enums in terms of x and y)
-* Change direction : (obvious-> reverse direction) * 
-* Random Direction : (so we can't predict where it will go) *
+* Change direction : (obvious-> reverse direction) 
+* Random Direction : (so we can't predict where it will go) 
 * Input * (buttons up down from users)
-* Game : Game Logic *
-* Draw : (draw the images) *
-* Run : unless q is pressed *
+* Game : Game Logic 
+* Draw : (draw the images) 
+* Run : unless q is pressed 
 
 ## Classes :
 
