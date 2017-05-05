@@ -31,6 +31,10 @@ that evaluates Polynomials. I want to go over this chapter on my own again, if I
   
 ![Juno](/images/juno.png)
 
+- I also found out randomly today (by accident) that my friends 
+  are really good friends of Sagan. So awesome! 
+  
+
 ## Random
 
 I watched a really interesting lecture on Asteroid Mining last night. 
