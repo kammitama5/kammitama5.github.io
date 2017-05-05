@@ -27,7 +27,15 @@
 ## Ostream and Bitwise Operators 
 
 ![bitwise](/images/bitwise.png)
-- 
+
+- I'd like to know more about this in terms of graphics programming
+
+## Inline functions 
+  
+- Good for increasing execution time. 
+  Essentially, when you call the function, the compiler replaces the function call
+  with code from the function. 
+  I can see why C++ is used for games. A lot of control in terms of memory.
   
 ## Pathway / Structure :
 
