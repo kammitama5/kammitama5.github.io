@@ -24,9 +24,9 @@ Started out in New York, mostly in California, but get around to the other state
 
 [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California
 
-### Resume Gist 
+### Other 
 
-[Gist](https://gist.github.com/kammitama5/830b5ac1f5bde2eaa49537c488ab84f6)
+[Gist of Things](https://gist.github.com/kammitama5/830b5ac1f5bde2eaa49537c488ab84f6)
 
 ### Contact me
 
