@@ -29,6 +29,20 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    I think more-so if you're of that hacker/maker mindset and are a good fit. 
    I love the people, I love my hackerspace, and I love DEF CON.
    It's tiring, though. I'm only going for two days this year. (Happy 25th!)
+   
+   I first learned about DEF CON because years ago, I thought I wanted to be an
+   artistic roboticist (whatever *that* means..along with being a poetic rocket scientist lol)
+   so I went all the way to San Francisco to take a free PCB class.
+   As it turns out, this guy who was giving the class had a class of 30
+   ...and a waitlist of 70 people, who were all Googlers, people from Apple, etc.
+   
+   And they said "You have to go to DEF CON!"
+   Later, I went to SCALE (Southern California Linux Expo..I volunteered this year, too)
+   and I kept seeing those t-shirts, everywhere.
+   And I joined a hacker-space (three, actually, but I'm a member of one)
+   and as it turns out, they have a booth at DEF CON. 
+   Those people like family to me, even though I really should be helping them move. 
+   I'll probably help with load-in once they get a new space.
  
 - People exhaust me, so after talking to many of them, I'll just completely withdraw.
   Sometimes, I'll just stay at home for an entire day with the lights out. 
