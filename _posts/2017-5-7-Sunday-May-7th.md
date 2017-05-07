@@ -48,7 +48,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    ![esp82661](/images/esp82661.png)
     
 ## And taking classes on this stuff, and building them 
-   (this is in PCB Express)
+   (this is in Express PCB)
 
    ![sa](/images/sa.png)
    ![sa](/images/sa1.png)
