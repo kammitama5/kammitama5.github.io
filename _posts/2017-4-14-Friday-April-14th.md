@@ -12,7 +12,7 @@
 ## Today I learned...cont'd:
 
 - Watched a great documentary on Titan and Cassini, and some on Vesper. Learned about cryo-volcanoes. 
-  I guess this is what happenes when you hang out with rocket scientists the evening before. :)
+  I guess this is what happens when you hang out with rocket scientists the evening before. :)
 
 - Learned about Porkchop plots, Delta-v, the Oberth Effect and the Tsiolkovsky rocket equation for calculating orbital maneuver.
 
@@ -132,7 +132,7 @@ In associativity, grouping is not important, so we can ignore the parentheses.
 - (F => E1) <=> T 
 - (E1 => T) <=> T 
 
-## Contrapositive (useful method of proof-solving. Learned this is Devlin's class! :) 
+## Contrapositive (useful method of proof-solving. Learned this in Devlin's class! :) 
 
 - (E1 => E2) <=> (NOT E2 => NOT E1)
 
