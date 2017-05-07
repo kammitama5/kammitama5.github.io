@@ -43,7 +43,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
 
    ![esp8266](/images/esp8266.png)
    
-## Testing the actual board (from a workshop taught by Mark)
+## Testing the actual board (from a workshop taught by Matt Berggren)
     
    ![esp82661](/images/esp82661.png)
     
