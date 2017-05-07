@@ -5,7 +5,7 @@
 I spent yesterday taking a break from people, and reading up on BlackJack and the IBM 704.
 
 - The [IBM 704](https://www-03.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP704.html) is a fascinating computer.
-  It is know as the "first large-scale, commercially reliable computer to 
+  It is known as the "first large-scale, commercially reliable computer to 
   employ fully automatic floating point arithmetic commands."
   It does something like up to 12 000 floating point additons per second.
   
