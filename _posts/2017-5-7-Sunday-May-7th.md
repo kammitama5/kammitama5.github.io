@@ -31,7 +31,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    I don't party (outside of tech raves) and I got home at 5am..for a check-out at 11.
    :(
    
-   I think more-so if you're of that hacker/maker mindset and are a good fit. 
+   DEF CON is fun...more-so if you're of that hacker/maker mindset and are a good fit. 
    I love the people, I love my hackerspace, and I love DEF CON.
    It's tiring, though. I'm only going for two days this year. (Happy 25th!)
    
