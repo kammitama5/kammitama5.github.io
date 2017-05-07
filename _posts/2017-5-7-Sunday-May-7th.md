@@ -3,6 +3,14 @@
 ## Reflection
 
 I spent yesterday taking a break from people, and reading up on the BlackJack and the IBM 704.
+
+The [IBM 704](https://www-03.ibm.com/ibm/history/exhibits/mainframe/mainframe_PP704.html) is a fascinating computer.
+It is know as the "first large-scale, commercially reliable computer to 
+employ fully automatic floating point arithmetic commands."
+It does something like up to 12 000 floating point additons per second.
+[Ed Thorp](https://en.wikipedia.org/wiki/Edward_O._Thorp) used it to do research on probabilities of winning at BlackJack.
+He's written quite a few books on the topic. It's fascinating stuff!
+
 My friends from the Haskell group have called me an Extrovert because I like tech raves
 ie specifically raves at tech conferences :) 
 but I think of myself as more of an Extroverted Introvert. 
@@ -15,10 +23,16 @@ Anyways...
 I'm solved this kata in Python. 
 It was fun...
 Basically, you have this word "say blah"
-and you need to compare it with a "bath" ie "|~~~~~~|"
+and you need to compare it with a "bath",
+represented graphically between two walls.
+as 
+```
+|~~~~~| 
+```
+of varied lengths given.
 Can the word fit in the bath?
 
-My solution
+## My solution
 
 ```
 def bath(s,x):
@@ -33,7 +47,7 @@ def bath(s,x):
 		# x is a bath in format |~~~~|
 ```
 
-This is another one I'm working on.
+@@ This is another one I'm working on.
 It passes the test case, but not the general tests. Plus, it's long.
 
 ```
