@@ -174,8 +174,8 @@ Palindrome checker where you had to remove non-alpha chars and spaces
 
 ```
  function isPalindrome(stringToTest) {
-    if (typeof(stringToTest) != 'string'){
-      return false
+    if (typeof(stringToTest) != 'string'){ // this line passed my kata!
+      return false // and this...
     }
     else{
     var stringToTest1 = stringToTest.toString().replace(/[^0-9a-z]/gi, '')
