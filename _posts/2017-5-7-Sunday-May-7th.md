@@ -39,7 +39,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    
    I was doing *this* about three years ago. 
    
-## Schematic in Eagle CAD for breakout board  
+## Schematic in Eagle CAD for breakout board (Eagle CAD was bought by Autodesk, where Matt moved) 
 
    ![esp8266](/images/esp8266.png)
    
@@ -48,11 +48,13 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    ![esp82661](/images/esp82661.png)
     
 ## And taking classes on this stuff, and buiding them 
+   (this is in PCB Express)
 
    ![sa](/images/sa.png)
    ![sa](/images/sa1.png)
    
 ....I ended up on a robotics project where I ended up doing the programming in C...and liked it!
+    I quickly figured out I liked programming more than anything else.
  
 ## ...so...
    
