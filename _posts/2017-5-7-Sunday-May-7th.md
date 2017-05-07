@@ -80,7 +80,7 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
  
    I guess I'm just...a maker/ tinkerer?
    
-## This is from a robotics workshop taught by Architecture Grad school students
+## This is from a robotics workshop taught by Architecture Grad school students (2013-2014)
 - I was learning about woodworking/ welding and machining,
   and stumbled upon this really neat place that was using 3D modelling software
   for architecture to make robots out of acrylic
@@ -95,7 +95,7 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
 
 ![robots2](/images/robot2.png)
 
-## This is from a few years ago, when I was on a team....
+## This is from a few years ago, when I was on a team....(2014)
 
    We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
    ![badass](/images/badass.png)
