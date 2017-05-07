@@ -35,8 +35,30 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    I love the people, I love my hackerspace, and I love DEF CON.
    It's tiring, though. I'm only going for two days this year. (Happy 25th!)
    
-   I first learned about DEF CON because years ago, I thought I wanted to be an
-   artistic roboticist (whatever *that* means..along with being a poetic rocket scientist lol)
+## History
+   
+   I was doing *this* about three years ago. 
+   
+## Schematic in Eagle CAD for breakout board  
+
+   ![esp8266](/images/esp8266.png)
+   
+## Testing the actual board (from a workshop taught by Mark)
+    
+   ![esp82661](/images/esp82661.png)
+    
+## And taking classes on this stuff, and buiding them 
+
+   ![sa](/images/sa.png)
+   ![sa](/images/sa1.png)
+   
+....I ended up on a robotics project where I ended up doing the programming in C...and liked it!
+ 
+## ...so...
+   
+-  I first learned about DEF CON because years ago, I thought I wanted to be an
+   artistic roboticist or something
+   (whatever *that* means..along with being a poetic rocket scientist lol)
    so I went all the way to San Francisco to take a free PCB class.
    As it turns out, this guy who was giving the class had a class of 30
    ...and a waitlist of 70 people, who were all Googlers, people from Apple, etc.
