@@ -78,7 +78,10 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    Those people like family to me, even though I really should be helping them move. 
    I'll probably help with load-in once they get a new space.
  
-
+   I guess I'm just...a maker/ tinkerer?
+## This is from a few years ago, where I was on a team....
+   We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
+   [badass](/images/badass.png)
 
 ## Anyways...
 
