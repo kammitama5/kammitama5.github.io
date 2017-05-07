@@ -66,7 +66,9 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
 -  I first learned about DEF CON because years ago, I thought I wanted to be an
    artistic roboticist or something
    (whatever *that* means..along with being a poetic rocket scientist and soap-maker lol)
-   so I went all the way to San Francisco to take a free PCB class.
+   so I went all the way to San Francisco to take a free PCB class,
+   and to attend [Solid](https://www.youtube.com/watch?v=4Ljh8SxUiek&feature=em-uploademail), the O'Reilly conference on hardware and software integration.
+   I missed [Astro Teller's](https://en.wikipedia.org/wiki/Astro_Teller) talk by an hour, because of my flight back :(
    As it turns out, this guy who was giving the class had a class of 30
    ...and a waitlist of 70 people, who were all Googlers, people from Apple, etc.
    
@@ -82,8 +84,11 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
    
 ## This is from a robotics workshop taught by Architecture Grad school students (2013-2014)
 - I was learning about woodworking/ welding and machining,
-  and stumbled upon this really neat place that was using 3D modelling software
-  for architecture to make robots out of acrylic
+  and stumbled upon [this really neat place](http://www.somewheresomething.com/) that was using 3D modelling software
+  for architecture to make robots out of acrylic. It was a really cool spot (they even had 
+  black-smithing next door!) where all these makers were contained
+  (one guy made himself a 6 foot x 6 foot 3D printer), but the building was 
+  later sold and bought by the Agassis (yep, the tennis players) to start a school.
   
 - Motor on bottom for side to side motion, and one on arm for up and down. 
 
