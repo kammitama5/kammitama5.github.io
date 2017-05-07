@@ -65,7 +65,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    
 -  I first learned about DEF CON because years ago, I thought I wanted to be an
    artistic roboticist or something
-   (whatever *that* means..along with being a poetic rocket scientist lol)
+   (whatever *that* means..along with being a poetic rocket scientist and soap-maker lol)
    so I went all the way to San Francisco to take a free PCB class.
    As it turns out, this guy who was giving the class had a class of 30
    ...and a waitlist of 70 people, who were all Googlers, people from Apple, etc.
