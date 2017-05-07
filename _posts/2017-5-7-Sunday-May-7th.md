@@ -55,6 +55,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    
 ....I ended up on a robotics project where I ended up doing the programming in C...and liked it!
     I quickly figured out I liked programming more than anything else.
+    It was the perfect mix of technical and creative, and I loved the people.
  
 ## ...so...
    
