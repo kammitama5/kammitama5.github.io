@@ -92,7 +92,7 @@ Software (Rhino 3D) with Grasshopper plug-in.
 We used node-based software (kind of like Nuke or Shake) to control it.
 You could even control it using an iPhone app, etc.
 
-![robots1](/images/robot2/png)
+![robots2](/images/robot2/png)
 
 ## This is from a few years ago, when I was on a team....
 
