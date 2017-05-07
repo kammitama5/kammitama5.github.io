@@ -86,13 +86,13 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
   for architecture to make robots out of acrylic
   
 Motor on bottom for side to side motion, and one on arm for up and down. 
-![robots1](/images/robot1/png)
+![robots1](/images/robot1.png)
 
 Software (Rhino 3D) with Grasshopper plug-in.
 We used node-based software (kind of like Nuke or Shake) to control it.
 You could even control it using an iPhone app, etc.
 
-![robots2](/images/robot2/png)
+![robots2](/images/robot2.png)
 
 ## This is from a few years ago, when I was on a team....
 
