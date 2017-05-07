@@ -17,6 +17,18 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
 - My friends from the Haskell group have called me an Extrovert because I like tech raves
   ie specifically raves at tech conferences :) 
   but I think of myself as more of an Extroverted Introvert aka The Loner Wolf. 
+  
+ - I guess it didn't help that at DEF CON I went to six parties in one night last year.
+   I still have this glow-stick that the Swedish DJ (who gave me a giant hug at 4
+   in the morning and told me how drunk he was) stole from me during his set...
+   and later returned.
+   Yeah, DEF CON is pretty wild. 
+   I don't party (outside of tech raves) and I got home at 5am..for a check-out at 11.
+   :(
+   
+   I think more-so if you're of that hacker/maker mindset and are a good fit. 
+   I love the people, I love my hackerspace, and I love DEF CON.
+   It's tiring, though. I'm only going for two days this year. (Happy 25th!)
  
 - People exhaust me, so after talking to many of them, I'll just completely withdraw.
   Sometimes, I'll just stay at home for an entire day with the lights out. 
