@@ -79,6 +79,21 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    I'll probably help with load-in once they get a new space.
  
    I guess I'm just...a maker/ tinkerer?
+   
+## This is from a robotics workshop taught by Architecture Grad school students
+- I was learning about woodworking/ welding and machining,
+  and stumbled upon this really neat place that was using 3D modelling software
+  for architecture to make robots out of acrylic
+  
+Motor on bottom for side to side motion, and one on arm for up and down. 
+![robots1](/images/robot1/png)
+
+Software (Rhino 3D) with Grasshopper plug-in.
+We used node-based software (kind of like Nuke or Shake) to control it.
+You could even control it using an iPhone app, etc.
+
+![robots1](/images/robot2/png)
+
 ## This is from a few years ago, when I was on a team....
 
    We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
