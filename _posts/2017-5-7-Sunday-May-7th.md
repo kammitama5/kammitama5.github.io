@@ -21,7 +21,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
 - People exhaust me, so after talking to many of them, I'll just completely withdraw.
   Sometimes, I'll just stay at home for an entire day with the lights out. 
   
- - I guess it didn't help that at DEF CON I went to six parties in one night last year.
+ - I guess it didn't help, but at DEF CON 24 I went to six parties in one night last year.
    I still have this glow-stick that the Swedish DJ (who gave me a giant hug at 4
    in the morning and told me how drunk he was while 50 of us were 
    having a portable party around the hotel) stole from me during his set...
