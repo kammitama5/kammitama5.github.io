@@ -140,4 +140,6 @@ In associativity, grouping is not important, so we can ignore the parentheses.
 
 
 ## Bugs
+Markdown is convenient, but I don't really care for it that much. In my humble opinion, it isn't as elegant as LaTeX, 
+which is like a beautiful dream. So intuitive and satisfying to use. 
 
