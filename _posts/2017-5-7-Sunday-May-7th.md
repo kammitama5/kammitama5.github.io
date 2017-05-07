@@ -69,7 +69,7 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
    so I went all the way to San Francisco to take a free PCB class,
    and to attend [Solid](https://www.youtube.com/watch?v=4Ljh8SxUiek&feature=em-uploademail), the O'Reilly conference on hardware and software integration.
    I missed [Astro Teller's](https://en.wikipedia.org/wiki/Astro_Teller) talk by an hour, because of my flight back :(
-   As it turns out, this guy who was giving the class had a class of 30
+   As it turns out, this guy, Matt, who was giving the class had a class of 30
    ...and a waitlist of 70 people, who were all Googlers, people from Apple, etc.
    
    And they said "You have to go to DEF CON!"
