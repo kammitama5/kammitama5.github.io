@@ -84,7 +84,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
    ![badass](/images/badass.png)
    
-   We also have video footage of an illegal parking-lot race (which we also won).
+   I also have video footage of an illegal parking-lot race (which we also won).
    That's for another time!
 
 ## Anyways...
