@@ -20,9 +20,14 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
   
  - I guess it didn't help that at DEF CON I went to six parties in one night last year.
    I still have this glow-stick that the Swedish DJ (who gave me a giant hug at 4
-   in the morning and told me how drunk he was) stole from me during his set...
+   in the morning and told me how drunk he was while 50 of us were 
+   having a portable party around the hotel) stole from me during his set...
    and later returned.
-   Yeah, DEF CON is pretty wild. 
+   
+   Yeah, DEF CON is pretty wild. It was my first, and so worth it.
+   So many familiar faces. Bear in mind, I didn't even have a single drink.
+   It's not required to drink to have fun. Just have great company, and be a geek!
+   
    I don't party (outside of tech raves) and I got home at 5am..for a check-out at 11.
    :(
    
