@@ -81,7 +81,7 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
    I guess I'm just...a maker/ tinkerer?
 ## This is from a few years ago, where I was on a team....
    We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
-   [badass](/images/badass.png)
+   ![badass](/images/badass.png)
 
 ## Anyways...
 
