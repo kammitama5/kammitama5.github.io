@@ -130,3 +130,8 @@ var color2grey = function (image) {
       
 }
 ```
+# Things to do:
+
+- Last Bit of Programming for Correctness assignment (due Monday evening)
+
+- C++ lab polish up and send away (due Monday evening)
