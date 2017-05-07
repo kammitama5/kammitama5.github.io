@@ -85,7 +85,8 @@ I spent yesterday taking a break from people, and reading up on the BlackJack an
   and stumbled upon this really neat place that was using 3D modelling software
   for architecture to make robots out of acrylic
   
-# Motor on bottom for side to side motion, and one on arm for up and down. 
+- Motor on bottom for side to side motion, and one on arm for up and down. 
+
 ![robots1](/images/robot1.png)
 
 - Software (Rhino 3D) with Grasshopper plug-in.
