@@ -266,6 +266,6 @@ var color2grey = function (image) {
 ```
 # Things to do:
 
-- Last Bit of Programming for Correctness assignment (due Monday evening)
+- Last Bit of Programming for Correctness assignment (due 5/8 pm)
 
-- C++ lab polish up and send away (due Monday evening)
+- C++ lab polish up and send away (due 5/15)
