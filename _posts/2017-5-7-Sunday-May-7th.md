@@ -269,6 +269,54 @@ var color2grey = function (image) {
       
 }
 ```
+## Oh, and solved this one (I could have had a shorter solution, but...)
+
+```
+Regular fruits = 5 == banana, orange, apple, lemon, grapes
+Special fruits = 7 == avocado, strawberry, mango
+Other fruits = 9
+Return the average of the array of fruits given
+round up (so 0.8 is rounded up to 1)
+
+function mixFruit (arr) {
+    total = 0;
+    var a = arr.toLocaleString().toLowerCase().split(',');
+    for (var i = 0; i < a.length; i++){
+      if (a[i] == 'banana'){
+        total = total + 5;
+      }
+      else if (a[i] == 'orange'){
+        total = total + 5;
+      }
+      else if (a[i] == 'apple'){
+        total = total + 5;
+      }
+      else if (a[i] == 'lemon'){
+        total = total + 5;
+      }
+      else if (a[i] == 'grapes')
+      {
+        total = total + 5;
+      }
+      else if (a[i] == 'avocado'){
+        total = total + 7;
+      }
+      else if (a[i] == 'strawberry'){
+        total = total + 7;
+      }
+      else if (a[i] == 'mango'){
+        total = total + 7;
+      }
+      else{
+        total = total + 9;
+      }
+      
+    }
+    var avg = total / arr.length;
+    return(Math.round(avg))
+}
+
+```
 # Things to do:
 
 - Last Bit of Programming for Correctness assignment (due 5/8 pm)
