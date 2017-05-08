@@ -336,6 +336,34 @@ function mixFruit (arr) {
 }
 
 ```
+## Something about different computers easy Kata
+
+```
+function express(x, device){
+    if (device == 'iPhone'){
+      return("Damn")
+    }
+    else if (device == 'Desktop'){
+      return("Sent")
+    }
+    else if ((device == "Laptop") && (x.length !== 22)){
+      return("Damn")
+    }
+    else if ((device == "Laptop") && (x.length === 22)){
+      return("Sent")
+    }
+    else if ((device == "Macbook") && (x.length !== 22)){
+      return("Sent")
+    } 
+    else if ((device == "Laptop") && (x.length === 22)){
+      return("Damn")
+    }
+    else{
+      return("Damn")
+    }
+}
+
+```
 # Things to do:
 
 - Last Bit of Programming for Correctness assignment (due 5/8 pm)
