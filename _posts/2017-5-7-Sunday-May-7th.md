@@ -208,7 +208,28 @@ Palindrome checker where you had to remove non-alpha chars and spaces
 }
 
 ```
+## They fixed the BMI kata (so I solved that one)...
 
+```
+function bmi(weight, height) {
+  var bmi = (weight / (height * height));
+  if (bmi <= 18.5){
+    return "Underweight"
+  }
+  else if (bmi <= 25.0){
+    return "Normal"
+  }
+  else if (bmi <= 30.0){
+    return "Overweight"
+  }
+  else if (bmi > 30){
+    return "Obese"
+  }
+  else{
+    return "No weight"
+  }
+}
+```
 ## This is another one I'm working on.
 
 It passes the test case, but not the general tests. Plus, it's long.
