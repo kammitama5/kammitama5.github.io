@@ -172,6 +172,25 @@ function skiJump(mountain){
 }
 
 ```
+## Remove rotten fruit (leave only good fruits in array)
+
+This one had a None in one of the arrays, which was why it didn't pass before.
+
+```
+def remove_rotten(bag_of_fruits):
+    a = bag_of_fruits
+    arr = []
+    if a == None:
+        return []
+    else:
+        for i in a:
+          if i[:6] == "rotten":
+            b = arr.append(i[6:].lower())
+          else:
+            b = arr.append(i)
+        return arr
+	
+```
 
 ## Solved this one...one of the inputs wasn't a string...that's why it didn't pass before :)
 
