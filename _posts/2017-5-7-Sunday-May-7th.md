@@ -230,6 +230,22 @@ function bmi(weight, height) {
   }
 }
 ```
+## ..And this one...
+
+If you can find in the array ascii that is lower case letter,
+change it to the lower-case vowel associated with that ascii code.
+
+```
+def is_vow(inp):
+    arr = []
+    for i in inp:
+        if ((i == 97) or  (i == 101) or (i == 105) or (i == 111) or (i == 117)):
+            arr.append(chr(i))
+        else:
+            arr.append(i)
+    return arr
+```
+
 ## This is another one I'm working on.
 
 It passes the test case, but not the general tests. Plus, it's long.
