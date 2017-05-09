@@ -39,6 +39,21 @@
 
   ```
   
+## And this one...
+
+- Blah blah secret language that takes this:
+  Bye! = 
+  and makes it look like:  #!eyB#
+  
+  My solution in Python
+  
+```
+def reverser(string):
+    return '#' + string[::-1] + '#'
+```
+
+Yawn...When's lunch again? :)
+  
 ## TIL
 
 - This is pretty neat. 
