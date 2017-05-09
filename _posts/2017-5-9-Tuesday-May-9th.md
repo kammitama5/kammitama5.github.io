@@ -14,7 +14,7 @@
 
 - Another benefit of doing tutorials, reading books, looking at others' code is sometimes
   you find out some things aren't necessarily the best (or maybe they are).
-  I've been using " namespace std " globally the whole time, because I was taught to do so.
+  I've been using [" namespace std "](http://www.cplusplus.com/forum/beginner/60663/) globally the whole time, because I was taught to do so.
   And yesterday, this guy was saying it's a big no-no, and to use it within scope instead,
   because it can cause issues/ confusion if something is named cout.
   
