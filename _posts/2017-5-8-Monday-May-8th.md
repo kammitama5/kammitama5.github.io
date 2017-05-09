@@ -16,8 +16,10 @@ even though I appparently made one in Java before (whoops).
   
   Anyways, there are neat tricks like:
   
-  hold alt and you can drag and select a group of objects:
+  hold alt and you can drag and select a group of objects
+  
   ![ge_014](/images/ge_014.png)
+  
   ![ge_015](/images/ge_015.png)
   
   ## To start, we loaded Two main libraries:
