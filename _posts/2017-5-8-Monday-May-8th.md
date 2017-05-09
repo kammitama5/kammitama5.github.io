@@ -24,7 +24,9 @@ even though I appparently made one in Java before (whoops).
  1.  C++
  2.  Haskell 
  3. Computational understanding in general:
+ 
     Things like Pointers, Category Theory, Type Theory, Combinatorial Logic, etc.
+    
  4. The Scientific approach: LaTeX, being analytical and concise, thinking more than tap-tapping. 
 
 - I think that those two languages will do something special for my ability if I keep learning them,
