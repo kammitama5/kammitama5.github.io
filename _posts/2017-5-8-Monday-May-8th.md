@@ -36,8 +36,10 @@ even though I appparently made one in Java before (whoops).
   I don't think it's enough for me to just *be a developer*. I want to be a *good* one. 
   So I try to keep learning, and definitely don't shut myself off from learning a new language,
   trying something out, etc. Especially at this stage, it's okay to fail. 
-  
-Anyways, there are neat tricks like:
+
+## Today's exploration -> Building a Game Engine 
+
+In this particular one, there are neat tricks like:
   
 - hold alt and you can drag and select a group of objects
   
@@ -45,6 +47,11 @@ Anyways, there are neat tricks like:
   
 ![ge_015](/images/ge_015.png)
   
+"Tricks" are important if they make you less likely to make mistakes. 
+When you're learning, and you don't know them, you tend to type *everything*. 
+So you find yourself making more mistakes. 
+I'm a pretty good typist (Thanks, Mavis Beacon!), but I think about efficiency a lot. 
+
 ## To start, we loaded Two main libraries:
   
  - [GLFW](http://www.glfw.org/)
