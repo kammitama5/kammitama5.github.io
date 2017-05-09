@@ -13,7 +13,7 @@ even though I apparently made one in Java before (whoops).
 - This is this tutorial by the [Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw). 
   He's pretty awesome.
   
-- One of things I think I defintely have ahead of people in class is just pure mileage.
+- One of things I think I defintely have ahead of people in class/school is just pure mileage.
   A lot of people don't even have a Github, or if they do, it's pretty empty, or only filled
   with class homework. :(
   
