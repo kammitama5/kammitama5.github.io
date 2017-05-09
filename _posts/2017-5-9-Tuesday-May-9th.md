@@ -42,8 +42,9 @@
 ## And this one...
 
 - Blah blah secret language that takes this:
-  Bye! = 
-  and makes it look like:  #!eyB#
+  Input : Bye!  
+  and makes it look like: 
+  Output : #!eyB#
   
   My solution in Python
   
