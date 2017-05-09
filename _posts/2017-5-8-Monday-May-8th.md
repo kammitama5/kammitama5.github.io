@@ -12,7 +12,20 @@ even though I appparently made one in Java before (whoops).
   
 - This is this tutorial by the [Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw). 
   He's pretty awesome.
-  One of things I think I defintely have ahead of people in class is just pure mileage.
+  
+- One of things I think I defintely have ahead of people in class is just pure mileage.
+  A lot of people don't even have a Github, or if they do, it's pretty empty, or only filled
+  with class homework. :(
+  
+- I don't get that at all...I think programming's fun, so it's always worthwhile 
+  to learn something or build as many things as you can.
+  
+- I want to especially get better at:
+  C++
+  Haskell 
+  
+- I think that those two will do something special for my ability if I keep learning them,
+  in addition to whatever other stuff I *have* to learn (*cough JavaScript, Python, etc*)
   
 Anyways, there are neat tricks like:
   
@@ -43,7 +56,7 @@ Then we got some Colour in there
 
 ![ge_002](/images/ge_002.png)
 
-## Rendering
+## ...and Rendering
 
 Then we got a triangle rendered vertex by vertex
 
@@ -57,11 +70,17 @@ And then made sure our imaged scaled with the resized screen
 
 ![ge_005](/images/ge_005.png)
 
-And tested stuff like keys, mouse press, mouse move
+And tested stuff like keys, mouse press, mouse move.
+You can see the positions of x and y based on where the mouse is on the screen
 
 ![ge_013](/images/ge_013.png)
 
 So that took me all day, but I learned a lot. 
+
+## Conclusion
+
+- I like this a lot. A lot of learning, and surprisingly makes a lot of sense thus far.
+  I feel like I always learn more from these...sometimes way more than in class. Welp!
 
 
 
