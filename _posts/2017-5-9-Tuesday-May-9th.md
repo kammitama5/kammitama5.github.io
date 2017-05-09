@@ -20,6 +20,8 @@
   
   eg. void cout vs cout(print) function. Yikes!
   
+  I guess I'll discover more of this sort of stuff as I keep going. *Don't yell at me please.*
+  
   
 ## Vectors
 
