@@ -33,6 +33,9 @@ even though I appparently made one in Java before (whoops).
   in addition to whatever other stuff I *have* to learn (*cough JavaScript, Python, etc*).
   
 - Some of the best people I've admired in terms of ability seem to gravitate towards those.
+  I don't think it's enough for me to just *be a developer*. I want to be a *good* one. 
+  So I try to keep learning, and definitely don't shut myself off from learning a new language,
+  trying something out, etc. Especially at this stage, it's okay to fail. 
   
 Anyways, there are neat tricks like:
   
