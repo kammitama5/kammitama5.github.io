@@ -87,7 +87,7 @@ And one that takes four
 ## Took a long time
 
 For each value, we ended up having to define a separate header and .cpp file.
-I quickly learned that replace all file, because essentially we made a copy
+I quickly learned that *replace all* command, because essentially we made a copy
 of the vec2 file and replaced it for vec3 and vec4, and amended from there.
 
 - It was definitely worthwhile to be *really* careful, because you could make  
