@@ -24,7 +24,7 @@ I also beat the head of my hackerspace's score. :)
 
   ![github](/images/github.png)
   
-- I don't get that at all...I think programming's fun, so it's always worthwhile 
+- I think programming's fun, so it's always worthwhile 
   to learn something or build as many things as you can.
   
 - I want to especially get better at:
