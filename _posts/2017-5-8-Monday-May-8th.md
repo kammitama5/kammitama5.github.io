@@ -17,6 +17,13 @@ even though I appparently made one in Java before (whoops).
   A lot of people don't even have a Github, or if they do, it's pretty empty, or only filled
   with class homework. :(
   
+## I'm trying. But a lot of it is just fun. 
+
+I was up at three trying to solve some Katas on CodeWars. 
+I also beat the head of my hackerspace's score. :)
+
+  ![github](/images/github.png)
+  
 - I don't get that at all...I think programming's fun, so it's always worthwhile 
   to learn something or build as many things as you can.
   
