@@ -18,7 +18,7 @@
   And yesterday, this guy was saying it's a big no-no, and to use it within scope instead,
   because it can cause issues/ confusion if something is named cout.
   
-  eg. void cout vs cout(print) function. Yikes!
+  eg. void cout as a *function name* vs cout(print) function. Yikes!
   
   I guess I'll discover more of this sort of stuff as I keep going. *Don't yell at me please.*
   
