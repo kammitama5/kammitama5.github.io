@@ -160,5 +160,9 @@ of the vec2 file and replaced it for vec3 and vec4, and amended from there.
 
 - I'm not sure yet, but I *may* do a course on Mathematical modelling using Python and LaTeX, just for fun!
 
+## Hmm..
+
+- Arrow functions in JS
+
 
   
