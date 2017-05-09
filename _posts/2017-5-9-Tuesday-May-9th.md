@@ -12,6 +12,7 @@
   
   Basically, 
   x + y = sum 
+  and
   x - y = difference
   
   So 2x = (sum + difference)
