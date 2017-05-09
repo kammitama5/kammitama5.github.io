@@ -1,5 +1,42 @@
 ## 5/9/17 - Still Learnin'
 
+
+## Before I get into things...
+
+- Solved this kata 
+  Create a function that takes sum and difference, 
+  calculates individual ages and returns in array.
+  If anything is less than zero, return null.
+  
+  You can solve this with algebra:
+  
+  Basically, 
+  x + y = sum 
+  x - y = difference
+  
+  So 2x = (sum + difference)
+  
+  Here is my code for my solution:
+  
+  ```
+  function getAges(sum,difference){
+    var arr = [];
+    var val1 = ((difference + sum) / 2);
+    var val2 = val1 - difference;
+    
+    if ((sum < 0) || (difference < 0) || (val1 < 0) || (val2 < 0))
+    {
+      return null;
+    }
+    else{
+      arr.push(val1)
+      arr.push(val2)
+    }
+    return arr;
+};
+
+  ```
+  
 ## TIL
 
 - This is pretty neat. 
