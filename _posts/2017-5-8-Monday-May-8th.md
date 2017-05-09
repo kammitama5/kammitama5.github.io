@@ -21,11 +21,16 @@ even though I appparently made one in Java before (whoops).
   to learn something or build as many things as you can.
   
 - I want to especially get better at:
-  C++
-  Haskell 
+ 1.  C++
+ 2.  Haskell 
+ 3. Computational understanding in general:
+    Things like Pointers, Category Theory, Type Theory, Combinatorial Logic, etc.
+ 4. The Scientific approach: LaTeX, being analytical and concise, thinking more than tap-tapping. 
+
+- I think that those two languages will do something special for my ability if I keep learning them,
+  in addition to whatever other stuff I *have* to learn (*cough JavaScript, Python, etc*).
   
-- I think that those two will do something special for my ability if I keep learning them,
-  in addition to whatever other stuff I *have* to learn (*cough JavaScript, Python, etc*)
+- Some of the best people I've admired in terms of ability seem to gravitate towards those.
   
 Anyways, there are neat tricks like:
   
