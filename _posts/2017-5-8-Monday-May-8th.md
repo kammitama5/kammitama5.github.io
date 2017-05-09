@@ -3,7 +3,7 @@
 ## TIL
 
 I sort of didn't have an idea of exactly *what* a game engine was,
-even though I appparently made one in Java before (whoops).
+even though I apparently made one in Java before (whoops).
 
 ## So...
 
