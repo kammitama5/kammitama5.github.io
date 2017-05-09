@@ -37,6 +37,7 @@ I was surprised it all worked!
 
 ![ge_001](/images/ge_001.png)
 
+## Rendering 
 
 Then we got some Colour in there 
 
