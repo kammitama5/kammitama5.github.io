@@ -93,5 +93,8 @@ def divisions(n, divisor):
 This is going to be hairy, because I have all this random stuff going on.
 IO is around the corner, and right after that I have JPL Open House and
 then the next week, I have LambdaConf. So we shall see how it all goes.
+My issue is that I don't have VS on anything but my Desktop,
+and I'll be carrying around my laptop (so I can do the quiz and 
+discussion board *whenever*, but the Lab and Assignment..dunno).
 I've never been late on an assignment, but with these two upcoming weeks,
 I may *just* see the day!
