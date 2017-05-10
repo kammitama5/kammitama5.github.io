@@ -45,11 +45,11 @@
   Input : Bye!  
   and makes it look like: 
   Output : #!eyB#
-  
-  My solution in Python
-  
-  
+ 
+## My solution in Python
+    
 ```
+
 def reverser(string):
     return '#' + string[::-1] + '#'
 ```
