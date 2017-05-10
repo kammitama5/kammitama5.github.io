@@ -2,6 +2,8 @@
 
 ## Aside 
 
+  *At the end of the day..what does it matter? Just keep doing it...*
+
 - Last night, got home around midnight. 
   I was disappointed in myself because we had a C++ assignment in class,
   and I am just not a fast coder and I hate these kinds of things in class.
