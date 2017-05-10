@@ -18,8 +18,9 @@
   So 2x = (sum + difference)
   
   Here is my code for my solution:
-  
-  ```
+ 
+ 
+```
   function getAges(sum,difference){
     var arr = [];
     var val1 = ((difference + sum) / 2);
@@ -34,10 +35,10 @@
       arr.push(val1)
       arr.push(val2)
     }
-    return arr;
-};
+    return arr;};
 
-  ```
+
+ ```
   
 ## And this one...
 
