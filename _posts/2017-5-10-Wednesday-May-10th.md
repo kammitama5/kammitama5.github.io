@@ -82,3 +82,16 @@ def divisions(n, divisor):
 ![l_001](/images/l_001.png)
 
 ![l_002](/images/l_002.png)
+
+## Things to Complete:
+
+- Lab 6 (due 5/15)
+- Quiz 7 (due 5/15 -> getting that done tonight)
+- Assigment 7 (due 5/18)
+- Board Discussion (due 5/22)
+
+This is going to be hairy, because I have all this random stuff going on.
+IO is around the corner, and right after that I have JPL Open House and
+then the next week, I have LambdaConf. So we shall see how it all goes.
+I've never been late on an assignment, but with these two upcoming weeks,
+I may *just* see the day!
