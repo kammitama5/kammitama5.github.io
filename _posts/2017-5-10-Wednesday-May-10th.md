@@ -29,7 +29,8 @@
   so that doesn't help. 
   
   My IDE in class didn't have line numbers, so that threw me off initially.
-  I did get it solved, but I was a bit irritated. 
+  I did get the solution, but I was a bit irritated. 
+  Are there even any professional coders like this, I wonder.
   
   I do a fair amount of coding, but believe me, I'm one of those persons
   who is pretty slow because I need to *think* before I just start tapping
