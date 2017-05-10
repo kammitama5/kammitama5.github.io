@@ -48,12 +48,13 @@
   
   My solution in Python
   
+  
 ```
 def reverser(string):
     return '#' + string[::-1] + '#'
 ```
 
-Yawn...When's lunch again? :)
+- Yawn...When's lunch again? :)
 
 ## This one is worse...but oh well..points
 
