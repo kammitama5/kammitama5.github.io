@@ -57,13 +57,15 @@ Yawn...When's lunch again? :)
 
 ## This one is worse...but oh well..points
 
-Push word to array and return array
+- Push word to array and return array
 
 ```
+
 function addWord(array, string) {
   array.push(string);
   return array;
 }
+
 ```
   
 ## TIL
