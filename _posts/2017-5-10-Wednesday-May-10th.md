@@ -78,4 +78,6 @@ def divisions(n, divisor):
 
 ## Logic Cont'd
 
+![l_001](/images/l_001.png)
 
+![l_002](/images/l_002.png)
