@@ -54,8 +54,8 @@ def whoseMove(lastPlayer, win):
 ## Things to get done 
 
 - Quiz C++ (will be done tonight)
-- Lab 6 (due 5/15)
-- Homework 7 (due 5/18)
-- Board (due 5/22)
+- Lab 6 (due 5/15..plan to get it done over the weekend)
+- Homework 7 (due 5/18..plan to get it done during the week before Wed)
+- Board (due 5/22...mmm..we'll see. I can work on this remotely)
 
 
