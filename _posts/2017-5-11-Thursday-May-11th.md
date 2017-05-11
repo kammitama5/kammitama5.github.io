@@ -4,7 +4,7 @@
 ## First up, Good News!
 
 - It's been a dream of mine for a few years now to attend 
-  both LambdaConf *and* Strange Loop. But I *never* imagined
+  both [LambdaConf](http://lambdaconf.us/) *and* [Strange Loop](https://www.thestrangeloop.com/). But I *never* imagined
   I'd attend *both* in the *same* year. 
   Wut? I'm so grateful, I almost started crying this morning.
   But I emailed my mom instead. 
