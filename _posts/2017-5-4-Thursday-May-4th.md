@@ -42,3 +42,9 @@ The link is [here](http://www.computerhistory.org/atchm/asteroid-mining-the-only
 Courtesy the [Computer History Museum](http://www.computerhistory.org/), one of my favourite places!
 Sorry if it sounds like I'm pimping this place in every post, but I really *love* this place!
 
+## Update
+
+- Video is [here](https://www.youtube.com/watch?v=gun0Vo0BS6s&feature=em-uploademail).
+  If you scrub to 46:01 to 47 or so, you can see my friend and mentor asking a question.
+  Warning: you can kind of tell he works there lol *nerd alert*. 
+
