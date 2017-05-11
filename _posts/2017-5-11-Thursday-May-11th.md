@@ -58,4 +58,8 @@ def whoseMove(lastPlayer, win):
 - Homework 7 (due 5/18..plan to get it done during the week before Wed)
 - Board (due 5/22...mmm..we'll see. I can work on this remotely)
 
+## Interesting in learning about 
+
+- Compilers and [Tombstone Diagrams](https://en.wikipedia.org/wiki/Tombstone_diagram)
+
 
