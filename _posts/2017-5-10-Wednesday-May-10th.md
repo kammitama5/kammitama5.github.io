@@ -77,11 +77,58 @@ def divisions(n, divisor):
 
 ```
 
+
+## TIL 
+
+Game Theory is *really* interesting! 
+
+- I put a book called "Mathematics for 3D Game Programming 
+  and Computer Graphics" on my wishlist. 
+- Also a really good one called "Game Programming Patterns".
+- Just reading those two I think will put me in a good spot to understanding
+  more about implementation of algorithms and making games in general. 
+- I believe most of those are for C or C++ in any case, so good excuse!
+
+Also, really interesting...was looking at:
+
+- Orthographic vs Perspective Matrix.
+  I have a sense of what it does in terms of the visual difference,
+  but this is interesting in terms of implementing matrix multiplication
+  Interesting [article](https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/orthographic-projection-matrix) on it for games
+  
 ## Logic Cont'd
 
 ![l_001](/images/l_001.png)
 
 ![l_002](/images/l_002.png)
+
+
+
+## And some Game Theory cont'd
+
+Open GL Coordinate System
+
+![m_001](/images/m_001.png)
+
+Row vs Column major ordering 
+
+![m_002](/images/m_002.png)
+
+Matrix implementation working
+
+![m_003](/images/m_003.png)
+
+Two Vectors
+
+![m_004](/images/m_004.png)
+
+Outputting our Main file to test file output for Shader tests
+
+![m_006](/images/m_006.png)
+
+Output
+
+![m_007](/images/m_007.png)
 
 ## Things to Complete:
 
