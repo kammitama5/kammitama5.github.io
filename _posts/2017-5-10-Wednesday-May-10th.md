@@ -58,8 +58,8 @@
 
 Calculate the number of times a number can be divided by a given number.
 Eg. 100 can divided by 2 six times 
-    2 can be divided by 3 0 times 
-    5 can be divided by 5 one time
+    2 can be divided by 3 ... 0 times   
+    5 can be divided by 5 ... one time
     
 - Smells of a while loop to me :)
 
