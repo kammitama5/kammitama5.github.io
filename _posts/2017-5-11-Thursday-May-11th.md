@@ -43,3 +43,19 @@ def whoseMove(lastPlayer, win):
           
 ```
 
+## Other
+
+- I started on some LaTeX, but am not happy with the result. 
+  Particularly, I'm getting into fractions *and* matrices formatting.
+  So I'm putting it down today and will try again tomorrow. 
+  It's getting a little hairy. Good to step away and rethink.
+  
+  
+## Things to get done 
+
+- Quiz C++ (will be done tonight)
+- Lab 6 (due 5/15)
+- Homework 7 (due 5/18)
+- Board (due 5/22)
+
+
