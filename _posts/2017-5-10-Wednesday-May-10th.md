@@ -14,7 +14,7 @@
   on the spot (to be fair, the implementation was already *there*,
   she just wanted us to see the abstractness of the interface,
   in that we could use it without understanding what it did 
-  behind the black box/curtain.
+  behind the black box/curtain).
   
   I was sort of horrified that people immediately started typing.
   
