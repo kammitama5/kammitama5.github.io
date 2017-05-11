@@ -145,3 +145,8 @@ and I'll be carrying around my laptop (so I can do the quiz and
 discussion board *whenever*, but the Lab and Assignment..dunno).
 I've never been late on an assignment, but with these two upcoming weeks,
 I may *just* see the day!
+
+## Websites of Note for today:
+
+- [Scratchapixel 2.0](https://www.scratchapixel.com/)
+  aka *I Think I've found Heaven in a Website*
