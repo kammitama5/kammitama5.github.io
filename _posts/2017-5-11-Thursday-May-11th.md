@@ -12,6 +12,12 @@
   I could not be more grateful. Thank you for everything,
   (whoever you are, dear reader :). It means a lot. 
   
+- I've also *never* been to either Boulder or St. Louis, 
+  so...yeah. I have no idea *what* to expect. These two 
+  years have been the most amazing of my life, I *love* 
+  programming and the tech community, and I couldn't be
+  more thankful or happier. 
+  
 ## Kata Solved:
 
 You have -> Two players "black" and "white".
