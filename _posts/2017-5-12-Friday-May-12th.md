@@ -25,7 +25,9 @@
   
 ## TIL
 
-- [State space Tree](https://en.wikipedia.org/wiki/State_space_search)
+- [State space Tree](https://en.wikipedia.org/wiki/State_space_search).
+  I can use this to manually solve the rows and columns, 
+  but it does not account for diagonals.
   
 ## Plan is
 
