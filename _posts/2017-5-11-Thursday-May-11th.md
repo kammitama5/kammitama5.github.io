@@ -62,7 +62,7 @@ def whoseMove(lastPlayer, win):
 
 - Compilers and [Tombstone Diagrams](https://en.wikipedia.org/wiki/Tombstone_diagram)
 - [Noether](https://en.wikipedia.org/wiki/Emmy_Noether). My mentor mentioned her tonight,
-  and as I was looking it up, I raelized I had seen a [Google Tech Talk](https://www.youtube.com/watch?v=1_MpQG2xXVo) that mentioned her   contributions.
+  and as I was looking it up, I realized I had seen a [Google Tech Talk](https://www.youtube.com/watch?v=1_MpQG2xXVo) that mentioned her   contributions.
 - [Affine](https://en.wikipedia.org/wiki/Affine_transformation)
 - [Orthogonal vs Orthonormal](http://www.ucl.ac.uk/~ucahmdl/LessonPlans/Lesson10.pdf) -> 
   Orthogonal has ax + b form, so there is a scalar constant, while Orthonormal has an inverse 
