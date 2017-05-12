@@ -71,7 +71,7 @@ def whoseMove(lastPlayer, win):
   at Caltech dubbed "Christ awful" symbols LOL.
 - Torricelli point
   
-  As you can tell...we were talking about vectors and matrices tonight, and even some tensors.
+- As you can tell...we were talking about vectors and matrices tonight, and even some tensors.
   
 - I also got help with my LaTeX. My mentor said to think of using arrays instead for my notation.
   Interesting.
