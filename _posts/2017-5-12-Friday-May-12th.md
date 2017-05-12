@@ -10,7 +10,7 @@
   I made a little diagram to help explain what I have to do, essentially.
   You can read up on backtracking [here](https://en.wikipedia.org/wiki/Backtracking)
   
-  ![backtracking](/images/backtracking3.png)
+  ![backtracking](/images/backtrack3.png)
 
 ## Heads up
 
