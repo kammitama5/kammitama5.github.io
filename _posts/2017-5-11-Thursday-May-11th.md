@@ -69,6 +69,7 @@ def whoseMove(lastPlayer, win):
   without constant scalar. At least that's what I understand of it.
 - [Christoffel symbols](https://en.wikipedia.org/wiki/Christoffel_symbols), which a teacher 
   at Caltech dubbed "Christ awful" symbols LOL.
+- Torricelli point
   
   As you can tell...we were talking about vectors and matrices tonight, and even some tensors.
   
