@@ -36,6 +36,29 @@ def find_longest(arr):
         
 ```
 
+## Bugs
+
+This one just had some ugly bugs (and code) to fix
+
+```
+function yourFutureCareer(career){
+	  var career = Math.random();
+		if (career <= 0.32) {
+			return "FrontEnd Developer"
+      }
+		else if (career <= 0.65) {
+			return "BackEnd Developer"
+      }
+		else {
+			return 'Full-Stack Developer'
+		}
+}
+
+
+yourFutureCareer();
+
+```
+
 ## Backtracking
 
 - One of the things I have to do this weekend is implement backtracking in C++.
