@@ -70,7 +70,25 @@ def divide(weight):
     else:
         return False
 ```
+## And another...Changing chars in Polish to English
 
+It didn't pass initially (three fails) because I had to replace
+*every* instance of that char, not just the first.
+
+```
+function correctPolishLetters (string) {
+    string = string.replace(/ą/g,'a').
+    replace('ć','c').replace('ę','e').
+    replace('ń','n').replace('ó','o').
+    replace('ś','s').replace('ź','z').
+    replace('ż','z').replace(/ł/g,'l');
+
+    
+    return(string)
+
+}
+
+```
 ## Backtracking
 
 - One of the things I have to do this weekend is implement backtracking in C++.
