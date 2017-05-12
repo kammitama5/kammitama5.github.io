@@ -58,6 +58,18 @@ function yourFutureCareer(career){
 yourFutureCareer();
 
 ```
+## And another...Solution:
+
+Check whether A and B can divide watermelons so each gets an even amount.
+Basically, you're checking for an even number as long as number is > 2
+
+```
+def divide(weight):    
+    if (weight % 2 == 0) and (weight != 2):
+        return True
+    else:
+        return False
+```
 
 ## Backtracking
 
