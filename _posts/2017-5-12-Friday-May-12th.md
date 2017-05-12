@@ -23,6 +23,9 @@
   into a Friday-Sunday (maybe even Monday!) post, even though it's marked
   "Friday", pretty much. 
   
+## TIL
+
+- [State space Tree](https://en.wikipedia.org/wiki/State_space_search)
   
 ## Plan is
 
@@ -30,4 +33,5 @@
 - Lab this weekend (due 5/15)
 - Homework from Monday to Wed (due 5/18)
 - Board sometime...(due 5/22)
+
 
