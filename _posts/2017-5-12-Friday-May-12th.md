@@ -19,4 +19,12 @@
 - Also, I'll probably be working throughout the weekend, so this may turn 
   into a Friday-Sunday (maybe even Monday!) post, even though it's marked
   "Friday", pretty much. 
+  
+  
+## Plan is
+
+- Quiz tonight (due 5/15)
+- Lab this weekend (due 5/15)
+- Homework from Monday to Wed (due 5/18)
+- Board sometime...(due 5/22)
 
