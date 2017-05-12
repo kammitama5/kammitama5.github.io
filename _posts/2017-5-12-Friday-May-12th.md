@@ -1,6 +1,41 @@
 ## 5/12/17 - Weekend of Homework
 
 
+## Random Kata
+
+ - Find the num in the array with the most digits.
+   If two nums have same number, return the first one.
+   
+## My solution
+
+```
+def find_longest(arr):
+      arr1 = []
+      arr2 = []
+      arr3 = []
+      
+      for i in arr:
+      # push string to arr1
+        arr1.append(str(i))
+      # push length of string to arr2
+        arr2.append(len(str(i)))
+      
+      # find max of arr2
+      g = max(arr2)
+      
+      # I could have done this better
+      # basically matching max index with num in arr
+      
+      for i in arr:
+        if len(str(i)) == g:
+        # push that to array
+          arr3.append(i)
+        
+      # if there are two values, return first one
+      return arr3[0]
+        
+```
+
 ## Backtracking
 
 - One of the things I have to do this weekend is implement backtracking in C++.
