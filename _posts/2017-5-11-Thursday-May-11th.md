@@ -75,6 +75,10 @@ def whoseMove(lastPlayer, win):
 - I also got help with my LaTeX. My mentor said to think of using arrays instead for my notation.
   Interesting.
   
+## Also
+
+- Great lectures by [MathTheBeautiful](https://www.youtube.com/channel/UCr22xikWUK2yUW4YxOKXclQ) on [Tensor Calculus](https://www.youtube.com/watch?v=e0eJXttPRZI)
+  
   
 
 
