@@ -134,6 +134,7 @@ def validate_code(code):
 - [State space Tree](https://en.wikipedia.org/wiki/State_space_search).
   I can use this to manually solve the rows and columns, 
   but it does not account for diagonals.
+- [Euler vs d'Alembert](http://www.maa.org/press/periodicals/convergence/the-nodding-sphere-and-the-birds-beak-dalemberts-dispute-with-euler-precession-of-the-equinoxes) theory
   
 ## Plan is
 
