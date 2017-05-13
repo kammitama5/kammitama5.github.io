@@ -137,9 +137,12 @@ def validate_code(code):
   
 ## Plan is
 
-- Quiz tonight (due 5/15)
+- Quiz tonight (due 5/15 - done)
 - Lab this weekend (due 5/15)
 - Homework from Monday to Wed (due 5/18)
 - Board sometime...(due 5/22)
+
+## Also of note:
+Ray Puzzio's ["Homotopy Type Theory"](https://vimeo.com/217309972) talk is up (via the [Lisp NYC](https://www.meetup.com/LispNYC/) group)
 
 
