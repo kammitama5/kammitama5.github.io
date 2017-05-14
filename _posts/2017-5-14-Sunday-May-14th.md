@@ -7,7 +7,7 @@
 - Man, that was stressful! I have *one* more assignment to do, 
   and then a board on which I must comment/ provide a solution 
   and then I'm all caught up (I'll probably get *more* on Tuesday,
-  so..yeah.
+  so..yeah.)
   
 ## In the Meantime
 Notes from Ray Puzzio's "Homotopy Type Theory" [lecture](https://vimeo.com/217309972).
