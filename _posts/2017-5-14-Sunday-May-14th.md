@@ -116,7 +116,7 @@ and tau is a term with only x as a free variable
 Identity morphism is (x, x)
 
 Composition of (x_{1}, \tau_{1}) with 
-(x_{2}, \tau_{2}) is (x_{1}, \tau_{2}(x_{2}/\tau_{1})
+(x_{2}, \tau_{2}) is (x_{1}, \tau_{2}(x_{2})\tau_{1})
 
 This defines a Cartesian closed category 
 
