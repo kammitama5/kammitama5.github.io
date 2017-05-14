@@ -1,4 +1,4 @@
-## 5/14/17 - Destressing and some Notes
+## 5/14/17 - De-stressing and some Notes
 
 
 ## Personal
