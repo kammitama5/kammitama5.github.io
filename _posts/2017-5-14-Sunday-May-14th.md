@@ -10,8 +10,11 @@
   so..yeah.
   
 ## In the Meantime
-Notes from Ray Puzzio's "Homotopy Type Theory" lecture.
+Notes from Ray Puzzio's "Homotopy Type Theory" [lecture](https://vimeo.com/217309972).
 I believe they're from the first chapter of the HoTT book.
+His presentation was part of the [LispNYC group's meeting](https://www.meetup.com/LispNYC/).
+
+I also follow this [blog](https://homotopytypetheory.org/), which is neat, too :) 
 
 Some of my writing is in LaTeX notation. 
 I'm putting them here so that later on, I can look back, amend, etc.
