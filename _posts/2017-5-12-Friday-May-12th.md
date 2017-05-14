@@ -116,6 +116,10 @@ def validate_code(code):
 - When I get better, I'd like to implement it using function templates.
   I believe that my implementation is for an 8 x 8 board.
   
+  Here is my solution:
+  
+  ![queens](/images/queens.png)
+  
   I made a little diagram to help explain what I have to do, essentially.
   You can read up on backtracking [here](https://en.wikipedia.org/wiki/Backtracking)
   
