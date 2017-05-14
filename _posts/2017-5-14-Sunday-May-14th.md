@@ -16,24 +16,25 @@ I believe they're from the first chapter of the HoTT book.
 Some of my writing is in LaTeX notation. 
 I'm putting them here so that later on, I can look back, amend, etc.
 
-Homotopy Type Theory - Ray Puzzio
+## Homotopy Type Theory - Ray Puzzio
 
 Two types of Type Theory
-Simple types -> based on Church
-Martin Luff -> Dependent Type Theory
 
-Type family
+- Simple types -> based on Church
+- Martin Luff -> Dependent Type Theory
 
-morphism -> mappings 
-objects -> collections, types 
+## Type family
+
+- morphism -> mappings 
+- objects -> collections, types 
 
 same types a -> b then you can hook them together and compose them
 
-groupoids 
+- groupoids 
 
-group -> has one object and is invertible 
-monoid -> a category with one object 
-monoid has one objects which means any two categories can be composed 
+- group -> has one object and is invertible 
+- monoid -> a category with one object 
+- monoid has one objects which means any two categories can be composed 
 
 object - bookkeeping device that tells us when we can multiply things together
 
@@ -41,22 +42,23 @@ structured sets: a canonical class of examples of categories are sets with struc
 Morphisms are mappings which preserve the structure in question.
 
 
-sets -> no structure, anything goes 
-graphs-> structure is edges and morphisms must map edges to edges
-topological spaces -> have notion of neighbourhood, 
-morphisms must be continuous 
-algebraic systems - have operations which morphisms must respect 
+- sets -> no structure, anything goes 
+- graphs-> structure is edges and morphisms must map edges to edges
+- topological spaces -> have notion of neighbourhood, 
+- morphisms must be continuous 
+- algebraic systems - have operations which morphisms must respect 
 
 objects as graphs and morphisms to be mappings between graphs that is an example 
 of a category
 
-Forgetful map -> erase all the edges that give me vertices
+- Forgetful map -> erase all the edges that give me vertices
 
-Functor is a map between categories that preserves 
-the structure of the category
+- Functor is a map between categories that preserves 
+  the structure of the category
 
-Topological space -> concept of neighbourhood (far away vs near)
-you want mappings that preserve that structure  
+## Topological space -> concept of neighbourhood (far away vs near)
+
+- you want mappings that preserve that structure  
 
 Lawvere
 
@@ -69,21 +71,21 @@ Determination through Universals
 For any object with this property, there must be a unique map
 to this one 
 
-
 pullback
 fiber product 
 
-a set of all subsets = powerset 
+- a set of all subsets = powerset 
 
 cartesian closed category 
 elementary topos  
 
 Grothendieck -> Topoi 
 
-BHK Interpretation
+## BHK Interpretation
+
 - Brouwer, Heyting, Kolmogorov 
 
-Schoenfinkel 
+## Schoenfinkel 
 Shoenfinkel showed that all combinators 
 (lambda terms with no built-ins or 
 free variables) can be constructed 
@@ -92,11 +94,9 @@ two basic combinators
 K = \lambda_{y} \lambda_{x} x 
 S = \lambda_{z} \lambda_{y} \lambda_{x} x(z(y(z))))
 
-Look at: Unlambda Programming language 
+Look at: [Unlambda Programming language](http://www.madore.org/~david/programs/unlambda/) 
 
-
-Lambek-Scott 
-http://www.madore.org/~david/programs/unlambda/
+Lambek-Scott
 
 type is like an object -> generaal notion of a collection 
 
@@ -116,10 +116,10 @@ Geometric picture
 
 number theory topology 
 
-Grothendieck -> theory was about numbers as topological spaces 
+## Grothendieck -> theory was about numbers as topological spaces 
 
-
-Logic -> Geometry 
+(this was a table: analogy of terms)
+# Logic -> Geometry (heading)
 
 proposition -> space 
 witness -> point 
@@ -147,6 +147,9 @@ fibrations -> closely related to Sheaves
 
 Path interpretation 
 We can interpret equality types as paths.
+
+## Other (upcoming lectures)
+This was at CUNY (is coming up), from one of the authors of the HoTT book:
 
 Emily-> Higher Dimensional Category Theory 
 paths-> equivalences into paths into category theory 
