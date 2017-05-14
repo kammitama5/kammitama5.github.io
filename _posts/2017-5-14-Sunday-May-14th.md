@@ -22,8 +22,9 @@ I also found his explanations to be *incredibly* clear.
 The Predicate Logic course that I'm taking also went hand in hand, which was helpful,
 because it did touch on \Sigma and \Pi vs \Forall and \ThereExists.
 
-Some of my writing is in LaTeX notation. 
-I'm putting them here so that later on, I can look back, amend, etc.
+## Some of my writing is in LaTeX notation. 
+
+*I'm putting them here so that later on, I can look back, amend, etc.*
 
 ## Homotopy Type Theory - Ray Puzzio
 
