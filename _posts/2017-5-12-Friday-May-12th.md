@@ -148,6 +148,9 @@ def validate_code(code):
 - Board sometime...(due 5/22)
 
 ## Also of note:
-Ray Puzzio's ["Homotopy Type Theory"](https://vimeo.com/217309972) talk is up (via the [Lisp NYC](https://www.meetup.com/LispNYC/) group)
+- Ray Puzzio's ["Homotopy Type Theory"](https://vimeo.com/217309972) talk is up (via the [Lisp NYC](https://www.meetup.com/LispNYC/) group)
+- Reading up on Combinatoric Games and found [the Algorithmist](http://www.algorithmist.com/index.php/Main_Page)
+- Also, [Tweedledee/Tweedledum Principle](http://www.algorithmist.com/index.php/Win-Loss_Analysis) - Counter move
+
 
 
