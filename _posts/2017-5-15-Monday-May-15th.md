@@ -22,7 +22,8 @@
 
 ![sh_002](/images/sh_002.png)
 
-Ugh...how did I *not* see this before
+Ugh...how did I *not* see this before.
+I had named them the same, so was getting vect errors!
 
 ![sh_004](/images/sh_004.png)
 
