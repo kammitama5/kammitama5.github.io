@@ -27,7 +27,13 @@ Specifically, in C++.
 - Then I come back to IO, and then (possibly) head back again
   to CHM for a photo and hang-out with the ABI (Anita Borg Institute).
   
-- Then I head back to IO for their Comedy show, "Speechless" (around 6pm?)
+- Then I head back to IO for their Comedy show, ["Speechless"](https://www.google.com/events/io/schedule/session/ab1b1395-6fca-e311-b297-00155d5066d7) (around 6pm?).
+ Speechless is an improv session, which is pretty much hilarious.
+ It includes a random wheel in which contestants spin and therefore are given topics, and a 
+ random set of presentation slides (which have nothing to do with each other).
+ They must then give a presentation that is on-topic from the topic they received by spinning
+ the wheel, while keeping a straight face and working with their (hilarious) slides given. 
+ It's a lot of fun!
 
 - Then, I take a shuttle back to SF and check-in. 
 
