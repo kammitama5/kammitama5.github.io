@@ -1,7 +1,9 @@
 ## 5/16/17 - Shaders are Cool!
 
 
-## Holy crap, Shader are cool!!
+## Holy crap, Shaders are cool!!
+
+Yes, I really did say that *twice* *twice*
 
 I had a *lot* of fun today on this stuff. 
 I want to continue, and hopefully build a few games over the course of the rest of the year.
