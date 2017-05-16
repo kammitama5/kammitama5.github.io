@@ -76,7 +76,7 @@ This sort of blew my mind when it first compiled and ran
 
 Only rendered  a rht (right angled-triangle)
 
-- You're rendering vertex to vertex (see post before this)
+- You're rendering vertex to vertex (see this [post](https://kammitama5.github.io/Monday-May-15th/))
 
 ![sh_024a](/images/sh_024a.png)
 
