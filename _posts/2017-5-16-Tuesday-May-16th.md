@@ -52,7 +52,7 @@ We rotated 45 degrees
 
 ## Implementing a light 
 
-![sh_020](/images/sh_020/png)
+![sh_020](/images/sh_020.png)
 
 This sort of blew my mind when it first compiled and ran
 
@@ -60,47 +60,47 @@ This sort of blew my mind when it first compiled and ran
 
 ## Some more 
 
-![sh_022](/images/sh_022/png)
+![sh_022](/images/sh_022.png)
 
-![sh_023](/images/sh_023/png)
+![sh_023](/images/sh_023.png)
 
 ## So these vertices are basically your "window" projection
 
-![sh_024a](/images/sh_024a/png)
+![sh_024a](/images/sh_024a.png)
 
 Only rendered  a rht (right angled-triangle)
 
 - You're rendering vertex to vertex (see post before this)
 
-![sh_024a](/images/sh_024a/png)
+![sh_024a](/images/sh_024a.png)
 
-![sh_024](/images/sh_024/png)
+![sh_024](/images/sh_024.png)
 
 ## Then we added a Mouse Pointer
 
 - So it followed the Mouse around (it being the light position)
 
-![sh_025](/images/sh_025/png)
+![sh_025](/images/sh_025.png)
 
 ## Duplicating renderings/ windows
 
 Code 
 
-![sh_027](/images/sh_027/png)
+![sh_027](/images/sh_027.png)
 
-![sh_026](/images/sh_026/png)
+![sh_026](/images/sh_026.png)
 
 
 ## Changing Colour 
 
-![sh_028](/images/sh_028/png)
+![sh_028](/images/sh_028.png)
 
 ## Merging windows 
 
-![sh_029](/images/sh_029/png)
+![sh_029](/images/sh_029.png)
 
-![sh_030](/images/sh_030/png)
+![sh_030](/images/sh_030.png)
 
-![sh_031](/images/sh_031/png)
+![sh_031](/images/sh_031.png)
 
 
