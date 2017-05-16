@@ -16,6 +16,15 @@
 
 - I have some errors to fix, but shouldn't be *too* bad.
 
+## Update -> Fixed!
+
+I had forgotten to add vec4! Oops!
+
+![sh_013](/images/sh_013.png)
+
+## Yay..no Errors! 
+![sh_014](/images/sh_014.png)
+
 ![sh_012](/images/sh_012.png)
 
 ## But...I fixed a few!
