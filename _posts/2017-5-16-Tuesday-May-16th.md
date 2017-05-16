@@ -103,4 +103,11 @@ Code
 
 ![sh_031](/images/sh_031.png)
 
+## Conclusion
+
+Man, I learned a *lot*, and this is fun! 
+Definitely going to keep learning!
+
+
+
 
