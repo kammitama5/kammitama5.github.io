@@ -109,6 +109,14 @@ Code
 
 ![sh_031](/images/sh_031.png)
 
+## Tis no greater joy...
+
+Than having the guy whose tut you're doing retweet you when 
+flip out over his shader tut in C++. Hahaha.
+So awesome!
+
+![retweet](/images/retweet.png)
+
 ## Conclusion
 
 Man, I learned a *lot*, and this is fun! 
