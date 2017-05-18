@@ -8,6 +8,9 @@
 
 ## Obligatory Computer History Museum visit
 Here I am with Ken (left), a Xoogler, Robbie (centre), a Googler, and there's me to the right!
+I also got a tour of Robbie's office. He's moving to another one in a month to Sunnyvale,
+but he lives about 20 minutes away so he could bike to work!
+
 ![gl_002](/images/gl_002.png)
 
 ## VR Drive-in 
