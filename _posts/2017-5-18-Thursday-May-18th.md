@@ -20,6 +20,8 @@ Here I am with Ken (left), a Xoogler, Robbie (centre), a Googler, and there's me
 ![gl_005](/images/gl_005.png)
 
 ## Code Generative Art
+- As you moved by the screen, you'd see a pcloud data-shape of yourself that moved fluidly
+
 ![gl_006](/images/gl_006.png)
 
 ## Arcade Game Room!
@@ -36,6 +38,9 @@ Here I am with Ken (left), a Xoogler, Robbie (centre), a Googler, and there's me
 
 ## A pool full of Plastic balls!
 ![gl_012](/images/gl_012.png)
+
+## I had to jump in!
+![gl_013](/images/gl_014.png)
 
 ## Umm... I heard someone lost their wedding ring, but later found it!
 ![gl_013](/images/gl_013.png)
