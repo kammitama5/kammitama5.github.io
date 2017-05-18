@@ -29,14 +29,24 @@ Here I am with Ken (left), a Xoogler, Robbie (centre), a Googler, and there's me
 
 ![gl_009](/images/gl_009.png)
 
-## VR Drive in!
 ![gl_010](/images/gl_010.png)
 
-
+## VR Drive in!
 ![gl_011](/images/gl_011.png)
 
+## A pool full of Plastic balls!
 ![gl_012](/images/gl_012.png)
+
+## Umm... I heard someone lost their wedding ring, but later found it!
+![gl_013](/images/gl_013.png)
 
 ![gl_015](/images/gl_015.png)
 
 ![gl_016](/images/gl_016.png)
+
+## And...
+
+- I got home at minutes to midnight. So tired, but back for more!
+
+PS I *am* learning a *lot* :)
+The Tensorflow stuff is my *favourite*!
