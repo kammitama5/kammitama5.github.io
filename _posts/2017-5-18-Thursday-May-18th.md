@@ -27,10 +27,6 @@
 
 ![gl_012](/images/gl_012.png)
 
-![gl_013](/images/gl_013.png)
-
-![gl_014](/images/gl_014.png)
-
 ![gl_015](/images/gl_015.png)
 
 ![gl_016](/images/gl_016.png)
