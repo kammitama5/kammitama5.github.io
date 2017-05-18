@@ -3,9 +3,10 @@
 ## I'm at Google IO. 
 - I'm learning stuff. So here are some pics instead! :)
 
+## Keynote in the morning
 ![gl_001](/images/gl_001.png)
 
-![gl_002](/images/gl_0002.png)
+![gl_002](/images/gl_002.png)
 
 ![gl_003](/images/gl_003.png)
 
