@@ -7,7 +7,11 @@
   at a booth within a department at Google (which shall remain unnamed)
   who thought I was really smart and were interested in possibly contacting me
   in the future. So I gave them my information. 
-  There was another lady yesterday who also wanted me to meet another Googler. So that was nice.
+  There was another lady yesterday who also wanted me to meet another Googler,
+  a functional programming junkie.
+  
+  So that was nice. It's really easy to talk to them, generally, and I like their sense
+  of humour. 
   
   I felt so welcome. I'm definitely not worried about a job as much as I care about
   getting really good.
