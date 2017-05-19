@@ -7,6 +7,11 @@
   at a booth within a department at Google (which shall remain unnamed)
   who thought I was really smart and were interested in possibly contacting me
   in the future. So I gave them my information. 
+  
+  One of the guys said it would take him a bit of time to get organized,
+  but that he'd reach out to me. I'm happy for any sort of mentorship I can get at this point.
+  And I'm going to keep programming. 
+  
   There was another lady yesterday who also wanted me to meet another Googler,
   a functional programming junkie.
   
