@@ -100,7 +100,12 @@
 
 ## Pickering
 
-- At JPL, most of the buildings are named by letters.
+- At JPL, most of the buildings are named by numbers.
+  People also will use abbreviations for where they work
+  in terms of the department. So for example, MSL is 
+  Mars Space Laboratory. If someone says "I work at MSL", 
+  that's typically what they mean. But in terms of buildings, it's numbers.
+  
   So when you work there, people usually ask "Where do you work?" 
   and you'd say something like "261" or whatever.
   A mathematician friend of mine once joked that he was trying to figure
