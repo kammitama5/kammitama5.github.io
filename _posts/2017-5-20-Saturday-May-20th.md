@@ -149,6 +149,8 @@
 
 ## A few years ago
 
+![jpl_015](/images/jpl_015.png)
+
 - I was really into LEDs. So I buried myself in learning about MEMS, substrates, gallium arsenide
   and silicon carbide, epitaxies and etching wafers, etc. So it was really trippy to go by this room
   today. It's a clean-room. I was able to talk at length with the scientist about how it compared to
@@ -156,6 +158,7 @@
   can touch. Humans, are of course, the biggest contributor of "unclean" to your clean room,
   because of their constant skin particles going everywhere yuck. I think he was talking about down to
   14 nanometres for the etching. Again..really interesting stuff!
+  
   
 ## Measuring Seismic Activity
 
