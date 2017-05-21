@@ -159,6 +159,9 @@
   because of their constant skin particles going everywhere yuck. I think he was talking about down to
   14 nanometres for the etching. Again..really interesting stuff!
   
+  Btw, the [Intel Museum](http://www.intel.com/content/www/us/en/company-overview/intel-museum.html) in Santa Clara is amazing. I definitely suggest visiting.
+  Another museum I *love* in Silicon Valley, that is free. 
+  
   
 ## Measuring Seismic Activity
 
