@@ -133,7 +133,8 @@
   of radioisotopes. These contain Plutonium 238, which has a half-life of about 88 years.
   Today, I got to hold the plutonium, and talk to a scientist at length about cryobots 
   that would melt ice in front of the robot, while the ice behind it stayed frozen,
-  using radioisotopes. Really fascinating stuff. 
+  using radioisotopes, and about unicouples (which are sort of like thermocouples). 
+  Really fascinating stuff. 
   
 ![jpl_012](/images/jpl_012.png)
 
