@@ -78,7 +78,7 @@
   and using biomimicry and the concept of Van Der Waals forces, created this 
   gripping device. So the hooks help the robot to climb
   
-![jpl_001](/images/jpl_001.png)
+![jpl_005](/images/jpl_005.png)
 
 ## Gripping device up close
 
