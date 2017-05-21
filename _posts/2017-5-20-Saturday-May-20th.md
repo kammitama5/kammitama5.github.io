@@ -142,7 +142,8 @@
 
 - These block light. I really like this design. I thought it was a radial solar array at first. Welp.
   I asked about polarizers, and they said polarization is expensive. Oh, I also learned about Captron,
-  which is like Mylar, but is the material used for the starshades.
+  which is like Mylar, but is the material used for the starshades. It's more expensive than Mylar
+  and harder to get your hands on commercially.
 
 ![jpl_013](/images/jpl_013.png)
 
