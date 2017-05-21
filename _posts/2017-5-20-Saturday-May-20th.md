@@ -181,6 +181,21 @@
   
 ![jpl_017](/images/jpl_017.png)
 
+## So...
+
+- Sorry I don't have any code to show, but I've had about less than 12 hours of sleep total
+  in the past four days. I think I knocked out on my way home, and almost missed my stop
+  on the bus. Thankfully, there was a wheelchair getting off, so I grabbed my bag and 
+  got off the back exit. Must have been exhausted.
+  
+## Plan for tomorrow:
+
+- Quiz 
+- Homework
+- Maybe board, but probably not
+
+For now, time to rest up! Next week will be fun, too. Will try to report on that.
+
 
 
   
