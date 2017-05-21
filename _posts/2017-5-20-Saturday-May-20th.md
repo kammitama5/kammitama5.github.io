@@ -52,10 +52,10 @@
 
 ## A modular joint from Robo simian
 
-[jpl_001](/images/jpl_001.png)
+![jpl_001](/images/jpl_001.png)
 
 ## Robosimian!
-[jpl_002](/images/jpl_002.png)
+![jpl_002](/images/jpl_002.png)
 
 ## Backstory
 - I went to the Darpa Robotics Challenge as an attendee a few years ago.
@@ -71,32 +71,32 @@
   
 ## More photos
 
-[jpl_003](/images/jpl_003.png)
+![jpl_003](/images/jpl_003.png)
 
 ## This one
 - I saw a video on this guy. Basically they used the gecko and created a robot
   and using biomimicry and the concept of Van Der Waals forces, created this 
   gripping device. So the hooks help the robot to climb
   
-[jpl_001](/images/jpl_001.png)
+![jpl_001](/images/jpl_001.png)
 
 ## Gripping device up close
 
-[jpl_004](/images/jpl_004.png)
+![jpl_004](/images/jpl_004.png)
 
 ## Underwater robot and volcano bot
 
-[jpl_016](/images/jpl_016.png)
+![jpl_016](/images/jpl_016.png)
 
 ## Beautiful image of Hyperion in Mission Control/Flight Operations Centre
 
-[jpl_006](/images/jpl_006.png)
+![jpl_006](/images/jpl_006.png)
 
 ## More images from Mission Control
 
-[jpl_007](/images/jpl_007.png)
+![jpl_007](/images/jpl_007.png)
 
-[jpl_008](/images/jpl_008.png)
+![jpl_008](/images/jpl_008.png)
 
 ## Pickering
 
@@ -112,11 +112,11 @@
   His contribution is *significant*, and you can easily read about him.
   So one of the auditoriums is named after him (another is Von Karman).
   
-[jpl_009](/images/jpl_009.png)
+![jpl_009](/images/jpl_009.png)
 
 ## Asteroids
 
-[jpl_010](/images/jpl_010.png)
+![jpl_010](/images/jpl_010.png)
 
 - How do you figure out if Asteriods will collide into Earth and destroy it? 
   Oh, I totally learned today that Uranus's moons rotate 90 degrees to the Sun,
@@ -125,7 +125,7 @@
 
 ## Visualization showing Asteroids and sizes detected
 
-[jpl_011](/images/jpl_011.png)
+![jpl_011](/images/jpl_011.png)
 
 ## Radioisotopes
 
@@ -135,7 +135,7 @@
   that would melt ice in front of the robot, while the ice behind it stayed frozen,
   using radioisotopes. Really fascinating stuff. 
   
-[jpl_012](/images/jpl_012.png)
+![jpl_012](/images/jpl_012.png)
 
 ## Starshades
 
@@ -143,7 +143,7 @@
   I asked about polarizers, and they said polarization is expensive. Oh, I also learned about Captron,
   which is like Mylar, but is the material used for the starshades.
 
-[jpl_013](/images/jpl_013.png)
+![jpl_013](/images/jpl_013.png)
 
 ## A few years ago
 
@@ -159,7 +159,7 @@
 
 - This is Insight, which measures Seismic activity
 
-[jpl_018](/images/jpl_018.png)
+![jpl_018](/images/jpl_018.png)
 
 - I should have done a better image with this, but I was too busy chatting away.
   The guy said at the end that they'd love to have me, if it all works out. We shall see.
@@ -171,7 +171,7 @@
   Basically, it's about four rigid pieces, and the others are elastic.
   So it's both flexible and rigid. Really great engineering. 
   
-[jpl_017](/images/jpl_017.png)
+![jpl_017](/images/jpl_017.png)
 
 
 
