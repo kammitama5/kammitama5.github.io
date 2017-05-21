@@ -34,9 +34,9 @@
   you really have your pick. This is a question that I don't worry *too* much about,
   but comes back into my mind again and again. 
   I've only just started, but the consensus thus far seems to be that people see me 
-  as intelligent/ competent, and so I'been getting good feedback. So then
+  as intelligent/ competent, and so I've been getting good feedback. So then
   the problem becomes "am I sure I'm making the right choice?" going in one direction
-  vs another. 
+  vs another. So far, I'm just grateful for everything.
   
   For a certain tier, it isn't about the money. A lot of these people are the people who 
   would be doing what they do even if they weren't getting paid, and they are *good*. 
