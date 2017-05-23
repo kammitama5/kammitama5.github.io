@@ -47,8 +47,9 @@ Here are some pics
   taking the class I'm taking now, but it's okay. My goal is just to do as much C++
   as possible. 
  
- - I may want to do Assembly after that, but it may be the same semester as the one
-   in which I'd like to do an internship at JPL. So we'll see. 
+ - I may want to do Assembly after that (we have about three courses), 
+   but it may be the same semester as the one in which I'd like to do an internship at JPL.
+   So we'll see. 
    
 ## Things to get done 
 
