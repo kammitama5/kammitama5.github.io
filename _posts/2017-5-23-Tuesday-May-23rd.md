@@ -41,7 +41,7 @@ Here are some pics
   So I spent until midnight reading about Compilers and how they're made.
   My dream would be to build one in C++. That would probably take me a lifetime. 
   
-- Basically, I was reading up on Preprocessors, lexers and parsers. 
+- Basically, I was reading up on Preprocessors, [lexers](https://en.wikipedia.org/wiki/Lexical_analysis) and parsers. 
   It's fascinating stuff! And then you add things like syntax highlighting if you wanted,
   or showing which elements are bound together. So far, there are typical tree structures
   for evaluations of things like numbers. 
@@ -49,12 +49,15 @@ Here are some pics
 ## A concept -> Parsers
 
 - So a parser could be depth-first in terms of its parsing. This means it would traverse from the bottom
-  of the tree and make its way upwards, when evaluating operations
+  of the tree and make its way upwards, when evaluating operations.
+  
+- Two common terms are backtracking (see my [N-Queens post](https://kammitama5.github.io/Sunday-May-14th/)) and [Recursive Descent](https://en.wikipedia.org/wiki/Recursive_descent_parser) parsing.
   
   ![parseme](/images/parseme.png)
   
 - It's interesting to think of how a compiler evaluates not just strings, but numbers
-  and in what order. 
+  and in what order. I think that languages such as Racket, Lisp and Clojure are particularly
+  helpful when thinking about this sort of stuff. 
   
 ## Got into
 
