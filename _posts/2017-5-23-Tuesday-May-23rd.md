@@ -59,6 +59,16 @@ Here are some pics
   and in what order. I think that languages such as Racket, Lisp and Clojure are particularly
   helpful when thinking about this sort of stuff. 
   
+## LaTeX as a language
+
+- Interestingly, the book talks about [TeX](https://en.wikipedia.org/wiki/TeX), as made by Knuth. 
+  It's interesting because I really like LaTeX, but I've never thought of it that way before.
+  But it makes sense; you're giving the compiler clues, such as 'math mode' vs normal mode,
+  such as the backslash or dollar sign, so that it knows how to process your inputs. 
+  Does your language interpret whitespace, and how? 
+  Very interesting!
+  Knuth actually wrote TeX in [PASCAL](http://www.literateprogramming.com/knuthweb.pdf). 
+  
 ## Got into
 
 - Officially doing Advanced C++ for Fall. It's the class I should have taken before
