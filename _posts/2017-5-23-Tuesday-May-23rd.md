@@ -41,6 +41,9 @@ Here are some pics
   So I spent until midnight reading about Compilers and how they're made.
   My dream would be to build one in C++. That would probably take me a lifetime. 
   
+- Basically, I was reading up on Preprocessors, lexers and parsers. 
+  It's fascinating stuff!
+  
 ## Got into
 
 - Officially doing Advanced C++ for Fall. It's the class I should have taken before
