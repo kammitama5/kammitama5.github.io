@@ -42,7 +42,19 @@ Here are some pics
   My dream would be to build one in C++. That would probably take me a lifetime. 
   
 - Basically, I was reading up on Preprocessors, lexers and parsers. 
-  It's fascinating stuff!
+  It's fascinating stuff! And then you add things like syntax highlighting if you wanted,
+  or showing which elements are bound together. So far, there are typical tree structures
+  for evaluations of things like numbers. 
+  
+## A concept -> Parsers
+
+- So a parser could be depth-first in terms of its parsing. This means it would traverse from the bottom
+  of the tree and make its way upwards, when evaluating operations
+  
+  ![parseme](/images/parseme.png)
+  
+- It's interesting to think of how a compiler evaluates not just strings, but numbers
+  and in what order. 
   
 ## Got into
 
