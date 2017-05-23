@@ -49,6 +49,16 @@ Here are some pics
  
  - I may want to do Assembly after that, but it may be the same semester as the one
    in which I'd like to do an internship at JPL. So we'll see. 
+   
+## Things to get done 
+
+- I have homework to do 
+- Also have to contribute to the board online 
+
+- I may be late on this one, but I'd prefer to understand it fully rather than just do it 
+  just because. 
+  
+- I also plan to spend time in the break in-between just writing a lot of C++. 
   
   
   
