@@ -62,6 +62,10 @@ Here are some pics
 - I also plan to spend time in the break in-between just writing a lot of C++. 
   
   
+## Other
+
+- I subscribe to [Brilliant.org](https://brilliant.org/explorations/algebra-fundamentals/?utm_medium=cpc&utm_source=google&utm_campaign=sitelink&utm_content=algebra_puzzles/?utm_medium=cpc&utm_source=search&utm_term=brilliant%20org&utm_content=&utm_campaign=brilliant_brand&ga_referrer=&gclid=CISsp_HwhtQCFQ9EfgodPSMFDA). Someone alluded to [Pick's Theorem](https://en.wikipedia.org/wiki/Pick%27s_theorem) for solving a puzzle.
+  
   
 
 
