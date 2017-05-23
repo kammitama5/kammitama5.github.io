@@ -100,6 +100,10 @@ I spent yesterday taking a break from people, and reading up on BlackJack and th
 
 ![robots2](/images/robot2.png)
 
+## Random one from the Tech Museum in San Jose
+
+![robotblock](/images/robotblock.png)
+
 ## This is from a few years ago, when I was on a team....(2014)
 
    We named our robot car "Bad@$$ Mofo 2 aka Charlie", and won 1st place :)
