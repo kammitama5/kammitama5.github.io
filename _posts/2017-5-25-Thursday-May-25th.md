@@ -31,3 +31,11 @@
 ![lc1_004](/images/lc1_004.png)
 
 ![lc1_005](/images/lc1_005.png)
+
+![lc_005](/images/lc_005.png)
+
+![lc1_006](/images/lc1_006.png)
+
+![lc_006](/images/lc_006.png)
+
+![lc1_008](/images/lc1_008.png)
