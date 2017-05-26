@@ -57,3 +57,36 @@
 ![lc1_012](/images/lc1_012.png)
 
 ![lc1_013](/images/lc1_013.png)
+
+![lc_011](/images/lc_011.png)
+
+![lc_012](/images/lc_012.png)
+
+![lc_013](/images/lc_013.png)
+
+![lc1_014](/images/lc1_014.png)
+
+![lc1_015](/images/lc1_015.png)
+
+![lc_014](/images/lc_014.png)
+
+![lc_015](/images/lc_015.png)
+
+![lc1_016](/images/lc1_016.png)
+
+![lc1_017](/images/lc1_017.png)
+
+![lc1_018](/images/lc1_018.png)
+
+## Finally
+
+- We went out to eat at this indian restaurant, and even continued
+  talking about Category Theory there, in Haskell and F#!
+
+![lc1_019](/images/lc1_019.png) 
+
+## Plan for tomorrow
+
+- Interested in either learning Coq or Lambda Calculus. 
+  Saturday, I have to make Sandy's talk and Runar's, if I can!
+  Really great day today :)
