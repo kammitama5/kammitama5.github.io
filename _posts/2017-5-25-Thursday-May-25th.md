@@ -18,3 +18,6 @@
 
 - I'll try to align the notes as best I can with images he drew
 
+![lc_001](/images/lc_001.png)
+
+![lc1_002](/images/lc1_002.png)
