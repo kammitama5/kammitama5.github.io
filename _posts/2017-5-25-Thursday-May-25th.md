@@ -42,6 +42,8 @@
 
 ![lc1_009](/images/lc1_009.png)
 
-
-
 ![lc1_008](/images/lc1_008.png)
+
+![lc_008](/images/lc_008.png)
+
+![lc1_010](/images/lc1_010.png)
