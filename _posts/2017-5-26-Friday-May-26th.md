@@ -67,6 +67,10 @@
 
 ![lc2_320](/images/lc2_320.png)
 
+- The Internatial Space Station was over us, 
+  so a group of us ran outside and saw it flying
+  overhead, which was neat!
+
 ## And then we ended up of course, talking about Haskell!
 
 ![lc2_321](/images/lc2_321.png)
