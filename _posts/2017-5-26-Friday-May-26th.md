@@ -67,7 +67,7 @@
 
 ![lc2_320](/images/lc2_320.png)
 
-- The Internatial Space Station was over us, 
+- The International Space Station was over us, 
   so a group of us ran outside and saw it flying
   overhead, which was neat!
 
