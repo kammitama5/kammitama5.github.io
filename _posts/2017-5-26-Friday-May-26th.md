@@ -2,7 +2,12 @@
 
 ## I learned a bit of Coq today
 
-- It's actually pretty fun. Great for Theorem proving
+- It's actually pretty fun. Great for Theorem proving.
+  You can also change Coq code into Haskell code!
+  Similar concept to Dijkstra and having mathematically
+  correct programmes. 
+  
+- You wouldn't do it for *all* your code, but still useful!
 
 ![lc2_004](/images/lc2_004.png)
 
