@@ -38,7 +38,7 @@
    
    ![lct_006](/images/lct_006.png)
    
-    ![lct_007](/images/lct_007.png)
+   ![lct_007](/images/lct_007.png)
     
     
 ## Things to do 
