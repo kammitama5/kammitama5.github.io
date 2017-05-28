@@ -76,8 +76,6 @@
 
 ## Grothendieck Topology 
 
-![lc3_023](/images/lc3_023.png)
-
 ![lc3_022](/images/lc3_022.png)
 
 ![lc3_023](/images/lc3_023.png)
