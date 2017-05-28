@@ -44,6 +44,17 @@
    ![lct_006](/images/lct_006.png)
    
    ![lct_007](/images/lct_007.png)
+   
+## Roommate Selfie
+
+- This was my roommate for the conference, Nikola.
+  She is from Poland, and was invited to speak.
+  It was wonderful having her as a roommate!
+  We actually ended up in gates right next to each
+  other, even though she flies to Frankfurt, and then
+  to Warsaw.
+  
+![lambda_lambda](/images/lambda_lambda.png)
     
     
 ## Things to do 
