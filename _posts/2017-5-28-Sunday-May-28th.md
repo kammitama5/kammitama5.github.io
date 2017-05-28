@@ -25,6 +25,11 @@
   PDX Functional Programming group, though. Really great stuff!
   
 ## Tea Time pics
+- This was at Dushanbe, which was gracious enough 
+  to provide us with a wonderful Tea Breakfast for
+  LambdaConf Social pre-conference activities!
+  
+  [Dushanbe](http://boulderteahouse.com/)
 
    ![lct_001](/images/lct_001.png)
    
