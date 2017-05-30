@@ -1,4 +1,4 @@
-## More notes on Category Theory and a lot of work to complete 
+## More notes on Category Theory...
 
 ## Getting Caught up
 
@@ -11,6 +11,8 @@
   again this upcoming Saturday
   for four weekends. There is a pre-assigment,
   so I have to get caught up on that, too.
+  
+## Here are some notes I took today: 
   
 ![cathe_001](/images/cathe_001.png)
 
