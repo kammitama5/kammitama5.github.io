@@ -41,6 +41,8 @@
   I'd seriously attend all the workshops
   if I can audit, though!
   
-  
+## Of note 
+
+- I learned a bit about [Hadamard Matrices](http://mathworld.wolfram.com/HadamardMatrix.html) today. Really fascinating!
 
   
