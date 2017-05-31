@@ -45,4 +45,6 @@
 
 - I learned a bit about [Hadamard Matrices](http://mathworld.wolfram.com/HadamardMatrix.html) today. Really fascinating!
 
+- Used by our very own JPL for Mariner and Voyager. Incredible! 
+
   
