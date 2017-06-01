@@ -12,6 +12,10 @@
   Mine basically will allow you to narrow your choices
   based on whether you'd like a "hook-up" or
   a long-term relationship. 
+  A person in that scenario doesn't care about information
+  too far away, so better to exclude it, and it's helpful
+  to have matches based on location (zip code, 
+  or a "know your location" detection system etc).
   
 ## Here is the flow-chart for it.
 
