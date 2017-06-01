@@ -72,8 +72,6 @@
 
   # Produces 648.
 
-factorial(10)
-
   ```
   
   
