@@ -52,7 +52,7 @@
   
 ## Found a neat new FP group based in OC. 
   
-- It's called[Functional Programming OC](https://www.meetup.com/Orange-Combinator-Functional-Programming-In-OC/)
+- It's called [Functional Programming OC](https://www.meetup.com/Orange-Combinator-Functional-Programming-In-OC/)
 
 ## POPL
 - Found out the next [POPL](http://popl18.sigplan.org/home) 
