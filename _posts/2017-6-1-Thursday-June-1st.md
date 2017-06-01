@@ -10,7 +10,7 @@
   
 - His name is Charles Elachi, and he retired last year
   from JPL as director. You can find the article
-  [here](https://www.washingtonpost.com/posteverything/wp/2014/09/22/how-america-turned-me-from-a-lebanese-immigrant-into-a-nasa-rocket-scientist/?utm_term=.e350d7caf3a0)
+  [here](https://www.washingtonpost.com/posteverything/wp/2014/09/22/how-america-turned-me-from-a-lebanese-immigrant-into-a-nasa-rocket-scientist/?utm_term=.e350d7caf3a0).
  
  
 ## I'm attending the Coding for Product Workshop!
@@ -77,10 +77,10 @@
   
 ## Found a neat new FP group based in OC. 
   
-- It's called [Functional Programming OC](https://www.meetup.com/Orange-Combinator-Functional-Programming-In-OC/)
+- It's called [Functional Programming OC](https://www.meetup.com/Orange-Combinator-Functional-Programming-In-OC/).
 
 ## POPL
-- Found out the next [POPL](http://popl18.sigplan.org/home) 
+- Found out the next [POPL](http://popl18.sigplan.org/home)
   will be in Los Angeles for 2018
 
 - Hope I can attend that!
@@ -93,6 +93,6 @@
   I'm also looking at Spivak's book. It's up there
   on my Wishlist.
   It's called "Category Theory for the Sciences".
-  You can find an old version [here](http://math.mit.edu/~dspivak/CT4S.pdf)
+  You can find an old version [here](http://math.mit.edu/~dspivak/CT4S.pdf).
   
   
