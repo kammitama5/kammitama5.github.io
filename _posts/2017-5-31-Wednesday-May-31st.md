@@ -35,7 +35,7 @@
 - From there, it maps out a path if the persons choose, by bus, car,
   train, walking, etc to the chosen location
   
-![studybuddy2](/images/studybuddy2.png)
+![studybuddy3](/images/studybuddy3.png)
 
 ## Other
 
