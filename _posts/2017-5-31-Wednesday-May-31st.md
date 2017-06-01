@@ -21,6 +21,22 @@
 
 ![matchme](/images/matchme.png)
 
+## Update 
+
+- Whoops..Apparently, she meant like a "study-buddy" matchmaking app
+ (Seriously, though..matchmaking colloquially today alludes to specifically
+ one thing, but oh well LOL).
+
+- Here is a new diagram for that. It looks at your zip code, picks a 
+  match based on that. Then it asks the persons if they'd like to have a
+  study session at one of their locations, or else pick a place in the 
+  vicinity, suggesting coffee-shops, libraries nearby, etc.
+  
+- From there, it maps out a path if the persons choose, by bus, car,
+  train, walking, etc to the chosen location
+  
+![studybuddy](/images/studybuddy.png)
+
 ## Other
 
 - Working on finishing up a C++ lab. 
