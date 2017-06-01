@@ -49,6 +49,33 @@
   for my final exam, which is on the 13th,
   and then I'm done.
   
+## Project Euler back again...Question 20
+
+- I solved a problem from Project Euler.
+  Pretty easy.
+  You find 100! and then make it a 
+  string and sum the digits.
+  
+  ```
+  def factorial(n):
+  total = 1
+  total1 = 0
+  for i in range(1, 100):
+    total = total * i 
+    
+  d = str(total)
+  for i in d:
+    total1 = total1 + int(i) 
+  print total1
+  
+  return 
+
+  # Produces 648.
+
+factorial(10)
+
+  ```
+  
   
 ## Found a neat new FP group based in OC. 
   
