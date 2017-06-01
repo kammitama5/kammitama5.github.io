@@ -87,7 +87,7 @@
 
 ## Spent the afternoon
 
-- Reading up on Co-Monads.
+- Reading up on [Co-Monads](https://bartoszmilewski.com/2017/01/02/comonads/).
   I got to Bartosz's lectures again. 
   I should just start going through his lectures.
   I'm also looking at Spivak's book. It's up there
