@@ -2,7 +2,7 @@
 
 ## So...
 
-- I'm going to this talk tonight at JPL, at Von Karman. 
+- I'm going to this talk tonight at JPL, at [Von Karman](https://www.jpl.nasa.gov/events/lectures.php). 
   The speaker is particularly inspiring to me.
   He's a Lebanese Immigrant who came from a small village
   and became a rocket scientist at JPL, heading missions
