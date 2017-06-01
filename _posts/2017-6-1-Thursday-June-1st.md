@@ -37,7 +37,18 @@
   I'll probably get it by July 1st.
   It's a *great* class to learn predicate logic,
   and how it relates to programming.
+ 
   ![audit](/images/audit.png)
+  
+- I wasn't able to complete the notes in LaTeX,
+  but maybe if I have time in the future,
+  I will! I'll continue to write mathematical
+  notation in LaTeX, thouugh. It's so clean
+  and useful, and helps me in learning about
+  and remembering mathematical notation,
+  which ties into functional programming and
+  category theory, too. Plus, it's just so
+  nice-looking :)
   
 
 ## I have to finish one more lab
