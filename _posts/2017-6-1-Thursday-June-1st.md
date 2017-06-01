@@ -23,7 +23,7 @@
   I'm excited to learn and be a part of the project
   
   
-## I'm starting my June UnBootcamp workshop
+## I'm starting my June UnBootcamp workshop!
 
 - I got some great feedback, and will be 
   implementing that tomorrow during the day,
