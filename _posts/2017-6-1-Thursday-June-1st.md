@@ -17,7 +17,7 @@
 - I got a picture with Charles Elachi! He has an asteroid named after him! 
   I also got caught in the middle of an interview with my mentor, who works at JPL,
   and his brother, who also worked there. 
-  A really nice journalist, Govinda, is interviewing engineers at JPL,
+  A really nice journalist, Govindina (or Tiger), is interviewing engineers at JPL,
   which I think is a really great idea! There are so many *great* stories
   that are not told because the media focuses on astronauts.
   
