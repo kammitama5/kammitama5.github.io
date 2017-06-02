@@ -11,6 +11,27 @@
 - His name is Charles Elachi, and he retired last year
   from JPL as director. You can find the article
   [here](https://www.washingtonpost.com/posteverything/wp/2014/09/22/how-america-turned-me-from-a-lebanese-immigrant-into-a-nasa-rocket-scientist/?utm_term=.e350d7caf3a0).
+  
+## Update
+
+- I got a picture with Charles Elachi! He has an asteroid named after him! 
+  I also got caught in the middle of an interview with my mentor, who works at JPL,
+  and his brother, who also worked there. 
+  A really nice journalist, Govinda, is interviewing engineers at JPL,
+  which I think is a really great idea! There are so many *great* stories
+  that are not told because the media focuses on astronauts.
+  
+  Here is my photo with Dr. Elachi. He is so nice, and really smart,
+  and has a great sense of humour. It made me sad that I won't be working
+  under him, since he retired already, if I intern at JPL, but I'm happy
+  to get a chance to be part of that legacy. It was really a wonderful
+  evening!
+  
+  Note the LambdaConf tshirt hehe. That was deliberate :)
+  
+![elachi_001](/images/elachi_001.png)
+
+![elachi_002](/images/elachi_002.png)
  
  
 ## I'm attending the Coding for Product Workshop!
