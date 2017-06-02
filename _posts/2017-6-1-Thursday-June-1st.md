@@ -9,7 +9,7 @@
   like the Curiosity Rover, etc. 
   
 - His name is Charles Elachi, and he retired last year
-  from JPL as director. You can find the article
+  from JPL as director. You can find the article about his journey 
   [here](https://www.washingtonpost.com/posteverything/wp/2014/09/22/how-america-turned-me-from-a-lebanese-immigrant-into-a-nasa-rocket-scientist/?utm_term=.e350d7caf3a0).
   
 ## Update
