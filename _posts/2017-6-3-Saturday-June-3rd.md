@@ -14,10 +14,15 @@
 
 - And drew possible scenarios for a User Page
 
+## Option 1
+
 <img src="/images/blog_007.png" width="300">
+
+## Option 2
 
 <img src="/images/blog_008.png" width="300">
 
+## Option 3
 <img src="/images/blog_009.png" width="300">
 
 ## Implementation
@@ -41,7 +46,13 @@ Then, we implemented basic code for the first Mock-up of the Profile Page
 
 ## And made a nicer Profile Page for User Sign-up/ Sign In
 
+- This is based on our Options (1, 2, 3)
+
 <img src="/images/blog_004.png" width="300">
+
+## Melanie and myself churned out this Page, based on Option 1.
+
+- The Cat would be a gif, essentially.
 
 <img src="/images/blog_005.png" width="500">
 
