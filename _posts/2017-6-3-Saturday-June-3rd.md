@@ -93,6 +93,10 @@ function covfefe(str)
 
 ```
 
+- And...my 2000th commit today! 
+
+![blog_006](/images/blog_006.png)
+
 ## Things to do
 
 - My C++ quiz. Will be done tonight
