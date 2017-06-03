@@ -7,7 +7,7 @@
 - First, we started with our original ideas
 
 ![blog_011](/images/blog_011.png)
-<img src="/images/blog_011.png" width="200">
+<img src="/images/blog_011.png" width="500">
 
 ![blog_010](/images/blog_010.png)
 
