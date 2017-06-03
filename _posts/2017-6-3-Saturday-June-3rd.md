@@ -41,7 +41,7 @@ Then, we implemented basic code for the first Mock-up of the Profile Page
 
 ## And made a nicer Profile Page for User Sign-up/ Sign In
 
-<img src="/images/blog_004.png" width="500">
+<img src="/images/blog_004.png" width="300">
 
 <img src="/images/blog_005.png" width="500">
 
@@ -68,3 +68,8 @@ function covfefe(str)
 
 ```
 
+## Things to do
+
+- My C++ quiz. Will be done tonight
+
+- Application for Coding for Product (do tomorrow)
