@@ -14,13 +14,10 @@
 
 - And drew possible scenarios for a User Page
 
-![blog_007](/images/blog_007.png)
 <img src="/images/blog_007.png" width="500">
 
-![blog_008](/images/blog_008.png)
 <img src="/images/blog_008.png" width="500">
 
-![blog_009](/images/blog_009.png)
 <img src="/images/blog_009.png" width="500">
 
 ## Implementation
