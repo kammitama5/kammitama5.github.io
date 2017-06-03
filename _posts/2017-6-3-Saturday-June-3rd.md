@@ -6,7 +6,7 @@
 
 - First, we started with our original ideas
 
-![blog_011](/images/blog_011.png)
+![blog_011](/images/blog_011.png =100x)
 
 ![blog_010](/images/blog_010.png)
 
