@@ -14,11 +14,11 @@
 
 - And drew possible scenarios for a User Page
 
-<img src="/images/blog_007.png" width="500">
+<img src="/images/blog_007.png" width="300">
 
-<img src="/images/blog_008.png" width="500">
+<img src="/images/blog_008.png" width="300">
 
-<img src="/images/blog_009.png" width="500">
+<img src="/images/blog_009.png" width="300">
 
 ## Implementation
 
