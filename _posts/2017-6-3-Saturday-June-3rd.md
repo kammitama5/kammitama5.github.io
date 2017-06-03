@@ -31,7 +31,7 @@ Then, we implemented basic code for the first Mock-up of the Profile Page
 
 ## Wrote some Code in CodePen
 
-<img src="/images/blog_002.png" width="500">
+<img src="/images/blog_002.png" width="300">
 
 
 - Translated to be pushed to the central Repo
