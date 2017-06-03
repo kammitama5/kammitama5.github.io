@@ -6,7 +6,8 @@
 
 - First, we started with our original ideas
 
-![blog_011](/images/blog_011.png width=50x)
+![blog_011](/images/blog_011.png)
+<img src="/images/blog_011.png" width="48">
 
 ![blog_010](/images/blog_010.png)
 
