@@ -1,6 +1,20 @@
 ## First Day of June Unbootcamp
 
-## Making a Study-Budy App
+## Making a Study-Buddy App
+
+## Basically
+
+- This Unbootcamp is focused on creating
+  a project and working together as a team.
+  It's for four Saturdays, pretty much 
+  all-day (9 to 6pm).
+  
+- So getting used to making pull requests,
+  merging and dealing with conflicts, 
+  coming up with ideas, using JavaScript, 
+  HTML and CSS to make a project.
+  
+## So Firstly...
 
 - We did some brainstorming of ideas
 
