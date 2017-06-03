@@ -40,3 +40,26 @@ Then, we implemented basic code for the first Mock-up of the Profile Page
 
 ![blog_005](/images/blog_005.png)
 
+## Also 
+
+I solved Covfefe kata, along with two new friends, Allie and Kelly
+
+```
+function covfefe(str)
+{
+  // 
+
+  if (str.includes("coverage"))
+  {
+    var textTitle = "coverage"
+    var str = str.replace(/coverage/g, 'covfefe');
+  }
+  else {
+    str = str + " covfefe";
+  }
+   //console.log(str)
+    return str;
+}
+
+```
+
