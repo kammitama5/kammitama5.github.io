@@ -26,21 +26,24 @@ Then, we implemented basic code for the first Mock-up of the Profile Page
 
 - Things we needed
 
-![blog_001](/images/blog_001.png)
+<img src="/images/blog_001.png" width="500">
+
 
 ## Wrote some Code in CodePen
 
-![blog_002](/images/blog_002.png)
+<img src="/images/blog_002.png" width="500">
+
 
 - Translated to be pushed to the central Repo
 
-![blog_003](/images/blog_003.png)
+<img src="/images/blog_003.png" width="500">
+
 
 ## And made a nicer Profile Page for User Sign-up/ Sign In
 
-![blog_004](/images/blog_004.png)
+<img src="/images/blog_004.png" width="500">
 
-![blog_005](/images/blog_005.png)
+<img src="/images/blog_005.png" width="500">
 
 ## Also 
 
