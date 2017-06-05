@@ -24,7 +24,7 @@ It's Monday again, and I finished the pre-reqs for this workshop (I hope).
   really long title that will be cho…</a>"
   ```
   
-Question 1 : My Solution
+## Question 1 : My Solution
 
 ```
 function bubba(a)
