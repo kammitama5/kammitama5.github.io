@@ -116,9 +116,13 @@ var krystal = {
   username: "kammitama",
   userid:   5,
   favouriteLanguage: "Haskell",
-  hometown : Ganymeade
+  hometown : Ganymede
 };
 ```
+- Btw, "Ganymede" is an inside geek joke. 
+  It's a [moon on Jupiter](https://en.wikipedia.org/wiki/Ganymede_(moon)).
+  Not sure how many people get obscure Space jokes :P.
+
 
 ## Well look-y here!
 
