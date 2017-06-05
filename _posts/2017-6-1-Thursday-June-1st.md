@@ -61,6 +61,16 @@
  
   ![audit](/images/audit.png)
   
+## Update
+- I got the certificate! It's verified. 
+  I guess maybe that doesn't mean much, 
+  except that I really liked this class :)
+  Seriously, it helped me a lot. I'd like to do
+  something similar for learning Coq, later
+  on this year, on my own.
+  
+![certLAFF](/images/certLAFF.png)
+  
 - I wasn't able to complete the notes in LaTeX,
   but maybe if I have time in the future,
   I will! I'll continue to write mathematical
