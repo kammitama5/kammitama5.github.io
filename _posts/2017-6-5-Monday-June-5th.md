@@ -96,6 +96,29 @@ for (var i=0; i < arr.length; i++){
 }
 
 ```
+
+## Quick Fix
+
+- We were asked to create an object
+  that represents what the user would input.
+  This is for the app we're building.
+  This is for the June workshop...
+  the one that runs *in* June, 
+  not the one that runs in the last weekend
+  in June and throughout July. 
+  I know...confusing!
+  
+  Mine is: 
+  
+```
+var krystal = {
+  username: "kammitama",
+  userid:   5,
+  favouriteLanguage: "Haskell",
+  hometown : Ganymeade
+};
+```
+
 ## Well look-y here!
 
 - I play lots of games like these, sometimes. 
@@ -107,6 +130,8 @@ Look what I found today! :)
 
 ## Plan for today
 
-- Review for exam tomorrow.
+- Review for exam tomorrow (done).
 
-- Work on some C++.
+- Work on some C++ (maybe..may wait till Exam is done).
+
+- Start Algorithms coursework (four-week thingy)
