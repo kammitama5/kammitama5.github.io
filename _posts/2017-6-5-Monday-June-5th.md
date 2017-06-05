@@ -16,7 +16,10 @@ It's Monday again, and I finished the pre-reqs for this workshop (I hope).
   trunc to '...' after that length.
   
   So this one prints : 
+  
+  ```
   "<a href="example.com">really, really, really long title that will be cho…</a>"
+  ```
   
 Question 1 : My Solution
 
@@ -46,10 +49,12 @@ bubba({
   
 - This one would loop through the outputs
   and based on length, print :
-  
+
+```
 <a href="github.com">Github</a>
 <a href="google.com">Google</a>
 <a href="example.com">really, really, really long title 3 that will be ch…</a>
+```
 
 ## Question 2 : My Solution
 
