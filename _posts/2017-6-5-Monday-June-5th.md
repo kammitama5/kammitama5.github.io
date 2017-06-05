@@ -15,6 +15,8 @@ It's Monday again, and I finished the pre-reqs for this workshop (I hope).
   If title > 50 chars, 
   trunc to '...' after that length.
   
+- Hey, that trim function is pretty neat!
+  
   So this one prints : 
   
   ```
