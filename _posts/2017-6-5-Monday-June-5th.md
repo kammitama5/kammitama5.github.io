@@ -96,6 +96,14 @@ for (var i=0; i < arr.length; i++){
 }
 
 ```
+## Well look-y here!
+
+- I play lots of games like these, sometimes. 
+  Trogdor is a favourite, and Text Twist, etc
+  
+Look what I found today! :)
+
+<img src="/images/mo_monad.png" width="500">
 
 ## Plan for today
 
