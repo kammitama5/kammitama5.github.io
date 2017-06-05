@@ -20,7 +20,8 @@ It's Monday again, and I finished the pre-reqs for this workshop (I hope).
   So this one prints : 
   
   ```
-  "<a href="example.com">really, really, really long title that will be cho…</a>"
+  "<a href="example.com">really, really, 
+  really long title that will be cho…</a>"
   ```
   
 Question 1 : My Solution
@@ -39,7 +40,8 @@ function bubba(a)
 }
 
 bubba({
-  title: 'really, really, really long title that will be chopped off',
+  title: 'really, really, really long title
+  that will be chopped off',
   link: 'example.com'
 })
 ```
@@ -55,7 +57,8 @@ bubba({
 ```
 <a href="github.com">Github</a>
 <a href="google.com">Google</a>
-<a href="example.com">really, really, really long title 3 that will be ch…</a>
+<a href="example.com">really, really,
+really long title 3 that will be ch…</a>
 ```
 
 ## Question 2 : My Solution
@@ -71,7 +74,8 @@ var arr = [
     link: 'google.com'
   },
   {
-    title: 'really, really, really long title that will be chopped off',
+    title: 'really, really, really
+    long title that will be chopped off',
     link: 'example.com'
   }
 ]
