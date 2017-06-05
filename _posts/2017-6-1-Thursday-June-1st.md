@@ -74,7 +74,7 @@
 - I wasn't able to complete the notes in LaTeX,
   but maybe if I have time in the future,
   I will! I'll continue to write mathematical
-  notation in LaTeX, thouugh. It's so clean
+  notation in LaTeX, though. It's so clean
   and useful, and helps me in learning about
   and remembering mathematical notation,
   which ties into functional programming and
