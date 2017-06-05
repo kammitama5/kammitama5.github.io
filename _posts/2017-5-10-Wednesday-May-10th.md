@@ -48,7 +48,7 @@
   It's one of the things that keeps me going. I can't take this 
   for granted. It's my path. 
   
-  I am, however, *really* passionate about coding (I actually enjouy it,
+  I am, however, *really* passionate about coding (I actually enjoy it,
   *a lot*), and I have a *real* desire to get really good. So I guess 
   I just have to suck it up and stick with it. 
   
