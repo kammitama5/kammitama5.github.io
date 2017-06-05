@@ -1,5 +1,8 @@
 ## Solved...and Blocked my Files
 
+- Was laughing, because I said yesss..solved it! Then tried to attach
+  my files...and...BLOCKED. So I just linked to my repo.
+
 ## Hello...
 
 It's Monday again, and I finished the pre-reqs for this workshop (I hope).
@@ -7,10 +10,13 @@ It's Monday again, and I finished the pre-reqs for this workshop (I hope).
 - The link to my repo is [here](https://github.com/kammitama5/Coding_Product_prereq)
 
 
-- Write a function that when given an key value pair with a title and url,
-  the function will print a linked title. 
-  If the title is longer than 50 characters, 
-  truncate the title to 50 characters followed by 3 ellipses.
+- Write a function in dict,
+  prints a linked title. 
+  If title > 50 chars, 
+  trunc to '...' after that length.
+  
+  So this one prints : 
+  "<a href="example.com">really, really, really long title that will be cho…</a>"
   
 Question 1 : My Solution
 
@@ -35,9 +41,15 @@ bubba({
 
 ## Question 2 
 
-- Write a function when given an array of key value pairs, 
-  the function will print out a linked title for key value pair.
-  Call the function from previous question in this function.
+- Write a function given a dict in an array, 
+  the function will print title and url.
+  
+- This one would loop through the outputs
+  and based on length, print :
+  
+<a href="github.com">Github</a>
+<a href="google.com">Google</a>
+<a href="example.com">really, really, really long title 3 that will be ch…</a>
 
 ## Question 2 : My Solution
 
