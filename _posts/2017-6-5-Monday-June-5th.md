@@ -120,8 +120,9 @@ var krystal = {
 };
 ```
 - Btw, "Ganymede" is an inside geek joke. 
-  It's a [moon on Jupiter](https://en.wikipedia.org/wiki/Ganymede_(moon)).
   Not sure how many people get obscure Space jokes :P.
+  (It's a [moon on Jupiter](https://en.wikipedia.org/wiki/Ganymede_(moon))).
+ 
 
 
 ## Well look-y here!
