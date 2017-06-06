@@ -50,3 +50,13 @@ function twiceOfANumber(added_value, total_value) {
   
 }
 ```
+
+## Plan for today
+
+- Review C++ notes for mini-exam.
+
+- Start Algorithms coursework
+
+- If I have time, look at Firebase
+  implementation (since we'll be 
+  using that this Saturday).
