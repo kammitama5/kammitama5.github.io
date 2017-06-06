@@ -1,6 +1,10 @@
-## Who reads anymore, anyways? ¯\_(ツ)_/¯
+## Who reads anymore, anyways? 
+```
+¯\_(ツ)_/¯
+```
+## I totally screwed up....
 
-## I totally screwed up
+## But since programming is ALL about screwing up...haha
 
 - I don't read, so I didn't put the files into a folder
   and used a new container for my Firebase branch test.
