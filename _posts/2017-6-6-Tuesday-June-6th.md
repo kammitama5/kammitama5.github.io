@@ -1,3 +1,22 @@
+## Who reads anymore, anyways? ¯\_(ツ)_/¯
+
+## I totally screwed up
+
+- I don't read, so I didn't put the files into a folder
+  and used a new container for my Firebase branch test.
+  Whoops!
+  
+![firebase_3](/images/firebase_3.png)
+
+## But...
+
+- I fixed it..woohoo!
+  Just put it on a different branch.
+  
+![firebase_1](/images/firebase_1.png)
+
+![firebase_2](/images/firebase_2.png)
+
 ## Mini-Exam
 
 - I have a mini-exam today.
