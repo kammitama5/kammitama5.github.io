@@ -26,6 +26,7 @@ function detect(comment)
 }
 
 ```
+## This one I sort of duct-taped the answer, but it passed.
 
 2 * x + another_value = total_value.
 Find x.
