@@ -14,7 +14,8 @@ I solved two.
 function detect(comment)
 {
   var word = comment.split(" ");
-  if ((word[0] == "Can") && (word[1] == "someone") && (word[2] == "explain"))
+  if ((word[0] == "Can") && (word[1] == "someone")
+  && (word[2] == "explain"))
   {
     return(true);
   }
