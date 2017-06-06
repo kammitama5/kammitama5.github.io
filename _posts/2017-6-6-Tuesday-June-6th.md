@@ -61,3 +61,11 @@ function twiceOfANumber(added_value, total_value) {
 - If I have time, look at Firebase
   implementation (since we'll be 
   using that this Saturday).
+  
+## Update
+
+- A *huge* application part-y thingy
+  was approved for my green card.
+  So, looks like you are stuck with me
+  in this beautiful country! Mwahaha!
+  :) *dances*
