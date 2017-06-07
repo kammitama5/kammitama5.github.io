@@ -2,16 +2,7 @@
 ```
 ¯\_(ツ)_/¯
 ```
-## I totally screwed up....
 
-## But since programming is ALL about screwing up...haha
-
-- I don't read, so I didn't put the files into a folder
-  and used a new container
-  for my Firebase branch test that wasn't synched properly.
-  
-  Whoops!
-  
 PS. Don't take "I don't read" literally...
 
 - I read *a lot*.
@@ -21,7 +12,17 @@ PS. Don't take "I don't read" literally...
 
 ![sheaf1](/images/sheaf1.png)
 
-## So...back to being a screw-up!
+## So...back to being a screw-up....
+
+## I totally screwed up....
+
+## But since programming is ALL about screwing up...haha
+
+- I don't read, so I didn't put the files into a folder
+  and used a new container
+  for my Firebase branch test that wasn't synched properly.
+  
+  Whoops!
   
 ![firebase_3](/images/firebase_3.png)
 
