@@ -80,5 +80,14 @@ def CountAnimals(sentence):
   However, I'd like to dig into my Algorithms coursework.
   I'll probably write mine in Python.
   
+## Aside
+
+- I watched Gary Bernhardt's Lambda Calculus talk
+  (note of the Halting Problem). It's actually called
+  ["Computation Explained Briskly, for Programmers"](https://www.destroyallsoftware.com/screencasts).
+  
+- I watched Gary Bernhardt's ["The Birth and Death of 
+  JavaScript"](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) talk.
+  
   
   
