@@ -89,7 +89,9 @@ function twiceOfANumber(added_value, total_value) {
   
 }
 ```
-## And one last one...
+## Okay..I lied...
+
+## One last one...(Code Wars is *so* addictive!)
 
 - This one just had sums for letters that were one side
  vs the other. Based on that you printed a response.
