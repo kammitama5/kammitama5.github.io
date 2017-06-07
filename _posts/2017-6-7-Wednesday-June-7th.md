@@ -130,7 +130,7 @@ function buildPyramidTime(strength, skill) {
 
 - I'm tired, because I stayed up late listening to 
   trance music after my exam. 
-  However, I'd like to dig into my Algorithms coursework.
+  However, I'd like to dig into my [Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) coursework.
   I'll probably write mine in Python.
   
 - Finish up Firebase homework by Liz this evening.
