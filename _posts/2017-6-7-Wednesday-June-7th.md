@@ -70,13 +70,15 @@ def CountAnimals(sentence):
         total1 = total1 + i 
       return total1
 ```
-## I register for Strange Loop today!
+## I register for Strange Loop today (done!)!
 
 - As a grant winner, I get to register one day early.
   I'm looking at either the [NES course](https://www.thestrangeloop.com/2017/making-nes-games-in-assembly.html)
   ("Making NES games in Assembly") or the 
   [Tensorflow workshop](https://www.thestrangeloop.com/2017/getting-started-with-tensorflow.html) 
   (called "Getting Started with   Tensorflow").
+  
+## Update - Registered for Tensorflow Workshop!
   
   Even though I plan on taking an Assembly class 
   in Spring, I also think I would get a lot more
