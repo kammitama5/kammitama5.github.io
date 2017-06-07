@@ -105,6 +105,11 @@ def CountAnimals(sentence):
   However, I'd like to dig into my Algorithms coursework.
   I'll probably write mine in Python.
   
+## Update
+- Officially one of nine chosen for July "Coding for Product" workshop.
+  Recognized quite a few people. This should be fun! I'm expecting to 
+  learn a lot, and is a great segue from my June workshop.
+  
 ## Aside
 
 - I watched Gary Bernhardt's Lambda Calculus talk
