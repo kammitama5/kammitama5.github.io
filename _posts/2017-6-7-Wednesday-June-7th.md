@@ -133,6 +133,8 @@ function buildPyramidTime(strength, skill) {
   However, I'd like to dig into my Algorithms coursework.
   I'll probably write mine in Python.
   
+- Finish up Firebase homework by Liz this evening.
+  
 ## Update
 - Officially one of nine chosen for July "Coding for Product" workshop.
   Recognized quite a few people. This should be fun! I'm expecting to 
