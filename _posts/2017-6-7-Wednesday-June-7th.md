@@ -31,7 +31,8 @@ function nthEven(n){
   functional programming for life, so...
 
 - Over time, I'll get better at refactoring,
-  programming more concisely, etc.
+  programming more concisely (and precisely), etc.
+  
   Thankfully, the [Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x#!)
   course has really made me see loops in a 
   *totally* different light. Everything is
