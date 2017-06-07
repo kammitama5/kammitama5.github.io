@@ -7,9 +7,11 @@
 - Whether it's on Lambda Calculus or Haskell,
   or building games, I'd really appreciate it.
   It helps to be a part of the community,
-  plus it makes you accountable when you post!
+  plus it makes you accountable
+  for *doing* or *contributing something*
+  when you post!
   
-## Solved two katas 
+## I Solved two katas 
 
 - Find the nth even number :
   This is simple Mathematics
