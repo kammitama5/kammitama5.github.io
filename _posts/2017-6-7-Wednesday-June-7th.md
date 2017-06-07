@@ -70,6 +70,32 @@ def CountAnimals(sentence):
         total1 = total1 + i 
       return total1
 ```
+## This one was just *terrible*
+
+Something something..Pyramid of Giza.
+
+## *Terrible*
+
+```
+function buildPyramidTime(strength, skill) {
+  // Only change code below this line
+  var total = strength + skill;
+  
+  if (total > 15)
+  {
+    return "receive 3000 gold coins"
+  }
+  else if ((total >= 10) && (total <= 15)){
+    return "receive 5000 gold coins"
+  }
+  else
+  {
+    return "receive 10000 gold coins"
+  }
+    // Only change code above this line
+  }
+```
+
 ## I register for Strange Loop today (done!)!
 
 - As a grant winner, I get to register one day early.
