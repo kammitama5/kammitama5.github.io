@@ -26,7 +26,10 @@ function nthEven(n){
 
 - Solved in Python. Parsed the sentence.
   Looked for ints, pushed that to array 
-  and summed those. Convoluted, I know.
+  and summed those. 
+  
+  Convoluted, I know.
+  
   It passed the tests, and I'm learning
   functional programming for life, so...
 
