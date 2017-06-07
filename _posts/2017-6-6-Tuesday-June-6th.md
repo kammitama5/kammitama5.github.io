@@ -12,6 +12,17 @@
   
   Whoops!
   
+PS. Don't take "I don't read" literally...
+
+- I read *a lot*.
+  This was in my inbox today.
+  
+## Umm....
+
+![sheaf1](/images/sheaf1.png)
+
+## So...back to being a screw-up!
+  
 ![firebase_3](/images/firebase_3.png)
 
 ## But...
