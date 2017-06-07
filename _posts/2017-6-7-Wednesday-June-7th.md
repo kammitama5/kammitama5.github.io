@@ -35,10 +35,11 @@ function nthEven(n){
   
   Thankfully, the [Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x#!)
   course has really made me see loops in a 
-  *totally* different light. Everything is
-  *so* clear now with loops, understanding
-  them mathematically. I highly recommend
-  that course!
+  *totally* different light. 
+  
+  Everything is *so* clear now with loops,
+  understanding them mathematically. 
+  I highly recommend that course!
   
 ```
 def CountAnimals(sentence):
