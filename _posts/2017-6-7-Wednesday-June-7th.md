@@ -14,7 +14,11 @@
 ## I Solved two katas 
 
 - Find the nth even number :
-  This is simple Mathematics
+  This is simple Mathematics.
+  I was off by two, because...so I added two.
+  I did this because I wasn't sure if the case
+  would work for 0 or some other weird test.
+  But it could have been simplified.
 
 ```
 function nthEven(n){
@@ -43,6 +47,8 @@ function nthEven(n){
   Everything is *so* clear now with loops,
   understanding them mathematically. 
   I highly recommend that course!
+  
+  It's a *great* thing Haskell uses Loops! (not) :)
   
 ```
 def CountAnimals(sentence):
