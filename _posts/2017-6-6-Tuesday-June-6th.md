@@ -4,6 +4,7 @@
 ```
 
 PS. Don't take "I don't read" literally...
+I would *never* be proud of "not reading"...
 
 - I read *a lot*.
   This was in my inbox today.
@@ -18,7 +19,7 @@ PS. Don't take "I don't read" literally...
 
 ## But since programming is ALL about screwing up...haha
 
-- I don't read, so I didn't put the files into a folder
+- I "don't read", so I didn't put the files into a folder
   and used a new container
   for my Firebase branch test that wasn't synched properly.
   
