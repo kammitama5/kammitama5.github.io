@@ -11,6 +11,17 @@
   for *doing* or *contributing something*
   when you post!
   
+## Assignment in Firebase!
+
+- Oh man, this was *fun*!!!
+  I actually enjoyed using this! A *lot*
+  like Google Compute Engine and Cloud Session
+  I did last year. 
+  
+<img src="/images/firebase_1.png" width="500">
+
+<img src="/images/firebase_2.png" width="500">
+  
 ## I Solved two katas 
 
 - Find the nth even number :
