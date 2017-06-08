@@ -18,6 +18,8 @@
   like Google Compute Engine and Cloud Session
   I did last year. 
   
+- Hella cool that it changes in real time! Wut!?
+  
 <img src="/images/firebase_1.png" width="500">
 
 <img src="/images/firebase_2.png" width="500">
