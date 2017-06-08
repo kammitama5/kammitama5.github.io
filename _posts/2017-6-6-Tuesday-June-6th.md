@@ -32,9 +32,9 @@ I would *never* be proud of "not reading"...
 - I fixed it..woohoo!
   Just put it on a different branch.
   
-![firebase_1](/images/firebase_1.png)
+![firebase_6](/images/firebase_6.png)
 
-![firebase_2](/images/firebase_2.png)
+![firebase_7](/images/firebase_7.png)
 
 ## Mini-Exam
 
