@@ -67,5 +67,13 @@ class Upper{
   That's okay. It's a process, and as I learn, I'll add / complete,
   and document my progress.
   
+## Later
+
+- Hanging out with the Germans at JPL. Should be fun! 
+  This one is special because they only found out a few 
+  days ago that I got approved for my application process,
+  which means if all goes well, I should be on my way to 
+  a possible internship next Spring (we shall see)!
+  
   
  
