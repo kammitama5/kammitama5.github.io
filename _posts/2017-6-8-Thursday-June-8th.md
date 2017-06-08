@@ -28,6 +28,7 @@
 - Three different languages today! 
 
 ## Python
+
 ```
 def greet(name): #finish the function greet
     try:
@@ -45,6 +46,7 @@ end
 ```
 
 ## Java
+
 ```
 class Upper{
   public static String MakeUpperCase(String str){
@@ -53,13 +55,18 @@ class Upper{
 }
 ```
 
+## UnBootcamp
+
+- Finished assignment and pull request accepted / closed.
+  Firebase was *really* fun!
+
 ## Also
 
 - There is talk about a Mathematics for Computer Science Meetup.
   That would be neat. Possibly on Fridays. We'd probably start
   with Linear Algebra or Algebra 1 or something. 
   
-- Also, Category Theory. 
+- Also, Category Theory, possibly though my Haskell group. 
 
 ## I know
 
