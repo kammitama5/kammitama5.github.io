@@ -75,6 +75,15 @@ class Upper{
   and document my progress.
   
 - The point is to learn and continue to get better. 
+  Also, to keep my skills in C++ fresh. 
+  I should have taken the class I'm taking in Fall *first*,
+  but oh well. I learned a lot in this current class I'm
+  wrapping up. And I survived.
+  I've heard the pace of the one in Fall is slower, 
+  so things from this one will become clearer, which 
+  is good. Either way, I'd like to keep going and continue
+  with Python, JS, C++ and Haskell. Learn a little Coq, 
+  Idris and Mathematical Notation along the way, too.
   
 ## Later
 
