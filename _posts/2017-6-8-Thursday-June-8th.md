@@ -59,13 +59,15 @@ class Upper{
   That would be neat. Possibly on Fridays. We'd probably start
   with Linear Algebra or Algebra 1 or something. 
   
-- Also, Category Theory 
+- Also, Category Theory. 
 
 ## I know
 
 - I have other projects in the works that I spoke about doing.
   That's okay. It's a process, and as I learn, I'll add / complete,
   and document my progress.
+  
+- The point is to learn and continue to get better. 
   
 ## Later
 
