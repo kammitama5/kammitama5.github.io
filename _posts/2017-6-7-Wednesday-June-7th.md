@@ -146,7 +146,7 @@ function buildPyramidTime(strength, skill) {
   However, I'd like to dig into my [Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) coursework.
   I'll probably write mine in Python.
   
-- Finish up Firebase homework by Liz this evening.
+- Finish up Firebase homework by Liz this evening (done!).
   
 ## Update
 - Officially one of nine chosen for July "Coding for Product" workshop.
