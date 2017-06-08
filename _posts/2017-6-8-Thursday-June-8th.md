@@ -25,7 +25,7 @@
   
 ## And..solved some Katas
 
-- Three different languages today! 
+- Four different languages today! 
 
 ## I won't even bother to explain them, because they're straight-forward.
 
@@ -54,6 +54,32 @@ class Upper{
   public static String MakeUpperCase(String str){
     return str.toUpperCase();
   }
+}
+```
+## JavaScript
+
+```
+function longestWord(stringOfWords){
+    var arr = [];
+    var arr1 = [];
+    var a = stringOfWords.split(" ");
+// split by space
+    for (var i = 0; i < a.length; i++)
+      {
+        arr.push(a[i].length)
+      }
+ // find length of each word   
+    var max = Math.max.apply(null, arr)
+// assigned to max    
+    for (var i = 0; i < arr.length; i++)
+    {
+      if (a[i].length == max){
+        arr1.push(a[i])
+      }
+    }
+// match max with words that are that length    
+    return(arr1[arr1.length-1])
+// return last element of array that match 
 }
 ```
 
