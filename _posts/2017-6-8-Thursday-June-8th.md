@@ -27,6 +27,8 @@
 
 - Three different languages today! 
 
+## I won't even bother to explain them, because they're straight-forward.
+
 ## Python
 
 ```
