@@ -132,16 +132,16 @@ function buildPyramidTime(strength, skill) {
   for Google Cloud, from Google IO, so it seems
   sort of like a "stars-align" scenario. :)
   
-  Also, I was invited to a Google Cloud event
+- Also, I was invited to a Google Cloud event
   in San Francisco in mid-June, which I'll be 
   attending, at their SF office. I'm excited 
   about that. It should be fun.
   
-  I want to continue learning and working with
+- I want to continue learning and working with
   Cloud and Tensorflow, because I like 
   numerical computation!
   
-  I'd like to learn Tensor Calculus one day.
+- I'd like to learn Tensor Calculus one day.
   
 ## Plan for today
 
