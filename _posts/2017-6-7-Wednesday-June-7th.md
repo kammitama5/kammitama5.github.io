@@ -126,7 +126,9 @@ function buildPyramidTime(strength, skill) {
   the requirements. She already has a workshop
   github-repo up.
   
-  I have $700 in credits
+- She says we will be using OSS Tensorflow. Awesome!
+  
+- I have $700 in credits
   for Google Cloud, from Google IO, so it seems
   sort of like a "stars-align" scenario. :)
   
@@ -138,6 +140,8 @@ function buildPyramidTime(strength, skill) {
   I want to continue learning and working with
   Cloud and Tensorflow, because I like 
   numerical computation!
+  
+  I'd like to learn Tensor Calculus one day.
   
 ## Plan for today
 
