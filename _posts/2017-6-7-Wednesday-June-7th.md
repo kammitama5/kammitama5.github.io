@@ -22,13 +22,13 @@
   
 <img src="/images/firebase_1.png" width="500">
 
-<img src="/images/firebase_2.png" width="100">
+<img src="/images/firebase_2.png" width="500">
 
 ## Two more...
 - Displaying Data in Firebase
 <img src="/images/firebase_008.png" width="500">
 
-<img src="/images/firebase_009.png" width="500">
+<img src="/images/firebase_009.png" width="100">
 
   
 ## I Solved two katas 
