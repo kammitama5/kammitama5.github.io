@@ -22,7 +22,7 @@
   
 <img src="/images/firebase_1.png" width="500">
 
-<img src="/images/firebase_2.png" width="500">
+<img src="/images/firebase_2.png" width="100">
 
 ## Two more...
 - Displaying Data in Firebase
