@@ -9,12 +9,12 @@
   I may just need to move to the Bay (or Seattle)
   within the next two years.
   
-  A lot of my circle is growing over there, 
+- A lot of my circle is growing over there, 
   and a lot of engineers want to help me start my 
   career over there. I don't think I can get that out here
   in LA. Maybe only at JPL. 
   
-  However, I can't see, with the expectation that every one 
+- However, I can't see, with the expectation that every one 
   has a Master's or PhD, how I would fit in at JPL. 
   Right now, I'm not really crazy about school. 
   But I *love* the tech community. 
