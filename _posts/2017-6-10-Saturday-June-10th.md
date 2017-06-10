@@ -1,8 +1,10 @@
 ## Saturday Unbootcamp Weekend 2
+
 - For our first exercise, we did a stream of consciousness,
   what's on your mind exercise.
   
-- I can't think of anything else right now, but
+- I can't think of anything else right now 
+  but what's been plaguing my mind; 
   that I have been getting some really good feedback,
   and even though my mentor has been introducing me 
   to some great people, and wants me to join him at JPL,
@@ -12,7 +14,8 @@
 - A lot of my circle is growing over there, 
   and a lot of engineers want to help me start my 
   career over there. I don't think I can get that out here
-  in LA. Maybe only at JPL. 
+  in LA. Maybe only at JPL. I know my mentor would really
+  really want me to work there.
   
 - However, I can't see, with the expectation that every one 
   has a Master's or PhD, how I would fit in at JPL. 
@@ -20,7 +23,8 @@
   But I *love* the tech community. 
 
 - I keep getting really good feedback over there,
-  am pretty much there every month or every other month,
+  am pretty much there every month or every other month; 
+  it's like the community over there keeps calling me,
   so I guess most of my questions are about realistically 
   moving there in the next one to two years.
   Of course, I probably wouldn't move there without a job
