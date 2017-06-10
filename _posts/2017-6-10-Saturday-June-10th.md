@@ -105,8 +105,8 @@ def is_even(n):
 
 - If x.length (only count letters in the word
   "sabbatical") and val and happ < 22
-  You can go to sabbatical,
-  else "Get back to work!"
+  You can go to sabbatical...
+  Else "Get back to work!"
   
 ```
 function sabb(x, val, happ){
