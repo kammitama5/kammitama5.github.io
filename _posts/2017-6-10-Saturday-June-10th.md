@@ -58,6 +58,9 @@
 
 [Firebase API reference documentation](https://firebase.google.com/docs/reference/)
 
+## Learn some JQuery
+- Useful, particularly for front-end
+
 ## Katas
 
 ```
