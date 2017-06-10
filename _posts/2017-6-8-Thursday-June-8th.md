@@ -85,7 +85,7 @@ function longestWord(stringOfWords){
 
 ## UnBootcamp
 
-- Finished assignment and pull request accepted / closed.
+- Finished assignments (three this week) and pull requests accepted / closed.
   Firebase was *really* fun!
 
 ## Also
