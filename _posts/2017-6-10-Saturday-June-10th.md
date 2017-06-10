@@ -91,6 +91,8 @@ function nicknameGenerator(letter){
 
 ## Bitwise
 
+- Evens and Odds without using "%"
+
 ```
 def is_even(n):
     if n / 2.0 == int(n / 2):
@@ -100,6 +102,12 @@ def is_even(n):
 ```
 
 ## Office Sabattical
+
+- If x.length (only count letters in the word
+  "sabbatical") and val and happ < 22
+  You can go to sabbatical,
+  else "Get back to work!"
+  
 ```
 function sabb(x, val, happ){
   var x1 = 0;
