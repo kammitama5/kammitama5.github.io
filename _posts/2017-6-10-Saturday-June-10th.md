@@ -1,7 +1,5 @@
 ## Saturday Unbootcamp Weekend 2
 
-
-
 ## CRUD
 - Create 
 - Read
@@ -19,6 +17,18 @@
 
 ## Learn some JQuery
 - Useful, particularly for front-end
+
+## Anonymous Functions
+
+- Higher-Order Functions 
+- Call-backs
+- Lambdas
+- FP
+- (six degrees of Kevin Bacon/ FP) :) 
+```
+button.addEventListener("click", function(){console.log(2 + 2)});
+dbRef.on("value", function(dataSnapshot){dbRef.remove(dataSnapshot)});
+```
 
 ## Katas
 
