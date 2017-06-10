@@ -18,8 +18,8 @@
   like Google Compute Engine and Cloud Session
   I did last year at the Google LA office.
  
-- That was fun. I was getting [soft-serve ice-
-  cream](https://upload.wikimedia.org/wikipedia/en/e/e0/Android_Statues_2015.jpg) and a Googler tripped out over my 
+- That was fun. I was getting [soft-serve ice-cream](https://upload.wikimedia.org/wikipedia/en/e/e0/Android_Statues_2015.jpg) 
+  and a Googler tripped out over my 
   [Rails Girls LA](http://railsgirls.com/la) t-shirt. Googs doesn't use
   Rails, but he said Ruby was a favourite,
   so he appreciated my t-shirt.
