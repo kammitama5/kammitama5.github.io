@@ -16,8 +16,22 @@
 - Oh man, this was *fun*!!!
   I actually enjoyed using this! A *lot*
   like Google Compute Engine and Cloud Session
-  I did last year. 
-  
+  I did last year at the Google LA office.
+ 
+- That was fun. I was getting soft-serve ice-
+  cream and a Googler tripped out over my 
+  Rails Girls LA t-shirt. Googs doesn't use
+  Rails, but he said Ruby was a favourite,
+  so he appreciated my t-shirt.
+  I learned a lot in those workshops,
+  and it was definitely worth learning and getting
+  familiar with using. Some of the icons weren't
+  as intuitive (like the CloudShell), but most of 
+  the other parts really *do* just make sense 
+  in terms of ease of functionality.
+
+## Firebase
+
 - Hella cool that it changes in real time! Wut!?
   
 <img src="/images/firebase_1.png" width="500">
