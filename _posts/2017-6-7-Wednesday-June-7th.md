@@ -20,7 +20,7 @@
  
 - That was fun. I was getting soft-serve ice-
   cream and a Googler tripped out over my 
-  Rails Girls LA t-shirt. Googs doesn't use
+  [Rails Girls LA](http://railsgirls.com/la) t-shirt. Googs doesn't use
   Rails, but he said Ruby was a favourite,
   so he appreciated my t-shirt.
   I learned a lot in those workshops,
