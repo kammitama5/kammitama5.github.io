@@ -1,4 +1,4 @@
-## 5/11/17 - Pressing On and Great News!
+## 5/11/17 - Pressing On and Great News! (Strange Loop & LambdaConf grants!)
 
 
 ## First up, Good News!
