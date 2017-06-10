@@ -20,6 +20,9 @@
 - However, I can't see, with the expectation that every one 
   has a Master's or PhD, how I would fit in at JPL. 
   Right now, I'm not really crazy about school. 
+  I want to focus being a good engineer,
+  and I are less about grades, and am in fact
+  bored by the idea of chasing "good grades".
   But I *love* the tech community. 
 
 - I keep getting really good feedback over there,
