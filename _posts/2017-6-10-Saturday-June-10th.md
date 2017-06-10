@@ -42,12 +42,17 @@
   while working?
 - What is the typical path in terms of moving up the chain?
    
- 
 
-## YOLO 1 
+## CRUD
+- Create 
+- Read
+- Update
+- Delete
 
+## This is...
 
-## YOLO 1 
+- Very much the sort of thing we were doing in my SQL class (Fall '16)
+  and a bit of in Data Structures/ C++ class this past semester.
 
 ## Katas
 
