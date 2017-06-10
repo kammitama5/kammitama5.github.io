@@ -1,4 +1,4 @@
-## Who reads anymore, anyways? 
+## Who reads anymore, anyways? (Approval notice!)
 ```
 ¯\_(ツ)_/¯
 ```
@@ -153,7 +153,7 @@ function alphabetWar(fight)
   implementation (since we'll be 
   using that this Saturday).
   
-## Update
+## Update...and Finally...
 
 - A *huge* application part-y thingy
   was approved for my green card.
