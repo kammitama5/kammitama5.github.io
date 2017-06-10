@@ -53,6 +53,10 @@
 
 - Very much the sort of thing we were doing in my SQL class (Fall '16)
   and a bit of in Data Structures/ C++ class this past semester.
+  
+## Firebase API reference 
+
+[Firebase API reference documentation](https://firebase.google.com/docs/reference/)
 
 ## Katas
 
