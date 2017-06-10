@@ -39,4 +39,29 @@ function greet(language) {
 }
 ```
 
+## Another one
+
+- Nicknames : if letter.length < 4 :
+  return "too short"
+  if ends with a vowel after 3 letters taken out
+  make it length four.
+  Otherwise, make it three letters long
+  
+```
+function nicknameGenerator(letter){
+  if (letter.length < 4){
+    return "Error: Name too short"
+   }
+   else{
+     if ((letter[2] == 'a') || (letter[2] == 'e') || (letter[2] == 'i') ||
+     (letter[2] == 'o') || (letter[2] == 'u')){
+       return letter.slice(0, 4);
+     }
+     else{
+     return letter.slice(0, 3);
+     }
+     return;
+   }
+```
+
 ## Notes/ Updates
