@@ -197,3 +197,27 @@ def reverseAndMirror(s1,s2):
   I wanted to know on the way home, if it was possible that the Earth had 
   rings at some point. So my mentor told me about this hypothesis.
   
+## Found out
+
+- Two former JPL interns, and one SpaceX employee were all chosen to be astronauts!
+  How cool is that!?
+  
+- I personally have no desire to be an astronaut, but I find the engineering of 
+  Space to be fascinating, of course. I watched "Hidden Figures" (finally),
+  and it was trippy to understand a *lot* of what they were talking about in the 
+  movie.
+  It's really weird that a lot of the time, in a documentary on Space, when 
+  someone is searching for the word to say, I just say it, and then a second later,
+  the person being interviewed will say it LOL. Too many rocket scientist friends?
+  
+- Also watched documentaries on the Russian Kursk (Modern Marvels),
+  the US Saturn V and Atlas V. 
+  Really interesting! 
+  
+- Filled out a form geared towards individuals in the tech community.
+  That was fun!
+  
+- Gearing up this week for a robot workshop and for our first 
+  Mathematics for CS Meetup. The Meetup will be informal (just four of us)
+  but hopefully it will grow. 
+  
