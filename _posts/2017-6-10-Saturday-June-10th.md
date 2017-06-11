@@ -209,6 +209,8 @@ def reverseAndMirror(s1,s2):
   It's really weird that a lot of the time, in a documentary on Space, when 
   someone is searching for the word to say, I just say it, and then a second later,
   the person being interviewed will say it LOL. Too many rocket scientist friends?
+  My mentor(at JPL)'s in Frankfurt for the next two to three weeks, but I'm sure we'll 
+  catch up once he gets back.
   
 - Also watched documentaries on the Russian Kursk (Modern Marvels),
   the US Saturn V and Atlas V.
