@@ -189,7 +189,7 @@ def reverseAndMirror(s1,s2):
 
 ## Notes/ Updates
 
-- Probably will go through the Firebase Codelabs this week.
+- Probably will go through the [Firebase Codelabs](https://codelabs.developers.google.com/?cat=Firebase) this week.
 
 - [Zeeman Effect](https://en.wikipedia.org/wiki/Zeeman_effect).
 
@@ -201,6 +201,7 @@ def reverseAndMirror(s1,s2):
 
 - Two former JPL interns, and one SpaceX employee were all chosen to be astronauts!
   How cool is that!?
+  Yes, you too [can be an astroanut!](https://www.jpl.nasa.gov/edu/news/2015/11/4/so-you-want-to-be-an-astronaut/) 
   
 - I personally have no desire to be an astronaut, but I find the engineering of 
   Space to be fascinating, of course. I watched "Hidden Figures" (finally),
