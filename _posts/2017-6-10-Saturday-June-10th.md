@@ -211,7 +211,10 @@ def reverseAndMirror(s1,s2):
   the person being interviewed will say it LOL. Too many rocket scientist friends?
   
 - Also watched documentaries on the Russian Kursk (Modern Marvels),
-  the US Saturn V and Atlas V. 
+  the US Saturn V and Atlas V.
+  
+- [The Atlas V is special. See Scott Manley's "How the Atlas Rocket 
+  evolved Over 60 years"](https://www.youtube.com/watch?v=TeGmIeu0xvI).
   Really interesting! 
   
 - Filled out a form geared towards individuals in the tech community.
