@@ -157,3 +157,5 @@ def divide_numbers(x, y)
 end
 ```
 ## Notes/ Updates
+
+- Probably will go through the Firebase Codelabs this week.
