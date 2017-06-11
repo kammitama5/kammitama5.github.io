@@ -190,3 +190,10 @@ def reverseAndMirror(s1,s2):
 ## Notes/ Updates
 
 - Probably will go through the Firebase Codelabs this week.
+
+- [Zeeman Effect](https://en.wikipedia.org/wiki/Zeeman_effect).
+
+- [Giant-impact hypothesis](https://en.wikipedia.org/wiki/Giant-impact_hypothesis). 
+  I wanted to know on the way home, if it was possible that the Earth had 
+  rings at some point. So my mentor told me about this hypothesis.
+  
