@@ -14,7 +14,12 @@
   (which I like doing because my current laptops
   have little to no storage, and it's good to 
   just delete virtual environments and start afresh
-  sometimes
+  sometimes.
+  
+  That being said, the FireBase tools themselves
+  via the command line were a piece of cake to install
+  in a virtual environment. Locally (depending on your 
+  OS, not so much). 
   
 - And..not very intuitive sometimes...
   Everything looks like text, so it isn't always obvious
