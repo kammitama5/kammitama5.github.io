@@ -47,10 +47,10 @@
 - So far, so good, but then when I wanted to
   authenticate the Firetools login,
   it said that there was an error
-  and that I needed to use login:ci 
+  and that I needed to use ```login:ci``` 
   
-- Turns out, using Powershell instead of 
-  Git overrides this. 
+- Turns out, using [Powershell instead of 
+  Git overrides this](https://stackoverflow.com/questions/35368254/cannot-deploy-angular-app-on-firebase). 
  
 - Basically, it will ask you to 
   authenticate your credentials via a log-in.
