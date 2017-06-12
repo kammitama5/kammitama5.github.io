@@ -22,7 +22,7 @@
   (ie where you *can* input text or values, vs where you can't)
   Still very fun, though.
   
-![fb_001](images/fb_001.png)
+![fb_001](/images/fb_001.png)
   
 ## And then...I broke it :(
   
