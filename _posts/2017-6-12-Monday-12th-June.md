@@ -39,3 +39,38 @@
   
 ![fb_005](/images/fb_005.png)
 
+## Local set-up
+
+- So I tried to do this again on a local 
+  environment.
+  
+- So far, so good, but then when I wanted to
+  authenticate the Firetools login,
+  it said that there was an error
+  and that I needed to use login:ci 
+  
+- Turns out, using Powershell instead of 
+  Git overrides this. 
+  
+## So..success!
+
+![fb_006](/images/fb_006.png)
+
+![fb_007](/images/fb_007.png)
+
+![fb_008](/images/fb_008.png)
+
+![fb_009](/images/fb_009.png)
+
+
+## Homework, etc
+
+- I have to review Linked Lists for my exam tomorrow,
+  so going to do that.
+  
+- I also have an Assignment to do in JS,
+  so there's that, too, but this was a fun experiment.
+  As I become more comfortable with the pipeline,
+  hopefully I can do some more interesting stuff
+  and help others trouble-shoot in our workshop, etc.
+
