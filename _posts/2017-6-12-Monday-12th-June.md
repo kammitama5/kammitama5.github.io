@@ -51,6 +51,11 @@
   
 - Turns out, using Powershell instead of 
   Git overrides this. 
+ 
+- Basically, it will ask you to 
+  authenticate your credentials via a log-in.
+  
+![fb_010](/images/fb_010.png)
   
 ## So..success!
 
