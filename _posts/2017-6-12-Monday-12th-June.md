@@ -1,3 +1,11 @@
+## My first Bitcoin!
+
+- LambdaConf gave us a chance to earn some Bitcoin.
+  I'm taking the plunge, in the hope that it will also
+  help someone who wants to attend, too!
+  
+  ![bitcoinn_1](/images/bitcoinn_1.png)
+
 ## Exam tomorrow
 
 - I totally have an Exam tomorrow,
