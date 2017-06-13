@@ -5,6 +5,8 @@
   help someone who wants to attend, too!
   
   ![bitcoinn_1](/images/bitcoinn_1.png)
+  
+- My very *first* bitcoin!
 
 ## Exam tomorrow
 
