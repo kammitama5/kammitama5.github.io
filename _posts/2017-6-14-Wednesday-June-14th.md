@@ -35,6 +35,9 @@ function mult(x, y){
 - C++ is really growing on me.
   I spent a lot of today reading through and working on some OpenGL stuff.
   I plan to continue with that.
+
+- It's certainly not easy, but I like the challenge and plan to stick with it.
+  I also like the kind of programmer it is making me become. 
   
 - I also have some work to do for this week's "Unbootcamp".
 
