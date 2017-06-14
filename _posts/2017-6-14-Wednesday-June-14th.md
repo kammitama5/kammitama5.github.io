@@ -21,6 +21,33 @@ Hahah. I have some colourful friends!
 My advice to this person was that if they enjoy it, to stick with it.
 And they do, so I hope they *will* stick with it! 
 
+
+## So...
+
+- Looks like, from what I'm hearing from the community,
+  it's going to be an uphill battle with C++.
+  There is *terrible* code out there, it's a beast to master,
+  and you can shoot yourself in the foot, but I like it a lot,
+  so we'll see.
+  
+- Looks like I've also been taught somre poor practices
+  (mostly from class! Ugh!), 
+  but that's okay...I'll keep learning and get better!
+  
+- I got *great* advice from the Functional cpp channel,
+  which is to look at good open-source C++ code.
+  
+- I'm also hoping that I can get an internship doing some C++.
+  That will also help me get better.
+  
+- This is good to hear *now* so I wasn't at the stage where 
+  I thought I *knew* C++ (who can really say they do? LOL)
+  and found out all this stuff I learned was bad practice. 
+  So definitely sticking with it. 
+  
+Also learned about [Rule of Zero](https://rmf.io/cxx11/rule-of-zero)
+
+
 ## Katas
 
 Difference between sets 
