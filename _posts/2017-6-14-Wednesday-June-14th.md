@@ -38,6 +38,11 @@ function mult(x, y){
 ```
 - Make everything a Taco! 
   I could have used +=, but oh well...
+ 
+- It wasn't passing initially, 
+  but I figured out because the test
+  wasn't all lowercase (wonk wonk..).
+  So ```.lower``` fixed that.
 
 ```
 def tacofy(word):
