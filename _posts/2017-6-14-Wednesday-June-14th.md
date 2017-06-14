@@ -30,5 +30,26 @@ function mult(x, y){
   return(arr);
 }
 ```
+## Onward soldier! 
 
+- C++ is really growing on me.
+  I spent a lot of today reading through and working on some OpenGL stuff.
+  I plan to continue with that.
+  
+- I also have some work to do for this week's "Unbootcamp".
+
+## Also...
+
+- I'm going to an event at Netflix today. We'll see how that goes...
+  should be interesting.
+  
+- Also, I got my flight booked to Strange Loop! 
+  They were very professional, and I got to choose a Window for my flight
+  to and from. It looks like I am there by 3:30pm on the 27th, and back
+  by 6:30pm on the 30th. Have to get my parents something from St. Louis.
+  It's easy when you are going back and forth to think casually,
+  "Oh, I don't need to get anything..I'll be back". This one..not so much,
+  unless I plan to make it to Boston or NY sometime soon (mayyybe).
+  
+ 
 
