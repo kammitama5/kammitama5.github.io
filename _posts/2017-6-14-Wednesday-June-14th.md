@@ -14,6 +14,8 @@ I heard..not so much for others...
 ![fk](/images/fk.png)
 
 Hahah. I have some colourful friends! 
+My advice to this person was that if they enjoy it, to stick with it.
+And they do, so I hope they *will* stick with it! 
 
 ## A kata
 - I also solved this kata:
