@@ -34,7 +34,13 @@ And they do, so I hope they *will* stick with it!
   (mostly from class! Ugh!), 
   but that's okay...I'll keep learning and get better!
   I noticed this when I was doing one of the Cherno 
-  tutorials. Sad :(
+  tutorials. Also, my prof, although wonderful 
+  and very helpful, works in Java, not C++ at a 
+  day job. So....Sad :(
+  
+- Maybe once I'm done with the classes in this place,
+  I'll go to another and see how they teach it, also.
+  Or maybe just try to start working. We'll see.
   
 - I got *great* advice from the Functional cpp channel,
   which is to look at good open-source C++ code.
