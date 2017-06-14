@@ -30,9 +30,11 @@ And they do, so I hope they *will* stick with it!
   and you can shoot yourself in the foot, but I like it a lot,
   so we'll see.
   
-- Looks like I've also been taught somre poor practices
+- Looks like I've also been taught some poor practices
   (mostly from class! Ugh!), 
   but that's okay...I'll keep learning and get better!
+  I noticed this when I was doing one of the Cherno 
+  tutorials. Sad :(
   
 - I got *great* advice from the Functional cpp channel,
   which is to look at good open-source C++ code.
