@@ -136,6 +136,10 @@ def tacofy(word):
   I also like the kind of programmer it is making me become. 
   
 - I also have some work to do for this week's "Unbootcamp".
+  Pretty much spent all day working on a bunch of exercise 
+  on Arrays and Objects.
+  Man, I hate Methods, but I guess that just means I need to do 
+  more of that.
 
 ## Update
 
