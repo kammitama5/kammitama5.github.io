@@ -33,7 +33,7 @@ function mult(x, y){
 ## Onward soldier! 
 
 - C++ is really growing on me.
-  I spent a lot of today reading through and working on some OpenGL stuff.
+  I spent a lot of yesterday reading through and working on some OpenGL stuff.
   I plan to continue with that.
 
 - It's certainly not easy, but I like the challenge and plan to stick with it.
@@ -46,9 +46,10 @@ function mult(x, y){
 - I'm going to an event at Netflix today. We'll see how that goes...
   should be interesting.
   
-- Also, I got my flight booked to Strange Loop! 
+- Also, I got my flight booked to Strange Loop (yesterday)! 
   They were very professional, and I got to choose a Window for my flight
-  to and from. It looks like I am there by 3:30pm on the 27th, and back
+  to and from and the airline.
+  It looks like I am there by 3:30pm on the 27th, and back
   by 6:30pm on the 30th. Have to get my parents something from St. Louis.
   It's easy when you are going back and forth to think casually,
   "Oh, I don't need to get anything..I'll be back". This one..not so much,
