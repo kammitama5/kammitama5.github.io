@@ -8,6 +8,10 @@
 
 - I went "ohhhh..." and then my programmes COMPILED. 
   I enjoyed the exam. It was fun! 
+  Not to sound corny, but I had this *amazing* feeling
+  walking out of the exam
+  where I felt like *this* was what I wanted to do for 
+  the rest of my life. It was *wonderful*.
   
 I heard..not so much for others...
 
