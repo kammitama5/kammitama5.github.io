@@ -22,6 +22,25 @@ My advice to this person was that if they enjoy it, to stick with it.
 And they do, so I hope they *will* stick with it! 
 
 ## Katas
+
+Difference between sets 
+
+```
+# return a sorted set with the difference
+# find what is unique to each set
+# by comparing twice
+# then do a sort to match tests 
+
+def diff(a, b):
+  a1 = set(a)
+  b1 = set(b)
+  c = list(a1 - b1)
+  c1 = list(b1 - a1)
+  d = c + c1
+  return sorted(d)
+  
+## diffy(['a','a','t','e','f','i','j'],['t','g','g','i','k','f']) # [a,e,g,j,k]
+```
 - I also solved this kata:
   Find first x multiples of y:
   eg. mult(3, 4) gives [3, 6, 9, 12]
