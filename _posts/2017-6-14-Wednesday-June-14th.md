@@ -47,6 +47,14 @@ function mult(x, y){
   
 - I also have some work to do for this week's "Unbootcamp".
 
+## Update
+
+- Started with enabling my app via Github Oath and Firebase
+
+![appown](/images/appown.png)
+
+![appown1](/images/appown1.png)
+
 ## Also...
 
 - I'm going to an event at Netflix today. We'll see how that goes...
