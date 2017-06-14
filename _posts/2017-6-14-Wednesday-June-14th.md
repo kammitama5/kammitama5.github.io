@@ -21,7 +21,7 @@ Hahah. I have some colourful friends!
 My advice to this person was that if they enjoy it, to stick with it.
 And they do, so I hope they *will* stick with it! 
 
-## A kata
+## Katas
 - I also solved this kata:
   Find first x multiples of y:
   eg. mult(3, 4) gives [3, 6, 9, 12]
@@ -35,6 +35,37 @@ function mult(x, y){
   }
   return(arr);
 }
+```
+- Make everything a Taco! 
+  I could have used +=, but oh well...
+
+```
+def tacofy(word):
+    arr = []
+    arr.append("shell")
+    for i in word.lower():
+      if i == 'a':
+        arr.append('beef')
+      elif i == 'e':
+        arr.append('beef')
+      elif i == 'i':
+        arr.append('beef')
+      elif i == 'o':
+        arr.append('beef')
+      elif i == 'u':
+        arr.append('beef')
+      elif i == 't':
+        arr.append("tomatoe")
+      elif  i == 'l':
+        arr.append("lettuce")
+      elif i == 'c':
+        arr.append("cheese")
+      elif i == 'g':
+        arr.append('guacamole')
+      elif i == 's':
+        arr.append('salsa')
+    arr.append("shell")
+    return arr
 ```
 ## Onward soldier! 
 
