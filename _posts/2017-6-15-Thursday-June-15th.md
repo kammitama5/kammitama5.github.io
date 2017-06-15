@@ -38,3 +38,5 @@
 I had seen this a few months ago, when looking at Recursion for class : 
 [DemoScene GPU15](https://www.youtube.com/watch?v=WzpLWzGvFK4)
 
+[Gameboy talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
+
