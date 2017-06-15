@@ -81,3 +81,28 @@ def diff(arr):
         return False
 ```
 
+
+## Another 
+
+- If number of lowercase > uppercase,
+  switch entire string to lowercase,
+  else uppercase entire string 
+
+## Solution 
+
+```
+def case_unification(n):
+    l = 0
+    u = 0
+    
+    for i in n:
+      if i == i.lower():
+        l = l + 1 
+      elif i == i.upper():
+        u = u + 1 
+        
+    if l > u:
+      return n.lower()
+    else:
+      return n.upper()
+```
