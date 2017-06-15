@@ -28,6 +28,6 @@
 
 [Halide Talk](https://www.youtube.com/watch?v=3uiEyEKji0M)
 
-I had seen this a few months ago, when looking at Recursion for class
+I had seen this a few months ago, when looking at Recursion for class : 
 [DemoScene GPU15](https://www.youtube.com/watch?v=WzpLWzGvFK4)
 
