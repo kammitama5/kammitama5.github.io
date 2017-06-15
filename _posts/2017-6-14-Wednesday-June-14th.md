@@ -172,7 +172,20 @@ def tacofy(word):
 - Chaos Kong is particularly intriguing, because I knew about
   Chaos Monkey before. Also, they use Spinnaker. Didn't know that.
   
-- Invited to yet another event...Cloud based, and I'd like to go, but..
+- They're also open to other tools...basically, they think the 
+  best tools will win in the end. 
+  
+- I've always thought (since I was introduced to their engineering team)
+  that they had a *really* interesting culture. 
+  
+- I also heard that this event was pretty vetted, so they turned down a 
+  lot of people they didn't think were a good fit. 
+  One guy said he was in a group of five, and only he was allowed in.
+  He's an actual data scientist, so that makes sense. It looks like 
+  they were essentially recruiting from a pool of people. 
+  
+- Invited to yet another event...Cloud based (Big Four), and I'd like to go,
+  but...
   we'll see.
   
 - Also, I got my flight booked to Strange Loop (yesterday)! 
