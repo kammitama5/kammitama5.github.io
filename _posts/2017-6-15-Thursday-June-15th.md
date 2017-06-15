@@ -40,3 +40,29 @@ I had seen this a few months ago, when looking at Recursion for class :
 
 [Gameboy talk](https://www.youtube.com/watch?v=HyzD8pNlpwI)
 
+## Kata Solved 
+
+- Find number couple with greatest difference.
+  Given in form of an array such as :
+
+```diff(["1-11", "2-3"])
+diff(["3-3", "4-4"])
+```
+## Solution: 
+```
+def diff(arr):
+  arr1 = []
+  for i in arr:
+    arr1.append(abs(eval(i)))
+  if len(arr) == 0:
+      return False
+  else:
+      b = (max(arr1)) 
+      
+      if b != 0:
+        c = arr1.index(b)
+        return arr[c]
+      else:
+        return False
+```
+
