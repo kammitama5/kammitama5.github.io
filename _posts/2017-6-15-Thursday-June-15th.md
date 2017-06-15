@@ -45,8 +45,14 @@ I had seen this a few months ago, when looking at Recursion for class :
 - Find number couple with greatest difference.
   Given in form of an array such as :
 
-```diff(["1-11", "2-3"])
+```diff(["1-11", "2-3"]) 
+# should return "1-11"
+
 diff(["3-3", "4-4"])
+
+#should return False 
+either if array is empty
+or if the difference is 0
 ```
 ## Solution: 
 ```
