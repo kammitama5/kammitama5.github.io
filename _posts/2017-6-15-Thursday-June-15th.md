@@ -11,6 +11,8 @@
 
 - I also got a list of good resources :
 
+## Resources : 
+
 [Gaming Patterns Book](http://gameprogrammingpatterns.com/)
 
 [Stack Overflow C++ Book Guide](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
@@ -23,6 +25,11 @@
 
 [Zach Laine "Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Patterns](https://www.youtube.com/watch?v=0I0FD3N5cgM)
 
+## Concepts 
+
+[RAII : Resource Acquisition is Initialization](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization) 
+
+[Ahead of Time Compilation](https://en.wikipedia.org/wiki/Ahead-of-time_compilation)
 
 ## Also
 
