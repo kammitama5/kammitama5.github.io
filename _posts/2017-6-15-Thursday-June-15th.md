@@ -1,4 +1,4 @@
-## Data Model, CPP Resources going forward etc
+## Data Model, C++ Resources going forward etc
 
 ![datamodel_v1](/images/datamodel_v1.png)
 
