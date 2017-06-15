@@ -45,7 +45,8 @@ I had seen this a few months ago, when looking at Recursion for class :
 - Find number couple with greatest difference.
   Given in form of an array such as :
 
-```diff(["1-11", "2-3"]) 
+```
+diff(["1-11", "2-3"]) 
 # should return "1-11"
 
 diff(["3-3", "4-4"])
@@ -61,16 +62,16 @@ or if the difference is 0
 def diff(arr):
   arr1 = []
   
-  ## find absolute difference
+  # find absolute difference
   
   for i in arr:
     arr1.append(abs(eval(i)))
     
-  ## check that array is not empty, else return False  
+  # check that array is not empty, else return False  
   if len(arr) == 0:
       return False
       
-  ## Find max difference index in original array
+  # Find max difference index in original array
   else:
       b = (max(arr1)) 
       
