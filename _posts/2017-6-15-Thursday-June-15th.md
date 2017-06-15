@@ -50,11 +50,13 @@ I had seen this a few months ago, when looking at Recursion for class :
 
 diff(["3-3", "4-4"])
 
-#should return False 
+# should return False 
 either if array is empty
 or if the difference is 0
 ```
+
 ## Solution: 
+
 ```
 def diff(arr):
   arr1 = []
