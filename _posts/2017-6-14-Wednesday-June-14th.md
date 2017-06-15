@@ -44,9 +44,19 @@ And they do, so I hope they *will* stick with it!
   
 - I got *great* advice from the Functional cpp channel,
   which is to look at good open-source C++ code.
+  Particularly, code that has been maintained actively
+  (as in, issues are resolved in a timely response) and
+  for a while (the gentleman who gave some advice, for example
+  has an open source code project that is quite substantial,
+  from 2009!
   
 - I'm also hoping that I can get an internship doing some C++.
-  That will also help me get better.
+  That will also help me get better. I expect a lot of 
+  knuckle-hitting :)
+  For those who don't know what that reference is about,
+  it's about 'learning to play the piano'. Where I'm from,
+  sometimes the teachers would give you a rap on your knuckle
+  if you kept playing the wrong notes.
   
 - This is good to hear *now* so I wasn't at the stage where 
   I thought I *knew* C++ (who can really say they do? LOL)
