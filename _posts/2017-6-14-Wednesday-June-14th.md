@@ -153,16 +153,27 @@ def tacofy(word):
 
 - I'm going to an event at Netflix today. We'll see how that goes...
   should be interesting.
-  
+
+![net_010](/images/net_010.png)
+
 ## I GOT MY OWN BEANIE CHAIR!!!
 
 ![net_001](/images/net_001.png)
 
 ## That's it! That's all I need in this life :) 
 
-![net_010](/images/net_010.png)
-
 ## Just kidding....
+
+- Actually, really interesting. 
+  I always appreciate how thoughtful their pipeline is, and 
+  well structured. Learned about Microstrategy, Metacat
+  and Chaos Kong. 
+
+- Chaos Kong is particularly intriguing, because I knew about
+  Chaos Monkey before. Also, they use Spinnaker. Didn't know that.
+  
+- Invited to yet another event...Cloud based, and I'd like to go, but..
+  we'll see.
   
 - Also, I got my flight booked to Strange Loop (yesterday)! 
   They were very professional, and I got to choose a Window for my flight
