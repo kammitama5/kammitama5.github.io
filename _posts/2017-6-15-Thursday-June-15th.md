@@ -139,3 +139,9 @@ function evenNumbersBeforeFixed(sequence, fixedElement) {
       return total
 }
 ```
+
+## AI (Articial Intelligence/ Data Science)
+
+- I had started an Artificial Intelligence / Data Science course.
+  We'll see how it goes. It's free for now, so why not? 
+  I may *just* become a data-scientist! :)
