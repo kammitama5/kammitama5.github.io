@@ -21,5 +21,7 @@
 
 [Physically Based Rendering pdf](https://seblagarde.files.wordpress.com/2015/07/course_notes_moving_frostbite_to_pbr_v32.pdf)
 
+[Zach Laine "Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Patterns](https://www.youtube.com/watch?v=0I0FD3N5cgM)
+
 
 
