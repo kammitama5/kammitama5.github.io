@@ -24,4 +24,7 @@
 [Zach Laine "Pragmatic Type Erasure: Solving OOP Problems with Elegant Design Patterns](https://www.youtube.com/watch?v=0I0FD3N5cgM)
 
 
+## Also
+
+[Halide Talk](https://www.youtube.com/watch?v=3uiEyEKji0M)
 
