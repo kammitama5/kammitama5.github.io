@@ -11,12 +11,12 @@
 
 - I also got a list of good resources :
 
-[GamingPatterns_RN](http://gameprogrammingpatterns.com/)
+[Gaming Patterns Book](http://gameprogrammingpatterns.com/)
 
-[stackOverflowC++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+[Stack Overflow C++ Book Guide](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 - Good Youtube C++ tutorial stuff
 
-[YoutubeC++](https://www.youtube.com/user/handmadeheroarchive/videos)
+[You Tube C++ Tutorials](https://www.youtube.com/user/handmadeheroarchive/videos)
 
 
