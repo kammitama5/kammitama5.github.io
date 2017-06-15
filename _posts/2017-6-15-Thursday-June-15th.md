@@ -106,3 +106,35 @@ def case_unification(n):
     else:
       return n.upper()
 ```
+
+## Another
+
+- Find even numbers before a value
+  in an array
+  
+- If value not in array, return -1.
+  If no value, return 0, etc.
+  
+## Solution 
+
+```
+function evenNumbersBeforeFixed(sequence, fixedElement) {
+      var total = 0;
+      var arr = []
+      if (!(sequence.includes(fixedElement) === true)){
+        return(-1)
+      }
+      
+        var a = sequence.indexOf(fixedElement)
+        //console.log(a)
+        for (var i = 0; i < a; i++){
+          if (sequence[i] % 2 === 0)
+          {
+            total = total + 1;
+            //arr.push(total)
+          }
+        }
+      
+      return total
+}
+```
