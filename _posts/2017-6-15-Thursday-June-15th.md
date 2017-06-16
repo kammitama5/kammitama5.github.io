@@ -158,6 +158,7 @@ function currencyBRL(number) {
   return a
 }
 ```
+Should have done that in *one regex* but...life goals :)
 
 ## AI (Articial Intelligence/ Data Science)
 
