@@ -191,3 +191,4 @@ function vestBuy(price, haggle)
   I may *just* become a data-scientist! :)
   
 - Learned about Corrigibility. See a white paper [here](https://intelligence.org/files/Corrigibility.pdf)
+  Interesting video about this on Computerphile [here](https://www.youtube.com/watch?v=3TYT1QfdfsM)
