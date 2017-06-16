@@ -189,3 +189,5 @@ function vestBuy(price, haggle)
 - I had started an Artificial Intelligence / Data Science course.
   We'll see how it goes. It's free for now, so why not? 
   I may *just* become a data-scientist! :)
+  
+- Learned about Corrigibility. See a white paper [here](https://intelligence.org/files/Corrigibility.pdf)
