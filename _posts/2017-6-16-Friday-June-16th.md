@@ -19,3 +19,26 @@
   Tech community. It's been amazing how wonderful 
   they've been to me, and I'm just really happy
   to be a part of it! 
+  
+## Kata 
+
+- filter out vowels from array 
+
+## Solution
+
+```
+function vowelFilter (letters) {
+  var vowels = ["a", "e", "i", "o", "u"];
+  var arr = [];
+ for (var i = 0; i < letters.length; i++)
+ {
+   if ((letters[i] != "i") && (letters[i] != "a") && (letters[i] != "e") && (letters[i] != "o") && (letters[i] != "u"))
+   {
+     arr.push(letters[i])
+   }
+  
+ }
+ 
+  return arr;
+};
+```
