@@ -20,8 +20,8 @@
   When I say "good", I mean that the reviewer pointed out what 
   I did well, but also suggested that I don't get into the habit 
   of doing X or Y. That kind of stuff is *really* helpful to me
-  so *as* I'm learning, I don't fall into bad habits and make
-  an effort to correct myself and follow good practices. 
+  so *as* I'm learning, I don't fall into bad habits and will make
+  me make an effort to correct myself and follow good practices. 
   
 - Bonus: It was succinct and to the point. This person is probably
   a programmer :)
