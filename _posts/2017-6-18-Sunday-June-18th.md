@@ -13,6 +13,17 @@
   This means that I need to do the assignment early, so I'm not
   standing around by the deadline wondering if it will be approved or not.
   
+## Update
+
+- Not only did I pass my assignment, but what was more important
+  to me was that the review was a really good one!
+  When I say "good", I mean that the reviewer pointed out what 
+  I did well, but also suggested that I don't get into the habit 
+  of doing X or Y. That kind of stuff is *really* helpful to me. 
+  
+- Bonus: It was succinct and to the point. This person is probably
+  a programmer :)
+  
 ## A first simple website
 
 - Yes, let's forget that I've been doing Firebase and a bunch
