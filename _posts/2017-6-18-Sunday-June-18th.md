@@ -18,6 +18,24 @@
 - Yes, let's forget that I've been doing Firebase and a bunch
   of other crazy stuff, and starting another workshop on Sundays.
   Everything helps, no matter how trivial. 
+  
+- I'm finishing up my Unbootcamp next week.
+  So far, it's been great, even though I'm not the biggest fan
+  of JavaScript. I start another workshop next Sunday,
+  which is about Coding for Product. Product meaning for
+  the client.
+  
+- I will, however, push along with JavaScript when I can,
+  because it's ubiquitious and very useful, and good
+  for making things. 
+  
+- I'll also continue with C++, Python and Haskell.
+  And of course, you can't keep me away from Category Theory
+  and LambdaCalculus and all that jazz. 
+  
+- I'm thinking of investing in the Data Analysis/ Data
+  Science path afterwards. This may be a good path for me.
+  I seem to run into it again and again.
 
 ## I added a favicon :)
 
@@ -54,7 +72,7 @@
   I don't drink, but I *know* because they're all computer geeks,
   it would have probably included some great gaming.
   
-- I ended up watching a bunch of documentaries on the NRO,
+- I ended up watching a bunch of documentaries on the [NRO](http://www.nro.gov/careers/careers.html),
   which manufactures, monitors and deploys aircraft and satellites for 
   government surveillance
   
