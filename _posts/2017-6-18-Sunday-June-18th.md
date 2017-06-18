@@ -51,6 +51,8 @@
 
 - A couple people from my C++ Data structures class had a beer pong
   thing last night.
+  I don't drink, but I *know* because they're all computer geeks,
+  it would have probably included some great gaming.
   
 - I ended up watching a bunch of documentaries on the NRO,
   which manufactures, monitors and deploys aircraft and satellites for 
