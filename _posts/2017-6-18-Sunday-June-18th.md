@@ -29,7 +29,10 @@
   as I'm learning and of course, running into walls and 
   learning as any other language, I don't get *excited*
   by it and its possibilities, the way I do with something
-  like Haskell or C++. I'm not really *excited* by the 
+  like Haskell or C++, or the expressiveness of Python for 
+  parsing data or numbers in Data Science.
+  
+- I'm not really *excited* by the 
   JS community, although I know it's an important thing to
   know, so I treat it more-so as a tool.
   
