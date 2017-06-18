@@ -62,7 +62,7 @@
   so about a third of their stuff is *readacted*
   
 - I also watched a couple ICBM documentaries.
-  ICBM meaning Inter-continental ballistic missiles, btw.
+  ICBM meaning [Inter-continental ballistic missiles](https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile), btw.
   
 ## Things I'd like to do
 
