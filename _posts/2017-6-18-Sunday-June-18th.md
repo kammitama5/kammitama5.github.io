@@ -21,6 +21,8 @@
 
 ## I added a favicon :)
 
+- This one is aptly called the "anti-favicon".
+
 ![ud_001](/images/ud_001.png)
 
 ## And a background, even though we didn't *have* to
