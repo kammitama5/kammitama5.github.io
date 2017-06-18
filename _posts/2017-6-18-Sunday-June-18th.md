@@ -88,7 +88,7 @@
   government surveillance
   
 - A bunch of NRO's documentary footage is still classified, 
-  so about a third of their stuff is *readacted*
+  so about a third of their stuff is *redacted*
   
 - I also watched a couple ICBM documentaries.
   ICBM meaning [Inter-continental ballistic missiles](https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile), btw.
