@@ -42,7 +42,7 @@
   
 - I'll also continue with C++, Python and Haskell.
   And of course, you can't keep me away from Category Theory
-  and LambdaCalculus and all that jazz. 
+  and Lambda Calculus and all that jazz. 
   
 - I'm thinking of investing in the Data Analysis/ Data
   Science path afterwards. This may be a good path for me.
