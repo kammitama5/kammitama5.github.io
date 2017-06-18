@@ -25,6 +25,14 @@
   which is about Coding for Product. Product meaning for
   the client.
   
+- When I say "not the biggest fan", I mean that as much 
+  as I'm learning and of course, running into walls and 
+  learning as any other language, I don't get *excited*
+  by it and its possibilities, the way I do with something
+  like Haskell or C++. I'm not really *excited* by the 
+  JS community, although I know it's an important thing to
+  know, so I treat it more-so as a tool.
+  
 - I will, however, push along with JavaScript when I can,
   because it's ubiquitious and very useful, and good
   for making things. 
