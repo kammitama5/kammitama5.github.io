@@ -43,6 +43,8 @@
 
 ## And here's the code for adding code snippets (thanks, SO)
 
+- I used the <xmp> tag
+
 ![ud_006](/images/ud_006.png)
 
 ## I missed out a rad party
