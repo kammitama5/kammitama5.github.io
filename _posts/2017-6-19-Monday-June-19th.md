@@ -5,6 +5,7 @@
 
 We learned about Boxify-ing an image. 
 - This is how I broke mine down.
+  So I got 14 elements. 
 
 ![ud_008](/images/ud_008.png)
 
