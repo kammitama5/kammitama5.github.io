@@ -29,7 +29,7 @@ We learned about Boxify-ing an image.
   
 - The one I posted is on a CodePen [here](https://codepen.io/kammitama5/pen/NgpMMN).
 
-- I like the tool this mentor suggested : [Validity](http://www.validity.org.uk/)
+- I like the tool this mentor suggested : [Validitator](https://chrome.google.com/webstore/detail/html-validator/cgndfbhngibokieehnjhbjkkhbfmhojo/related?hl=en)
 
 ## I am going to a robotics workshop. 
 
