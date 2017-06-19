@@ -36,6 +36,7 @@ We learned about Boxify-ing an image.
 
 ![ud_009](/images/ud_009.png)
 
+- A little encouragement! :)
 
 
 
