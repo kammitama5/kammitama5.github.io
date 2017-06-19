@@ -18,6 +18,10 @@ We learned about Boxify-ing an image.
 ## And..I got some review from my notes, so working on fixing that
 
 - I love how succinct but also helpful it is!
+- I also posted it so that later on, I don't have to go back to the forum,
+  but can just look at my blog and make necessary adjustments.
+  
+- The one I posted is on a CodePen [here](https://codepen.io/kammitama5/pen/NgpMMN).
 
 ![ud_012](/images/ud_012.png)
 
