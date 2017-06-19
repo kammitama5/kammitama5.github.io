@@ -15,7 +15,9 @@ We learned about Boxify-ing an image.
 
 ![ud_011](/images/ud_011.png)
 
-And..I got some review from my notes, so working on fixing that
+## And..I got some review from my notes, so working on fixing that
+
+- I love how succinct but also helpful it is!
 
 ![ud_012](/images/ud_012.png)
 
