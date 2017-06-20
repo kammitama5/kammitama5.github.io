@@ -37,9 +37,9 @@ We learned about Boxify-ing an image.
 - I found a cable for my Linux laptop, so we'll see how
   that goes.
   
-![ottorobot](/images/ottorobot.png)
+<img src="/images/ottorobot.png" width="500">
 
-![ottorobot1](/images/ottorobot1.png)
+<img src="/images/ottorobot1.png" width="500">
 
 ## So...
 
