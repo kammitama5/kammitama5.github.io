@@ -33,9 +33,9 @@ We learned about Boxify-ing an image.
 
 ## I am going to a robotics workshop. 
 
-- simple Robot, but hopefully I get to post some pics!
-- I found a cable for my Linux laptop, so we'll see how
-  that goes.
+- simple Robot...
+- I found a cable for my Linux laptop, so was able
+  to use my laptop without it draining out the battery.
   
 <img src="/images/ottorobot.png" width="500">
 
