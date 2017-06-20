@@ -37,6 +37,22 @@ We learned about Boxify-ing an image.
 - I found a cable for my Linux laptop, so we'll see how
   that goes.
   
+![ottorobot](/images/ottorobot.png)
+
+![ottorobot1](/images/ottorobot1.png)
+
+## So...
+
+- I didn't get to finish building my robot,
+  but man is that stuff fun.
+ 
+- Since I may finish my C++ classes after this one,
+  I may take the year-long thesis robot-thingy in Spring/ Fall.
+  That way, I'll get to do both some C++ and robotics stuff. 
+  
+- I still need to learn SPICE. Haven't really learned that yet,
+  even though I know a bit of Eagle and Express PCB.
+  
 ## Tomorrow...On a Journey
 
 - So I finish my workshop tonight, and then am taking a bus
