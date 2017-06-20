@@ -11,13 +11,13 @@ We learned about Boxify-ing an image.
 
 ## Updated my notes 
 
-![ud_010](/images/ud_010.png)
+<img src="/images/ud_010.png" width="500">
 
-![ud_011](/images/ud_011.png)
+<img src="/images/ud_011.png" width="500">
 
 ## And..I got some review of my notes from a Forum Mentor, so working on fixing stuff
 
-![ud_012](/images/ud_012.png)
+<img src="/images/ud_012.png" width="500">
 
 ## Really helpful! 
 
