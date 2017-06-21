@@ -21,7 +21,7 @@
    
 ## Here are some fun-time pics of my travels, and of the event....
 
-## Tracy, California
+- Tracy, California
 
 ![tracy](/images/tracy.png)
 
