@@ -14,7 +14,11 @@
   
 ## Udacity Mentorship (Update)
  
- - I struggled with the Internet, so I have some 
+ - I struggled with the Internet and (it beat me!!),
+   (the internet connection, that is, is horrible
+   via Greyhound...some mentors said 
+   I should a break and enjoy the scenery..haha)
+   so I have some 
    catching up to do, but I now have a mentor
    named Christopher! 
    I'm really excited! 
