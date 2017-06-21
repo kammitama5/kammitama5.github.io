@@ -14,7 +14,7 @@
   
 ## Udacity Mentorship (Update)
  
- - I struggled with the Internet and (it beat me!!),
+ - I struggled with the Internet (and it beat me!!),
    (the internet connection, that is, is horrible
    via Greyhound...some mentors said 
    I should a break and enjoy the scenery..haha)
