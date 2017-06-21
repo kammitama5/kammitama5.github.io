@@ -33,4 +33,25 @@
  
 ![googspic](/images/googspic.png)
 
+- The base of the frame actually says "Google" in binary!
+
 ![googspic1](/images/googspic1.png)
+
+- This was great to attend to meet everyone,
+  get a sense of each office and how they hire. 
+  Again, I have *no* idea how or why I was invited,
+  but I'm really grateful for the opportunity, and didn't
+  let that go to waste.
+  
+- Onward Coding Soldier!!! :)
+
+## Tonight 
+
+- Continue with Nanodegree 
+  
+- This includes rewriting notes in proper style
+  and submitting for another review
+  
+- Communicating with mentor, Christopher
+
+- Finishing up Chapter 2 (if I can!)
