@@ -49,6 +49,31 @@
   
 - Onward Coding Soldier!!! :)
 
+## Katas
+
+- If sum of arr is 0 or even, return even
+  else return odd
+
+```
+function oddOrEven(array) {
+    var total = 0;
+   for (var i = 0; i < array.length; i++)
+   {
+     total = total + array[i]
+   }
+   if (array.length == 0){
+     return "even"
+   }
+   else if (total % 2 == 0)
+   {
+     return "even"
+   }
+   else{
+     return "odd"
+   }
+}
+```
+
 ## Tonight 
 
 - Continue with Nanodegree 
