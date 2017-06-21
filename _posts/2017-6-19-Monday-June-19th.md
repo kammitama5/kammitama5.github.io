@@ -45,6 +45,13 @@ We learned about Boxify-ing an image.
 
 - I didn't get to finish building my robot,
   but man is that stuff fun.
+  
+ ![elec](/images/elec.png)
+ 
+ ![elec1](/images/elec1.png)
+ 
+ ![elec2](/images/elec2.png)
+ 
  
 - Since I may finish my C++ classes after this one,
   I may take the year-long thesis robot-thingy in Spring/ Fall.
