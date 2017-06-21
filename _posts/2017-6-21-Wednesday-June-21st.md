@@ -12,7 +12,7 @@
 - I also made some great friends and mentors. 
   I have a very positive impression of the company. 
   
- ## Udacity Mentorship (Update)
+## Udacity Mentorship (Update)
  
  - I struggled with the Internet, so I have some 
    catching up to do, but I now have a mentor
