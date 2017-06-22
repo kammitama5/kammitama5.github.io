@@ -5,7 +5,11 @@
 - I actually made this in an engineering class years ago.
   My professor liked it so much, he wanted it, so I let him have it.
   
-- It's a laser-cut pop-up based on a poem by Edgar Allen Poe.
+- It's a laser-cut pop-up based on a short story by Edgar Allen Poe.
+  In it, he describes being caught in the midst of a storm.
+ 
+- I really liked it, because his work is a bit dark, and I guess
+  at the time there was a lot of uncertainty in my life.
 
 ## Why are you including this? This isn't code!
 
