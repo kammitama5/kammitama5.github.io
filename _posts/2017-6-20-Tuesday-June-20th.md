@@ -12,8 +12,10 @@
 - Lots of **great** engineers draw from different things.
   I have a strange background, and often see things in different ways,
   so I just wanted to share a bit of myself. 
+  One of my friends jokes that I "misinterpret everything". 
+  
   You don't have to be one thing, and I think that being a well-rounded
-  engineer means that you draw from different life experiences.
+  engineer means that you draw from different life experiences. 
   
 - I spend a lot of time reading, and especially on the Internet.
   I'm drawn towards mathematics, good design, programming, and the hacker/maker culture.
