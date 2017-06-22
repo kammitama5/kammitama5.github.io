@@ -20,6 +20,9 @@
   
   You don't have to be one thing, and I think that being a well-rounded
   engineer means that you draw from different life experiences. 
+  Btw, NASA actually *does* hire origami artists to help them engineer
+  how they fit things into spacecraft. So yes, it's actually a form 
+  of engineering/ thinking that's useful. 
   
 - I spend a lot of time reading, and especially on the Internet.
   I'm drawn towards mathematics, good design, programming, and the hacker/maker culture.
