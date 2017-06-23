@@ -41,7 +41,7 @@
 - An Engineering Company. This is HUGE for me. I think I'd 
   best enjoy working for an engineering company. That is,
   the people who work in it are passionate about technology
-  and making. They spend their spare time building RC planes
+  and making. They spend their spare time building RC planes,
   hacking things together, making robots and lock-picking.
   
 - Innovation Encouraged (rewarded and encouraged). Go build something!
