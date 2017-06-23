@@ -74,7 +74,11 @@
   in September. I'm also going to training in mid-July for 
   Cloud. 
   
-- I was also reading up on Spinnaker today. Some of it is
+- I was also reading up on [Spinnaker](https://www.spinnaker.io/) today.
+  I wasn't able to make Next17, but now, I'm a bit sad I didn't go up there.
+  Maybe next year, I'll get to go. Thankfully, there were recordings.
+  
+  I firsth heard about Spinnaker at Netflix. Some of it is still 
   a bit unclear to me, but it's also really interesting!
   The views are so low for the stuff I watch..haha.
   Oh well..doesn't matter. 
