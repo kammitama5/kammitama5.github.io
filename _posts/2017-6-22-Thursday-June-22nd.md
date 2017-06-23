@@ -79,4 +79,16 @@
   The views are so low for the stuff I watch..haha.
   Oh well..doesn't matter. 
   
+- I have this deep feeling of alienation when I come back
+  from some of these conferences because I learn all these things
+  and some of them are in my head, but outside of the group that 
+  works with the technology or is aware of it, I really don't know who to
+  talk to. It also keeps bringing me back to the Bay area/ Functional
+  programming/ Mathematics groups. We have a kindred existence that ignites
+  when we meet again, all excited to talk about things we're passionate about.
+  Thank you, Functional Slack, BayHac, and everyone within the tech community
+  who has encouraged me and supported me to just keep going,
+  even when I feel misunderstood and awkward. 
+  And thank you, Internet! :)
+  
 ![tensorflowwithoutphd](/images/tensorflowwithoutphd.png)
