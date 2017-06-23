@@ -68,17 +68,28 @@
 ## Random
 
 - Here are some Tensorflow notes I made, while watching three videos,
-  and reading Andrej Karpathy's blog. 
+  and reading [Andrej Karpathy's blog](http://cs.stanford.edu/people/karpathy/). 
   
 - I may have mentioned, I'm doing a Tensorflow workshop (OSS) 
   in September. I'm also going to training in mid-July for 
   Cloud. 
   
-- I was also reading up on [Spinnaker](https://www.spinnaker.io/) today.
-  I wasn't able to make Next17, but now, I'm a bit sad I didn't go up there.
-  Maybe next year, I'll get to go. Thankfully, there were recordings.
+## Why you? Why Tensorflow?
+
+- I don't know. Tensorflow is this thing I keep coming back to...
+  time and again. I'd like to learn it. I'd like to learn Tensor
+  Calculus. It's also appealing because it seems to use all the things
+  I'm interested in (Python, C++), too. 
   
-  I firsth heard about Spinnaker at Netflix. Some of it is still 
+## Spinnaker and Tensorflow
+
+- I was also reading up on [Spinnaker](https://www.spinnaker.io/) today.
+  I wasn't able to make [Next17](https://cloudnext.withgoogle.com/), but now, I'm a bit sad I didn't go up there.
+  Maybe next year, I'll get to go. Thankfully, there were recordings.
+  I'd also be thrilled to make a Tensorflow event, even if it's a 
+  Livestream from a Tensorflow community. 
+  
+  I first heard about Spinnaker at Netflix. Some of it is still 
   a bit unclear to me, but it's also really interesting!
   The views are so low for the stuff I watch..haha.
   Oh well..doesn't matter. 
