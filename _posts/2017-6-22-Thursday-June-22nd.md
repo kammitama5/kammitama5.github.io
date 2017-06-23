@@ -64,3 +64,19 @@
   
 - Maybe I'm being idealistic, but in my experience, when you write it down,
   that's a pretty good sign that you'll get it :)
+  
+## Random
+
+- Here are some Tensorflow notes I made, while watching three videos,
+  and reading Andrej Karpathy's blog. 
+  
+- I may have mentioned, I'm doing a Tensorflow workshop (OSS) 
+  in September. I'm also going to training in mid-July for 
+  Cloud. 
+  
+- I was also reading up on Spinnaker today. Some of it is
+  a bit unclear to me, but it's also really interesting!
+  The views are so low for the stuff I watch..haha.
+  Oh well..doesn't matter. 
+  
+![tensorflowwithoutphd](/images/tensorflowwithoutphd.png)
