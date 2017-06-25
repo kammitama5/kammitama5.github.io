@@ -7,6 +7,8 @@
   supposed to take one week to complete...and I did it 
   in one day!
   
+![cloudcomplete](/images/cloudpics/cloudcomplete.png)
+  
 ## Um...
 
 - See, I was given this coupon, and it gave me access to
