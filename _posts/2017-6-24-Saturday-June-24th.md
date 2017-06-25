@@ -69,7 +69,11 @@
   it was a source of frustration and an accumulation 
   of errors...but they fixed it!
   
+## This means "You didn't mess it up" in JSON!
+  
 ![successjsonrequest](/images/cloudpics/successjsonrequest.png)
+
+- Cue the cat memes! 
 
 ## Organization meets logic
 
