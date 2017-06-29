@@ -14,7 +14,7 @@
 
 ## You would scroll through options and apply and it would deduct from your total points
 
-![CashOut](/images/product/iPhone6_cashout.png)
+![CashOut](/images/product/iPhone6_cashout1.png)
 
 - I guess it would have to tell you something if you tried to apply a discount
   and you had no points, but..wonk wonk. 
