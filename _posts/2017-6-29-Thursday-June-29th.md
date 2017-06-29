@@ -25,8 +25,9 @@
   I don't really care about libraries in JS (neither does he, really). I am coming for the hacking!
   And..the robots!!!! 
   
-## Kata Solved
+## Katas...
 
+## Battle of x and y
 - You were supposed to do more of a A = 1, B = 2 
   type thing for this, but in any case, ASCII works.
   If ascii total in x > ascii total in y, return x,
@@ -60,5 +61,14 @@ function battle(x, y) {
       return y
     }
     return
+}
+```
+
+## Find the length of a number
+
+```
+function digits(n) {
+  var a = n.toString()
+  return a.length
 }
 ```
