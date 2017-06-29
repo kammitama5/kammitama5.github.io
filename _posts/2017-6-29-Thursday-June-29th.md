@@ -21,6 +21,6 @@
 ## Going to see my friend
 
 - My friend, [Samy](https://github.com/samyk), is presenting at [JS.LA](http://js.la/) today.
-  It's going to be at Google LA aka Google Venice
+  It's going to be at Google LA aka Google Venice.
   I don't really care about libraries in JS (neither does he, really). I am coming for the hacking!
   And..the robots!!!! 
