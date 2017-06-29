@@ -8,11 +8,11 @@
 
 ## Sign Up
 
-![Sign up phone2](/images/product/iPhone_signup_final2.png)
+![Signupphone2](/images/product/iPhone6_signup_final2.png)
 
 ## Log-In
 
-![Log In Phone2](/images/product/iPhone6_signinexistinguser2.png)
+![LogInPhone2](/images/product/iPhone6_signinexistinguser2.png)
 
 ## Cash Out
 
