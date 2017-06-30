@@ -25,6 +25,10 @@
   I don't really care about libraries in JS (neither does he, really). I am coming for the hacking!
   And..the robots!!!! 
   
+## Update...it was Sweeeeeeeet! :)
+
+![samyk](/images/samyk.png)
+  
 ## Katas...
 
 ## Battle of x and y
