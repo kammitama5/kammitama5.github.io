@@ -87,5 +87,11 @@ def pythagorean_triple(integers):
 
 - Video is [here](https://www.youtube.com/watch?v=SPpIbiZFPRY). It's called "PureScript's Typesystem".
 
-- I hadn't heard of [skolemization](https://mathoverflow.net/questions/114083/why-skolemization) or subsumption before. Very interesting talk. I also need to re-watch it in a year
-  and see if more starts to click. I really enjoyed hearing about 
+- I hadn't heard of [skolemization](https://mathoverflow.net/questions/114083/why-skolemization) or subsumption before. Very interesting   talk. I also need to re-watch it in a year
+  and see if more starts to click. I really enjoyed hearing about the ways of checking types, and seeing some terms that were familiar,
+  both from LambdaConf and from my Programming for Correctness course. That being said, I still have a *lot* to learn.
+  
+- I'd be thrilled to continue in this vein. Strangely, I looked at my LinkedIn profile logged out,
+  (I thought maybe I'd see 'People who viewed your profile also viewed' Web Developer blah blah profiles)....
+  and people seem to link me with either Machine Learning people, Mathematician / Software people or Mass Spectrometry Individuals.
+  That's pretty hilarious, LinkedIn people! :)
