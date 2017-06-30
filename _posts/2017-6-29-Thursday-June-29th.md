@@ -92,3 +92,22 @@ function digits(n) {
   return a.length
 }
 ```
+
+## Filter even words in array
+
+- so an array with [a, aa, aaa, aaaa] 
+  should return [aa, aaaa]
+
+```
+function filterEvenLengthWords(words) {
+  var arr = []
+  for (var i = 0; i < words.length; i++)
+  {
+    if (words[i].length % 2 === 0){
+      arr.push(words[i])
+    }
+  }
+  //console.log(arr)
+  return arr
+}
+```
