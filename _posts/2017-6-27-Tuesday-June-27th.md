@@ -1,4 +1,4 @@
-## Initial Mock-Up ideas
+## Initial Mock-Up ideas & PureScript Type System Haskell Meetup
 
 ## So, just started my Coding for Product class
 
@@ -81,3 +81,11 @@ def pythagorean_triple(integers):
 
 - Tonight is Haskell group..but we're doing [Purescript](http://www.purescript.org/)! Woot Woot!! :) 
   
+## Update 
+
+- Slides are [here](https://docs.google.com/presentation/d/1VvMZLjOsaryV6BCbst7cSuJwp7KhrK4td7JCa2hYVjY/edit#slide=id.p)
+
+- Video is [here](https://www.youtube.com/watch?v=SPpIbiZFPRY). It's called "PureScript's Typesystem".
+
+- I hadn't heard of [skolemization](https://mathoverflow.net/questions/114083/why-skolemization) or subsumption before. Very interesting talk. I also need to re-watch it in a year
+  and see if more starts to click. I really enjoyed hearing about 
