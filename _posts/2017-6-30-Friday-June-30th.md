@@ -45,3 +45,7 @@ def quadratic(a,b,c):
 
 - Finish Udacity Week Two (Saturday/ Sunday/ Tuesday) (due on July 14th)
 
+## Interested in learning more about 
+
+- [Herbrand's Theorem](http://mathworld.wolfram.com/HerbrandsTheorem.html)
+
