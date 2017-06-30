@@ -16,6 +16,31 @@ def swap(a, b):
     return a, b
 ```
 
+## Solve quadratic equation
+
+- It's passing the kata in terms of the answer, but not the format :(
+
+```
+import math
+def quadratic(a,b,c):
+  
+
+    try:  
+      quad = ((b * (-1)) + (math.sqrt((math.pow(b, 2)) - (4 * a * c)))) / (2 * a)
+      quad1 = ((b * (-1)) - (math.sqrt((math.pow(b, 2)) - (4 * a * c)))) / (2 * a)
+      arr = []
+      if quad1 == quad:
+        arr.append(quad1)
+        return quad1
+      else:
+        arr.append(quad1)
+        arr.append(quad)
+      return quad1, quad
+    except:
+      return "No real solution"
+    return
+```
+
 ## Things to do
 
 - Finish Udacity Week Two (Saturday/ Sunday/ Tuesday) (due on July 14th)
