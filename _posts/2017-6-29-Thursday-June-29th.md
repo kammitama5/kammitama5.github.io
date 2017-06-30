@@ -28,6 +28,22 @@
 ## Update...it was Sweeeeeeeet! :)
 
 ![samyk](/images/samyk.png)
+
+- My friend was on the waitlist, and he apparently got in, which was awesome! 
+  It was his first time at Google Venice, and he was meeting people he found
+  fun and interesting. So it all worked out! 
+  
+- One of the guys presenting mentioned [fft](https://en.wikipedia.org/wiki/Fast_Fourier_transform)! 
+  Turns out, he didn't really know *that* much about it (only as much as it 
+  pertained to his JS library), but that still warmed my heart :)
+  
+- My first Haskell in the Bay experience (last year) was one on FFTs by 
+  [Conal Elliott](http://conal.net/blog/), who was speaking at Target Digital, in Sunnyvale. 
+  Both my friend and I (who took the trip up together) came from a sort of hardware-ish/
+  software background, so it was just fascinating and wonderful to us. 
+  
+- After the Meetup, we also went to [Steins Beer Garden](http://steinsbeergarden.com/) for drinks and food,
+  which is a *staple* of Silicon Valley engineer socialization. It was really fun!
   
 ## Katas...
 
