@@ -16,6 +16,21 @@ def swap(a, b):
     return a, b
 ```
 
+## Jacob calculate time 
+- Unless the traffic speed is less than his time,
+  calc dist as his dist / time
+  
+```
+function trafficJam(trafficSpeed, jacobSpeed, dist){
+  if (trafficSpeed < jacobSpeed){
+    return dist / trafficSpeed;
+  }
+  else{
+    return dist / jacobSpeed;
+  }
+}
+```
+
 ## Solve quadratic equation
 
 - It's passing the kata in terms of the answer, but not the format :(
