@@ -87,7 +87,9 @@ function whoIsPaying(name){
 - [Herbrand's Theorem](http://mathworld.wolfram.com/HerbrandsTheorem.html)
 
 - Conal Elliott's ["Teaching New Tricks to Old Programs"](https://www.youtube.com/watch?v=vzLK_xE9Zy8&feature=share)
-  from YOW! Conferences
+  from YOW! Conferences. This contains a bit of what he spoke about in the Haskell talk we saw in the Bay in '16.
+  
+- [state monads](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/12-State-Monad#state-monad)
 
 ## And...
 - I'm going on a sailing trip to see Fireworks for July 4th!!
