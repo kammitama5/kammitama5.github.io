@@ -86,6 +86,8 @@ function whoIsPaying(name){
 
 - [Herbrand's Theorem](http://mathworld.wolfram.com/HerbrandsTheorem.html)
 
+- Conal Elliott's ["Teaching New Tricks to Old Programs"](https://www.youtube.com/watch?v=vzLK_xE9Zy8&feature=share)
+  from YOW! Conferences
 
 ## And...
 - I'm going on a sailing trip to see Fireworks for July 4th!!
