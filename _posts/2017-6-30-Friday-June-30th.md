@@ -2,6 +2,8 @@
 
 - Today is [Asteroid Day](https://en.wikipedia.org/wiki/Asteroid_Day). 
 
+- Tomorrow is 7/1/17...a Palindrome! Also..a concatenation of two primes!
+
 ## This will probably contain notes for my weekend as well.
 
 ## Katas
@@ -54,6 +56,26 @@ def quadratic(a,b,c):
     except:
       return "No real solution"
     return
+```
+
+## Who will build the wall?
+
+- Ah...another kata trashing the President. How original...easy points.
+
+```
+function whoIsPaying(name){
+  var arr = [];
+  if (name.length <= 2){
+    arr.push(name)
+    return arr;
+  }
+  else{
+    var trunc = name.substring(0,2);
+    arr.push(name)
+    arr.push(trunc)
+    return arr;
+  }
+}
 ```
 
 ## Things to do
