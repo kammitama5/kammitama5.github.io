@@ -80,9 +80,14 @@ function whoIsPaying(name){
 
 ## Things to do
 
-- Finish Udacity Week Two (Saturday/ Sunday/ Tuesday) (due on July 14th)
+- Finish Udacity Week Two (Sunday/ Monday/ Tuesday ) (due on July 14th)
 
 ## Interested in learning more about 
 
 - [Herbrand's Theorem](http://mathworld.wolfram.com/HerbrandsTheorem.html)
+
+
+## And...
+- I'm going on a sailing trip to see Fireworks for July 4th!!
+  Yessss!! :) 'Murica!
 
