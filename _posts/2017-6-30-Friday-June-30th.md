@@ -91,6 +91,19 @@ function whoIsPaying(name){
   
 - [state monads](https://www.schoolofhaskell.com/school/starting-with-haskell/basics-of-haskell/12-State-Monad#state-monad)
 
+- Symbolic differentiation & automatic differentiation differences : 
+  apparently the one I learned in high school is symbolic differentiation. It's always stuck
+  in my mind, as I found it fascinating. I am only now learning about Automatic differentiation.
+  Conal things the only differences between the two are really that the compiler's interpretation
+  is in Automatic, which is interesting.
+  
+- He says "derivative is a linear map. Derivatives are about affine approxmations."
+  Don't think of them as a number. I've always thought of them as a rate of change 
+  (like stock fluctuations).
+  
+- He suggests (for reading) Michael Spivak's ["Calculus on Manifolds"](http://www.ime.unicamp.br/~marcio/ps2009/spivak) which has the concept that
+  the "derivative of every linear function is itself".
+
 ## And...
 - I'm going on a sailing trip to see Fireworks for July 4th!!
   Yessss!! :) 'Murica!
