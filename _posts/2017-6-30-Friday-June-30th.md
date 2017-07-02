@@ -78,6 +78,14 @@ function whoIsPaying(name){
 }
 ```
 
+## Capitalize first letter in String
+
+```
+function capitalizeWord(word) {
+  return word.charAt(0).toUpperCase() + word.slice(1);
+}
+```
+
 ## Things to do
 
 - Finish Udacity Week Two (Sunday/ Monday/ Tuesday ) (due on July 14th)
