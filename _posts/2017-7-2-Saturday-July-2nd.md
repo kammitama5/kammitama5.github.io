@@ -12,6 +12,14 @@
 
 ![boostrapdemo](/images/product/bootstraptut.png)
 
+- Pretty simple and really quick for a cool mock-up
+- From a developer point-of-view, though, the copy and paste 
+  method looks like it can yield some *ugly* code.
+- Very different, from say, C++, where you'd have to think
+  ahead of time what your system would look like, and plan from there
+  (kind of top-down), instead of adding a chunk here and a chunk there,
+  like a squirrel stuffing its cheeks with nuts! XP
+
 ## Learned about Databases 
 
 - This was actually my favourite! Enjoyed this a lot.
