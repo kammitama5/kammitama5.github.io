@@ -28,6 +28,20 @@
 y = (a * (x * x)) + (b * x) + c
 ```
 
+- check if in an array using only one loop
+
+```
+function check(a,x){
+  if(RegExp('\\b'+x+'\\b').test(a.join(','))){
+    return true
+    }
+  else{
+    return false
+  }
+}
+```
+- hadn't seen this before..this is a Regex solution
+
 ## Things to do 
 
 - Udacity Nanodegree continue (I may start this on Monday).
