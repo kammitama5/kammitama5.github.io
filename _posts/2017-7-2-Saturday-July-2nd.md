@@ -73,3 +73,6 @@ def quadratic(a,b,c):
 ## Things to do 
 
 - Udacity Nanodegree continue (I may start this on Monday).
+- Mock-up pages in Codepen
+  * They would probably have the same look, more or less
+  * Just different inputs here and there
