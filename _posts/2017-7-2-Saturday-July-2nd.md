@@ -78,6 +78,20 @@ def quadratic(a,b,c):
     return
 ```
 
+## Update: I don't enjoy UI
+
+- Working on some stuff for my group in Bootstrap.
+
+- I guess you'd have to be a particular type of person to enjoy this stuff.
+  Right now, that person is *not* me. 
+  
+- How in shiny tomatoes can there be a generalization about a particular gender
+  liking UI? :(
+  
+- I think I'd be *miserable* doing this all day long :(
+  
+<img src="/images/product/uiprogress_001.png" width="300">
+
 ## Things to do 
 
 - Udacity Nanodegree continue (I may start this on Monday).
