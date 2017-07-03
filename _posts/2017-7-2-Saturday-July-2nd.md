@@ -80,7 +80,8 @@ def quadratic(a,b,c):
 
 ## Update: I don't enjoy UI
 
-- Working on some stuff for my group in Bootstrap.
+- Working on some stuff for my group in Bootstrap. Granted, I'm learning,
+  but this is my experience thus far. It just feels *painful*.
 
 - I guess you'd have to be a particular type of person to enjoy this stuff.
   Right now, that person is *not* me. 
