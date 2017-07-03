@@ -20,6 +20,14 @@
 
 - Databases just make sense to me :)
 
+## Katas
+
+- Write ax^2 + bx + c 
+
+```
+y = (a * (x * x)) + (b * x) + c
+```
+
 ## Things to do 
 
-- Udacity Nanodegree continue 
+- Udacity Nanodegree continue (I may start this on Monday).
