@@ -17,9 +17,12 @@
   
 ## What am I interested in?
 
-- I decided to make mine a small webpage on the Founcations of 
+- I decided to make mine a small webpage on the Foundations of 
   Functional programming. Most of the content, though 
-  interesting to me, is on some horrible webpages.
+  interesting to me, is on some horrible webpage that 
+  is just being passed around, so maybe if mine looks 
+  a bit more approachable, more people would like to 
+  try out functional programming. :)
   
 - So how about if I made mine pretty?
 
