@@ -50,7 +50,7 @@
  ## Then...
  
  - Moved on to some mock-ups.
-   I used Proto.io, because I don't have PS or anything on my laptop. 
+   I used [Proto.io](https://proto.io/)'s free trial, because I don't have PS or anything on my laptop. 
    I think I like 
    the second one, even though the margins aren't equal
  
