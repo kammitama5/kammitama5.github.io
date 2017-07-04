@@ -102,7 +102,7 @@ function capitalizeWord(word) {
 - Symbolic differentiation & automatic differentiation differences : 
   apparently the one I learned in high school is symbolic differentiation. It's always stuck
   in my mind, as I found it fascinating. I am only now learning about Automatic differentiation.
-  Conal things the only differences between the two are really that the compiler's interpretation
+  Conal thinks the only differences between the two are really that the compiler's interpretation
   is in Automatic, which is interesting.
   
 - He says "derivative is a linear map. Derivatives are about affine approxmations."
