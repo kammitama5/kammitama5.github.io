@@ -57,7 +57,7 @@
 ## First Mock-Up / Draft
  <img src="/images/drafts/firstdraft.png" width="500"> 
  
- ## Second Mock-Up/ Draft
+## Second Mock-Up/ Draft
  
  <img src="/images/drafts/seconddraft.png" width="500"> 
  
