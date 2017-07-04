@@ -49,9 +49,10 @@
  - Moved on to some mock-ups. I think I like 
    the second one, even though the margins aren't equal
    
- ![first_draft_alonzo](/images/drafts/firstdraft.png)
+ <img src="/images/drafts/firstdraft.png" width="300"> 
  
- ![second_draft_alonzo](/images/drafts/seconddraft.png)
+ 
+ <img src="/images/drafts/seconddraft.png" width="300"> 
  
  - So this should give me enough time to work on implementing these
    and getting feedback, etc.
