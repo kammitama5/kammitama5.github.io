@@ -2,7 +2,7 @@
 
 ## I stayed up last night...
 
-- I stayed up to complete the lesson for Project 2 of the Nanodegree, 
+- I stayed up until 1:30am to complete the lesson for Project 2 of the Nanodegree, 
   so I could focus on the actual Project for the next 10 days.
   
 - Since that is done, I thought I should look at some possible topics
