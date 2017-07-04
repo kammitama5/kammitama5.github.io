@@ -49,10 +49,10 @@
  - Moved on to some mock-ups. I think I like 
    the second one, even though the margins aren't equal
    
- <img src="/images/drafts/firstdraft.png" width="300"> 
+ <img src="/images/drafts/firstdraft.png" width="500"> 
  
  
- <img src="/images/drafts/seconddraft.png" width="300"> 
+ <img src="/images/drafts/seconddraft.png" width="500"> 
  
  - So this should give me enough time to work on implementing these
    and getting feedback, etc.
