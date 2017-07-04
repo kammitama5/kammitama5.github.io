@@ -69,6 +69,27 @@
  - I don't expect to get it right the first time, but the 
    feedback so far from the programme has been very good
    in terms of the usefulness to me.
+   
+## Katas
+
+- Calculate missing number from one array vs the other.
+  Pretty easy. Just sum both and find the difference.
+  
+```
+def find_deleted_number(arr, mixed_arr):
+    total = 0
+    total1 = 0
+    
+    for i in arr:
+        total = total + i 
+     
+    for i in mixed_arr:
+        total1 = total1 + i 
+     
+    diff = total - total1 
+    
+    return diff;
+```
  
 ## Oh...If I get cool Sailing pics...
  
