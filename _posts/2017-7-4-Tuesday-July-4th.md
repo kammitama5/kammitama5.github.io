@@ -49,7 +49,9 @@
   
  ## Then...
  
- - Moved on to some mock-ups. I think I like 
+ - Moved on to some mock-ups.
+   I used Proto.io, because I don't have PS or anything on my laptop. 
+   I think I like 
    the second one, even though the margins aren't equal
  
  ## First Mock-Up / Draft
