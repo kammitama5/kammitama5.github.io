@@ -33,7 +33,7 @@
   
 ## Things I wanted to cover 
 
-- I drew out a list of things and came out with about 14 elements.
+- I drew out a list of things and came out with about 12 to 14 elements.
   * Navbar/ Header
   * Profile with photo of Alonzo Church
   * Small bio
