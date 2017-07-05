@@ -23,3 +23,6 @@
  <img src="/images/boat/boat_008.png" width="500"> 
        
  
+## Oh, and I *did* get some work done, too!
+
+<img src="/images/codepen_assignment_two.png" width="500"> 
