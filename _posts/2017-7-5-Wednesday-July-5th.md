@@ -25,4 +25,4 @@
  
 ## Oh, and I *did* get some work done, too!
 
-<img src="/images/codepen_assignment_two.png" width="500"> 
+<img src="/images/codepen_assignment_two_001.png" width="500"> 
