@@ -89,14 +89,16 @@
 ## I love sailing...but I'm still learning
 
 - I like it because it takes time to get really good,
-  and it's perfect if you have an analytical mind.
+  and it's perfect if you have an analytical mind, but also requires good intuition.
 
 - I did a bit of rowing in school (and my dad also 
   was also a Sea Scout, and my brother has done 
   Dragon-boat racing), so I know a bit, but I'm still learning.
   
 - In sailing, you have to constantly be aware of your surroundings,
-  while looking at details.
+  while looking at details. If you're in a group, you can work 
+  as a team, but it's also great if you are fine with keeping
+  your own company and don't need to be around people all the time.
   
 - It's also great if you are into astronomy because in 
   navigation, it comes in handy
