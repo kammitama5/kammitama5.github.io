@@ -4,6 +4,13 @@
 
 - I'm sharing! I *love* sailing!
 
+- I love this quote:
+  "Sailors are the type of people who are do-it-yourselfers and they're proud of it. If the engine fails, they're going to spend three   days working on it," Tadd said. "A powerboater would take it to a shop to fix it."
+  
+- It's from this [article](http://articles.chicagotribune.com/2003-07-20/features/0307200332_1_powerboat-rivalry-cook-county) that highlights the differences in personality between sailors and power-boaters. It's *so* true. 
+
+- This is hilarious, too "In turn, powerboaters think sailors are cheap. Sailors wouldn't necessarily argue, Tadd said, recalling his experience running a boating store in Lombard, where he could tell a sailor at the front door by the condition of the boat shoes. Holes in them? Sailors. Spanking new? Powerboaters." - courtesy Wendy Navratil's ["Hey, you--get outta my way! Sailboat vs powerboat: A parting of the waves."](http://articles.chicagotribune.com/2003-07-20/features/0307200332_1_powerboat-rivalry-cook-county)
+
 ## On a 36'-er 
 
 - I went with a group. It was lovely. 
