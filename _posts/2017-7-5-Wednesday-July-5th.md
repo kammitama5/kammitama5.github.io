@@ -21,7 +21,9 @@
   But we had the best view from our sailboats and yachts :)
   
  <img src="/images/boat/boat_001.png" width="500"> 
-
+  
+ <img src="/images/boat/boat_002.png" width="500"> 
+ 
 ## You still have to wrestle the kayaks and motorboats, though
 
 - In sailing culture and on the water, contrary to television,
@@ -32,9 +34,6 @@
 - It's telling, because often you don't find powerboaters who have
   the same kind of consideration (and skill-level) as you do some of the 
   other boaters.
-  
- <img src="/images/boat/boat_002.png" width="500"> 
- 
  <img src="/images/boat/boat_003.png" width="500"> 
   
  <img src="/images/boat/boat_004.png" width="500"> 
