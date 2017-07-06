@@ -13,14 +13,14 @@
   barge (but within the limits of the other boats policing the barge)
   and you'll be *right under* the fireworks! 
   
+ <img src="/images/boat/boat_001.png" width="500"> 
+  
 ## We got a great spot this year
 
 - We're literally *under* the fireworks! It was beautiful!
   You could smell the sulphur afterwards, though.
   There were crowds lining the marina on land.
   But we had the best view from our sailboats and yachts :)
-  
- <img src="/images/boat/boat_001.png" width="500"> 
   
  <img src="/images/boat/boat_002.png" width="500"> 
  
