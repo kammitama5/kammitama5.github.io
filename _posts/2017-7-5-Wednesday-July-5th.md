@@ -124,3 +124,16 @@ function coffee(str) {
 ## Oh, and I *did* get some work done, too!
 
 <img src="/images/codepen_assignment_two_001.png" width="500"> 
+
+## I made some changes and passed, so it's on to the next.
+
+- My reviewer was really nice, and very thorough. Really appreciated it.
+  Really impressed thus far by everything.
+  
+- I'm doing Python next, in the next chapter...due by August 25th.
+  
+<img src="/images/stylish_webpage.png" width="500"> 
+
+## PS I'm going Sailing on Saturday! :)
+
+- Hooray!!! :)
