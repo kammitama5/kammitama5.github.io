@@ -6,6 +6,12 @@
 
 ## On a 36'-er 
 
+- I went with a group. It was lovely. 
+  I didn't stay for the after-party on the dock, as 
+  I needed to get home, but it was really fun. 
+  A lot of the group was from the vicinity (Manhattan Beach,
+  Redondo, etc). Quite a few East Coasters, too. 
+
 ## Here we are leaving our slip and heading to the barge.
 
 - MDR (Marina Del Rey) has a barge with Fireworks.
@@ -33,7 +39,12 @@
   
 - It's telling, because often you don't find powerboaters who have
   the same kind of consideration (and skill-level) as you do some of the 
-  other boaters.
+  other boaters. And..the powerboaters tend to *love* speeding.
+  Not great on a night like July 4th, where boats in the marina are
+  *bumper to bumper*, while drifting, with the motor off...
+  
+- So...*why do you have your motor on again!?*
+
  <img src="/images/boat/boat_003.png" width="500"> 
   
  <img src="/images/boat/boat_004.png" width="500"> 
