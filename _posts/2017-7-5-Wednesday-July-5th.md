@@ -35,9 +35,19 @@
 - In sailing culture and on the water, contrary to television,
   no-one really cares for the powerboats. 
   Someone once yelled "All you needed was a license and a cheque book"
-  at some powerboat. 
+  at some powerboat. Becoming a good sailor takes time and patience.
+  My friend lives on a boat and is *really* good for his age, but 
+  he has a *lot* of mileage on the water. Most people who are serious
+  tend to spend a lot of time on the water because they love it, not
+  for water-cooler conversation about "being on a boat".
+
+- You'll see these guys (mostly guys...it's a sausage-fest!) and as 
+  they're passing by the boats, one will catch their eyes, and they'll
+  make a remark about how beautiful the make or model is. It's very much
+  a craft. I'd like to join a sailing club within the next year to 
+  regularly go sailing every other weekend or so.
   
-- It's telling, because often you don't find powerboaters who have
+- In terms of powerboats, you often you don't find powerboaters who have
   the same kind of consideration (and skill-level) as you do some of the 
   other boaters. And..the powerboaters tend to *love* speeding.
   Not great on a night like July 4th, where boats in the marina are
