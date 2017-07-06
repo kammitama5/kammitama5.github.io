@@ -22,7 +22,18 @@
       
  <img src="/images/boat/boat_008.png" width="500"> 
        
+
+## Kata
+-Replace every instance of "Coffee" (RegEx)
+
+```
+function coffee(str) {
  
+ str = str.replace(/coffee|Coffee|coFFEE/g, 'COFFEE');
+ return str;
+}
+```
+
 ## Oh, and I *did* get some work done, too!
 
 <img src="/images/codepen_assignment_two_001.png" width="500"> 
