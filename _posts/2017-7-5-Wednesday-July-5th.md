@@ -52,6 +52,14 @@
  <img src="/images/boat/boat_005.png" width="500"> 
     
  <img src="/images/boat/boat_006.png" width="500"> 
+ 
+## There was a drone!
+
+- Someone had a drone right up by the fireworks.
+  Sounds like something my friend would do, and he 
+  lives in the Marina, too (and owns a drone and Epson Moverio).
+  He's been known to do some 360 degree video, so I wouldn't be
+  surprised. I think it may have caught on fire, though XP.
      
  <img src="/images/boat/boat_007.png" width="500"> 
       
@@ -77,7 +85,7 @@
   was also a Sea Scout, and my brother has done 
   Dragon-boat racing), so I know a bit, but I'm still learning.
   
-- In sailnig, you have to constantly be aware of your surroundings,
+- In sailing, you have to constantly be aware of your surroundings,
   while looking at details.
   
 - It's also great if you are into astronomy because in 
