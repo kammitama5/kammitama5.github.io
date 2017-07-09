@@ -72,3 +72,24 @@ def kido_count(n):
             arr.append(i)
     return arr
 ```
+
+- Return NaN if not a number, -1 if less than 1, 0 if 0 and if +ve, 1
+
+```
+function sign(number){
+  if (isNaN(number) == true){
+    return(NaN)
+  }
+  else if (number == 0){
+    return(0)
+  }
+  else if (number < 0){
+    return(-1)
+  }
+  else{
+    return(1)
+  }
+ 
+  return 
+}
+```
