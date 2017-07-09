@@ -60,4 +60,15 @@
 
 ## Really tired, but may post some code
 
-- Maybe from tomorrow or something...we'll see...
+## Random kata(s):
+
+- Count up to number given, excluding evens (including number)
+
+```
+def kido_count(n):
+    arr =[]
+    for i in range(1, n+1):
+        if i % 2 != 0:
+            arr.append(i)
+    return arr
+```
