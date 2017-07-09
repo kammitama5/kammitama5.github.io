@@ -4,7 +4,7 @@
 
 - Man, was it fun! 
 
-- I did get about 70 percent of my Programming done due August 25th, so I'm a bit ahead.
+- I did get about 70 percent of my Programming done (due August 25th), so I'm a bit ahead.
 
 - In the meantime, I'd like to get in sailing once to twice a week, and eventually do some racing.
 
