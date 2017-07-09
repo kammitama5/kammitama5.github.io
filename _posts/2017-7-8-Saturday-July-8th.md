@@ -46,10 +46,12 @@
 
 <img src="/images/sailing_7_8_17/sail_008.png" width="500">
 
-<img src="/images/sailing_7_8_17/sail_009.png" width="500">
-
 ## In a far away, distant land...
 - There is a dolphin in the water! Yeah!!!!
+
+- You can see the little black head peeping out from the water...
+
+- He's a smart one! He knows where the food is! (great spot for food!)
 
 <img src="/images/sailing_7_8_17/sail_010.png" width="500">
 
