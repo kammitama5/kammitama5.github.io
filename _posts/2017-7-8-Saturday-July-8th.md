@@ -32,6 +32,9 @@
 
 ## We saw sea lions!!!!
 
+- Yes, btw, that white stuff is 100 percent BIRD POOP!
+  The colour of the rocks is the colour at the base (yeeech!)
+  
 <img src="/images/sailing_7_8_17/sail_004.png" width="500">
 
 <img src="/images/sailing_7_8_17/sail_005.png" width="500">
