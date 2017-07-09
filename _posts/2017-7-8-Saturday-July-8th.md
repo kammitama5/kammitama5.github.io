@@ -13,7 +13,7 @@
 ## This is Avanti. 
 
 - She used to be called *Aurora*, but was bought by a private seller
-  and fixed up and renamed *Avanti*. I was told who it may belong to,
+  and fixed up and renamed *Avanti*. I was told to whom it may belong,
   but I'm not sharing (sorry, not on a public blog!).
   
 <img src="/images/sailing_7_8_17/sail_001.png" width="500"> 
