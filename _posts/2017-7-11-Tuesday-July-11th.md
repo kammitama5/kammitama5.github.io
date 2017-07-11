@@ -47,5 +47,24 @@
 
 - [Arrow symbol in mathematics](https://en.wikipedia.org/wiki/Comma_category)
 
+- [Hindley-Milner (or "Damas-Milner") type system](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system). 
+  One of the first Papers We Love talks I ever attended was on this. There were a lot of Haskellinos there :)
+  
+- I saw a sharp sign (sharp like musical notation) after Gamma notation in a paper. Didn't know you could do that.
+
+- [Monotonocity](https://en.wikipedia.org/wiki/Monotonic_function). This I think I understand, but would like to do
+  more reading on applications.
+  
+- [Lemmas](http://mathworld.wolfram.com/Lemma.html). Yes, it's a proof. 
+
+- [Bell-LaPadula model](https://en.wikipedia.org/wiki/Bell%E2%80%93LaPadula_model)
+
+- Reynold's algorithm. The most famous is the [algorithm of Boids](https://en.wikipedia.org/wiki/Boids)
+
+- [Localized endomorphisms](https://ncatlab.org/nlab/show/localized+endomorphism)
+
+## Yes, I'm a two-year old
+
+- I have a lot of questions!
 
   
