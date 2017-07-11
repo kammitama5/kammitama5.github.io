@@ -65,6 +65,8 @@
 
 - [Parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism) vs Ad hoc polymorphism (think of function overloading in C++)
 
+- [Anaphora and Dynamic Skolemization](https://webcache.googleusercontent.com/search?q=cache:RF8W9mT5Ym8J:https://www.cs.rochester.edu/~schubert/papers/dynamic-skolemization.ps+&cd=11&hl=en&ct=clnk&gl=us)
+
 ## Reading recommendations:
 
 - [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
