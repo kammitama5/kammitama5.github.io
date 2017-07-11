@@ -63,7 +63,7 @@
 
 - [Localized endomorphisms](https://ncatlab.org/nlab/show/localized+endomorphism)
 
-- [Parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
+- [Parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism) vs Ad hoc polymorphism (think of function overloading in C++)
 
 ## Reading recommendations:
 
