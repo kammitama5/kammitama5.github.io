@@ -63,6 +63,8 @@
 
 - [Localized endomorphisms](https://ncatlab.org/nlab/show/localized+endomorphism)
 
+- [Parametric polymorphism](https://en.wikipedia.org/wiki/Parametric_polymorphism)
+
 ## Reading recommendations:
 
 - [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/plai-2007-04-26.pdf)
