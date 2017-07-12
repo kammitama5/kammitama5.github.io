@@ -77,4 +77,6 @@
 
 - I have a lot of questions!
 
-  
+- [Hyperbolic Geometry](http://library.msri.org/books/Book31/files/cannon.pdf)
+
+- Heard about it in this great [Computerphile video](https://www.youtube.com/watch?v=nsZsd5qtbo4), called "Undecidability Tangent(History of Undecidability Part 1")
