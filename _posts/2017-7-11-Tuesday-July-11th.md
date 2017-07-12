@@ -33,7 +33,9 @@
 ## Sailing
 
 - Yes, I *am* going sailing: both this Saturday and next Sunday (we have one Sunday off).
-  It's pretty much part of who I am right now. I look forward to it and hope to continue for
+  I *may* also be doing a three-day weekend of sailing to Catalina Island.
+  
+- It's pretty much part of who I am right now. I look forward to it and hope to continue for
   the rest of my life.
   
 ## Upcoming stuff
