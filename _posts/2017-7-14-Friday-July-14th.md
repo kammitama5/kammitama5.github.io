@@ -23,7 +23,7 @@
 
 ## The Spread
 
-<img src="/images/cloudonboard/cloudlisp.png" width="300">
+<img src="/images/cloudboard/cloudlisp.png" width="300">
 
 ## They were quite generous!
 
@@ -35,4 +35,4 @@
 
 ## The actual lecture
 
-<img src="/images/cloudonboard/cloudlisp_002.png" width="300">
+<img src="/images/cloudboard/cloudlisp_002.png" width="300">
