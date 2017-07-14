@@ -36,3 +36,13 @@
 ## The actual lecture
 
 <img src="/images/cloudboard/cloudlisp_002.png" width="300">
+
+
+
+## In the end
+
+- It was 100 percent worth it! 
+
+- I learned *so* much, made some new friends, and may even be in a Googs video (wearing a Haskell tshirt! Haha!)
+
+<img src="/images/cloudboard/cloudsanfran_001.png" width="300">
