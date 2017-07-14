@@ -28,7 +28,7 @@
   
 ## I may post some pics here from my trip 
 
-- Random space for pics.... :)
+- [Random space for pics.... :)](https://kammitama5.github.io/Friday-July-14th/)
   
   
 
