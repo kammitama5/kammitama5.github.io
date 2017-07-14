@@ -69,11 +69,34 @@
   
 <img src="/images/cloudboard/cloudlisp_001.png" width="300">
 
+- Ben, who records and edits the group's videos, uses a Lisp programme to edit the video easily, which I thought was neat!
+
 ## The actual lecture
 
 <img src="/images/cloudboard/cloudlisp_002.png" width="300">
 
+- It was on Roger Corman's Lisp, and he was THERE!
 
+- He learned Lisp because his jazz musician teacher was actually writing a generative Gregorian chant programme in Lisp!
+
+- He called it PowerLisp because it was produced on a Powerbook :)
+
+- He showed us disassemblers and assemblers called through Lisp code. I had *never* seen that before, so was absolutely
+  amazed by that, particularly as I had done a bit of writing Assembly code for Reverse Engineering through my hackerspace!
+  
+- He demo-ed a Minesweeper Lisp which uses neural nets to find mines. It runs a generative algorithm that helps it detect
+  where the mines are and learns from that. It was *really* cool!
+
+# Questions
+
+- He mentioned AutoCad and Embedded Lisp. Is this really true!?
+
+- He mentioned Arden syntax. 
+
+- Also, fuzzy logic/ continuations
+
+- He recommended "Lisp in Small Pieces" as a great text. I will definitely look into that!
+  It's by Christian Queinnec.
 
 ## In the end
 
