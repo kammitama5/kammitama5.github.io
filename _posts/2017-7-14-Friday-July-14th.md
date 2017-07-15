@@ -79,6 +79,9 @@
 
 - He learned Lisp because his jazz musician teacher was actually writing a generative Gregorian chant programme in Lisp!
 
+- He had postcards from his professor that were mix of music notation, English and Lisp! They were delightful
+  because you could see he squished in all the parentheses and would still find a way to sign his name; Arthur.
+
 - He called it PowerLisp because it was produced on a Powerbook :)
 
 - He showed us disassemblers and assemblers called through Lisp code. I had *never* seen that before, so was absolutely
