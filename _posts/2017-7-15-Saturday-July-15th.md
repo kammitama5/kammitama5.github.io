@@ -69,3 +69,8 @@ function derive(coefficient,exponent) {
 
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail)
 
+- How have I heard of Cofree coalgebras before, but never of [Mongruences](http://blog.sigfpe.com/2006/04/mongruences.html)?
+  Something something tau-invariant. Must find out more...
+  
+- This is a neat blog, too! It's called the [n-Category Cafe](https://golem.ph.utexas.edu/category/2009/09/proof_by_coinduction.html)
+
