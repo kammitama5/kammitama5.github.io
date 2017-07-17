@@ -74,3 +74,5 @@ function derive(coefficient,exponent) {
   
 - This is a neat blog, too! It's called the [n-Category Cafe](https://golem.ph.utexas.edu/category/2009/09/proof_by_coinduction.html)
 
+- Apparently, there are a lot of [invariants](https://en.wikipedia.org/wiki/Quantum_invariant), particularly with respect to knot   theory, which is a part of topology. And..we're back to hyperbolic geometry. I wonder why everything I've been reading about lately seems to go back to that...
+
