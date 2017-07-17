@@ -65,6 +65,28 @@ function derive(coefficient,exponent) {
   return a.toString() + "x^" + b.toString();
 }
 ```
+
+- Sushi go-round
+
+```
+def total_bill(s):
+    if len(s) == 0:
+      print 0
+    else:
+      arr = []
+      a1 = list(s)
+      
+      a1 = [x.strip(' ') for x in a1]
+      a2 = ''.join(a1)
+      #print a2
+     
+      a = len(a2) / 5
+      #print a
+      b = len(a2) *  2
+      #print b
+      c = b - a - a 
+      return c
+```
 ## Interesting...
 
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant. What if it were in a different number base?
