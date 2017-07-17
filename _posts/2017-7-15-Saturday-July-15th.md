@@ -67,7 +67,7 @@ function derive(coefficient,exponent) {
 ```
 ## Interesting...
 
-- [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant.
+- [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant. What if it were in a different number base?
 
 - How have I heard of Cofree coalgebras before, but never of [Mongruences](http://blog.sigfpe.com/2006/04/mongruences.html)?
   Something something tau-invariant. Must find out more...
