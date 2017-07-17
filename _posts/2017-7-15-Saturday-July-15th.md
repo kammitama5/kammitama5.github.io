@@ -65,3 +65,7 @@ function derive(coefficient,exponent) {
   return a.toString() + "x^" + b.toString();
 }
 ```
+## Interesting...
+
+- [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail)
+
