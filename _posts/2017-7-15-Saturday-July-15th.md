@@ -97,3 +97,5 @@ def total_bill(s):
 - Apparently, there are a lot of [invariants](https://en.wikipedia.org/wiki/Quantum_invariant), particularly with respect to knot   theory, which is a part of topology. And..we're back to hyperbolic geometry. I wonder why everything I've been reading about lately seems to go back to that...
 
 - [Cyclotomic fields](https://en.wikipedia.org/wiki/Cyclotomic_field) - related to number theory, Euler and Galois Theory.
+
+- This is a really great talk on Category Theory: [Category Theory Lulz by Ken Scambler](https://www.youtube.com/watch?v=jDhMDgU7Koc)
