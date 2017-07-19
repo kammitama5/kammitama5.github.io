@@ -119,6 +119,19 @@ function oddNum(arr) {
 }
 ```
 
+- Return char * length of string a
+  eg. contamination('aabb', 'x') should return 'xxxx'
+  
+```
+def contamination(text, char):
+    a = len(text)
+    c = ""
+    for i in range(0, a):
+      c = c + char
+    
+    return c
+```
+
 ## Interesting...
 
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant. What if it were in a different number base?
