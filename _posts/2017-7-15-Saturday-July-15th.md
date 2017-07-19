@@ -146,3 +146,6 @@ def contamination(text, char):
 - [Cyclotomic fields](https://en.wikipedia.org/wiki/Cyclotomic_field) - related to number theory, Euler and Galois Theory.
 
 - This is a really great talk on Category Theory: [Category Theory Lulz by Ken Scambler](https://www.youtube.com/watch?v=jDhMDgU7Koc)
+
+- [Neville's Algorithm](https://en.wikipedia.org/wiki/Neville%27s_algorithm)
+  from [R-bloggers' Neville's Method of Polynomial Interpolation](https://www.r-bloggers.com/nevilles-method-of-polynomial-interpolation/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+RBloggers+%28R+bloggers%29)
