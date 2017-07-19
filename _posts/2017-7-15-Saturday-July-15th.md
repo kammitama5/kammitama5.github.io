@@ -85,6 +85,19 @@ def total_bill(s):
       c = b - a - a 
       return c
 ```
+- Aspect ratio (the biggest problem with this problem is rounding to pass tests)
+
+```
+function aspectRatio(x,y){
+  var arr = []
+  var x1 = 1.0/(9.0/16.0) * y * 1.0
+  var y1 = y
+  arr.push(Math.ceil(x1))
+  arr.push(y1)
+  return arr;
+}
+```
+
 ## Interesting...
 
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant. What if it were in a different number base?
