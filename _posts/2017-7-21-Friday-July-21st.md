@@ -22,6 +22,24 @@
   finish up stuff for our presentation the next Sunday.
   (goal: finish meeting, and continue working on my portion)
   
+## TL;DR (to be done - specific / per day)
+
+- JPL webinar (Friday evening)
+- do Project-a-thon (Saturday Morning)
+- go to Meeting (Saturday afternoon/ evening)
+- Talk for Submittal (Saturday/ Sunday)
+- Sailing (Sunday..all day :) )
+- Tuesday (interviewing event)
+- Wednesday (SF recruiting event)
+- Saturday/Sunday (DEF CON)
+
+## TL;DR (to be done - week)
+
+- Make sure talk proposal is submitted
+- Mon to Friday (Final team project presentation, etc finish)
+- Nanondegree section finish and start working on project
+
+  
 ## Next week
 
 - I'm doing a speed-recruiting event, where there will be 
