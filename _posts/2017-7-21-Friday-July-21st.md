@@ -1,5 +1,10 @@
 ## Next seven days...
 
+# I hung out with my mentor last night!
+
+- he works at JPL, and gave me a few articles to read,
+  as well as a radar photograph of [Maxwell Montes](https://en.wikipedia.org/wiki/Maxwell_Montes)!
+
 ## I have a lot going on
 
 - Writing a proposal for a technical talk for submittal.
