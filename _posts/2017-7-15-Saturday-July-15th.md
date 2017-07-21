@@ -132,6 +132,20 @@ def contamination(text, char):
     return c
 ```
 
+- Find total in ascii...
+
+```
+def WordsToMarks(String):
+  total = 0
+  word = list(String)
+  
+  for i in word:
+    total = total + (ord(i) - 96)
+    
+   
+  return total
+```
+
 ## Interesting...
 
 - [Homomorphic Encryption for Arithmetic of Approximate Numbers](https://www.youtube.com/watch?v=brAXXghiqM0&feature=em-uploademail). He (and an audience member) mentions [Luhn encryption](http://www.investopedia.com/terms/l/luhn-algorithm.asp). Strangely, stumbled upon this in CodeWars two weeks ago. Basically, it's a weighted sum whose final value must be divisible by ten to be valid. Incredibly elegant. What if it were in a different number base?
