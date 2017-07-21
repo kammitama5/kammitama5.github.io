@@ -4,17 +4,23 @@
 
 - Writing a proposal for a technical talk for submittal.
   It's for a functional programming conference (of course!)
+  (goal...finish this weekend)
   
 - Continuing with my Nanodegree. I also was contacted about 
   mentoring some of my peers, for a chance of getting another
-  scholarship. 
+  scholarship. (goal..finish next few weeks)
   
 - I have a Project-a-thon. All weekend, people in our Nanodegree
   will be working together and helping each other on our projects.
+  (goal: finish this weekend)
+  
+- Also, JPL did a webinar for a few of us for our next steps...
+  I need to watch that (can be done tonight)
   
 - In the middle of that, I have to meet with my group...
   to discuss how far along we are in our project, and to 
   finish up stuff for our presentation the next Sunday.
+  (goal: finish meeting, and continue working on my portion)
   
 ## Next week
 
