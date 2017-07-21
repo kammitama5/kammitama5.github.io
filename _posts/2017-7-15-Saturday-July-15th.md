@@ -133,6 +133,13 @@ def contamination(text, char):
 ```
 
 - Find total in ascii...
+  but a = 1, b = 2, etc.
+ 
+- Basically, just make a = 1 
+  by using ascii and subtracting 96.
+  The others will be correct, and then loop 
+  through a list of each char of the string,
+  and find total.
 
 ```
 def WordsToMarks(String):
