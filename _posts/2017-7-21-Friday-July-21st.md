@@ -29,8 +29,8 @@
   
 ## TL;DR (to be done - specific / per day)
 
-- JPL webinar (Friday evening)
-- do Project-a-thon (Saturday Morning)
+- ~~JPL webinar (Friday evening)~~
+- ~~do Project-a-thon (Saturday Morning)~~
 - go to Meeting (Saturday afternoon/ evening)
 - Talk for Submittal (Saturday/ Sunday)
 - Sailing (Sunday..all day :) )
