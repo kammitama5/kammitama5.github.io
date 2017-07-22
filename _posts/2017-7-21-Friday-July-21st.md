@@ -63,3 +63,26 @@
   Never did that before, so that should be interesting! 
   The crew looks pretty experienced, so it should be a learning
   experience and a lot of fun for me.
+  
+## Random katas
+
+- Makea  band name : 
+  if it ends in the same letter with which it begins, repeat as:
+  word = "potop"
+  "Potopotop"
+  word = "potato"
+  else make it "The Potato"
+  
+```
+function bandNameGenerator(str) {
+  
+  if (str[0].toLowerCase() == str[str.length - 1].toLowerCase())
+  {
+    return str[0].toUpperCase() + str.slice(1, str.length) + str.slice(1, str.length)
+  }
+  else{
+    return "The " + str[0].toUpperCase() + str.slice(1, str.length)
+  }
+}
+```
+
