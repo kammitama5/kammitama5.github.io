@@ -42,6 +42,9 @@
 
 - Make sure talk proposal is submitted
 - Mon to Friday (Final team project presentation, etc finish)
+  - final presentation
+  - Heroku deploy
+  - update README.md with live Link
 - Nanondegree section finish and start working on project
 
   
