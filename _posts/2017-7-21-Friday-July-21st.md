@@ -32,7 +32,7 @@
 - ~~JPL webinar (Friday evening)~~
 - ~~do Project-a-thon (Saturday Morning)~~
 - ~~go to Meeting (Saturday afternoon/ evening)~~
-- Talk for Submittal (Saturday/ Sunday)
+- ~~Talk for Submittal (Saturday/ Sunday)~~
 - Sailing (Sunday..all day :) )
 - Tuesday (interviewing event)
 - Wednesday (SF recruiting event)
@@ -42,6 +42,7 @@
 
 - Make sure talk proposal is submitted
 - Mon to Friday (Final team project presentation, etc finish)
+  - Friday meeting (possibly)
   - final presentation
   - Heroku deploy
   - update README.md with live Link
