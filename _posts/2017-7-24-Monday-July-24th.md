@@ -2,10 +2,13 @@
 
 ## A change of plans
 
-- Firstly, we got our authentication to work! So we can "log in"!
+- Firstly, we got our authentication to work! So we can "log in" to our app!
+  Phew, that took a few days!
   
-- Secondly, I'm not going to DEF CON. My group needs me so I guess I'll
-  have to wait until next year. No biggie..there is always next year! 
+- Secondly, I'm not going to DEF CON. I know..I know..don't cry! 
+  My group needs me... so I guess I'll
+  have to wait until next year. 
+  No biggie..there is always next year! 
   Plus, I can stay for longer.
   
 ## That being said
