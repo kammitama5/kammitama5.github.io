@@ -33,7 +33,7 @@
 - ~~do Project-a-thon (Saturday Morning)~~
 - ~~go to Meeting (Saturday afternoon/ evening)~~
 - ~~Talk for Submittal (Saturday/ Sunday)~~
-- Sailing (Sunday..all day :) )
+- ~~Sailing (Sunday..all day :) )~~
 - Tuesday (interviewing event)
 - Wednesday (SF recruiting event)
 - Saturday/Sunday (DEF CON)
