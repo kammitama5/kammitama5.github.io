@@ -24,19 +24,19 @@
 
 ## The view from our Catalina!
 
-<img src="/images/rendondo_sail/sailboat_001.png" width="300">
+<img src="/images/redondo_sail/sailboat_001.png" width="300">
 
-<img src="/images/rendondo_sail/sailboat_002.png" width="300">
+<img src="/images/redondo_sail/sailboat_002.png" width="300">
 
-<img src="/images/rendondo_sail/sailboat_003.png" width="300">
+<img src="/images/redondo_sail/sailboat_003.png" width="300">
 
 ## Sunny day!
 
-<img src="/images/rendondo_sail/sailboat_004.png" width="300">
+<img src="/images/redondo_sail/sailboat_004.png" width="300">
 
 ## That's Palos Verdes in the Background
 
-<img src="/images/rendondo_sail/sailboat_005.png" width="300">
+<img src="/images/redondo_sail/sailboat_005.png" width="300">
 
 ## Short term this week
 
