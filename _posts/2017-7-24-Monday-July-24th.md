@@ -64,3 +64,8 @@
 - Yeah, sadly I may not get around to that this week, but I'll try..maybe
   near the end of the week, to put in some work on that. 
   However, this week is mostly geared towards my group / team project.
+  
+## Also, I don't know about you..but I didn't hear any plans for sailing...
+
+- Yep, it's true. I probably won't be able to to this weekend. But I'll make up 
+  for it *next* weekend! (hooray!)
