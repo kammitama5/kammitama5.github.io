@@ -21,7 +21,7 @@
   to walk around and pull the mains, etc. 
   
 - This group regularly goes to Catalina, so I may do that sometime soon!
-  (probably in December)
+  (probably in December). They also do Newport beach a lot, and I'm up for that!
   
 ## Pictures from this weekend's Sail
 
