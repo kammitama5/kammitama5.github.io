@@ -73,3 +73,15 @@
 
 - Yep, it's true. I probably won't be able to to this weekend. But I'll make up 
   for it *next* weekend! (hooray!)
+  
+## Katas
+
+- US to CNY(Yuan)
+
+```
+function usdcny(usd) {
+    var change = (usd * 6.75)
+    var changestr = (change.toString() + ' Chinese Yuan')
+    return changestr;
+}
+```
