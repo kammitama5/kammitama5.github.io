@@ -101,3 +101,15 @@ function getRes(myScore) {
     }
 }
 ```
+- Something SpongeBob and below the ocean...
+
+```
+function rockBottom(arr) {
+    var a = arr.split(" ")
+    var b = a.join('PLHHHH')
+    return b
+}
+
+// yes, I could have done it in one
+// using .split().join()
+```
