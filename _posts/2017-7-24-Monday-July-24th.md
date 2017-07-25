@@ -131,3 +131,10 @@ mergeArrays([3,4,9],[1,5,10])
 // should return [1,3,4,5,9,10]
 ```
 
+- Fix me...
+
+```
+function pow(n, p){
+  return Math.pow(n, p)
+}
+```
