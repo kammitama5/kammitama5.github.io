@@ -9,7 +9,7 @@
   My group needs me... so I guess I'll
   have to wait until next year. 
   No biggie..there is always next year! 
-  Plus, I can stay for longer.
+  Plus, I can stay for longer next year.
   
 ## That being said
 
@@ -29,7 +29,11 @@
 
 <img src="/images/redondo_sail/sailboat_001.png" width="300">
 
+## Looking up at the Clew
+
 <img src="/images/redondo_sail/sailboat_002.png" width="300">
+
+## Land Ahoy!
 
 <img src="/images/redondo_sail/sailboat_003.png" width="300">
 
