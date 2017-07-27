@@ -138,3 +138,10 @@ function pow(n, p){
   return Math.pow(n, p)
 }
 ```
+- Int to binary (+ve only)
+
+```
+def int_2_bin(num):
+  a = str(bin(num))
+  return '0' + a[2:]
+```
