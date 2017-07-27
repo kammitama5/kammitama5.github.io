@@ -21,7 +21,7 @@
   as was I. I thought they would be a pain to speak with, having the clout that
   they do, but I was actually *most* impressed by that company. They have a 
   University Programme internally, to get their engineers up to speed, so 
-  took my resume and said he'd look into it to see if they could find something for me.
+  took he my resume and said he'd look into it to see if they could find something for me.
   Honestly, it would be an honour to work for them. 
   
 - There was another great company that was a lot smaller, but they required me to be a
