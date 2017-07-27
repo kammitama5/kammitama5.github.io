@@ -52,6 +52,8 @@
 
 - Twitter is a machine-learning first company. What they accomplish is impressive!!!
 
+- They even started teaching non-engineers some machine-learning basics, which has been successful thus far.
+
 ## Jan Pedersen
 
 - Gave an impressive talk on how they use neural nets to do things like interpolate compressed images.
