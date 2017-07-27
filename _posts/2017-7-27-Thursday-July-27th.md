@@ -114,3 +114,16 @@
 - Also, one that adds nxn matrices. For now, just something simple. Later, I can think about different types and 
   sizes of matrices and different operations, etc. So something that I cna use and that helps me continue to test
   my understanding of matrices.
+  
+## Katas
+
+- return highest in array
+
+```
+def highestNum(nums):
+    try:
+        s = sorted(nums)
+        return s[-1]
+    except:
+        return 0
+```
