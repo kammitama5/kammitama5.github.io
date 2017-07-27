@@ -72,7 +72,7 @@
 - I also asked him if there was any chance in the future of using a language like Haskell, and he again smiled and said
   "We are a Scala shop, but...". I was really impressed by him and everyone at Twitter! They do *very* interesting work!
   
- ## Anton Andryeyev
+## Anton Andryeyev
  
  - I really enjoyed his talk, too! 
  
