@@ -52,6 +52,46 @@
 
 - Twitter is a machine-learning first company. What they accomplish is impressive!!!
 
+## Jan Pedersen
+
+- Gave an impressive talk on how they use neural nets to do things like interpolate compressed images.
+
+- Sometimes the interpolation doesn't get the detail *quite* right, but it's pretty great in terms of the image it produces.
+
+- He spoke about Stochastic Neural Embedding (t-SNE)
+
+- He spoke about the discretization of their input features, and using multi-layer perceptrons
+
+- They use a binning system with a fixed number of bins
+
+- I asked him if they use ffts (Fast Fourier Transforms) and he laughed and smiled and said 
+  "yes, for things like skewed images; we use facial recognition and the fft to correct this". Very interesting!
+  
+- I also asked him if there was any chance in the future of using a language like Haskell, and he again smiled and said
+  "We are a Scala shop, but...". I was really impressed by him and everyone at Twitter! They do *very* interesting work!
+  
+ ## Anton Andryeyev
+ 
+ - I really enjoyed his talk, too! 
+ 
+ - He spoke about Deep Learning on Timelines. Like Pedersen had explained, there was a time in which
+   the news you missed was chronological. Now, they try to use neural nets and deep learning to figure out
+   what is most pertinent to what you'd *like* to read. They do this with their ads, also. 
+  
+ - He also spoke about sparse linear layers in a Timeline ranking case study 
+ 
+ <img src="/images/twitter/twit_008.png" width="300">
+
+ - For them, continuous integration and testing matters. They do a lot of A/B testing. 
+ 
+ - They have a process in which they use:
+   - Pure Research: is there an approach that can solve my problem?
+   - Applied Research: how does your data play with the model. Can it be processed or work?
+   - Production: Everything is A/B testing.
+   
+ - It's really interesting work! I went away with a lot of things to think about, and thinking very highly
+   of their company.
+
 ## Views from Twitter (a beautiful day!)
 
 <img src="/images/twitter/twit_005.png" width="300">
@@ -63,3 +103,12 @@
 ## And the best risotto I've ever had from The Town Hall, a great restaurant!
 
 <img src="/images/twitter/twit_010.png" width="300">
+
+## So...
+
+- On the way home, I was thinking of making an encryption/ decryption of Morse Code mini-Python programme.
+  So once my Coding for Product finishes, I'll work on that.
+  
+- Also, one that adds nxn matrices. For now, just something simple. Later, I can think about different types and 
+  sizes of matrices and different operations, etc. So something that I cna use and that helps me continue to test
+  my understanding of matrices.
