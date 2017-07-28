@@ -113,6 +113,11 @@
   sizes of matrices and different operations, etc. So something that I cna use and that helps me continue to test
   my understanding of matrices.
   
+  
+## Interesting article on Leibniz
+
+- ["Dropping in on Gottfried Leibniz"](http://blog.stephenwolfram.com/2013/05/dropping-in-on-gottfried-leibniz/)
+  
 ## Katas
 
 - return highest in array
