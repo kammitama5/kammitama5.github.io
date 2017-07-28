@@ -87,7 +87,7 @@
  - They have a process in which they use:
    - Pure Research: is there an approach that can solve my problem?
    - Applied Research: how does your data play with the model. Can it be processed or work?
-   - Production: Everything is A/B testing.
+   - Production: Everything is A/B tested.
    
  - It's really interesting work! I went away with a lot of things to think about, and thinking very highly
    of their company.
