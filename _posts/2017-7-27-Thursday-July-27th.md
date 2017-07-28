@@ -38,13 +38,11 @@
   
 ## Here are some of the views coming in to the city!
 
-<img src="/images/twitter/twit_001.png" width="300">
+<img src="/images/twitter/twit_001.png" width="500">
 
-<img src="/images/twitter/twit_002.png" width="300">
+<img src="/images/twitter/twit_002.png" width="500">
 
-<img src="/images/twitter/twit_003.png" width="300">
-
-<img src="/images/twitter/twit_004.png" width="300">
+<img src="/images/twitter/twit_003.png" width="500">
   
 - As for the evening, it was wonderful!
 
