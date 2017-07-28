@@ -80,7 +80,7 @@
   
  - He also spoke about sparse linear layers in a Timeline ranking case study 
  
- <img src="/images/twitter/twit_008.png" width="300">
+ <img src="/images/twitter/twit_008.png" width="500">
 
  - For them, continuous integration and testing matters. They do a lot of A/B testing. 
  
@@ -94,15 +94,15 @@
 
 ## Views from Twitter (a beautiful day!)
 
-<img src="/images/twitter/twit_005.png" width="300">
+<img src="/images/twitter/twit_005.png" width="500">
 
-<img src="/images/twitter/twit_006.png" width="300">
+<img src="/images/twitter/twit_006.png" width="500">
 
-<img src="/images/twitter/twit_007.png" width="300">
+<img src="/images/twitter/twit_007.png" width="500">
 
 ## And the best risotto I've ever had from The Town Hall, a great restaurant!
 
-<img src="/images/twitter/twit_010.png" width="300">
+<img src="/images/twitter/twit_010.png" width="500">
 
 ## So...
 
