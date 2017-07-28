@@ -13,7 +13,7 @@
 - There was one (actually a Big Four company) that really liked me. The guy
   who was interviewing (now a Manager, was an engineer; he said there was *no*
   way someone would go from being a Manager there without some sort of technical
-  background, which I thought was *amazing*!
+  background, which I thought was *amazing*!) was really just a pleasure to speak to.
   
 - The guy said that I sounded *exactly* like all of their engineers, in terms
   of the things I'm interested in, and my passion. Also, what caught his interest
