@@ -100,7 +100,7 @@
 
 <img src="/images/twitter/twit_007.png" width="500">
 
-## And the best risotto I've ever had from The Town Hall, a great restaurant!
+## And the best risotto I've ever had from [Town Hall SF](http://townhallsf.com/), a great restaurant!
 
 <img src="/images/twitter/twit_010.png" width="500">
 
