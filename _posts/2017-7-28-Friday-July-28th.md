@@ -7,6 +7,7 @@ so I was still able to function.
 
 ## Things I completed today
 
+- GHangouts meeting to get our plan of attack together, since we have a limited time to work tomorrow (presenting Sunday)
 - Got Heroku set up
 - Got app deployed (getting Postgresql errors that have to do with database permission; can fix tomorrow)
 - Got Postgresql installed on my Linux laptop (have been working between Desktop and Cloud9 previously)
@@ -28,6 +29,7 @@ so I was still able to function.
 ## Things to be done
 
 - Debug Deployment (not actual deployment, which I think is fine. The error is local (db)
+- I've finished the Presentation and the README.md, but I may also update (if there is time) with install instructions
 - Continue Nanodegree and finish up this chapter (I have about 40 days to do this)
 
 ## Other plans...
