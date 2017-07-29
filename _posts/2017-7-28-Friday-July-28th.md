@@ -38,6 +38,8 @@ so I was still able to function.
   Their facility is in Palo Alto, so I think I'm going to that next week. 
   It's based on [Memory Driven Computing](https://www.youtube.com/watch?v=eSP9euiV4-M)
   
+- There is a great talk where they also talk about [Distributed Mesh Computing](http://searchcio.techtarget.com/blog/TotalCIO/HPs-distributed-mesh-computing-solution-for-the-IoT)
+  
 - I was learning about it, and it's fascinating. Mayyybe a *bit* overhyped, but come on, it's SV, after all :)
 
 ## Oh yeah..Interviews and stuff
