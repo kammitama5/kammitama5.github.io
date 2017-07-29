@@ -8,7 +8,7 @@ so I was still able to function.
 ## Things I completed today
 
 - Got Heroku set up
-- Got app deployed (getting Postgresquel errors that have to do with database permission; can fix tomorrow)
+- Got app deployed (getting Postgresql errors that have to do with database permission; can fix tomorrow)
 - Got Postgresql installed on my Linux laptop (have been working between Desktop and Cloud9 previously)
 - All my other dependencies seem to be fine. That took a bit of debugging, but no worries.
 - Finished a Udacity course on Deploying with Heroku for good measure.
