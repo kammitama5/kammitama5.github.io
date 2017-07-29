@@ -65,6 +65,10 @@ so I was still able to function.
 6.  Long term: Get back into Scala
 7.  Long term: Continue with Haskell
 8.  Long term: Category Theory study
-9.  Long term: Mathematics/ Combinatorics in general
-10. Long term: Get around to that Approximations Algorithms course (I and II) on Coursera.
+9.  Long term: Learn a verification/proof language like Coq
+10. Long term: Try some Idris
+11. Long term: Mathematics / Combinatorics in general
+12. Long term: Get around to that Approximations Algorithms course (I and II) on Coursera.
+
+- Yes, I do realize this is a list for a lifetime...
 
