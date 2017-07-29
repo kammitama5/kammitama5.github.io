@@ -12,6 +12,7 @@ so I was still able to function.
 - Got Postgresql installed on my Linux laptop (have been working between Desktop and Cloud9 previously)
 - All my other dependencies seem to be fine. That took a bit of debugging, but no worries.
 - Finished a Udacity course on Deploying with Heroku for good measure.
+- Watched a video on [Gaussian Sampling from Microsoft Research](https://www.youtube.com/watch?v=aAQHJV573Pw&feature=em-uploademail)
 
 ## Application
 
@@ -33,6 +34,7 @@ so I was still able to function.
 
 - Yeap..you know me. So I got an invite to go to HP to see a new computer they're working on.
   Their facility is in Palo Alto, so I think I'm going to that next week. 
+  It's based on [Memory Driven Computing](https://www.youtube.com/watch?v=eSP9euiV4-M)
   
 - I was learning about it, and it's fascinating. Mayyybe a *bit* overhyped, but come on, it's SV, after all :)
 
