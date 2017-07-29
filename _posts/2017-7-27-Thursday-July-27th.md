@@ -110,7 +110,7 @@
   So once my Coding for Product finishes, I'll work on that.
   
 - Also, one that adds nxn matrices. For now, just something simple. Later, I can think about different types and 
-  sizes of matrices and different operations, etc. So something that I cna use and that helps me continue to test
+  sizes of matrices and different operations, etc. So something that I can use and that helps me continue to test
   my understanding of matrices.
   
   
