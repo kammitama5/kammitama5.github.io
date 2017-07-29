@@ -55,13 +55,14 @@ so I was still able to function.
   
 ## Things to do after Coding for Product workshop is done
 
-1. Immediately: Finish Nanodegree chapter
-2. Immediately: Work on Encryption/ Decryption Morse Code project (repo is up!)
-3. Long term: OpenGL C++ work
-4. Long term: Compiler (Python)
-5. Long term: Compiler (C++)
-6. Long term: Get back into Scala
-7. Long term: Continue with Haskell
-8. Long term: Category Theory study
-9. Long term: Mathematics/ Combinatorics in general
+1.  Immediately: Finish Nanodegree chapter
+2.  Immediately: Work on Encryption/ Decryption Morse Code project (repo is up!)
+3.  Long term: OpenGL C++ work
+4.  Long term: Compiler (Python)
+5.  Long term: Compiler (C++)
+6.  Long term: Get back into Scala
+7.  Long term: Continue with Haskell
+8.  Long term: Category Theory study
+9.  Long term: Mathematics/ Combinatorics in general
+10. Long term: Get around to that Approximations Algorithms course (I and II) on Coursera.
 
