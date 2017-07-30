@@ -108,4 +108,17 @@ def draw_square(size):
     print d
     return d
 ```
+- square root
+
+```
+def square_root_me(sqrt):
+    a = sqrt 
+    arr = []
+    for i in range(1, a):
+      if (i * i == a):
+        arr.append(i)
+        break;
+    
+    return arr[0]
+```
 
