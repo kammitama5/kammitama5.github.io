@@ -74,3 +74,38 @@ so I was still able to function.
 
 - Yes, I do realize this is a list for a lifetime...
 
+## Katas
+
+- Draw a box eg. 
+
+```
+draw_square(5)
+
+#####
+#   #
+#   #
+#   #
+#####
+
+draw(4)
+
+####
+#  #
+#  #
+####
+
+```
+
+Solution 
+
+```
+def draw_square(size):
+    a = size * "#" + "\n"
+    b = ("#" + ((size - 2) * " ") + "#") + "\n"
+    
+    c = size * "#"
+    d = a + (b * (size - 2)) + c
+    print d
+    return d
+```
+
