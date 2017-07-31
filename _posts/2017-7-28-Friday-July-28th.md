@@ -149,3 +149,12 @@ function lettersToNumbers(s) {
     return(total)
 }
 ```
+- remove all lowercase as
+
+```
+function removeA(str) {
+
+return str.replace(/['a']/g, '');
+
+}
+```
