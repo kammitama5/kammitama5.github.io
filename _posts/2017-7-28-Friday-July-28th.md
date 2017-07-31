@@ -158,3 +158,11 @@ return str.replace(/['a']/g, '');
 
 }
 ```
+- I think this one is broken, but oh well...
+  this was my solution.
+
+```
+function golfScore(par, strokes) {
+  return par, strokes
+}
+```
