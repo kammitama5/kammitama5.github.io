@@ -166,3 +166,16 @@ function golfScore(par, strokes) {
   return par, strokes
 }
 ```
+- Get integers between numbers given
+
+```
+function range(startNum, endNum)   
+{  
+ var arr = []
+ for (var i = startNum+1; i < endNum; i++)
+ {
+   arr.push(i)
+ }
+ return arr
+};  
+```
