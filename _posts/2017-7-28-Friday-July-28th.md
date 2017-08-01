@@ -57,6 +57,12 @@ so I was still able to function.
   Wednesday, as I have class then until around December, but other than that, I should be all good
   to attend! I think it would make me a better engineer. And, it's just interesting!
   
+  
+## Fun!
+- [The most bizarre thing written in TeX](http://sdh33b.blogspot.dk/2008/07/icfp-contest-2008.html).
+  He wrote a controller for the Mars Rover in TeX (and he says "as opposed to C++ or Haskell, which I find funny..haha..
+  he's one of us!" *evil laugh*
+
 ## Things to do after Coding for Product workshop is done
 
 1.  Immediately: Finish Nanodegree chapter
