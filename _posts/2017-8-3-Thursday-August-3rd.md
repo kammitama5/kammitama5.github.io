@@ -7,6 +7,9 @@
   
 <img src="/images/hpe/hpe_001.png" width="500">
 
+- The Trip up was surprisingly drama-free. I tried a different service and it was quite nicer, with internet that worked.
+  I think I'll do that again next time.
+
 ## Hung out a bit...
 
 - I went up to a Starbucks in Palo Alto and randomly met a CS professor
