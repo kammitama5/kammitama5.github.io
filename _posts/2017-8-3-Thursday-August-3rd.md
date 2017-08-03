@@ -108,11 +108,11 @@
   I'm happy I attended, and I even saw Ken, my Xoogler friend! 
   I also met some really nice robotics people.
   
-- The Lobby
+## The Lobby
 
 <img src="/images/hpe/hpe_014.png" width="500">
 
 
-- The View
+## The View
 
 <img src="/images/hpe/hpe_015.png" width="500">
