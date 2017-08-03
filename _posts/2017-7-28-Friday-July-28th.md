@@ -206,3 +206,15 @@ function isInArray(value, array) {
     }
 }
 ```
+
+- Find the Integral
+  so (3, 2) would give "1x^3"
+  because 2+1 = 3 and 3 / 3 = 1
+  
+```
+function integrate(coefficient, exponent) {
+  var b = exponent + 1.0
+  var a = ((coefficient) * 1.0) / b
+  return a.toString() + 'x^' + b.toString()
+}
+```
