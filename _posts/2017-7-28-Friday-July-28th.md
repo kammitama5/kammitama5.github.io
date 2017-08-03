@@ -218,3 +218,7 @@ function integrate(coefficient, exponent) {
   return a.toString() + 'x^' + b.toString()
 }
 ```
+
+## Update
+
+- We completed our app, deployed it, I got my Certificate of completion, swag, career contacts, etc.
