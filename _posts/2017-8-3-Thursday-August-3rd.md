@@ -49,6 +49,10 @@
   There is no need for serializing and deserializing data. 
   For example, in Java, no usage of "new".
   
+- Susan also said that clearing the cache or turning off will not 
+  solve a problem as it would today, because of the persistence of memory.
+  That's an interesting problem / challenge.
+  
 ## Example using Managed (garbage collection) vs unmanaged (C++).
 
 - Uses data structure called MPGC (GC is garbage collection)
