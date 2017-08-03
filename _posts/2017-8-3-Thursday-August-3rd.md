@@ -87,6 +87,9 @@
 
 <img src="/images/hpe/hpe_011.png" width="500">
 
+## The big boxes are FPGAs, which were used for protoyping...
+
+- They will be replaced with ASIC
 
 <img src="/images/hpe/hpe_012.png" width="500">
 
