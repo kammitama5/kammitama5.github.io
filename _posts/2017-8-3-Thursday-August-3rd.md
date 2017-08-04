@@ -152,3 +152,26 @@ def task(w,n,c):
         you must spray {} trees and you need {} dollars
         to buy liquid'.format(w, n, d)
 ```
+
+- Spongebob alternate case one
+
+```
+function spongeMeme(sentence) {
+  var arr = []
+  // push lower and upper case correction to arr
+  for (var i = 0; i < sentence.length; i++)
+  {
+    if (i % 2 == 0)
+    {
+      arr.push(sentence[i].toUpperCase()) 
+    }
+    else{
+      arr.push(sentence[i].toLowerCase())
+    }  
+  }
+  // join arr to string
+  var pete = arr.join('')
+  return(pete)   
+}
+```
+
