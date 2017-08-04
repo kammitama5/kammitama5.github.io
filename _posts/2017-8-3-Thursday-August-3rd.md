@@ -174,4 +174,21 @@ function spongeMeme(sentence) {
   return(pete)   
 }
 ```
+- return highest num in arr
+  and throw err if arr.length is 0
 
+```
+function highestNumb(arr) {
+  if (arr.length == 0){
+    return one;
+  }
+  arr = arr.sort(function (a, b) {  return a - b;  });
+  var a = arr.length - 1
+  if ((arr.length == 0) || (arr == [])){
+    return 1/0
+    }
+  else{
+  return arr[a]
+  }
+}
+```
