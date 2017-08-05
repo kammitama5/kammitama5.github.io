@@ -15,7 +15,7 @@
   You ask some really smart questions!"
   
 - Another company flat out wanted to bring me on board. 
-  I had some something and they said "woah woah woah..hold on...
+  I had said some something and they said "woah woah woah..hold on...
   can we bring our head of Engineering over to talk to you?".
   At the end, the guy actually gave me a hug. Also, we have 
   quite a lot in common, and even contacts in common! So we'll see.
