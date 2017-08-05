@@ -49,13 +49,15 @@
   
 ## I need to learn Scala
 
-- Yes, that's what I need to do
+- Finish your Udacity course and if you do another one,
+  do Data Analysis or something like that. No web dev.
 - I also need to do a Tensorflow project
 - The Cloud training is / was worthwhile (that stuff is ok)
-- The C++ stuff is OK
+- The C++ stuff is OK (keep it up if you can)
 - The FP / Category stuff is OK
 - Algorithmic stuff is OK
 - Proof theorem stuff (like Coq) is OK
+- Anything that strengthens your stats knowledge is OK
 
 ## Conclusion
 
