@@ -2,7 +2,7 @@
 
 - I attended Big Data Day briefly today.
   I'm still sick with the flu, so I was unable to stay too long.
-  I left a little at minutes to 2pm. I was feeling light-headed.
+  I left a little before 2pm. I was feeling light-headed.
   
 - I did get a smoothie and some soup on the way home, along with
   an acai-bowl. So that helps. Now, I'm resting.
