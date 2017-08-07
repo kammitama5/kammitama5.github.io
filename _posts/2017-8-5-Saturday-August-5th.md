@@ -68,7 +68,8 @@
 
 ## Questions
 - What are problems with Deep Learning eg. Vanishing Gradient
- - What are solutions?
+- What are solutions?
+- More about Gaussian, GlorotUniform,Xavier and Kaiming Initialization
 
 ## Conclusion
 
