@@ -66,6 +66,10 @@
 - See if you can learn a little CUDA (to understand how low-level vs abstraction works)
 - Learn PyTorch
 
+## Questions
+- What are problems with Deep Learning eg. Vanishing Gradient
+ - What are solutions?
+
 ## Conclusion
 
 - You're on a good path, and you should trust your instincts.
