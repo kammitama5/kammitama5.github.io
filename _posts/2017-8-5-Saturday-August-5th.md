@@ -64,6 +64,7 @@
 - Look at Nervana (Intel)
 - Look at Neo4j
 - See if you can learn a little CUDA (to understand how low-level vs abstraction works)
+- Learn PyTorch
 
 ## Conclusion
 
