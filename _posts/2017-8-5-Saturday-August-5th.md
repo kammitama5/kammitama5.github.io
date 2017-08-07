@@ -59,6 +59,12 @@
 - Proof theorem stuff (like Coq) is OK
 - Anything that strengthens your stats knowledge is OK
 
+## Also 
+- Don't just look at Tensorflow
+- Look at Nervana (Intel)
+- Look at Neo4j
+- See if you can learn a little CUDA (to understand how low-level vs abstraction works)
+
 ## Conclusion
 
 - You're on a good path, and you should trust your instincts.
