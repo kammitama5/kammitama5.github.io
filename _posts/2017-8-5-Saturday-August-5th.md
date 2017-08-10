@@ -338,3 +338,13 @@ function first(arr, n) {
   return(arr1)
 }
 ```
+
+- Random Hackerrank challenge I solved.
+  Use Numpy to make an array a float and reverse it.
+
+```
+def arrays(arr):
+    # complete this function
+    # use numpy.array 
+    return numpy.array(arr, float)[::-1]
+```
