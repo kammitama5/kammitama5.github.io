@@ -364,3 +364,23 @@ function presents(a){
   return arr
 }
 ```
+- Or logic..evaluate. You can have between 0 and 6 variables.
+  If there are 0 variables return None. Solved by giving
+  False 0 and True 1. If total > 0 eval == True else False.
+
+```
+def alt_or(lst):
+    total = 0
+    if len(lst) == 0:
+        return None
+    else:
+        for i in lst:
+            if i == False:
+                total = total + 0
+            elif i == True:
+                total = total + 1 
+    if total > 0:
+        return True
+    else:
+        return False
+```
