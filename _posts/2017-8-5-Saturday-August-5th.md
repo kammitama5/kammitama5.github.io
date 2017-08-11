@@ -348,3 +348,19 @@ def arrays(arr):
     # use numpy.array 
     return numpy.array(arr, float)[::-1]
 ```
+
+- Find the position (starting at 1) of each number (starting at 1)
+
+```
+function presents(a){
+  var arr = []
+  // find the length (wasn't necessary)
+  var len = a.length
+  for (var i = 0; i < a.length; i++)
+  {
+  // find the index and start at 1
+    arr.push(a.indexOf(i+1)+1)
+  }
+  return arr
+}
+```
