@@ -99,3 +99,17 @@ def sum_of_integers_in_string(s):
        total = total + int(i)
    return total
 ```
+
+- limit to number of letters specified by limit, and add ...
+  else return full string
+  
+```
+function solution(string,limit){
+    if (limit < string.length){
+      return (string.slice(0, limit) + "...") 
+    }
+    else{
+      return string
+    }
+}
+```
