@@ -40,6 +40,8 @@
 
 ## Probably doing a test of a new purchase
 
+- The only boat with the sail not up outside of the marina!
+
 <img src="/images/sailme/sailme_005.png" width="500">
 
 <img src="/images/sailme/sailme_006.png" width="500">
