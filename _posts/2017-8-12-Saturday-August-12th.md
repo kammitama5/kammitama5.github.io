@@ -84,3 +84,18 @@
 
 - strictly working on Python stuff for my assignment. Should be 
   done by Thursday, which is still a week before it's due :)
+  
+  
+## Katas
+
+- Find the sum of integers in a string eg "blah20blel20" = 40
+
+```
+def sum_of_integers_in_string(s):
+   import re
+   total = 0
+   g = re.findall(r'\d+', s)
+   for i in g:
+       total = total + int(i)
+   return total
+```
