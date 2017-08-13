@@ -44,7 +44,11 @@
 
 <img src="/images/sailme/sailme_005.png" width="500">
 
+## Before...
+
 <img src="/images/sailme/sailme_006.png" width="500">
+
+## After...
 
 <img src="/images/sailme/sailme_007.png" width="500">
 
