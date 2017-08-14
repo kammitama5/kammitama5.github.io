@@ -123,3 +123,12 @@ def kill_count(counselors, jason):
         arr.append(i[0])
     return arr
 ```
+
+-Strip non-alpha and make lowercase
+
+```
+def borrow(s):
+    import re
+    s = re.sub(r'\W+', '', s)
+    return s.lower()
+```
