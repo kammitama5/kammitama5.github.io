@@ -150,3 +150,20 @@ function flipper(stringArr){
   }).join(" ");
 }
 ```
+
+- replace all dots with dashes
+  (I have no idea why I didn't solve this before...)
+
+```
+def replace_dots(str):
+    arr = []
+    for i in str:
+        if i == '.':
+            arr.append('-')
+        else:
+            arr.append(i)
+    
+    b = ('').join(arr)
+    
+    return b        
+```
