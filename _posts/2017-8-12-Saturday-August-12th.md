@@ -132,3 +132,21 @@ def borrow(s):
     s = re.sub(r'\W+', '', s)
     return s.lower()
 ```
+
+- This one, I needed some help with. Map function.
+  Reverse list and capitalize last letter unless it's 
+  one letter long. There was no Python option for this one,
+  so...
+  
+```
+function flipper(stringArr){
+    return stringArr.reverse().map(function(item) {
+    if (item.length == 1){
+      return item
+    }
+    else
+   
+    return item.slice(0, item.length-1).toLowerCase()+ item.charAt(item.length-1).toUpperCase() 
+  }).join(" ");
+}
+```
