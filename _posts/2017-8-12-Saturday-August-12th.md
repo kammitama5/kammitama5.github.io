@@ -57,7 +57,7 @@
 - It was a beautiful sail. Earlier in the day,
   a sea lion came right up to our slip! 
   He dipped his big head up and then disappeared
-  below the dock. He was a bit one, too! 
+  below the dock. He was a big one, too! 
   Didn't get my camera out quickly enough, though!
 
 <img src="/images/sailme/sailme_008.png" width="500">
