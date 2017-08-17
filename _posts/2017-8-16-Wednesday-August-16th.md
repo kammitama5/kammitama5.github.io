@@ -27,6 +27,7 @@
 
 - It's Freddy!!! Wut? Yes, the lovable dog at Googs!
   If you ever see him, be sure to say hi!
+  He was so happy to see me, he licked my face! :)
   
 <img src="/images/cloudla/cloudla_005.png" width="500">
 
