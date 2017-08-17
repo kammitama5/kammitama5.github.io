@@ -54,7 +54,8 @@
 
 ## Also, Scaling using App Engine. 
 
-- Anthony's application where we logged on and watched it scale dynamically.
+- Anthony's application where we logged on and watched it scale dynamically,
+  as we hit the server. This happened in a space of a few seconds.
   
 <img src="/images/cloudla/cloudla_011.png" width="500">
 
