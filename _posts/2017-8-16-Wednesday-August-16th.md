@@ -82,3 +82,18 @@
 - Pretty much finish up my game and submit. I'm almost there.
   One more function and test test test. Submit, clean up any things
   they desire, etc. Hard deadline is next Thursday.
+  
+## Katas
+
+- If number is odd, return num, else return 2 * num
+
+```
+function pocketMoney(number){
+  if (number % 2 == 0){
+    return 2 * number
+  }
+  else{
+    return number
+  }
+}
+```
