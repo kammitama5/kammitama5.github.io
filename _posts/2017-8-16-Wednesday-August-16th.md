@@ -113,3 +113,25 @@ def sum_no_duplicates(l):
       total = total + i 
     return total
 ```
+
+- Take all lowercase vowels in a string and uppercase them
+
+```
+def swap(st):
+    arr = []
+    s = list(st)
+    for i in s:
+      if i == 'a':
+        arr.append('A')
+      elif i == 'e':
+        arr.append('E')
+      elif i == 'i':
+        arr.append('I')
+      elif i == 'o':
+        arr.append('O')
+      elif i == 'u':
+        arr.append('U')
+      else:
+        arr.append(i)
+    return ''.join(arr)
+```
