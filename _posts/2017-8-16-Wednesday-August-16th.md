@@ -141,6 +141,8 @@ def swap(st):
   Also, randomly, it was available in C sharp, Java,
   and Python, and by the time I passed the kata,
   it was only available to be solved in Java and C sharp :)
+  Even stranger is that it says I solved it in Java.
+  This is not Java...
   
 ```
 def round_to_2_decimal_places(n):
