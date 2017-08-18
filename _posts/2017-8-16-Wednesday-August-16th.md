@@ -135,3 +135,16 @@ def swap(st):
         arr.append(i)
     return ''.join(arr)
 ```
+- Round result to two places.
+  Actually was failing one input, but
+  when I refreshed the random cases, it passed.
+  Also, randomly, it was available in C sharp, Java,
+  and Python, and by the time I passed the kata,
+  it was only available to be solved in Java and C sharp :)
+  
+```
+def round_to_2_decimal_places(n):
+    from decimal import Decimal
+    return float(round(Decimal(n), 2))
+```
+
