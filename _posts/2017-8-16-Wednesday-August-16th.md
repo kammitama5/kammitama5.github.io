@@ -158,4 +158,20 @@ def reverse_sentence(sentence):
     b = a[::-1]
     return ' '.join(b)
 ```
+- Hamming Distance (binary).
+  Say you have a string '110' and another '101'.
+  The changes if you walked from the first digit
+  to the last of each when compared would be
+  2. One to change the second 1 to zero and the third
+  0 to 1 (or vice versa). Devise a formula for this.
+  
+```
+def hamming_distance(a, b):
+    # Your code here
+  total = 0
+  for i, j in zip(a, b):
+                if i != j:
+                        total += 1
+  return total
+```
 
