@@ -46,8 +46,11 @@
 
 <img src="/images/solar/solar_007.png" width="500">
 
+## In the top 500
 
-## Kata solved
+<img src="/images/solar/top500.png" width="500">
+
+## Katas solved
 
 - Smallest value of an array
 
