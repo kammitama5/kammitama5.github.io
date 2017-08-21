@@ -48,7 +48,7 @@
 
 ## In the top 500
 
-<img src="/images/solar/top500.png" width="500">
+<img src="/images/solar/top500.png" width="300">
 
 ## Katas solved
 
