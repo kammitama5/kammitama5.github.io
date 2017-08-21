@@ -10,6 +10,12 @@
 
 <img src="/images/solar/solar.png" width="800">
 
+- I was also recruited by yet another Valley company.
+  It's a student-tier, though, so I apply for a day
+  to meet their peeps and network, etc.
+  But I'm on their radar, and they're a pretty large
+  company that's under the umbrella of a Big Four company.
+
 ## Also...went sailing!
 
 - We made it all the way to Malibu, and saw dolphins!
