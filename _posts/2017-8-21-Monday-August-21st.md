@@ -20,9 +20,9 @@
 
 - Playing with Turtle! 
 
-<img src="/images/solar/turtle_000.png" width="200">
+<img src="/images/solar/turtle_000.png" width="100">
 
-<img src="/images/solar/turtle_001.png" width="200">
+<img src="/images/solar/turtle_001.png" width="100">
 
 - This little programme makes the line violet, and then
   fills the shape in yellow once it's done!
