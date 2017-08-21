@@ -46,6 +46,17 @@
 
 <img src="/images/solar/solar_007.png" width="500">
 
+## Plan for this week
+
+- I'm going through the Nanodegree coursework (on to the next
+  chapter) during the day
+  
+- In the evenings (until my class starts, on August 30th),
+  I'll be teaching myself some [Mathematica](https://www.wolfram.com/mathematica/). 
+  I have a 15-day trial, so that sounds about right, using the online version.
+  Another tool in the toolbox that I think is very useful for what I'm interested in.
+ 
+
 ## In the top 500
 
 <img src="/images/solar/top500.png" width="300">
