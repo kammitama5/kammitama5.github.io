@@ -8,7 +8,7 @@
 
 - Got this response, which was really encouraging!
 
-<img src="/images/solar/solar.png" width="500">
+<img src="/images/solar/solar.png" width="800">
 
 ## Also...went sailing!
 
