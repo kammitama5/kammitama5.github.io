@@ -1,7 +1,7 @@
 ## Solar Eclipse Day
 
 - Today there is a total Solar Eclipse; too bad I'm in California..won't see the entire thing.
-  However, there *is* a livestream, courtesy NASA! My mentor booked his ticket to Ohio
+  However, there *is* a livestream, courtesy NASA! My mentor booked his ticket to Idaho
   about 4 months ago, because well...geek LOL.
   
 ## Finished my third assignment for my Nanodegree
