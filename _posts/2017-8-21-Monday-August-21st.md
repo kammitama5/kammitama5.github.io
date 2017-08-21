@@ -15,6 +15,55 @@
   to meet their peeps and network, etc.
   But I'm on their radar, and they're a pretty large
   company that's under the umbrella of a Big Four company.
+  
+## Moving on...
+
+- Playing with Turtle! 
+
+<img src="/images/solar/turtle_000.png" width="500">
+
+<img src="/images/solar/turtle_001.png" width="500">
+
+- This little programme makes the line violet, and then
+  fills the shape in yellow once it's done!
+  
+- Yes, the turtle's name is "brad".
+  calling ```turtle.Turtle()``` initializes the turtle.
+  
+- The window class is calling the background window and
+  setting this.
+  
+- I've played around with Turtle before, and done a similar
+  experiment in Haskell and Processing. 
+  
+```
+import turtle
+"""
+draw a square in turtle
+"""
+
+def draw_square():
+	window = turtle.Screen()
+	window.bgcolor("green")
+	
+	brad = turtle.Turtle()
+	
+	brad.color("violet", "yellow")
+	brad.begin_fill()
+	
+	brad.forward(100)
+	brad.right(90)
+	brad.forward(100)
+	brad.right(90)
+	brad.forward(100)
+	brad.right(90)
+	brad.forward(100)
+	brad.end_fill()
+
+	window.exitonclick()
+
+draw_square()
+```
 
 ## Also...went sailing!
 
