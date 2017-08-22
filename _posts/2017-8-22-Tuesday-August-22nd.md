@@ -22,7 +22,7 @@
 
 ## Algebra using power and subscripting (very similar to LaTeX)
 
-<img src="/images/mathematica/maths_002.png" width="500">\
+<img src="/images/mathematica/maths_002.png" width="300">\
 
 ## More typesetting
 
@@ -34,7 +34,7 @@
 
 ## One-based indexing
 
-<img src="/images/mathematica/maths_005.png" width="500">
+<img src="/images/mathematica/maths_005.png" width="300">
 
 ## Appending to a list
 
@@ -46,7 +46,7 @@
 
 ##  Substitution
 
-<img src="/images/mathematica/maths_008.png" width="500">
+<img src="/images/mathematica/maths_008.png" width="300">
 
 ## Plotting a function
 
