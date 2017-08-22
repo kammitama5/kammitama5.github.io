@@ -7,6 +7,8 @@
 
 - Here is a great article on who uses [Mathematica](http://www.stephenwolfram.com/publications/academic/who-uses-mathematica.pdf).
 
+- There is also quite an active [Mathematica Stack Exchange](https://mathematica.stackexchange.com/). Do subscribe!
+
 - It's always been something I've been interested in learning a bit of; I can't put my finger on why right now.
 
 - That being said, I did finish a project early, and I only have a 15-day trial, so I thought that this would be perfect timing.
