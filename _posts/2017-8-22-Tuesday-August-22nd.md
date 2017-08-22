@@ -3,6 +3,13 @@
 - In the midst of my Nanodegree and before my C++ class continues,
   I thought that I should use a 15-day trial of Mathematica.
   
+## Wait..*what* is Mathematica?
+
+- It's a tool used for numerical computation, data visualization, primarily used by mathematicians, scientists and engineers.
+  It is known for its precision and was invented by [Stephen Wolfram](https://en.wikipedia.org/wiki/Stephen_Wolfram).
+  
+- Here is the [wiki](https://en.wikipedia.org/wiki/Wolfram_Mathematica)
+  
 ## But why? 
 
 - Here is a great article on who uses [Mathematica](http://www.stephenwolfram.com/publications/academic/who-uses-mathematica.pdf).
