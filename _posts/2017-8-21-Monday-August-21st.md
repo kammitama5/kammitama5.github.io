@@ -65,6 +65,13 @@ def draw_square():
 draw_square()
 ```
 
+## I also sent my first Twilio message!
+
+- Awesome stuff! If I had gone a day earlier 
+  to BayHac, I would have gotten to visit their offices; 
+  a friend (from our Haskell group) works there!
+  Now I understand a bit of what he does! Ah..so cool!
+
 ## Also...went sailing!
 
 - We made it all the way to Malibu, and saw dolphins!
