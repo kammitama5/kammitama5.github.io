@@ -93,7 +93,8 @@ Alt + 7 -> type words (not mathematical commands)
 Shift + Enter -> Evaluate
 Alt + . -> Abort Computation
 
-a2 = N[2, 20] -> 2 means 2 is numerical and 20 is accuracy (ie 20 decimals)
+a2 = N[2, 20] -> 2 means 2 is numerical
+and 20 is accuracy (ie 20 decimals)
 
 ------------------------------
 
