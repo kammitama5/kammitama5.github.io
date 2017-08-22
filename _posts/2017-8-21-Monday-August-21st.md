@@ -248,3 +248,26 @@ function pizzaPrice(diameter, price) {
   
 }
 ```
+- strip whitespace and compare string A and B.
+ If A and B are equal after sorting (anagram), return true.
+
+```
+function isAnagram(stringOne, stringTwo) {
+    if ((stringOne == "") && (stringTwo == "")){
+      return true
+    }
+    else{
+    var a = stringOne.toLowerCase().replace(/ /g,'')
+    var b = stringTwo.toLowerCase().replace(/ /g,'')
+    var c = a.split('').sort().join('')
+    var d = b.split('').sort().join('')
+    if (c == d){
+      return true
+    }
+    else{
+      return false
+    }
+    }
+    return
+}
+```
