@@ -72,7 +72,7 @@ draw_square()
   a friend (from our Haskell group) works there!
   Now I understand a bit of what he does! Ah..so cool!
 
-<img src="/images/solar/twilio.png" width="300">
+<img src="/images/solar/twilio.png" width="200">
 
 - Yes, I have a flip-phone :(
   It says "My name is Krystal. Woot!"
