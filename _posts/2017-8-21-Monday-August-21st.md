@@ -288,3 +288,12 @@ def summy(String):
             total = total + int(i) 
         return total
 ```
+- replace every instance or conjugated version of 'meep' (lowercase or uppercase) with 'beep'
+
+```
+function meepOut(quote) {
+    quote = quote.replace(/meep/g, "beep")
+    quote = quote.replace(/Meep/g, "Beep")
+    return quote
+}
+```
