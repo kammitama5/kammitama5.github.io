@@ -3,6 +3,16 @@
 - In the midst of my Nanodegree and before my C++ class continues,
   I thought that I should use a 15-day trial of Mathematica.
   
+## But why? 
+
+- Here is a great article on who uses [Mathematica](http://www.stephenwolfram.com/publications/academic/who-uses-mathematica.pdf).
+
+- It's always been something I've been interested in learning a bit of; I can't put my finger on why right now.
+
+- That being said, I did finish a project early, and I only have a 15-day trial, so I thought that this would be perfect timing.
+
+## So...
+  
 - My beginnings were from this [tutorial](https://www.youtube.com/watch?v=Dha9O1XN_f0&feature=em-share_video_in_list_user&list=PLdr5XE6u9kEpS95yKoZwl6kidiFaLnU5s)
   
 - I liked it so much, I bought a book on it, and plan on continuing, taking
@@ -89,4 +99,12 @@ Plot[function, {x, value, value}, PlotRange->{range1, range2}, PlotStyle->{Thick
 Two figures overlapping -> Show[Figure1, Figure2]
 
 ```
+
+## Things to do
+
+- Continue with Nanodegree (finish up lessons and get to Project by end of this week..hopefully)
+- Finish Application (probably will be done by Wednesday)
+- Continue with Mathematica tutorials and experimentation (when you obtain book, read and work through)
+
+
 
