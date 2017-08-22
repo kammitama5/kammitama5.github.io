@@ -104,7 +104,9 @@ Length[Listname] -> gives length of list
 Plotting 
 ---------
 functiontoplot = x + 5 
-Plot[function, {x, value, value}, PlotRange->{range1, range2}, PlotStyle->{Thick,Color}]
+Plot[function, {x, value, value}, PlotRange->
+{range1, range2}, PlotStyle->{Thick,Color}]
+
 Two figures overlapping -> Show[Figure1, Figure2]
 
 ```
