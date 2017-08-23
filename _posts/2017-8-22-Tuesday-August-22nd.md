@@ -62,6 +62,8 @@
 
 ## More typesetting
 
+- Whoops, I forgot a bracket!
+
 <img src="/images/mathematica/maths_003.png" width="500">
 
 ## Precision in calculations (this is with 30 digits of precision)
