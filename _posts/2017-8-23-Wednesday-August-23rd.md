@@ -29,7 +29,7 @@
 
 ## Solving simultaneous equations 
 
-<img src="/images/maths1/maths_105.png" width="500">
+<img src="/images/maths1/maths_105.png" width="700">
 
 ## Using graphs to help solve equations
 
@@ -63,7 +63,7 @@
 - You can create Tables, which are a sequence of k for each 
   value along a sequence of a function
   
-<img src="/images/maths1/maths_110.png" width="500">
+<img src="/images/maths1/maths_110.png" width="700">
   
 - I have some questions about Tables. I don't quite fully understand them.
 
