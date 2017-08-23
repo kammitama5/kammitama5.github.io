@@ -3,6 +3,20 @@
 - In the midst of my Nanodegree and before my C++ class continues,
   I thought that I should use a 15-day trial of Mathematica.
   
+## Nanodegree
+
+- We're doing fun stuff like this in Python!
+
+## A movie site that shows images of movies you like, and gives descriptions
+
+<img src="/images/mathematica/movie.png" width="200">
+
+## Click on the image and it will play the trailer!
+
+<img src="/images/mathematica/movie1.png" width="200">
+
+- Learning about classes and objects, and how to instantiate so that they call on different objects.
+  
 ## Wait..*what* is Mathematica?
 
 - It's a tool used for numerical computation, data visualization, primarily used by mathematicians, scientists and engineers.
