@@ -5,6 +5,10 @@
 - So far, so good. A gentleman from their company even got in touch with me about how they could
   give me the best experience during my trial, which I thought was really great.
   
+## Functional Programming in Mathematica
+
+- Yes, there is an [entire section](http://reference.wolfram.com/language/guide/FunctionalProgramming.html) in the documentation on that
+  
 ## Solving algebraic problems in Mathematica
 
 - It of course does imaginary numbers 
