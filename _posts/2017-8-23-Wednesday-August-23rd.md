@@ -25,7 +25,7 @@
 
 <img src="/images/maths1/maths_103.png" width="500">
 
-<img src="/images/maths1/maths_104.png" width="500">
+<img src="/images/maths1/maths_104.png" width="300">
 
 ## Solving simultaneous equations 
 
@@ -54,6 +54,9 @@
 - Append this new and updated value of k to the second list
   for a specific number of iterations (start, stop)
 - Print filtered second list 
+
+- There are even functions that are built in, like GCD of the returned list,
+  or if there are prime numbers in there, etc. Very interesting!
 
 ## Tables
 
