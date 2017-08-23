@@ -137,5 +137,32 @@ Two figures overlapping -> Show[Figure1, Figure2]
 - Finish Application (probably will be done by Wednesday)
 - Continue with Mathematica tutorials and experimentation (when you obtain book, read and work through)
 
+## Kata
+
+- Create a pattern that looks like
+
+```
+1
+22
+333
+4444
+55555
+```
+
+- My solution
+
+```
+def pattern(n):
+    arr = ""
+    if n < 1:
+      return ""
+    elif n == 1:
+      return "1"
+    else:
+      for i in range(2, n+1):
+        arr =  arr + "\n" + str(i) * (i)
+    return "1" + arr
+```
+
 
 
