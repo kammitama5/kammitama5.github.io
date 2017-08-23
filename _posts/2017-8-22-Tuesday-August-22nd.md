@@ -1,7 +1,6 @@
 ## Mathematica and Python Nanodegree cont'd...
 
-## Updates...
-  
+
 ## Nanodegree
 
 - We're doing fun stuff like this in Python!
