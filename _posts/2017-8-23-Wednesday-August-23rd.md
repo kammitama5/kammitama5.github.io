@@ -9,7 +9,7 @@
 
 - It of course does imaginary numbers 
 
-<img src="/images/maths1/maths_100.png" width="700">
+<img src="/images/maths1/maths_100.png" width="900">
 
 - Note the ```==```, because ```=``` is for assignment
 
