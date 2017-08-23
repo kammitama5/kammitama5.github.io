@@ -9,13 +9,13 @@
 
 - It of course does imaginary numbers 
 
-<img src="/images/maths1/maths_100.png" width="300">
+<img src="/images/maths1/maths_100.png" width="500">
 
 - Note the ```==```, because ```=``` is for assignment
 
-<img src="/images/maths1/maths_101.png" width="300">
+<img src="/images/maths1/maths_101.png" width="500">
 
-<img src="/images/maths1/maths_102.png" width="300">
+<img src="/images/maths1/maths_102.png" width="500">
 
 ## Use Simplify or Expand
 
@@ -23,23 +23,23 @@
 
 - Bear in mind, it's finding any given number of solutions, not just one.
 
-<img src="/images/maths1/maths_103.png" width="300">
+<img src="/images/maths1/maths_103.png" width="500">
 
-<img src="/images/maths1/maths_104.png" width="300">
+<img src="/images/maths1/maths_104.png" width="500">
 
 ## Solving simultaneous equations 
 
-<img src="/images/maths1/maths_105.png" width="300">
+<img src="/images/maths1/maths_105.png" width="500">
 
 ## Using graphs to help solve equations
 
-<img src="/images/maths1/maths_106.png" width="300">
+<img src="/images/maths1/maths_106.png" width="500">
 
-<img src="/images/maths1/maths_107.png" width="300">
+<img src="/images/maths1/maths_107.png" width="500">
 
 ## Based on your criteria, you can narrow the range, or ask for a specific solution
 
-<img src="/images/maths1/maths_108.png" width="300">
+<img src="/images/maths1/maths_108.png" width="500">
 
 ## While loops
 
@@ -60,7 +60,7 @@
 - You can create Tables, which are a sequence of k for each 
   value along a sequence of a function
   
-<img src="/images/maths1/maths_110.png" width="300">
+<img src="/images/maths1/maths_110.png" width="500">
   
 - I have some questions about Tables. I don't quite fully understand them.
 
