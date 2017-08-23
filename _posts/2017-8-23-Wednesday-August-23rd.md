@@ -5,6 +5,7 @@
 - So far, so good. A gentleman from their company even got in touch with me about how they could
   give me the best experience during my trial, which I thought was really great.
   
+  
 ## Functional Programming in Mathematica
 
 - Yes, there is an [entire section](http://reference.wolfram.com/language/guide/FunctionalProgramming.html) in the documentation on that
@@ -80,3 +81,7 @@
 - Continue two last chunks of Mathematica (you only have 13 days left)
 - Do Nanodegree project (due Sept 22nd)
 - Do application (Sunday)
+
+## Other
+
+- Learned about [Hinton Diagrams](http://scipy.github.io/old-wiki/pages/Cookbook/Matplotlib/HintonDiagrams)
