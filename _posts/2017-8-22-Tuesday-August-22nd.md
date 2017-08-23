@@ -1,7 +1,6 @@
-## Teaching myself Mathematica
+## Mathematica and Python Nanodegree cont'd
 
-- In the midst of my Nanodegree and before my C++ class continues,
-  I thought that I should use a 15-day trial of Mathematica.
+## Updates...
   
 ## Nanodegree
 
@@ -16,6 +15,11 @@
 <img src="/images/mathematica/movie1.png" width="200">
 
 - Learning about classes and objects, and how to instantiate so that they call on different objects.
+
+## Teaching myself Mathematica
+
+- In the midst of my Nanodegree and before my C++ class continues,
+  I thought that I should use a 15-day trial of Mathematica.
   
 ## Wait..*what* is Mathematica?
 
