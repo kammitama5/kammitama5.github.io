@@ -13,7 +13,7 @@
 
 - Note the ```==```, because ```=``` is for assignment
 
-<img src="/images/maths1/maths_101.png" width="700">
+<img src="/images/maths1/maths_101.png" width="900">
 
 <img src="/images/maths1/maths_102.png" width="500">
 
@@ -23,13 +23,13 @@
 
 - Bear in mind, it's finding any given number of solutions, not just one.
 
-<img src="/images/maths1/maths_103.png" width="700">
+<img src="/images/maths1/maths_103.png" width="900">
 
 <img src="/images/maths1/maths_104.png" width="500">
 
 ## Solving simultaneous equations 
 
-<img src="/images/maths1/maths_105.png" width="700">
+<img src="/images/maths1/maths_105.png" width="900">
 
 ## Using graphs to help solve equations
 
