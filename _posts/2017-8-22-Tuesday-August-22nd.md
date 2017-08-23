@@ -137,7 +137,7 @@ Two figures overlapping -> Show[Figure1, Figure2]
 - Finish Application (probably will be done by Wednesday)
 - Continue with Mathematica tutorials and experimentation (when you obtain book, read and work through)
 
-## Kata
+## Katas
 
 - Create a pattern that looks like
 
@@ -164,5 +164,28 @@ def pattern(n):
     return "1" + arr
 ```
 
+- Find first non-consecutive number 
+
+```
+def first_non_consecutive(arr):
+    arr1 = []
+    arr2 = []
+    a = arr[0]
+    b = arr[-1]
+    
+    # find full list with no elements left out
+    for i in range(a, b+1):
+      arr1.append(i)
+      
+    # find list difference between two lists
+    d = list(set(arr1) - set(arr))
+    e = sorted(d)
+    # value is one more than the difference
+    try:
+      return e[0]+1
+      # catch values where the lists are the same
+    except:
+      return None
+```
 
 
