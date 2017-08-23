@@ -23,9 +23,9 @@
 
 - Bear in mind, it's finding any given number of solutions, not just one.
 
-<img src="/images/maths1/maths_103.png" width="500">
+<img src="/images/maths1/maths_103.png" width="700">
 
-<img src="/images/maths1/maths_104.png" width="300">
+<img src="/images/maths1/maths_104.png" width="500">
 
 ## Solving simultaneous equations 
 
