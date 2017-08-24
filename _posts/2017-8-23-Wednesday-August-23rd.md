@@ -6,10 +6,17 @@
   give me the best experience during my trial, which I thought was really great.
   
   
+  
 ## Functional Programming in Mathematica
 
 - Yes, there is an [entire section](http://reference.wolfram.com/language/guide/FunctionalProgramming.html) in the documentation on that
   
+## As it turns out
+
+- It has Drop and Take and Map functions!
+
+- Also, check out this rad post about [Monads in Mathematica!(https://mathematica.stackexchange.com/questions/3479/does-every-symbol-in-mathematica-induce-a-monad) from Mathematica Stack Exchange.
+
 ## Solving algebraic problems in Mathematica
 
 - It of course does imaginary numbers 
