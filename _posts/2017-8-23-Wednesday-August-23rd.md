@@ -17,6 +17,17 @@
 
 - Also, check out this rad post about [Monads in Mathematica!(https://mathematica.stackexchange.com/questions/3479/does-every-symbol-in-mathematica-induce-a-monad) from Mathematica Stack Exchange.
 
+## This wonderful lecture by Richard Southwell
+
+- Called Mathematica for beginners goes through basic functions, *and*
+  he even uses Adjacency Graphs, which tie into things like Directed Graphs in Graph Theory.
+  
+- It's fascinating to see how the matrix directly translates into a graph.
+
+- See the entire lesson [here](https://www.youtube.com/watch?v=Zp1EV7ytSnA).
+
+- You can read about Adjacency Matrices [here](https://en.wikipedia.org/wiki/Adjacency_matrix)
+
 ## Solving algebraic problems in Mathematica
 
 - It of course does imaginary numbers 
