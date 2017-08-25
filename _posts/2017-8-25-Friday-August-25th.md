@@ -27,7 +27,7 @@
 
 - Io as a moon looks quite different from our own Moon! 
 
-- Didn't know much about Miranda before.
+- Didn't know much about [Miranda](https://en.wikipedia.org/wiki/Miranda_(moon)) before.
 
 - The Solar cycle is every 11 years; the poles of the Sun change then, 
   so the poles point North again (do a 360) in 22 years or so.
@@ -38,10 +38,12 @@
   
 - There is a boundary of interstellar space that the scientists had to listen
   out for. There was some debate over when this was reached, or if it has been
-  reached.
+  reached. See [Voyager Captures Sounds of Interstellar Plasma in Space](https://www.youtube.com/watch?v=wF7N8uhWGXM)
   
 - The concept of Solar gravitational deflection that protects planets in that bubble
   from direct interaction with comets, etc.
+  
+- Here is a lecture courtesy NASA entitled [Voyager 1 is in Interstellar Space](https://www.youtube.com/watch?v=8Ddt8xnnGGA).
   
 ## Other concepts
 
