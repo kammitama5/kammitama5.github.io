@@ -2,7 +2,7 @@
 
 - Spent last night at this cool event on 40 years of Voyager!
 
-<img src="/images/voyager/voyager_001.png" width="400">
+<img src="/images/voyager/voyager_001.png" width="500">
 
 - It was wonderful! 
 
@@ -35,11 +35,13 @@
 
 - Shapiro's Delay
 
-<img src="/images/voyager/voyager_002.png" width="400">
+<img src="/images/voyager/voyager_002.png" width="500">
 
 ## They also gave out some commemorative pins! 
 
-<img src="/images/voyager/voyager_003.png" width="400">
+<img src="/images/voyager/voyager_003.png" width="200">
+
+- It says "Voyager...40 Years..1977 to 2017", NASA Jet Propulsion Laboratory!
 
 - Unexpected, and pretty neat. Also post-cards and bookmarks.
 
