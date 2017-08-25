@@ -19,6 +19,10 @@
   
 ## Things that I found really interesting! 
 
+- [The Yarkovsky Effect](https://en.wikipedia.org/wiki/Yarkovsky_effect).
+
+- Retrograde vs prograde
+
 - Voyager was originally called MJS; Mariner Jupter Saturn.
 
 - Io as a moon looks quite different from our own Moon! 
