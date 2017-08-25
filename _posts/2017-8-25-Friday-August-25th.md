@@ -6,6 +6,9 @@
 
 - It was wonderful! 
 
+- They showed us photos of Ed Stone's notebooks, in which he took his first
+  notes for what they needed for Voyager 1!
+
 - It was heavy on the data analysis, which was *heaven* for me. 
   It was also highly interesting and I learned quite a bit about Voyager.
   My mentor worked on Voyager.
@@ -13,6 +16,8 @@
 - I didn't know that AU was astronomical units. 
   
 ## Things that I found really interesting! 
+
+- Voyager was originally called MJS; Mariner Jupter Saturn.
 
 - Io as a moon looks quite different from our own Moon! 
 
