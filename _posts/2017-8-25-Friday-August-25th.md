@@ -19,6 +19,8 @@
   
 ## Things that I found really interesting! 
 
+- Voyager trajectory was based on an alignment that only occurs every 176 years.
+
 - [The Yarkovsky Effect](https://en.wikipedia.org/wiki/Yarkovsky_effect).
 
 - Retrograde vs prograde
