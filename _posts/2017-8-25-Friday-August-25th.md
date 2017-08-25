@@ -14,6 +14,8 @@
   My mentor worked on Voyager.
   
 - I didn't know that AU was astronomical units. 
+
+- Voyager is also losing about 4 watts of power per year.
   
 ## Things that I found really interesting! 
 
