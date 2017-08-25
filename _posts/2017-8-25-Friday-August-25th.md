@@ -26,7 +26,8 @@
 - The Solar cycle is every 11 years; the poles of the Sun change then, 
   so the poles point North again (do a 360) in 22 years or so.
   
-- The Poles of Neptune and Uranus are fascinating! There is still a lot
+- The Poles of Neptune and Uranus are fascinating! 
+  It is influenced by their axial tilt. There is still a lot
   debate of which way is North.
   
 - There is a boundary of interstellar space that the scientists had to listen
