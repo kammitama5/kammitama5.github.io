@@ -51,6 +51,10 @@
   
 ## Other concepts
 
+- Uranus has a lambda-ring! It's faint and dusty, and was discovered by Voyager 2.
+
+- That being said, it has nothing to do with [Lambda-rings](https://ncatlab.org/nlab/show/Lambda-ring), which has to do with topology / Grothendieck...or does it :)
+
 - Shapiro's Delay
 
 <img src="/images/voyager/voyager_002.png" width="500">
