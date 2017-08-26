@@ -39,7 +39,8 @@
   debate of which way is North.
   
 - There is a boundary of interstellar space that the scientists had to listen
-  out for. There was some debate over when this was reached, or if it has been
+  out for, called the Heliopause; the boundary where the Solar System ends.
+  There was some debate over when this was reached, or if it has been
   reached. See [Voyager Captures Sounds of Interstellar Plasma in Space](https://www.youtube.com/watch?v=wF7N8uhWGXM)
   
 - The concept of Solar gravitational deflection that protects planets in that bubble
