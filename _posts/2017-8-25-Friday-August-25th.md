@@ -41,10 +41,11 @@
 - There is a boundary of interstellar space that the scientists had to listen
   out for, called the [Heliopause](http://www.pbs.org/wgbh/nova/next/space/voyager-ibex-and-the-edge-of-the-solar-system/); the boundary where the Solar System ends.
   There was some debate over when this was reached, or if it has been
-  reached. See [Voyager Captures Sounds of Interstellar Plasma in Space](https://www.youtube.com/watch?v=wF7N8uhWGXM)
+  reached. See [Voyager Captures Sounds of Interstellar Plasma in Space](https://www.youtube.com/watch?v=wF7N8uhWGXM).
+  By measuring cosmic rays, the team was able to make this determination.
   
 - The concept of Solar gravitational deflection that protects planets in that bubble
-  from direct interaction with comets, etc.
+  from direct interaction with comets, etc. 
   
 - Here is a lecture courtesy NASA entitled [Voyager 1 is in Interstellar Space](https://www.youtube.com/watch?v=8Ddt8xnnGGA).
   
