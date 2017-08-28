@@ -3,7 +3,9 @@
 - So...I really need to learn some Excel.
   That's all I'll say on that. I plan to do so at the end of November,
   after my Nanodegree ends. I need to get better and making functions 
-  and filtering data in Excel. I never really learned that stuff.
+  and filtering data in Excel. I have a self-paced course
+  in mind from EdX. I never really learned that stuff. It's important,
+  expecially for understanding and analyzing data.
   
   
 ## I start Advanced C++ in two days!
