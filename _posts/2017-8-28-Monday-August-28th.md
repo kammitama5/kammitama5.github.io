@@ -30,39 +30,39 @@
 
 ## Evaluating Derivatives 
 
-<img src="/images/maths_002/maths_200.png" width="300">
+<img src="/images/maths_002/maths_200.png" width="500">
 
 ## Plotting and Sketching Data
 
-<img src="/images/maths_002/maths_201.png" width="300">
+<img src="/images/maths_002/maths_201.png" width="500">
 
 ## Plotting Derivatives 
 
-<img src="/images/maths_002/maths_202.png" width="300">
+<img src="/images/maths_002/maths_202.png" width="500">
 
 ## Plotting Points
 
-<img src="/images/maths_002/maths_203.png" width="300">
+<img src="/images/maths_002/maths_203.png" width="500">
 
-<img src="/images/maths_002/maths_204.png" width="300">
+<img src="/images/maths_002/maths_204.png" width="500">
 
-<img src="/images/maths_002/maths_205.png" width="300">
+<img src="/images/maths_002/maths_205.png" width="500">
 
 ## Plotting Animations
 
-<img src="/images/maths_002/maths_206a.png" width="300">
+<img src="/images/maths_002/maths_206a.png" width="500">
 
-<img src="/images/maths_002/maths_206b.png" width="300">
+<img src="/images/maths_002/maths_206b.png" width="500">
 
-<img src="/images/maths_002/maths_206c.png" width="300">
+<img src="/images/maths_002/maths_206c.png" width="500">
 
 ## Counter Plots in Mathematica
 
-<img src="/images/maths_002/maths_207.png" width="300">
+<img src="/images/maths_002/maths_207.png" width="00">
 
 ## Cartesian Proofs and Plotting in Mathematica
 
-<img src="/images/maths_002/maths_208.png" width="300">
+<img src="/images/maths_002/maths_208.png" width="200">
 
 ## Moved on to Interactive Tutorial for Programmers
 
