@@ -52,9 +52,9 @@
 
 <img src="/images/maths_002/maths_206a.png" width="500">
 
-<img src="/images/maths_002/maths_206b.png" width="500">
+<img src="/images/maths_002/maths_206b.png" width="700">
 
-<img src="/images/maths_002/maths_206c.png" width="500">
+<img src="/images/maths_002/maths_206c.png" width="700">
 
 ## Counter Plots in Mathematica
 
