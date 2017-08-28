@@ -44,9 +44,9 @@
 
 <img src="/images/maths_002/maths_203.png" width="500">
 
-<img src="/images/maths_002/maths_204.png" width="500">
+<img src="/images/maths_002/maths_204.png" width="700">
 
-<img src="/images/maths_002/maths_205.png" width="500">
+<img src="/images/maths_002/maths_205.png" width="700">
 
 ## Plotting Animations
 
