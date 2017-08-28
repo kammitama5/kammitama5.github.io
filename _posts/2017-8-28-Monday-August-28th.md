@@ -62,7 +62,7 @@
 
 ## Cartesian Proofs and Plotting in Mathematica
 
-<img src="/images/maths_002/maths_208.png" width="500">
+<img src="/images/maths_002/maths_208.png" width="700">
 
 ## Moved on to Interactive Tutorial for Programmers
 
