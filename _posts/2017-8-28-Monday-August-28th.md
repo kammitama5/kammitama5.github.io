@@ -58,11 +58,11 @@
 
 ## Counter Plots in Mathematica
 
-<img src="/images/maths_002/maths_207.png" width="00">
+<img src="/images/maths_002/maths_207.png" width="500">
 
 ## Cartesian Proofs and Plotting in Mathematica
 
-<img src="/images/maths_002/maths_208.png" width="200">
+<img src="/images/maths_002/maths_208.png" width="500">
 
 ## Moved on to Interactive Tutorial for Programmers
 
@@ -80,9 +80,9 @@
 
 ## Pattern Matching
 
-<img src="/images/maths_002/maths_211.png" width="500">
+<img src="/images/maths_002/maths_211.png" width="400">
 
-<img src="/images/maths_002/maths_212.png" width="500">
+<img src="/images/maths_002/maths_212.png" width="400">
 
 ## Goals 
 
