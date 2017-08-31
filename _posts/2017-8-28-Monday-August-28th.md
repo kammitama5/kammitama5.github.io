@@ -165,5 +165,20 @@ function differenceInAges(ages){
 }
 ```
 
+- sum of cubes.
+  Given a number, find the total of all the cubes of
+  each number from 0 to n 
+  eg. 2 = 1 + 8 = 9
+  
+```
+def sum_cubes(n):
+    cube = 0
+    
+    for i in range(1, n+1):
+      cube = cube + (i * i * i)
+
+    return cube
+```
+
 ## ...and..that's it.
 
