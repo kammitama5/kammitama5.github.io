@@ -91,5 +91,29 @@
 - Send in Application (almost there...by tonight/ tomorrow night latest)
 - Start on C++ assignment (can do over weekend/ due Sept 26th)
 
+## Katas
+
+- A Stanton measure:
+- Find the number of 1s in a series. Take that count and find the count
+  for *that* number
+  
+```
+function stantonMeasure(arr){
+  var count1 = 0
+  var total = 0
+  for (var i = 0; i < arr.length; i++){
+    if (arr[i] == 1){
+      count1 = count1 + 1
+    }
+  }
+  for (var i = 0; i < arr.length; i++){
+    if (arr[i] == count1){
+      total = total + 1
+    }
+  }
+  return total
+}
+```
+
 ## ...and..that's it.
 
