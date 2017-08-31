@@ -115,5 +115,36 @@ function stantonMeasure(arr){
 }
 ```
 
+- Concatenated sum.
+  See if the abs of a number is the same of each digit repeated n times.
+  eg. 198 with n = 2 is 11 + 99 + 88 = 198, which is a Concatenated Sum.
+  Return true if this is true for number given, else false.
+  
+```
+function checkConcatenatedSum(number, n){
+  var arr = []
+  var num = Math.abs(number)
+  var num1 = num.toString()
+  var num2 = (num1.split(""))
+  var total = 0
+  
+  for (var i = 0; i < num2.length; i++){
+    arr.push(num2[i].repeat(n))
+  }
+  //console.log(arr)
+  for (var j = 0; j < arr.length; j++){
+    total = total + parseInt(arr[j])
+  }
+  //console.log(total)
+  
+  if (total == num){
+    return true
+  }
+  else{
+    return false
+  }
+}
+```
+
 ## ...and..that's it.
 
