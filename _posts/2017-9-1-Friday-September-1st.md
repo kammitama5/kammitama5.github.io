@@ -45,7 +45,7 @@
 ## So the flood...
 
 - JPL asked us to send a card to our cohorts (from our workshop) who are at 
-  JSC (Johnson Space Centre). We have to include a note, and the year in which we did
+  [JSC](https://www.nasa.gov/centers/johnson/home/index.html) (Johnson Space Centre). They're flooding! :( We have to include a note, and the year in which we did
   the workshop (in my case, it was Jan-April 2016. I hope to intern next year, too!
   
 ## And....
