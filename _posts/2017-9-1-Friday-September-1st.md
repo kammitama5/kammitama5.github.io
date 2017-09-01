@@ -23,17 +23,17 @@
   
 - It accepts input only on the second time the board is drawn
 
-<img src="/images/Tic/tic_001.png" width="300">
+<img src="/images/Tic/tic_001.png" width="500">
 
 - It's only ending the game when it wins..not when board is full....
   (I may not actually have written that function!)
   
-<img src="/images/Tic/tic_002.png" width="300">
+<img src="/images/Tic/tic_002.png" width="500">
 
 - It tells you that the player has won, but doesn't ask you 
   if you want to quit or play again :(
   
-<img src="/images/Tic/tic_003.png" width="300">
+<img src="/images/Tic/tic_003.png" width="500">
 
 ## Other stuff I hope to accomplish this weekend...
 
