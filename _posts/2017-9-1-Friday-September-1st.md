@@ -13,7 +13,7 @@
 - I'm taking a one-file-version of Tic-Tac-Toe in C++,
   and implementing it in OOP.
   
-<img src="/images/Tic/tic_004.png" width="500">
+<img src="/images/Tic/tic_004.png" width="300">
   
 - I'm *almost* there, except for a few bugs!
   I just did the bulk of this work today, and it's 
@@ -23,17 +23,17 @@
   
 - It accepts input only on the second time the board is drawn
 
-<img src="/images/Tic/tic_001.png" width="500">
+<img src="/images/Tic/tic_001.png" width="300">
 
 - It's only ending the game when it wins..not when board is full....
   (I may not actually have written that function!)
   
-<img src="/images/Tic/tic_002.png" width="500">
+<img src="/images/Tic/tic_002.png" width="300">
 
 - It tells you that the player has won, but doesn't ask you 
   if you want to quit or play again :(
   
-<img src="/images/Tic/tic_003.png" width="500">
+<img src="/images/Tic/tic_003.png" width="300">
 
 ## Other stuff I hope to accomplish this weekend...
 
