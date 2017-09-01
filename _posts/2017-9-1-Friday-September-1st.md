@@ -13,7 +13,7 @@
 - I'm taking a one-file-version of Tic-Tac-Toe in C++,
   and implementing it in OOP.
   
-<img src="/images/Tic/tic_004.png" width="300">
+<img src="/images/Tic/tic_004.png" width="200">
   
 - I'm *almost* there, except for a few bugs!
   I just did the bulk of this work today, and it's 
