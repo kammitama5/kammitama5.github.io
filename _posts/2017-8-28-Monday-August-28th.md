@@ -180,5 +180,14 @@ def sum_cubes(n):
     return cube
 ```
 
+- Find all occurrences of a number in an array.
+  Return result in array. (use an enum!)
+  
+```
+def find_all(array, n):
+    b = [i for i,x in enumerate(array) if x == n]
+    return b
+```
+
 ## ...and..that's it.
 
