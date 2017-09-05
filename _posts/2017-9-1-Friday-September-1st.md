@@ -72,6 +72,21 @@
 - [DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) (Deterministic Finite Automation)
 - [Ramsey Numbers](http://mathworld.wolfram.com/RamseyNumber.html)
   
+## Katas
 
+- Return the index of the odd number in an array or -1 otherwise
+
+```
+function oddOne(arr) {
+    var ans = -1
+    for (var i = 0; i < arr.length; i++){
+      if (arr[i] % 2 !== 0){
+        ans = arr.indexOf(arr[i])
+      }
+      
+    }
+    return(ans)
+}
+```
 
 
