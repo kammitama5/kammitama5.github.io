@@ -114,3 +114,16 @@ function generateShape(int){
 }
 ```
 
+- return opposite of array
+  eg. ```[1,2,3,4] -> [-1,-2,-3,-4]```
+  
+```
+function oppositeArray(numbers) {
+  var arr = []
+  for (var i = 0; i < numbers.length; i++){
+    arr.push(0 - numbers[i])
+  }
+  return arr
+}
+```
+
