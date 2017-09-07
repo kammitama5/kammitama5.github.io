@@ -49,7 +49,7 @@
   it will make me a better programmer. 
   
 ## So..plan
-- Work on UML
+- Work on UML (v1.0 complete)
 - Work on C++ classes based on UML
 - Continue with last part of Nanodegree
 - Thurs (PLT lessons and jazz with mentor)
@@ -78,7 +78,11 @@
   but C++ is such a beautiful language. I'm really enjoying learning it. I look at some Haskell code and 
   I kid you not, I see some C++ structure in there!
   
-  
+ 
+ ## UML v 1.0
+ 
+ ![Tic_UML](/images/tic_uml.jpeg)
+ 
 
 
 
