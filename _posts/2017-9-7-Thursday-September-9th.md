@@ -1,5 +1,28 @@
 ## Next couple of days..rundown
 
+## I chose a path for my Nanodegree...
+
+- We are at the stage where we have to choose a path and post about it. 
+  The options were "Front End Dev", "Back End Dev", "Mobile Dev", "Data Analyst".
+  At first, I couldn't decide between Back End and Data Analyst, but I realized 
+  their "Back End" probably wouldn't be C++ and Java, and I'd have to learn/ focus on some JS
+  and DOM stuff (yuck lol).
+- Then, I saw the lady they interviewed who is a Data Analyst. As she spoke, I realized we had 
+  *so* many similarities in terms of our interests. It got the most excited out of all the options.
+  
+- We had to say what we chose and why. This is what I said:
+
+```
+     <p>10. After evaluating these four different paths into programming, which role are you most interested in pursuing? Why?</p>
+    <!--Your Answer to question 10 goes here-->
+    <div class= "answer">
+      <p>Data analyst<p>
+      <p>I want to stay as far away from JS (learning some PureScript would be nice!) as possible (D3 looks pretty cool, though!), and I want an opportunity to continue with functional programming. I've seen a lot of shops using Scala, and it's something I'm interested in learning, as I really like Haskell and there are some similarities (and I *love* the functional programming community! One of the people I look up to is a guy named Conal Elliott, who uses Haskell at Target Digital, and he is a distinguished Data Scientist. The community has been incredibly kind to me, and their enthusiasm and love for FP keeps me going). I also really like Mathematics, Statistics, and patterns with numbers, and have already taken a few courses (years ago) in R and Python for fun, as well as a course in Data Visualization (using a plug-in in Excel and a little bit of Tableau).</p>
+    </div>
+```
+
+- Yup, pretty much! 
+
 ## Sailing Trip! 
 
 - A group of us are going sailing to Catalina Island this weekend.
