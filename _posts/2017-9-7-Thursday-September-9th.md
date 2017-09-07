@@ -83,6 +83,10 @@
  
  ![Tic_UML](/images/tic_uml.jpeg)
  
+ ## UML v 1.1
+ 
+ ![Tic UML1.1](/images/uml_v1.1.jpeg)
+ 
 
 
 
