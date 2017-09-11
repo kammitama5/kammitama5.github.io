@@ -81,3 +81,15 @@ function onesComplement(n) {
     return g
 };
 ```
+- Find the value where 3^k < N, given N 
+
+```
+# there is nothing to explain
+# this is english -> mathematics
+def largestPower(N):
+  import math
+  num = 0
+  while (math.pow(3, num) < N):
+    num = num + 1 
+  return num - 1
+```
