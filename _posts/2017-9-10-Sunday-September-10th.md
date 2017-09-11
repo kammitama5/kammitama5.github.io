@@ -35,6 +35,8 @@
 
 - He's also from MDR..They had a sweet BBQ on board.
 
+- Boats here are on a mooring. Ours was L16 (Lima 16)
+
 <img src="/images/catalina/c_003.png" width="500">
 
 <img src="/images/catalina/c_004.png" width="500">
