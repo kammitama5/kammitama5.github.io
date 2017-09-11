@@ -59,7 +59,13 @@
 
 ## Fun weekend! 
 
+## Really good answer to a question on Quora...
 
+- How to become an expert. 
+  Basically this [answer](https://www.quora.com/What-should-I-do-to-become-a-JavaScript-expert) suggested
+  that the person enquiring take a library in a language and rewrite it, and compare it
+  with the original. Really great answer.
+  
 ## Kata
 
 - return Two's complement 
