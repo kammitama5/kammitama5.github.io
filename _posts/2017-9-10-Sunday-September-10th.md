@@ -93,3 +93,22 @@ def largestPower(N):
     num = num + 1 
   return num - 1
 ```
+
+- multiply values in string and return the answer as a string
+
+```
+function arrMultiply(arr){
+   var total = 1
+   for (var i = 0; i < arr.length; i++){
+   // set total to 0 if any value is 0
+     if (arr[i] == '0'){
+     total = 0
+     }
+     else
+     {
+      total = total * parseInt(arr[i])
+    }
+   }
+   return(total.toString())
+}
+```
