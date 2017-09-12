@@ -6,6 +6,10 @@
   
 ## This was from our first session
 
+- He's explaining parsers and recursive descent to me.
+
+- Also, LL-1 vs LL-0 parsing. 
+
 <img src="/images/dfa/dfa_001.png" width="500">
 
 <img src="/images/dfa/dfa_002.png" width="500">
