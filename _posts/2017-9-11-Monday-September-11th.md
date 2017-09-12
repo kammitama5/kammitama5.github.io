@@ -99,6 +99,20 @@
 - I also have class on Wednesday, and hang out with 
   my mentor (for a tutoring session) on Thursday evening.
   
+## Interesting solution to a kata
+
+- Unnamed user solved a kata to make a letter uppercase by this
+
+```
+char makeupper(char letter) {
+  return letter & ~('a' ^ 'A');
+}
+```
+- This is very interesting! 
+  Is it dereferencing the original value, 'a',
+  setting it to the new value 'A', and referencing
+  the value?
+  
 ## Things to be done...
 
 - Version 1.1 of my C++ programme
