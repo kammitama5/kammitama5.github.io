@@ -113,7 +113,7 @@ char makeupper(char letter) {
   setting it to the new value 'A', and referencing
   the value?
   
-- **update** Apparently...it's an XOR. Ah.
+- **update** Apparently...```^``` is an XOR. Ah.
   
 ## Things to be done...
 
