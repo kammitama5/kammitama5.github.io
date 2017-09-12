@@ -28,6 +28,19 @@
   But it's really quite interesting; concepts like LL-1 and LL-0 parsers,
   their complexity and efficiency. 
   
+## Things I learned about 
+
+- fixed point iteration (calcuating nullable)
+- NDFA to DFA (removing epsilon transitions)
+- sentential form (not yet a sentence..like a phrase)
+- tokens
+- abstract syntax trees
+- recursive descent
+- LL vs LR parsers
+- epsilon vs lambda transitions
+- "chickenfoot" (independent of in mathematical notation)
+- expression vs expression follows (peek operation)
+  
 ## I found some resources online
 
 - They Python documentation actually contains Lexical analysis documentation. I didn't know that until today.
