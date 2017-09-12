@@ -113,6 +113,8 @@ char makeupper(char letter) {
   setting it to the new value 'A', and referencing
   the value?
   
+- **update** Apparently...it's an XOR. Ah.
+  
 ## Things to be done...
 
 - Version 1.1 of my C++ programme
