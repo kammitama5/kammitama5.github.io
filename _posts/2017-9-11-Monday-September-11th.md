@@ -169,6 +169,37 @@ function isInertial(array){
   return 
 }
 ```
+
+- if any factor of a number is even, return false. 
+  If the input is less than 1, also return false.
+
+```
+function isNormal(n){
+ // tis so cute `^(~_~)^`
+ var arr = []
+ // case where n is less than 1
+ if (n < 1){
+   return false
+ }
+ else{
+ // loop through to find all even factors
+ // push to array
+   for (var i = 2; i < n; i++){
+     if ((n % i === 0) && (i % 2 !== 0)){
+       arr.push(i)
+     }
+   }
+   // if array is empty, return true
+   if (arr.length === 0){
+     return(true)
+   }
+   else{
+     return(false)
+   }
+   return
+  }
+}
+```
   
 ## Things to be done...
 
