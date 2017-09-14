@@ -11,3 +11,10 @@
   
 - Compiling is as easy as ```gcc -o filename filename.c``` and then ```filename```
 
+- The FP community (via FP Chat) was also *incredibly* helpful in pointing out resources
+  and things of which I should take note. I think it's a good thing that I'm learning some C.
+
+## Things to think about
+
+- sequence points
+
