@@ -24,6 +24,14 @@
   
 - Back to CS50...There is still stuff I can get out of it. 
 
+- I got bored...so I made a text-based cli goblin game :)
+  
+## Lose
+<img src="/images/goblin1.png" width="500">
+
+## Win
+<img src="/images/goblin2.png" width="500">
+
 - The FP community (via FP Chat) was also *incredibly* helpful in pointing out resources
   and things of which I should take note. I think it's a good thing that I'm learning some C.
 
