@@ -24,7 +24,7 @@
   
 - Back to CS50...There is still stuff I can get out of it. 
 
-- I got bored...so I made a text-based cli goblin game :)
+- I got bored...so I made a text-based cli [goblin game](https://github.com/kammitama5/C_rebellion/blob/master/goblin.c) :)
   
 ## Lose
 <img src="/images/goblin1.png" width="500">
