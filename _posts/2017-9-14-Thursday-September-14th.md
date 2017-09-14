@@ -2,6 +2,7 @@
 
 - As Cassini winds down, there was quite a lot of information and activity from JPL.
 - I would be honoured to intern there next year!
+- Oh, I'm racing on a boat on the 24th, one day after my LinkedIn event :)
 
 ## Learning C
 
@@ -29,4 +30,11 @@
 ## Things to think about
 
 - sequence points
+
+## Things to do
+
+- Continue learning C
+- Review Objects, Structs, Pointers
+- Work through Nanodegree and final project
+
 
