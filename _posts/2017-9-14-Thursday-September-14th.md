@@ -38,13 +38,13 @@
 
 - This one returns the smallest number of coins to be used, given a dollars and cents input.
 
-<img src="/images/change1.png" width="500">
+<img src="/images/change1.png" width="300">
 
-<img src="/images/change2.png" width="500">
+<img src="/images/change2.png" width="300">
 
 ## This is a mario game, where you put in the height and get a series of steps
 
-<img src="/images/mario1.png" width="500">
+<img src="/images/mario1.png" width="300">
 
 - The Mario one was actually a bit tricker, because it involved my using three for-loops.
   I solved it in Python, first, like this:
