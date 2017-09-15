@@ -37,8 +37,19 @@
 
 ## Things to think about
 
-- sequence points
+- I watched an interesting stream by Chris, where we went through a review of a book in C,
+  and also spoke about things that were important about the language/ things to anticipate. 
+  Here are some of the notes I took of things to look out for/ be aware of :
 
+  - sequence points
+  - [ffi](https://en.wikipedia.org/wiki/Foreign_function_interface) (Foreign Function Interface)
+  - managing memory 
+  - server processing
+  - persistent services
+  - C is supposed to hurt; idioms are layered on top of the language, which increases complexity 
+  - pointers
+  - undefined behavior (eg things that should make sense but give errors)
+  
 ## Things to do
 
 - Continue learning C
