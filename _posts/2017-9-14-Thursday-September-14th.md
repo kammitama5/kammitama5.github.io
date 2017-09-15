@@ -32,6 +32,37 @@
 ## Win
 <img src="/images/goblin2.png" width="500">
 
+## Also did change programme
+
+- They give you an option to complete a few programming assignments. I did all of them.
+
+- This one returns the smallest number of coins to be used, given a dollars and cents input.
+
+<img src="/images/change1.png" width="500">
+
+<img src="/images/change2.png" width="500">
+
+## This is a mario game, where you put in the height and get a series of steps
+
+<img src="/images/mario1.png" width="500">
+
+- The Mario one was actually a bit tricker, because it involved my using three for-loops.
+  I solved it in Python, first, like this:
+  
+```
+def pyramid(n):
+  for i in range(1, n+1):
+    print (" " * ((n+1) - i)) + "#" * (i+1)
+  return 
+
+#pyramid(5)
+pyramid(3)
+```
+
+- But I totally could not do what I did in Python in C, so... :(
+
+## Anyways...
+
 - The FP community (via FP Chat) was also *incredibly* helpful in pointing out resources
   and things of which I should take note. I think it's a good thing that I'm learning some C.
 
