@@ -3,6 +3,9 @@
 - As Cassini winds down, there was quite a lot of information and activity from JPL.
 - I would be honoured to intern there next year!
 - Oh, I'm racing on a boat on the 24th, one day after my LinkedIn event :)
+- Also was recruited by two *solid* companies; I have a coding challenge to do on Sunday,
+  for submittal by Tuesday. I don't think I'm ready, but why not just try in any case.
+  It's a learning experience!
 
 ## Learning C
 
