@@ -84,6 +84,18 @@ pyramid(3)
   - pointers
   - undefined behavior (eg things that should make sense but give errors)
   
+## Katas
+
+- Acrostic (eg. June Is Paying == JIP)
+
+```
+def read_out(acrostic):
+    arr = []
+    for i in acrostic:
+        arr.append(i[0])
+    return ''.join(arr)
+```
+  
 ## Things to do
 
 - Continue learning C
