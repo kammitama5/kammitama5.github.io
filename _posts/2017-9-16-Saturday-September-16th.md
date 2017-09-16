@@ -16,7 +16,7 @@
 
 ## Obligatory Slack Photo :)
 
-<img src="/images/green.png" width="500">
+<img src="/images/green.png" width="600">
 
 - The people at FP chat are like family to me. I was telling my mom that they're like my big brothers!
   
