@@ -78,7 +78,7 @@
  at the favourite British pub of JPL-ers. 
  
 - It was really fun! John told us that when he went to UPenn as a student, one 
-  of his summer project included disassembling the [ENIAC](https://en.wikipedia.org/wiki/ENIAC).
+  of his summer projects included disassembling the [ENIAC](https://en.wikipedia.org/wiki/ENIAC).
   
 - He admitted he hadn't been to the Computer History Museum, so we insisted that he not only visit,
   but also told him about the Babbage Machine!
