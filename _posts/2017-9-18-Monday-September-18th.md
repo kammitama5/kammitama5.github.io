@@ -19,7 +19,7 @@
 
 ## Things to do
 
-- Coding test
+- Coding test (done)
 
 - Haskell course start 
 
