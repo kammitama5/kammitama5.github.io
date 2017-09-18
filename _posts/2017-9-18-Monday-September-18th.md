@@ -4,17 +4,17 @@
 
 - Sea lions!
 
-<img src="/wsa_small/wsa_001.png" width="600">
+<img src="/images/wsa_small/wsa_001.png" width="500">
 
-<img src="/wsa_small/wsa_002.png" width="600">
+<img src="/images/wsa_small/wsa_002.png" width="500">
 
 - Coming back in. I was tasked with tying off at the bow.
 
-<img src="/wsa_small/wsa_003.png" width="600">
+<img src="/images/wsa_small/wsa_003.png" width="500">
 
 - Our post meal of prosecco, caprese and tomatoes. We also had smoked oysters!
 
-<img src="/wsa_small/wsa_004.png" width="600">
+<img src="/images/wsa_small/wsa_004.png" width="500">
 
 
 ## Things to do
