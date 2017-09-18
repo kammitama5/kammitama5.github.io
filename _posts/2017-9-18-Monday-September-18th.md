@@ -37,3 +37,17 @@ def list_animals(animals):
     
     return list
 ```
+
+- If there is a gold in the array, return True, else False
+
+```
+def check_the_bucket(bucket):
+    total = 0
+    for i in bucket:
+        if i == 'gold':
+            total = total + 1
+    if total == 0:
+        return False
+    else:
+        return True
+```
