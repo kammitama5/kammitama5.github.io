@@ -21,9 +21,11 @@
 
 - Coding test (done)
 
-- Haskell course start 
+- Haskell course start (done with Week 1)
 
-- Nanodegree videos finish
+- Continue with C (done with part 1..start on crypto assignment (2 and 3))
+
+- Nanodegree videos finish (rest of week work on)
 
 ## Katas
 
