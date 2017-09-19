@@ -71,3 +71,6 @@ def find_uniq(arr):
 
 - Interesting [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0)
   - includes McGregor graphs, Colored Queens problem, Sat Solvers
+  
+- Proof solution to whether 2x1 domino can cover 8x8 board
+  <img src="/images/domino.png" width="300">
