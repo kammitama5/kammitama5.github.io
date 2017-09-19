@@ -70,4 +70,4 @@ def find_uniq(arr):
 ## Things of interest
 
 - Interesting [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0)
-  - includes McGregor graphs, Colored Queens problem
+  - includes McGregor graphs, Colored Queens problem, Sat Solvers
