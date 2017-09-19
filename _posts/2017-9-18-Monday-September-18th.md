@@ -78,3 +78,10 @@ def find_uniq(arr):
 
 - [Eulerian path](https://en.wikipedia.org/wiki/Eulerian_path) ..used in determining Tensegrity.
   Visit every path exactly once
+  
+- Magic Square 
+  - I found this solution first, before understanding the mathematics behind it.
+    My biggest question was how to figure out the total sum of each row/column/diagonal.
+    Very interesting, and from Coursera's "Intro to Proofs" course. 
+    
+<img src="/images/magicsquare.png" width="300">
