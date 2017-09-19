@@ -84,4 +84,4 @@ def find_uniq(arr):
     My biggest question was how to figure out the total sum of each row/column/diagonal.
     Very interesting, and from Coursera's "Intro to Proofs" course. 
     
-<img src="/images/magicsquare.png" width="300">
+<img src="/images/magicsquare.png" width="400">
