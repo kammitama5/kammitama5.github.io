@@ -66,3 +66,8 @@ def find_uniq(arr):
     if arr.count(i) == 1:
       return i
 ```
+
+## Things of interest
+
+- Interesting [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0)
+  - includes McGregor graphs, Colored Queens problem
