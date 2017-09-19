@@ -75,3 +75,6 @@ def find_uniq(arr):
 - Proof solution to whether 2x1 domino can cover 8x8 board
 
 <img src="/images/domino.png" width="300">
+
+- [Eulerian path](https://en.wikipedia.org/wiki/Eulerian_path) ..used in determining Tensegrity.
+  Visit every path exactly once
