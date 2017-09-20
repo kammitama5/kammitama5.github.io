@@ -67,6 +67,19 @@ def find_uniq(arr):
       return i
 ```
 
+- see if input matches type 
+
+```
+function typeValidation(variable, type) {
+  if (typeof(variable) == type){
+    return true
+  } 
+  else{
+    return false
+  }
+}
+```
+
 ## Things of interest
 
 - Interesting [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0)
