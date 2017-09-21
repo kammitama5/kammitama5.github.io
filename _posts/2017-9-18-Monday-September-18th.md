@@ -80,6 +80,24 @@ function typeValidation(variable, type) {
 }
 ```
 
+- given two arrays eg [1,2,3] and [1,2]
+  - 123 + 12 = 243 = [2,4,3]
+  
+```
+function addArrays(array1, array2) {
+  var arrayToNumber1 = parseInt(array1.join(''));
+  var arrayToNumber = parseInt(array2.join(''));
+  var arr3 = arrayToNumber1 + arrayToNumber;
+  var arr4 = (arr3.toString())
+  arr = arr4.split("")
+  var final = []
+  for (var i = 0; i < arr.length; i++){
+    final.push(parseInt(arr[(i)]))
+  }
+  return final
+}
+```
+
 ## Things of interest
 
 - Interesting [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0)
