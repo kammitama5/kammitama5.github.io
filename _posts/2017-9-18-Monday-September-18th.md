@@ -117,7 +117,7 @@ function addArrays(array1, array2) {
     
 <img src="/images/magicsquare.png" width="400">
 
--Another puzzle
+- Another puzzle
 
 ```
 """
