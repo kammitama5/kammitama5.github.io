@@ -91,9 +91,50 @@
   Also, the people who attended were all *lovely*. I made *so* many new friends. Really great!
   
   
+ ## Race WOW-WAH (Women on the Water, Women at the Helm!)
+
+ - This sounds ridiculous (but not K ridiculous, because I do this kind of stuff),
+   but I went to sleep at 12:50am on Sunday morning, and got up at 3:50am to take the bus
+   (three, actually) and a train to my boat, for the race. 
+   
+ - My knee-pads came in on Saturday evening, so I was all set! I could *not* have done this
+   race without those wonderful things! Everything they said we needed we definitely used!
+   
+ - Here are some pics of the water in the morning, since I got there early..so serene! 
  
-
-
+ <img src="/images/accelerateU/a_017.png" width="500">
+ 
+ <img src="/images/accelerateU/a_018.png" width="500">
+ 
+ - When we were heading out of the marina, we had a "mascot"..this quite skilled kayaker
+   who was keeping up with our boat, as we motored out of the marina :)
+   
+ <img src="/images/accelerateU/a_020.png" width="500">
+ 
+ - And finally, here are some pics of us on the boat. Man, was it gruelling, but fun!
+ 
+ <img src="/images/accelerateU/a_022.png" width="500">
+ 
+ - And..on the way back, saw a beautiful boat!
+ 
+ <img src="/images/accelerateU/a_023.png" width="500">
+ 
+ - I don't remember much what happened after that...we cleaned up the boat, had a glass of
+   champagne (it was amazing!) and then went to the prize-giving ceremony. I hurt all over,
+   and my eyes were beginning to close down, so I left a bit early. I did get something to eat,
+   though. Slept on the two trains home (both were last stop, in any case), and then went 
+   straight home and crashed!
+   
+ - All in all, a fantastic weekend! :)
+ 
+ ## Things to do
+ 
+ - This week is Strange Loop. Will do a re-cap of that :)
+ - Also have to get some C++ work done (don't have IDE, so have to work on Mon/Tues)
+ - Also have to work on my Nano-degree (can do that at nights at the conference, or early in the mornings!)
+ - And..that's about it! :)
+ 
+ 
 
 
 
