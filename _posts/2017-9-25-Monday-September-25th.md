@@ -56,6 +56,10 @@
 - Initially, we were given an opportunity to understand how to better 
   our chances in general of being recruited or just being seen.
   
+- For new grads, the process is gruelling!
+
+<img src="/images/accelerateU/a_007.png" width="500">
+  
 - This was my favourite slide! :)
 
 <img src="/images/accelerateU/a_008.png" width="500">
