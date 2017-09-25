@@ -138,6 +138,22 @@
  - Also have to work on my Nano-degree (can do that at nights at the conference, or early in the mornings!)
  - And..that's about it! :)
  
+ ## Katas
+ 
+ - simple complete code 
+ 
+ ```
+ function canYouDrive(age){
+
+  if (age >= 18){
+    return true
+  }
+  else{
+    return false
+  }
+}
+ ```
+ 
  
 
 
