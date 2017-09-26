@@ -173,7 +173,19 @@ def solve(a):
     diff = evens - odds 
     return diff 
 ```
- 
+- get the values in a string that are even indexed
+
+```
+function getEvenStrings(str){
+      var arr = [];
+      for (var i = 0; i < str.length; i++){
+        if (i % 2 == 0){
+          arr.push(str[i])
+        }
+      }
+   return arr.join('');
+}
+```
 
 
 
