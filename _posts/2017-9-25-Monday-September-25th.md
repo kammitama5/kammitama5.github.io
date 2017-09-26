@@ -95,7 +95,7 @@
   Also, the people who attended were all *lovely*. I made *so* many new friends. Really great!
   
   
- ## Race WOW-WAH (Women on the Water, Women at the Helm!)
+## Race WOW-WAH (Women on the Water, Women at the Helm!)
 
  - This sounds ridiculous (but not K ridiculous, because I do this kind of stuff),
    but I went to sleep at 12:50am on Sunday morning, and got up at 3:50am to take the bus
@@ -131,14 +131,14 @@
    
  - All in all, a fantastic weekend! :)
  
- ## Things to do
+## Things to do
  
  - This week is Strange Loop. Will do a re-cap of that :)
  - Also have to get some C++ work done (don't have IDE, so have to work on Mon/Tues)
  - Also have to work on my Nano-degree (can do that at nights at the conference, or early in the mornings!)
  - And..that's about it! :)
  
- ## Katas
+## Katas
  
  - simple complete code 
  
