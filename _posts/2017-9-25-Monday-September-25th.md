@@ -262,4 +262,10 @@ def factorial(n):
             total = total * i
         return total
 ```
+- return item and count in dict form
 
+```
+def count(array):
+   m =  dict((x,array.count(x)) for x in set(array))
+   return m
+```
