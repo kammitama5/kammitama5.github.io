@@ -269,3 +269,29 @@ def count(array):
    m =  dict((x,array.count(x)) for x in set(array))
    return m
 ```
+
+- indexed capitals. Given indices, capitalize these letters.
+  I feel like this is a map question of some sort...
+  like map to upper from one set to another else lower
+  
+```
+function capitalize(s,arr){
+  var arr1 = []
+  var a = "";
+  for (var i = 0; i < s.length; i++){
+    for (var j = 0; j < arr.length; j++){
+      if (i == arr[j]){
+        arr1.push(s[i].toUpperCase())
+        break;
+      }
+      
+    }
+   if (i !== arr[j])
+   arr1.push(s[i].toLowerCase())
+   
+  }
+  var b = arr1.join("")
+  //console.log(b)
+  return b
+};
+```
