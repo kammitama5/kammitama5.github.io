@@ -304,3 +304,25 @@ def powers(lst):
     b = pow(2, a)
     return b
 ```
+- alternate capitals by even/odd index and return as list
+
+```
+function capitalize(s){
+   var first = ""
+   var second = ""
+   arr = []
+   for (var i = 0; i < s.length; i++){
+     if (i % 2 == 0){
+       first += s[i].toUpperCase()
+       second += s[i].toLowerCase()
+     }
+     else{
+       first += s[i].toLowerCase()
+       second += s[i].toUpperCase()
+     }
+   }
+   arr.push(first)
+   arr.push(second)
+   return(arr)
+};
+```
