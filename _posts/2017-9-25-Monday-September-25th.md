@@ -295,6 +295,13 @@ function capitalize(s,arr){
   return b
 };
 ```
+- Yep...this [guy](https://www.codewars.com/users/donaldsebleung) did a map. This was his solution
+```
+
+let cap = (s, a) => s.split``.map((c, i) => a.includes(i) ? c.toUpperCase() : c).join``;
+
+```
+
 - count power sets eg [] = 0, [1, 2] = 4 because [1],[2],[1,2],[2,1].
   Pattern is essentially two to power of length list
   
