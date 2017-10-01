@@ -295,3 +295,12 @@ function capitalize(s,arr){
   return b
 };
 ```
+- count power sets eg [] = 0, [1, 2] = 4 because [1],[2],[1,2],[2,1].
+  Pattern is essentially two to power of length list
+  
+```
+def powers(lst):
+    a = len(lst)
+    b = pow(2, a)
+    return b
+```
