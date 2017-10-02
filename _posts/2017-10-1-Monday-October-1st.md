@@ -37,7 +37,7 @@
 
 ## That night, we attended the pre-conf party at the City Museum
 
-- It was *awesome*.
+- It was *awesome*. It was sponsored by Riot Games, who was also hiring.
 
 <img src="/images/sloop/sl_006.png" width="500">
 
@@ -78,7 +78,7 @@
 ## Project Alloy event
 
 - Attended this event at the Centene, to which we were shuttled. The event was quite
-  elaborate. 
+  elaborate, and sponsored by Stripe and Netflix, among other companies.
   
 <img src="/images/sloop/sl_010.png" width="500">
 
