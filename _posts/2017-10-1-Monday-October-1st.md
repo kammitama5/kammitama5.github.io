@@ -86,7 +86,7 @@
 
 <img src="/images/sloop/sl_011.png" width="500">
 
-- The girl to the left, Frances, did a talk on TypeScript, for the Lightning Talks.
+- The girl to the left (wearing the purple top), Frances, did a talk on TypeScript, for the Lightning Talks.
 
 - Another friend did a talk on "Why Haskell", which I heard was quite hilarious. 
   I was too burnt out at that time, and opted instead for a private stream watching Haskell
