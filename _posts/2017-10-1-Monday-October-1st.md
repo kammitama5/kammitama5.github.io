@@ -139,3 +139,6 @@ def calc_ms(n):
   return int(str(pow(2, n)) + a)
 ```
 
+## Things to think about
+
+- [Visitor patterns] (https://en.wikipedia.org/wiki/Visitor_pattern)
