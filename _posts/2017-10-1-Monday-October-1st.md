@@ -116,6 +116,51 @@
   $h!tty. I chatted with my friend over the private stream about it, and he made me feel better,
   though. I'm really thankful for that. 
 
+## Notes 
+
+## Tensorflow Workshop
+
+- for non-convergence (auto diff), use smaller increments or turn on nodes as trained
+  constrain when nodes are turned on 
+- ML is programming with data instead of instructions 
+- Categorical column => discrete vs continuous data 
+- DNN => embedding type 
+- LIME => Local Interpretable Model-Agnostic Explanations 
+- CNNs => 
+  - local receptive fields
+  - shared weights (all neurons in the hidden layer detect the same feature)
+  - pooling => Max pooling (layers go between convolutional hidden layers)
+- for most CNNs, max-pooling is used
+
+
+## Haxl
+
+- ApplicativeDo (2016)
+- Monadic operation => sequential one has to be done before another (not good for concurrency)
+  vs Applicative 
+- Dumps cache as Haskell => prints out cache as haskell programme
+- Can make unit tests, write libraries to pre-populate the cache
+- debug (reproducibility) since can dump the cache
+- Sigma is used for spam/ abusive and fake accounts on fb, etc
+  - Concurrency
+  - Caching
+  - Testability
+  - Debuggability 
+
+## Web Auth 
+
+- MAC => Message Authentication Codes
+- Soft tokens 
+- STARTTLS => opportunitistic encryption protocol
+
+## Dependent Types in Haskell
+
+- domain specific type checkers 
+  - Type computation (parsing...base case...may or may not be empty.. ```*``` repeat pattern)
+  - Indexed Types
+  - Double-duty types
+  - Equivalence Proofs
+
 ## Conclusion
 
 - I am really thankful for the opportunity to have attended Strange Loop. I'd like to go back
