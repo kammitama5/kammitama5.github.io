@@ -129,5 +129,13 @@
 
 - Back we go. Back to my favourite bed!
 
+## Katas
 
+- count cubes in a [Menger Sponge](https://en.wikipedia.org/wiki/Menger_sponge)
+
+```
+def calc_ms(n):
+  a = n * '0'
+  return int(str(pow(2, n)) + a)
+```
 
