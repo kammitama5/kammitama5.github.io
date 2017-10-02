@@ -141,4 +141,12 @@ def calc_ms(n):
 
 ## Things to think about
 
+- (From Haskell notes..week three)
+- [Tree Traversal](https://en.wikipedia.org/wiki/Tree_traversal#Pre-order)
 - [Visitor patterns] (https://en.wikipedia.org/wiki/Visitor_pattern)
+
+## Things to do
+
+- C++ Assignment 
+- C++ Midterm assignment
+- Nanodegree Jupyter analysis/ report
