@@ -2,3 +2,132 @@
 
 - So...I'm back from Strange Loop, and I am *exhausted*!
 
+## Overall
+
+- A great conference, even though I suffered from people overload! 
+- I think I personally do better at a bit smaller-sized conferences.
+  All the talks were great, though!
+  
+## On the way there
+
+- You can see the Arch!
+
+<img src="/images/sloop/sl_001.png" width="500">
+
+## Check in was very smooth!
+
+<img src="/images/sloop/sl_009.png" width="500">
+
+- Union Station hotel. It used to be an old train station! 
+- It's 24 acres! I did get lost a few times!
+
+<img src="/images/sloop/sl_013.png" width="500">
+
+<img src="/images/sloop/sl_014.png" width="500">
+
+- The staff there was quite hospitable, and there was a Light and Fire show every hour (on the hour!)
+
+## Pre-conference party
+
+- I woke up late the first day, just in time for the food-trucks. 
+
+<img src="/images/sloop/sl_002.png" width="500">
+
+- These were the fish tacos. I did a workshop on Tensorflow on my first day.
+
+## That night, we attended the pre-conf party at the City Museum
+
+- It was *awesome*.
+
+<img src="/images/sloop/sl_006.png" width="500">
+
+- Part of the outside, which was filled with slides, a suspension bridge, 
+  a gutted out airplane, etc
+
+<img src="/images/sloop/sl_003.png" width="500">
+
+- caves with dinosaurs!
+
+<img src="/images/sloop/sl_004.png" width="500">
+
+- Slides, slides everywhere
+
+<img src="/images/sloop/sl_005.png" width="500">
+
+- A bunch of devs in a pool of plastic balls, playing hoops!
+
+<img src="/images/sloop/sl_007.png" width="500">
+
+- Someone mentioned there was a ferris wheel on top of the roof! 
+  So we got a group of about ten people going and started our journey!
+  
+<img src="/images/sloop/sl_008.png" width="500">
+
+- I had never been on a Ferris Wheel before, much less on one that was   
+  sitting on a rooftop. I made friends with a Googler Guy from NY, 
+  who was my buddy, and tried to make casual conversation so I wouldn't 
+  be distracted by the fact that I was sort of scared $h!tless :)
+  
+## The conference
+
+- I attended Simon Marlow's talk on Haxl,
+  a talk on SAT Solvers that involved architectural constrains (and Rhino! I've used Rhino!)
+  and Dependent Types in Haskell. Also a talk on Crypto and password-less passwords,
+  and one on Flutter. Also attended the Keynote on Open Source, which was quite good!
+  
+## Project Alloy event
+
+- Attended this event at the Centene, to which we were shuttled. The event was quite
+  elaborate. 
+  
+<img src="/images/sloop/sl_010.png" width="500">
+
+- They even had a photobooth. I made two friends (well, more than two haha).
+
+<img src="/images/sloop/sl_011.png" width="500">
+
+- The girl to the left, Frances, did a talk on TypeScript, for the Lightning Talks.
+
+- Another friend did a talk on "Why Haskell", which I heard was quite hilarious. 
+  I was too burnt out at that time, and opted instead for a private stream watching Haskell
+  with a friend remotely. That pretty much ended my day.
+  
+## Dropbox
+
+- Project Alloy was nice enough to even have a speaker; Aston. He was the first 
+  employee of Dropbox. He spoke about his journey. He felt like he was "lucky".
+  But he went to MIT. His friend invited him to join Dropbox early. I wouldn't call
+  that "luck" at all. Heck, many of the applications to companies flat out ask you 
+  if you have affiliations with Ivy Leagues, so I can imagine (even though I go to a
+  crappy school without connections) if I didn't have the past experience of doing a 
+  semester at an Ivy (non-tech related), I'd be sweating bullets. And I still get passed
+  over/ rejected. 
+  
+- I think around that time, though, I started feeling a little bit like I didn't belong.
+  Everyone around me just felt like they were smarter, had it all together, etc. 
+  Plus, I had gotten a rejection email from a company I had gotten to step two of (ie 
+  they had made their decision after a coding test I submitted, which made me feel like
+  crap about my coding abilities).
+  
+- So I was in full imposter-syndrome-mode. I sort of felt like I had stepped into the 
+  Stepford Wives of tech, and I shouldn't be there. But I love coding. I love the tech
+  community more than anything. So it just made me sad and I skipped out on seeing my friend, 
+  Frances' talk, and on two other friends who invited me to dinner, which made me feel a bit
+  $h!tty. I chatted with my friend over the private stream about it, and he made me feel better,
+  though. I'm really thankful for that. 
+
+## Conclusion
+
+- I am really thankful for the opportunity to have attended Strange Loop. I'd like to go back
+  at some point, but I'm also driven to become a better programmer. I hope that there's a space
+  in the industry for me. People were so nice there; there were so many wonderful people. 
+  There were also so many companies recruiting. So..we'll see.
+
+## And Goodbye
+
+<img src="/images/sloop/sl_015.png" width="500">
+
+- Back we go. Back to my favourite bed!
+
+
+
