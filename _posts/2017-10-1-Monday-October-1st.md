@@ -184,6 +184,16 @@ def calc_ms(n):
   return int(str(pow(2, n)) + a)
 ```
 
+- return square of each elem in list 
+
+```
+def square(numbers):
+    arr = []
+    for i in numbers:
+        arr.append(i * i)
+    return arr
+```
+
 ## Things to think about
 
 - (From Haskell notes..week three)
