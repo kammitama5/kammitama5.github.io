@@ -93,7 +93,7 @@
 
 - The prompt upon leaving 
 
-<img src="/images/pscript/ps_004.png" width="300"> 
+<img src="/images/pscript/ps_004.png" width="200"> 
 
 - Obligatory "Hello World" in PureScript 
 
