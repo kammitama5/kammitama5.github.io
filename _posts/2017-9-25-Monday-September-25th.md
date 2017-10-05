@@ -311,6 +311,7 @@ def powers(lst):
     b = pow(2, a)
     return b
 ```
+
 - alternate capitals by even/odd index and return as list
 
 ```
@@ -332,4 +333,5 @@ function capitalize(s){
    arr.push(second)
    return(arr)
 };
+
 ```
