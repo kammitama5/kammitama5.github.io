@@ -93,16 +93,16 @@
 
 - The prompt upon leaving 
 
-<img src="/images/pscript/ps_004.png" width="200"> 
+<img src="/images/pscript/ps_004.png" width="100"> 
 
 - Obligatory "Hello World" in PureScript 
 
-<img src="/images/pscript/ps_005.png" width="300"> 
+<img src="/images/pscript/ps_005.png" width="200"> 
 
 - installing pureScript-global and browsing the module 
 
-<img src="/images/pscript/ps_006.png" width="500"> 
+<img src="/images/pscript/ps_006.png" width="300"> 
 
 - solution for my exercise from my first programme 
 
-<img src="/images/pscript/purescriptareacircle.png" width="300"> 
+<img src="/images/pscript/purescriptareacircle.png" width="200"> 
