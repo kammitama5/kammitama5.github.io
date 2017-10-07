@@ -52,7 +52,7 @@
 - book (PureScript by example)
 - Getting started with PureScript (pureScript documentation)
 
-## Future Wrok
+## Future Work
 
 - ApplicativeDo
 - SAT Solvers (constraints/ solutions)
