@@ -106,3 +106,18 @@
 - solution for my exercise from my first programme 
 
 <img src="/images/pscript/purescriptareacircle.png" width="200"> 
+
+## Katas
+
+- Find number of non-even substrings in a string integer
+
+```
+def solve(s):
+  arr = []
+  import itertools
+  a = (s[i:j] for i, j in itertools.combinations(xrange(len(s)+1), 2))
+  for i in a:
+    if int(i) % 2 != 0:
+      arr.append(i)
+  return len(arr)
+```
