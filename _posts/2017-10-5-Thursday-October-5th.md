@@ -165,3 +165,13 @@ function findNum(n){
   return result
 }
 ```
+- take an array, sort it in desc order and add liftoff essentially
+
+```
+function liftoff(instructions){
+    instructions = instructions.sort((a, b) => a - b);
+    var a = instructions.reverse()
+    var b  = a.join(' ') + ' liftoff!'
+    return(b)
+}
+```
