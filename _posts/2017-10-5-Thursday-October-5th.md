@@ -220,3 +220,20 @@ function whatday(num) {
     return 'Wrong, please enter a number between 1 and 7'
   }
 ```
+- check if string includes 'tree fiddy' or '3.50' or 'three fifty'
+
+```
+function isLockNessMonster(s) {
+    var a = 'tree fiddy'
+    var b = '3.50'
+    var c = 'three fifty'
+    
+    if (s.includes(a) || s.includes(b) || s.includes(c)){
+      return true
+    }
+      else{
+        return false
+      }
+    return
+}
+```
