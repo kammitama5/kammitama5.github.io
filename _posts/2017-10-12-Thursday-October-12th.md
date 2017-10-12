@@ -21,6 +21,8 @@
  - Going on a day-sail on Sunday
  - Working with my classmate on a C++ midterm project
  - Oh, and this upcoming Wednesday is my Midterm exam
+ - I'm hoping that once my Nanodegree is completed, I can just focus on C++, and do some Haskell and PureScript (continue)
+ - Also, learn a bit of Excel (just the function-related parts)
  
 ## Apple Valley
 
