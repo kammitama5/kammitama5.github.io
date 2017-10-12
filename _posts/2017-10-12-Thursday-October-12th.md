@@ -13,7 +13,7 @@
 - It's a really great group; I'm part of the Santa Monica Bay chapter, 
   that usually sails outside of Marina Del Rey.
   
- ## Upcoming
+## Upcoming
  
  - I am meeting with my JPL-mentor this evening.
  - Tomorrow, I pack for a day-trip to San Jose, where I'll be attending a Data Science event at Paypal.
