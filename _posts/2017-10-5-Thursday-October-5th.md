@@ -258,3 +258,10 @@ function armstrong(num){
   return
 }
 ```
+- turn num to binary string
+
+```
+def int_to_bin(x):
+	z = str(bin(x));
+	return z[2:]
+```
