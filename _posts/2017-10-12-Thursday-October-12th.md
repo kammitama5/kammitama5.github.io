@@ -16,8 +16,9 @@
 <img src="/images/wowwah.png" width="400">
 
 - And here is a photo of us on the boat, holding signs that say "I love WSA"!
+  You can see me holding the heart emoji :P
 
-<img src="/images/wowwah2.png" width="400">
+<img src="/images/wowwah2.png" width="500">
 
 - It's a really great group; I'm part of the Santa Monica Bay chapter, 
   that usually sails outside of Marina Del Rey.
