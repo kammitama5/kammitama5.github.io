@@ -1,4 +1,4 @@
-## Featured in magazine and SCNA
+## SCNA and featured in WSA Magazine!
 
 - First up...I received a Grant courtesy [8th Light](https://8thlight.com/) to attend the [SCNA](https://scna.softwarecraftsmanship.org/), which is a software
   conference that focuses on Craftsmanship. It is a one-day conference of talks, and on the 
