@@ -20,7 +20,7 @@
 
 <img src="/images/wowwah2.png" width="500">
 
-- It's a really great group; I'm part of the Santa Monica Bay chapter, 
+- It's a really great group; I'm part of the [Santa Monica Bay chapter](http://wsasmb.org/), 
   that usually sails outside of Marina Del Rey.
   
 ## Upcoming
