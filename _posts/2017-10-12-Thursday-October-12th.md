@@ -4,6 +4,10 @@
   conference that focuses on Craftsmanship. It is a one-day conference of talks, and on the 
   second day, we have a day of a code! I'm really excited and feel quite fortunate to be a part 
   of this event this year!
+  
+- I'll be sure to document my experience of the event, and of course, my progress/ learning!
+
+## WSA - Santa Monica Bay chapter
 
 - So..we were featured in WSA (Women's Sailing Association)'s magazine for the past race!
 
@@ -20,9 +24,15 @@
   
 ## Upcoming
  
- - I am meeting with my JPL-mentor this evening.
+ - I am meeting with my JPL-mentor this evening (*update* this was wonderful. We ate dumplings, 
+   listened to Jazz and talked about radioisotopes, and then I received the ACM Sigplan 1992 Haskell
+   Documentation, with some Fortran scribbled on the back of some pages!) :)
  - Tomorrow, I pack for a day-trip to San Jose, where I'll be attending a Data Science event at Paypal.
  - I'm also finishing up my Nanodegree, which should be done in the next week and a half.
+   I may actually do *both* the back-end and Data Science projects. I may choose to do the 
+   Back-end for Nov (1st), and the Data Science by mid-Dec deadline. We'll see. I realized they're teaching
+   SQL and Vagrant, so I'm hopping right into that. I am having a bit of an issue with vagrant on one 
+   machine, but the other one should be better (hopefully will be all set up by end of this weekend).
  - Going on a day-sail on Sunday
  - Working with my classmate on a C++ midterm project
  - Oh, and this upcoming Wednesday is my Midterm exam
