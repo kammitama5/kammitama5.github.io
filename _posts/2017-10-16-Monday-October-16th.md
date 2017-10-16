@@ -45,6 +45,14 @@
 
 - I highly enjoyed this tutorial/ overview. 
 
+## PureScript Online Meeting
+
+- In the middle of my conference, from around 1 to 3:30pm, I took part in the Online PureScript meeting.
+- It was wonderful!
+
+- We covered a bit of what subsumption was, contravariance and compilers.
+- Also learned a bit about existentian quantifiers
+
 ## I went sailing
 
 - Took a direct trip back to LA, slept for an hour and then
