@@ -98,6 +98,7 @@ function theLongest(text){
 }
 ```
 - take position and the dice roll and double it. Return position
+```Rust```
 
 ```
 fn move_hero(position: u32, roll: u32) -> u32 {
