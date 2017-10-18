@@ -128,3 +128,11 @@ function hasOneChar(s) {
       return
 }
 ```
+- find mean of three nums
+
+```
+function mean(a,b,c){
+  var mean = (a + b + c) / 3
+  return mean
+}
+```
