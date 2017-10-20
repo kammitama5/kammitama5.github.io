@@ -74,6 +74,10 @@
   (which I wanted to learn)
   , and then when I have my certificate, 
   doing Data Science from the ground up.
+  
+## Want to learn about
+
+- System F vs System U and graph reduction (Haskell's compiler system)
 
 ## Katas
 
