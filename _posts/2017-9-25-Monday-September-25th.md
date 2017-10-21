@@ -295,7 +295,10 @@ function capitalize(s,arr){
   return b
 };
 ```
+
 - Yep...this [guy](https://www.codewars.com/users/donaldsebleung) did a map. This was his solution
+
+
 ```
 
 let cap = (s, a) => s.split``.map((c, i) => a.includes(i) ? c.toUpperCase() : c).join``;
@@ -333,5 +336,4 @@ function capitalize(s){
    arr.push(second)
    return(arr)
 };
-
 ```
