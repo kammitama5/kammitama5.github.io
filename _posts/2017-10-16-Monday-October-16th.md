@@ -51,7 +51,7 @@
 - It was wonderful!
 
 - We covered a bit of what subsumption was, contravariance and compilers.
-- Also learned a bit about existentian quantifiers
+- Also learned a bit about existential quantifiers.
 
 ## I went sailing
 
