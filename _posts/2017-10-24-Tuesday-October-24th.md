@@ -96,3 +96,14 @@ Here are some pics!
 
 <img src="/images/chrome17/chrome_0107.png" width="400">
 
+## Things going on
+
+- I have SCNA on Friday
+- I have a C++ midterm project I'm working on
+- Finishing up my Nanodegree
+- Have coding interview question to do (only 2 hours or so)
+
+And..that's about it!
+
+
+
