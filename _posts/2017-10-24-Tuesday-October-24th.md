@@ -105,5 +105,25 @@ Here are some pics!
 
 And..that's about it!
 
+## Katas
+
+- if you can fill an order based on stock, return true
+  else return False. SKUs baby!
+  
+```
+def fillable(stock, merch, n):
+    for key in stock:
+      if merch in stock:
+        if key == merch and stock[key] >= n:
+          return True
+          break;
+        elif key == merch and stock[key] < n:
+          return False
+      else:
+        return False
+        break; 
+    return
+```
+
 
 
