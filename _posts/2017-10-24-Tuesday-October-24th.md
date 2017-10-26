@@ -178,3 +178,15 @@ def detect_operator(num):
       return "no info"
     return
 ```
+- this was unnecessary
+
+```
+def types(x):
+    try:
+      a = ((type(x)))
+      return a[8:-2]
+        
+    except:
+      return x
+```
+
