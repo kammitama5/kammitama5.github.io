@@ -178,7 +178,9 @@ def detect_operator(num):
       return "no info"
     return
 ```
-- this was unnecessary
+- this was unnecessary.
+  Returning type but wasn't passing. 
+  Unexpectedly, got it to pass tests.
 
 ```
 def types(x):
