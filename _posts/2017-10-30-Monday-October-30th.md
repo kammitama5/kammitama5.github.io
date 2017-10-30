@@ -183,11 +183,16 @@
 
 - Finished a coding quiz. I didn't do at all as well as I would have liked,
   but it was my first timed quiz, so I can only get better from there, 
-  knowing what to expect. 
+  knowing what to expect. Goal: get better
+- Tactic: Do a HackerRank problem a day (at least 5 a week)
   
-- Finishing up Homework 4 in C++
+- Finishing up Homework 4 in C++ (done)
+
+- Start on final project (from 10/30) so you can 
+  have a nice, finished portfolio piece in C++
 
 - Getting my Markdown file completed today and finishing up 
   Python code to wrap up Nanodegree. My Postgres works,
   so all is good on that front. We'll see how it works
-  with my code (hopefully tonight)
+  with my code (hopefully tonight) 
+  - Markdown is done!
