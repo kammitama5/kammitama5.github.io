@@ -17,6 +17,17 @@
   
 - Yes, my parents and teachers are very happy for me :)
 
+
+## SCNA
+- I was quite fortunate to have recevied a Grant to attend this year's SCNA! 
+- It was a wonderful experience, and there were *so* many Functional Programmers!
+
+- I've been told that any conference that focuses on Craftsmanship is sure to 
+  draw a fair number! I was not disappointed! I would definitely return to this conference!
+  
+- We were actually given the opportunity to learn from each other and code, which was worth
+  its weight in gold for me in terms of the experience! Thank you, SCNA!
+  
 ## Friday/ Saturday = SCNA
 
 - So SCNA is the Software Craftsmanship of North America conference
