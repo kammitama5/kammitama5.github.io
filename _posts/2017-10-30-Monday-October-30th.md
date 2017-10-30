@@ -1,5 +1,7 @@
 ## SCNA re-cap and Google/ Udacity Scholarship!
 
+## I got a Google Developer Challenge Scholarship! 
+
 <img src="/images/scna/Google-Dev-EMEA-Badge.png" width="250">
 
 - I received a wonderful email this morning which read
@@ -14,8 +16,6 @@
   few months. 
   
 - Yes, my parents and teachers are very happy for me :)
-
-## I got a Google Developer Challenge Scholarship! 
 
 ## Friday/ Saturday = SCNA
 
