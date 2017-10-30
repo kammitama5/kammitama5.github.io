@@ -20,9 +20,9 @@
   
 <img src="/images/scna/scna_003.png" width="400">
 
-<img src="/images/scna/scna_004.png" width="400">
+## The answer is "Richie Rich Hickey" :)
 
-- The answer is "Richie Rich Hickey" :)
+<img src="/images/scna/scna_004.png" width="400">
 
 <img src="/images/scna/scna_005.png" width="400">
 
@@ -34,7 +34,7 @@
   I paired with two people; the first of whom 
   was familiar with Ruby. The goal was to solve
   Conway's Game of Life.
-- We decided to start with the definition of a Board first
+- We decided to start with the definition of a Board first.
 
 - My second partner uses C#, so we got set up 
   on his laptop. I actually liked his set-up a lot.
@@ -48,6 +48,21 @@
 ## After lunch (Saturday)
 
 - We did mob programming with Woody. 
+
+## Mob Programming?
+
+- Yup. There are different definitions, but the 
+  simplest involves a group of about five people,
+  and a driver and navigator.
+- The group observes and when asked, can help the 
+  navigator, who tells the driver what to do. 
+  When navigating, he's not spitting out code...
+  he's expressing an idea, such has "I'd like to define 
+  what "dead" (as in a dead cell in Conway's Game of Life)
+  is. If the driver needs help with syntax, etc,
+  he/ she can ask, but typically, the driver does *not*
+  speak; only the navigator does. 
+  
 - We used Java to first start writing unit tests. 
   The first was to not use anything but primitives. 
   People then focused on state.
