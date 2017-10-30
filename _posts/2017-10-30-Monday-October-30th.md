@@ -1,6 +1,6 @@
 ## SCNA re-cap and Google/ Udacity Scholarship!
 
-<img src="/images/scna/Google-Dev-EMEA-Badge.png" width="300">
+<img src="/images/scna/Google-Dev-EMEA-Badge.png" width="250">
 
 - I received a wonderful email this morning which read
   ```
