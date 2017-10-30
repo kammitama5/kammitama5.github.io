@@ -1,4 +1,21 @@
-## SCNA re-cap and following week
+## SCNA re-cap and Google/ Udacity Scholarship!
+
+<img src="/images/scna/Google-Dev-EMEA-Badge.png" width="300">
+
+- I received a wonderful email this morning which read
+  ```
+  We are excited to offer you a Google Developer Challenge Scholarship to the Front-End Web Developer track.
+  We received applications from many talented and motivated candidates, and yours truly stood out.
+  ```
+  
+## What this means
+
+- I'll be starting a brand, new shiny Nanodegree and learning some JQuery and JavaScript over the next
+  few months. 
+  
+- Yes, my parents and teachers are very happy for me :)
+
+## I got a Google Developer Challenge Scholarship! 
 
 ## Friday/ Saturday = SCNA
 
