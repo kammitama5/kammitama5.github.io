@@ -114,10 +114,22 @@
 
 ## The answer is "Richie Rich Hickey" :)
 
+- It says "This world's wealthiest little boy, he created Clojure"
+
 <img src="/images/scna/scna_004.png" width="400">
+
+- Categories: 
+  - It's all Assembly to me
+  - Movie Titles, Refactored
+  - Name the Decade
+  - The Binary World of Sports
+  - Stupid Acronyms (yes, GNU was one of them!)
 
 <img src="/images/scna/scna_005.png" width="400">
 
+- This is a discontinued programming language created by 
+  James Gosling in 1991. It later evolved to become Java. 
+  
 <img src="/images/scna/scna_006.png" width="400">
 
 ## Saturday was a day of code (optional)
