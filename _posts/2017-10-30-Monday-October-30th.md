@@ -8,8 +8,100 @@
   
 ## Friday
 
-- Friday was a series of presentations from various speakers
+- Friday was a series of presentations from various speakers.
 
+- Phil spoke about Mission Critical systems. 
+  He works with embedded medical devices, programming in C++.
+  He also did Haskell for fun as a hobby, but mostly works in Clojure for fun now.
+  
+- He was saying scarily there is a lot of cutting and pasting of code in these systems.
+
+- Also, for their interviews, about 50% of people fail an interview to add a 
+  node to a linked list, which is essentially two lines of code :/
+  
+- He mentioned IEC 62304, which is a Medical Device Software International Standard
+  specification document. His field is quite strict about requiring documentation
+  before implementation, which is actually a bit of an opposite mentality to
+  the software world. 
+  
+- He spoke about formal validation by clients -> does a device behave how you'd 
+  expect it to behave (if the client doesn't know software but understands how
+  the device *should* work). This was really interesting. There are also assumptions
+  with regards to this that a client has. 
+  
+- When writing documentation, he said do not define things like "this is a for loop",
+  but rather, the assumptions made (blah blah is a log of whatever value, defined as,
+  linear relationship, etc).
+  
+- He referenced a book called "Release It! Design and Deploy Production- Ready
+  Software" by Michael T. Nygard
+  
+- Also, Hazard Analysis - evaluating modes of failure your product has experienced,
+  and stress-testing, such as Chaos Monkey/ Chaos Kong, which I've already mentioned
+  on this blog (via Netflix)
+  
+- Also, the standardization AAMI TIR32 is a "Medical Device Software Risk Management"
+  document that details all the ways software can break in devices. So that's a valuable
+  document for their field. 
+  
+## Techniques for Quality
+
+- Phil deals with C++, so he spoke about immutable data,
+  multiplying by fractions to ensure not dividing by zero, and using
+  generative testing and chaos engineering techniques/ stress testing
+  
+- What is interesting is that in his industry, if your product doesn't
+  meet FDA standards, the FDA can actually demand that you rent competitors' 
+  products until you fix your product, which is costly. 
+  
+- Also, each failure means more regulations
+
+## Woody - Mob Programming
+
+- Advantages: reduces bugs, short feedback group, focus, 
+  training happens immediately for junior devs
+  
+- Person with idea takes keyboard
+
+- Driver takes input from team and turns it into code 
+
+- He spoke about a troubled team that he had been brought in to fix,
+  and they were able to study and practice together. 
+  They had daily retrospectives and in the end, were able to
+  go back to the troubled code-base and fix it as a team.
+  Woody's pretty great. I feel honoured to have done mob-coding
+  with him, even though clumsy Aspie me spilled a little bit of 
+  tea on his Mac laptop (and he was so cool about it to boot!). 
+  I'm sort of clumsy :/
+  
+## Sarah/ Bobby
+
+- Sarah and Bobby are a married couple. Sarah gave a talk on 
+  raising their two children and how the couple has been 
+  able to integrate Computational Thinking, such as merge sort
+  and thinking computationally into play and learning with their
+  children. 
+  
+- Bobby worked at Lockheed, NASA and Thoughtworks, before working
+  at Uptake, which has something like a 2B dollar valuation and 
+  grew to about 800 employees in 3 years. He was really into 
+  graph theory and structured editors and analyzing code 
+  using thing like DSMs (Dependency Structure Matrices). 
+  He likes Cytoscape for visualzing and mathematically 
+  analyzing relationships in a code-base, so we can 
+  start quantifying relationships mathematically. 
+  It was starting to remind me a lot of that Clojure/Conj
+  talk I saw on Proto-REPL (I attended that conf before
+  I started blogging). 
+  
+## Elizabeth 
+- Gave a talk on "is the best software written alone".
+  The answer is (in her opinion) "No".
+  
+## Amanda
+- gave a talk on TEAL. Interesting concepts, but I don't
+  think something like that may necessarily be practical
+  given the structure of some organizations. 
 
 ## Software Jeopardy
 
