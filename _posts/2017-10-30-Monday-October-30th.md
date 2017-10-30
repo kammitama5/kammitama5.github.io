@@ -6,8 +6,12 @@
 
 - I received a wonderful email this morning which read
   ```
-  We are excited to offer you a Google Developer Challenge Scholarship to the Front-End Web Developer track.
-  We received applications from many talented and motivated candidates, and yours truly stood out.
+  We are excited to offer you a
+  Google Developer Challenge Scholarship
+  to the Front-End Web Developer track.
+  We received applications from many 
+  talented and motivated candidates,
+  and yours truly stood out.
   ```
   
 ## What this means
