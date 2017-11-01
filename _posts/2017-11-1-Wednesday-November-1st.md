@@ -6,7 +6,7 @@
 - But, Good news! I finished my Nanodegree project!
 - I even amended the code after my review and 
   did a mini-course on Markdown.
-- The linter (PEP8) was challenging, but very much
+- The linter [(PEP8)](https://www.python.org/dev/peps/pep-0008/) was challenging, but very much
   appreciated. I made the mistake of going between
   two text editors (Sublime and Notepad++), and one
   of them didn't have proper settings for tabs and spaces.
