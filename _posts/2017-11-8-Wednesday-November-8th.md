@@ -1,10 +1,34 @@
-## Long Time no See...updates
+## Long Time no See...and LambdaConf 2018!
 
 ## Hey everyone!
 
 - Long time no see :)
 
 - I've been working locally on some stuff.
+
+## LambdaConf?
+
+- Yes, yes, it's true! I'll be attending! 
+- Apparently, unbeknownst to myself, I won a blog competition about 
+  LambdaConf 2017, which scored me tickets to next year's LambdaConf!
+  I cannot tell you how truly thankful I am for this opportunity!
+  I hope one day I'll be in the position to help others! The community 
+  is just *really* supportive of me, and I feel really grateful!
+  
+## Confession
+
+- I've been sort of out of sorts. I've been taking a break and my good
+  friend and I aren't on speaking terms, which is sort of a bummer.
+  I'm hoping he'll come around. I do miss talking with him, and I really 
+  was looking forward to meeting his dogs! (okay, maybe 80 percent was
+  about meeting the dogs haha).
+- It's really difficult for me in general to be close to anyone, and twice
+  this year I've been burned, so it's sort of emotionally taken a toll on me.
+  Programmers are definitely a unique bunch, and very much have a particular 
+  introversion. With introversion, there is often a lot of misunderstanding.
+  So I've been a little rant-y on Twitter lol. ¯\_(ツ)_/¯
+  
+- I'm definitely one to bounce back, though!
 
 ## Tomorrow...Haskell!
 
@@ -23,9 +47,9 @@
 
 - So far, I've made these using [Piskel](https://www.piskelapp.com/).
 
-<img src="/images/upp/up_001.png" width="400">
+<img src="/images/upp/up_001.png" width="300">
 
-<img src="/images/upp/up_002.png" width="400">
+<img src="/images/upp/up_002.png" width="200">
 
 ## UML
 
