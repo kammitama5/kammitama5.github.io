@@ -33,9 +33,12 @@
 
 ## Tomorrow...Haskell!
 
-- I'll be going to a Haskell talk on Facebook's GHC Haxl Linker system!
+- I'll be going to a [Haskell talk](https://www.meetup.com/haskellhackers/events/244525354/) on Facebook's GHC Haxl Linker system!
 - I'm excited to catch up with friends!
 - Oh, and the following day, when I get back, I have an interview for an internship! :)
+- Phil also scheduled the next [PureScript meetup](https://www.meetup.com/LA-PureScript/events/244935247/). I'll be in Maryland at the [John Hopkins Applied Physics lab](https://en.wikipedia.org/wiki/Applied_Physics_Laboratory),
+  for a [Flight Software Workshop](http://flightsoftware.jhuapl.edu/) on autonomous spacecraft, so I won't be able to make it physically,
+  but I'll *definitely* be there for the livestream!
 
 ## Final Project
 
