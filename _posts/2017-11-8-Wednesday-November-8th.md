@@ -82,6 +82,9 @@
   
 ## Things to do/ upcoming
 
+- So um..that daily Hackerrank will have to wait. 
+  I'm not sure I can do this *every* day. Maybe once a week is more realistic,
+  given all the updates.
 - Chug along with the game (week one expectations/ plans)
 - Go to class tonight! :)
 - Continue with Nanodegree
