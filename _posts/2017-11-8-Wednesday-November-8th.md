@@ -26,7 +26,8 @@
   this year I've been burned, so it's sort of emotionally taken a toll on me.
   Programmers are definitely a unique bunch, and very much have a particular 
   introversion. With introversion, there is often a lot of misunderstanding.
-  So I've been a little rant-y on Twitter lol. ¯\_(ツ)_/¯
+  So, like any good programmer-in-training,
+  I've been a little rant-y on Twitter lol. ¯\_(ツ)_/¯
   
 - I'm definitely one to bounce back, though!
 
