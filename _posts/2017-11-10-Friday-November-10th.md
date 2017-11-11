@@ -11,7 +11,9 @@
 - I realized that the only thing I could do to resolve the issue with my friend is
   to drop out of the community completely. The more I found out about the individual,
   I realized that the person was toxic. My brother's been in the loop on this stuff,
-  and I sent him a blog post someone else made about the guy, and the first thing he said
+  and I sent him a blog post someone else made about the guy
+  (in which other people actually commented that they had blocked the guy, who is a well-known troll)
+  , and the first thing he said
   was "wow...X is abusive" and that if that's how he is, I didn't need that in my life. 
 - What was worse was that it was starting to affect my reputation, in that I was 
   now being perceived as "crazy" (as the individual was saying about me) and it was even implied by the individual that 
