@@ -13,8 +13,12 @@
   I realized that the person was toxic.
 - What was worse was that it was starting to affect my reputation, in that I was 
   now being perceived as "crazy" and it was even implied by the individual that 
-  I was a stalker lol. I know...hilarious, right? So I spoke to the mods about it,
-  and they of course were on his side because I'm sure he presented a good case,
+  I was a stalker lol. I know...hilarious, right? 
+  It's very hurtful when someone you thought was a friend does this, because (at least I do)
+  I hold my friends to a high standard. But at the end of the day, you need to associate
+  with people who are positive and have values that match your own, or yours will be sullied.
+  So I spoke to the mods about it,
+  and they of course were on his side because I'm sure he presented his case,
   and I had been gone for two days (on a bus, travelling, with no wifi), but 
   then the mod started apologizing when I started explaining my side, and said he 
   felt it was more of a miscommunication, but it made me angry because I anticipated this,
@@ -25,6 +29,8 @@
 - I feel a bit angry with myself for trusting this person. This individual has a history
   of abusive behavior, misogyny and unstable mental issues. Plus, he's also in a legal
   battle with someone else he was close with, which is a whole other drama thing. 
+  He spends his day insulting people and is a negative person. I must have been out of my 
+  mind to trust him.
   So yeah..it was bad judgment on my part to befriend and trust this person, become close
   to them, and not expect it would blow up at some point. Really bad. 
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
