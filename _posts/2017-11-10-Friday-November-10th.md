@@ -57,6 +57,11 @@
   I think, affecting my code and making it cleaner (one of the positives I heard today),
   I think it's distracting me from just learning a language I can think in.
   Right now, that's language is actually more C++, but I've been telling everyone it's Python :/
+- I honestly don't even know how to do OOP in Python, but telling someone you know how to do 
+  OOP in C++ opens up a whole other can of worms. (I do know OOP in C++ though).
+  I feel like telling people I know C++ is like lying lol. It's such a huge language, but
+  I've also invested *so* much time in it. But I feel so far away from understanding it. 
+  It's like the unknowable langage haha.
 - I also just really like C++, and people look at my resume and see C++, but I don't feel
   comfortable enough to test in it, which is making me test in other languages I may not
   quite be as good in, which is making me seem less competent. So I'm thinking just stick
