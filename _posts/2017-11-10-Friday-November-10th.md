@@ -37,7 +37,7 @@
   to them, and not expect it would blow up at some point. Really bad. 
   It gave me a great reason to leave the community, though. That worked out perfectly!
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
-  My brother had a talk to me the other day and told me that this is a weakness we have, 
+  My brother had a talk with me the other day and told me that this is a weakness we have, 
   and that some people really are just not nice people. It's something I have to remember
   going forward. Having an engineer's mind means I always want to fix things!
 
@@ -45,7 +45,8 @@
 
 - There will probably be less FP; it's probably a good thing, because even though it is,
   I think, affecting my code and making it cleaner (one of the positives I heard today),
-  I think it's distracting me from just learning a language.
+  I think it's distracting me from just learning a language I can think in.
+  Right now, that's language is actually more C++, but I've been telling everyone it's Python :/
 - I also just really like C++, and people look at my resume and see C++, but I don't feel
   comfortable enough to test in it, which is making me test in other languages I may not
   quite be as good in, which is making me seem less competent. So I'm thinking just stick
