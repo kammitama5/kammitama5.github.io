@@ -36,6 +36,9 @@
   So yeah..it was bad judgment on my part to befriend and trust this person, become close
   to them, and not expect it would blow up at some point. Really bad. 
   It gave me a great reason to leave the community, though. That worked out perfectly!
+  The mod was shocked. He said "you're leaving because of one person?". Yup. But more 
+  importantly, I think that when you put yourself in a positive path, and surround yourself
+  with good people, you set yourself up for success. 
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
   My brother had a talk with me the other day and told me that this is a weakness we have, 
   and that some people really are just not nice people. It's something I have to remember
