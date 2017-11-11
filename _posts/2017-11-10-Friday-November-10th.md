@@ -35,6 +35,9 @@
   to them, and not expect it would blow up at some point. Really bad. 
   It gave me a great reason to leave the community, though. That worked out perfectly!
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
+  My brother had a talk to me the other day and told me that this is a weakness we have, 
+  and that some people really are just not nice people. It's something I have to remember
+  going forward. Having an engineer's mind means I always want to fix things!
 
 ## Moving forward
 
@@ -51,4 +54,13 @@
 
 - Was really great. We went out for drinks and eats at Firehouse in Sunnyvale afterwards. 
 - I took notes; it ended up being two presentations! Yass! :)
+
+## Things to do Fri/Sat/Sun
+
+- Continue with Nanodegree (Google/ Udacity challenge)
+- Continue with C++ game
+- Get started on my JPL application
+
+=====================================
+- And..that's about it...
 
