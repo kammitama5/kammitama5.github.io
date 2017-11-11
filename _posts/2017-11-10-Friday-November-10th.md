@@ -30,7 +30,7 @@
   about my future for it to be sabotaged.
 - I feel a bit angry with myself for trusting this person. This individual has a history
   of abusive behavior, misogyny and unstable mental issues. Plus, he's also in a legal
-  battle with someone else he was close with, which is a whole other drama thing. 
+  battle with someone else he was close with involving money and property rights, which is a whole other drama thing. 
   He spends his day insulting people and is a negative person. I must have been out of my 
   mind to trust him.
   So yeah..it was bad judgment on my part to befriend and trust this person, become close
