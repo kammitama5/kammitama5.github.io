@@ -14,7 +14,7 @@
   and I sent him a blog post someone else made about the guy, and the first thing he said
   was "wow...X is abusive" and that if that's how he is, I didn't need that in my life. 
 - What was worse was that it was starting to affect my reputation, in that I was 
-  now being perceived as "crazy" and it was even implied by the individual that 
+  now being perceived as "crazy" (as the individual was saying about me) and it was even implied by the individual that 
   I was a stalker lol. I know...hilarious, right? I still have a bit of good humour about everything.
   It's very hurtful when someone you thought was a friend does this, because (at least I do)
   I hold my friends to a high standard. But at the end of the day, you need to associate
