@@ -13,7 +13,7 @@
   I realized that the person was toxic.
 - What was worse was that it was starting to affect my reputation, in that I was 
   now being perceived as "crazy" and it was even implied by the individual that 
-  I was a stalker lol. I know...hilarious, right? 
+  I was a stalker lol. I know...hilarious, right? I still have a bit of good humour about everything.
   It's very hurtful when someone you thought was a friend does this, because (at least I do)
   I hold my friends to a high standard. But at the end of the day, you need to associate
   with people who are positive and have values that match your own, or yours will be sullied.
@@ -33,6 +33,7 @@
   mind to trust him.
   So yeah..it was bad judgment on my part to befriend and trust this person, become close
   to them, and not expect it would blow up at some point. Really bad. 
+  It gave me a great reason to leave the community, though. That worked out perfectly!
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
 
 ## Moving forward
