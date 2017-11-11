@@ -30,6 +30,9 @@
   and I felt like it was better for me to not be a part of the community.
 - The funniest thing was that I was being cynical and said "cause I'm crazy", and the mod kept saying
   "stop saying you're crazy". Hahah. I know I"m not. That's a certainty. I'm as level-headed as they come.
+  Also a pretty focused, hardworking individual. This past week alone, two people praised my work ethic. 
+  I may not be the best programmer now, but you bet in a year I'll be twice as good, and so forth going onward.
+  I'm determined.
 - Anyways, I don't want this sort of stuff to happen again. I work too hard and I care too much
   about my future for it to be sabotaged.
 - I feel a bit angry with myself for trusting this person. This individual has a history
