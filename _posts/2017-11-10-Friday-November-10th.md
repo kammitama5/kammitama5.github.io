@@ -28,7 +28,9 @@
   felt it was more of a miscommunication, but it made me angry because I anticipated this,
   and was warned by someone with good judgment that this would happen,
   and I felt like it was better for me to not be a part of the community.
-  I don't want this sort of stuff to happen again. I work too hard and I care too much
+- The funniest thing was that I was being cynical and said "cause I'm crazy", and the mod kept saying
+  "stop saying you're crazy". Hahah. I know I"m not. That's a certainty. I'm as level-headed as they come.
+- Anyways, I don't want this sort of stuff to happen again. I work too hard and I care too much
   about my future for it to be sabotaged.
 - I feel a bit angry with myself for trusting this person. This individual has a history
   of abusive behavior, misogyny and unstable mental issues. Plus, he's also in a legal
