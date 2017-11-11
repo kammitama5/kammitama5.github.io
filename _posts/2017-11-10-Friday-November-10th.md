@@ -60,6 +60,9 @@
 
 - Was really great. We went out for drinks and eats at Firehouse in Sunnyvale afterwards. 
 - I took notes; it ended up being two presentations! Yass! :)
+- I'm undecided about whether I should make the hotswapping an entire post or just include it here.
+- Eh..I'll probably make an entire post this weekend, so I can link to the repo and stuff. 
+  It was really fascinating, as was the other talk on Probability Distribution, given by Tikhon. 
 
 ## Things to do Fri/Sat/Sun
 
