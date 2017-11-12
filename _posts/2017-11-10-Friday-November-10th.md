@@ -103,4 +103,12 @@ function danspower(num, power) {
     }
 }
 ```
+- sort textbooks. This one, I had to do research on.
+  Only way that worked was lambdas, to specify how to sort
+  capitals and common letters
+  
+```
+def sorter(textbooks):
+    return sorted(textbooks, key=lambda v: (v.upper(), v[0].islower()))
+```
 
