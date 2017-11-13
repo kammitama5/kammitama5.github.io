@@ -1,4 +1,4 @@
-## Sunnvayle Trip and Afterthoughts
+## Sunnyvale Trip and Afterthoughts
 
 ## Got back from Haskell Hackers
 
