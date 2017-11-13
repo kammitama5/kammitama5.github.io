@@ -57,7 +57,8 @@ see line 152
 ```
 unless resolved $ do
     unloadObj newSO
-    throwIO (ErrorCall $ "Unable to resolve objects for " ++ newSO)
+    throwIO (ErrorCall $ "Unable to resolve 
+    objects for " ++ newSO)
 ```
 - looks at all undefined objects, makes sure all resolved, nothing is missing
 
@@ -78,7 +79,8 @@ c_sym <- lookupSymbol symName
 
 ```
 updateState mvar symbolName nextPath = do
-  newVal <- force <$> loadNewSO symbolName nextPath
+  newVal <- force <$> l
+  oadNewSO symbolName nextPath
   -- Build a new state for this version
 ```
 - if in middle of process, lock old state
