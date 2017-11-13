@@ -54,37 +54,6 @@
 
 see line 152
 
-## Tikhon gave a talk on Programming with Probability
-
-- I had seen his talk at Compose Conference, so was interesting to see how he adapted it
-  for more business-oriented audience (he was using us as his test audience for a presentation
-  he had to give internally the next morning)
-  
-- Supply chain optimization is stochastic
-- Target has 87 stores to be supplied by 37 supply centres
-- Their job is to minimize total inventory while supplying stores. 
-  Thinking about things like spoilage, while keeping inventory on shelves. 
-
-## There is an element of Demand uncertainty
-
-- We don't know what will sell, if any
-- Probability Distributions needed
-  - sampling simulations (useful for where small sample size needed)
-  - exhaustive (where entire distribution is needed).
-    Useful for applying domain-specific algorithms where specific data is needed
-
-## A probability can be thought of a map from set to weight, where the weights add up to 1
-
-- So a probability is a map from ```a -> b```
-- Therefore, distributions form a functor
-
-- A die can be thought of a boolean operation
-- If we take odds as 1 and evens as 0, we can map the value to a coin
-- However, it becomes difficult to reverse this, as we lack information
-  (two values to represent six). How then, do we add the "noise" back?
-  He referenced a monadic bind operator
-  
-  
 ```
 unless resolved $ do
     unloadObj newSO
@@ -127,6 +96,36 @@ updateState mvar symbolName nextPath = do
 - cross-boundary inlining (I need to look this up. I know what function
   inlining is)
 - flag..keep haskell code in binary
+
+## Tikhon gave a talk on Programming with Probability
+
+- I had seen his talk at Compose Conference, so was interesting to see how he adapted it
+  for more business-oriented audience (he was using us as his test audience for a presentation
+  he had to give internally the next morning)
+  
+- Supply chain optimization is stochastic
+- Target has 87 stores to be supplied by 37 supply centres
+- Their job is to minimize total inventory while supplying stores. 
+  Thinking about things like spoilage, while keeping inventory on shelves. 
+
+## There is an element of Demand uncertainty
+
+- We don't know what will sell, if any
+- Probability Distributions needed
+  - sampling simulations (useful for where small sample size needed)
+  - exhaustive (where entire distribution is needed).
+    Useful for applying domain-specific algorithms where specific data is needed
+
+## A probability can be thought of a map from set to weight, where the weights add up to 1
+
+- So a probability is a map from ```a -> b```
+- Therefore, distributions form a functor
+
+- A die can be thought of a boolean operation
+- If we take odds as 1 and evens as 0, we can map the value to a coin
+- However, it becomes difficult to reverse this, as we lack information
+  (two values to represent six). How then, do we add the "noise" back?
+  He referenced a monadic bind operator
 
 
 
