@@ -74,8 +74,28 @@ c_sym <- lookupSymbol symName
   This is so that when a new instance is called, it doesn't conflict 
   with old symbols
   
-  
+- updateState... line 118
 
+```
+updateState mvar symbolName nextPath = do
+  newVal <- force <$> loadNewSO symbolName nextPath
+  -- Build a new state for this version
+```
+- if in middle of process, lock old state
+
+## Some complexities / things to think about
+
+- sticky shared objects 
+- can't persist data or code
+- cap on shared object size
+- forced calls (DeepSeq) - squashes all forms (not too clear on this)
+- Haskell vs C...in Haskell, text is an object on the heap
+
+## Other discussions
+
+- cross-boundary inlining (I need to look this up. I know what function
+  inlining is)
+- flag..keep haskell code in binary
 
 
 
