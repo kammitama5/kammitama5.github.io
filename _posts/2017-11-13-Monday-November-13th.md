@@ -40,7 +40,7 @@
 
 - Here is sort of a rough diagram of how it is visualized
 
-<img src="/images/hotswap.png" width="300">
+<img src="/images/hotswap.png" width="400">
 
 
 
