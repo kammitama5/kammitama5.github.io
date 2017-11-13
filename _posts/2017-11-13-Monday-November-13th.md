@@ -42,6 +42,40 @@
 
 <img src="/images/hotswap.png" width="400">
 
+- dynamic linking : he used an example of taking 
+  every instance of "foo" and replacing in binary
+  an object that represents the function you named "foo" in 
+  your function
+  
+- Types: describes boundary between main binary and shared object 
+
+## Haskell code/ repo time 
+- [Resolved](https://github.com/fbsamples/ghc-hotswap/blob/master/ghc-hotswap/GHC/Hotswap.hs)
+
+see line 152
+
+```
+unless resolved $ do
+    unloadObj newSO
+    throwIO (ErrorCall $ "Unable to resolve objects for " ++ newSO)
+```
+- looks at all undefined objects, makes sure all resolved, nothing is missing
+
+- c_sym line 157
+
+```
+c_sym <- lookupSymbol symName
+  h <- case c_sym of
+    Nothing -> do
+```
+- assuming all resolved, can pull symbols out
+
+- purge vs unload- keep libraries but forget symbols you know about.
+  This is so that when a new instance is called, it doesn't conflict 
+  with old symbols
+  
+  
+
 
 
 
