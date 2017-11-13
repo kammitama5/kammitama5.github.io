@@ -30,3 +30,13 @@
 - GHCI concept as a server wasn't performant 
 - GHCI was compared to Haskell's runtime by itself 
 
+## Concept of Hotswapping
+
+- should be able to suck in code the same way a bytestring or text is sucked in
+- Hotswapping shared objects
+.so or .dll where new version of binary is swapped with old one
+
+- [reference repo(https://github.com/fbsamples/ghc-hotswap/)
+
+
+
