@@ -36,7 +36,12 @@
 - Hotswapping shared objects
 .so or .dll where new version of binary is swapped with old one
 
-- [reference repo(https://github.com/fbsamples/ghc-hotswap/)
+- [reference repo](https://github.com/fbsamples/ghc-hotswap/)
+
+- Here is sort of a rough diagram of how it is visualized
+
+<img src="/images/hotswap.png" width="300">
+
 
 
 
