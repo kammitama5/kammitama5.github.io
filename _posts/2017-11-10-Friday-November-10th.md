@@ -40,12 +40,18 @@
   battle with someone else he was close with involving money and property rights, which is a whole other drama thing. 
   He spends his day insulting people and is a negative person. I must have been out of my 
   mind to trust him.
-  So yeah..it was bad judgment on my part to befriend and trust this person, become close
+  
+- So yeah..it was bad judgment on my part to befriend and trust this person, become close
   to them, and not expect it would blow up at some point. Really bad. 
-  It gave me a great reason to leave the community, though. That worked out perfectly!
+- I was telling my mom that I'm also hurt because when you think someone is your friend,
+  and they relegate you to "crazy", it makes you wonder what they really thought of you,
+  all this time. It's kind of like a giant back-stabbing, which was just crushing. 
+  
+- It gave me a great reason to leave the community, though. That worked out perfectly!
   The mod was shocked. He said "you're leaving because of one person?". Yup. But more 
   importantly, I think that when you put yourself in a positive path, and surround yourself
   with good people, you set yourself up for success. 
+  
 - That's my Catholic (actually Anglican :)) upbringing for you. Seeing the best in people.
   My brother had a talk with me the other day and told me that this is a weakness we have, 
   and that some people really are just not nice people. It's something I have to remember
@@ -109,6 +115,7 @@ function danspower(num, power) {
   
 ```
 def sorter(textbooks):
-    return sorted(textbooks, key=lambda v: (v.upper(), v[0].islower()))
+    return sorted(textbooks, key=lambda
+    v: (v.upper(), v[0].islower()))
 ```
 
