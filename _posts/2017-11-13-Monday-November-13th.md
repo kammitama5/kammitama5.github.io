@@ -127,5 +127,58 @@ updateState mvar symbolName nextPath = do
   (two values to represent six). How then, do we add the "noise" back?
   He referenced a monadic bind operator
 
+## What we can do
+
+- We have two dice
+- We can take all the probabilities possible and then flatten them
+- We can also take a biased set of coins, for example,
+  one that gives a probability of .1 for heads and .9 for tails
+  and create with two of them, a tree of all possibilities.
+  We can also then flatten or simplify that tree into just heads
+  or tails 
+  
+- He also discussed join and flat map with similar analogies
+
+## Ideas/ Things to think about 
+
+- This is not viable for long scaling of applications.
+  When you flatten a probability graph, it may not accurately
+  represent probability distribution
+- there are models that are say, quadratic, that don't fit
+- there are languages with randomness built into them
+
+## He mentioned a paper
+
+- [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
+
+## That's about it
+
+- We went out to [Firehouse](http://firehousegrill.com/) afterwards for food and drinks!
+- I had about seven minutes between the time Caltrain arrived and the time I caught my
+  bus back at San Jose Diridon. Tikhon was nice enough to keep an eye on the time for me.
+  I also met Nick, from my FP Slack. He said he probably wouldn't have even made it if 
+  I didn't tell him about the Meetup. That was really nice of him! I had a blast,
+  and man, the company was just wonderful! Left the Meetup with a smile on my face,
+  and lots to think about!
+  
+## Things this week
+
+- I'm going to this Recruitment event tomorrow, or if not, my sailing Monthly meeting. 
+  It's an invite-only event, so we'll see. 
+- Have to work on C++ game. Ben (from my Haskell group) was really nice and said if 
+  I needed any assistance, to feel free to contact him! Means a lot; he's *awesome* at
+  C++, and I like getting beaten up by C++, and keep coming back for more! :)
+- C++ exam...wrote up cheat sheet today (I need more practice on Operator overloading).
+- Have to work on Google / Udacity coursework. My internet was a bit down today,
+  but it's back up, so....good timing
+- Also, I finished my resume for this application that had very specific requirements.
+  It was my first time writing an academic resume. Man, they have different interests.
+  They care more about things like Publications and Presentations, which is interesting. 
+  I don't have much of that, but hey, it's something I can work on in the future! Right now,
+  I'd like the opportunity and I'd like to continue coding. It's the one thing I'd love to do
+  for the rest of my life. I just have to get a professor recommendation and submit (fingers crossed).
+  
+## And..that's it!
+
 
 
