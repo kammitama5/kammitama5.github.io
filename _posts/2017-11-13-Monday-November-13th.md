@@ -167,7 +167,7 @@ updateState mvar symbolName nextPath = do
 
 - I'm going to this Recruitment event tomorrow, or if not, my sailing Monthly meeting. 
   It's an invite-only event, so we'll see. 
-- Have to work on C++ game. Ben (from my Haskell group) was really nice and said if 
+- Have to work on C++ game. [Ben](https://www.youtube.com/watch?v=ojZbFIQSdl8) (from my Haskell group) was really nice and said if 
   I needed any assistance, to feel free to contact him! Means a lot; he's *awesome* at
   C++, and I like getting beaten up by C++, and keep coming back for more! :)
 - C++ exam...wrote up cheat sheet today (I need more practice on Operator overloading).
