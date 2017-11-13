@@ -1,4 +1,4 @@
-## Hotswapping and Afterthoughts
+## Sunnvayle Trip and Afterthoughts
 
 ## Got back from Haskell Hackers
 
