@@ -1,4 +1,4 @@
-## Hotswapping Haskell
+## Hotswapping Haskell and Probabilistic Programming 
 
 - Jon Coens gave a talk on Haxl's GHC Linker system.
   These are notes based on a presentation he gave at [Haskell Hackers](https://www.meetup.com/haskellhackers/events/244525354/)
