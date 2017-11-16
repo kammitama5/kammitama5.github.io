@@ -86,3 +86,23 @@
   so I may just chip away on my html instead.
 - And, that's it.
 
+## Katas
+
+- count number of zeros from 1 to number
+
+```
+def count0(n):
+    arr = ""
+    count = 0
+    # contained numbers in one large string
+    # broke it up into a list of indiv digits
+    # for every zero string, increase count
+    for i in range(1, n+1):
+        arr += str(i)
+    list1 = list(arr)
+    for i in list1:
+      if i == "0":
+        count += 1 
+    return count
+```
+
