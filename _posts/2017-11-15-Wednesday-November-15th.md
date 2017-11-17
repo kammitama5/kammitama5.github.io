@@ -94,7 +94,10 @@
 
 - This cool person in the Haskell communite showed us the [Survey Report](https://www.haskell.org/communities/11-2017/report.pdf),
   and I was able to learn about a Haskell internship opportunity at [Los Alamos
-  Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), as well as another possible data analysis one. 
+  Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), as well as another possible data analysis one.
+  
+- Projects the Haskell community is working on are just *wild*. My eyes were popping out of my head as I pored through the report.
+  The projects are *amazeballs!*
 
 ## Katas
 
