@@ -51,7 +51,7 @@
   It was really refreshing.
 - What was also interesting was that even though the event was more full-stack,
   they were also interested in my interest in data analysis, and functional programming.
-  They encouraged it. Even Latham, is a law-firm, spoke about data analysis with me, 
+  They encouraged it. Even Latham, a law-firm, spoke about data analysis with me, 
   and said that my name actually stuck out on the list of developers (okay, so there were
   about three female developers there lol).
 
