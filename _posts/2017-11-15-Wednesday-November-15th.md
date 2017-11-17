@@ -3,7 +3,7 @@
 ## Got an invite-only ticket to HackerX.
 
 - There isn't a lot of information online as to people's experiences,
-  so I was evident, but I thought to be a *fantastic* event. 
+  so I was hesitant, but I thought to be a *fantastic* event. 
   
 - The event is one that takes place about once a year, typically
   either in the "Full Stack" or "Front End" categories. It 
@@ -17,6 +17,10 @@
 - The way it works is that you show up, enjoy some great eats and drinks,
   and are given a name-tag with a number. I was in group one, 
   so we were allowed to line up first.
+  
+- The general pattern is basically starting at one end of the room,
+  and going to each and every employer. You have to, so that everyone
+  gets a fair shot. As such, the pick was pretty solid.
   
 - We then entered a room where we were given five minutes each to talk 
   to about thirteen companies.
@@ -80,11 +84,17 @@
   
 ## Things to do
 
-- I have to do an exam today. Yeah...C++ lol.
+- I have to do an exam today. Yeah...C++ lol (completed. I "mash that up" haha).
 - It's been difficult to do my C++ stuff during the day,
   (lol it's difficult to hide a giant IDE at work)
   so I may just chip away on my html instead.
 - And, that's it.
+
+## Randomly
+
+- This cool person in the Haskell communite showed us the [Survey Report](https://www.haskell.org/communities/11-2017/report.pdf),
+  and I was able to learn about a Haskell internship opportunity at [Los Alamos
+  Laboratory](https://en.wikipedia.org/wiki/Los_Alamos_National_Laboratory), as well as another possible data analysis one. 
 
 ## Katas
 
