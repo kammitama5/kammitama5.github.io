@@ -23,7 +23,7 @@
   gets a fair shot. As such, the pick was pretty solid.
   
 - We then entered a room where we were given five minutes each to talk 
-  to about thirteen companies.
+  to about fifteen companies.
   The companies I spoke to were:
   - Centerfield (Host company)
   - Hireclout (Sponsor)
@@ -38,6 +38,8 @@
   - The Baby Box Co.
   - Latham & Watkins
   - Renew
+  - GOAT
+  - Maestro.IO
   
 - Surprisingly, they were all really very welcoming and friendly. One company
   (Hireclout) asked for my resume via email before I even attended the event, 
