@@ -51,10 +51,10 @@
   "we want this in our language, or as a library...let's do it!!", and then you have a great rustle of excitement. 
   It's the best thing! To not involve yourself in that stuff is just kind of ...sad.
   
-## I've also been scheduling and rescheduling interviews with a few companies. It's kind of like
-   one a day each day (including one from an investment bank! My first haha. I'm only mentioning 
+## I've also been scheduling and rescheduling interviews with a few companies. 
+-  It's kind of like one a day each day (including one from an investment bank! My first haha. I'm only mentioning 
    because my brother works at one). I'm just going to try to do my best. I really want to intern 
-   at NASA first, though (I know that sounds weird, but I really do!)
+   at NASA first, though. (I know that sounds weird, but I really do!)
    
 ## And that's it...actually....(well actually haha)
 
