@@ -9,7 +9,7 @@
 - I hoping to add gravity and stuff, but essentially, the goal
   would be to colonize the moon. 
   
-<img src="/images/moonm/moonm_002.png" width="400">
+<img src="/images/moon_m/moonm_002.png" width="400">
 
 - This is the planet. It has gravity and stuff
 
@@ -18,7 +18,7 @@
 - He has a little flag that you can collect at some point and get to 
   a point to colonize
   
-<img src="/images/moonm/moonm_001.png" width="400">
+<img src="/images/moon_m/moonm_001.png" width="400">
 
 - Come on now...are you surprised? ¯\_(ツ)_/¯. Maybe next I can make
   an asteroid-drilling game with flying asteroids and stuff. lol. 
