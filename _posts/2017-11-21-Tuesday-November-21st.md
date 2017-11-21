@@ -18,7 +18,7 @@
 - He has a little flag that you can collect at some point and get to 
   a point to colonize
   
-<img src="/images/moon_m/moonm_001.png" width="400">
+<img src="/images/moon_m/moonm_001.png" width="300">
 
 - Come on now...are you surprised? ¯\_(ツ)_/¯. Maybe next I can make
   an asteroid-drilling game with flying asteroids and stuff. lol. 
