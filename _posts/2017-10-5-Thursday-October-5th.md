@@ -6,7 +6,7 @@
 
 ## JS issues ... why PureScript 
 
-- JS had for Phil, and inability to reason about code
+- JS had for Phil, an inability to reason about code
 - scaling up/ getting up to speed with a large code-base is often difficult
 - PureScript produces minimal and easily readable JS 
 - it doesn't contain bloated libraries; you use more of only what you need
