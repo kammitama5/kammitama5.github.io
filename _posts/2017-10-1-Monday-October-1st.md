@@ -71,7 +71,7 @@
 ## The conference
 
 - I attended Simon Marlow's talk on Haxl,
-  a talk on SAT Solvers that involved architectural constrains (and Rhino! I've used Rhino!)
+  a talk on SAT Solvers that involved architectural constraints (and Rhino! I've used Rhino!)
   and Dependent Types in Haskell. Also a talk on Crypto and password-less passwords,
   and one on Flutter. Also attended the Keynote on Open Source, which was quite good!
   
