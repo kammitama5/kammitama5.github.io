@@ -30,7 +30,7 @@
 
 - Also, I decided to learn some JQuery on CodeCademy, just because I didn't think
   I understood it well enough in the course. Event listeners were sort of straight-
-  forard, though. Maybe because I've done them before in Java or something? Dunno.
+  forward, though. Maybe because I've done them before in Java or something? Dunno.
   
 ## Upcoming...
 
