@@ -61,3 +61,28 @@
 - I'm going to be in SF on the 2nd for a PCB workshop, and then I head to Maryland the next day.
   That's in a week and a half from now. So def posting up some pics and a write-up on that. Ugh. Snow!
   *jingle jingle Santa Clause black ice*
+  
+## Katas
+
+- Find biggest combo of number sequence given. 
+  Make allowances for inputs that may be strings instead of ints
+  
+```
+const rotateToMax = n => {
+  var str = n.toString()
+  var strarr = str.split("")
+  var arr = []
+  for (var i = 0; i < strarr.length; i++){
+    arr.push(parseInt(strarr[i]))
+  }
+  var arr = arr.sort(function(a, b){return a - b});
+  var arr1 = arr.reverse();
+  var final = arr1.join("")
+  var final1 = parseInt(final)
+  
+  return final1
+}
+
+rotateToMax(123)
+rotateToMax(786)
+```
