@@ -21,3 +21,18 @@
 ## I also stayed up late
 
 - I was up late last night looking at Sandy make a game in Haskell! 
+
+- I actually learned quite a bit from just watching his hour and a half or so
+  of [streaming on Twitch](https://www.twitch.tv/isovector), because I had just 
+  learned about deltas, and he was doing things with .tmux files and making collision,
+  friction, etc. Plus, he made some boosting/ attenuation. 
+- It was really interesting to see, also, that he had to make his own library for [Clock](https://hackage.haskell.org/package/time-1.8.0.3/docs/Data-Time-Clock-POSIX.html).
+  using [Posix](https://hackage.haskell.org/package/unix)
+  
+## Also on Slack
+
+- So I'm on a different Slack (haha I'm a serial Slacker!) :) 
+  and they gave me great advice about just possibly doing some Haskell over the break.
+  I have a coupon that expires after a year once I log in, so I was actually thinking of doing that,
+  but it's in JS. 
+
