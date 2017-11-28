@@ -114,7 +114,7 @@ maxDifference(24, 28)#0
 - given an array of ints, return the sum
   of all the ints that have an even index,
   multiplied by the int at the last index.
-  array empty, return 0
+  Array empty? Return 0.
 
 ```
 function evenLast(numbers) {
