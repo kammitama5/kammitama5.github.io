@@ -20,7 +20,7 @@
 
 ## I also stayed up late
 
-- I was up late last night looking at Sandy make a game in Haskell! 
+- I was up late last night looking at [Sandy](https://github.com/isovector?page=2&tab=repositories) make a game in Haskell! 
 
 - I actually learned quite a bit from just watching his hour and a half or so
   of [streaming on Twitch](https://www.twitch.tv/isovector), because I had just 
@@ -34,5 +34,13 @@
 - So I'm on a different Slack (haha I'm a serial Slacker!) :) 
   and they gave me great advice about just possibly doing some Haskell over the break.
   I have a coupon that expires after a year once I log in, so I was actually thinking of doing that,
-  but it's in JS. 
+  but it's in JS. But I'm not really *excited* about JS :/
+- So Haskell and C++ it is over the break!
+
+## Coming up
+- I'm going to SF and then Maryland over the next couple of days.
+- I'm also decorating a boat! 
+- I have an exam next week Wednesday (C++).
+
+## And, that's about it!
 
