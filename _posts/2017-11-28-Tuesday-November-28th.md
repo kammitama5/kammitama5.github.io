@@ -7,9 +7,9 @@
   I actually set him to the bottom left so I can work on jumping, gravity and collision.
   So those are my next goals.
 
-<img src="/images/buzzmoves/buzz.png" width="400">
+<img src="/images/buzzmoves/buzz.png" width="300">
 
-<img src="/images/buzzmoves/buzz1.png" width="400">
+<img src="/images/buzzmoves/buzz1.png" width="300">
 
 ## Also
 
