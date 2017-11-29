@@ -9,7 +9,8 @@
   
 - This is actually for a class where I could have done something a lot easier, but...¯\_(ツ)_/¯
 
-- Games... ARE... FUN!
+- Games... ARE... FUN! Something about it is just..liberating. And it's very fulfilling when
+  things just..work.
 
 <img src="/images/buzzmoves/buzz.png" width="300">
 
