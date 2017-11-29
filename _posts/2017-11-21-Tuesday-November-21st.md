@@ -1,4 +1,4 @@
-## Moon Man and an Interview Tip Meetup
+## Moon Man and an 'Interview Tips' Meetup
 
 ## Hiya everyone! 
 - It's Thanksgiving Week! That means...I can stay home and work!
