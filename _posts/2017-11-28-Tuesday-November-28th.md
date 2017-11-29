@@ -4,6 +4,9 @@
 
 - I've been busy working on my game.
   Good news! He moves and is animated! 
+  Also, the WASD buttons work! You can also press Q to quit.
+  Maybe I should change that, as they're so close to the WASD buttons. 
+  That might be annoying...
   I actually set him to the bottom left so I can work on jumping, gravity and collision.
   So those are my next goals.
   
