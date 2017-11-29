@@ -117,6 +117,22 @@ function sortByArea(array)
   return arr3;
 }
 ```
+- check to see if an array contains the elements that can be used to spell "BINGO", given A = 1, etc
+
+```
+function bingo (arr) {
+  //There was a farmer who had a dog...
+  if ((arr.includes(2)) && (arr.includes(9)) && (arr.includes(14)) && (arr.includes(7)) && (arr.includes(15)))
+  {
+    return("WIN")
+  }
+  else
+  {
+    return("LOSE")
+  }
+  return
+}
+```
 
 ## And, that's about it!
 
