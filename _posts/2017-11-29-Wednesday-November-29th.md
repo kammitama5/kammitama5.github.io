@@ -35,7 +35,7 @@
 
 ## Oh...
 
-- I'm starting to mentor a student or two (??) from tomorrow; I heard it starts from then.
+- I'm starting to mentor a person or two (??) from tomorrow; I heard it starts from then.
 - I also am supposedly house-sitting sometime in December. I've never house-sat before, but I heard
-  that there are *dogs*, so that makes it perfection (well, that and wifi).
+  that there are *dogs*, so that makes it perfection (well, that and wifi). 
 
