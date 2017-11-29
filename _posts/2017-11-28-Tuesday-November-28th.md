@@ -36,7 +36,7 @@
   learned about deltas, and he was doing things with .tmux files and making collision,
   friction, etc. Plus, he made some boosting/ attenuation. 
 - It was really interesting to see, also, that he had to make his own library for [Clock](https://hackage.haskell.org/package/time-1.8.0.3/docs/Data-Time-Clock-POSIX.html).
-  using [Posix](https://hackage.haskell.org/package/unix)
+  using [Posix](https://hackage.haskell.org/package/unix).
   
 ## Also on Slack
 
