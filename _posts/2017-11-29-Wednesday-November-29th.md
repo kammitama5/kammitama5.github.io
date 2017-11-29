@@ -6,12 +6,14 @@
 
   - collision (need to figure out) with ground and player. The issue is that my ground is not 
     currently in a class, but the player is. I was thinking of just checking also that it (the player) is 
-    a certain Y axis and have that as the threshhold. I'm still thinking it through. I am thinking 
-    I have to somehow get the Bounds of each and check to see if they intersect, and then go from there.
+    a certain Y-axis and have that as the threshhold. I'm still thinking it through. I am thinking 
+    I have to somehow get the Bounds of each object and check to see if they intersect, and then go from there.
     Apply some sort of force back or change the speed...something. Working on that.
-  - I also tried a .wav file today via their loadFile. If I add sound, the functionality slows down.
+  - I also tried a .wav file today via their loadFile. If I add sound, the functionality slows down. Ack!
     Not good. I don't currently *need* sound, but I set up the function and tested it, so that's something
     to be aware of, moving forward.
+  - I was also able to set up a pause function. Wasn't too bad, even though of course, I can work on it some
+    more. 
   
 - Once I figure out collision, I can start to work on jumping/ physics 
 
@@ -20,7 +22,7 @@
   
 ## Learned about
 
-- AABB collison vs Pixel based collision. 
+- AABB collision vs Pixel based collision. 
   There is a really interesting book I'm looking at, also, in general, on Game Patterns. 
   I think that sort of stuff in general is really helpful. Yep, I know I mentioned it before.
   Broken record here (it me) :)
