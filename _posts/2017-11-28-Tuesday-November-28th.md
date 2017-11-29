@@ -52,6 +52,19 @@
   try to keep working on my game or work on another game (perhaps using [Open GL](https://www.opengl.org/)).
 - I need to understand Game Programming Algorithms/ Patterns in general. I think 
   they (Algorithms are people too) will make me a better programmer. 
+  
+## Update
+- I was chosen by Udacity to be a mentor! 
+  This means that I get to mentor a student in Python in the Nanodegree that I just took!
+  I'm excited to meet him / her! 
+  Plus, even though I'm green, it's an opportunity for me to share my passion with this person
+  (so that they'll continue and see how fun all of this is!) and to give back.
+- Giving back is important to me. I'm not yet able to financially (although honestly, I think that
+  this will not be a concern pretty soon), but I hope that one day
+  I can give back to the community that has really given me *so* much! Programming changed 
+  my life for the better. I'm green, but I love everything about the tech community and programming
+  right now. Even though it's hard, the field is made up of incredibly supportive, passionate people. 
+  I can't be anything but thankful for that. And they just have the *perfect* sense of humour!
 
 ## Coming up
 - I'm going to SF and then Maryland over the next couple of days.
