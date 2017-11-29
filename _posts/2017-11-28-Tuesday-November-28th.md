@@ -72,5 +72,9 @@
 - I have an exam next week Wednesday (C++).
 - I have an interview and a coding interview to do...yep..more professional stuff.
 
+## Oh
+- Someone on Quora linked to [HackerTyper](hackertyper.com). I laughed my butt off. However, I wonder if there's a 
+  Haskell version of this! Maybe I can make one! 
+
 ## And, that's about it!
 
