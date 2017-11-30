@@ -38,4 +38,23 @@
 - I'm starting to mentor a person or two (??) from tomorrow; I heard it starts from then.
 - I also am supposedly house-sitting sometime in December. I've never house-sat before, but I heard
   that there are *dogs*, so that makes it perfection (well, that and wifi). 
+  
+## Katas
+
+- create rectangular pattern given ```*```, width and height
+
+```
+function rectangle(char, width, height)
+{
+  var arr = []
+  var x = (char.repeat(width))
+  //console.log(x)
+  for (var i = 0; i < height; i++){
+    var z = (x)
+    arr.push(z)
+  }
+ 
+  return arr.join("\n")
+}
+```
 
