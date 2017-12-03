@@ -120,7 +120,7 @@
 ## Afterwards
 
 - I had an informal interview. I then had some time to grab dinner!
-  They were busy, and the server felt badly becuase one of their servers
+  They were busy, and the server felt badly because one of their servers
   was drunk (!!), so she threw in some butterscotch pudding. That made 
   me happy! :)
   
