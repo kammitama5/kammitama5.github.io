@@ -2,6 +2,8 @@
 
 - Hi All! I'm back from San Francisco. 
 
+<img src="/images/pcb_blog/pcb9.png" width="400">
+
 ## I got in around 5:30am
 - I was able to solve one question in yesterday's Advent of Code, but didn't have time for the second part.
   Then. It was off to my workshop.
