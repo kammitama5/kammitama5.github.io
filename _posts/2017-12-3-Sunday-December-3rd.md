@@ -9,6 +9,8 @@
   Then. It was off to my workshop.
   
 <img src="/images/pcb_blog/pcb7.png" width="400">  
+
+- empty board
   
 ## Creating a PCB 
 - Matt (@technolomaniac) has an applied physics background. His career is mostly in high-performance,
