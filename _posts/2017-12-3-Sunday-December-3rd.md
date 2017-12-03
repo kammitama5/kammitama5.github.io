@@ -11,6 +11,16 @@
   high-precision components. He also knows how to programme, and is teaching himself React, while
   also writing software for tools in Eagle CAD and Fusion 360. 
   
+- I like his workshop because they are packed with information (at no cost!), and he has a breadth and depth of 
+  knowledge. Right now, he is working on also creating software that not only works so that PCBs can be routed 
+  and designed in 2D, but that can integrate in 3D (like solidworks-type view).
+- He is also working on route paths that draw from algorithms like AABB and shortest path/topological distance.
+- He's also doing research using neural nets to find the shortest and optimized paths for electronics routing
+  for the software
+  
+- He also showed us gcode, which is what Gerber files use. It's pretty much a series of X and Y coordinates,
+  which was interesting. 
+  
 ## Notes
 - Manufacturing files, fabricating bare board, continuity testing, automated assembly takes up 
   80 percent of time
