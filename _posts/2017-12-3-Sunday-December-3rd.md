@@ -96,13 +96,14 @@
 
 ## Some pics
 
-- We each made our boards. Here is my top side. I'm so proud
+- We each made our boards. Here is the bottom side. I'm so proud
   compared to last time; I definitely improved. Matt said my 
   board was perfectly soldered, except I fogot to do one cap (haha)
   
 <img src="/images/pcb_blog/pcb8.png" width="400">
 
-- Here was a schematic
+- Here was a schematic we drew. I couldn't do the Fusion part because my machine is 32 bit, which isn't supported. 
+  I was able to get a 32 bit Eagle CAD legacy (7.7) version, so I was able to draw this. 
 
 <img src="/images/pcb_blog/schem.png" width="400">
 
