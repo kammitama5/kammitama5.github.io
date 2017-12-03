@@ -8,10 +8,14 @@
 - I was able to solve one question in yesterday's Advent of Code, but didn't have time for the second part.
   Then. It was off to my workshop.
   
+<img src="/images/pcb_blog/pcb7.png" width="400">  
+  
 ## Creating a PCB 
 - Matt (@technolomaniac) has an applied physics background. His career is mostly in high-performance,
   high-precision components. He also knows how to programme, and is teaching himself React, while
   also writing software for tools in Eagle CAD and Fusion 360. 
+  
+<img src="/images/pcb_blog/pcb5.png" width="400">
   
 - I like his workshop because they are packed with information (at no cost!), and he has a breadth and depth of 
   knowledge. Right now, he is working on also creating software that not only works so that PCBs can be routed 
@@ -39,6 +43,10 @@
 - component and part 
 - surface mount pad and land
 - track/ trace/ routes
+
+<img src="/images/pcb_blog/pcb1.png" width="400">
+
+<img src="/images/pcb_blog/pcb2.png" width="400">
 
 ## Cont'd
 - Planar antennas on PCBs is a relatively new concept
@@ -82,5 +90,45 @@
 - silkscreen is last layer 
 - parts on boards have reference designators (R0805, J1, etc)
 
+<img src="/images/pcb_blog/pcb3.png" width="400">
 
+- stencil using stainless steel
+
+## Some pics
+
+- We each made our boards. Here is my top side. I'm so proud
+  compared to last time; I definitely improved. Matt said my 
+  board was perfectly soldered, except I fogot to do one cap (haha)
+  
+<img src="/images/pcb_blog/pcb8.png" width="400">
+
+- Here was a schematic
+
+<img src="/images/pcb_blog/schem.png" width="400">
+
+- We then put our boards in the oven
+
+<img src="/images/pcb_blog/pcb6.png" width="400">
+
+- Someone had a hand-holdable mouse, which I thought was really neat!
+
+<img src="/images/pcb_blog/pcb4.png" width="400">
+
+## Afterwards
+
+- I had an informal interview. I then had some time to grab dinner!
+  They were busy, and the server felt badly becuase one of their servers
+  was drunk (!!), so she threw in some butterscotch pudding. That made 
+  me happy! :)
+  
+<img src="/images/pcb_blog/pcb10.png" width="400">
+
+<img src="/images/pcb_blog/pcb11.png" width="400">
+
+## Tonight
+
+- I have a plane to catch to Chicago, and then Maryland. 
+- I also have exam notes to type up (probably during my flight).
+
+- And..that's about it!
 
