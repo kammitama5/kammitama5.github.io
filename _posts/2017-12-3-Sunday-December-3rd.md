@@ -9,8 +9,6 @@
   Then. It was off to my workshop.
   
 <img src="/images/pcb_blog/pcb7.png" width="400">  
-
-- empty board
   
 ## Creating a PCB 
 - Matt (@technolomaniac) has an applied physics background. His career is mostly in high-performance,
@@ -18,6 +16,8 @@
   also writing software for tools in Eagle CAD and Fusion 360. 
   
 <img src="/images/pcb_blog/pcb5.png" width="400">
+
+- empty board
   
 - I like his workshop because they are packed with information (at no cost!), and he has a breadth and depth of 
   knowledge. Right now, he is working on also creating software that not only works so that PCBs can be routed 
