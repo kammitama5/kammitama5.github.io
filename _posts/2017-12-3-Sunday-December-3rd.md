@@ -135,3 +135,19 @@
 
 - And..that's about it!
 
+## Katas
+- each letter -> a = 1, z = 26, etc
+  if count is 100, return True, else False
+  
+```
+def dollar_word(input_word):
+    a = list(input_word.lower())
+    count = 0
+    for i in a:
+      count = count + (ord(i) - 96)
+    if (count == 100):
+      return True
+    else:
+      return False
+```
+
