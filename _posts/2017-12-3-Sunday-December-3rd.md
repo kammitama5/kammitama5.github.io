@@ -17,7 +17,7 @@
   
 <img src="/images/pcb_blog/pcb5.png" width="400">
 
-- empty board
+- empty board (shown above) which we used to solder parts. It's an LED fidget spinner!
   
 - I like his workshop because they are packed with information (at no cost!), and he has a breadth and depth of 
   knowledge. Right now, he is working on also creating software that not only works so that PCBs can be routed 
