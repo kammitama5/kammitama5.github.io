@@ -150,4 +150,20 @@ def dollar_word(input_word):
     else:
       return False
 ```
+- return frequency count in a string of each element 
+  and return it as a string followed by separator 
+  eg. aabc, * => ```2*1*1```
+  
+```
+def freq_seq(s, sep):
+    arr = []
+    str1 = ""
+    for i in s:
+      arr.append(s.count(i))
+    for j in arr:
+      str1 = str1 + (str(j) + sep)
+    b =  str1[:-1]
+    return b
+```
+  
 
