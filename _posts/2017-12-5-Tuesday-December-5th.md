@@ -189,9 +189,14 @@
   There is that little voice that sometimes says "what if this never pays off for you?". It reminded me of a neighbour or two
   who, years ago, asked me if I'd be a "student for life", or if I was trying to be a professor, because I take classes and they
   saw me coming home at all hours of the night (I still do based on the class). 
-  I forget these is this entire group of people out there who think it's weird to constantly want to self-improve. Thankfully,
+  I forget there is this entire group of people out there who think it's weird to constantly want to self-improve. 
+  As for me, I've never had that feeling of "stability" in the US. It's uncomfortable for me to feel "comfortable". 
+  Every time I do, something tells me to learn a new language or *something*. Do something..learn something..don't take these 
+  opportunities for granted. You might just miss your opportunity. 
+  
+- Thankfully,
   a lot of my life is online, so it's helped me to connect more with people who have similar values to mine and don't judge me
-  for wanting to self-improve. 
+  for wanting to self-improve or work hard. 
   
 - But man, it's hard when you're trying to improve yourself, not sure if will ever pay off, and people take pot-shots, joking that 
   you'll stay in this loop of "taking class forever". Thankfully, it has only been a few years now since then that things have started
@@ -201,7 +206,7 @@
   It mostly takes a lot of guts to just suck
   up off-handed comments and keep going, because *you* want something badly enough. 
   I'm writing this because somewhere, I know that someone is going through a similar struggle..and yes..I still believe that hard work 
-  pays off! 100% Absolutely, even though it's not always in the time-frame you anticipate. 
+  pays off, especially in this country! 100% Absolutely, even though it's not always in the time-frame you anticipate. 
   
 ## So...
 
@@ -215,6 +220,6 @@
 - Oh, and there *needs* to be a CubeSat written in PureScript. if no one does it in a few years, I swear I'll learn 
   some PureScript *just* to do that. 
   
-- And..that's it. 
+- And...that's it. 
 
   
