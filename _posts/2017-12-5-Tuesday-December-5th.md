@@ -137,7 +137,10 @@
 
 <img src="/images/fsw/fs_026.png" width="400">
 
-- On, and this was a fun slide, too
+- On, and this was a fun slide, too. 
+
+- It reads "Questions or Comments". There was also a Matlab code-challenge in C. It was tricky. I still need to find the error. 
+  I took a photo of the code. 
 
 <img src="/images/fsw/fs_001.png" width="400">
 
