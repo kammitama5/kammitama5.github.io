@@ -190,6 +190,9 @@
   Just to get better in general. C, Python and Haskell. I'll do interviews in Python, and strengthen
   my skills in C/C++ and Haskell, until I'm even good enough to do interviews in C++ and Haskell :)
   
+- Oh, and there *needs* to be a CubeSat written in PureScript. if no one does it in a few years, I swear I'll learn 
+  some PureScript *just* to do that. 
+  
 - And..that's it. 
 
   
