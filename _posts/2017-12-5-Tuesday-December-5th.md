@@ -127,7 +127,7 @@
 <img src="/images/fsw/fs_023.png" width="400"> 
 
 - The talk after his was a virtual online one from a gentleman in Argentina who spoke about
-  autonomous spacecraft using polytopes. 
+  autonomous spacecraft using [polytopes](https://en.wikipedia.org/wiki/Polytope). 
   
 - There were also additional talks on Cubesats and ROS
 
