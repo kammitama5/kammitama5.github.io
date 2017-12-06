@@ -18,7 +18,10 @@
 
 - The Flight Software Workshop (now in its 10th year) is a meeting of organizations
   like APL, NASA centres, etc, to talk about and present on Software for things like
-  autonomous missions. Anyone is able to attend, but for some strange reason, I was one 
+  autonomous missions. 
+  It started out small; literally a bunch of engineers sitting around eating a box of pizza, talking.
+  Now, it's limited to 120 participants every year. 
+  Anyone is able to attend, but for some strange reason, I was one 
   of only two students who attended. So it was pretty neat; I was surrounded by some really
   knowledgeable people!
   
