@@ -1,0 +1,366 @@
+Preliminary Investigations Into a Microkernel OSAL for cFS
+
+Gregor Peach, Joseph Espy, Zach Day, Gabriel Parmer, Alex Maloney, Gerald Fry, Curt Wu
+
+How can we use extra computational capacity to increase fault tolerance?
+
+OSAL layer
+
+Rust 
+Computational Crash Cart -> reboot system level components upon failure
+
+http://www2.seas.gwu.edu/~gparmer/publications/rtss13_c3.pdf
+
+ML-based event monitoring
+http://www2.seas.gwu.edu/~gparmer/publications/certs16caml.pdf 
+
+=========================================
+CCDD - Kevin McCluney (JSC NASA) Command and Data Utility
+
+RTEMS OSAL with Runtime Loader Support and other Enhancements - Kevin Gordon, Allen brown,
+Odyssey Space Research LLC
+
+Orion BFS (backup flight system)
+Human-in=the-loop flight mockup 
+==================================
+
+David Akre: Core Flight System of Unique Missions and Experiments 
+cFS
+LunIR Mission -> Lockheed Martin 
+ISS STP-H5 Experiment - 
+Enterprise Flight Software -> LM50 to LM2100 
+
+CHREC Space Processor 
+Evaluation Board
+
+LunIR Mission(LM50)
+
+SHREC-NSF Center for Space, High-performance and resilient computing 
+Hardware- Two CSPv1s, Two SpaceWire Links
+Software - C/C++FSW , CFE/cFS/ OSAL
+
+Successes: reusability with cFS, CFE, PSP and OSAL 
+Ease of usability with RTEMS and CSP 
+Strong collaboration with CHREC 
+
+Challenges:
+schedule constraints
+immature testing environment (internal)
+License agreement with OSAL/PSP 
+
+======================================================
+NASA Technical Fellow 
+
+CFS - software reuse (2 mill saved everytime there is reuse)
+
+Michael Aguilar (NASA)
+
+https://search.code.nasa.gov 
+
+
+SWAMP in a box -> https://www.mir-swamp.org/
+Access behind NASA firewall -> https://swamp.gsfc.nasa.gov/
+===========================================================
+Craig Pires: (Ames)
+
+LADEE-Integrated Command and Telemetry Database 
+
+SCIMI - System Configuration Information and MIssion Interfaces 
+Relational Database based off of Django 
+
+====================================
+
+CFE Make Build System 
+
+Simplify Integrating Apps Together
+
+CMake -> generates make-files
+
+
+Mission Specific -> app selection, table definitions
+Board Support -> cross compiler, tuning flags
+Developer Preferences -> optimization, warning flags
+Application Recipes-> part of apps 
+
+
+=======================================
+
+Edipo Crispim
+CCSDS File Delivery Protocol(CFDP) 
+ VCUB1 -> validate the company's new SW developments
+ 
+ 
+ ====================================
+ 
+ Software Bus Networking
+ -SBN (Christopher.D.Knight@nasa.gov)
+ 
+ Bridging Multiple Core Flight Software buses 
+ 
+ connects local software bus to one or more other CFS nodes such that all messages sent by an application
+ on one bus will be received by an application on another bus 
+ - has a modular network architecture
+ 
+-Demonstracted SBM on FxWorks with 12+ peer TTE network with real time, TTE driven 
+scheduling
+
+Future of SBN
+-expanded APID impacts - filter/remap on "namespaces "
+
+CFS Voting Application:
+A Core flight software application for voting redundant CFS telemetry 
+Christopher D Knight 
+========================================
+
+Simulink Interface Layer (SIL)
+Ames created original version of LADEE mission in partnership with Mathworks 
+
+GSFC received SIL from Ames for use on NICER in 2013
+
+expected to use it on Pace (launching in 2022)
+
+AMES-SIL :
+ biosentinel, RP Rover and drone project  (development continued for)
+ 
+SIL in operation 
+- Event signals, House Keeping, bus Out, Execute, Table Management, etc -> CFE 
+SIL-> glue code allows access to task specific/ project specific architecture 
+
+TLC (target language compiler) file 
+Model 
+SIL (Simulink Interface Layer)
+
+
+GSFC Autocoding Workflow 
+software in partnership with FSW team
+
+Pointing team generates C code, delivers to FSW team for integration with FSW builds
+
+Pointing team develops and tests algorithms in Matlab/ Simulink environment 
+
+conditional statements -> can send different messages based on time, etc
+
+Code Generation:
+Initial Setup-> configure -> use TLC template 
+ click buildsdeliver packaged code to FSW 
+ 
+ Subsequent builds:
+ - drag and drop new generated sources files 
+  update makefiles 
+  compile 
+  
+  Future of SIL
+  -finish implementation of multi-table support (expected in 2017)
+  - refactor SIL implementation to move away from TLC (which Mathworks is slowly deprecating
+  )
+  
+  3 versions of SIL exist:
+  1. GSFC-SIL
+  2. Ames-SIL
+  3. JSC-SIL
+  Looking to unify into a NASA-SIL
+  -looking or input on requirements/ baseline to be useful to all NASA depts 
+  
+  Concerns: Memory and CPU for cubesat applications 
+  =====================================
+  
+  DEMOS 
+  
+  Multi-Satellite Ingest (two satellites in same orbit). One joins and the fourth joins.
+  They communicate with each other using CFS so that they join the same orbit while not
+  colliding with each other 
+  
+  ===========================
+  
+  Day 2 
+  ===========================
+  
+  
+  10 Year Anniversary Looking back 
+  FSW-2017Subodh Harmalkar (240-228-1715) subodh.harmalkar@ghaupl.edu 
+  
+  Gordon Roesler - Robotic Servicing of Geosynchronous
+  Satellites: Adaptability, Affordability, Resilience
+  
+  
+  Robotic Operations in Earth orbit 
+ 
+DARPA-> often demonstrates technical ability to a certain level for a product, 
+and then ask the military if they want it
+
+GEO belt -> why DARPA chose GEO 
+(value of bits -> 127 billion dollars-> satellite TV, satellite radio, satellite
+broadband)-> economic value 
+
+GeoSatellites in the news -> 2017 focused on failures 
+
+14-15 years is typical life of Geosatellites
+
+Poten
+
+tial of space robotics
+Geo today
+- single fairing constraint 
+- no response to failures
+- fixed capabilities
+
+GEO future 
+- on-orbit assembly
+- on-orbit servicing
+- on-orbit upgrades 
+
+Things robotics should be able to do:
+1. value 2. how complex it is 
+refuel/ replace/ asemble/deployment assistance /inspection 
+
+Gen2 Service (future satellites)-> refuel by design
+JSC->already has triple sealed refueling satellites
+
+RSGS: 
+dexterous robotic capability in GEO 
+public-partner partnership 
+partner-SSL (leading supplier)
+  
+ High-resolution inspection/ anomaly correction
+ 
+ AEHF-1 -> experienced propulsion anamoly
+ 
+ Lab only program-> is it possible for satellite to join orbit of other 
+ satellite without control from the ground? 
+ 
+ automation vs teleoperation 
+ 
+ teleoperation-> one spacecraft reaches out to reach other 
+ 
+ mickey mouse looking tool bottom left -> tool changer 
+ 
+ Software : key to safety and efficiency
+ 
+ compliance control-> force allows touch to be soft so robot doesn't push the client
+ object away
+ 
+ marman ring 
+ simulated automated repair demonstration 
+ 
+ DARPA Payload Orbital Delivery(POD) System 
+ 
+ ESPA delivery 
+ 
+ objective: service today's satellites
+ 
+ SSL Dragonfly -> robotic arm on commercial communication satellites
+ -single robotic arm whose job is to take off reflectors, etc (in past reflectors)
+ have been stuck, failed to unfold, etc 
+ -enables satellite to have more reflectors, lose weight to general satellite 
+ 
+ commercial satellites-> their customer base changes 5 to 7 years so they have 
+ an incentive to have modular satellites/ ones that can change 
+patterns are determined by reflectors; presence of arm would make this possible 
+launch reflectors later 
+
+https://sslmda.com/downloads.videos/dragonfly.mp4 
+
+sometimes DARPA does things not because it's "DARPA-hard", but to move things
+along; because it's necessary
+
+Evolution: expanded capabilities: lower costs 
+
+Top 2 military satellites are stationed in Geo Synchronous Orbit 
+
+time to take from customer to customer is small -> because several satellites
+in same orbit belt 
+
+
+ HTS - High Throughput satellite
+ https://en.wikipedia.org/wiki/High-throughput_satellite
+ 
+ 
+ ========================================
+ 
+ Autonomous on Board Mission Planning
+ - Garcia Franchi Gaston, Alonso Roberto, Pucci Nadia, Kuba Jose 
+ 
+ (Comision Nacional de actividades espaciales (CONAE), Argentina 
+ 
+
+ the planning is done by sending the entry and exit times for each area of interest
+ (polytopes)
+Each instrument or equipment is set by the adjustment of their operational
+paramters
+Ground station considered a polytope 
+
+Advanced Functions:
+ Autonomous->calculate independently the state vector 
+perform a systemic control of failures and alerts 
+
+Generation of Events: Inside, outside leaving or entering the polytope 
+These events can execute commands, scripts, check status of instruments 
+or equipment, generate alarms and reports 
+
+only executes the algorithm when the spacecraft is inside the box around 
+the polytope 
+
+Algorithm uses min-max to check inside/outside algorithm
+
+==================================================
+
+Autonomoy Panel
+Alice Bowman, Lorraine Fesq, Ronnie Killough, Bruce Savadkin
+
+AB
+LF
+RK
+BS
+
+AB: fault management/recovery
+
+
+===================================
+
+Autonomy Requirements Tester(ART): Reusing a CFS Test Runner 
+in a Robotic Operation System (ROS) Architecture by Ayman Qaddumi 
+======================================
+
+CubedOS Architecture 
+
+
+===================
+Secure Small Satellie Processing Platform -Jeff Brandon, Kyle Ingols (Lincoln Lab, MIT)
+====================================
+
+Dellingr -Heliophysics 6U Cubesat developed at GSFC -Alan Cudmore Goddard 
+
+================
+A cubesat based alternative for the Juno mission to jupiter
+=======================
+
+Planet 
+Operator Sanity 
+nate@planet.com 
+Missions Software Team
+
+============================
+DTN Bundle Protocol on the IETF Standards Track
+Scott Burleigh
+JPL
+
+==========================
+
+Lockheed Martin Planetary FSW Product Line and CFS 
+Matt Goman
+matt.p.goman@lmco.com
+
+
+
+
+ 
+ 
+ 
+ 
+  
+  
+  
+
+
+
+

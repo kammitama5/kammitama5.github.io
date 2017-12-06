@@ -1,0 +1,192 @@
+foreign import data Eff::Type->Type
+pinky promise that you will resolve types
+
+foreign import pureEff 
+::forall a, a-> Eff a 
+
+
+effect is data 
+
+contains our logic 
+
+Eff is represented as a func 
+
+builds up a tree of things to run 
+
+module Main where 
+main::Eff Unit 
+main = ...
+
+wire things up on PureScript side---as a pure value 
+and import what compiler has generated and then call it 
+
+build a representation of what we want/ how we want to 
+model a problem domain and apply a transformation over it
+transform it into something that is more open ended.
+
+JS Runtime -> effects 
+
+-Evented 
+-Non-blocking
+-Callbacks
+
+JS-> we have to be careful not to block something
+non-blocking
+JS has to have a schedule
+we give something to the runtime with a callback
+so that when we are done, give back the run time 
+
+PS-> example = setTimeout 1000 do 
+Console.log"Hello"
+
+def get_contents(path):
+files = []
+for filename in os.listdir(path):
+with open(filename) as f:
+	files.append(f.read())
+return files 
+
+with JS you have to use a bunch of callbacks
+forks off requests 
+
+PureScript version of JavaScript 
+similar logic to JS
+
+how to represent asynchronous funcs in PureScript 
+1. no callbacks (stairstepping)
+2. easy concurrency 
+3. safety without boilerplate 
+
+Aff - asynchronous effects 
+Eff -synchronous effects 
+
+Asynchronous bind 
+bind:: forall m a b. Bind m-> m a -> (a-> m b) -> m b
+
+Concurrency
+parallel :: forall f m a. Parallel f m => m a -> f a 
+sequential :: forall f m a. Parallel f m => f a -> m a 
+
+instance parallelAff :: Parallel Aff ParAff 
+
+parallel representation and then change back into sequential 
+operation 
+
+Before
+example::Aff _Unit 
+example = 
+go 
+<$> FS.readFile "foo"
+<*> FS.readFile "bar"
+
+After 
+example :: Aff _ Unit 
+example = 
+sequential $ go 
+<$> parallel (FS.readFile "foo")
+<*> parallel (FS.readFile "bar")
+
+parallel takes care of coordination..runs in parallel 
+and comes back together so you get all the results at once 
+
+
+Fibers 
+are Lightweight virtual threads 
+
+with fiber can get join and get result out of it 
+sort of like promises in JS 
+-run concurrent effects 
+- caches result 
+-join is idempotent operator 
+
+joinFiber
+:: forall eff a. Fiber eff a -> Aff eff a
+ 
+suspendAff
+:: forall eff a. Aff eff a -> Aff eff (Fiber eff a)
+
+forkAff
+::forall eff a. Aff eff a -> Aff eff (Fiber eff a)
+
+
+fork-> immediately runs -> reference to fiberA and fiberB 
+-order on which you join helps coordinate which runs first 
+
+
+killFiber 
+:: forall eff a 
+. Error 
+-> Fiber eff a 
+-> Aff eff Unit 
+
+- killing a thread, cause it to halt 
+
+Cleanup 
+bracket 
+:: forall eff a b 
+.Aff eff a 
+-> (a -> Aff eff Unit)
+-> (a -> Aff eff b)
+-> Aff eff b 
+
+- disposes of/ cleans up and returns result 
+  for safe resource-handling 
+  
+withFile path = 
+bracket (FS.openFile path) FS.closeHandle 
+
+supervise :: forall eff a. Aff eff a -> Aff eff a 
+
+Coordination 
+makeVars
+
+Constructor 
+
+Canceler -> asynch action...needs something to clean up 
+
+makeAff
+:: for all eff a 
+. ((Either Error a -> Eff eff Unit)
+-> Eff eff (Canceler eff))
+-> Aff eff a 
+Canceler 
+:: forall eff. (Error -> Aff eff Unit) -> Canceler eff 
+
+sleep ms = make Aff \cb -> do 
+timer <- setTimeout (cb (Right unit)) ms 
+pure $ Canceler \err -> do 
+liftEff $ clearTimeout timer 
+
+example = do 
+sleep 500 
+log "I'm awake!"
+
+Contructors 
+Effn and lift into Aff 
+fromEffnAff 
+:: forall eff a. EffFnAff eff a -> Aff eff a 
+
+Build a representation 
+
+Aff representation models the async features we want 
+
+Transform into Eff via callbacks 
+
+Why stop there?
+-Quick and easy DSLs (purescript free)
+
+disadvantages callbacks because using memory stack 
+
+callbacks in JS -> depend on heap 
+
+Aff assumes you're using callbacks 
+
+each effect is heap allocated object 
+
+Aff slower because of gc pressure 
+
+Aff looks like a C-style javascript 
+implementation looks primitive 
+
+PureScript-aff/blob/master/src/Control/Monad/Aff.js 
+
