@@ -25,6 +25,22 @@
   of only two students who attended. So it was pretty neat; I was surrounded by some really
   knowledgeable people!
   
+## Wait what? How did you find out about it?
+
+- I honestly..don't know. I think about a year and a half ago, I stumbled upon it online. I had just 
+  done a four-day workshop at JPL and was looking for an opportunity to learn Ada or something. 
+  This happens a lot with me, btw. I get really interested in something and I find all sorts of stuff. 
+  I guess I'm one of those people who "reads the footnotes". :)
+  
+- Was it worth it? Hell yes! I learned a lot, met some amazing people, and increased my skill-set. 
+  I knew not a lot about any of this before; it opened a whole new world to me, and made me aware of 
+  some things I hadn't been before. A lot of these people are *excellent* at C, C++, Rust, Ada. The way
+  they think about programming is quite different from say, a web developer. So that's definitely worthwhile.
+  I wish these groups of people would intersect more. 
+  
+- They have cubesats that run on JavaScript, but it made me wonder, if they care about things like type checking,
+  if something like PureScript could run on a cubesat. 
+  
 ## The first day
 
 - We had presentations on CFS, which is the Core Flight System. It is NASA Goddard's baby. 
@@ -171,7 +187,8 @@
   I have an exam to do tomorrow in the PM, and hopefully start studying for an interview coming up. 
   
 - I'm also going to start "Learn C the Hard Way" and "Haskellbook" pretty soon. Those are my goals. 
-  Just to get better in general.
+  Just to get better in general. C, Python and Haskell. I'll do interviews in Python, and strengthen
+  my skills in C/C++ and Haskell, until I'm even good enough to do interviews in C++ and Haskell :)
   
 - And..that's it. 
 
