@@ -94,6 +94,85 @@
 
 ## Day two 
 
+- I have an exam on Wednesday, so I couldn't stay for the entirety of the conference (which runs until Thursday evening),
+  but I really wanted to be able to see this keynote speaker. So I was *stoked* that his talk was today!
+  
+- His name is Dr. Gordon Roesler, and he works for DARPA. He gave a fascinating talk!
+  It was about GEO-Orbit and creating instruments that can do things like refuel themselves. 
+  I also had no idea what a [marman ring](https://en.wikipedia.org/wiki/Marman_clamp) was before his talk. 
 
+<img src="/images/fsw/fs_020.png" width="400"> 
 
+<img src="/images/fsw/fs_021.png" width="400"> 
 
+<img src="/images/fsw/fs_022.png" width="400"> 
+
+<img src="/images/fsw/fs_023.png" width="400"> 
+
+- The talk after his was a virtual online one from a gentleman in Argentina who spoke about
+  autonomous spacecraft using polytopes. 
+  
+- There were also additional talks on Cubesats and ROS
+
+<img src="/images/fsw/fs_024.png" width="400">
+
+<img src="/images/fsw/fs_025.png" width="400">
+
+<img src="/images/fsw/fs_026.png" width="400">
+
+- On, and this was a fun slide, too
+
+<img src="/images/fsw/fs_001.png" width="400">
+
+## I was so tired
+
+- I crashed when I got home the second day (which I guess is still tonight as I'm writing this).
+  I was invited to a Southern food place but I just got it to go.
+  I also finished a Udacity Mentorship course (submitted a project for review), and fell asleep, 
+  and got up fifteen minutes before the PureScript livestream! 
+  
+## PureScript Meetup
+
+- I joined them online. Nathan spoke about Eff vs Aff and how they relate to asynchronous functions and
+  threading in JavaScript, and concurrency in general. 
+
+- Aff is for asynchronous effects
+- Eff is for synchronous effects 
+
+- I'm not super familiar with promises and callbacks, and had no idea about how they were handled at run-time,
+  so it was very interesting. 
+  
+- He also spoke about Constructors and Fibers in PureScript,
+  and how to kill and clean-up Fibers, which are essentially light-weight threads. 
+  
+- He provided representations of the sleep function in Python and of promises and callbacks in JS to demonstrate how they deal
+  with things like multi-threading and concurrency. 
+  
+- The library he referenced is [here](PureScript-aff/blob/master/src/Control/Monad/Aff.js )
+
+## Disappointment
+
+- I was feeling a bit down today because I didn't do as well on my first C++ exam as I would have wanted.
+  Okay, so there was little to no code involved in that exam, and the questions were just confusing (the wording),
+  but that stuff still gets me down. However, I read [this](http://mitadmissions.org/blogs/entry/surviving-mit).
+  It's about dealing with failure and picking oneself up and learning from that. Keep going. 
+- Anyone who knows me knows I love this stuff more than anything. There is this strange feeling I have sometimes 
+  when I try to think about what I *could* be doing..but I never am, because I'm usually working or putting in some kind
+  of work, or otherwise resting. 
+- Usually I get that feeling at 11pm when I'm coming home from class, and there are people around me waiting for a train 
+  who have been to a baseball or football game, or went to see a play or went to the Opera. Or the crowd comes in from some 
+  big event or party or something. I haven't done any of that in probably years. I have no idea what that feels like, except
+  if it's at some conference or something, where people are huddled around with backpacks, talking about some library or something.
+  Usually the thought doesn't last, though, as I end up just wanting to go home to my bed and get up and do it all again. 
+
+## So...
+
+- It's almost 1am, and I have a flight to catch in a few hours, so...guess that's all for now. 
+  I have an exam to do tomorrow in the PM, and hopefully start studying for an interview coming up. 
+  
+- I'm also going to start "Learn C the Hard Way" and "Haskellbook" pretty soon. Those are my goals. 
+  Just to get better in general.
+  
+- And..that's it. 
+
+  
