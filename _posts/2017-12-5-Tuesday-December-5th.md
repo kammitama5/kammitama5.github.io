@@ -185,13 +185,27 @@
   of work, or otherwise resting. 
 - Usually I get that feeling at 11pm when I'm coming home from class, and there are people around me waiting for a train 
   who have been to a baseball or football game, or went to see a play or went to the Opera. Or the crowd comes in from some 
-  big event or party or something. I haven't done any of that in probably years. I have no idea what that feels like, except
-  if it's at some conference or something, where people are huddled around with backpacks, talking about some library or something.
-  Usually the thought doesn't last, though, as I end up just wanting to go home to my bed and get up and do it all again. 
-
+  big event or party or something. 
+  There is that little voice that sometimes says "what if this never pays off for you?". It reminded me of a neighbour or two
+  who, years ago, asked me if I'd be a "student for life", or if I was trying to be a professor, because I take classes and they
+  saw me coming home at all hours of the night (I still do based on the class). 
+  I forget these is this entire group of people out there who think it's weird to constantly want to self-improve. Thankfully,
+  a lot of my life is online, so it's helped me to connect more with people who have similar values to mine and don't judge me
+  for wanting to self-improve. 
+  
+- But man, it's hard when you're trying to improve yourself, not sure if will ever pay off, and people take pot-shots, joking that 
+  you'll stay in this loop of "taking class forever". Thankfully, it has only been a few years now since then that things have started
+  to pay off, and some of those very people have said "Good for you" or "I'm proud of you". 
+  Some of them are also shocked that I disappear for a few days, or come back, bag in hand, from a trip. It's exciting, and 
+  I'm very excited to work hard and be a part of the community, but initially, it was tough. 
+  It mostly takes a lot of guts to just suck
+  up off-handed comments and keep going, because *you* want something badly enough. 
+  I'm writing this because somewhere, I know that someone is going through a similar struggle..and yes..I still believe that hard work 
+  pays off! 100% Absolutely, even though it's not always in the time-frame you anticipate. 
+  
 ## So...
 
-- It's almost 1am, and I have a flight to catch in a few hours, so...guess that's all for now. 
+- It's almost 2am, and I have a flight to catch in a few hours, so...guess that's all for now. 
   I have an exam to do tomorrow in the PM, and hopefully start studying for an interview coming up. 
   
 - I'm also going to start "Learn C the Hard Way" and "Haskellbook" pretty soon. Those are my goals. 
