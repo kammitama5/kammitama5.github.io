@@ -68,7 +68,7 @@
 
 ## Dinner
 
-- We went out for dinner and I had my first Maryland Alfredo dinner thing, at this huge bar called [Looney's Pub](https://looneyspubmd.com/maple-lawn/)
+- We went out for dinner and I had my first Maryland Alfredo seafood dinner, at this huge bar called [Looney's Pub](https://looneyspubmd.com/maple-lawn/)
 
 <img src="/images/fsw/fs_016.png" width="400"> 
 
@@ -77,7 +77,22 @@
   
 <img src="/images/fsw/fs_015.png" width="400"> 
 
+<img src="/images/fsw/fs_017.png" width="400"> 
 
+- Glow in the dark beer list!
+
+<img src="/images/fsw/fs_018.png" width="400"> 
+
+- This caught our eye..there's a fish sleeping in the skull!
+
+<img src="/images/fsw/fs_019.png" width="400"> 
+
+- I was able to check in to the largest hotel room I've ever been in. It felt like a condo!
+  There was a stove and stuff!
+  
+<img src="/images/fsw/fs_014.png" width="400"> 
+
+## Day two 
 
 
 
