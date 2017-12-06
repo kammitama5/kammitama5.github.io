@@ -64,4 +64,21 @@
 
 <img src="/images/fsw/fs_012.png" width="400"> 
 
+<img src="/images/fsw/fs_013.png" width="400"> 
+
+## Dinner
+
+- We went out for dinner and I had my first Maryland Alfredo dinner thing, at this huge bar called [Looney's Pub](https://looneyspubmd.com/maple-lawn/)
+
+<img src="/images/fsw/fs_016.png" width="400"> 
+
+- I learned about this thing called a Dogfish Head 90 minute. I don't drink or anything, but I had no idea people were 
+  so serious about their beer! 
+  
+<img src="/images/fsw/fs_015.png" width="400"> 
+
+
+
+
+
 
