@@ -128,6 +128,8 @@
 
 - The talk after his was a virtual online one from a gentleman in Argentina who spoke about
   autonomous spacecraft using [polytopes](https://en.wikipedia.org/wiki/Polytope). 
+  So it would listen via an Event Listener and carry about commands if it is within a defined 
+  polytope space (it being a satellite orbiting autonomously in GEO-space). 
   
 - There were also additional talks on Cubesats and ROS
 
