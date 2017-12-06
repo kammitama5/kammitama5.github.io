@@ -139,10 +139,12 @@
 
 - On, and this was a fun slide, too. 
 
-- It reads "Questions or Comments". There was also a Matlab code-challenge in C. It was tricky. I still need to find the error. 
-  I took a photo of the code. 
+- It reads "Questions or Comments". 
 
 <img src="/images/fsw/fs_001.png" width="400">
+
+- There was also a Matlab code-challenge in C. It was tricky. I still need to find the error. 
+  I took a photo of the code. 
 
 ## I was so tired
 
