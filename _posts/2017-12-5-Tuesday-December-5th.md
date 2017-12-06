@@ -34,3 +34,34 @@
   There were quite a few JPL-ers there as well.
   
 <img src="/images/fsw/fs_011.png" width="400"> 
+
+## Day 1: Demo Day
+
+- The first day had a series of presentations on various projects using CFS. There was even 
+  a simulation showing one satellite that joined another one's orbit, followed by two more. 
+  
+<img src="/images/fsw/fs_009.png" width="400"> 
+
+- Also presentations on tools like CMake and how they are used. I was a bit confused by CMake
+  and tools like Nix, so this, along with chatting simultaneously with people on Slack, cleared up
+  in my mind a bit about what each tool can do.
+  
+<img src="/images/fsw/fs_006.png" width="400"> 
+
+<img src="/images/fsw/fs_007.png" width="400"> 
+
+<img src="/images/fsw/fs_008.png" width="400"> 
+
+## Demo Day
+
+- After the day's presentations, there were some demos set up.
+  One gentleman from Goddard Space Centre, Alan Cudmore, took 
+  painstaking time to show me a Pi-Sat he built using a Raspberry Pi
+  and an Adafruit board, and a camera, with 3D printed parts, 
+  and how it interacts with his system
+  
+<img src="/images/fsw/fs_010.png" width="400"> 
+
+<img src="/images/fsw/fs_012.png" width="400"> 
+
+
