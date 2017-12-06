@@ -38,7 +38,8 @@
   they think about programming is quite different from say, a web developer. So that's definitely worthwhile.
   I wish these groups of people would intersect more. 
   
-- They have cubesats that run on JavaScript, but it made me wonder, if they care about things like type checking,
+- They have cubesats that run on JavaScript, but it made me wonder, if they care about things like type checking
+  and resolution of types,
   if something like PureScript could run on a cubesat. 
   
 ## The first day
