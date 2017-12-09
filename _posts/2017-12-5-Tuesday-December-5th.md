@@ -258,14 +258,17 @@ def solve(s):
     #define arr to store output
     arr = []
     
-    # this var gets the count of all letters counted so far 
+    # this var gets the count of all letters 
+    counted so far 
     count = 0
     
-    # make a list of s to get each char separately
+    # make a list of s to get each char
+    separately
     s_list = list(s)
     #print s_list 
     
-    ## loop through and check to see if each condition is satisfied
+    ## loop through and check to see if
+    each condition is satisfied
     for i in s_list:
       if i in capital:
         count = count + 1
@@ -280,7 +283,8 @@ def solve(s):
     special_chars = len(s) - count 
       
     ## make an array to echo output format
-    ## uppercase, lowercase, digits, special_chars
+    ## uppercase, lowercase, digits, 
+    special_chars
     arr.append(capital_count)
     arr.append(common_count)  
     arr.append(number_count)
@@ -288,4 +292,31 @@ def solve(s):
 
     return arr
 ```
-  
+ 
+- round up to the next seven.
+  I could have made this easier on myself. However,
+  I am proud that my variable names are getting better :)
+  No var a, var x, var b, var c :)
+
+```
+function roundUpNext7(number) {
+  if (number % 7 === 0){
+    return number;
+  }
+  else if ((number % 7 <= 3) && (number > 0))
+  {
+    var num = (parseInt(number / 7) + 1) * 7
+    return num
+  }
+  else if ((number % 7 <= 4) && (number <= 0))
+  {
+    var num = (parseInt(number / 7.0)) * 7.0 
+    return num
+  }
+   else if (((number % 7 >= 4)) && (number > 0)){
+    var num = number / 7 
+    var modd = number % 7 
+    return(((parseInt(num)) + 1) * 7)
+  }
+}
+```
