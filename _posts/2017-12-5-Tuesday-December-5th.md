@@ -326,3 +326,17 @@ function roundUpNext7(number) {
   }
 }
 ```
+- if number is divisble by a and b, return true, else false
+
+```
+function isDivideBy(number, a, b) {
+  if ((number % a === 0) && (number % b === 0))
+  {
+    return true
+  }
+  else
+  {
+    return false
+  }
+}
+```
