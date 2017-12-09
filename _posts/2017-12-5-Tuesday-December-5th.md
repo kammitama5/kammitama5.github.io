@@ -340,3 +340,14 @@ function isDivideBy(number, a, b) {
   }
 }
 ```
+- take two arrays and find their sum.
+  You could only choose JS as the language :(
+  I decided to see how to do a concat (zip in Haskell, Python) and reduce (fold in Haskell) lol.
+  
+```
+function arrayPlusArray(arr1, arr2) {
+  const array1 = arr1.concat(arr2)
+  const reducer = (accumulator, currentValue) => accumulator + currentValue;
+  return array1.reduce(reducer)
+}
+```
