@@ -56,7 +56,8 @@
   and some really great company!
   
 - I don't think I can afford Haskellbook quite yet, so that's going to probably be my Christmas present to myself this year!
-  If  I can't afford it by Christmas, I'm probably (no kidding!) going to crowdfund or something for it LOL.
+  If  I can't afford it by Christmas, I'm probably (no kidding!) going to crowdfund or something for it LOL. 
+  The C stuff comes last, but it's pretty much Python, Haskell, C.
 
 - I'm house-sitting (with dogs!) this Friday through Monday evenings. So that should be interesting. Yay, dogs! :)
   I believe that there is some pay with respect to this, so maybe it will be enough for Haskellbook. We'll see. 
