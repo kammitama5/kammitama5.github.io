@@ -38,7 +38,7 @@
   
 - Since my semester is over, I'm going through this [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) book I got as a present from Django Girls
   at the beginning of this year. I think I took a bus at 2am to attend that one, and a flight back, because it was 
-  only available (ie free spots) in San Diego. My mentor ended up giving me her "Thank you present" from the event
+  only available (ie free spots in that particular workshop, for which I applied; and got a spot) in San Diego. My mentor from that session ended up giving me her "Thank you present" from the event
   (since she had a copy already), which happened to be signed, and months later, the group even included me in their 
   Report of people who were doing good things since that event (yay..I'm still programming!)
   
