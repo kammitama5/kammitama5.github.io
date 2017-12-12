@@ -39,7 +39,7 @@
 - Since my semester is over, I'm going through this [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-11) book I got as a present from Django Girls
   at the beginning of this year. I think I took a bus at 2am to attend that one, and a flight back, because it was 
   only available (ie free spots in that particular workshop, for which I applied; and got a spot) in San Diego. My mentor from that session ended up giving me her "Thank you present" from the event
-  (since she had a copy already), which happened to be signed, and months later, the group even included me in their 
+  (since she had a copy already), which happened to be signed (and a ride the airport!), and months later, the group even included me in their 
   Report of people who were doing good things since that event (yay..I'm still programming!)
   
 ## I have this thing...
@@ -64,6 +64,9 @@
 - I'm also mentoring about 17 students online (yikes!). So far, so good. They all seem really nice! They email me 
   at all hours of the day, so it's like Tech Support (haha). I like it so far, though! I have to finish up their 
   Mentorship certificate (I can do that tomorrow during the day), also. 
+  
+- Oh, and I also got an invitation to help out with SCALE (Southern California Linux Expo) next year. I'm available 
+  on the weekends for that; it was a great experience and the organizer is always very supportive of persons like myself
   
 ## And...that's about it for now!
   
