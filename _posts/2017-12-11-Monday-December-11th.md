@@ -4,7 +4,7 @@
 
 - So I haven't written in a week, because things have been busy for me. 
 - I did an interview today, and didn't get the offer. I spent three days preparing in one language (including making an entire repo
-  for it of things they could possibly ask), and then my interview was in an *entirely* different language. 
+  for it of things they could possibly ask), and then my interview was in an [*entirely* different language](https://esolangs.org/wiki/Hello_world_program_in_esoteric_languages). 
   I know; Twilight-zone, huh? *Goblin dancing on a plane wing*
 - Yikes. FML. The interviewer was dope, though. Everyone in that company was uhhh...amazing. They kept asking me if I had any
   questions about the company, and I could only think "nope..I want to work there" LOL. 
