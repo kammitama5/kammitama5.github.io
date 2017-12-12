@@ -9,7 +9,7 @@
 - Yikes. FML. The interviewer was dope, though. Everyone in that company was uhhh...amazing. They kept asking me if I had any
   questions about the company, and I could only think "nope..I want to work there" LOL. 
 - It was still my favourite interview, strangely. I really enjoyed it, and if that company were to ever come around again,
-  (when I'm better at the language I *totally* didn't know for the interview), I'd jump on that opportunity! They also 
+  (when I'm better at the language I *totally* didn't know for the interview, and programming in general), I'd jump on that opportunity! They also 
   promised to keep in touch, for which I'm really grateful. I have no idea why I keep getting interviews, but it's great 
   practice and at some point, maybe someone will hire me! :)
 - I got great feedback today, which was immensely helpful. I think I felt like particularly tearing up when one of my interviewers
