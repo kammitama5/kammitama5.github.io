@@ -28,7 +28,7 @@
   years ago, to tell him that I saw his post. Man, that almost teared me up. :/
   
 - It was particularly meaningful to me because Sam is the same person who, just this year, when I was dealing with some hostility
-  from a person in the tech community, said to me "I support you". I asked him then; "do you think I can be a programmer one day?", to 
+  from a person in the tech community, said to me "I support you". I asked him then: "do you think I can be a programmer one day?", to 
   which he responded "I think you'd make a great programmer!". I will never forget that. :(
   
 ## Meanwhile...I stayed up until 2am...
