@@ -19,6 +19,18 @@
 - Oh, and he said "you Young'uns", as an experienced programmer to one starting off..LOL. That made me chuckle secretly. 
   I mean, it was just a really positive, pleasant experience and I enjoyed it thoroughly, regardless of their decision. 
   
+## Touching moment 
+
+- In the midst of beating up on myself today, I ran across a website [Rejected](https://rejected.us/) where software engineers 
+  talk about being rejected and you can actually open up an issue to talk about who rejected you, etc, and how you recovered.
+- I was reading through, because some of it is *really* encouraging (to see how people bounced back) and I came across my
+  friend, [Sam](https://github.com/samlecuyer), who was rejected years ago by a company, and went on to work for Yahoo and Amazon. I had to leave a comment on his issue from 
+  years ago, to tell him that I saw his post. Man, that almost teared me up. :/
+  
+- It was particularly meaningful to me because Sam is the same person who, just this year, when I was dealing with some hostility
+  from a person in the tech community, said to me "I support you". I asked him "do you think I can be a programmer one day?", to 
+  which he responded "I think you'd make a great programmer!". I will never forget that. :(
+  
 ## Meanwhile...I stayed up until 2am...
 
 - I was up until 2 studying how to parse JSON data in Python, and learning about HTTP requests, and strangely,
