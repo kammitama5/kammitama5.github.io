@@ -45,7 +45,7 @@
 ## I have this thing...
 
 - When I'm rejected, where I not only mope around for a few hours, but I apply to like ten companies. So I totally did
-  that today (especially since I missed work today and I won't be paid for the time off),
+  that today (especially since I missed work today and I won't be paid for the time off..ouch),
   including one that I may have a shot at interning at for summer. We'll see. They'll pay for housing, which
   would be nice. I'm not sure if I'll get this other place at which I interviewed, so it's good to have options. 
   My goal is just to get better in general and to keep programming (I don't think I'd stop programming, in any case). 
