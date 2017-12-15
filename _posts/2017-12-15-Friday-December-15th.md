@@ -23,6 +23,38 @@
 - I could not be more thankful to all the people at Udacity and 
   AT and T. I'm eternally grateful for their continued support of me.
   
+- People keep saying I'd make a good machine learning engineer, so..
+  we'll see. I still have to do the work and get the job, eventually.
+  But it is true; I do read a lot of that stuff on my own, without being
+  prompted. It's just really interesting to me. 
+  
+- For example, the Relu function is actually pretty simple at its core.
+  It's like half-wave rectification in electronics. 
+  
+```
+# if f(x) is more than 0, return x else return 0
+def relu(x):
+  if x < 0:
+    return 0
+  else:
+    return x
+```
+
+- You could probably do this with a lambda function like so
+
+- Or how about a ternary operation
+```
+relu -> 0 if a < 0 else a
+```
+- Or a filter
+
+```
+relu = filter(lambda x: x if x > 0 else 0)
+```
+- I guess you could map a lambda like that over a group of say, matrices or tensors.
+  Sort of like how you would apply it to an image to do things like shifting pixel-colours
+  or something. 
+  
 ## So...
 
 - I've been doing Data Analysis using Jupyter, using Python, pandas
