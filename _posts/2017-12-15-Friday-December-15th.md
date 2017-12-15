@@ -85,7 +85,7 @@ relu = filter(lambda x: x if x > 0 else 0)
   really getting used to the data and the types of mistakes that could 
   be made. 
   
- ## So upcoming...
+## So upcoming...
  
  - It looks like with all my side-hustles, I'll be able to afford Haskellbook
    for Christmas! Can you believe it!? My goal would be to either be able to do
@@ -107,5 +107,5 @@ relu = filter(lambda x: x if x > 0 else 0)
    
  - I'm thankful for everything, and I really want to continue programming no matter what. 
  
- ## And...that's it.
+## And...that's it.
  
