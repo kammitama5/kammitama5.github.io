@@ -32,6 +32,10 @@
 - I could not be more thankful to all the people at Udacity and 
   AT and T. I'm eternally grateful for their continued support of me.
   
+- That being said, at *some* point I will learn Django, and go through
+  it thoroughly, from the ground up. I've done a bit of Flask and parsing
+  JSON in the past.
+  
 - People keep saying I'd make a good machine learning engineer, so..
   we'll see. I still have to do the work and get the job, eventually.
   But it is true; I do read a lot of that stuff on my own, without being
