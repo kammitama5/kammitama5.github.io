@@ -28,7 +28,7 @@
   and then look it up myself :D
   
 - I ended up doing a statistics course instead (this was actually
-  *before* I even found out about the scholarship.
+  *before* I even found out about the scholarship.)
   
 - I could not be more thankful to all the people at Udacity and 
   AT and T. I'm eternally grateful for their continued support of me.
