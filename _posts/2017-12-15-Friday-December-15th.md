@@ -17,6 +17,12 @@
   more deeply into Python by learning Django, and I have to say,
   it was uhh...not that enjoyable for me. 
   
+- I honestly don't enjoy running a one-line script and having 100 
+  nested folders show up on my desktop. I die a bit. 
+  I want to dig in, see the engine, and see what goes where and 
+  ask a gazillion questions about how it works, so I can have 
+  an abstract idea of how each element works. 
+  
 - I ended up doing a statistics course instead (this was actually
   *before* I even found out about the scholarship.
   
