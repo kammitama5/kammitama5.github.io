@@ -45,7 +45,7 @@
 - For example, the Relu function is, at its core, 
   like half-wave rectification in electronics. 
   Half-wave rectification is such a *perfect* analogy
-  for me, because it reminds me of a diode, which an
+  for me, because it reminds me of a diode, which is an
   electronic filter, and we have filters in lambdas
   in Python, and Haskell.
   
