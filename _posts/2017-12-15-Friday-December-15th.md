@@ -24,7 +24,8 @@
   an abstract idea of how each element works. 
   
 - I'm one of those people who secretly *seethes* when someone tells me
-  "You don't need to know how that works."
+  "You don't need to know how that works." Usually, I'll nod, say "OK"
+  and then look it up myself :D
   
 - I ended up doing a statistics course instead (this was actually
   *before* I even found out about the scholarship.
