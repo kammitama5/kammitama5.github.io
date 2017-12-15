@@ -28,8 +28,8 @@
   But it is true; I do read a lot of that stuff on my own, without being
   prompted. It's just really interesting to me. 
   
-- For example, the Relu function is actually pretty simple at its core.
-  It's like half-wave rectification in electronics. 
+- For example, the Relu function is, at its core, 
+  like half-wave rectification in electronics. 
   
 ```
 # if f(x) is more than 0, return x else return 0
