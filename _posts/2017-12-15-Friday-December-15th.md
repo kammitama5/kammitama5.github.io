@@ -54,9 +54,7 @@ def relu(x):
     return x
 ```
 
-- You could probably do this with a lambda function like so
-
-- Or how about a ternary operation
+- Or a ternary operation
 ```
 relu -> 0 if a < 0 else a
 ```
