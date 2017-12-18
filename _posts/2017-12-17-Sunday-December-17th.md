@@ -43,6 +43,10 @@
 - I have in the back of my mind, also, two courses in Bayesian statistics. 
   But the Nanodegree is my focus (that is long term, so my goals for 
   finishing chapters and projects are bi-weekly.
+  
+## Things Of Note
+
+- [Neat Reddit channel that has programming challenges to be solved every day](https://www.reddit.com/r/dailyprogrammer/?count=25&after=t3_76qk58) 
 
 ## One more thing
 
