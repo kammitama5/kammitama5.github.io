@@ -34,6 +34,15 @@
   on to Python coursework for Nanodegree (numpy, pandas, etc)
 
 - Move on to week 2 of Data Science Maths coursework
+  (update): This course is wayyyy easier than I thought
+  it would be, so I'll have it done by 12/18 or 12/19 latest.
+  Yes, that's 4 weeks of coursework in uhh..four days. A lot 
+  of it, as it turns out, is straight up high school review for me.
+  I'll get the certificate, also.
+  
+- I have in the back of my mind, also, two courses in Bayesian statistics. 
+  But the Nanodegree is my focus (that is long term, so my goals for 
+  finishing chapters and projects are bi-weekly.
 
 ## One more thing
 
