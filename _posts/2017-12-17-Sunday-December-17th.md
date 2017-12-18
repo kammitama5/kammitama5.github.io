@@ -24,13 +24,14 @@
 - Lo and behold, it fit in perfectly with an excuse to write 
   LaTeX!
   
-<img src="/images/data_science_maths_week1/wk1a.png" width="400">
+<img src="/images/data_science_maths_week1/wk1a.png" width="500">
 
-<img src="/images/data_science_maths_week1/wk1b.png" width="400">
+<img src="/images/data_science_maths_week1/wk1b.png" width="500">
 
 ## Upcoming
 
-- Finish project using SQL and Excel
+- Finish project using SQL and Excel and move 
+  on to Python coursework for Nanodegree (numpy, pandas, etc)
 
 - Move on to week 2 of Data Science Maths coursework
 
