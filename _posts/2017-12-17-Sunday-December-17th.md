@@ -59,7 +59,7 @@
 
 ## Upcoming Goals
 
-- Finish Nanodegree
+- Finish Nanodegree and continue with deeper understanding of Python
 - Dig into Haskellbook
 - Do Bayesian Statistics Coursework
 - Learn a bit of Vim and more Bash
