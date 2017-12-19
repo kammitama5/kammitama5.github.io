@@ -56,3 +56,11 @@
 - I'm up to 20 students in terms of mentorship, also.
 
 - And...that's about it!
+
+## Upcoming Goals
+
+- Finish Nanodegree
+- Dig into Haskellbook
+- Do Bayesian Statistics Coursework
+- Learn a bit of Vim and more Bash
+
