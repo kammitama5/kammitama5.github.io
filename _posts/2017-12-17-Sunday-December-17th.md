@@ -36,9 +36,10 @@
 - Move on to week 2 of Data Science Maths coursework
   (update): This course is wayyyy easier than I thought
   it would be, so I'll have it done by 12/18 or 12/19 latest.
+  (update): DONE :D
   Yes, that's 4 weeks of coursework in uhh..four days. A lot 
   of it, as it turns out, is straight up high school review for me.
-  I'll get the certificate, also.
+  I'll get the certificate, also. : DONE
   
 - I have in the back of my mind, also, two courses in Bayesian statistics. 
   But the Nanodegree is my focus (that is long term, so my goals for 
