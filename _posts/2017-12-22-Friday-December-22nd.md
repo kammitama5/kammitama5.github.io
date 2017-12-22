@@ -81,4 +81,9 @@
   and JavaScript, and asked which two they should learn. I secretly said "Python and Haskell"
   and one of the persons answering OP said "if you want to be a data scientist, Python and Haskell".
   And I went "huh...", and smiled (those happen to be the two dream languages, with some C++ thrown in!) :D
+- Oh, and I have to follow up with about three or four companies in the New Year that I've been
+  speaking with, to see if there is something out there for me. I'm really grateful for everything,
+  and we'll see what 2018 brings!
+  
+## And...that's about it!
 
