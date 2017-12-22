@@ -55,7 +55,7 @@
   luxury when you're on a work or student visa). 
 - I won't stop my side hustles, though, and just generally working to be a better programmer. And, of course,
   I won't stop being thrifty me. I'm definitely not one of those females who buys a lot of clothes...or shoes..
-  or anything like that. I'd probably by a book or a new laptop before any of that stuff (or a bus ticket
+  or anything like that. I'd probably buy a book or a new laptop before any of that stuff (or a bus ticket
   to some conference). A great teacher and friend once told me "if you have the opportunity, always invest in 
   yourself". I still believe this with every fibre of my being, and so far, so good. 
 - Also, yeah...mentorship and involvement. My Rust group moved to a closer location, so I'm tempted to go to 
