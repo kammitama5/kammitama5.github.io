@@ -36,10 +36,10 @@
   For example, this is a little script I made to find all the images on one of the [author](https://github.com/REMitchell)'s webpages
   and output the number of images on that page.
   
-- code
+## Code
   <img src="/images/scrapey/scrapey2.png" width="400">
 
-- output
+## Output
   <img src="/images/scrapey/scrapey1.png" width="600">
 
 - I had to watch out originally because *both* Python2 and Python3 are on [Cloud9](https://aws.amazon.com/cloud9/). \
