@@ -27,5 +27,5 @@
 <img src="/images/scrapey/scrapey2.png" width="400">
 
 - output
-<img src="/images/scrapey/scrapey1.png" width="500">
+<img src="/images/scrapey/scrapey1.png" width="600">
   
