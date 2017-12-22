@@ -8,8 +8,10 @@
   together. Hmm! 
 - I also met a roboticist who is working on co-axial drones for [Titan](https://en.wikipedia.org/wiki/Titan_(moon))! He was amazing to speak with, and I immediately
   lit up, and before we knew it, the entire table was talking about ways to solve problems with drone technologies,
-  and challenges, and different planetary atmospheres. It was really incredible! He just happened to be there 
-  at another table and had stopped by to say hello! It was a really fun night!
+  and challenges, and different planetary atmospheres. It was really incredible! 
+  I mentioned a geodesic drone I had seen once, and he immediately wanted to know what it looked like.
+  He was just really cool and he just happened to be there at another table and had stopped by to say hello! 
+  It was a really fun night!
 
 ## Oh yeah..Hi all!
 
