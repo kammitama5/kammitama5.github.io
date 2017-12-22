@@ -40,19 +40,26 @@
 - output
 <img src="/images/scrapey/scrapey1.png" width="600">
 
+- I had to watch out originally because *both* Python2 and Python3 are on [Cloud9](https://aws.amazon.com/cloud9/). \
+  So I'd install BeautifulSoup on Python2, go back to Python3 and then it would say ```module not found```.
+  *Awesome* :D
+
 - I've been using [Cloud9](https://aws.amazon.com/cloud9/) mainly, because I jump between so many different 
   workstations, and my most frequently used laptop has close to no storage, to the point that I have to clear
-  my cache and restart it to get a little bit more storage (yeah, you can laugh; I won't judge you LOL).
+  my cache on Chrome and restart it to get a little bit more storage (yeah, you can laugh; I won't judge you LOL).
 - I'd like to get a more powerful laptop, but maybe in 2018. My goal this past year was to get my green card,
   so I have a bit more freedom and can get an opportunity where I'm more valued and therefore more financially 
   secure, which I can definitely do in 2018 (and I'll have the time to search and be pickier, which is often a 
   luxury when you're on a work or student visa). 
-  
 - I won't stop my side hustles, though, and just generally working to be a better programmer. And, of course,
   I won't stop being thrifty me. I'm definitely not one of those females who buys a lot of clothes...or shoes..
   or anything like that. I'd probably by a book or a new laptop before any of that stuff (or a bus ticket
   to some conference). A great teacher and friend once told me "if you have the opportunity, always invest in 
   yourself". I still believe this with every fibre of my being, and so far, so good. 
+- Also, yeah...mentorship and involvement. My Rust group moved to a closer location, so I'm tempted to go to 
+  some of that in the New Year, and continue to mentor and do more things like Hackathons, if I can. We'll see.
+  My deeper understanding of Python, Haskell (and continued learning of things like Data Structures and Discrete
+  Structures in C++) come first, though.
   
 ## Upcoming
 
