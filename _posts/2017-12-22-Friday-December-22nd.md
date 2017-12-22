@@ -67,10 +67,11 @@
 
 - I'm working on project 1 this weekend, which involves some SQL and possibly Excel
 - Next week, since I've already completed the Python module, I'll spend on either
-  (if I don't complete the project this weekend) finishing up that project and working
+  (if I don't complete the project this weekend) finishing up that project or working
   on project 2. I'll also dig into the next module, which is Data Analysis. After that,
   there's a project and Statistics coursework. 
-- We're using Jupyter substantially after that, which is great!
+- We're using Jupyter substantially after that, which is great! Jupyter is like LaTeX
+  to me. It's just so *beautiful* and organized as a format.
 - I'm also working on another Python Data Analysis course simultaneously, that is just 
   about four weeks long. It doesn't officially open until tomorrow, but I have done 
   week one's quiz already. 
