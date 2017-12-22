@@ -24,7 +24,7 @@
   hash-maps, and tuples. 
 - That being said, I got to the end of the Python module and came across web scraping,
   which is *amazing*. I don't know why in the past I relegated it in my mind to "chatbot",
-  which is relegated to a part of my mind that is labelled "refuse knowledge", because 
+  which is relegated to a part of my mind that is labelled "refuse (aka barf) knowledge", because 
   man, it is fun! 
 - I enjoyed it so much (even though it was just a taste, and for the project we'll be using it!)
   that I searched and found this [book](http://zempirians.com/ebooks/Ryan%20Mitchell-Web%20Scraping%20with%20Python_%20Collecting%20Data%20from%20the%20Modern%20Web-O'Reilly%20Media%20(2015).pdf)
