@@ -37,10 +37,10 @@
   and output the number of images on that page.
   
 - code
-<img src="/images/scrapey/scrapey2.png" width="400">
+  <img src="/images/scrapey/scrapey2.png" width="400">
 
 - output
-<img src="/images/scrapey/scrapey1.png" width="600">
+  <img src="/images/scrapey/scrapey1.png" width="600">
 
 - I had to watch out originally because *both* Python2 and Python3 are on [Cloud9](https://aws.amazon.com/cloud9/). \
   So I'd install BeautifulSoup on Python2, go back to Python3 and then it would say ```module not found```.
