@@ -8,7 +8,8 @@
   together. Hmm! 
 - I also met a roboticist who is working on co-axial drones for Titan! He was amazing to speak with, and I immediately
   lit up, and before we knew it, the entire table was talking about ways to solve problems with drone technologies,
-  and challenges, and different planetary atmospheres. It was really incredible! It was a really fun night!
+  and challenges, and different planetary atmospheres. It was really incredible! He just happened to be there 
+  at another table and had stopped by to say hello! It was a really fun night!
 
 ## Oh yeah..Hi all!
 
@@ -38,6 +39,20 @@
 
 - output
 <img src="/images/scrapey/scrapey1.png" width="600">
+
+- I've been using [Cloud9](https://aws.amazon.com/cloud9/) mainly, because I jump between so many different 
+  workstations, and my most frequently used laptop has close to no storage, to the point that I have to clear
+  my cache and restart it to get a little bit more storage (yeah, you can laugh; I won't judge you LOL).
+- I'd like to get a more powerful laptop, but maybe in 2018. My goal this past year was to get my green card,
+  so I have a bit more freedom and can get an opportunity where I'm more valued and therefore more financially 
+  secure, which I can definitely do in 2018 (and I'll have the time to search and be pickier, which is often a 
+  luxury when you're on a work or student visa). 
+  
+- I won't stop my side hustles, though, and just generally working to be a better programmer. And, of course,
+  I won't stop being thrifty me. I'm definitely not one of those females who buys a lot of clothes...or shoes..
+  or anything like that. I'd probably by a book or a new laptop before any of that stuff (or a bus ticket
+  to some conference). A great teacher and friend once told me "if you have the opportunity, always invest in 
+  yourself". I still believe this with every fibre of my being, and so far, so good. 
   
 ## Upcoming
 
