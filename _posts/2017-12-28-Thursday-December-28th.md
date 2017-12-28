@@ -55,7 +55,7 @@
 ## Things upcoming
 
 - Finish Data Analysis final two projects on shorter course
-- Go through last two lessons, Cast Studies and Projects on Nanodegree Analysis
+- Go through last two lessons, Case Studies and Projects on Nanodegree Analysis
 - Finish application for a possible Data internship
 - Prepare for scheduled interview on Monday (I'm on round 2..passed initial HR coding challenge!)
 
