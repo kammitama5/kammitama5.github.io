@@ -1,4 +1,4 @@
-## Data and Retrospective
+## Data and Retrospective for 2017
 
 ## Hey everyone! 
 
@@ -95,13 +95,74 @@
   for days on end, instead of deciding "this problem is easier to solve in X language", and hopping
   from language to language that has specific advantages over others. 
 - Oh, I'd like to continue side-hustles in general, and applying for things in general. 
-  I don't ever want to get lazy or complacent.
+  I don't ever want to get lazy or complacent, and I'd like to take on more complicated projects 
+  on my own. For example, I'd like to write a library for something or do more open-source in general.
+  I'd also like to get started on that parser, when I'm better at Python and have done some Discrete
+  Structures.
   
 ## So hopefully
 
 - In the New Year, you'll be seeing a steady stream of Python, Haskell and some C++.
   The C++ is for algorithmic understanding. The Python is the general language I'd 
   like to train on (best for testing), but also Haskell (because I like it and the community, 
-  but I think it will take me longer to get better at writing code in Haskell). PureScript is in
-  there somewhere; I don't think I'll be writing as much, but I would like to keep up with the group,
-  as it does strengthen my Haskell and thinking in general, and I love that community, also.
+  but I think it will take me longer to get better at writing code in Haskell). 
+- PureScript is in there somewhere; I don't think I'll be writing as much, 
+  but I would like to keep up with the group,as it does strengthen my Haskell and thinking in general,
+  and I love that community, also.
+- SICP is also in there, also. I'd like to dig into that book at some point, also. Just on my own. 
+
+## And, that's about it!
+- I've done three CodeWars challenges today, also (because they're like an itch I keep scratching).
+
+## Katas
+- Even numbers in Array (I could have used filter for this: JavaScript)
+
+```
+function evenNumbers(array, number) {
+  // good luck
+  var arr = []
+  for (var i = 0; i < array.length; i++)
+  {
+    if (array[i] % 2 === 0)
+    {
+      arr.push(array[i])
+    }
+  }
+  return arr.slice(-number) 
+}
+```
+- Get Century from year (C++)
+
+```
+int centuryFromYear(int year) 
+{
+  if (year % 100 == 0)
+  {
+    return int(year / 100);
+  }
+  else
+  {
+    return (int(year/100) + 1);
+  }
+}
+```
+- Unite Two arrays and return no dupes but list up to sliced number n (JavaScript)
+
+```
+function thatUnitesUs(array1, array2, n) {
+  // good luck
+  var arr = []
+  arr = array1.concat(array2)
+  var b = arr.filter(function (item, pos){return arr.indexOf(item)== pos})
+  var c = b.sort()
+  return (c.slice(0,n))
+}
+```
+- Find mean (Haskell)
+
+```
+module Mean where
+
+mean :: (Integral a, Fractional b) => [a] -> b
+mean xs = fromIntegral (sum xs) / fromIntegral (length xs)
+```
