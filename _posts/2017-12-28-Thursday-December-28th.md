@@ -50,8 +50,16 @@
   the Nanodegree. 
 - I'm really enjoying both.
 - It reminds me of Databases, R, Functional programming, 
-  LaTeX, Matlab, Mathematica, all in one *humble bundle* (see what I did there :D)
+  LaTeX, Matlab, Mathematica, all in one *humble bundle* (see what I did there? :D)
   
+  
+## Things upcoming
+- Finish Data Analysis final two projects on shorter course
+- Go through last two lessons, Cast Studies and Projects on Nanodegree Analysis
+- Finish application for a possible internship
+- Prepare for interview on Monday (I'm on round 2..passed initial HR coding challenge!)
+
 ## And now..a Retrospective
 
 - I've been musing about this for a few days...
+
