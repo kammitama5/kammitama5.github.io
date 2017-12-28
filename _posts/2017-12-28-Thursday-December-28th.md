@@ -158,14 +158,16 @@ int centuryFromYear(int year)
   }
 }
 ```
-- Unite Two arrays and return no dupes but list up to sliced number n (JavaScript)
+- Unite Two arrays and return no dupes
+  but list up to sliced number n (JavaScript)
 
 ```
 function thatUnitesUs(array1, array2, n) {
   // good luck
   var arr = []
   arr = array1.concat(array2)
-  var b = arr.filter(function (item, pos){return arr.indexOf(item)== pos})
+  var b = arr.filter(function (item, pos)
+  {return arr.indexOf(item)== pos})
   var c = b.sort()
   return (c.slice(0,n))
 }
@@ -175,8 +177,10 @@ function thatUnitesUs(array1, array2, n) {
 ```
 module Mean where
 
-mean :: (Integral a, Fractional b) => [a] -> b
-mean xs = fromIntegral (sum xs) / fromIntegral (length xs)
+mean :: (Integral a, Fractional b)
+=> [a] -> b
+mean xs = fromIntegral (sum xs)
+/ fromIntegral (length xs)
 ```
 
 ## And..that's about it!
