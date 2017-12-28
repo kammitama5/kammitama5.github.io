@@ -123,7 +123,9 @@
 - SICP is also in there, also. I'd like to dig into that book at some point, also. Just on my own. 
 
 ## Katas!
-- I've done three CodeWars challenges today, also (because they're like an itch I keep scratching).
+- I've done CodeWars challenges today, also (because they're like an itch I keep scratching).
+  Every morning I just happen to wander onto the page to see if there are any new ones that someone has posted
+  that strike my fancy :D
 
 - Even numbers in Array (I could have used filter for this: JavaScript)
 
