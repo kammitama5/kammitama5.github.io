@@ -43,3 +43,15 @@
 
 - A lot of this feels like dealing with a database, which is really fun!
 
+## Next up, we're going to be doing some case studies...
+
+- And then I have a few projects to complete. 
+  I'm doing a mini-course on just Python Analysis, and also doing
+  the Nanodegree. 
+- I'm really enjoying both.
+- It reminds me of Databases, R, Functional programming, 
+  LaTeX, Matlab, Mathematica, all in one *humble bundle* (see what I did there :D)
+  
+## And now..a Retrospective
+
+- I've been musing about this for a few days...
