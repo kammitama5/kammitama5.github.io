@@ -88,11 +88,7 @@
   and am really quite bad at taking care of myself with respect to the "buying new clothes" stuff. 
   I'm wearing shoes with holes as I type this, not because I can't afford new ones (I do have a pair
   sitting at home), but because I *hate* shopping, and old things just fit better and are more 
-  comfortable :D
-- I don't have any debt and I have a fair
-  amount of cash saved up. My goal is to have a year's worth that is liquid
-  (so I'm not counting my current Investments, which I don't touch, in any case). Frugality and 
-  minimalism = Freedom to me
+  comfortable :D Frugality and minimalism = Freedom to me
 - That being said, I'd like to get a new computer in 2018; one that can run VisualStudio *and* Jupyter
   so I don't have to do [roundabout processes to spin up instances in browsers with tokens](https://github.com/jupyter/notebook/issues/2254).
   
