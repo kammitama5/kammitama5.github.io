@@ -177,8 +177,7 @@ function thatUnitesUs(array1, array2, n) {
 ```
 module Mean where
 
-mean :: (Integral a, Fractional b)
-=> [a] -> b
+mean :: (Integral a, Fractional b)=> [a] -> b
 mean xs = fromIntegral (sum xs)
 / fromIntegral (length xs)
 ```
