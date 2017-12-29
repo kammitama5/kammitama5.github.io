@@ -10,6 +10,10 @@
 
 - They were initially separated by semi-colons, so had to fix that! 
 
+- There were two separate data files with similar columns; red and white.
+  We were tasked with creating a column called "color" that would also give the color,
+  and then we were to merge these two data-sets together, which makes sense.
+
 <img src="/images/pandas_magic1/pandas_001.png" width="1000">
 
 - Observed the data, created a white and red column for each dataset and merged to two in a new edited file
