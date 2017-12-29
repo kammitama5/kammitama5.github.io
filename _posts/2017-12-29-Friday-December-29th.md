@@ -72,6 +72,6 @@
 - Finish up project 1, project 2
 - Finish up Data Analysis coursework from other shorter course (project 3 and 4)
 - Finish up application
-- Prepare for interview
+- Prepare for interviews (I have two on 1/1)! *bites nails*
 
 ## And, that's about it
