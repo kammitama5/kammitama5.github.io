@@ -57,3 +57,21 @@
 - Checking for dupes
 
 <img src="/images/pandas_magic1/pandas_009.png" width="400">
+
+## What I like so far
+
+- The cells in Jupyter are great in that they allow you to focus on single, specified tasks rather
+  than looking at pages of an intimidating code-base. 
+  
+- It also is quite functional; you're chaining functions together ```(eg. .sum().mean()).```
+  Haven't written a single ```self.ihatemylife``` yet :D
+  
+## To do
+
+- Finish up chapter, which includes a *lot* of SQL and more Case Studies
+- Finish up project 1, project 2
+- Finish up Data Analysis coursework from other shorter course (project 3 and 4)
+- Finish up application
+- Prepare for interview
+
+## And, that's about it
