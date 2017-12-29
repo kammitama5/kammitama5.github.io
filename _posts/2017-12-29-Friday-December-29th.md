@@ -43,8 +43,8 @@
 
 - Checking for non-null values
 
-<img src="/images/pandas_magic1/pandas_008.png" width="300">
+<img src="/images/pandas_magic1/pandas_008.png" width="500">
 
 - Checking for dupes
 
-<img src="/images/pandas_magic1/pandas_009.png" width="300">
+<img src="/images/pandas_magic1/pandas_009.png" width="400">
