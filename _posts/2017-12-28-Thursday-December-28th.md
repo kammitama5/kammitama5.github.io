@@ -183,6 +183,7 @@ mean xs = fromIntegral (sum xs)
 ```
 - dd number is if the number has same number of digits as a count of that digit.
  eg. two 2s, three 3s, etc. Return true if that is the case, or false otherwise
+ (Python)
  
 ```
 def is_dd(n):
