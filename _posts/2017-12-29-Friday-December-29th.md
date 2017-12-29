@@ -10,22 +10,22 @@
 
 - They were initially separated by semi-colons, so had to fix that! 
 
-<img src="/images/pandas_magic1/pandas_001.png" width="900">
+<img src="/images/pandas_magic1/pandas_001.png" width="1000">
 
 - Observed the data, created a white and red column for each dataset and merged to two in a new edited file
   containing both datasets
   
 - I verified that both datasets were, in fact, appended by  looking at the head and tail of the dataset 
 
-<img src="/images/pandas_magic1/pandas_002.png" width="900">
+<img src="/images/pandas_magic1/pandas_002.png" width="1000">
 
 ## I made a mistake!
 
-<img src="/images/pandas_magic1/pandas_003.png" width="900">
+<img src="/images/pandas_magic1/pandas_003.png" width="1000">
 
 - On the first try, I accidentally set the header to false, so the edited file had no Header for the Columns. Yikes!
 
-<img src="/images/pandas_magic1/pandas_003a.png" width="900">
+<img src="/images/pandas_magic1/pandas_003a.png" width="1000">
 
 - Fixed it! That meant updating the edited file! 
   I also had to rename a column before I could combine it into the one file. 
@@ -33,7 +33,7 @@
   one, so I had to delete that column, which brought me back to the 13 columns of data, 
   properly named.
 
-<img src="/images/pandas_magic1/pandas_004.png" width="900">
+<img src="/images/pandas_magic1/pandas_004.png" width="1000">
 
 - So far, so good!
 
@@ -41,9 +41,10 @@
 
 - Learned how to do some simple diagrams / visualization using Seaborn
 
-<img src="/images/pandas_magic1/pandas_006b.png" width="900">
+<img src="/images/pandas_magic1/pandas_006b.png" width="1000">
 
 ## Common Functions
+- This is using a different data-set that is associated with EPA data and carbon emissions. 
 
 - Checking for non-null values
 
