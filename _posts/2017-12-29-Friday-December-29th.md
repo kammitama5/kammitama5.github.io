@@ -28,6 +28,10 @@
 <img src="/images/pandas_magic1/pandas_003a.png" width="900">
 
 - Fixed it! That meant updating the edited file! 
+  I also had to rename a column before I could combine it into the one file. 
+  I was silly and didn't discover that it had created a NaN column of values from the old
+  one, so I had to delete that column, which brought me back to the 13 columns of data, 
+  properly named.
 
 <img src="/images/pandas_magic1/pandas_004.png" width="900">
 
