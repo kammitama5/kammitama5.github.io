@@ -74,4 +74,34 @@
 - Finish up application
 - Prepare for interviews (I have two on 1/1)! *bites nails*
 
+## Katas
+
+- find consecutive pairs given a list (Python)
+
+```
+def pairs(ar):
+  arr = zip(ar[0::2], ar[1::2])
+  count = 0
+  for i in arr:
+    if abs(i[0] - i[1]) == 1:
+      count = count + 1
+  return count
+```
+
+- if number is multiple of index, return (JavaScript)
+
+```
+function multipleOfIndex(array) {
+  var arr = []
+  for (var i = 0; i < array.length; i++)
+  {
+    if (array[i] % i == 0)
+    {
+      arr.push(array[i])
+    }
+  }
+  return arr;
+}
+```
+
 ## And, that's about it
