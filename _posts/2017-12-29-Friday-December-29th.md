@@ -76,8 +76,10 @@
 
 ## Katas
 
-- find consecutive pairs given a list (Python)
-
+- find consecutive pairs (tuples) given a list :
+  eg ```[1,2,3,4,5] == [(1,2), (3,4), 5]; count = 2 ```
+  (Python)
+  
 ```
 def pairs(ar):
   arr = zip(ar[0::2], ar[1::2])
