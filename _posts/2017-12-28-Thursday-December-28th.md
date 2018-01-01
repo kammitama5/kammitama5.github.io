@@ -67,6 +67,8 @@
 ## Things I'm grateful for in 2017
 
 - MY GREEN CARD *kisses card for the umpteenth time*
+- Learning to sail. I had wanted to do this *forever*. Thankfully, this year I was able to do 
+  a fair amount, and even take part in a race! I plan to do more of this in the New Year.
 - all of the opportunities, interviews and scholarships and general support from the tech community.
   Seriously; I've never felt so much support and so much like this is what I'm supposed to do with 
   my life, and I'm incredibly grateful. Thank you for giving me a chance and for not giving up on me.
@@ -75,6 +77,12 @@
   stick with it either way. And they're quite amicable and fun, so I don't mind. They look out for me
   and encourage me to stick with it; that's all that matters.
 - The opportunity to mentor other people, even with my limited knowledge.
+
+## All the places I've been in 2017
+
+- Portland, San Francisco/San Jose/ Mt. View/ Sunnyvale (pretty much Silicon Valley; all over),
+  St. Louis, Laurel (Maryland), Chicago, San Diego and Boulder. It's given me a confidence that I could
+  pretty much move and go *anywhere* at this point. 
 
 ## Things I want to want holistically
 
