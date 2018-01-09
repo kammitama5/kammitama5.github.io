@@ -19,7 +19,7 @@
 - I came in the PM to help stuff swag-bags. We completed our task
   within an hour, and I met Racketeer Ben, from Northeastern University
   (who presented on Monday). 
-- Ranjit came by to help (even though he presented first the next day as
+- [Ranjit](https://ranjitjhala.github.io/) came by to help (even though he presented first the next day as
   a Keynote!) and I saw an envelope by [Guy Steele](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.) randomly and went (in my 
   mind) omg :D
 - We ended up (about a group of seven of us) going to catch dinner, and 
