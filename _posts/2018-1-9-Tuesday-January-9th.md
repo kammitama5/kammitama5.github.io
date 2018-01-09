@@ -24,7 +24,7 @@
   mind) omg :D
 - We ended up (about a group of seven of us) going to catch dinner, and 
   having [black ice-cream](https://www.yelp.com/biz_photos/little-damage-los-angeles?select=CV45aVhHSiB1nkd38vU77g) and going to CVS and Walgreens :D On the way, 
-  we saw a Bollywood music video being filmed and ice-skating. It was so much fun!
+  we saw a Bollywood music video being filmed and ice-skating. The night was so much fun!
   
 ## Sunday
 - I came in to do an 8am to 12pm shift, and found out the person sharing my shift 
@@ -32,7 +32,9 @@
   
 ## Monday
 - Did a shift from 8am to 12pm as a Session floater (doing counts of people in each room), 
-  and in between was a workshop assistant for the CPP track for one session (Antal's talk!)
+  and in between was a workshop assistant for the CPP track for one session (Antal's talk!).
+  My friend, Zeina, wanted to see a talk on Galois Connections, so I took part of her shift 
+  as a Session assistant for Antal's talk (so I got to see the entire thing!). 
 - Our lunch volunteers didn't show up, so I ended up stepping in for that.
 
 - After that, I went to [Bob Harper](https://en.wikipedia.org/wiki/Robert_Harper_(computer_scientist))'s talk, and then saw in between the break that there 
