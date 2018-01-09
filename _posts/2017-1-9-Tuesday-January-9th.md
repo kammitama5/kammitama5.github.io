@@ -23,7 +23,7 @@
   a Keynote!) and I saw an envelope by [Guy Steele](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr.) randomly and went (in my 
   mind) omg :D
 - We ended up (about a group of seven of us) going to catch dinner, and 
-  having black ice-cream and going to CVS and Walgreens :D On the way, 
+  having [black ice-cream](https://www.yelp.com/biz_photos/little-damage-los-angeles?select=CV45aVhHSiB1nkd38vU77g) and going to CVS and Walgreens :D On the way, 
   we saw a Bollywood music video being filmed and ice-skating. It was so much fun!
   
 ## Sunday
