@@ -124,7 +124,7 @@
   which may actually affect our predictions, can't be factored in (I guess you could use it as some kind of 
   tuning parameter or offset, but I haven't learned that yet). 
 
-<img src="/images/mlr/mlr_001.png" width="600">
+<img src="/images/mlr/mlr_001.png" width="800">
 
 - We're using the stats model api in Jupyter, and using an intercept value of 1.
   OLS is Least Squares.
@@ -133,12 +133,12 @@
   for each quantitative value where y is price and X is a matrix composed of intercept and a 
   quantitative value.
   
-<img src="/images/mlr/mlr_002.png" width="600">  
+<img src="/images/mlr/mlr_002.png" width="800">  
 
 - To carry out logistic regression and to account for full rank, we need to perform 
   transposition, inverse, transposition and finally a dot matrix operation.
   
-<img src="/images/mlr/mlr_003.png" width="600">
+<img src="/images/mlr/mlr_003.png" width="800">
 
 # I'm still learning
 
@@ -147,6 +147,8 @@
   by James, Witten, Hastie and Tibshirani. I was able to obtain a pdf.
   
 # And, that's about it for now.
+
+- PS I apologize for differences in size. I really don't *mean* to torture you. :D
   
 
 
