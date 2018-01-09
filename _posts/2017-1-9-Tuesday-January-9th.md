@@ -59,6 +59,12 @@
 
 # Notes
 
+- I thought I'd do analog notes for this, as:
+  - I'm tired
+  - I haven't done this in a while
+  - Not a lot of blogs do this, and the diagrams
+    are more helpful drawn as they are right now
+
 ## Ranjit's talk on Sat Solvers
 ## "SMT Computing with an SMT Solver"
 
@@ -72,6 +78,8 @@
 ## "Total Haskell is Reasonable Coq"
 
 - Using Haskell and Coq
+
+- (should be Antal, *not* Anton) :D
 
 <img src="/images/popl_1/popl_003.jpg" width="600">
 
