@@ -92,7 +92,7 @@
 
 <img src="/images/popl_1/popl_005.jpg" width="600">
 
-<img src="/images/popl_1/popl_006.jpg" width="600">
+<img src="/images/popl_1/popl_006.jpg" width="800">
 
 <img src="/images/popl_1/popl_007.jpg" width="800">
 
