@@ -1,6 +1,6 @@
 # POPL (Sunday and Monday)
 
-# Firstly
+## Firstly
 - I apologize for the non-blogging; I've been quite busy between 
   doing the last week's requirement for a course, finishing up 
   my Nanodegree projects and lessons and volunteering for POPL.
