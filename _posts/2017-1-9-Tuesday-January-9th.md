@@ -98,8 +98,8 @@
 
 <img src="/images/popl_1/popl_008.jpg" width="600">
 
-<img src="/images/popl_1/popl_009.jpg" width="800">
+<img src="/images/popl_1/popl_009.jpg" width="1000">
 
-<img src="/images/popl_1/popl_010.jpg" width="800">
+<img src="/images/popl_1/popl_010.jpg" width="1000">
 
-<img src="/images/popl_1/popl_011.jpg" width="800">
+<img src="/images/popl_1/popl_011.jpg" width="1000">
