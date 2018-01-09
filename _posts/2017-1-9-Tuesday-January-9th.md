@@ -5,7 +5,7 @@
   doing the last week's requirement for a course, finishing up 
   my Nanodegree projects and lessons and volunteering for POPL.
   
-# My First POPL
+## My First POPL
 
 - POPL is amazing! It's been really a bit of heaven for me!
   It's difficult not to become star-struck, but everyone is 
@@ -15,7 +15,7 @@
 - The ACM organizers were so happy for my help, I've already been asked
   if I'd like to also join them for [ICFP](https://conf.researchr.org/home/icfp-2018). I think that's a "hell yes!" :D
   
-# Saturday
+## Saturday
 - I came in the PM to help stuff swag-bags. We completed our task
   within an hour, and I met Racketeer Ben, from Northeastern University
   (who presented on Monday). 
@@ -26,11 +26,11 @@
   having black ice-cream and going to CVS and Walgreens :D On the way, 
   we saw a Bollywood music video being filmed and ice-skating. It was so much fun!
   
-# Sunday
+## Sunday
 - I came in to do an 8am to 12pm shift, and found out the person sharing my shift 
   was stuck in Germany, but it turned out just fine.
   
-# Monday
+## Monday
 - Did a shift from 8am to 12pm as a Session floater (doing counts of people in each room), 
   and in between was a workshop assistant for the CPP track for one session (Antal's talk!)
 - Our lunch volunteers didn't show up, so I ended up stepping in for that.
@@ -42,7 +42,7 @@
 - The hotel staff has been excellent; they even brought us over food when we were working, 
   and gave us roll-up cutlery so we could eat at our desks if need be.
   
-# So far
+## So far
 - I've run into [Erik Meijer](https://en.wikipedia.org/wiki/Erik_Meijer_(computer_scientist)), who was dressed *just like* he is
   in his videos :D
 - I also attended this amazing lecture by Bob Harper, and saw 
@@ -50,7 +50,7 @@
 - I also ran into [Conal](http://conal.net/blog/)! He told me that he'd miss his talk if he could to go see Bob, too! :D
   He also promised he'd give his talk again at [BayHac](https://wiki.haskell.org/BayHac2018) or a local Haskell Meetup.
 
-# Bonus: I get to wear this! 
+## Bonus: I get to wear this! 
 
 <img src="/images/popl_1/shirt.png" width="400">
 
@@ -59,20 +59,20 @@
 
 # Notes
 
-# Ranjit's talk on Sat Solvers
-# SMT Computing with an SMT Solver 
+## Ranjit's talk on Sat Solvers
+## SMT Computing with an SMT Solver 
 - Using Liquid Haskell
 
 <img src="/images/popl_1/popl_001.jpg" width="600">
 
 <img src="/images/popl_1/popl_002.jpg" width="600">
 
-# Antal's talk: Total Haskell is Reasonable Coq 
+## Antal's talk: Total Haskell is Reasonable Coq 
 - Using Haskell and Coq
 
 <img src="/images/popl_1/popl_003.jpg" width="600">
 
-# Bob Harper's Talk: Computational Higher Type Theory 
+## Bob Harper's Talk: Computational Higher Type Theory 
 - NuPrl and RedPrl
 
 <img src="/images/popl_1/popl_004.jpg" width="600">
