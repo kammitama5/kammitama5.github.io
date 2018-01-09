@@ -60,19 +60,24 @@
 # Notes
 
 ## Ranjit's talk on Sat Solvers
-## SMT Computing with an SMT Solver 
+## "SMT Computing with an SMT Solver"
+
 - Using Liquid Haskell
 
 <img src="/images/popl_1/popl_001.jpg" width="600">
 
 <img src="/images/popl_1/popl_002.jpg" width="600">
 
-## Antal's talk: Total Haskell is Reasonable Coq 
+## Antal's talk
+## "Total Haskell is Reasonable Coq"
+
 - Using Haskell and Coq
 
 <img src="/images/popl_1/popl_003.jpg" width="600">
 
-## Bob Harper's Talk: Computational Higher Type Theory 
+## Bob Harper's Talk
+## "Computational Higher Type Theory"
+
 - NuPrl and RedPrl
 
 <img src="/images/popl_1/popl_004.jpg" width="600">
