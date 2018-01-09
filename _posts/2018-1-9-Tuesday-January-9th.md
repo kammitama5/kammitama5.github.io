@@ -105,3 +105,50 @@
 <img src="/images/popl_1/popl_010.jpg" width="1000">
 
 <img src="/images/popl_1/popl_011.jpg" width="1000">
+
+
+## Today
+
+# I'm off from POPL
+- Yeah, so I'm missing Erik Meijer's talk, but I'm learning about Multiple Logistic Regression.
+  A lot of it feels very intuitive, and I've been doing well on this section :D
+  
+- It's more in line with ML (Machine Learning). Basically taking a Vector value (your y value)
+  and using a matrix as your X values. These are quantitative values, where y is the value you'd 
+  want to find/ make a prediction on, and X are the other values. 
+- You're using Matrix multiplication, so therefore have to use a dot product, and account for full-rank.
+  
+# Prices given rooms and other properties
+
+- We can only make calculations on Quantitative values (ie numerical). So logically, something like "style",
+  which may actually affect our predictions, can't be factored in (I guess you could use it as some kind of 
+  tuning parameter or offset, but I haven't learned that yet). 
+
+<img src="/images/mlr/mlr_001.png" width="600">
+
+- We're using the stats model api in Jupyter, and using an intercept value of 1.
+  OLS is Least Squares.
+
+- I've shown an example of what I did for each value; basically, I created a linear model
+  for each quantitative value where y is price and X is a matrix composed of intercept and a 
+  quantitative value.
+  
+<img src="/images/mlr/mlr_002.png" width="600">  
+
+- To carry out logistic regression and to account for full rank, we need to perform 
+  transposition, inverse, transposition and finally a dot matrix operation.
+  
+<img src="/images/mlr/mlr_003.png" width="600">
+
+# I'm still learning
+
+- But it's very fun, and fascinating. I was also advised to take a look at
+  [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
+  by James, Witten, Hastie and Tibshirani. I was able to obtain a pdf.
+  
+# And, that's about it for now.
+  
+
+
+
+
