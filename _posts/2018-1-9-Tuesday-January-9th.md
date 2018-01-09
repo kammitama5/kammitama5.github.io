@@ -110,7 +110,7 @@
 ## Today
 
 # I'm off from POPL
-- Yeah, so I'm missing Erik Meijer's talk, but I'm learning about Multiple Logistic Regression.
+- Yeah, so I'm missing Erik Meijer's talk, but I'm learning about Multiple Linear Regression.
   A lot of it feels very intuitive, and I've been doing well on this section :D
   
 - It's more in line with ML (Machine Learning). Basically taking a Vector value (your y value)
