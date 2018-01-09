@@ -146,6 +146,11 @@
   [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/)
   by James, Witten, Hastie and Tibshirani. I was able to obtain a pdf.
   
+## Things I learned / want to know more about
+
+- [Durbin-Watson test](https://en.wikipedia.org/wiki/Durbin%E2%80%93Watson_statistic)
+- [Homoscedasticity](https://en.wikipedia.org/wiki/Homoscedasticity)
+  
 # And, that's about it for now.
 
 - PS I apologize for differences in size. I really don't *mean* to torture you. :D
