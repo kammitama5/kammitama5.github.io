@@ -9,6 +9,8 @@
 
 - POPL is amazing! It's been 
 
+<img src="/images/popl_1/shirt.png" width="600">
+
 # Notes
 
 # Ranjit's talk on Sat Solvers
