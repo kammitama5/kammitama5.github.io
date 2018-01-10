@@ -150,6 +150,14 @@
 
 - [Durbin-Watson test](https://en.wikipedia.org/wiki/Durbin%E2%80%93Watson_statistic)
 - [Homoscedasticity](https://en.wikipedia.org/wiki/Homoscedasticity)
+
+## Oh, and I ran my first Machine Learning Algorithm on the Cloud :D
+
+<img src="/images/popl_1/testdata.png" width="600">
+
+<img src="/images/popl_1/trainingtime.png" width="600">
+
+- I almost ran out of disk space, but got it to work! :D
   
 # And, that's about it for now.
 
