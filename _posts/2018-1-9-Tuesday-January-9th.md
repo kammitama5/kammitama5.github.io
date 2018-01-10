@@ -150,6 +150,8 @@
 
 - [Durbin-Watson test](https://en.wikipedia.org/wiki/Durbin%E2%80%93Watson_statistic)
 - [Homoscedasticity](https://en.wikipedia.org/wiki/Homoscedasticity)
+- [Kernel Methods](https://en.wikipedia.org/wiki/Kernel_method)
+- [PCAs](https://en.wikipedia.org/wiki/Principal_component_analysis)
 
 ## Oh, and I ran my first Machine Learning Algorithm on the Cloud :D
 
