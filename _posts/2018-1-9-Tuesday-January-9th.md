@@ -155,7 +155,7 @@
 
 <img src="/images/popl_1/testdata.png" width="600">
 
-<img src="/images/popl_1/trainingtime.png" width="600">
+<img src="/images/popl_1/trainingtime.png" width="400">
 
 - I almost ran out of disk space, but got it to work! :D
   
