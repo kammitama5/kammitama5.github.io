@@ -153,9 +153,9 @@
 
 ## Oh, and I ran my first Machine Learning Algorithm on the Cloud :D
 
-<img src="/images/popl_1/testdata.png" width="600">
+<img src="/images/popl_1/testdata.png" width="300">
 
-<img src="/images/popl_1/trainingtime.png" width="400">
+<img src="/images/popl_1/trainingtime.png" width="100">
 
 - I almost ran out of disk space, but got it to work! :D
   
