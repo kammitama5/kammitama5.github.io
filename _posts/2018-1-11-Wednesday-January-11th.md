@@ -182,7 +182,40 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 
 ## We had a banquet
 - Later, we went over to MOCA and had a banquet.
-  It was interesting for me 
+  It was interesting for me, because I had a moment to speak with both the ACM Chair 
+  and my Student Volunteer Captain (who flew in from Edinburgh). 
+- Both were very interested in helping me, and had a heart to heart, and encouraged me 
+  very much to apply to ICFP, and offered a realistic path to doing my Master's. 
+- I have to say, I've never met such a bunch of people who had so much faith in me. 
+  Everyone there seems to think I have some kind of great future. That's really encouraging. 
+  And I've never quite "fit" with a group the way I do with these people. It felt great and 
+  I legitimately have looked forward to *every single day* of this conference. 
+- The next event I'm looking forward to is the CoqPL workshop on Saturday. 
+
+## So...
+- It's something I'm legitimately thinking about, because I honestly am not quite happy 
+  with the sort of opportunities with my level of experience, and would like an opportunity
+  to do more research work in general. 
+- I've been thinking about whether it is worth it for me to put up with abuse, sexism and all 
+  the other great things that come as territory in joining the lower levels of the industry,
+  and whether it is worth it, or if I'd be happier spending some time strengthening my technical 
+  skills and in working on projects I find interesting. 
+- I have no desire to be a web developer, so I'm not in a rush to obtain that kind of job, or 
+  to join the tech world in general. But I want to do interesting work. 
+- I've been to all sorts of conferences, and I have to say, the ones I've found most enjoyable
+  are the ones like these, or say, LambdaConf. I also like the people in those communities a lot,
+  and they tend to be a lot more focused on quality and mentorship, which is important to me.
+
+## However
+- Who knows how this will turn out? I have spoken to a few individuals in similar paths, and they've said that 
+  Apparently, unknowingly, a lot of what I've been doing lines up perfectly with this path. One that can include
+  topics like probability / statistics, verification and a deeper understanding of things like type theory. 
+  So that's certainly interesting. 
+  
+- Anyways, that's it for now. Oh, I also got rejected by a company, but no worries because after last night's 
+  conversations, it probably would not have been a good fit, in any case.
+  
+## And..that's it.
 
   
   
