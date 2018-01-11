@@ -111,6 +111,35 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 
 - *Related Work: Wiedijk's Stateless HOL, Barra's Coq*
 
+## Univalent Higher Categories via Complete Segal Types
+(this was a *highly* interesting talk! I would *love* to read more about this!)
+
+- I hadn't heard of Segal Types before!
+- Maclane's Pentagon (I drew a diagram here). Basically you shift brackets to get from one
+  composition to another
+- Ahrens-Kapulkin-Shulman (2015): categories where morphisms satisfy UIP
+- A definition for higher categories in type theory: Complete semi-Segal Types
+  - 1. Semisimplicial types (give raw data)
+  - 2. Segal condition (Rezk 2001) gives coherent composition
+  - 3. Completeness (Lurie 2009/ Harpaz 2015), gives identity structure which moreover is univalent
+    (different notions of ob-checks coincide)
+- Identities: present trouble in type theory because of degeneracy and semisimplicial types
+
+- Semi-simplicial types
+  - type A_0 of points for any pair of points, we have type of lines
+  - for any "empty triangle", a type of fillers (I have diagrams of these :D)
+  (at this point, I also drew differences he demonstrated between Categories and Semisimplicial types)
+- Segal condition (he demonstrated pentagon equality where the number of points is four so k = 4)
+  - he demonstrated that if the horns of the form are vectors in different directions, the form is neutral
+- A semisimplicial type is complete if every point has exactly one outgoing neutral edge
+- complete semi-Segal n-type is a semisimplicial type (A_0, ..., A_n+2 that satisfies:
+  - Segal condition
+  - completeness
+  - truncation (highest level trivial).
+  - (we rever to these three as propositions)
+  
+## And..Posters 
+
   
   
 
