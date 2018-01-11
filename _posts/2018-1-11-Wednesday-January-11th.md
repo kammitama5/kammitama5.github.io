@@ -16,5 +16,9 @@
 - Progress and Preservation
   - Progress: future state or valid terminal state
   - Preservation
-
+- Limits:
+  - Limit 1: Data Abstraction
+  - Limit 2: Unsafe Features: See "Pre-pooping your pants with Rust (Alexis Beingessner, Leakpocalypse)
+  
+<img src="/images/popl_2/popl_002.png" width="400">
 
