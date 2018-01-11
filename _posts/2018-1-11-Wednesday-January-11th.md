@@ -139,6 +139,50 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
   - (we rever to these three as propositions)
   
 ## And..Posters 
+- I took photos of ones I found personally interesting. 
+
+<img src="/images/popl_2/popl_008.png" width="400">
+
+<img src="/images/popl_2/popl_009.png" width="400">
+
+<img src="/images/popl_2/popl_010.png" width="400">
+
+<img src="/images/popl_2/popl_011.png" width="400">
+
+<img src="/images/popl_2/popl_012.png" width="400">
+- Zeina and Ben's poster (Ben's a Racketeer!)
+
+<img src="/images/popl_2/popl_013.png" width="400">
+
+<img src="/images/popl_2/popl_014.png" width="400">
+- This was really interesting, and was done by a student 
+  I was able to speak with from MIT CSAIL where he was using
+  Probabilistic Programming and Locale theory.
+
+<img src="/images/popl_2/popl_015.png" width="400">
+- He made a great analogy of a case where you flip a coin and 
+  want to get a head. However, over a sequence of tries, you could
+  have a case where you never obtain one, and that creates a bit of an issue
+  when dealing with probability (just that one case).
+  
+<img src="/images/popl_2/popl_016.png" width="400">
+- This was pretty neat! Reminded me a lot of the process for say, machine-learning
+  and driverless cars (where you are using probability and targets to train models).
+
+<img src="/images/popl_2/popl_017.png" width="400">
+- You can see how the function traverses the tree (left and right node), 
+  and where the end of the tree is,
+  as it recurses upwards.
+  And I don't even use/read Anglican!
+  
+<img src="/images/popl_2/popl_019.png" width="400">
+- This was over my head. 
+
+<img src="/images/popl_2/popl_020.png" width="400">
+
+## We had a banquet
+- Later, we went over to MOCA and had a banquet.
+  It was interesting for me 
 
   
   
