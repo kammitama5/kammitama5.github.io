@@ -233,11 +233,11 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 - This is varying the kernel filter (linear vs rbf) and sample size to influence accuracy,
   and also find values at particular points
   
-<img src="/images/popl_2/svm_001.png" width="400">
+<img src="/images/popl_2/svm_001.png" width="200">
 
-<img src="/images/popl_2/svm_002.png" width="400">
+<img src="/images/popl_2/svm_002.png" width="200">
 
-<img src="/images/popl_2/svm_003.png" width="400">
+<img src="/images/popl_2/svm_003.png" width="200">
   
 ## And..that's it.
 
