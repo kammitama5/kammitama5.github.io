@@ -191,21 +191,31 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
   And I've never quite "fit" with a group the way I do with these people. It felt great and 
   I legitimately have looked forward to *every single day* of this conference. 
 - The next event I'm looking forward to is the CoqPL workshop on Saturday. 
+- There was also a publisher of technical books there, and I had to stop by his booth by the moment
+  I saw it. We ended up chatting and he gave me his information and told me that he's actually
+  giving away the books displayed to student volunteers, and that I'm more than welcome to take
+  the one I want. 
 
 ## So...
 - It's something I'm legitimately thinking about, because I honestly am not quite happy 
   with the sort of opportunities with my level of experience, and would like an opportunity
   to do more research work in general. 
-- I've been thinking about whether it is worth it for me to put up with abuse, sexism and all 
-  the other great things that come as territory in joining the lower levels of the industry,
+- I've been thinking about whether it is worth it for me to put up with abuse, sexism, being treated
+  like I am an absolute idiot, and all the other great things (sarcasm) that come as territory in
+  joining the lower levels of the industry,
   and whether it is worth it, or if I'd be happier spending some time strengthening my technical 
-  skills and in working on projects I find interesting. 
+  skills and in working on projects I find interesting, going in also with a better skillset (or not at all,
+  but I'd have the choice). 
+- I have other friends who really *love* web development, and I just don't fit...at all. 
 - I have no desire to be a web developer, so I'm not in a rush to obtain that kind of job, or 
   to join the tech world in general. But I want to do interesting work. 
 - I've been to all sorts of conferences, and I have to say, the ones I've found most enjoyable
   are the ones like these, or say, LambdaConf. I also like the people in those communities a lot,
   and they tend to be a lot more focused on quality and mentorship, which is important to me.
-
+- No one at POPL *cared* much about where anyone works (which is common at a lot of confs); they 
+  all cared more about what people were working on. I liked that a lot. They wanted to make connections
+  with people doing similar work. 
+  
 ## However
 - Who knows how this will turn out? I have spoken to a few individuals in similar paths, and they've said that 
   Apparently, unknowingly, a lot of what I've been doing lines up perfectly with this path. One that can include
@@ -213,7 +223,9 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
   So that's certainly interesting. 
   
 - Anyways, that's it for now. Oh, I also got rejected by a company, but no worries because after last night's 
-  conversations, it probably would not have been a good fit, in any case.
+  conversations, it probably would not have been a good fit, in any case (lol). 
+  
+- So maybe I sound like I'm a little mixed up right now, but it's OK. It's good to be thoughtful and conscientious.
   
 ## And..that's it.
 
