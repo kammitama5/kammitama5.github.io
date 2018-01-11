@@ -48,14 +48,18 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 ( This talk was OK: I wish it were longer, more detailed, and the points not as trivialized)
 ( Intersestingly, my friend, Ben, also agreed with me). 
 
+<img src="/images/popl_2/popl_004.png" width="400">
+
 - Higher Order Constrained Horn Clauses for Verification
 - Jones: Optimal Partial Evaluation
 - Wadler: Linear Types
   - Linear types seem to require deep changes to the language
-- f::A->B
+- ```f::A->B```
   - If f U is consumed exactly once, then U is consumed exactly once
   - Polymorphic foldl instead of linear foldl
   - Linearity Polymorphism (no subtyping)
+ 
+<img src="/images/popl_2/popl_005.png" width="400">
   
 ## Polyvariadic Approximations: Fibrations and Intersection Types
 (This was definitely not clear to me, so the notes are very short-ended.) 
@@ -73,5 +77,22 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
   - de Carvalho's System R
   - Kesner-Vial's system for the lambda u - calculus and gets their normalization properties
     and reduction strategies
+    
+## Unifying Analytic and Statically Typed Quasiquotes
+- Analytic Quasiquotes - code as data 
+  (I've heard of code as data in Clojure.spec, but not familiar with quasiquotes)
+  - Statically-typed quasiquotes
+  
+## Lunch Break :D
+
+<img src="/images/popl_2/popl_006.png" width="400">
+
+<img src="/images/popl_2/popl_007.png" width="400">
+
+## Safety and Conservativity for HOL and Isabelle / HOL (Andrei Popescu)
+
+- Implementation bug 
+  
+  
 
 
