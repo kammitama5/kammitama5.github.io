@@ -229,7 +229,7 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 - So maybe I sound like I'm a little mixed up right now, but it's OK. It's good to be thoughtful and conscientious.
 
 ## I trained a machine learning model
-- Used svm today.
+- Used svm.
 - This is varying the kernel filter (linear vs rbf) and sample size to influence accuracy,
   and also find values at particular points
   
