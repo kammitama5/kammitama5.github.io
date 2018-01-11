@@ -32,6 +32,7 @@
 - Higher-Order Hoare Logic : If P holds initially, then e is safe to excecute.
   Bind Rule
 - Iris's Monadic Bind Blue
+
 <img src="/images/popl_2/popl_003.png" width="400">
 
 - Separation Logic
