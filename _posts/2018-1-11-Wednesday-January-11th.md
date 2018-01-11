@@ -45,4 +45,33 @@
 Takeaway: Good type systems support data abstraction and safe encapsulation of unsafe features
 
 ## Linear Haskell
+( This talk was OK: I wish it were longer, more detailed, and the points not as trivialized)
+( Intersestingly, my friend, Ben, also agreed with me). 
+
+- Higher Order Constrained Horn Clauses for Verification
+- Jones: Optimal Partial Evaluation
+- Wadler: Linear Types
+  - Linear types seem to require deep changes to the language
+- f::A->B
+  - If f U is consumed exactly once, then U is consumed exactly once
+  - Polymorphic foldl instead of linear foldl
+  - Linearity Polymorphism (no subtyping)
+  
+## Polyvariadic Approximations: Fibrations and Intersection Types
+(This was definitely not clear to me, so the notes are very short-ended.) 
+
+- Calculus as Cat-operands
+- a 2-morphism between multi-morphisms is a cut-elimination path
+- Approximate presheaf: An approximate on MELL defines the approximation presheaf
+- The Groethendieck construction: subject reduction: subject reduction/ subject expansion
+- The fundamental theorem of intersection types (Mazza, Pellisier, Vial)
+- If A compose G have properties relative to 
+  - a family of Reductions R_s
+  - a strategy R_w
+  - then we can go from a weak to a strong type (I drew the diagram for this)
+- Coppo-Dezani idempotent type system
+  - de Carvalho's System R
+  - Kesner-Vial's system for the lambda u - calculus and gets their normalization properties
+    and reduction strategies
+
 
