@@ -89,9 +89,28 @@ Takeaway: Good type systems support data abstraction and safe encapsulation of u
 
 <img src="/images/popl_2/popl_007.png" width="400">
 
+- I was actually in people-overload so I ended up taking a two hour nap in a quiet room. 
+
 ## Safety and Conservativity for HOL and Isabelle / HOL (Andrei Popescu)
 
-- Implementation bug 
+- Implementation bug eg side condition of inference rule not implemented correctly (Conceptual)
+- logical flaw eg termination/ guardedness checker (Logical)
+- Maxime Denes and Daniel Schepler (bug allowed inconsistency axiomatic extensionality)
+- Isabelle: Ondrej Kuncar (2014)
+- 2 approaches to theorem proving:
+  - Axiomatic (unsafe)
+  - Definitional (safer but less convenient)
+- Definitions can be compiled awa without loss of provability
+- Proof Assistance: Definitional Ambitions
+- Type Theory (Agda, Coq, Lean, Matita)
+- Safer Provers (HOL-> Higher Order Logic)
+- Sacrifice Dependent Types (HOL4, HOL Light, Zero, Isabelle)
+  - all recursion reduced to non-recursive definitions
+- HOL Logic: Rank-1 Polymorphic Classical Higher-Order Logic with Choice and Infinity
+- Type-defs introduce isomorphic copies (and are accepted only if the predicate is proven empty)
+
+- *Related Work: Wiedijk's Stateless HOL, Barra's Coq*
+
   
   
 
