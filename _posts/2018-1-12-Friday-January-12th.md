@@ -6,8 +6,15 @@
 - Conjecture : ```for all (x : A). Q(x) -> P(x)```
 - gen: GA -> Q(a) -> P(a)
 - Lemma STLC preservation:
+  ```
   - forall (e1 e2: term) (t:type),
     [] |- e : t ->
     e1 ==> e2 ->
     [] |- e2 : t
+  ```
+  
+- Software Foundations textbook 
+- github.com/QuickChick/QuickChick
+
+
  
