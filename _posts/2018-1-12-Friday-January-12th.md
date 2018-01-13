@@ -1,5 +1,26 @@
 ## POPL DAY 3
 
+- Today was a long but satisfying day.
+  I ran into [William Byrd](https://www.youtube.com/watch?v=zHov3fKYqBA), and sat next to [Martin Odersky](https://en.wikipedia.org/wiki/Martin_Odersky). I got to speak with William a bit, and also [Dana Scott](https://en.wikipedia.org/wiki/Dana_Scott),
+  who was at last year's LambdaConf. I also spoke with [Dr. Spivak](http://math.mit.edu/~dspivak/) via email.
+  Spivak gave me great advice, which was that I should continue to do what I enjoy and making things that can benefit people,
+  and to keep learning. Very sensible. Another gentleman told me that a good scientist is both passionate and dispassionate.
+  Basically, you have to love what you do in terms of what you are studying (or doing), but also be dispassionate enough to listen to
+  and critically assess fair criticism. 
+
+- So, I'm trying to get good information about the Master's process. I was also advised about seeking an advisor
+  and about what a good GRE score is. I've also done some of the research on that on my own, too.
+- I was able to pick up a few papers that were left for the student volunteers (like myself) to take home. So that was pretty
+  awesome. 
+  
+## So...tomorrow..I have an entire day of Coq!!!!
+- Yassss!!! :D
+- Then, the next day, I go Whale-watching :D
+
+Anyways....
+
+## Notes from Today
+
 ## Generating Good Generators for Inductive Relations (L. Lampropoulos)
 
 - Testing w/ QuickChick
@@ -269,8 +290,5 @@ type cell =
 
 
 
-
-
-  
 
  
