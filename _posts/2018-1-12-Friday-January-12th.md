@@ -235,6 +235,37 @@ type cell =
  
 ## Rustbelt (R. Jung)
 - Research Process: verify claims mathematically 
+- lambda Rust : core calculus representing a fragment of Rust and its type system
+- Rust 101: No Aliasing and Mutation
+- send -> pass by value
+- push -> pass by reference
+- fn Vec::push<'a>(&'a mut Vec<i32>,i32)
+- lifetime a' is inferred by Rust
+- mutation, no aliasing -> unique ptr
+- shared borrowing &x
+  - can share multiple refs by diff threads
+- aliased mutable state: synchronization mechanisms and memory management
+- Mutex : contains data in Rust
+- Mutex has unsafe implementation but the interface (API) is safe fn lock <'a>...
+
+## Lambda Rust type system
+- Core substructural typing judgment
+- Synctatic type safety
+- [ T] own (t, v)-> ownership predicate for every type 
+  - t is owning thread's ID
+  - v is data in memory
+- Logical Relation
+- Type Ownership
+- lifetime logic -> splitting ownership in time
+- P => (&_full)^k x ([tk] -> P)
+- before tk is alive and after tk is dead
+
+
+## Missing from Rustbelt
+- trait objects (existential types)
+- weak memory
+-drop
+- https://plv.mpi-sws.org/rustbelt
 
 
 
