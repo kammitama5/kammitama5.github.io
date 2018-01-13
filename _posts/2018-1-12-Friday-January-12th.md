@@ -1,6 +1,6 @@
 ## POPL DAY 3
 
-## Generating Good Generators for Inductive Relations 
+## Generating Good Generators for Inductive Relations (L. Lampropoulos)
 
 - Testing w/ QuickChick
 - Conjecture : ```for all (x : A). Q(x) -> P(x)```
@@ -16,7 +16,7 @@
 - Software Foundations textbook 
 - github.com/QuickChick/QuickChick
 
-## Why is Random Testing Effective for Partition Tolerance Bug?
+## Why is Random Testing Effective for Partition Tolerance Bug? (R. Majumdar)
 
 - Jepsen -> testing framework for distributed systems
 - partitions into two blocks -> http://jepsen.io/
@@ -58,7 +58,7 @@
   - 1. Inputs w/ many features
   - 2. Values for k features
 
-## Soft Contract Verification
+## Soft Contract Verification (P Nguyen)
 - Challenges 
   - expressiveness
   - idioms
@@ -75,9 +75,58 @@
 - Approximation (Higher-order value)
 - github.com/philnguyen/soft-contract
 
-## Collapsing Towers of Interpreters
+## Collapsing Towers of Interpreters (N. Amin)
 - Reflecting Towers
 - Partial Evaluation (Futamura)
+- Automatic partial evaluation binding time analysis(BTA)
+- A staged interpreter is a compiler 
+- Stage Polymorphism
+  - Generic Programming in Space and Time
+  - Ofenbeck GPCE '17
+- Pink (language)
+  - Stage-Polymorphic
+  - Meta-circular
+- Strong Jones - Optimality for Multiple Levels of Interpretation
+- tower of compilers -> reflection 
+
+## Retirement Reflection : Complete Verification with SMT (N. Vazou)
+- SMT queries are Decidable
+- Refinement Reflection
+- Proof by Logical Evaluation
+- Uninterpreted Function
+- SMT Axiom -> not decidable because fib recursive so instantiated infinitely
+  - Refinement
+  - Reflection
+- Application is Type Level Computation
+- Proofs are Functions
+  ```
+  fibUp::i:Nat->{fib i <= fib(i+1)}
+  ```
+- Liquid Haskell is case sensitive
+- niki/liquidtypes/aufp16/dist/-site/popl18-reflection.html
+
+- PLE (Proof by Logical Evaluation) 
+  - unfold if you can
+- Idea
+  - Propositions:
+  - I: Termination
+  - II: Completeness 
+  - Application: Proof Simplification
+
+## Practical Construction for Decomposing Numerical Abstract Domains (G. Singh)
+- Octagon
+- {-x,-x_2<=0,-x_2<=0,-x_3,-x_4<=0}
+- Octagon Polyhedra analysis 
+
+- Limitations of prior work
+  - ad hoc design
+  - guided by cost precision tradeoff
+  - tailored for specific use cases
+
+## Non-Linear Reasoning for Invariant Synthesis (Z. Kinkaid)
+- Recurrent Solver
+- Linear- uses fixed point operation
+- Algorithm: compute affine hull by querying an SMT solver
 
 
   
