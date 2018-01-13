@@ -7,6 +7,9 @@
   and to keep learning. Very sensible. Another gentleman told me that a good scientist is both passionate and dispassionate.
   Basically, you have to love what you do in terms of what you are studying (or doing), but also be dispassionate enough to listen to
   and critically assess fair criticism. 
+- I also did a phone interview about another opportunity, but I guess we'll see...this week has changed me in a lot of ways. 
+  I have a more deeper understanding of my values and what is important to me in Computer Science. It isn't just getting a job in the 
+  field (which honestly, I think won't be a problem), but having a deeper understanding of the craft. 
 
 - So, I'm trying to get good information about the Master's process. I was also advised about seeking an advisor
   and about what a good GRE score is. I've also done some of the research on that on my own, too.
@@ -287,6 +290,15 @@ type cell =
 - weak memory
 -drop
 - https://plv.mpi-sws.org/rustbelt
+
+## So..
+- Everyone was pretty tired after a long day today. A couple of my Racketeer friends were tired because they 
+  had met up the night before for dinner, and got home around minutes to 11! I hope they get some rest today.
+  My friend, Ben, leaves for the East Coast (Boston specifically) tomorrow morning. I'm sure we'll see each other 
+  again (hopefully soon)!
+  
+## And, that's about it!
+
 
 
 
