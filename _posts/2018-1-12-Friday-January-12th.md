@@ -162,6 +162,55 @@
 - Haskell ST Monad
 - provide ML style mutable references
 - a way to encapsulate or hide effects wing types
+- System F mu with built in ST monad
+- ST Monad -> ST rho tau 
+- runST::(forall B . ST beta alpha) -> alpha
+- for each type rho, ST rho is a monad, in the Haskell sense
+- return::alpha->ST beta alpha
+- (>>=)::ST beta alpha -> (alpha -> ST beta alpha') -> ST beta alpha'
+- Informal claim:Haskell with run ST remains "pure"
+- new STRef::alpha->ST beta(STRef beta alpha)
+- runST((newSTRef 7)>>= lambda r. (readSTRef r))
+- bad programs leaking a reference runST(new STRef 7) STRef beta N
+- Launchury and Peyton Jones, 1994
+- Introduces ST monad and argues informally for type-safety and encapsulation
+- Moggi and Sabry, 2001
+- Type safety for an instrumented semantic call by name and call by need
+- For all C (null C[e] terminates ->(null, C[e]) terminates
+- State-independence theorem
+- If e can be executed under some heap h, then it can be executed under any heap h
+
+## Logical Relation
+- Binary logical relation
+- contextual refinements -> soundness of LR
+- Iris logic -> higher-order separation logic
+- Kripke logical relation
+
+## A region-based relational model
+- untyped global heap
+- cut into disjoint regions in the relational semantics
+- the computation must be able to start from any region (including empty regions)
+- semantics of the Effectful types
+- current heap for l and rhs
+- h (lhs) h' (rhs)
+- region rho holds for h and h' 
+- (h, runST{v} reduces {h2, w}
+- then (h', runST{v'}) reduces to (h'2, w')
+- we can update the logical state
+- how we encode in Iris
+- the future modality and IC triple
+- the NN-logical relation for proving the hoisting refinements
+
+## Recalling a Witness: Foundations and Applications of Monotonic State (D. Ahman)
+- Monotonicity is really useful
+- its essence can be captures very neatly 
+  - Monotonic state by example 
+  - Key ideas behind general framework
+  - accommodating monotonic state in F*
+- Monotonicity in program verification
+- set-valued sate
+- insert v; complex_procedure();
+- assert(v element get())
 
 
 
