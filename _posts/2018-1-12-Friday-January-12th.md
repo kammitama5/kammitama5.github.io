@@ -211,6 +211,31 @@
 - set-valued sate
 - insert v; complex_procedure();
 - assert(v element get())
+- {lambda s. v element s} complex-procedure () {lambda s. V element s}
+- Consider ML-style typed references r : ref a
+- r is a proof of existence of an a-typed value in the heap
+- crucially uses monotonocity 
+- Recall a Witness -> introduce logical capacity (modality)
+- and a weakening principle (functoriality)
+- we add stateful introduction rule for witnessed and stateful elimination for witnessed
+- Monotonic counters are analogous
+- ML style typed references (local state)
+- 
+```
+type cell = 
+   | unused : cell
+   | used : a : type -> a, cell
+   (type contains type a, with value of a cell)
+ ```
+ 
+- LST actions: write, read, add new value to reference -> get and put operation
+- let alloc, let read, let write 
+- Adding untyped and Monotonic references
+- www.fstar-lang.org (f* internship)
+ 
+## Rustbelt (R. Jung)
+- Research Process: verify claims mathematically 
+
 
 
 
