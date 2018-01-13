@@ -58,6 +58,28 @@
   - 1. Inputs w/ many features
   - 2. Values for k features
 
+## Soft Contract Verification
+- Challenges 
+  - expressiveness
+  - idioms
+  - unknown functions
+- Higher-order symbolic execution 
+  - modified semantics 
+  - standard execution 
+  - symbolic function application 
+- Supplying Symbolic Value
+- Storing Functions to Invoke Later 
+- Symbolic Function Application
+  - Sound 
+  - Practical 
+- Approximation (Higher-order value)
+- github.com/philnguyen/soft-contract
+
+## Collapsing Towers of Interpreters
+- Reflecting Towers
+- Partial Evaluation (Futamura)
+
+
   
 
  
