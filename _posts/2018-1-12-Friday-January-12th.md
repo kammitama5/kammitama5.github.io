@@ -127,6 +127,43 @@
 - Recurrent Solver
 - Linear- uses fixed point operation
 - Algorithm: compute affine hull by querying an SMT solver
+- Reasoning for non-linear arithmetic eg triply nested loop
+- wedge abstract domain
+  - conjunctive edge of non-linear integer/ rational arithmetic
+- Wedge 
+  - polyhedron
+  - algebraic variety
+- Wedge domain -> symbolic abstraction
+- How do we solve system recurrences?
+  - Operational calculus: an algebra of infinite sequences
+- transformation -> transform back
+- ICRA
+- Benchmark suites:
+  - HOLA
+  - functional
+  - relational : secure, information properties
+
+## Verifying Equivalence of Database-Driven Applications (Y. Wang)
+- Structural schema change
+- split a table into multiple ones
+- merge multiple tables into one
+- move columns from one table to another
+- formalization of equivalence 
+  - two databases: how do we prove them to be equal
+- proof automation
+- Invariant Synthesis
+  - fixed point to find strongest bisumulation
+  - invariant over predicate universe
+- Evaluation - 1
+- Refactoring Databases 
+- structure change : split/ merge tables, move columns, denormalizatoin
+
+## A Logical Relation for Monadic Encapsulation of State (A. Timany)
+- Haskell ST Monad
+- provide ML style mutable references
+- a way to encapsulate or hide effects wing types
+
+
 
 
   
