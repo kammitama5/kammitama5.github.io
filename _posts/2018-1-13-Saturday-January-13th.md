@@ -16,7 +16,7 @@
 - I had a conversation with W. Byrd today, and he told me to keep in touch. He told me about his path to 
   Computer Science, which was really inspiring, and he told me that it isn't about where you start, because 
   he's met lots of people who clock in and clock out, but it's about having and sustaining that love, which
-  he's always had. I agree 100%. I also met the famous [Fare](https://github.com/fare) and sat in on Stephanie's talk!
+  he's always had. I agree 100%. I also met the famous [Fare](https://github.com/fare) and sat in on [Stephanie](https://github.com/sweirich)'s talk!
   
 ## Notes CoqPL and some others
 
