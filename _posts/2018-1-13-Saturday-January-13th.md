@@ -18,6 +18,10 @@
   he's met lots of people who clock in and clock out, but it's about having and sustaining that love, which
   he's always had. I agree 100%. I also met the famous [Fare](https://github.com/fare) and sat in on [Stephanie](https://github.com/sweirich)'s talk!
   
+- I've also been informed that OPLSS is having three weeks instead of two, and that you have to choose two. 
+  So one will be intro and intermediate, and another will be intermediate and advanced. Sounds great and I am looking
+  forward to applying!
+  
 ## Notes CoqPL and some others
 
 ## CoqHammer: Strong Automation for Program Verification
@@ -117,6 +121,36 @@ where ? G is hole, what we need to prove
 - github.com/andrew-bedford/coqatoo
 - java application (coqatoo jar).
 - you input coq file and select output mode (eg text)
+- Step 1:
+  - information extraction
+  - proof tree construction
+- Step 2: Number of subgoals:
+  - number of subgoals: if increases, node is branch, otherwise is leaf in tree
+- Step 3: Tactic based rewriting
+  - limitation : we may not have all details
+- Supports proofs in English or French
+- Work done by Coscoy et all in the 90s was work done but used proofs from lambda
+  terms inside of proof instead of tactic based rewriting
+- Advantages: 
+  - easy to control size and verbosity (one or two sentences per tactic).
+  - maintains order and structure of user's original proof (not necessarily case in Coscoy)
+- Disadvantages:
+  - only works on proofs whose tactics are supported while Coscoy's worked on any proof
+  - won't work well if there is a lot of automation
+
+## PureScript Group
+- I hopped online to hang out with the PureScript group for 40 minutes
+- Looked at updates from Documentation and Pursuit for PureScript
+- Oath project -> github.com/chexxor/purescript-oath
+- spoke about differences between public and confidential oath
+- was talking about JS and try catch asynchronous errors 
+- github.com/slamdata/purescript-aff/issues/136
+- error channel can throw undefined actions on error channel
+- so thinking of idiomatic node.js to idiomatic purescript
+- fpcomplete.com/blog/2016/11/exceptions-best-practices-haskell
+  (talking about how Haskell deals with errors)
+- https://github.com/vladciobanu/purescript-halogen-example
+
 
 
 
