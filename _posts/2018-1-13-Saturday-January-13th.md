@@ -151,7 +151,24 @@ where ? G is hole, what we need to prove
   (talking about how Haskell deals with errors)
 - https://github.com/vladciobanu/purescript-halogen-example
 
+## Locally Nameless at Scale (S. Weirich)
+- all Coq proofs (http://github.com/sweirich/corespec.git)
+- errors in prior versions of the system pointed out in Eisenberg's dissertation
+- Curry style vs Church style type systems
+  - Church: Decidable, explicit, type annotations
+  - Curry: computationally relevant
+  
+```
+D           vs      GHS
+Gamma |= a : A             Gamma |- a : A
+Gamma |= null o k        gAMMA |- null ok
+```
 
+- Tools used -> Peter Sewell, Zappa, Nardelli et al
+- Ott source file
+- Tool based formalization
+- Ott to coq language defs, Ott to syntactic lemmas, Ott to latex macros to paper sources 
+- coq language defs and syntactic lemmas to Coq proofs 
 
 
 
