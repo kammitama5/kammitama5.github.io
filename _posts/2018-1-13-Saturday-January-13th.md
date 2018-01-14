@@ -54,7 +54,71 @@
 - improvements needed for dependent types and boolean reflection
 
 ## A Destruct Tactic for MTac (J. Kaiser)
+```
 - destruct - in Coq today
+b : bool
+H : b not equal true
+b = false
+```
+
+- What happens
+```
+lambda (b : bool) (H : b not equal true),
+? G : b = false
+where ? G is hole, what we need to prove
+```
+
+- destruct: call match w/ return type which mentions assumption 
+- Dependent Pattern Matching 
+- Mtac typed tactic language for Coq
+- offers primitives for metaprogramming
+- Typed Metaprogramming in Mtac element in list
+- Definition inlist A(x:A): forall l :
+- list A, M(In x l):= ...
+- Tactics in MTac
+- Inductive goal : Type :=
+- | Goal { G :Type} : G -> goal
+- Definition tactic :Type:= goal -> list goal 
+
+- Mtac's destruct is implemented entirely w/ dynamic types (not good)
+- new destruct tactic for Mtac guided by types
+
+- Dependent Inductive Types
+- Inductive vec (X: Type) : nat -> Type:=
+- | vnil: vec X 0
+- | vcons (x: X) {n} : vec Xn -> vecX(Sn)
+
+- Representing Inductive Types
+- Inductive T : forall i... i_k, Type : = ...
+- Future work:
+  - extend tactic power
+  - investigate performance
+  - test system w/ weirder inductive types
+  - replace all telescope types by more general version
+
+## Type- Templated Coq (M. Sozeau)
+- quoting and unquoting of terms and declarations
+- compile: Ast term -> Compcert.syntax
+- standard binary parametricy 
+- uniform propositions
+- similar MetCoq's monad (shallow vs deep terms)
+- http://template-coq.github.io/template-coq
+
+## Elpi (E Tassi)
+- Embedded Lambda Prolog Interpreter
+- Written in OCaml, designed as a library
+- Extends lambda Prolog w/ constraints, modes...
+- Lambda Prolog..
+- Lambda-tree syntax (HOAS): (x \ x) -> identity function
+- http://goo.gl/r6Nsja 
+
+## Coqatoo (A. Bedford)
+- I really enjoyed this talk! Great project!
+- github.com/andrew-bedford/coqatoo
+- java application (coqatoo jar).
+- you input coq file and select output mode (eg text)
+
+
 
 
   
