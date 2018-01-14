@@ -169,6 +169,45 @@ Gamma |= null o k        gAMMA |- null ok
 - Tool based formalization
 - Ott to coq language defs, Ott to syntactic lemmas, Ott to latex macros to paper sources 
 - coq language defs and syntactic lemmas to Coq proofs 
+- Ott: Locally Nameless Syntax
+- Ott : Generated Definitions
+- free and bound variables, substitutions and "dangling" bound variables
+- Cofinite Quantification
+- Ngen(Aydemir) gave lemmas for reasoning about lambda terms
+- confluence -> consistency in system (Tait-Martin Lof, Barendregt, 1984)
+- Irrelevant arguments, coercion
+
+## A Coq Formalization of R
+- github.com/Mboin/proveR
+
+## Coq Panel
+- Coq 8.7
+- new features : cumulative inductive typees
+- Coq users meeting
+- Coq stack exchange (does this really exist?)
+
+## Phantom Types for Quantum Programs (R. Rand)
+- Quantum programming and verification in QWuire
+- Phantom Matrices
+- Phantom Circuits
+- Kronecker product multiplies dimensions
+- Linear Types (https://github.com/jpaykin/QWIRE)
+
+## Param Coq
+- Parametricity (Abishek)
+- paramcoq (Keller and Larson)
+
+## Fare
+- https://j.mp/FarePhD
+
+## Towards a System Approach to Distributed Programming (C. Meiklejohn)
+- LASP
+- Mentioned PPDP
+
+## I have to get up
+- early in the morning to go whale watching, so I guess that's it for me.
+- But I have a lot to think about, and a lot to do moving forward.
+
 
 
 
