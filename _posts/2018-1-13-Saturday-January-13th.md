@@ -21,6 +21,40 @@
 ## Notes CoqPL and some others
 
 ## CoqHammer: Strong Automation for Program Verification
-- Hammer goal: 
+- Hammer goal: provide efficient facts from a large library.
+- Hammers: work in three phrases
+  - premise selection (using ML)
+  - translation (selected lemmas)
+  - prove conjecture in logic of ITP
+- evaluation:
+  - HOL(y) Hammer
+  - flyspeck text formalization (47%)
+  - similar results for HOL4
+  - slightly weaker for Cake ML
+- Concrete Semantics (Nipkow, Klein)
+
+- Two machine-learning filters:
+  - K NN and Naive Bayes
+  - used for ML part
+- Features F(T) of theorem T
+- Variable P : nat -> Prop
+- T = forall k, l between k l -> k <= l
+- F(T) = Nat or Peano numbers
+- D(T) dependencies
+- Target logic: untyped FOL (first order logic) with equality
+- for closed type tau = Product(x): alpha . beta(x), we have:
+  - G (tau, f) = forall x. G (alpha, x) -> G (beta (x), f x)
+- Overall Hammer evaluation
+- all statements from Coq standard library
+- ATP success 5%
+  - ATP used: E, 23
+  - Vampire w/ 30 seconds time limit
+- Overall success 40.8%
+- 8 threads with different lemma selection, formalization, etc
+- improvements needed for dependent types and boolean reflection
+
+## A Destruct Tactic for MTac (J. Kaiser)
+- destruct - in Coq today
+
 
   
