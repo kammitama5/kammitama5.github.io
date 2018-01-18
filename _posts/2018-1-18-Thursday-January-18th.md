@@ -65,7 +65,7 @@ Birthday!! :D
   I am sailing down with a group from MDR on Thursday, and doing workshops in Diesel engines, electrical repair
   spinnaker rigging and general maintenance. I am super duper excited! :D
 - I'm also going to [Sparklecon](http://www.sparklecon.org/), which is a wonderful hacker event I attend every year in Fullerton! 
-- I want to attend ICFP and BayHac (which is now in May).
+- I want to attend ICFP (in September) and BayHac (which is now in May).
 
 ## And, that's about it
   
