@@ -6,7 +6,7 @@
 - However, I've been since going over some of the middle-coursework, and realized I need to spend a bit more 
   time learning SQL for Data Science, so I'm doing that today. I want it to be better at it so it's second-nature.
   Then I'll attack the final part of my Nanodegree, which has a bunch of intermediate SQL.
-  It's still hazy in my mind why if I have two versions to join on, if there is an advantage to using one over the 
+  It's still hazy in my mind if I have two versions to join on, if there is an advantage to using one over the 
   other (ie is it commutative?). This sounds silly, but even though the query says "success", I'm sitting there,
   just thinking, "it says I got it right, but is it the best choice?".
   So I need to spend more time on that for myself. 
