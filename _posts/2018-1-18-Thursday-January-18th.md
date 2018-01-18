@@ -31,7 +31,8 @@
   a lot to me right now. 
   
 ## Particularly
-- I was listening to SPJ's podcast and the excitement of [Programmes as Proofs](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/)
+- I was listening to SPJ's podcast and the excitement of [Programmes as Proofs](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/). By the way, today is his 60th
+Birthday!! :D
   . A friend of mine was talking to me yesterday about the sort of disappointment that there isn't more attention paid in the industry
   to correctness, and I don't think if I start working right away I'd be exposed to a lot of that. I have such joy for programming
   right now, I don't want it taken away by the sloppiness and horror and a stream of bad experiences. 
