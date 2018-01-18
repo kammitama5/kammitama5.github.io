@@ -25,10 +25,10 @@
   as much as I do people who can teach me to write better, cleaner, more succinct and correct code. That's sort of the Holy Grail for me.
   
 ## Here are some things I was playing around with
-<img src="/images/data_things/book1.png" width="400">
+<img src="/images/data_things/book1.png" width="800">
 - group by and filtering
 
-<img src="/images/data_things/book2.png" width="400">
+<img src="/images/data_things/book2.png" width="800">
 - plotting
 
 - and for fun, a artsy fartsy diagram :D
