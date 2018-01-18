@@ -24,6 +24,10 @@
 - I picked up (for this semester at school) Concepts of Programming Languages and Discrete Structures. 
   For summer, I'd also like to do training that focuses on Programming Languages, and in Fall, I definitely
   would like to attend ICFP. 
+- On my own, after Discrete Structures, I'd like to just focus on Python and Haskell, particularly spending more
+  time on just learning Haskell. I think it would also be a worthwhile investment because I do *not* have a laptop
+  readily available (outside of work) that can run Visual Studio. It may be trivial to a lot of people, but it means 
+  a lot to me right now. 
   
 ## Particularly
 - I was listening to SPJ's podcast and the excitement of [Programmes as Proofs](https://www.microsoft.com/en-us/research/blog/functional-programming-languages-pursuit-laziness-dr-simon-peyton-jones/)
@@ -54,11 +58,13 @@
 - Summer school application
 - Figure out by April how this all going to work
 
-  
 ## So coming up
 - Oh, I am going to Newport beach for the [Women's Sailing Convention](https://www.sailingconventionforwomen.com/). 
   I am sailing down with a group from MDR on Thursday, and doing workshops in Diesel engines, electrical repair
   spinnaker rigging and general maintenance. I am super duper excited! :D
 - I'm also going to [Sparklecon](http://www.sparklecon.org/), which is a wonderful hacker event I attend every year in Fullerton! 
+- I want to attend ICFP and BayHac (which is now in May).
+
+## And, that's about it
   
 
