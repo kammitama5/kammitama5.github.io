@@ -17,7 +17,8 @@
   
 ## So far otherwise
 - I was accepted to two bootcamps, and turned one down (they're sort of my back-up but I didn't want to
-  do the purely JS one), am studying for GREs and am interviewing and waiting to hear back on some applications
+  do the purely JS one : worse case I find a job, work for a year or so, and then apply for my Master's
+  ), am studying for GREs and am interviewing and waiting to hear back on some applications
   for summer internships.
   I also have heard from some other recruiters, so I've applied for some of that stuff, too. But honestly,
   I really just want to do my Master's, the more I think about it. I think I'd be happy as a computer scientist/ data scientist.
