@@ -11,11 +11,12 @@
 ## I got up to Functions and reading in and plotting data
 - Here are two ways of writing functions:
 
+## One-liner
 <img src="/images/julia/j_001.png" width="300">
-- one-liner
 
+## Ruby-esque :D
 <img src="/images/julia/j_002.png" width="300">
-- Ruby-esque :D
+
 
 ## Upcoming
 - Tonight, I'm probably going to work on finishing up Week 2's assignments,
