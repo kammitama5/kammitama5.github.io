@@ -32,10 +32,11 @@
   people who are interested in other more niche aspects of programming and programming
   languages. So that's a trade-off. However, it *may* speed things up for me on 
   some levels, just in terms of focused learning.
-- But if I have to, I definitely want to do one that stick with Python, because 
-  at least I can have the benefit of playing around with Data Analysis on my own.
-- I'm interested in correctness and languages that have succinct syntax and type-checking,
-  clean code. I'd like to continue with that. I'm really tickled by the idea of just 
+- But if I have to, I definitely want to do one that sticks with Python, because 
+  at least I can have the benefit of playing around with Data Analysis on my own,
+  and between .Net, Node.js/ JS and Python and Ruby, Python is my first choice.
+- I'm interested in correctness and languages that have succinct syntax, type-checking,
+  and clean code. I'd like to continue with that. I'm really tickled by the idea of just 
   settling down and doing research and working as a computer scientist. A lot of my friends
   *are* scientists, and I've found that my circle actually has a fair number of 
   mathematicians, who, when I ask them for advice, keep telling me that (even though they
@@ -46,7 +47,8 @@
   CRUD applications, regardless of the company (Yup, that includes you; Big Fives). 
   The correctness and debugging applications and type theory are really
   fascinating, and I'd beat myself over the head if I didn't spend the time (now that I have it)
-  to study some of that stuff. Some people never get to, and I have a window of opportunity (I think?).
+  to study some of that stuff. Some people never get to, and I have a window of opportunity (I think?),
+  based on my current direction. Plus, I'd probably continue to meet some incredible people along the way.
 - I've spoken to experienced developers lately, who are increasingly dissatisfied with the quality 
   of work that is being put out. Yes, a lot of people are becoming developers, and that's OK, 
   but we should still aim for maintainable code, right?
@@ -56,6 +58,11 @@
   I will probably be looked down upon because I don't have the experience, *plus* being told that
   things like correctness *don't matter* because it's all about shipping a project. So that's something
   to think about. 
+  
+## I'm hoping for the future
+- I can continue learning about type theory and lambda calculus. Maybe build my own language. 
+- I can continue to read papers about specific scientific contributions and ideas by people in the field
+- I can continue to have a curiosity of why choices were made with respect to certain languages vs others.
 
 ## That's pretty much it for now. 
 
