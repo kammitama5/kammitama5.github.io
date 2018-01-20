@@ -34,7 +34,9 @@
   interested in things like syntax, and not necessarily be able to interact with 
   people who are interested in other more niche aspects of programming and programming
   languages. So that's a trade-off. However, it *may* speed things up for me on 
-  some levels, just in terms of focused learning.
+  some levels, just in terms of focused learning and getting a full-time gig.
+- I've been steadily recruited, but the process is going to be longer for me,
+  because I have a lot to learn. I don't think I'm quite *job-ready*.
 - But if I have to, I definitely want to do one that sticks with Python, because 
   at least I can have the benefit of playing around with Data Analysis on my own,
   and between .Net, Node.js/ JS and Python and Ruby, Python is my first choice.
