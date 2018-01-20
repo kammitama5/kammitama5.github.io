@@ -36,7 +36,17 @@
   languages. So that's a trade-off. However, it *may* speed things up for me on 
   some levels, just in terms of focused learning and getting a full-time gig.
 - I've been steadily recruited, but the process is going to be longer for me,
-  because I have a lot to learn. I don't think I'm quite *job-ready*.
+  because I have a lot to learn. Particularly, I have a breadth of knowledge in 
+  things that a lot of my peers *don't* have, but they have depth in one thing
+  (typically JS/ Node.js/ React), so that makes them more hireable. 
+  I don't think I'm quite *job-ready*, but I would probably (eventually) be a 
+  *solid* programmer and in some ways, a bit of a unicorn, based on my interests
+  and breadth of languages that I've interacted with / learned from (which could be
+  the appeal for recruiters that I've been getting).
+- It *is* true; I haven't seen many of my peers with my interests, so I guess I'm a
+  bit of an odd-ball.
+
+## Reality (gotta eat)
 - But if I have to, I definitely want to do one that sticks with Python, because 
   at least I can have the benefit of playing around with Data Analysis on my own,
   and between .Net, Node.js/ JS and Python and Ruby, Python is my first choice.
