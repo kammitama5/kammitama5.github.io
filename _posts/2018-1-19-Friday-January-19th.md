@@ -46,7 +46,7 @@
 - It *is* true; I haven't seen many of my peers with my interests, so I guess I'm a
   bit of an odd-ball.
 
-## Reality (gotta eat)
+## Reality I (gotta eat)
 - But if I have to, I definitely want to do one that sticks with Python, because 
   at least I can have the benefit of playing around with Data Analysis on my own,
   and between .Net, Node.js/ JS and Python and Ruby, Python is my first choice.
@@ -67,6 +67,8 @@
   fascinating, and I'd beat myself over the head if I didn't spend the time (now that I have it)
   to study some of that stuff. Some people never get to, and I have a window of opportunity (I think?),
   based on my current direction. Plus, I'd probably continue to meet some incredible people along the way.
+  
+## Reality II (industry)
 - I've spoken to experienced developers lately, who are increasingly dissatisfied with the quality 
   of work that is being put out. Yes, a lot of people are becoming developers, and that's OK, 
   but we should still aim for maintainable code, right?
