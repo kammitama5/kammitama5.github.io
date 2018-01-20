@@ -12,5 +12,5 @@
 <img src="/images/julia/j_002.png" width="400">
 - one-liner
 
-<img src="/images/julia/j_003.png" width="400">
+<img src="/images/julia/j_001.png" width="400">
 - Ruby-esque :D
