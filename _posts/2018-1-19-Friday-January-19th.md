@@ -16,3 +16,13 @@
 
 <img src="/images/julia/j_001.png" width="300">
 - Ruby-esque :D
+
+## Upcoming
+- Tonight, I'm probably going to work on finishing up Week 2's assignments,
+  as I can run it on JuliaBox.
+- During the weekend, I'm going to work on my Data Science Project 1 project
+- During the week, I'm going to finish up some Advanced SQL
+- Sparklecon is next Saturday, but I'll have Sunday to work on Project 2
+
+## That's pretty much it for now. 
+
