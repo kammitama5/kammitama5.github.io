@@ -43,9 +43,12 @@
   work in software) their background "isn't in CS" or that they're "Maths people, not CS people".
   I find that highly amusing. Maybe I'm attracted to a particular type of programmer?
 - I'm exploring the possibility of working for a year and then using that year to build up 
-  savings, while applying for my Master's. I'm honestly not that fascinated by building 
+  savings, while applying for my Master's. I'm honestly not that fascinated by opportunities to build 
   CRUD applications, regardless of the company (Yup, that includes you; Big Fives). 
-  The correctness and debugging applications and type theory are really
+- I know the focus is on "building", and that it is important in the boot camp cohorts, but
+  I still have in my mind that thinking (learning how to, and how you approach it) is the most important thing. 
+  Maybe both are correct. 
+- The correctness and debugging applications and type theory are really
   fascinating, and I'd beat myself over the head if I didn't spend the time (now that I have it)
   to study some of that stuff. Some people never get to, and I have a window of opportunity (I think?),
   based on my current direction. Plus, I'd probably continue to meet some incredible people along the way.
