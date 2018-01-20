@@ -28,7 +28,9 @@
 
 ## I really
 - Don't want to attend a boot camp or anything, because they teach a lot of web stuff.
-  I'm also aware that if I join one, I'll probably be around peers who will be 
+- I am *not* excited by web dev. At all. I have friends who are and I definitely 
+  can tell the difference.
+- I'm also aware that if I join one, I'll probably be around peers who will be 
   interested in things like syntax, and not necessarily be able to interact with 
   people who are interested in other more niche aspects of programming and programming
   languages. So that's a trade-off. However, it *may* speed things up for me on 
