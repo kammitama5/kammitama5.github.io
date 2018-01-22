@@ -19,7 +19,11 @@
   You can add constraints, and there are ```Any``` types,
   which are the subset of all types, and other types,
   such as ```Abstract```, ```Concrete```, and ```Composite```. 
-  I'm really enjoying it. 
+- ```Any``` is the supertype of all types
+- ```Concrete``` types can hold values, such as ```Int64``` or ```Float64```.
+- ```Abstract``` types cannot hold values
+- You can see the subtypes of a type by typing ```subtypes(T)```, where ```T``` is the specific type.
+- I'm really enjoying it. 
   
 ## Other people
 - plotted some interesting stuff like the [Legendre Polynomial](https://en.wikipedia.org/wiki/Legendre_polynomials) or the [Lemniscate function](https://en.wikipedia.org/wiki/Lemniscate_of_Bernoulli). I didn't know about Lemniscate before, so taht was really interesting!
