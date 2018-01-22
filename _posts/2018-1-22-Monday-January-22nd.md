@@ -33,6 +33,7 @@ I think I may have made a moving sculpture via welding before that uses some ver
 - I also need to get started on the coursework for week 3 Julia course.
   I'm going to get that certificate!
 - I saw this ```boken``` function, but it looks like it may be [discontinued](https://github.com/samuelcolvin/Bokeh.jl)?
+  In particular, [this](https://github.com/samuelcolvin/Bokeh.jl/issues/38) issue.
   
 ## And that's about it!
 
