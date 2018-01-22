@@ -33,16 +33,16 @@
 This does *bit-level* comparison. 
   
 ## Other people
-- plotted some interesting stuff like the [Legendre Polynomial](https://en.wikipedia.org/wiki/Legendre_polynomials) or the [Lemniscate function](https://en.wikipedia.org/wiki/Lemniscate_of_Bernoulli). I didn't know about Lemniscate before, so taht was really interesting!
-I think I may have made a moving sculpture via welding before that uses some version of the concept, though.
+- plotted some interesting stuff like the [Legendre Polynomial](https://en.wikipedia.org/wiki/Legendre_polynomials) or the [Lemniscate function](https://en.wikipedia.org/wiki/Lemniscate_of_Bernoulli). I didn't know about Lemniscate before, so that was really interesting!
+I think I may have made a moving sculpture via welding before that uses some version of the concept, though (don't ask).
   
 ## Other
 - I have a list of things to get together for my sailing trip next week
 - I'm going to Sparklecon this weekend!
+- I'm reviewing types tonight and trying to get started on Week 3's homework since I have a short week next week (ie on a boat)!
 - I'm going to work through the final SQL section of my Udacity course,
   and finish up Project 1.
-- I also need to get started on the coursework for week 3 Julia course.
-  I'm going to get that certificate!
+- I'm going to get that Julia certificate!
 - I saw this ```bokeh``` function, but it looks like it may be [discontinued](https://github.com/samuelcolvin/Bokeh.jl)?
   In particular, [this](https://github.com/samuelcolvin/Bokeh.jl/issues/38) issue.
   
