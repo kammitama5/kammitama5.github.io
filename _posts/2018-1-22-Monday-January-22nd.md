@@ -26,6 +26,11 @@
 - You can ask ```Float64 <: Any``` which reads "Is Float a subtype of Any?", which is true because 
   Any is a supertype that contains all subtypes.
 - I'm really enjoying it. 
+
+## Equality
+- You can check types by 
+```===(x, y)``` or ```is(x, y)```.
+This does *bit-level* comparison. 
   
 ## Other people
 - plotted some interesting stuff like the [Legendre Polynomial](https://en.wikipedia.org/wiki/Legendre_polynomials) or the [Lemniscate function](https://en.wikipedia.org/wiki/Lemniscate_of_Bernoulli). I didn't know about Lemniscate before, so taht was really interesting!
