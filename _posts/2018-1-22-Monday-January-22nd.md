@@ -23,6 +23,8 @@
 - ```Concrete``` types can hold values, such as ```Int64``` or ```Float64```.
 - ```Abstract``` types cannot hold values
 - You can see the subtypes of a type by typing ```subtypes(T)```, where ```T``` is the specific type.
+- You can ask ```Float64 <: Any``` which reads "Is Float a subtype of Any?", which is true because 
+  Any is a supertype that contains all subtypes.
 - I'm really enjoying it. 
   
 ## Other people
