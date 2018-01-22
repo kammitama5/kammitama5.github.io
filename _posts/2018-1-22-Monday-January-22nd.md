@@ -4,12 +4,12 @@
 
 - Wrote a function and plotted X against Y 
 
-<img src="/images/jules/j_001.png" width="400">
+<img src="/images/jules/j_001.png" width="800">
 
 - Then plotted it. The grid on command apparently changed from 
   ```grid("on")``` to ```gr()```. Oh..kayyy.
   
-<img src="/images/jules/j_002.png" width="400">
+<img src="/images/jules/j_002.png" width="800">
 
 ## User Defined Types in Julia
 - User defined types in Julia are just *awesome*.
