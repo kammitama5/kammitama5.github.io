@@ -18,6 +18,10 @@
   such as ```Abstract```, ```Concrete```, and ```Composite```. 
   I'm really enjoying it. 
   
+## Other people
+- plotted some interesting stuff like the [Legendre Polynomial](https://en.wikipedia.org/wiki/Legendre_polynomials) or the [Lemniscate function](https://en.wikipedia.org/wiki/Lemniscate_of_Bernoulli). I didn't know about Lemniscate before, so taht was really interesting!
+I think I may have made a moving sculpture via welding before that uses some version of the concept, though.
+  
 ## Other
 - I have a list of things to get together for my sailing trip next week
 - I'm going to Sparklecon this weekend!
