@@ -32,6 +32,7 @@ I think I may have made a moving sculpture via welding before that uses some ver
   and finish up Project 1.
 - I also need to get started on the coursework for week 3 Julia course.
   I'm going to get that certificate!
+- I saw this ```boken``` function, but it looks like it may be [discontinued](https://github.com/samuelcolvin/Bokeh.jl)?
   
 ## And that's about it!
 
