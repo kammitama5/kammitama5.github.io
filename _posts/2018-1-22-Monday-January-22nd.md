@@ -7,7 +7,10 @@
 <img src="/images/jules/j_001.png" width="800">
 
 - Then plotted it. The grid on command apparently changed from 
-  ```grid("on")``` to ```gr()```. Oh..kayyy.
+  ```grid("on")``` to ```gr()```. Oh..kayyy. 
+- Also, what's neat is that for the title, it truncates after any ```(```,
+  but it *will*, if you type ```^```, raise that to the power, as you would like it
+  to do, which is nice!
   
 <img src="/images/jules/j_002.png" width="800">
 
