@@ -22,7 +22,7 @@
 
 - So far, so good!
 
-- I plotted this data, x against y. I initially used Gadfly, but 
+- I plotted this data, x against y. I initially used [Gadfly](http://gadflyjl.org/stable/man/plotting.html), but 
   decided to just use Plotly in the end, as it was recommended (I *do* like Gadfly, though!)
 <img src="/images/jules1/j_003.png" width="900">
 
