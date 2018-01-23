@@ -11,14 +11,14 @@
   
 ## So this is what I did so far
 
-<img src="/images/jules1/j_001.png" width="800">
+<img src="/images/jules1/j_001.png" width="700">
 - I imported the data and split the two columns into two arrays (x and y)
 - I did this by looking at the data file and creating two arrays, then
   pushing each array via an if else statement based on the number of values.
   Not the most efficient, I know, but it did the trick.
  
 - Then I checked to ensure the two arrays were what I expected
-<img src="/images/jules1/j_002.png" width="800">
+<img src="/images/jules1/j_002.png" width="700">
 
 - So far, so good!
 
