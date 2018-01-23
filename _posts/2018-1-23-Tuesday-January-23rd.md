@@ -36,6 +36,9 @@
 
 - This is an example of the function plotted. By manipulating the values of the quadratic
   equation, namely ```a```, ```b``` and ```c```, I can get it to closely fit a curve.
+- As you can see, it's *way* off. I mean, it has the right shape in terms of the slant (decreasing gradient),
+  but I need it to match the scatter plot more closely. That means manipulating ```a```, ```b```, and ```c```.
+  The graphs also need to overlay, so stack up on each other like RGB slides trying to make a composite photo.
   
 ## But...
 
