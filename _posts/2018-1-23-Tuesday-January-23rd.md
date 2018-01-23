@@ -31,6 +31,9 @@
   that is plotted that fits the data
 <img src="/images/jules1/j_004.png" width="900">
 
+- So....?
+<img src="/images/jules1/j_005.png" width="900">
+
 - This is an example of the function plotted. By manipulating the values of the quadratic
   equation, namely ```a```, ```b``` and ```c```, I can get it to closely fit a curve.
   
