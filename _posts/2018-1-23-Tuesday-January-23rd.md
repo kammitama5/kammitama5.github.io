@@ -12,7 +12,7 @@
   
 ## So this is what I did so far
 
-<img src="/images/jules1/j_001.png" width="700">
+<img src="/images/jules1/j_001.png" width="600">
 - I imported the data and split the two columns into two arrays (x and y)
 - I did this by looking at the data file and creating two arrays, then
   pushing each array via an if else statement based on the number of values.
