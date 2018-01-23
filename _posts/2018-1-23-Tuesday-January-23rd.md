@@ -33,7 +33,7 @@
   that is plotted that fits the data
 <img src="/images/jules1/j_004.png" width="900">
 
-- So....?
+## So....what's the problem, ya lazy bum?
 <img src="/images/jules1/j_005.png" width="900">
 
 - This is an example of the function plotted. By manipulating the values of the quadratic
