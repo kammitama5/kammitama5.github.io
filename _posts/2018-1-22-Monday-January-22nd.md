@@ -46,5 +46,9 @@ I think I may have made a moving sculpture via welding before that uses some ver
 - I saw this ```bokeh``` function, but it looks like it may be [discontinued](https://github.com/samuelcolvin/Bokeh.jl)?
   In particular, [this](https://github.com/samuelcolvin/Bokeh.jl/issues/38) issue.
   
+## Types  
+- Oh, I watched [this video](https://www.youtube.com/watch?v=Z2LtJUe1q8c) on Julia's Type system. It's by [Jeff Bezanson](https://github.com/JeffBezanson)
+  and it's called "The State of the Type System"
+  
 ## And that's about it!
 
