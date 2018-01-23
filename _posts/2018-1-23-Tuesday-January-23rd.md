@@ -24,11 +24,11 @@
 
 - I plotted this data, x against y. I initially used Gadfly, but 
   decided to just use Plotly in the end, as it was recommended (I *do* like Gadfly, though!)
-<img src="/images/jules1/j_003.png" width="800">
+<img src="/images/jules1/j_003.png" width="900">
 
 - Then I made a function as defined that is quadratic. This will be the function Curve
   that is plotted that fits the data
-<img src="/images/jules1/j_004.png" width="800">
+<img src="/images/jules1/j_004.png" width="900">
 
 - This is an example of the function plotted. By manipulating the values of the quadratic
   equation, namely ```a```, ```b``` and ```c```, I can get it to closely fit a curve.
