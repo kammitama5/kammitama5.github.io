@@ -4,6 +4,7 @@
 - You know when you are learning a language for the *first* time, and you are really, 
   really loving it, and then something just *doesn't work*? Yeah..that's me today.
   It's actually not as frustrating because I like the language, so no biggie. 
+- At the same time, it's an *itch*. Must solve this.
   
 ## Fitting Two Curves
 - I'm matching data to a curve. Specifically, the curve is a quadratic one that has to match
