@@ -19,7 +19,7 @@
   Not the most efficient, I know, but it did the trick.
  
 - Then I checked to ensure the two arrays were what I expected
-<img src="/images/jules1/j_002.png" width="700">
+<img src="/images/jules1/j_002.png" width="600">
 
 - So far, so good!
 
