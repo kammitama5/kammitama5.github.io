@@ -49,6 +49,9 @@ I think I may have made a moving sculpture via welding before that uses some ver
 ## Types  
 - Oh, I watched [this video](https://www.youtube.com/watch?v=Z2LtJUe1q8c) on Julia's Type system. It's by [Jeff Bezanson](https://github.com/JeffBezanson)
   and it's called "The State of the Type System"
+- Need to learn more about 
+  - Intersection Types ("given two types, find a type that is a subtype of both") 
+  - Union Types
   
 ## And that's about it!
 
