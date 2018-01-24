@@ -13,11 +13,11 @@
 
 ## We Created a User-Defined Type with a specific type
 
-<img src="/images/jules2/j_001.png" width="900">
+<img src="/images/jules2/j_001.png" width="1000">
 
 ## Instantiation
 
-<img src="/images/jules2/j_002.png" width="900">
+<img src="/images/jules2/j_002.png" width="1000">
 
 - We then instantiated the type. Types are mutable 
   unless you say they are immutable, by replacing 
@@ -27,7 +27,7 @@
 ## Instances
 - I then created two instances of the type ```MyCube```
 
-<img src="/images/jules2/j_003.png" width="900">
+<img src="/images/jules2/j_003.png" width="1000">
 
 ## This was challenging
 - A bit new for me. Julia is tricky about external 
@@ -41,7 +41,7 @@
   
 - I then took this method and found the log
 
-<img src="/images/jules2/j_005.png" width="900">
+<img src="/images/jules2/j_005.png" width="1000">
 
 ## Overloading
 
