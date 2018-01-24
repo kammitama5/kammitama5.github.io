@@ -2,11 +2,16 @@
 
 ## Did some User-Defined Types with Julia
 
-- It was for the optional/ Honors portion of the course.
+- It was for the optional / Honors portion of the course.
   So far, only myself and one other person has submitted. 
   Then again, I *am* a week ahead :D
+  
+- I watched the lesson for this week about four times.
+  I really, really, really wanted to understand the types of 
+  Julia, particularly how Complex User-Defined Parametrized
+  Types work in Julia. This is the *core* of Julia's power.
 
-## We Created a User Defined Type with a specific type
+## We Created a User-Defined Type with a specific type
 
 <img src="/images/jules2/j_001.png" width="900">
 
