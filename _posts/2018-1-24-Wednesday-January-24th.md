@@ -29,7 +29,7 @@
   constructors and can throw a conversion type error if you 
   don't define it properly. This actually took a while for me.
 
-<img src="/images/jules2/j_004.png" width="100">
+<img src="/images/jules2/j_004.png" width="50">
 
 - Here I am defining a volume method as a value defined multiplying each 
   field in type ```MyCube```. 
