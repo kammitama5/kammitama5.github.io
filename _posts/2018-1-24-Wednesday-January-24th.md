@@ -29,7 +29,7 @@
   constructors and can throw a conversion type error if you 
   don't define it properly. This actually took a while for me.
 
-<img src="/images/jules2/j_004.png" width="400">
+<img src="/images/jules2/j_004.png" width="200">
 
 - Here I am defining a volume method as a value defined multiplying each 
   field in type ```MyCube```. 
@@ -43,7 +43,7 @@
 - Then I overloaded the methods using the ```Base +``` function.
   This reminded me a lot of function template overloading in C++
   
-<img src="/images/jules2/j_006.png" width="400">
+<img src="/images/jules2/j_006.png" width="300">
 
 ## Whew!
 
