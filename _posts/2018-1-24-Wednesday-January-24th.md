@@ -39,7 +39,7 @@
 - Here I am defining a volume method as a value defined multiplying each 
   field in type ```MyCube```. 
   
-<img src="/images/jules2/j_005a.png" width="800">
+<img src="/images/jules2/j_005a.png" width="1000">
   
 - I then took this method and found the log
 
