@@ -36,8 +36,8 @@
 
 <img src="/images/jules2/j_004.png" width="50">
 
-- Here I am defining a volume method as a value defined multiplying each 
-  field in type ```MyCube```. 
+- Here I am defining a volume-method as a value defined by multiplying each 
+  field in type ```MyCube```. ie ```h x w x l```. 
   
 <img src="/images/jules2/j_005a.png" width="1000">
   
