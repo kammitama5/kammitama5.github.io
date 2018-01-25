@@ -3,7 +3,7 @@
 ## Did some User-Defined Types with Julia
 
 - It was for the optional / Honors portion of the course.
-  So far, only myself and one other person has submitted. 
+  So far, only myself and one other person have submitted. 
   Then again, I *am* a week ahead :D
   
 - I watched the lesson for this week about four times.
