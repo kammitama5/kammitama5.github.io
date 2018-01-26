@@ -20,6 +20,8 @@
 - I have to say secretly that this would be probably the best way I'd want to work. I don't get excited about libraries
   or learning new frameworks. Programming Languages, yes; but only in the way they solve problems (who uses the tools, 
   how the language is constructed). I wonder if hanging out with him every Thursday has made me this way? :D
+- Oh, and he also mentioned some software in cars written in C++. Segfault, anyone?
+- We also spent time talking about loc, parallelism and Ada.
 - There was a lively chat about Data from Satellites, Data Visualization and Explorer 1.
 
 <img src="/images/explorer/e4.png" width="400">
