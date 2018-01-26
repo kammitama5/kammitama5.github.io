@@ -10,6 +10,13 @@
   I mean, I've heard of [Hindley-Milner](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system), but right now there are chunks
   that I understand, and some things I don't know that I don't know.
   But it's fascinating. 
+- I like the way my mentor thinks. He doesn't focus on libraries (I've *never* heard him mention any), and he may mention 
+  a programming language only as a historical reference or as something that is interesting or unique about it, or how it led
+  to a new way of thinking about something. He's a mathematician who works with software, and it really has informed the way
+  he uses software, because at his core, he is a problem-solver who uses mathematics and software as a *tool*.
+- I saw a lovely video today about this on Programmers vs Scientists and what each can learn from the other. 
+  It's called ["The Two Cultures of Programming"](https://www.youtube.com/watch?v=C3iR_PknlFc), by Joshua Ballanco.
+  Very interesting. 
 - There was a lively chat about Data from Satellites, Data Visualization and Explorer 1.
 
 <img src="/images/explorer/e4.png" width="400">
