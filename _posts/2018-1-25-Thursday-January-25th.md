@@ -2,7 +2,9 @@
 
 ## Hello from JPL!
 - I made it to the Explorer 1 lecture! :D
+
 <img src="/images/explorer/e1.png" width="400">
+
 - Actually, we firstly went to eat some dumplings, and chatted about 
   the Algorithm W, which I was unfamiliar with until today. 
   I mean, I've heard of [Hindley-Milner](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system), but right now there are chunks
@@ -16,7 +18,11 @@
 - And took some photos of some new additions to the Exhibit at Von Karman.
 These guys!
 
+## Huygens Probe
+
 <img src="/images/explorer/e2.png" width="400">
+
+## Another shot
 
 <img src="/images/explorer/e3.png" width="400">
 
