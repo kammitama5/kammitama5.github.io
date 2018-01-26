@@ -2,7 +2,7 @@
 
 ## Hello from JPL!
 - I made it to the Explorer 1 lecture! :D
-<img src="/images/explorer/e1.png" width="800">
+<img src="/images/explorer/e1.png" width="400">
 - Actually, we firstly went to eat some dumplings, and chatted about 
   the Algorithm W, which I was unfamiliar with until today. 
   I mean, I've heard of Hindley-Milner, but right now there are chunks
