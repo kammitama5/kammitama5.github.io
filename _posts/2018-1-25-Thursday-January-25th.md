@@ -17,6 +17,9 @@
 - I saw a lovely video today about this on Programmers vs Scientists and what each can learn from the other. 
   It's called ["The Two Cultures of Programming"](https://www.youtube.com/watch?v=C3iR_PknlFc), by Joshua Ballanco.
   Very interesting. 
+- I have to say secretly that this would be probably the best way I'd want to work. I don't get excited about libraries
+  or learning new frameworks. Programming Languages, yes; but only in the way they solve problems (who uses the tools, 
+  how the language is constructed). I wonder if hanging out with him every Thursday has made me this way? :D
 - There was a lively chat about Data from Satellites, Data Visualization and Explorer 1.
 
 <img src="/images/explorer/e4.png" width="400">
