@@ -9,11 +9,13 @@
   that I understand, and some things I don't know that I don't know.
   But it's fascinating. 
 - There was a lively chat about Data from Satellites, Data Visualization and Explorer 1.
+
 <img src="/images/explorer/e4.png" width="400">
 
 ## I also wandered around
 - And took some photos of some new additions to the Exhibit at Von Karman.
 These guys!
+
 <img src="/images/explorer/e2.png" width="400">
 
 <img src="/images/explorer/e3.png" width="400">
