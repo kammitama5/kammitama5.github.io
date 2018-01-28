@@ -28,10 +28,12 @@
   It's fun and I came back energized. 
   
 ## Generally in the Hacker community
-- People have handlers, so they often don't use real names. 
+- People have handles, so they often don't use real names. 
 - They also like their privacy. 
 - They also are a good judge of whether you have an earnest interest in being a part of the community, and if so, 
   are really helpful and welcoming.
+- They're pretty good at figuring out if you're full of it and at its core respect is based on meritocracy (ie put in a
+  lot of time, get really good, and you gain respect).
 - The general vibe is libertarian.
   
 ## Talks today
