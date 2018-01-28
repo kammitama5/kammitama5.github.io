@@ -120,7 +120,23 @@
 - A really fun time, and great catching up with everyone.
   Even though I'm pretty green, it really feels like they see you as one of them, which is nice.
   So I got some great advice in terms of direction and all of that, for the next part of my life.
-  So we'll see.
+  A lot of these people work for large companies in Aerospace, DoD and the Tech community, so the advice
+  they have to offer is very much advice I respect. 
+  They basically think that I have the ability to make a solid transition into the industry,
+  based on the way I think and my interests. 
+  I guess it takes time and I need to up my proficiency in general,
+  so we'll see. But we have a lot in common; for example. you won't find UX/ UI people in this crowd,
+  and it's not something I'm interested in *at all*. 
+- A lot of these people are either *hard* back end people, crypto, networking or use some kind of high
+  computing or verification software *daily*. They don't BS around and they have a *lot* of experience.
+- One of my concerns was that doing a boot-camp would be a frustrating experience for me, because the focus
+  would be on syntax and a shallower understanding of CS. At the same time, I have thought that it 
+  *may* bring me up to speed on polishing my skill-set. I can do that for free, but it would take me time,
+  and I'd have to be willing to wait that out. And they all said yay to Master's; they like that plan
+  and think I'm more than capable and that it would be a great fit for me. I keep hearing that over and over
+  by people I really respect.
+- Somehow, though, I still don't quite have the confidence in myself. I guess I should just shut up and sit 
+  my GREs and apply first, and not make that judgment on myself.
   
 ## Oh
 - Since I figured out how to download the files, I'm thinking of doing this assignment for my Nanodegree
