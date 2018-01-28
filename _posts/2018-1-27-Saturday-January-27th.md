@@ -21,3 +21,17 @@
   of *anywhere* (school, boot camp) that does that? Yeah..neither do I.
   
 ## So..what happens at Sparklecon?
+- It's a mix of presentations but on by people in the community, and then things like robot battles, PCB-soldering, 
+  drone-flying, tesla-coil demos, video-game playing and other such things that people in the general maker-scene like. 
+  It's fun and I came back energized. 
+  
+## Here are some photos
+- People have handlers, so they often don't use real names. 
+- They also like their privacy. 
+- They also are a good judge of whether you have an earnest interest in being a part of the community, and if so, 
+  are really helpful and welcoming.
+  
+## Talks today
+- I went to one on Electric Trains, another on Machine Learning, another on Projection mapping, another on Crypto,
+  and one on Impacket (which I totally do not understand, but it helped that it was in Python).
+  
