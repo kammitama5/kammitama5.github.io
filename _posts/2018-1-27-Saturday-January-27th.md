@@ -134,7 +134,8 @@
   innovating, and they don't care about the growth of their developers". Nuff said.
 - I guess it takes time and I need to up my proficiency in general,
   so we'll see. But we have a lot in common; for example. you won't find UX/ UI people in this crowd,
-  and it's not something I'm interested in *at all*. 
+  and it's not something I'm interested in *at all*. They aren't into *magical* frameworks du jour
+  or any of that, also, which I like (I guess that also happens to programmers with maturity).
 - A lot of these people are either *hard* back end people, crypto, networking or use some kind of high
   computing or verification software *daily*. They don't BS around and they have a *lot* of experience.
 - One of my concerns was that doing a boot-camp would be a frustrating experience for me, because the focus
