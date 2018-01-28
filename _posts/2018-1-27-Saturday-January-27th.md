@@ -16,7 +16,9 @@
   computers. I took my first Metasploit, crypto, PHP, Assembly workshops at my Hackerspace. I SSH-ed into my first box 
   there. I learned a bit about how raytracing works there, which got me excited about C and making things in C++. 
 - These people are the real deal, and I think regardless of *how* you find your way to computing or computers, it's good
-  to be around these people because they fill in *so* much knowledge. They're the real deal and a *great* community. 
+  to be around these people because they fill in *so* much knowledge. They're the real deal *and* a *great* community. 
+  I think it's inevitable if you want to understand how things work and your mind works like that (in an analytical
+  or creative way) to find yourself at a Hackerspace. You learn so much. The grungier, the better!
 - Also, my Hackerspace even taught a workshop on Emacs, which should be coming around again soon. I mean..do you know
   of *anywhere* (school, boot camp) that does that? Yeah..neither do I.
   
