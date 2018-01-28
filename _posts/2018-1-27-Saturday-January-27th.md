@@ -88,7 +88,7 @@
   
 ## Hammer Jenga
 
-<img src="/images/scon18/s11.png" width="400">
+<img src="/images/scon18/s11.png" width="300">
 
 - So there is this other conference later in the year (ie Memorial Weekend), and you can win a free
   ticket by winning this game, which is a huge version of Jenga, where you hit the blocks out with a 
