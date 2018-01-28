@@ -94,7 +94,8 @@
   ticket by winning this game, which is a huge version of Jenga, where you hit the blocks out with a 
   hammer. There is a fair amount of strategy and pressure in the game, as the blocks were not on level
   ground, you have a bit of wind to compete with, and the judge's taunts (thanks DG :D), and blocks
-  that have split so much in the past that they are taped together (not a good idea to knock those out!).
+  that have split so much in the past that they are taped together (not a good idea to knock those out!
+  They're referred to as "Danger Blocks" and often costs a person the game).
   You knock the block you pick off, and once you commit to it, you have to knock that one out. After you
   do that, you place that one on top and hand the hammer over. You can only knock out blocks at least three 
   levels from the top. You play against a person in a round until the tower falls, and then the winner
