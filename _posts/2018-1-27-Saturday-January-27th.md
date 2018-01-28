@@ -124,7 +124,15 @@
   they have to offer is very much advice I respect. 
   They basically think that I have the ability to make a solid transition into the industry,
   based on the way I think and my interests. 
-  I guess it takes time and I need to up my proficiency in general,
+- I was recruited by a company (that I don't care to work for (but it's a *huge* company)) via an event, and 
+  one guy I spoke to for a good 40 minutes about machine learning straight up told me how the company
+  would probably try to do it, and what he thought of them (which like me, wasn't very positive). 
+  Good engineers care more about working on interesting things, and he didn't think the company had 
+  much to offer besides the promise of their name (which no one in that community, or myself) is 
+  impressed by at all. He literally said "half the people there will be wow-ed because it's X company,
+  and they'll probably show you some thing to try to impress you, but they haven't done jack in 
+  innovating, and they don't care about the growth of their developers". Nuff said.
+- I guess it takes time and I need to up my proficiency in general,
   so we'll see. But we have a lot in common; for example. you won't find UX/ UI people in this crowd,
   and it's not something I'm interested in *at all*. 
 - A lot of these people are either *hard* back end people, crypto, networking or use some kind of high
