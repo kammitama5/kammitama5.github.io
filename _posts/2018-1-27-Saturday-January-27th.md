@@ -138,8 +138,9 @@
   so we'll see. But we have a lot in common; for example. you won't find UX/ UI people in this crowd,
   and it's not something I'm interested in *at all*. The people at this event aren't into *magical* frameworks du jour
   or any of that, also, which I like (I guess that also happens to programmers with maturity).
-  And speaking of UX, has anyone ever met a mature UX/UI designer? I honestly, thinking about it, 
-  haven't. I've heard about the Human Interaction concentration, which is requiring Master's and PhD
+  And speaking of UX, has anyone ever met a mature/elderly UX/UI designer? I honestly, thinking about it, 
+  haven't. I've met mature back-end programmers before who make a great living, interestingly.
+  I've heard about the Human Interaction concentration, which is requiring Master's and PhD
   accreditation and is based on Cognitive Science, with some UX/ UI, but a lot of the UX/ UI people
   I have known tend to be younger.
 - A lot of these people tonight are either *hard* back end people, crypto, networking or use some kind of high
