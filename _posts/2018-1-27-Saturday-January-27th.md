@@ -42,16 +42,16 @@
 
 ## Projection Mapping
 
-<img src="/images/scon18/s1.png" width="600">
+<img src="/images/scon18/s1.png" width="400">
 - Tim works for Apple and showed us some work he does in 3D projection mapping.
 
-<img src="/images/scon18/s2.png" width="600">
+<img src="/images/scon18/s2.png" width="400">
 - He showed us a bit of Modul8 and Maya and how he uses it for Projection mapping on a couch.
   Interestingly, his friend was into computational linguistics, so we had a chat about that. 
   
 ## Audio
 
-<img src="/images/scon18/s3.png" width="600">
+<img src="/images/scon18/s3.png" width="400">
 
 - We have a wicked audio set-up every year. This is a part of a live audio DJ who plays (we had about three
   this year). It involves a bunch of wires, a motor, among another things. I should credit him, but I can't
@@ -59,30 +59,30 @@
   
 ## PCB Soldering
 
-<img src="/images/scon18/s4.png" width="600">
+<img src="/images/scon18/s4.png" width="400">
 - This year the task was to make a radio transmitter/ receiver. So a bunch of people were soldering parts.
   My friend, Benson, got his to work and we were listening to random stations via his headphones.
 
 ## Recycled components
 
-<img src="/images/scon18/s5.png" width="600">
+<img src="/images/scon18/s5.png" width="400">
 - This is artwork by CP. These are recycled boards and components used to make art.
 
 - This was continued in a trend where people made kilts, bracelets, and armour from laptop keyboards,
   and all sorts of things. I think someone made a headpiece, also. 
   
-<img src="/images/scon18/s7.png" width="600">
+<img src="/images/scon18/s7.png" width="400">
 
 ## Legos
 
-<img src="/images/scon18/s9.png" width="600">
+<img src="/images/scon18/s9.png" width="400">
 
 - People were making robots and stuff with a plethora of legos available. You could prety much 
   build whatever you wanted. Oh, and there were tools and there was hot glue and soldering irons.
   
 ## Hammer Jenga
 
-<img src="/images/scon18/s11.png" width="600">
+<img src="/images/scon18/s11.png" width="400">
 
 - So there is this other conference later in the year (ie Memorial Weekend), and you can win a free
   ticket by winning this game, which is a huge version of Jenga, where you hit the blocks out with a 
@@ -93,17 +93,19 @@
   do that, you place that one on top and hand the hammer over. You can only knock out blocks at least three 
   levels from the top. You play against a person in a round until the tower falls, and then the winner
   goes to the next round. The person who won the first ticket was "Girl" :D.
+
+- Oh, and the photo was taken *just* seconds before the entire tower fell :(
   
 ## Other random stuff
 
-<img src="/images/scon18/s12.png" width="600">
+<img src="/images/scon18/s12.png" width="400">
 
 - CP made a phone booth that was really really cool. People were taking photos in it, and there were some
   interesting things, like a baby's body with cameras on top. 
 
 ## I assume
 
-<img src="/images/scon18/s13.png" width="600">
+<img src="/images/scon18/s13.png" width="400">
 
 - This is a chip-tune maker. 
 
