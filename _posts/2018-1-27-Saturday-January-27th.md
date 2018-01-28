@@ -47,9 +47,11 @@
 ## Projection Mapping
 
 <img src="/images/scon18/s1.png" width="400">
+
 - Tim works for Apple and showed us some work he does in 3D projection mapping.
 
 <img src="/images/scon18/s2.png" width="400">
+
 - He showed us a bit of Modul8 and Maya and how he uses it for Projection mapping on a couch.
   Interestingly, his friend was into computational linguistics, so we had a chat about that. 
   
