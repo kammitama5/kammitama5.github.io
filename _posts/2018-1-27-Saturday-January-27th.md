@@ -128,8 +128,8 @@
   one guy I spoke to for a good 40 minutes about machine learning straight up told me how the company
   would probably try to do it, and what he thought of them (which like me, wasn't very positive). 
   Good engineers care more about working on interesting things, and he didn't think the company had 
-  much to offer besides the promise of their name (which no one in that community, or myself) is 
-  impressed by at all. He literally said "half the people there will be wow-ed because it's X company,
+  much to offer besides the promise of their name (which no one in that community, or myself is 
+  impressed by at all). He literally said "half the people there will be wow-ed because it's X company,
   and they'll probably show you some thing to try to impress you, but they haven't done jack in 
   innovating, and they don't care about the growth of their developers". Nuff said.
 - I guess it takes time and I need to up my proficiency in general,
