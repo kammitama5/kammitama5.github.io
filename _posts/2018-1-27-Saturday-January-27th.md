@@ -33,8 +33,9 @@
 - They also are a good judge of whether you have an earnest interest in being a part of the community, and if so, 
   are really helpful and welcoming.
 - They're pretty good at figuring out if you're full of it and at its core respect is based on meritocracy (ie put in a
-  lot of time, get really good, and you gain respect).
-- The general vibe is libertarian.
+  lot of time, get really good, and you gain respect). No hand-waviness and no shortcuts.
+- The general vibe is libertarian, and people come from all walks of life. They don't care, as long as you have 
+  what we all generally have in common (love for computers, making things, hardware, software, problem-solving, games, etc).
   
 ## Talks today
 - I went to one on Electric Trains, another on Machine Learning, another on Projection mapping, another on Crypto,
