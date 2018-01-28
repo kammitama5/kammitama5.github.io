@@ -7,7 +7,7 @@
 ## What is Sparklecon?
 - It's an event that is put on by 23b, a staple of the Hacker community. 
 
-## But you're not a Hacker..or are you?
+## But you're not a Hacker..or are you? (Please don't haxx me!)
 - Yes, that is true. I am *not* a hacker. However, I consider these people to be some of my very good friends, and the 
   community is part of the reason I got into programming in the first place. They're a sister organization of my 
   Hackerspace, and I try to support them when I can. 
