@@ -136,9 +136,13 @@
   innovating, and they don't care about the growth of their developers". Nuff said.
 - I guess it takes time and I need to up my proficiency in general,
   so we'll see. But we have a lot in common; for example. you won't find UX/ UI people in this crowd,
-  and it's not something I'm interested in *at all*. They aren't into *magical* frameworks du jour
+  and it's not something I'm interested in *at all*. The people at this event aren't into *magical* frameworks du jour
   or any of that, also, which I like (I guess that also happens to programmers with maturity).
-- A lot of these people are either *hard* back end people, crypto, networking or use some kind of high
+  And speaking of UX, has anyone ever met a mature UX/UI designer? I honestly, thinking about it, 
+  haven't. I've heard about the Human Interaction concentration, which is requiring Master's and PhD
+  accreditation and is based on Cognitive Science, with some UX/ UI, but a lot of the UX/ UI people
+  I have known tend to be younger.
+- A lot of these people tonight are either *hard* back end people, crypto, networking or use some kind of high
   computing or verification software *daily*. They don't BS around and they have a *lot* of experience.
 - One of my concerns was that doing a boot-camp would be a frustrating experience for me, because the focus
   would be on syntax and a shallower understanding of CS. At the same time, I have thought that it 
