@@ -21,6 +21,8 @@
   or creative way) to find yourself at a Hackerspace. You learn so much. The grungier, the better!
 - Also, my Hackerspace even taught a workshop on Emacs, which should be coming around again soon. I mean..do you know
   of *anywhere* (school, boot camp) that does that? Yeah..neither do I.
+- And they charge next to nothing for it (it's pretty much snacks-money). The guy who runs it says he pretty much does
+  everything in Emacs, now :D
   
 ## So..what happens at Sparklecon?
 - It's a mix of presentations but on by people in the community, and then things like robot battles, PCB-soldering, 
