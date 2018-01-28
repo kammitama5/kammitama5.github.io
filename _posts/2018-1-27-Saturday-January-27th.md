@@ -40,7 +40,7 @@
 ## Talks today
 - I went to one on Electric Trains, another on Machine Learning, another on Projection mapping, another on Crypto,
   and one on Impacket (which I totally do not understand, but it helped that it was in Python).
-- I also met a bunch of people who were interested in everything from C, Rust, Erlang, Go, Perl, Python. 
+- I also met a bunch of people who were interested in everything from C, Rust, Erlang, Go, Perl, Python and yes; Haskell. 
   
 ## Pics
 
