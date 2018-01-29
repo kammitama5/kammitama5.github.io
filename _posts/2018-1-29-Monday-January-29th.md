@@ -29,7 +29,10 @@
 <img src="/images/PW1/pw_009.png" width="800">
 
 ## So, waiting to hear
-- What I can improve on, and to re-submit if need be
+- What I can improve on, and to re-submit if need be.
+  My Jupyter wasn't exporting to .pdf, so that kind of sucked.
+  So I had to do an html to pdf McGyver-y thingy. I'll try it 
+  again later, but in the meantime, submitted what I had.
 
 ## Also
 - I'm tasked with doing some exercises sent to me via a draft 
@@ -38,7 +41,9 @@
   (perhaps this evening).
   
 - Also, getting into what I have to do for assignment two 
-  and general Python review in preparation
+  and general Python review in preparation (perhaps also this evening).
+  
+## And..that's pretty much it for now
   
   
 
