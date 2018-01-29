@@ -33,6 +33,8 @@
   My Jupyter wasn't exporting to .pdf, so that kind of sucked.
   So I had to do an html to pdf McGyver-y thingy. I'll try it 
   again later, but in the meantime, submitted what I had.
+  *update* Complete! I was successful, and Project 1 passed!
+  On to Project 2!
 
 ## Also
 - I'm tasked with doing some exercises sent to me via a draft 
