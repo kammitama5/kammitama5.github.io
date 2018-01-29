@@ -10,23 +10,23 @@
 
 ## This is pretty much my Process
 
-<img src="/images/PW1/pw_001.png" width="400">
+<img src="/images/PW1/pw_001.png" width="800">
 
-<img src="/images/PW1/pw_002.png" width="400">
+<img src="/images/PW1/pw_002.png" width="800">
 
-<img src="/images/PW1/pw_003.png" width="400">
+<img src="/images/PW1/pw_003.png" width="800">
 
-<img src="/images/PW1/pw_004.png" width="400">
+<img src="/images/PW1/pw_004.png" width="800">
 
-<img src="/images/PW1/pw_005.png" width="400">
+<img src="/images/PW1/pw_005.png" width="800">
 
-<img src="/images/PW1/pw_006.png" width="400">
+<img src="/images/PW1/pw_006.png" width="800">
 
-<img src="/images/PW1/pw_007.png" width="400">
+<img src="/images/PW1/pw_007.png" width="800">
 
-<img src="/images/PW1/pw_008.png" width="400">
+<img src="/images/PW1/pw_008.png" width="800">
 
-<img src="/images/PW1/pw_009.png" width="400">
+<img src="/images/PW1/pw_009.png" width="800">
 
 ## So, waiting to hear
 - What I can improve on, and to re-submit if need be
