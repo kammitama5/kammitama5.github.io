@@ -86,7 +86,7 @@
 <img src="/images/scon18/s9.png" width="400">
 
 - People were making robots and stuff with a plethora of legos available. You could pretty much 
-  build whatever you wanted. Oh, and there were tools and there was hot glue and soldering irons.
+  build whatever you wanted. Oh, and there were tools and there was hot glue (and soldering irons).
   
 ## Hammer Jenga
 
