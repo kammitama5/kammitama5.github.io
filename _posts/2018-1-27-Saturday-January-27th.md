@@ -12,7 +12,7 @@
   community is part of the reason I got into programming in the first place. They're a sister organization of my 
   Hackerspace, and I try to support them when I can. 
 - Also, they taught me a *lot* of the little bit I know about how computers work. Understanding file systems,
-  how autentication and crypto works, which helped me to start to ask questions and to understand a bit more about 
+  how authentication and crypto works, which helped me to start to ask questions and to understand a bit more about 
   computers. I took my first Metasploit, crypto, PHP, Assembly workshops at my Hackerspace. I SSH-ed into my first box 
   there. I learned a bit about how raytracing works there, which got me excited about C and making things in C++. 
 - These people are the real deal, and I think regardless of *how* you find your way to computing or computers, it's good
