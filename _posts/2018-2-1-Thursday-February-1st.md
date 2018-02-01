@@ -35,7 +35,7 @@
   me, or that I'm asked again and again if there are "more people who are like me" is something that is in the back of my mind, and only
   pops up from time to time. I don't have the answers to those questions. For me, personally, it's been a tough route, where I've 
   had to prove myself every step of the way, and haven't really had any *magical* breaks or doors opened...except *this*. A tiny door
-  that is ajar.
+  that is ajar. I've had to drink a potion to shrink myself to fit.
 - In college, I was the only person who looked like I did on the rowing team. In most of my classes, this was typically the same.
   But I did it because it was what I was interested in. While people who did look like me stuck together, puzzled by me, I made 
   an effort anyways to just be myself and to try accept it for what it is. I remember at one point, a friend told me that the 
