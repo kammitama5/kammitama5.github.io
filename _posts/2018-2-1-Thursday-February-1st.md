@@ -60,5 +60,6 @@
 - I have some time before getting into Julia again :D
 
 ## So, that's about it
+- And Bon Voyage, wherever life takes you, as well! :D
   
   
