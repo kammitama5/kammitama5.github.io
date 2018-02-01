@@ -7,7 +7,7 @@
 - I'm actually spending some time over the next four days, just sailing with three friends. 
   It should be pretty fun, and it's a welcome break from LA. I hope we see whales.
 - This week, I interviewed with one company, got rejected by two (one of which is schizo because they simultaneously recruited
-  me and rejected me; one time, they even tried to recruit me via a bitcoin recruting site lol), made a friend (a VP of one who didn't 
+  me and rejected me; one time, they even tried to recruit me via a bitcoin recruiting site lol), made a friend (a VP of one who didn't 
   have anything to offer me at the moment but wanted to keep in touch with me), turned down a bootcamp
   (I honestly only applied to two and got into both (then said no), and they're both considered "top"; whatever that means)
   and started drafting up my Personal statement for Grad school. 
