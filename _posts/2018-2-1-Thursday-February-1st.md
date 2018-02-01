@@ -26,8 +26,8 @@
   but you can respond with reason. 
 - I thought about the fact that I would be a bit of an oddity if I were to be accepted; I took a breath to look around at POPL 
   and realized that there was not a person there (besides perhaps, Ron, with his dreadlocks and poignant points on Galois Theory)
-  who looked like me. And indeed, for an after-conference survey, they did ask us this "how can we improve so that more people like
-  you want to attend (they didn't specifically ask me, but asked about my demographic)?"
+  who looked like me. And indeed, for an after-conference survey, they did ask us "how can we improve so that more people like
+  you want to attend (they didn't specifically ask me, but asked about my demographic)?" Ah, *that* question.
 - The truth is, I don't know, as much as I don't know quite why I'm fascinated by all of this, or how I quite ended up here. I do
   know that I have an immense passion for languages and for proofs, for learning about category theory and type theory, and functional
   programming in general, and that I care about correctness. And I know I don't care about Frameworks, libraries, or JavaScript.
