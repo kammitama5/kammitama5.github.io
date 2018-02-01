@@ -9,7 +9,8 @@
 - This week, I interviewed with one company, got rejected by two (one of which is schizo because they simultaneously recruited
   me and rejected me; one time, they even tried to recruit me via a bitcoin recruiting site lol), made a friend (a VP of one who didn't 
   have anything to offer me at the moment but wanted to keep in touch with me), turned down a bootcamp
-  (I honestly only applied to two and got into both (then said no), and they're both considered "top"; whatever that means)
+  (I honestly only applied to two and got into both (then said no), and they're both considered "top"; whatever that means; one 
+  was intriguing because there is a lecturer who likes FP and has a mathematics background)
   and started drafting up my Personal statement for Grad school. 
 - I'm actually over the moon to be working on Academics; a place where I can see fruition to actual work I put in. Real life
   hasn't really felt that way for me at all, by comparison (I guess it isn't). Mostly, I've felt like I have a lot of unrecognized
