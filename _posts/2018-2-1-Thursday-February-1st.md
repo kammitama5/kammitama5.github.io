@@ -6,8 +6,9 @@
 ## So....
 - I'm actually spending some time over the next four days, just sailing with three friends. 
   It should be pretty fun, and it's a welcome break from LA. I hope we see whales.
-- This week, I interviewed with one company, got rejected by two, made a friend (a VP of one who didn't 
-  have anything to offer me at the moment but wanted to keep in touch with me), turned down a top bootcamp
+- This week, I interviewed with one company, got rejected by two (one of which is schizo because they simultaneously recruited
+  me and rejected me), made a friend (a VP of one who didn't 
+  have anything to offer me at the moment but wanted to keep in touch with me), turned down a bootcamp
   (I honestly only applied to two and got into both (then said no), and they're both considered "top"; whatever that means)
   and started drafting up my Personal statement for Grad school. 
 - I'm actually over the moon to be working on Academics; a place where I can see fruition to actual work I put in. Real life
@@ -27,8 +28,33 @@
   you want to attend (they didn't specifically ask me, but asked about my demographic)?"
 - The truth is, I don't know, as much as I don't know quite why I'm fascinated by all of this, or how I quite ended up here. I do
   know that I have an immense passion for languages and for proofs, for learning about category theory and type theory, and functional
-  programming in general, and that I care about correctness. The fact that there isn't anyone I've really met who happens to look like
+  programming in general, and that I care about correctness. And I know I don't care about Frameworks, libraries, or JavaScript.
+- The fact that there isn't anyone I've really met who happens to look like
   me, or that I'm asked again and again if there are "more people who are like me" is something that is in the back of my mind, and only
   pops up from time to time. I don't have the answers to those questions. For me, personally, it's been a tough route.
 - In college, I was the only person who looked like I did on the rowing team. In most of my classes, this was typically the same.
-  But I did it because it was what I was interested in. 
+  But I did it because it was what I was interested in. While people who did look like me stuck together, puzzled by me, I made 
+  an effort anyways to just be myself and to try accept it for what it is. I remember at one point, a friend told me that the 
+  only thing that was "Caribbean" about me was the characters that were in common in the word and my name. But alas, no demographic
+  is homogenous, and thank goodness for that.
+  
+## So what are you saying?
+- I'm saying that I'm excited for the future, but I also need these four days to take a break. 
+  The great thing about sailing is the peace of mind, and the realization that the world is bigger than
+  you think when you're on land. You're pretty much at the mercy of the ocean. 
+- So, I guess we'll see.
+
+## Also been working on
+- This week, I did some work on learning about compilers (I got to NFAs and DFAs and can successfully trace my 
+  way through the logic for determining state and grammars and language). I've been told for this class I'm taking,
+  Concepts of Programming Languages (a first for my school! I'm excited and heard we're doing a compiler!), will
+  cover a bit of this and the history of programming languages. 
+- I also started reading through a draft given to me from someone at POPL. It involved some SKI calculus, so I 
+  stopped for a bit to learn a bit of that. So far, so good. 
+- I am on my second project in the Udacity Nanodegree (to be finished next week)
+- I bought "Foundations of Mathematical Logic" by Curry. 
+- I have some time before getting into Julia again :D
+
+## So, that's about it
+  
+  
