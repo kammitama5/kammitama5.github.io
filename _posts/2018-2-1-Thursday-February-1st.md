@@ -56,7 +56,7 @@
 - I also started reading through a draft given to me from someone at POPL. It involved some SKI calculus, so I 
   stopped for a bit to learn a bit of that. So far, so good. 
 - I am on my second project in the Udacity Nanodegree (to be finished next week)
-- I bought "Foundations of Mathematical Logic" by Curry. 
+- I bought "Foundations of Mathematical Logic" by Curry. Yes, I will work through this book with a pencil and a highlighter.
 - I have some time before getting into Julia again :D
 
 ## So, that's about it
