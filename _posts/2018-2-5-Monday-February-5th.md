@@ -159,11 +159,13 @@
 <img src="/images/wsc18/w_012.png" width="500">
 
 ## I've never been in a place
+
 - I've never been in a place with so many bright, high-achieving women. It was truly a unique and wonderful experience!
 
 <img src="/images/wsc18/group.jpg" width="500">
 
 - We had so many women (205 in total), they had to close down a men's restroom to accommodate us all :D
+
 <img src="/images/wsc18/w_023.png" width="500">
 
 ## If you're reading this
