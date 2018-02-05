@@ -99,6 +99,8 @@
 
 <img src="/images/wsc18/w_016.png" width="500">
 
+<img src="/images/wsc18/w_017.png" width="500">
+
 - The inside of the gears, with clips. These are the "click-clicks" you hear when turning the winch!
   Most have two sets; two above and two below (at top and at base of each winch). There is also a spring
   to put it in place with two legs, applying pressure to one leg, while the other sits leaning across
