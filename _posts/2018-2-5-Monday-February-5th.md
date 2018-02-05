@@ -30,6 +30,7 @@
 <img src="/images/wsc18/w_004.png" width="500">
 
 - Long beach is one of the largest ports in the world. I liked this boat because it reminded me of an A-10.
+  There is a tug-boat to the left.
 
 ## We got to Newport
 
