@@ -81,7 +81,7 @@
   she had a special folder with grades of sandpaper all neatly labelled!
   
 ## Maintenance Mania
-- Judy taught this, and she had a plethora of way to keep yourself organized and what to look for and within what 
+- Judy taught this, and she had a plethora of ways to keep yourself organized and what to look for and within what 
   time-frame. I heard a story of (in our marina) a couple who failed to maintain their boat and it sank right in the 
   marina.
   
