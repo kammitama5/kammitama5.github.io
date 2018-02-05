@@ -152,6 +152,8 @@
   
 <img src="/images/wsc18/w_024.png" width="500">
 
+- Yup, that middle part is for opening beer! That's for *after* all the work is done! :D
+
 ## So, in all
 - A wonderful time! I met so many wonderful people! :D
 - I also bought a water-proof vest! I got one of the last, as they ran out!
