@@ -165,3 +165,9 @@
 
 - We had so many women (205 in total), they had to close down a men's restroom to accommodate us all :D
 <img src="/images/wsc18/w_023.png" width="500">
+
+## If you're reading this
+- If you're reading this and thinking of sailing, or attending a sailing conference, I would say..100%..do it!!
+- Sailing has changed my life and is a really great balance for all the other elements of my life.
+  It requires patience, an eye for detail while being able to see the big picture, logical thinking. There are 
+  so many different areas that anyone can find something they love doing, and the community is wonderful! Go sail!!
