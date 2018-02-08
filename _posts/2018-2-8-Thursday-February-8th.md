@@ -8,7 +8,7 @@
   some fundamental concepts I am learning along the way). Particularly SKI calculus and Kleene algebra.
 - Coincidentally, I bought a book by [Kleene on Mathematical Logic](https://www.amazon.com/Mathematical-Logic-Dover-Books-Mathematics/dp/0486425339), so I will be going through that over summer.
 - Studying for an interview next week. I'm just going to do my best. The contact for the interview has 
-  been super professional (another large company!) and I'm being interviewed by two engineers.
+  been super professional (another large company!) and I'm being interviewed by two engineers back to back.
 - Watching the occasional Haskell stream *really* late at night (went to sleep at midnight because of this).
   I learn quite a bit, and it's helping in terms of just reading code and seeing others debug, so it's been really
   helpful.
