@@ -26,6 +26,6 @@
   Algorithm ](https://en.wikipedia.org/wiki/Page_replacement_algorithm)and [Shunting yard Algorithm](https://en.wikipedia.org/wiki/Shunting-yard_algorithm). 
 - getting better at programming. It's making more and more sense the more I stick to it, which is rewarding. 
   
- ## One last thing
+## One last thing
  - I officially registered for my GRE test. It will be on May 12th, so once my Nanodegree is complete, I will be diving
    into that, while of course, taking my Discrete Structures and Programming Languages class. Game on!
