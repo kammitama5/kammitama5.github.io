@@ -25,7 +25,7 @@
   everything in Emacs, now :D
   
 ## So..what happens at Sparklecon?
-- It's a mix of presentations but on by people in the community, and then things like robot battles, PCB-soldering, 
+- It's a mix of presentations put on by people in the community, and then things like robot battles, PCB-soldering, 
   drone-flying, tesla-coil demos, video-game playing and other such things that people in the general maker-scene like. 
   It's fun and I came back energized. 
   
