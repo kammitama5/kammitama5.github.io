@@ -76,7 +76,7 @@
 
 <img src="/images/wsc18/w_013.png" width="500">
 
-- I have worked with some electrical stuff, so a lot of it was review for me. But I though this was funny!
+- I have worked with some electrical stuff, so a lot of it was review for me. But I thought it was fun!
   Judy is amazing! She taught the class, and also teaches Physics and fixes everything on her boat! She is so great,
   she had a special folder with grades of sandpaper all neatly labelled!
   
