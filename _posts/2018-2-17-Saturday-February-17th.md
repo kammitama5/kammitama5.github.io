@@ -4,7 +4,8 @@
 - I'm on Chapter 13 out of 15 on Compilers! I should be done by tomorrow or Monday latest!
 - I'm also going to start reading Kleene's "Mathematical Logic" book in the evenings.
 - Once the week starts (ie Tuesday), it's back into my Nanodegree (Data Science).
-- I hope I can also get some of the paper I have to read in this weekend, but that depends. 
+- Oh yeah..class starts from Tuesday, but I also have this JPL thing to go to on Thursday with my mentor!
+- I hope I can also get some of the paper (I have to read) in this weekend, but that depends. 
 
 ## Spent today
 - Today, I visited my Hackerspace and learned a bit about PyQt. So, since there is a long weekend,
@@ -27,5 +28,6 @@
   be pretty fun! It's on a Saturday, too, right in the middle of my volunteering for SCALE! :D
 - Oh yeah, and I applied for another thing over summer and there is this thing that may totally wreck the plans of 
   a bunch of other stuff, but I'll find out by this week if it will or not :D. Oh well...life!
+  Right now..a lot of things are sort of up-in-the-air. 
   
 ## And..that's all I've got!
