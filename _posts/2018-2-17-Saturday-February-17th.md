@@ -21,7 +21,10 @@
 ## And...
 - I'm still pretty busy, and there are some things that are up in the air, but pressing on.
 - I missed a friend's stream (in Haskell) *three times*. However, I've watched all of the streams afterwards on 
-  my own time. 
+  my own time. This is partially because of this thing I was focusing on, and the fact that I am fighting off a bit 
+  of allergies or a cold or something. I'm not infectious, but I've come home two days this past week and slept from
+  7pm and woken up at 5 the next morning. If anyone knows me, that's not me *at all*. So that pretty much means I'm
+  fighting *something*.
 
 ## I also
 - Got word that I've been accepted to this year's International Women's Day celebration at Google LA. So that should 
