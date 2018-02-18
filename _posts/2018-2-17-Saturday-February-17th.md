@@ -21,3 +21,11 @@
 - I'm still pretty busy, and there are some things that are up in the air, but pressing on.
 - I missed a friend's stream (in Haskell) *three times*. However, I've watched all of the streams afterwards on 
   my own time. 
+
+## I also
+- Got word that I've been accepted to this year's International Women's Day celebration at Google LA. So that should 
+  be pretty fun! It's on a Saturday, too, right in the middle of my volunteering for SCALE! :D
+- Oh yeah, and I applied for another thing over summer and there is this thing that may totally wreck the plans of 
+  a bunch of other stuff, but I'll find out by this week if it will or not :D. Oh well...life!
+  
+## And..that's all I've got!
