@@ -3,6 +3,9 @@
 ## Hi All
 - It's been a while. I am in the middle of just being allergic to *everything* in LA (except dogs) and starting classes.
   I mean...everything. Sneezing constantly, irritated nose. I've got it *all*. 
+  
+- I'm finally getting around to reading "On the Expressive Power of Programming Languages", by Matthias F (who I've met 
+  at POPL! He's currently is at Northeastern, and two of my friends are his mentees). Here is a [copy](https://pdfs.semanticscholar.org/2798/5884a1947b656424b0956f82caeddde546a1.pdf)
 
 ## A few disappointments
 - I made it to the last freaking round of this interview with a large company but no dice. 
