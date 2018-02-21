@@ -22,7 +22,10 @@
   for our Master's. I didn't mention it (because I'm over it at this point) but my advisor pretty much
   screwed me over on my application, so it wasn't submitted (this is the second time this has happened, and 
   part of why I was thinking of dropping out of school and considering the boot camp stuff briefly. Teachers don't care :(). 
-  My friend's an engineer (not officially yet, but he thinks like one!) and I hope he can get into a great MEng programme.
+  The *worst* is that there is this thing people do in LA where they just ghost, especially if they know they screwed up.
+  If someone did that where I grew up, they'd find the person and smack them and ask them what was wrong with them and why
+  they didn't have the chutzpah to stand up for their decision/ actions. Anyways...
+- My friend's an engineer (not officially yet, but he thinks like one!) and I hope he can get into a great MEng programme.
   I hope I can get into a good Computer Science-scientist programme. I'm more of a scientist. 
   It's interesting to see how much of that makes a lot more sense to me than say, a year ago. 
 - Oh, I didn't get into Discrete Structures, but I did get into my Concepts of Programming Languages class.
