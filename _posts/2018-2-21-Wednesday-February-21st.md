@@ -21,23 +21,23 @@
 - A friend of mine got a JPL internship! It's *perfect* for him! It's exciting! Both he and I are applying
   for our Master's. I didn't mention it (because I'm over it at this point) but my advisor pretty much
   screwed me over on my application, so it wasn't submitted (this is the second time this has happened, and 
-  part of why I was thinking of dropping out of school and considering the boot camp stuff briefly). 
+  part of why I was thinking of dropping out of school and considering the boot camp stuff briefly. Teachers don't care :(). 
   My friend's an engineer (not officially yet, but he thinks like one!) and I hope he can get into a great MEng programme.
   I hope I can get into a good Computer Science-scientist programme. I'm more of a scientist. 
   It's interesting to see how much of that makes a lot more sense to me than say, a year ago. 
 - Oh, I didn't get into Discrete Structures, but I did get into my Concepts of Programming Languages class.
   The prof said he'd possibly have a summer Discrete Structures. I *may* try to take it, especially if I don't get
-  into this other thing I applied for over summer. I'll find out by April. 
+  into this other thing I applied for over summer. I'll find out by the end of April. 
   
 ## Other stuff
-- I still have to make it through that paper
+- I still have to make it through that paper. That guy's going to kill me lol.
 - I'm starting Concepts of Programming Languages class today
 - I'm working through my Nanodegree (module 2 and project 2)
 
 ## I have some other stuff
 - In the works coming up in June (ie LambdaConf; going to that), BayHac (going to that in April), 
   SCALE (volunteering for that weekend of March 10th), Google Women's Day celebration/ training (March 10th),
-  July (summer training), possibly September
+  July (summer training), September (possible opportunity)
 - Somewhere in there, I'm doing my GRE (May 12th) and applying for my Master's
 
 ## So yeah...kind of busy
