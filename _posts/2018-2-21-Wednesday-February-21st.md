@@ -2,6 +2,7 @@
 
 ## Hi All
 - It's been a while. I am in the middle of just being allergic to *everything* in LA (except dogs) and starting classes.
+  I mean...everything. Sneezing constantly, irritated nose. I've got it *all*. 
 
 ## A few disappointments
 - I made it to the last freaking round of this interview with a large company but no dice. 
