@@ -42,7 +42,8 @@
 - In the works coming up in June (ie LambdaConf; going to that), BayHac (going to that in April), 
   SCALE (volunteering for that weekend of March 10th), Google Women's Day celebration/ training (March 10th),
   July (summer training), September (possible opportunity)
-- Somewhere in there, I'm doing my GRE (May 12th) and applying for my Master's
+- Somewhere in there, I'm doing my GRE (May 12th) and applying for my Master's, and of course, continuing to look for 
+  internships/ experience, etc. 
 
 ## So yeah...kind of busy
 - Anyways, until then...never give up! :D
