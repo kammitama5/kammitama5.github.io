@@ -1,9 +1,9 @@
 ## Programming Languages and Concept Lattices
 
-## Frege
-"Nowadays, it seems more and more supporters are being won by the view that arithmetic is a further development of logic;
+
+*"Nowadays, it seems more and more supporters are being won by the view that arithmetic is a further development of logic;
 that a more rigorous establishment of arithmetical laws reduces them to purely logical laws and to such laws alone..."
-from "Function and Concept" by Gottlob Frege
+from "Function and Concept"* by Gottlob Frege
 
 ## Wait what?
 - I stumbled upon this quote while reading about [Begriffs](https://en.wiktionary.org/wiki/Begriff), 
