@@ -34,4 +34,5 @@ has been influenced by continued interest in mathematical logic and how it ties 
   get fed. I mean..I see no downsides, and it's just for a couple hours. 
   
 ## And that's about it!
-  
+- Oh, I spoke about Matthias yesterday, and he popped up in a [video](https://www.youtube.com/watch?v=91hynuuM_As) via the ACM that includes Racket! My friend, Ben (from POPL)
+  makes an appearance in his group of advisees in the video, too! :D
