@@ -10,6 +10,7 @@ arithmetical laws reduces them to purely
 logical laws and to such laws alone..."
 ```
 - from "Function and Concept by Gottlob Frege
+- You can read his book, The Foundations of Arithmetic, [here](http://www.naturalthinker.net/trl/texts/Frege,Gottlob/Frege,%20Gottlob%20-%20The%20Foundations%20of%20Arithmetic%20(1953)%202Ed_%207.0-2.5%20LotB.pdf)
 
 ## Wait what?
 - I stumbled upon this quote while reading about [Begriffs](https://en.wiktionary.org/wiki/Begriff), 
