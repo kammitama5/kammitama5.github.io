@@ -17,7 +17,7 @@ has been influenced by continued interest in mathematical logic and how it ties 
 - [Infimum](https://en.wikipedia.org/wiki/Infimum_and_supremum)
 - [Supremum](https://en.wikipedia.org/wiki/Infimum_and_supremum)
 - What constitutes a complete lattice? 
-- Transisitivy
+- Transitivity
 - Irreducibility
 
 ## Don't you go to school?
