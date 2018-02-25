@@ -59,3 +59,6 @@
 
 <img src="/images/tiller/t_006.png" width="500">
   
+## Yeah...
+
+- This really doesn't have anything to do with code, but I *shall* be spending my day working on a data analysis project! :D
