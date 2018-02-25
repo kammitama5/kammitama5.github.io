@@ -15,7 +15,19 @@
   redo the electrical, and it uses an electric engine, not diesel.
   
 - You can read about SJ-33S boats [here](http://sailboatdata.com/viewrecord.asp?class_id=854). Apparently,
-the last one was made in '82 by Clark Boat Co.!
+the last one was made in '82!
+
+- You can get a sense of the history [here](http://www.sj21class.org/pdf/clark_boat.pdf).
+  Specifically:
+  
+  ```
+  The sailboat market which had boomed
+  in the 1970s was quickly fading
+  as the 1980s progressed. Clarks
+  sold their company in the spring
+  of 1984 to San Juan Manufacturing,
+  which made boats for a few years.
+  ```
 
 ## Oh man...
 
