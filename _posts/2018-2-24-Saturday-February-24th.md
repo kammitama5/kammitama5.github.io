@@ -27,6 +27,8 @@ the last one was made in '82!
   sold their company in the spring
   of 1984 to San Juan Manufacturing,
   which made boats for a few years.
+  - Mike Robinson, 
+  "San Juan: The Right Place at the Right Time"
   ```
 
 ## Oh man...
