@@ -13,6 +13,8 @@
   Of those, she's only seen about 3, and they're mainly on the East Coast. 
   She had to put a fair amount (as much as the boat cost) into it to fix it up,
   redo the electrical, and it uses an electric engine, not diesel.
+  
+- You can read about SJ33S boats [here](http://sailboatdata.com/viewrecord.asp?class_id=854). Apparently, the last one was made in '82!
 
 ## Oh man...
 
