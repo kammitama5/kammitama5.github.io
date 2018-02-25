@@ -8,6 +8,12 @@
 
 - The lady steering owns the boat, and used to be a scientist! 
 
+- The company that made the boats is in Ventura, and went out of business!
+  Her number is 122, but she thinks only about 22 were actually made. 
+  Of those, she's only seen about 3, and they're mainly on the East Coast. 
+  She had to put a fair amount (as much as the boat cost) into it to fix it up,
+  redo the electrical, and it uses an electric engine, not diesel.
+
 ## Oh man...
 
 - So I actually went to this workshop that was for people who were interested 
