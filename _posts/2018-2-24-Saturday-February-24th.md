@@ -38,6 +38,12 @@ the last one was made in '82!
   and that sort of thing. Day-cruising (especially on long trips) is nice,
   but racing is more exciting. It also tends to draw people more my age, too.
   
+<img src="/images/tiller/t_010.png" width="500">
+
+- Flaking the sail
+
+<img src="/images/tiller/t_011.png" width="500">
+  
 - There were two boats that wanted me (that I've sailed on), and a third to which
   I was assigned, that I had also done some work on (but I had never sailed on).
   So I picked that one. It had the tiller and the girl who owned it liked to race.
