@@ -21,7 +21,7 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   in types) I am drawn towards languages like Julia and Haskell (and Python). But Data Science can be a bit tedious;
   you're essentially doing the same thing over and over and the data is questionable. 
   Some argue that it isn't even a real science because it's not truly reproducible. I have no comment on that, 
-  but since I first stumbled upon that comment, [I've been thinking about that](https://towardsdatascience.com/is-data-science-a-real-science-2920bb2529aa).
+  but since I first stumbled upon that comment, [I've been thinking about that](https://towardsdatascience.com/is-data-science-a-real-science-2920bb2529aa). In particular, Science being defined as [doing research to advance a field based on reproducible experiments](https://www.quora.com/Is-data-science-a-real-science).
   Anyways, Numerical computation /verification / proofs has a bit 
   more of a specific type of puzzle-solving that I really enjoy.
 
