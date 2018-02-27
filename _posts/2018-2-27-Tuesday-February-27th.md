@@ -24,4 +24,4 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   
 - So I did a bit of this today. The puzzles are really interesting!
 
-<img src="/images/simple_proof.png" width="500">
+<img src="/images/simple_proof.png" width="800">
