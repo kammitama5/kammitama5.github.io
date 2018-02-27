@@ -37,3 +37,18 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
 - So I did a bit of this today. The puzzles are really interesting!
 
 <img src="/images/simple_proof.png" width="700">
+
+
+## Some things
+- I'm thinking of doing Intro to Mathematical Thinking again. The neat thing about the course is that 
+  you can take it many times. Or even the Hoare Logic one I took a while ago. 
+  
+- I heard we have to write a COBOL programme for class :D Hilarious. 
+  
+## Things to do 
+- Lean Prover work through
+- Nanodegree Project 1 complete between this week and next week
+- Quiz for class (easy; can complete that tonight)
+- Haskellbook one chapter a week (or two weeks depending on the week)
+
+
