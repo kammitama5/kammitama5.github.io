@@ -16,11 +16,14 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   
 - Data Science appeals to me on a lot of levels (Julia, Python, which I both love), but at the same time,
   I've been hugely drawn by just types and how things work, and just proofs in general. And data is just 
-  not as interesting. 
+  not as interesting. Maybe I'll find some way to include it as I continue to study.
   
 ## Proofs
+
 - I'm still learning how to prove things, but I'd like to become better at lambda calculus, beta and eta
   reduction in general. Substitution and Reduction.
+  
+- I learned about *ex falso sequitur quodlibet*, which means "anything you want follows from falsity".
   
 - So I did a bit of this today. The puzzles are really interesting!
 
