@@ -10,7 +10,7 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   
 - There seems to be two versions; one that has a Chapter 3 on Dependent Types, and the one I'm working through. Oh well. 
   
-- I know to some it's not important, considering it seems like I'm definitely on the path of becoming 
+- I know to some it's not important, but considering it seems like I'm definitely on the path of becoming 
   a proof engineer, and I like it (I shudder to say this, but many times more-so than my data-analysis
   stuff), I've been giving it a go. 
   
