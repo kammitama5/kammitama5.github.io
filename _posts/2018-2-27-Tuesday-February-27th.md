@@ -8,7 +8,7 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   with the first. It gives me enough time to really get into Lambda Calculus. I'll be doing this on the evenings, after 
   plugging through my Nanodegree during the day.
   
-- There seems to be two versions; one that has a Chapter 3 on Dependent Types, and the one I'm working through. Oh well. 
+- There seems to be two versions; one that has a Chapter 3 on [Dependent Types](https://leanprover.github.io/theorem_proving_in_lean/introduction.html#about-this-book), and the one I'm working through. Oh well. 
   
 - I know to some it's not important, but considering it seems like I'm definitely on the path of becoming 
   a proof engineer, and I like it (I shudder to say this, but many times more-so than my data-analysis
