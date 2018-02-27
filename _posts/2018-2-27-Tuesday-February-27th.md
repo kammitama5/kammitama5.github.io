@@ -4,7 +4,7 @@
 
 - I've been reading [Lean Prover](https://leanprover.github.io/logic_and_proof/natural_deduction_for_propositional_logic.html)
 along with Haskellbook. Lean Prover was advice from my friend, Lyle, 
-  who runs the [PDX FP group](https://www.meetup.com/Portland-Functional-Programming-Study-Group/events/245273574/). In terms of Haskellbook, I'm doing about a chapter a week, starting out
+  who runs the [PDX FP group](https://www.meetup.com/Portland-Functional-Programming-Study-Group/events/245273574/). In terms of Haskellbook, I'm doing about a chapter a week (or two weeks depending on the week), starting out
   with the first. It gives me enough time to really get into Lambda Calculus. I'll be doing this on the evenings, after 
   plugging through my Nanodegree during the day.
   
