@@ -47,6 +47,10 @@ along with Haskellbook. Lean Prover was advice from my friend, Lyle,
   you can take it many times. Or even the Hoare Logic one I took a while ago. 
   
 - I heard we have to write a COBOL programme for class :D Hilarious. 
+
+- I started reading Denotational Semantics (by Stoy) and saw this awesome video by Erik called ["The Lost Art of Denotational Semantics"](https://www.youtube.com/watch?v=pOl4E8x3fmw).
+  Definitely worth checking out both! I ended up staying up for 2.5 hours thinking "I'll just read a few pages". It's super 
+  engaging and I ended up carrying it around with me to read during my commute!
   
 ## Things to do 
 - Lean Prover work through
