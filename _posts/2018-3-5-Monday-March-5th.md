@@ -19,4 +19,4 @@
 
 - Solution works
 
-<img src="/images/hasky/has_001.png" width="600">
+<img src="/images/hasky/has_001.png" width="200">
