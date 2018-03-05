@@ -6,7 +6,8 @@
   In the midst of that, there is our online PureScript Meetup. So....yeah. Thankfully PureScript
   records their meetings. Hopefully Googs has a nice, long lunch so I can watch some of the stream!
 - I'm also volunteering to help out with Registration at [SCALE](https://www.socallinuxexpo.org/scale/16x).
-- In the midst of that...Haskell. At night, I've been reading Denotational Semantics (the unabridged novel :D)
+- In the midst of that...Haskell. At night, I've been reading Denotational Semantics (the unabridged novel :D).
+  Right now I'm reading about continuous lattices. 
 
 ## Haskell
 - I'm currently on chapter 4 of Haskellbook. So far, so good. It's on DataTypes. 
@@ -28,12 +29,15 @@
 - Watching the streams and stuff has paid off so far. It's fun to work through.
 - It's okay to re-read the chapter twice, in case you skipped something
 - It's *really* *really* worthwhile to do the exercises. I'm not sure what a person who didn't
-  do the exercises would get out of the book, quite honestly. 
+  do the exercises would get out of the book, quite honestly. The exercises really cement whether you learned 
+  what they were talking about or not.
   
 ## School
 - So far, so good. I'm keeping up with the assignments. I started looking into grad school deadlines for application,
   and costs. It's doable. I also found someone I know who goes to a school I'd like to attend (and was living in LA
   up to 2017, and their background was not originally CS). So that's really helpful. 
-- So I guess we'll see how it goes. 
+- So I guess we'll see how it goes. So many of these schools have AI and Machine Learning programmes. I kind of want 
+  to steer clear of those and just focus on compilers for graduate school. And maybe work in something like Haskell or
+  Racket or some proofing language. That would be really neat. 
   
 
