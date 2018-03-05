@@ -22,7 +22,7 @@
 
 <img src="/images/hasky/has_001.png" width="200">
 
-- This is um..the simplest of simple-setups, I guess. I have it on a Linux machine, but this version of 
+- This is um..the simplest of simple-setups, I guess. I have it on a Linux machine also, but this version of 
   Stack is on Windows. I had never done that before, so I'm happy it worked. 
 
 ## My thoughts so far
