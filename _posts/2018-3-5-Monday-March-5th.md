@@ -20,3 +20,13 @@
 - Solution works
 
 <img src="/images/hasky/has_001.png" width="200">
+
+- This is um..the simplest of simple-setups, I guess.
+
+## My thoughts so far
+- Watching the streams and stuff has paid off so far. It's fun to work through.
+- It's okay to re-read the chapter twice, in case you skipped something
+- It's *really* *really* worthwhile to do the exercises. I'm not sure what a person who didn't
+  do the exercises would get out of the book, quite honestly. 
+  
+
