@@ -36,7 +36,8 @@
 - So far, so good. I'm keeping up with the assignments. I started looking into grad school deadlines for application,
   and costs. It's doable. I also found someone I know who goes to a school I'd like to attend (and was living in LA
   up to 2017, and their background was not originally CS). So that's really helpful. 
-- So I guess we'll see how it goes. So many of these schools have AI and Machine Learning programmes. I kind of want 
+- So I guess we'll see how it goes. So many of these schools have AI and Machine Learning programmes; it's like
+  they're filtering Undergrad graduates into web and Master's into Data/ Machine Learning / AI. I kind of want 
   to steer clear of those and just focus on compilers for graduate school. And maybe work in something like Haskell or
   Racket or some proofing language. That would be really neat. 
   
