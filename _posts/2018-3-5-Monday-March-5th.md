@@ -30,4 +30,10 @@
 - It's *really* *really* worthwhile to do the exercises. I'm not sure what a person who didn't
   do the exercises would get out of the book, quite honestly. 
   
+## School
+- So far, so good. I'm keeping up with the assignments. I started looking into grad school deadlines for application,
+  and costs. It's doable. I also found someone I know who goes to a school I'd like to attend (and was living in LA
+  up to 2017, and their background was not originally CS). So that's really helpful. 
+- So I guess we'll see how it goes. 
+  
 
