@@ -6,7 +6,7 @@
   In the midst of that, there is our online PureScript Meetup. So....yeah. Thankfully PureScript
   records their meetings. Hopefully Googs has a nice, long lunch so I can watch some of the stream!
 - I'm also volunteering to help out with Registration at [SCALE](https://www.socallinuxexpo.org/scale/16x).
-- In the midst of that...Haskell. At night, I've been reading Denotational Semantics (the unabridged novel :D).
+- In the midst of that...Haskell. At night, I've been reading [Denotational Semantics](https://mitpress.mit.edu/books/denotational-semantics) (the unabridged novel :D).
   Right now I'm reading about continuous lattices. 
 
 ## Haskell
