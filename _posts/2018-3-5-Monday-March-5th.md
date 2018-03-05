@@ -15,7 +15,7 @@
 ## Set-up
 - Here is the code on Notepad++
 
-<img src="/images/hasky/has_002.png" width="600">
+<img src="/images/hasky/has_002.png" width="700">
 
 - Solution works
 
