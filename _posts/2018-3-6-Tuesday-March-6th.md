@@ -56,13 +56,17 @@
   Compiler Theory, Type Theory, FP) is that thing that lights me on fire. It's the thing I keep
   coming back to. My mentor for my data science course asked me what I planned to accomplish one
   week and I told him I was learning Julia because I really liked the type system. He likes chatting
-  with me, but I'm *that* student. What is she up to? 
+  with me, but I'm *that* student. What is she up to?
+- I once took a break from my data science coursework to do an entire course on compilers, because I just 
+  found it to be more interesting. I finished the compiler course, though! It was sad that it was so short.
 - This past Monday, my prof was talking about languges like C and PHP, and I asked him "have you tried
-  Rust?" This ended up in his stopping the class to look up Rust. Then he went "hmm..." Hahaha. I also
+  Rust?" This ended up in his stopping the entire class to look up Rust. Then he went "hmm..." Hahaha. I also
   mentioned to him about the new Firefox and the Rust server, because well..it's interesting. 
   
 ## Good news
-- I'm paying 1/5 of what I was paying for classes. That means I can now take more :D I also applied 
+- I'm paying 1/5 of what I was paying for classes. That means I can now take more :D There used to be 
+  a symbolic logic class! Can you believe it!? I was so excited and looked high and low, but apparently,
+  it's no longer offered :( . I also applied 
   for a scholarship. I don't expect anything, but we'll see, I guess. It took me two trips up to 
   the office of admissions, the last of which I forgot I had my Denotational Semantics text in my bag.
   The trip uphill was *not* fun. That's a big book!
@@ -74,7 +78,11 @@
 - Around Fall, I plan to learn Liquid Haskell
 - I plan to continue in any way I can, either by making a compiler or an interpreter or something. 
 - I'd also like to do some research..somewhere. There are a few possibilities. In any case, I seem
-  to mostly get recruited for that sort of work. So I don't think it will be *too* much of a problem. 
+  to mostly get recruited for that sort of work. My qualifications don't seem to match up
+  with who people think I am, so I get some really interesting work and then I can't get 
+  through the guard-keepers. But I will keep working on it, because it's really, really 
+  promising that I've been consistently recruited for some really interesting stuff!
+  So I don't think it will be *too* much of a problem and I'll keep on the look-out for interesting research. 
   I still have time to apply for some research stuff at labs in my area or JPL. We'll see.
   
 ## And, that's about it.
