@@ -8,7 +8,7 @@
 ## Today was wonderful!
 
 - Lots of Happy Birthday wishes all the way from New Zealand and Tokyo to a cake right here in California :D
-- My dog even legit sent me a birthday card! The dog asked that I please send food! :D
+- My dog even legit sent me a birthday card! She (Izzi) asked that I please send food! :D
 
 ## The parents
 - They win :D 
