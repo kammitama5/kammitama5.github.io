@@ -14,11 +14,11 @@
 
 - They sent me a puzzle and even gave me a clue :D
 
-<img src="/images/birthday18/b8.png" width="500">
+<img src="/images/birthday18/b8.png" width="700">
 
 - This is what it translated to read
 
-<img src="/images/birthday18/b7.png" width="500">
+<img src="/images/birthday18/b7.png" width="900">
 
 - My parents are so cool! 
 
