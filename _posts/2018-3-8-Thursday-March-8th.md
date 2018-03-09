@@ -20,6 +20,8 @@
 - This was one to remove the head and last element of a list. In Python, you'd do this by slicing.
 - In Haskell, I did this by using drop and take. Drop the 1st element lazily after the string is taken except the last element.
 
+## Alternative Solution
+
 <img src="/images/hasky1/h_005.png" width="500">
 
 - Check out this solution, though. Drop the first. Reverse, drop the first (which is the last) and then reverse again. Woah! Sick! 
