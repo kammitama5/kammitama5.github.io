@@ -2,13 +2,18 @@
 
 ## Tried reworking some of my CodeWars puzzles
 
+## String Repeat 
+
 <img src="/images/hasky1/h_003.png" width="500">
 
 - This was one to repeat a string given a char and number of times it is to be repeated
 
+## Negative or Not (Some may be already)
 <img src="/images/hasky1/h_003.png" width="500">
 
 - This is one to make a number negative if it isn't or otherwise leave it
+
+## Remove first and Last
 
 <img src="/images/hasky1/h_002.png" width="500">
 
