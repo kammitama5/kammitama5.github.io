@@ -37,3 +37,9 @@
 - Doing Haskell daily makes you ten times more excited to go to BayHac and those kinds of events. I mean, I'm *always* happy to 
   hang out with Haskellinos, but now I'm kind of *ecstatic*. I'm excited to see how my mind has changed since last year, and to 
   learn more. 
+- Oh, I'm voluteering tomorrow at SCALE
+- Doing my Fortran assignment over the next few days
+- Going to Google's Int'l Women's Day event on Saturday
+- I also volunteered to help on a committee (tech related). I'm always excited to give back.
+
+## That's about it!
