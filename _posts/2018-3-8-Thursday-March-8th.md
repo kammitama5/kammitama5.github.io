@@ -3,6 +3,7 @@
 ## Tried reworking some of my CodeWars puzzles
 
 <img src="/images/hasky1/h_003.png" width="500">
+
 - This was one to repeat a string given a char and number of times it is to be repeated
 
 <img src="/images/hasky1/h_003.png" width="500">
