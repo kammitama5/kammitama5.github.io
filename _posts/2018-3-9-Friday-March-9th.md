@@ -45,6 +45,11 @@
   want to be as a programmer.
 - I was encouraged to not only read Design Patterns, but HOPL I and II, which were before the languages that we know today 
   ie the Pythons, etc. 
+- I particularly liked what he said about rethinking anytime you are convinced that X is the only paradigm that matters.
+  That's often a huge blind-spot of several programming communities I've encountered thus far. People know me as "Haskell
+  girl", but I've only recently started digging into Haskell, and still play around with Python and Julia, and up to last 
+  week did a bit of Mathematica and Lean. So it pains me when there is a bit of arrogance about *the way*. Plus, it puts
+  newbies like me a bit off, quite frankly. 
   
 ## I'm happy
 - I'm happy to spend the rest of my year reading, researching and just thinking about exactly what I want. I'm really happy 
