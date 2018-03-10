@@ -38,6 +38,8 @@
   being around a lot of people, but still in joy, I visited my favourite place, the Computer History museum. 
   Suddenly, I didn't really want to go back. The stuff in there seemed more interesting than any of the *breakthroughs* 
   the company had to announce that year. And last night, this same mentor agreed, "Of course!".
+- He also spoke about the difference between doing long-term research vs ones that are fast increments of not that much.
+  The latter really reminds me of the yearly promotions of these Big Five companies. It's disappointing. We can do *better*.
 - I asked him if he thought (this is something I've been thinking about) that we were losing a bit of something in the way
   people's brains were wired when they had to debug and solve problems using punch cards and pen and paper. He said that
   one thing he could say is that IDEs were being used by some as a crutch. I agree with that. I remember seeing pair-programming
