@@ -42,6 +42,19 @@
   with one guy who was a .Net guy, and he spent the first 20 minutes of our 30 minute pair-programming just setting up his IDE,
   because "the IDE does everything...you'll see". That was a great experience for me because it taught me about what I didn't
   want to be as a programmer.
+- I was encouraged to not only read Design Patterns, but HOPL I and II, which were before the languages that we know today 
+  ie the Pythons, etc. 
+  
+## I'm happy
+- I'm happy to spend the rest of my year reading, researching and just thinking about exactly what I want. I'm really happy 
+  with the decision to carefully pick and choose what I'd like, as part of the process of where I'm headed, regardless of 
+  what happens within the next year.
+- There is this whole new world that's away from the frameworks, the libraries, the things I *should be doing if I want a job*,
+  and I'm happy to spend time *away* from that to just focus on being a good programmer who learns a larger vocabulary, is 
+  aware of the history of Computer Science and has a breadth of knowledge. Even if it takes a year, two, five or ten. To me, 
+  it's worth it.
+  
+## And..that's it.
   
   
 
