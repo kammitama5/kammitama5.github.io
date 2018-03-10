@@ -31,7 +31,7 @@
     that idiom into the language), to idioms and ways to think about how to design a language (the Design Patterns book came up). 
     Suddenly, the idea of going to some Big 5 "What's New" conference didn't seem that appealing. Learning about
     some new library or framework wasn't on my mind at all. I had a compulsion to look *back*. It seems like there
-    is a lot to learning in looking back than trudging forward. I mean, we're bombarded by these things that are 
+    is a lot to learn in looking back than trudging forward. I mean, we're bombarded by these things that are 
     supposedly *forward-moving* every day, right (via Hacker News, etc). But what if they actually...aren't?
 - It reminded me of the conversation I had with my mentor at JPL when I attended my first I/O. I was burned out from
   being around a lot of people, but still in joy, I visited my favourite place, the Computer History museum. 
