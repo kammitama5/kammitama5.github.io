@@ -29,7 +29,8 @@
     Mathematica is a Lisp, Influence of SmallTalk on Objective-C (objects...in C), Simula, Fortress and others,
     how Java was almost functional because the language designers couldn't agree and one wanted to integrate
     that idiom into the language), to idioms and ways to think about how to design a language (the Design Patterns book came up). 
-    Suddenly, the idea of going to some Big 5 "What's New" conference didn't seem that appealing. Learning about
+    Suddenly, the idea of going to some Big 5 "What's New" conference didn't seem that appealing. 
+    Learning about
     some new library or framework wasn't on my mind at all. I had a compulsion to look *back*. It seems like there
     is a lot to learn in looking back than trudging forward. I mean, we're bombarded by these things that are 
     supposedly *forward-moving* every day, right (via Hacker News, etc). But what if they actually...aren't?
