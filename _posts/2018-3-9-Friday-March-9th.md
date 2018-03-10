@@ -10,7 +10,7 @@
 
 - The LCD displays Conway's Game of Life and has some other puzzles to solve. 
   The image is a rotary phone. That's actually pretty neat. 
-  It's a perfect analogy for a lot of what I've been thinking about.
+  It's a perfect analogy for a lot of what I've been thinking about; old vs new.
   
 ## Front of the Board 
 
