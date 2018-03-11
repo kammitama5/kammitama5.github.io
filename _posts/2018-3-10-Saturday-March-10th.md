@@ -27,6 +27,8 @@
 ## So, the actual conf
 
 - Pretty fun! I finally got to meet the lovely Natalie and everyone was quite wonderful!
+
+<img src="/images/IWD18/i_001.png" width="500">
   
 ## Wait..where are the nuts?
 
