@@ -27,6 +27,16 @@
 ## So, the actual conf
 
 - Pretty fun! I finally got to meet the lovely Natalie and everyone was quite wonderful!
+  I got to meet her, and she had a curvy-story in terms of her life's path. She was a History major (from a State school)
+  and a go-go dancer even!
+  I find myself attracted to those kinds of people a lot. I generally find people who just did the same thing from a young age
+  to be kind of boring, really. I like the quirky people who sort of didn't have it all figured out, but it somehow worked out
+  in the end. Googs seems to have a *lot* of those types of people. It's really cool. I find them easy to talk to, and more
+  interesting. Plus, some of the truly brilliant ones have all sorts of things they're passionate about. I *love* that. 
+  
+- It's like our weird and quirky Haskell group that had people interested in everything from Mahjong to Accounting Programmes
+  to making a new Language to Ontology using Haskell. I attended some other Meetups and it was just people making apps
+  and talking about a library. No thanks. 
 
 ## We got these lovely Swag boxes
 
