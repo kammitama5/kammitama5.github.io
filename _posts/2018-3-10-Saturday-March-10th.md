@@ -28,8 +28,75 @@
 
 - Pretty fun! I finally got to meet the lovely Natalie and everyone was quite wonderful!
 
+## We got these lovely Swag boxes
+
 <img src="/images/IWD18/i_001.png" width="500">
+
+- I still haven't opened mine yet! :D
+
+## We got to add labels to our badges.
+
+<img src="/images/IWD18/i_002.png" width="500">
+
+- I chose "Immigrant" and "Builder". I think that those two are pretty much me :D
+  Although man, I *do* love a good American pickle! :D
   
+## Lunch
+
+<img src="/images/IWD18/i_003.png" width="500">
+
+## We split into two groups. 
+
+- One was more Stand-up. The other was technical. Guess which one I picked? :D
+
+<img src="/images/IWD18/i_005.png" width="500">
+
+## This was neat!
+
+<img src="/images/IWD18/i_006.png" width="500">
+
+- It was raining, so under our chairs, they had these umbrellas! 
+
+<img src="/images/IWD18/i_007.png" width="500">
+
+## Look closer!
+
+- When the rain falls, they change colour! :D
+
+<img src="/images/IWD18/i_008.png" width="500">
+
+## Edible ice cream paper
+
+- We got to make our own ice-cream sandwich. I had no idea this company
+  is female-owned!
+  
+<img src="/images/IWD18/i_009.png" width="500">
+
+## We were drawn by robots
+
+- I've seen this sort of thing before, but this was a bit different
+  because it connected the lines (vs points / stipple- drawing).
+  Strangely, I knew the guy who was operating the machine, too.
+  We had been at the same Maker-space years ago when I was learning
+  about computational architecture! Small world!
+  
+<img src="/images/IWD18/i_010.png" width="500">
+
+## Say what?
+
+- Yeah, I was into using nodal computation to do things like control
+  robots and stuff, before I got into programming. I guess I just like
+  anything creative and technical. 
+  
+## Faces
+
+<img src="/images/IWD18/i_011.png" width="500">
+
+## And this one :D
+
+<img src="/images/IWD18/i_012.png" width="500">
+
+
 ## Wait..where are the nuts?
 
 - Oh, they're here too! On the way home, I decided to catch a bus, and we were all in a good mood, and the bus driver was 
@@ -38,3 +105,8 @@
   Then the guy hits a lady one seat from there and walks over to the driver and socks him in the eye! So that delayed 
   the trip by 20 minutes, because the Paramedics had to show up and give the driver a check-up and we had to wait for another
   bus. Thankfully we were all indoors, because it was raining. 
+  
+## Clocks move ahead
+
+- Tomorrow clocks move one hour ahead, so I'm going to listen to EDM to unwind! 
+  Met a lot of great people. Tomorrow, hopefully I can write some FORTRAN :D
