@@ -25,7 +25,7 @@
 
 - I don't know if I'll get in, but it's on Denotational Semantics, which I'm learning about,
   and Haskell. It's a short talk, but I thought I'd try to talk about something I'm 
-  passionate about. 
+  passionate about. It's about preserving the meaning in a programme and involves some lambda calculus.
   
 ## And applications
 
@@ -44,3 +44,8 @@
   I seem to get the weird ones...Clojure, Scala, Mathematica, Haskell, PureScript...those 
   are the things I seem to get, which is funny. Oh, and I got recruited for a robotics gig
   randomly as well the other day. 
+  
+## I'm really excited
+
+- I'm excited about LambdaConf. I hope that it all works out and I can go, but who knows. 
+  Taking it one day at a time.
