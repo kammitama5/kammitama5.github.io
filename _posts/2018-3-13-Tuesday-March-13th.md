@@ -34,8 +34,8 @@
   
 ## And other stuff...
 
-- I'm helping with the Board of this committee affiliated with a conference, and helping a 
-  well-known computer scientist with some research that isn't necessarily academic, but 
+- I'm helping with the Board of this committee affiliated with a conference I attended last year, and helping a 
+  computer scientist with some research that isn't necessarily academic, but 
   is good to just work on in general. I like doing that stuff, so I figure why not. 
   
 ## Random
