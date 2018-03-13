@@ -38,14 +38,15 @@
 
 - I'm helping with the Board of this committee affiliated with a conference I attended last year, and helping a 
   computer scientist with some research that isn't necessarily academic, but 
-  is good to just work on in general. I like doing that stuff, so I figure why not. 
+  is good to just work on in general. I like doing that stuff, particularly research in general, so I figure why not.
+  Plus, I could possibly use my Data-wrangling skills to visualize and parse data and analyze content.
   
 ## Random
 
 - Someone recruited me for a Clojure job today. lol. I don't...write...Clojure. 
   I seem to get the weird ones...Clojure, Scala, Mathematica, Haskell, PureScript...those 
-  are the things I seem to get, which is funny. Oh, and I got recruited for a robotics gig
-  randomly as well the other day. 
+  are all things I've either been recruited for/ interviewed for, which is funny. Oh, and I got recruited for a robotics gig
+  randomly as well the other day (C++/ Python). 
   
 ## I'm really excited
 
