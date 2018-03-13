@@ -2,14 +2,16 @@
 
 ## Here is a Fortran Programme I wrote today
 
-<img src="/images/fortrans/f_001.png" width="500">
+<img src="/images/fortrans/f_001.png" width="600">
 
 - It basically takes a bunch of STDIN inputs until it gets to the end of the file,
   and then gives you the maximum and minimum value. 
   
 ## This was the output
 
-<img src="/images/fortrans/f_002.png" width="500">
+<img src="/images/fortrans/f_002.png" width="800">
+
+- The smallest number in my list is 3 and the largest is 98. This is in Fortran 95.
   
 - Things are a little repetitive but some of it makes sense. Then again, I'm just learning
   for a class. I have to write a COBOL programme for next week, also (fun fun! Speaking of 
