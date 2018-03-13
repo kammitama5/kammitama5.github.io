@@ -46,7 +46,7 @@
 - Someone recruited me for a Clojure job today. lol. I don't...write...Clojure. 
   I seem to get the weird ones...Clojure, Scala, Mathematica, Haskell, PureScript...those 
   are all things I've either been recruited for/ interviewed for, which is funny. Oh, and I got recruited for a robotics gig
-  randomly as well the other day (C++/ Python). 
+  randomly as well the other day (C++/ Python). I have no idea why because I'm literally still in school. 
   
 ## I'm really excited
 
