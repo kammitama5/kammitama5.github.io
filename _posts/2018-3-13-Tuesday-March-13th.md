@@ -1,4 +1,4 @@
-## Fortrans and stuff
+## Fortran and stuff
 
 ## Here is a Fortran Programme I wrote today
 
