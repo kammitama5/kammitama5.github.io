@@ -26,6 +26,12 @@
 - I'm rushing to complete this one application, and trying to do due diligence on another.
   No guarantees, but it's worth a shot and I'll give both my all. 
   
+## And other stuff...
+
+- I'm helping with the Board of this committee affiliated with a conference, and helping a 
+  well-known computer scientist with some research that isn't necessarily academic, but 
+  is good to just work on in general. I like doing that stuff, so I figure why not. 
+  
 ## Random
 
 - Someone recruited me for a Clojure job today. lol. I don't...write...Clojure. 
