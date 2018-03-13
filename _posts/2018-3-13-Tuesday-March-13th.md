@@ -25,7 +25,9 @@
 
 - I don't know if I'll get in, but it's on Denotational Semantics, which I'm learning about,
   and Haskell. It's a short talk, but I thought I'd try to talk about something I'm 
-  passionate about. It's about preserving the meaning in a programme and involves some lambda calculus.
+  passionate about. It's about preserving the meaning in a programme and involves some lambda calculus
+  without explicitly talking about it. The crowd includes a fair amount of beginners, so I'm trying 
+  to sneak it in, in a fun way.
   
 ## And applications
 
