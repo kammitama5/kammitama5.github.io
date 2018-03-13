@@ -7,6 +7,10 @@
 - It basically takes a bunch of STDIN inputs until it gets to the end of the file,
   and then gives you the maximum and minimum value. 
   
+- Getting the largest was easy (just replace it if the read-in value is larger than your current value, which
+  is the largest). For the smallest, I had to remember to initialize the value, or your smallest would be 
+  zero by the end of the do loop (assuming that there are no negative values).
+  
 ## This was the output
 
 <img src="/images/fortrans/f_002.png" width="800">
