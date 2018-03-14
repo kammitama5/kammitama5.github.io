@@ -38,13 +38,13 @@
   
  ## So this is what the updated result looks like
  
- <img src="/images/fortrans/f_003.png" width="400">
+ <img src="/images/fortrans/f_003.png" width="500">
  
  - A lot less repetitive
  
  ## And the updated output
  
- <img src="/images/fortrans/f_004.png" width="500">
+ <img src="/images/fortrans/f_004.png" width="400">
  
  - Look at the difference! I still have to figure out what he speaks about
    with respect to unit number and ```use iso_fortran_env, only```.I'm not 
