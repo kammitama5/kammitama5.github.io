@@ -47,13 +47,13 @@ had to use allocatable to avoid a seg fault crash/ running out of memory.
  
  <img src="/images/fortrans/f_003.png" width="500">
  
- - A lot less repetitive
+- A lot less repetitive
  
 ## And the updated output
  
  <img src="/images/fortrans/f_004.png" width="300">
  
- - Look at the difference! I still have to figure out what he speaks about
+- Look at the difference! I still have to figure out what he speaks about
    with respect to unit number and ```use iso_fortran_env, only```.I'm not 
    quite familiar with that and need to do some reading up on that. 
  
