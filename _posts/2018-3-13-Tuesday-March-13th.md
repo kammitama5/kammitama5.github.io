@@ -20,7 +20,36 @@
 - Things are a little repetitive but some of it makes sense. Then again, I'm just learning
   for a class. I have to write a COBOL programme for next week, also (fun fun! Speaking of 
   "wordy" lol).
+  
+  
+## Updated
 
+- So I got feedback from my mentor, and he suggested a couple things
+- There are a few ways to read in the array:
+  - use list-directed input, where it will see exit reading upon seeing '/'.
+    Use this with a sentinel value 
+  - use allocatable and deferred bounds
+  - use an internal sub-routine
+  
+- He also showed me a short-cut to finding the min and max value by creating 
+  an anonymous temporary variable with a size equal to the number of values
+  greater than the sentinel, and then finding the minimum value. This array
+  does not optimize performance.
+  
+ ## So this is what the updated result looks like
+ 
+ <img src="/images/fortrans/f_003.png" width="800">
+ 
+ - A lot less repetitive
+ 
+ ## And the updated output
+ 
+ <img src="/images/fortrans/f_004.png" width="800">
+ 
+ - Look at the difference! I still have to figure out what he speaks about
+   with respect to unit number and ```use iso_fortran_env, only```.I'm not 
+   quite familiar with that and need to do some reading up on that. 
+ 
 ## I also submitted a talk
 
 - I don't know if I'll get in, but it's on Denotational Semantics, which I'm learning about,
