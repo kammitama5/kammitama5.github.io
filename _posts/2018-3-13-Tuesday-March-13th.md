@@ -44,7 +44,7 @@
  
  ## And the updated output
  
- <img src="/images/fortrans/f_004.png" width="400">
+ <img src="/images/fortrans/f_004.png" width="300">
  
  - Look at the difference! I still have to figure out what he speaks about
    with respect to unit number and ```use iso_fortran_env, only```.I'm not 
