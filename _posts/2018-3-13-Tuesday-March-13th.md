@@ -79,6 +79,8 @@ had to use allocatable to avoid a seg fault crash/ running out of memory.
   
 ## Random
 
+- I *love* this post! I just discovered this guy; Jay McCarthy. In it, he discusses [writing the Collatz Conjecture in LaTeX!](http://jeapostrophe.github.io/2012-06-05-word-cou-post.html)
+
 - Someone recruited me for a Clojure job today. lol. I don't...write...Clojure. 
   I seem to get the weird ones...Clojure, Scala, Mathematica, Haskell, Julia, PureScript...those 
   are all things I've either been recruited for/ interviewed for, which is funny. Oh, and I got recruited for a robotics gig
