@@ -29,7 +29,7 @@
   - use list-directed input, where it will see exit reading upon seeing '/'.
     Use this with a sentinel value 
   - use allocatable and deferred bounds
-  - use an internal sub-routine
+  - use an internal sub-routine make the arrays automatic instead of allocatable
   
 - He also showed me a short-cut to finding the min and max value by creating 
   an anonymous temporary variable with a size equal to the number of values
