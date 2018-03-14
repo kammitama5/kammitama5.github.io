@@ -39,7 +39,7 @@
     
 ## Performance
 
-- I found [this thread](https://software.intel.com/en-us/forums/intel-fortran-compiler-for-linux-and-mac-os-x/topic/268080) on allocatable arrays, which was also really interesting. Granted, this array isn't huge, but for larger arrays, I may have 
+- I found [this Intel thread](https://software.intel.com/en-us/forums/intel-fortran-compiler-for-linux-and-mac-os-x/topic/268080) on allocatable arrays, which was also really interesting. Granted, this array isn't huge, but for larger arrays, I may have 
 had to use allocatable to avoid a seg fault crash/ running out of memory.
   
 
