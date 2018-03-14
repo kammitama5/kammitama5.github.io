@@ -39,8 +39,8 @@
     
 ## Performance
 
-- Allocation in loops (in my original code this would have been the case) can have significant memory issues.
-  [This](https://stackoverflow.com/questions/35901756/performance-loss-using-allocatable-arrays) is a particularly great answer that talks about performance loss in allocatable arrays.
+- I found [this thread](https://software.intel.com/en-us/forums/intel-fortran-compiler-for-linux-and-mac-os-x/topic/268080) on allocatable arrays, which was also really interesting. Granted, this array isn't huge, but for larger arrays, I may have 
+had to use allocatable to avoid a seg fault crash/ running out of memory.
   
 
  ## So this is what the updated result looks like
