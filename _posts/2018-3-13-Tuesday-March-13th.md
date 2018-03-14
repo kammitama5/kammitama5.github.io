@@ -43,13 +43,13 @@
 had to use allocatable to avoid a seg fault crash/ running out of memory.
   
 
- ## So this is what the updated result looks like
+## So this is what the updated result looks like
  
  <img src="/images/fortrans/f_003.png" width="500">
  
  - A lot less repetitive
  
- ## And the updated output
+## And the updated output
  
  <img src="/images/fortrans/f_004.png" width="300">
  
