@@ -38,7 +38,7 @@
   
  ## So this is what the updated result looks like
  
- <img src="/images/fortrans/f_003.png" width="500">
+ <img src="/images/fortrans/f_003.png" width="300">
  
  - A lot less repetitive
  
