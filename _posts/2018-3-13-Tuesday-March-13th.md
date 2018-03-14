@@ -31,12 +31,18 @@
   - use allocatable and deferred bounds
   - use an internal sub-routine make the arrays automatic instead of allocatable. Here is a [SO answer](https://stackoverflow.com/questions/31433121/difference-between-local-allocatable-and-automatic-arrays) that talks about memory
     differences between automatic and allocatable.
-  
+    
 - He also showed me a short-cut to finding the min and max value by creating 
   an anonymous temporary variable with a size equal to the number of values
   greater than the sentinel, and then finding the minimum value. This array
   does not optimize performance.
+    
+## Performance
+
+- Allocation in loops (in my original code this would have been the case) can have significant memory issues.
+  [This](https://stackoverflow.com/questions/35901756/performance-loss-using-allocatable-arrays) is a particularly great answer that talks about performance loss in allocatable arrays.
   
+
  ## So this is what the updated result looks like
  
  <img src="/images/fortrans/f_003.png" width="500">
