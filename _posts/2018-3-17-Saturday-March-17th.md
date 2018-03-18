@@ -46,7 +46,7 @@
  
  ```
  N fr ymj kfymjw tk rtijws umdxnhx.
- N fr rtxy pstbs ktw ymj ymjtwd tk wj qfyn nanyd.
+ N fr rtxy pstbs ktw ymj ymjtwd tk wjqfynanyd.
  Bmt fr N?
  ```
  
