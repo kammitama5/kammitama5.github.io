@@ -10,7 +10,7 @@
 ## But firstly...
 - Yesterday I found out that Women Who Code had chosen me as a winner to receive Cloud training for a year! :D
 
-<img src="/images/maker18/m_006.png" width="600">
+<img src="/images/maker18/m_006.png" width="800">
 
 - Pretty darn cool! I spent my time yesterday in-between learning COBOL for class and learning some intro to cloud stuff.
   I know a bit of the Google Cloud stuff already. I don't know as much AWS or Azure, so this is a great opportunity.
