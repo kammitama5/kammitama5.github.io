@@ -36,7 +36,7 @@
   I was not sure how long I'd be in the country. So this is sort of a big deal for me. To have this tablet..the first
   real thing like this I've had. It feels good. Everyone says I'm really lucky :D
   
- ## Puzzles
+## Puzzles
  
  - We had a series of puzzles to solve. A group of four of us was the first to solve them, in the Escape Space room!
  
@@ -73,7 +73,7 @@
    we high-fived and ran to the Alien, who gave us a stamp and an extra raffle ticket for figuring
    out the final clue! :D
    
- ## Lectures
+## Lectures
  
  - I went to a Mars Rover one by my professor. He is working on the Mars 2020 rover. 
  
@@ -86,7 +86,7 @@
  - He asked "Anyone know how the Rover is powered?" and I said "radio-isotopes" and he said "that's right!"
    and my friend almost had a heart attack in shock that I knew this LOL. Those JPL lectures paid off haha.
    
- ## I made a lot of friends!
+## I made a lot of friends!
  
  <img src="/images/maker18/m_003.png" width="500">
  
@@ -96,7 +96,7 @@
    his wedding, and the menu would be In-N-Out. We asked about the vegetarians, and he said
    they weren't invited. I couldn't stop laughing. Ingenious!
    
- ## Lockheed came by!
+## Lockheed came by!
  
  - Engineers from JPL and Lockheed were there.
  
@@ -108,14 +108,14 @@
  
  <img src="/images/maker18/m_005.png" width="500">
  
- ## My school is opening (well, did yesterday) a Maker Space!
+## My school is opening (well, did yesterday) a Maker Space!
  
  - Yes, it's true, and it's exciting! I want to rope in some of my other friends
    to come maybe give a workshop there or something. It's really exciting
    
- ## All in all
+## All in all
  
  - A great day! :D
  - Tonight, I do some more Cloud stuff, and some Haskell! :D
  
- ## And..that's it!
+## And..that's it!
