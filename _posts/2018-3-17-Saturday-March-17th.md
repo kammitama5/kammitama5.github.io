@@ -11,7 +11,7 @@
 
 - Yesterday I found out that Women Who Code had chosen me as a winner to receive Cloud training for a year! :D
 
-## *****Winner Announcement***
+## *****Winner Announcement*****
 
 <img src="/images/maker18/m_006.png" width="800">
 
