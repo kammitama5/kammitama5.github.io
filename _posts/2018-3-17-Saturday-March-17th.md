@@ -8,7 +8,10 @@
 ## It ended up being so much more!
 
 ## But firstly...
+
 - Yesterday I found out that Women Who Code had chosen me as a winner to receive Cloud training for a year! :D
+
+## *****Winner Announcement***
 
 <img src="/images/maker18/m_006.png" width="800">
 
