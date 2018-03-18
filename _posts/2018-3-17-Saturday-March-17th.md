@@ -26,7 +26,7 @@
   This ended up being in my favour, because apparently the timing was *perfect* for the raffle ticket I got today,
   which won me my first tablet!
 
-<img src="/images/maker18/m_002.png" width="600">
+<img src="/images/maker18/m_002.png" width="500">
 
 - Having suffered through the green card process for so long, I don't have much. I have a flip-phone, and have tried
   to keep my life as simple as possible (I do have five computers tho, and lots of books, but not much else), because
@@ -74,7 +74,7 @@
  
  - I went to a Mars Rover one by my professor. He is working on the Mars 2020 rover. 
  
- <img src="/images/maker18/m_001.png" width="600">
+ <img src="/images/maker18/m_001.png" width="500">
  
  - He pointed out new parts of the Rover that weren't in MSL. New cameras, how the parachute worked,
    pointed out the thrusters and three places currently that are in the running for the landing of
@@ -85,7 +85,7 @@
    
  ## I made a lot of friends!
  
- <img src="/images/maker18/m_003.png" width="600">
+ <img src="/images/maker18/m_003.png" width="500">
  
  - I made a friend and we took a photo in a photo-booth together! He's a Computer Science major, too!
  
@@ -97,13 +97,13 @@
  
  - Engineers from JPL and Lockheed were there.
  
- <img src="/images/maker18/m_004.png" width="600">
+ <img src="/images/maker18/m_004.png" width="500">
  
  - A friend of mine is interning there this summer! She's working on Ballistic Missiles!
  
  - Oh, and they gave out stickers and other swag!
  
- <img src="/images/maker18/m_005.png" width="600">
+ <img src="/images/maker18/m_005.png" width="500">
  
  ## My school is opening (well, did yesterday) a Maker Space!
  
