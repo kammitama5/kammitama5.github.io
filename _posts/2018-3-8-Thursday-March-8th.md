@@ -47,6 +47,6 @@
 - Really, really thorough. It was about at least four hours. I got great insight into PL Research and what I would need 
   to strengthen my application. Specifically, I've been advised to just apply to a PhD Program. 
 - It helped a *lot* in strengthening my application and I have four pages of notes of insights I got that were really, 
-  really valuable. I can't thank this particular computer scientist enough. It really meants a lot.
+  really valuable. I can't thank this particular computer scientist enough. It really meant a lot.
 
 ## That's about it!
