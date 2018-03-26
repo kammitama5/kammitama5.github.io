@@ -3,7 +3,7 @@
 ## Yeah...so I've been busy
 - Specifically, just doing applications and other such stuff. 
   In between, I managed to watch two Haskell Streams (one was on a game with textures and stuff and
-  the other involved Tic-Tac-Toe). So that was pretty fun. Specifically, I was able to ask
+  the other involved Tic-Tac-Toe). So that was pretty fun. Today, I was able to ask
   the streamer questions about how he learned, what was the biggest hurdle, etc. 
 - Oh yeah, and I bought a book on making web apps in Haskell, to complement the other book I'm reading
   which is actually teaching me Haskell. 
