@@ -10,8 +10,13 @@
   that you'd expect, with the board, the player, playerTurn, WinLoseDraw, etc.
 - Oh yeah, and I bought a book on making web apps in Haskell, to complement the other book I'm reading
   which is actually teaching me Haskell. 
-- Also..I gave a short (2 minute) talk on Haskell! It was my first tech talk! I had a lot of fun, but
+- Also..I gave a short (2 minute) [talk](https://docs.google.com/presentation/d/18VJ5whSbnJ4kKdyqpLV9FBUC91RRtKRnEna0fV--wUE/edit) on Haskell! It was my first tech talk! I had a lot of fun, but
   I had to leave early because I had to get up at 4:30am to head to my dock for race training.
+  - that was interesting because there were things you learn from speaking.
+  - for example, the mic was standing, so it was difficult to move around
+  - also, my text was initially too small, so I had to make larger text for the screen format
+  - I also had a strict 2 minute time-limit. So only one or two ideas max were able to be presented.
+  - everyone should try a tech-talk at some point! Great experience and it really makes you feel like a part of the community!
   
 ## Thursday
 - I met up with my mentor and we had a blast. Two of my friends from school came along, and we had
