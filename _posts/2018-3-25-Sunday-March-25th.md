@@ -36,7 +36,7 @@
   
 ## So what did you learn?
 - How to haul @$$ and beat people. I was on the winning boat, and we smoked them! :D
-  This (above) was our boat. It's 50' long.
+  This (below) was our boat. It's 50' long.
 
 <img src="/images/winnerracetrain.png" width="500">
 
