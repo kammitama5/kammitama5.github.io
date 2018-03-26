@@ -5,6 +5,9 @@
   In between, I managed to watch two Haskell Streams (one was on a game with textures and stuff and
   the other involved Tic-Tac-Toe). So that was pretty fun. Today, I was able to ask
   the streamer questions about how he learned, what was the biggest hurdle, etc. 
+  It was actually very readable, since I've done Tic-Tac-Toe in Python and C++ before. 
+  Some things are a little bit interesting, though. But it's pretty much broken up in a similar way
+  that you'd expect, with the board, the player, playerTurn, WinLoseDraw, etc.
 - Oh yeah, and I bought a book on making web apps in Haskell, to complement the other book I'm reading
   which is actually teaching me Haskell. 
 - Also..I gave a short (2 minute) talk on Haskell! It was my first tech talk! I had a lot of fun, but
