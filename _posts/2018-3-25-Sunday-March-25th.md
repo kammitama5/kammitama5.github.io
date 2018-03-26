@@ -11,6 +11,9 @@
 - I like this particular streamer because he streams regularly, engages everyone and has a very gracious disposition.
   He is very grateful for viewership, and it's fun when he ports us to another channel afterwards. You feel like a real
   part of the Twitch programming community.
+- I liked another streamer also (who doesn't stream as frequently anymore) because he really understood the point
+  of streaming programming in the Haskell community; to help us and provide an avenue on Twitch for people interested
+  in Haskell programming. I learned a lot through those streams and still revisit the videos occasionally.
 - Oh yeah, and I bought a book on making web apps in Haskell, to complement the other book I'm reading
   which is actually teaching me Haskell. 
 - Also..I gave a short (2 minute) [talk](https://docs.google.com/presentation/d/18VJ5whSbnJ4kKdyqpLV9FBUC91RRtKRnEna0fV--wUE/edit) on Haskell! It was my first tech talk! I had a lot of fun, but
