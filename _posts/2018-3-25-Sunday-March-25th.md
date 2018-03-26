@@ -25,15 +25,17 @@
   
 ## So what did you learn?
 - How to haul @$$ and beat people. I was on the winning boat, and we smoked them! :D
+  This (above) was our boat. It's 50' long.
 
 <img src="/images/winnerracetrain.png" width="500">
 
 - We even got yelled at by another racer who wasn't racing because he got in *our* way
   and we yelled "Starboard" at him and he got all upset. Racing is *famous* for A-Types.
-  It's pretty competitive and a lot of fun.
+  It's pretty competitive and a lot of fun, and I even met a programmer!
   
  ## This week
  - I have this recruitment event on Tuesday, another on Thursday. Mon and Wed are class.
+   Oh yeah, I think we are moving on to writing Ada. I did *not* enjoy COBOL. At all.
  - I have to start contacting the persons I promised to contact for my research for a project.
    That starts this week.
  - I have to finish up another application (just recommendations) for a possible Fall research
