@@ -28,7 +28,7 @@
   had a lot of fun, and my mentor was very happy to entertain them and tell them details about missions.
   
 ## A new Yacht Club
-- It was at a club I hadn't been to before. It's a really nice club, and I met some people I had 
+- My race training was at a club I hadn't been to before. It's a really nice club, and I met some people I had 
   sailed with before.
 - The event was for people who wanted to get into this year's race season or just learn and train
   on racing. Subsequently, I signed up for two more such events (one Intro, one Advanced) at my
