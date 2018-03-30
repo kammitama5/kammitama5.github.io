@@ -7,8 +7,12 @@
   and implementation of programming langauges and compiler design!
 - It's also in Philadelphia, a city I've never visited! :D
 
-## A little Haskell
+## And...A little Haskell
 - A brief post about this, since it was a little annoying.
+- Over the next week, I'm working through [LYAH](http://learnyouahaskell.com/chapters) (I did it last year, but it's surprising how much it looked
+  like Greek back then compared to now!) and then continuing with [Haskellbook](http://haskellbook.com/).
+- In between, I'll be making simple things like Text games that can be run on the command line and stuff like that in Haskell.
+- Oh, I also got [Snoyman's Yesod book](https://www.amazon.com/Developing-Web-Applications-Haskell-Yesod/dp/1449316972), so I may post some of my work on that as well. 
 
 ## I was Haskelling along...
 - When suddenly...
