@@ -33,7 +33,7 @@
 
 <img src="/images/Mods_Hask/m_003.png" width="200">
 
-- Like so
+- Like so. ```Data.Map``` is part of a module called "containers", so we'll need to add *that* to our cabal build file.
 
 <img src="/images/Mods_Hask/m_001.png" width="200">
 
@@ -43,11 +43,11 @@
 
 - Then ```stack ghci```
 
-<img src="/images/Mods_Hask/m_005.png" width="500">
+<img src="/images/Mods_Hask/m_005.png" width="300">
 
 - Then...look at that...looks like it's Chocolate Lambdas again! :D
 
-<img src="/images/Mods_Hask/m_006.png" width="500">
+<img src="/images/Mods_Hask/m_006.png" width="300">
 
 ## I've actually discovered
 - I'm happiest working with FP languages, particularly with Haskell. 
