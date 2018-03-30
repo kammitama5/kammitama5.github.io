@@ -52,6 +52,10 @@
 ## I've actually discovered
 - I'm happiest working with FP languages, particularly with Haskell. 
   When I'm stuck, I'm willing to spend the time to figure things out. It's challenging but fun!
+- Oh, you can laugh at me all you like, this *is* using Stack on Windows :D
+- I have another machine at home that has Stack and Cabal on Linux, but this one has a nice big screen
+  and it works, so...
+- Also, yeah, that *is* notepad++. It's a stripped-down version of learning Haskell, which I'm OK with doing.
   
 ## And so...
 - I have some stuff in the works, but I'll roll them out as I find out more.
