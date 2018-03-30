@@ -26,7 +26,7 @@
 ## Ohh....
 - I have to change the cabal file (note my project's name is "my-haskell")
 
-<img src="/images/Mods_Hask/m_003.png" width="500">
+<img src="/images/Mods_Hask/m_003.png" width="200">
 
 - Like so
 
