@@ -61,7 +61,7 @@
 - And I plan on attending both BayHac and LambdaConf, of course :D
 
 ## Things of Note
-- [Hackage](https://hackage.haskell.org/package/containers-0.5.11.0/docs/Data-Map-Strict.html), [Hoogle](https://www.haskell.org/hoogle/?hoogle=nub) and [HaskellWiki](https://wiki.haskell.org/Haskell) really helped, as did SO.
+- [Hackage](https://hackage.haskell.org/package/containers-0.5.11.0/docs/Data-Map-Strict.html), [Hoogle](https://www.haskell.org/hoogle/?hoogle=nub) and [HaskellWiki](https://wiki.haskell.org/Haskell) really helped, as did [SO](https://stackoverflow.com/questions/tagged/haskell).
 
 ## And that's about it!
 
