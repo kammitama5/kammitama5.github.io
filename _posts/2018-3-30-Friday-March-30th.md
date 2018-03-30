@@ -43,11 +43,11 @@
 
 - Then ```stack ghci```
 
-<img src="/images/Mods_Hask/m_005.png" width="200">
+<img src="/images/Mods_Hask/m_005.png" width="300">
 
 - Then...look at that...looks like it's Chocolate Lambdas again! :D
 
-<img src="/images/Mods_Hask/m_006.png" width="400">
+<img src="/images/Mods_Hask/m_006.png" width="300">
 
 ## I've actually discovered
 - I'm happiest working with FP languages, particularly with Haskell. 
