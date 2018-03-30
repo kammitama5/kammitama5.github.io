@@ -13,7 +13,7 @@
 ## I was Haskelling along...
 - When suddenly...
 
-<img src="/images/Mods_Hask/m_002.png" width="500">
+<img src="/images/Mods_Hask/m_002.png" width="600">
 
 ## DUN DUN DUN!!!!!
 
