@@ -30,11 +30,11 @@
 
 - Like so
 
-<img src="/images/Mods_Hask/m_001.png" width="500">
+<img src="/images/Mods_Hask/m_001.png" width="200">
 
 - Then ```stack build```
 
-<img src="/images/Mods_Hask/m_004.png" width="500">
+<img src="/images/Mods_Hask/m_004.png" width="400">
 
 - Then ```stack ghci```
 
