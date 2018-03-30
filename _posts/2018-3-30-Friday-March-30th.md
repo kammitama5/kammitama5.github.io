@@ -43,7 +43,7 @@
 
 - Then ```stack ghci```
 
-<img src="/images/Mods_Hask/m_005.png" width="400">
+<img src="/images/Mods_Hask/m_005.png" width="200">
 
 - Then...look at that...looks like it's Chocolate Lambdas again! :D
 
