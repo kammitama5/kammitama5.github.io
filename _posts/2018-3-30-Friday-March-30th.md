@@ -12,6 +12,7 @@
 - Over the next week, I'm working through [LYAH](http://learnyouahaskell.com/chapters) (I did it last year, but it's surprising how much it looked
   like Greek back then compared to now!) and then continuing with [Haskellbook](http://haskellbook.com/).
 - In between, I'll be making simple things like Text games that can be run on the command line and stuff like that in Haskell.
+- The goal is to work on buildable stuff in Haskell, and eventually work my way up to larger and larger code-bases in Haskell.
 - Oh, I also got [Snoyman's Yesod book](https://www.amazon.com/Developing-Web-Applications-Haskell-Yesod/dp/1449316972), so I may post some of my work on that as well. 
 
 ## I was Haskelling along...
@@ -47,6 +48,22 @@
 - Then...look at that...looks like it's Chocolate Lambdas again! :D
 
 <img src="/images/Mods_Hask/m_006.png" width="500">
+
+## I've actually discovered
+- I'm happiest working with FP languages, particularly with Haskell. 
+  When I'm stuck, I'm willing to spend the time to figure things out. It's challenging but fun!
+  
+## And so...
+- I have some stuff in the works, but I'll roll them out as I find out more.
+- I'm spending my entire weekend doing Haskell. Next Saturday I have race training, but otherwise it's all Haskell 
+  and preparing for my GRE. 
+- Oh, there's the [LA PureScript meetup!](https://www.meetup.com/LA-PureScript/events/249209149/) I'm going to that on the 10th!
+- And I plan on attending both BayHac and LambdaConf, of course :D
+
+## Things of Note
+- [Hackage](https://hackage.haskell.org/package/containers-0.5.11.0/docs/Data-Map-Strict.html), [Hoogle](https://www.haskell.org/hoogle/?hoogle=nub) and [HaskellWiki](https://wiki.haskell.org/Haskell) really helped, as did SO.
+
+## And that's about it!
 
 
 
