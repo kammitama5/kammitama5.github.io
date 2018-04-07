@@ -73,7 +73,9 @@ let myReverse x = reverse x
 - Find out whether a list is a palindrome
 
 ```
-let isPalindrome x = if x `compare` reverse x == EQ then True else False
+let isPalindrome x = 
+if x `compare` reverse x 
+== EQ then True else False
 ```
 
 - I haven't looked at the official answers or anything, but these have worked for me thus far
