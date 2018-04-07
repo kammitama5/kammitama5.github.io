@@ -86,8 +86,13 @@ let isPalindrome x = if x `compare` reverse x == EQ then True else False
 ## Upcoming
 
 - I'm doing sailing tomorrow, but have some stuff to do in the morning before then.
-  I'm also working on some research with a professor.
+  I'm also working on some research with a professor at UPenn, and waiting to hear back from a couple summer internships 
+  and some other stuff. In between, job search, which I'm not as enthusiastic about, because my focus is on my application
+  for my PhD, but I tried to line up the search with opportunities that correlate to what I'd like to do. Some of it is really
+  funny. It's actually been fun looking for jobs. Like burst-out-loud funny. It feels great not being panicked about my visa
+  and all that.
   
 ## So...that's about it
+
 - A fair amount of uncertainty, but it's all good.
   
