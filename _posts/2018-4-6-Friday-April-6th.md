@@ -26,7 +26,7 @@
   
 ## And now I'm back in school
 - I'm good for a few months, and I'm still going to BayHac (I had already planned for that) and IO (that had been taken care of already).
-  I'm also good on bills for the month, so I'm pretty much in school all day using their computers to do Haskell and applying for jobs.
+  I'm also good on bills for the month (and I'm still mentoring and doing some other stuff, so there are other smaller bits of income also coming in), so I'm pretty much in school all day using their computers to do Haskell and applying for jobs.
   They also have food, too. 'Murica. :D
   After ten years of working straight, with only exactly thirteen days without a job (and various degrees of visa pressure and uncertainty), it feels nice to not have that pressure on me as much. Honestly, I'd be happy just working part-time and having my
   bills paid, and doing Haskell. But that's just how I feel for now. Maybe in a week that will change. Right now, it's kind of liberating to have my green card and be out of a not so favourable situation.
