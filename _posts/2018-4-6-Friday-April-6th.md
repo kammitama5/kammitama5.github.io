@@ -27,11 +27,14 @@
 ## And now I'm back in school
 - I'm good for a few months, and I'm still going to BayHac (I had already planned for that) and IO (that had been taken care of already).
   I'm also good on bills for the month, so I'm pretty much in school all day using their computers to do Haskell and applying for jobs.
+  They also have food, too. 'Murica. :D
   After ten years of working straight, with only exactly thirteen days without a job (and various degrees of visa pressure and uncertainty), it feels nice to not have that pressure on me as much. Honestly, I'd be happy just working part-time and having my
-  bills paid, and doing Haskell. But that's just how I feel for now.
+  bills paid, and doing Haskell. But that's just how I feel for now. Maybe in a week that will change. Right now, it's kind of liberating to have my green card and be out of a not so favourable situation.
   
 - I noticed early on that I should get out of my place, so that I'm surrounded by working people. So being at school works.
-  I'm also planning on sitting a Maths exam next week, so I'll studying for that on Sunday, too.
+  It's a good way to stay productive.
+  I'm also planning on sitting a Maths exam next week, so I'll studying for that on Sunday, too. The lady at one of the offices
+  gave me a pamphlet to study from, also.
   
 - Today I installed Stack on yet another lab machine (that will be wiped out when I leave lol) and am on Monoids. I also worked through the first six problems on ```99 Problems``` in Haskell.
 
