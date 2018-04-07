@@ -7,7 +7,7 @@
 ## So...
 
 - I was laid off from my full-time gig on Wednesday, and honestly, it's been one of the best things that has happened to me. Finally, it's over.
-  I felt so relieved, and my parents were cheering for me. I won't go into details, but I'm on embarking on a long journey with a
+  I felt so relieved, and my parents were cheering for me. I won't go into details, but I'm now embarking on a long journey with a
   bright future, with an uncertain path. I really need to change that song that's playing in the background right now...Axwell ```^```
   Ingrosso's "Dreamer". So appropriate that it's making me tear up. I just want to say that I'm so happy I'm officially over with
   that part of my life. My dad says it's the Cosmic Universe telling me it's time to move on and pursue my future, what I came here to
