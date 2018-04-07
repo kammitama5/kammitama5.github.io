@@ -6,7 +6,7 @@
 
 ## So...
 
-- I was laid off from my part time gig on Wednesday, and honestly, it's been one of the best things that has happened to me.
+- I was laid off from my full-time gig on Wednesday, and honestly, it's been one of the best things that has happened to me. Finally, it's over.
   I felt so relieved, and my parents were cheering for me. I won't go into details, but I'm on embarking on a long journey with a
   bright future, with an uncertain path. I really need to change that song that's playing in the background right now...Axwell ```^```
   Ingrosso's "Dreamer". So appropriate that it's making me tear up. I just want to say that I'm so happy I'm officially over with
@@ -96,5 +96,5 @@ if x `compare` reverse x
   
 ## So...that's about it
 
-- A fair amount of uncertainty, but it's all good.
+- A fair amount of uncertainty, but it's all good. My dad says "you thrive in adversity". And so I have.
   
