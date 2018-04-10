@@ -10,10 +10,13 @@
 ## But seriously
 - Today I came in to the School library at 8am (I actually got in at 7 and slept for an hour, because they open at 8), and this guy asked me how long I was going to be there because he was briefly stepping away, and I said "until 5pm". He was in shock. But yup. Time just
 goes by learning Haskell. I can't even explain it! It's like chatting with a good friend...who yells at you and curses at you for making mistakes! :D
+- Last Friday, I came in at 8 and left at 7...time just flew by. And so, I ended up coming back on Saturday and working on Haskell, too.
+- I hope I can get good at Haskell one day, but meanwhile, I'm **really** enjoying the journey. 
 
 ## Oh
 - I've heard back from a few companies, so I'm doing some coding tests. 
-- Yes, I've gotten some rejections, too, but I don't focus on that. 
+- Yes, I've gotten some rejections, too, but I don't focus on that. It's an experience and I keep learning.
+- I've also gotten better at reaching out for help. I used to be sort of afraid before. But it's really, really worth it. I've learned a lot.
 - This has given me so much hope that I *can* become a developer! That's **so** cool! :D
 - Maybe...just maybe...I can write Haskell for a living and for food, too! (and not for **dog** food) :D
 - Haskell all day, errr day! :D
