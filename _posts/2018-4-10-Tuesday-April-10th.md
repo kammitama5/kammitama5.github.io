@@ -20,6 +20,7 @@ goes by learning Haskell. I can't even explain it! It's like chatting with a goo
 - Yes, I've gotten some rejections, too, but I don't focus on that. It's an experience and I keep learning.
 - I've also gotten better at reaching out for help. I used to be sort of afraid before. But it's really, really worth it. I've learned a lot.
 - This has given me so much hope that I *can* become a developer! That's **so** cool! :D
+- Cool because it was never something I really *thought* about. I just tried writing code and I *love* it. Kinda neat.
 - Maybe...just maybe...I can write Haskell for a living and for food, too! (and not for **dog** food) :D
 - Haskell all day, errr day! :D
 
