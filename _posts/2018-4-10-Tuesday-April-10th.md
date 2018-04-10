@@ -12,6 +12,8 @@
 goes by learning Haskell. I can't even explain it! It's like chatting with a good friend...who yells at you and curses at you for making mistakes! :D
 - Last Friday, I came in at 8 and left at 7...time just flew by. And so, I ended up coming back on Saturday and working on Haskell, too.
 - I hope I can get good at Haskell one day, but meanwhile, I'm **really** enjoying the journey. 
+- I think week after next, I have Spring Break, so I'll have to find another place for that week, if the campus is closed. Probably
+  a library or something, or a cafe. Somewhere that is quiet but has people doing stuff (*cough I guess not LA then *)
 
 ## Oh
 - I've heard back from a few companies, so I'm doing some coding tests. 
