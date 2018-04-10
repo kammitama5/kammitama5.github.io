@@ -3,7 +3,7 @@
 ## I'm really sorry
 - But **this** is the best title! This is exactly how I feel!
 - I'm having the **time** of my life just writing and learning Haskell all day. 
-- If I could do this for the rest of my life, I'd be pretty happy (*Haskell cue sugar daddy*)(just kidding!)
+- If I could do this for the rest of my life, I'd be pretty happy (*cue Haskell sugar daddy*)(just kidding!)
 - I LOVE THIS!!!!!! I'm seriously HAPPY every day and excited to come to the lab and just code for 8 or 9 hours straight, with my
   headphones on, and a flask of tea that lasts me all day. I also started packing a sandwich, which works when my stomach starts grumbling  for a morsel of bread.
 
