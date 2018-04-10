@@ -16,7 +16,7 @@ goes by learning Haskell. I can't even explain it! It's like chatting with a goo
   a library or something, or a cafe. Somewhere that is quiet but has people doing stuff (*cough I guess not LA then HAHA*)
 
 ## Oh
-- I've heard back from a few companies, so I'm doing some coding tests. 
+- I've heard back from a few companies, so I'm doing some coding tests and technical screening calls. 
 - Yes, I've gotten some rejections, too, but I don't focus on that. It's an experience and I keep learning.
 - I've also gotten better at reaching out for help. I used to be sort of afraid before. But it's really, really worth it. I've learned a lot.
 - This has given me so much hope that I *can* become a developer! That's **so** cool! :D
