@@ -122,3 +122,41 @@ write
 -> String
 -> ExceptT FsError m Unit
 ```
+
+- extend with new functionality without breaking old code
+- solution: use Polymorphic Variant
+- record is a structural type
+- Exceptions using variant
+
+```
+type HTTPError r=
+(
+type HTTPServerError :: String
+| r
+)
+r -> fill in w/ extension of shape
+```
+
+- ```inj``` lifts/ associates value with row
+- to work together, must use ```+r <- open row```
+
+- advantage: inference
+- how handle exceptions
+- once row is handled, eliminate type
+- how: rows of handlers to list
+- Union -> LHS + RHS to infer output
+
+```
+Except V excIn m a
+Except V excOut m a (infer output)
+```
+- Exhaustive handle
+- ```r``` becomes closed row of nothing
+
+- repo: [purescript-checked-exceptions](https://github.com/natefaubion/purescript-checked-exceptions)
+
+## Okey doke
+- I'm going to read that paper and get some clarity on Phil's idea. I'd like to understand the Tags in Nate's idea a bit more.
+- Back to Haskell.
+
+## And..that's it.
