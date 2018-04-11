@@ -61,5 +61,64 @@ displayName : "Counter"
 }
 
 _ _ _ are three arguments that correspond to props, state, set state
+```
 
+```
+component::ReactComponent{}
+R.dir{children: [createElement
+ToggleButton
+component
+{on:true}
+```
+- T.Honeyman
+- Designing Flexible Open-Source Components in Halogen
+- UI components inflexible because they handle rendering.
+- their corresponding repo is purescript-halogen-select (see [here](https://github.com/citizennet/purescript-halogen-select))
 
+```
+let action = onClick $ action $ Select.Raise
+true -> [action class_ "highlighted"]
+false -> [action]
+```
+- functioning component you can add to depending on your needs
+- SetProps functions are event Handlers in Halogen
+- Handle output messages ```a ~> case message of```
+    - Emit
+    - Searched Search
+    - Selected Item
+- Conclusion: We should design more components without render functions
+- Advantages:
+    - Small, simple APIs
+    - Complete Design Freedom
+    - Flexible & Extensible Functionality
+    - new structure can be made in parent component and passed to child
+- Disadvantages:
+    - the user has to write their own rendering code
+    - the library must impose some structure (even if minimal) eg. ```select``` still has to have an item to be selected
+    - this ability may not be good for larger amounts of complexity (outputs that return other outputs, etc)
+    - the library author does not know the structure of the user's HTML
+- Central idea; focus on behaviors, not renderers
+- Inspiration (one of): [Downshift by Paypal](https://github.com/paypal/downshift).
+
+- Extensible Checked Exceptions with Polymorphic Variants (Nate)
+- Just a heads up, it takes me a while to process Nate's talks, so I'm just going to write my notes down for this.
+- Re-read in a few years, see if it's clearer then. Guy has a *deep* knowledge of some concepts that I can't currently
+  grasp
+
+```
+get 
+:: forall m
+. MonadHTTP m
+=> String
+=> Except HTTPError m String
+```
+- string or raiseError
+
+```
+write
+:: forall m
+. MonadFs m
+=> Path
+-> String
+-> ExceptT FsError m Unit
+```
