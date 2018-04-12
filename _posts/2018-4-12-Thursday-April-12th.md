@@ -63,3 +63,4 @@ data Band = Singer
 
 ## Helped me
 - [SO](https://stackoverflow.com/questions/8749675/haskell-non-exhaustive-patterns-in-function)
+- This is also a [great, comprehensive guide on how to get started](https://stackoverflow.com/questions/1012573/getting-started-with-haskell?rq=1)
