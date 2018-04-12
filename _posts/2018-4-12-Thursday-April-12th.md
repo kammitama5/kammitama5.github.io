@@ -61,3 +61,5 @@ data Band = Singer
 
 - Trying to understand typeclasses and all that. Hopefully I can start actually building more stuff, and I can blog about that.
 
+## Helped me
+- [SO](https://stackoverflow.com/questions/8749675/haskell-non-exhaustive-patterns-in-function)
