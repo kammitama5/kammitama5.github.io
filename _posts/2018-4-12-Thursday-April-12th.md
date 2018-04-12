@@ -15,7 +15,7 @@
   
 ## So this sort of thing
 
-<img src="/images/haskdatathings/h_006.png" width="500">
+<img src="/images/haskdatathings/h_006.png" width="300">
 
 - You account for all cases of your definition
 
@@ -41,7 +41,7 @@ data Band = Singer
 - Oh wait....it *is* non-exhaustive. 
 - So I added a fail-safe.
 
-<img src="/images/haskdatathings/h_003.png" width="500">
+<img src="/images/haskdatathings/h_003.png" width="300">
 
 - Groovy. Compile, man.
 - Oh no..not again? Today is just *not* my day, is it?
@@ -54,7 +54,7 @@ data Band = Singer
 
 - And..somehow..it all worked out!
 
-<img src="/images/haskdatathings/h_001.png" width="500">
+<img src="/images/haskdatathings/h_001.png" width="300">
 
 ## So...working through
 
