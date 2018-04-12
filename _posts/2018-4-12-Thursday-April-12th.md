@@ -55,7 +55,7 @@ data Band = Singer
 
 - And..somehow..it all worked out!
 
-<img src="/images/haskdatathings/h_001.png" width="300">
+<img src="/images/haskdatathings/h_001.png" width="400">
 
 ## So...working through
 
