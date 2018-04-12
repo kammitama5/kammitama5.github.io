@@ -4,6 +4,7 @@
 - I got in at 7, so I was able to take a nap, and ended up waking up 2 minutes before they opened up (at 8) :D
 - I have a phone interview today, also, in the PM.
 - I'm going to a Technical Interview Meetup today. I haven't been to this Meetup before, but thought it may be worth a shot.
+  I heard they go through Algorithms and stuff, and it's language-agnostic (did someone say..Haskell?) :D
 - My friend also has a space with some extra desks, so I may wander over there next week. I don't want to be spoiled, though; 
   he told me he has some amazing wifi :D
   
