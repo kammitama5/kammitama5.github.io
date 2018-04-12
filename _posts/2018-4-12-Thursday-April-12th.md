@@ -51,7 +51,7 @@ data Band = Singer
 
 - Yeah, had to be Joey. He's always the one. I can fix that.
 
-<img src="/images/haskdatathings/h_005.png" width="500">
+<img src="/images/haskdatathings/h_005.png" width="300">
 
 - And..somehow..it all worked out!
 
