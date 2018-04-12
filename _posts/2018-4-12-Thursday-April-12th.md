@@ -16,7 +16,7 @@
   
 ## So this sort of thing
 
-<img src="/images/haskdatathings/h_006.png" width="300">
+<img src="/images/haskdatathings/h_006.png" width="250">
 
 - You account for all cases of your definition
 
