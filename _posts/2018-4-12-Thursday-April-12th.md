@@ -36,7 +36,7 @@ data Band = Singer
 - Aerosmith was one of my favourite (and still is) bands growing up. So why not be cute?
 - So I tried to compile and got this
 
-<img src="/images/haskdatathings/h_002.png" width="500">
+<img src="/images/haskdatathings/h_002.png" width="400">
 
 - Dangit! What's the problem? Why don't you just work!?
 - Oh wait....it *is* non-exhaustive. 
