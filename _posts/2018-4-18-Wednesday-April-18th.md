@@ -8,7 +8,8 @@
 - My requests were "No Java" and "No JavaScript". And so naturally, my partner was a Java Programmer :D
 - So, we settled on trying Rust. We got through a couple of the [excercism problems](https://github.com/exercism/rust).
 - At the end, we had a retrospective, and I thought it interesting that my partner for the exercise immediately commented
-  that I had "a lot more patience than he did", even though he was a seasoned programmer.
+  that I had "a lot more patience than he did", even though he was a seasoned programmer. He's been programming for several years
+  professionally. I have not.
   
 ## On the way home
 - My friend who ran the Meetup and myself were talking; he's a good friend.
