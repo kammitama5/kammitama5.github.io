@@ -19,7 +19,7 @@
 - I thought that sometime throughout the semester, something mentally shifted for me. Don't get me wrong; I still have a *lot* to
   learn. But I've become more patient. Something about doing a different obscure language every two weeks *and* learning Haskell,
   and reading through a 458 page paper on the [Implementation of Functional Programming languages](https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987-small.pdf)
-  I think (I hope) has made me better.
+  (in two days) I think (I hope) has made me better.
 - I think that that is the sort of thing I'm looking for if I get the chance to study a PhD one day. The opportunity to *think* and 
   *understand* what crafting quality software really is, and the opportunity to fail. 
 - With a lot of structured programmes, students aren't given the opportunity to fail and really accept failure. Everything is focused
