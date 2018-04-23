@@ -10,8 +10,10 @@
 
 ## What I'm most excited about
 
-- Having recently been laid off from a gig, I'm excited to just focus 100% on learning Haskell and working with Gabe and Chris,
-  my two mentors. 
+- Having recently been laid off from a gig to pay for school and where I live, I'm excited to just focus 100% on learning Haskell and working with Gabe and Chris,
+  my two mentors.
+- Having the whole money thing out of the equation is really satisfying. If I could just focus on coding, that would be ideal
+  (and it is now possible!). The stress off my back means I can just focus on coding and taking constructive criticism from my mentors.
 - I'm excited about continuing to learn Haskell. I really couldn't be happier!
 - Haskell all the things!
 - I'm excited to show the community something I've built in Haskell, with supportive mentors. That would be pretty sweet.
