@@ -5,7 +5,7 @@
 <img src="/images/GSoc_/g_001.png" width="500">
 
 - I got into Google Summer of Code! No way!
-- I was literally in the middle of a BigN online interview, and I think I was bombing hard haha.
+- I was literally in the middle of a BigN online coding interview, and I think I was bombing hard haha.
 - But like all things, I treat it as an opportunity to learn and get better.
 
 ## What I'm most excited about
