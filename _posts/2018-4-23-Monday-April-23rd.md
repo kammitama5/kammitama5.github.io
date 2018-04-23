@@ -25,11 +25,11 @@
   Data Structures in C++ and Haskell. I mean, in some ways similar, but C++ is not Haskell :/
 - Strangely, Haskell has made my problem-solving skills a lot better. It's the language I enjoy the most and the one
   I intend to stick with.
-- I can't believe I ALMOST DIDN'T APPLY. A dear friend of mine, who works in Haskell, asked me to do so. I didn't think
+- I can't believe I ALMOST DIDN'T APPLY. A dear friend of mine, Phil, who works in Haskell, asked me to do so. I didn't think
   I had the ability. But I have a real, continued desire to learn Haskell. I also have a real desire to be mentored
-  by my mentors; I think that I can learn a lot from them.
+  by my mentors; I think that I can learn a lot from them. That's actually what I hope to get out of this experience.
 - Haskell really changed my life for the better; I LOVE the community. My proposal had a bit of that; a bit of everything
-  that I learned and a bit of the community that means so much to me.
+  that I learned and a bit of the community that means so much to me. I'm surprised they liked it!
   
 ## Oh yeah...
 - BayHac is coming up. I'm excited about that, too. Both my mentors will be there. My friends will be there. And there'll
