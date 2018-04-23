@@ -2,7 +2,7 @@
 
 ## Today I was surprised with the craziest news ever...
 
-<img src="/images/GSoc_/g_001.png" width="250">
+<img src="/images/GSoc_/g_001.png" width="500">
 
 - I got into Google Summer of Code! No way!
 - I was literally in the middle of a BigN online interview, and I think I was bombing hard haha.
