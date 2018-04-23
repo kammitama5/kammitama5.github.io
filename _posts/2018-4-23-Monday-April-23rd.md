@@ -21,7 +21,8 @@
 
 ## I actually
 - I have an onsite on Thursday that's going to be in C++ halfway across the country, so I'm going to study for that right now. I'm going to do that
-  today and tomorrow, be done by Thurs, and get back into Haskell. 
+  today and tomorrow, be done by Thurs, and get back into Haskell full-time. Yesterday, I had to split my time into
+  Data Structures in C++ and Haskell. I mean, in some ways similar, but C++ is not Haskell :/
 - Strangely, Haskell has made my problem-solving skills a lot better. It's the language I enjoy the most and the one
   I intend to stick with.
 - I can't believe I ALMOST DIDN'T APPLY. A dear friend of mine, who works in Haskell, asked me to do so. I didn't think
