@@ -36,5 +36,7 @@
 ## Oh yeah...
 - BayHac is coming up. I'm excited about that, too. Both my mentors will be there. My friends will be there. And there'll
   be lots of Haskell, so I have nothing to complain about :D
+- Oh, and the FUNNIEST is that I'm wearing my BayHac tshirt today! Good news that is Haskell-related comes to those who wear
+  Haskell tshirts!
   
 ## And that's about it!
