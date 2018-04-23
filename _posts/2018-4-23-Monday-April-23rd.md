@@ -18,7 +18,7 @@
 - I'm really, really thankful for the opportunity!
 
 ## I actually
-- I have an onsite on Thursday that's going to be in C++, so I'm going to study for that right now. I'm going to do that
+- I have an onsite on Thursday that's going to be in C++ halfway across the country, so I'm going to study for that right now. I'm going to do that
   today and tomorrow, be done by Thurs, and get back into Haskell. 
 - Strangely, Haskell has made my problem-solving skills a lot better. It's the language I enjoy the most and the one
   I intend to stick with.
