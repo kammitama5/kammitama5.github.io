@@ -29,6 +29,7 @@
  He said "you should apply, even if you don't think you'll get in." Reluctantly, I did. I didn't think
   I had the ability. But I have a real, continued desire to learn Haskell. I also have a real desire to be mentored
   by my mentors; I think that I can learn a lot from them. That's actually what I hope to get out of this experience.
+  I had a dream that if I could find a way this summer to learn from these two great mentors, my summer would be amazing!
 - Haskell really changed my life for the better; I LOVE the community. My proposal had a bit of that; a bit of everything
   that I learned and a bit of the community that means so much to me. I'm surprised they liked it!
   
