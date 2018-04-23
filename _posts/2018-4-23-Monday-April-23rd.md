@@ -14,6 +14,8 @@
   my two mentors. 
 - I'm excited about continuing to learn Haskell. I really couldn't be happier!
 - Haskell all the things!
+- I'm excited to show the community something I've built in Haskell, with supportive mentors. That would be pretty sweet.
+- I'm really, really thankful for the opportunity!
 
 ## I actually
 - I have an onsite on Thursday that's going to be in C++, so I'm going to study for that right now. I'm going to do that
