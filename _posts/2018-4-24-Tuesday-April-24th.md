@@ -30,7 +30,7 @@
   as check-boxes. I'm cool with that!
 - Also, to have the process be as hands-on as possible. That's pretty awesome!
 - One great analogy that Chris made is that they're not my employers, so I shouldn't feel intimidated and they're happy
-  to help me with any questions. He also suggested (which was a great suggestion) that I play around with the actual project,
+  to help me with any questions. He said that often students adopt the mindset that mentors are employers, and they become intimidated, fail to ask questions and it isn't the best experience. He also suggested (which was a great suggestion) that I play around with the actual project,
   and see what works and make documentation on how difficult it was to do certain things, as I am at the perfect stage for that
   (ie learning Haskell), as the product is intended for persons learning Haskell. I'm going to do that over the next few days.
   
