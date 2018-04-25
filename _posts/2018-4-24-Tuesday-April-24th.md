@@ -44,6 +44,10 @@
 - Being stuck is not a bad thing. 
 - For larger code bases, I don't need to understand everything. This is something I definitely have to learn, because 
   I'm one of those rabbit-hole people. 
+- One thing that is really outstanding is that I legitimately *understand* what they were talking about with respect
+  to why the build wasn't working once they explained it. I've had experiences in the past where another person would say "just run x y and z".
+  I seriously *love* this; I can't even begin to imagine all the things I'm going to learn. I'm going to give this
+  opportunity 100%. This is like a dream.
   
 ## My plan
 - I'm going to try to build the code
