@@ -49,6 +49,8 @@
 - I mean, I *was* searching for "Applicative Functor", after all. Why would I want to do your challenges in Java or Python?
 - Plus, to re-iterate...they're potentially missing out on some 
 bright candidates.
+- Some of my friends would probably write an interpreter that ports to Java or Python, and write it in PureScript or Racket..
+  haha. I'd hire *those* people!
 
 ## But..what do I know..I'm just a student :D
 - /shrug/
