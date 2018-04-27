@@ -10,7 +10,7 @@
 - I already have a Foo.bar from before, so I used incognito
 <img src="/images/neathack/fun.png" width="500">
 
-## Type in Applicative Functor
+## Type in "Applicative Functor"
 - retrieve the first address for this Google search like shown below
 
 <img src="/images/neathack/fun1.png" width="700">
