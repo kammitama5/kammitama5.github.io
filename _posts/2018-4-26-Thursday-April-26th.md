@@ -35,6 +35,7 @@
 <img src="/images/neathack/fun4.png" width="700">
 
 ## YUP!
+- *facepalm*
 
 ## Why this sucks
 - We would like to be able to solve this in Haskell!
