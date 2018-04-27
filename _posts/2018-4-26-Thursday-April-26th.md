@@ -5,6 +5,7 @@
 
 ## This is for if you'd like to try their programming challenges
 - Basically, if you're a Haskellino and want to try [Foo.Bar](https://hackernoon.com/my-slightly-unconventional-path-to-a-google-internship-329a4633a0c0), Google's recruitment challenge, but you want to do it the Haskell way...
+- Yes, of *course* you want to do it the Haskell way!
 
 ## Open up a browser
 - I already have a Foo.bar from before, so I used incognito
