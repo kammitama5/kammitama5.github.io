@@ -42,4 +42,6 @@ bright candidates.
 - My room and board is being paid for (which includes meals)
 - I'm really excited!
 
+## And...BayHac is this weekend! 
+- That's all I have to say! I'm pretty excited about that, too! :D
 
