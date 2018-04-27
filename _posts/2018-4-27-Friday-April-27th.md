@@ -21,7 +21,7 @@
 
 <img src="/images/play_img/cla1.png" width="500">
 
-<img src="/images/play_img/cla2.png" width="500">
+<img src="/images/play_img/cla2.png" width="700">
 
 - And, I made a pull request which was accepted! Yeahhh!!! :D
 
