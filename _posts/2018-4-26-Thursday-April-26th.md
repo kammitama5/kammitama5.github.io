@@ -13,21 +13,21 @@
 ## Type in "Applicative Functor"
 - retrieve the first address for this Google search like shown below
 
-<img src="/images/neathack/fun1.png" width="700">
+<img src="/images/neathack/fun1.png" width="900">
 
 ## Copy and Paste that result into a new tab. 
 - Click the first link. If this doesn't work, repeat the copy and paste into a new tab
 
 ## Eventually, this comes up
-<img src="/images/neathack/fun2.png" width="500">
+<img src="/images/neathack/fun2.png" width="700">
 
 ## Click "I want to play"
 - See, it opens up the browser window with applicative functor search. Yay Haskell!
-<img src="/images/neathack/fun3.png" width="500">
+<img src="/images/neathack/fun3.png" width="700">
 
 ## You have to log in using a gmail account
 - Then, you can start to solve the questions in either Java or Python
-<img src="/images/neathack/fun4.png" width="500">
+<img src="/images/neathack/fun4.png" width="700">
 
 ## Why this sucks
 - We would like to be able to solve this in Haskell. 
