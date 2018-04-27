@@ -18,6 +18,7 @@
 
 ## I had to set up my CLA
 - Basically, for Google Open Source projects, you need to sign a license that says it's okay to use your contribution.
+  It also specifies if the contrib is being made by request of yourself (as an individual) or as a part of an entity (eg company).
 
 <img src="/images/play_img/cla1.png" width="500">
 
