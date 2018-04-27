@@ -1,6 +1,9 @@
 ## Neat Googs Foo.bar Haskell Hack and OPLSS!
 
-## Hi everyone!
+## First up..OPLSS!
+- Yes, I'm in! Officially going to OPLSS in July! :D
+
+## Anyways...
 - Thought since I'm a Haskellino and this happened to me about two years ago (when I searched for this specific Haskell term) and someone did a Java version, I'd do one for Haskell!
 
 ## This is for if you'd like to try their programming challenges
