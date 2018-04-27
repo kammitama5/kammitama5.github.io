@@ -26,6 +26,8 @@
 
 - And, I made a pull request which was accepted! Yeahhh!!! :D
 
+<img src="/images/play_img/bot.png" width="500">
+
 ## Bear with me...I probably won't do this ever again!
 
 - So this is pretty commemorative :D
@@ -35,7 +37,6 @@
 
 <img src="/images/play_img/cw_003.png" width="700">
 
-<img src="/images/play_img/bot.png" width="500">
 
 - and the code 
 
