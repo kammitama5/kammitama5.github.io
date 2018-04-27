@@ -1,7 +1,7 @@
 ## Neat Googs Foo.bar Haskell Hack and OPLSS!
 
 ## Hi everyone!
-- Thought since I'm a Haskellino and this happened to me about two years ago and someone did a Java version, I'd do one for Haskell!
+- Thought since I'm a Haskellino and this happened to me about two years ago (when I searched for this specific Haskell term) and someone did a Java version, I'd do one for Haskell!
 
 ## This is for if you'd like to try their programming challenges
 - Basically, if you're a Haskellino and want to try [Foo.Bar](https://hackernoon.com/my-slightly-unconventional-path-to-a-google-internship-329a4633a0c0), Google's recruitment challenge, but you want to do it the Haskell way...
