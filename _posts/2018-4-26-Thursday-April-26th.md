@@ -4,7 +4,7 @@
 - Thought since I'm a Haskellino and this happened to me about two years ago and someone did a Java version, I'd do one for Haskell!
 
 ## This is for if you'd like to try their programming challenges
-- Basically, if you're a Haskellino and want to try Foo.Bar, Google's recruitment challenge, but you want to do it the Haskell way...
+- Basically, if you're a Haskellino and want to try [Foo.Bar](https://hackernoon.com/my-slightly-unconventional-path-to-a-google-internship-329a4633a0c0), Google's recruitment challenge, but you want to do it the Haskell way...
 
 ## Open up a browser
 - I already have a Foo.bar from before, so I used incognito
@@ -46,6 +46,9 @@ bright candidates.
 
 ## But..what do I know..I'm just a student :D
 - /shrug/
+- to be clear, I *do* like the company and what they do, but I'm really just interested in Haskell at the moment. :D
+- so yeah...I probably won't be doing that anytime soon..besides *maybe* looking at the questions, when I'm good 
+  enough in Haskell, and using them to practice solving things in Haskell :D (so on my own and not timed).
 
 ## In other news...
 - I've been accepted for OPLSS!!
