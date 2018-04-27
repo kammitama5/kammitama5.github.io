@@ -10,11 +10,11 @@
 - Maybe they broke it on spite to take pity on my n00bness! :D
 - That's okay, too! 
 
-<img src="/images/play_img/b_001.png" width="1200">
+<img src="/images/play_img/b_001.png" width="1500">
 
 - It said a value was not in scope, and had a type of Number, so I put in a number in its place..and it worked :D
 
-<img src="/images/play_img/b_001a.png" width="1200">
+<img src="/images/play_img/b_001a.png" width="1500">
 
 ## I had to set up my CLA
 - Basically, for Google Open Source projects, you need to sign a license that says it's okay to use your contribution.
@@ -23,11 +23,11 @@
 
 ## Oh, here are some other fun things I made along the way learning today :D
 
-<img src="/images/play_img/cw_003.png" width="400">
+<img src="/images/play_img/cw_003.png" width="500">
 
 - and the code 
 
-<img src="/images/play_img/cw_003a.png" width="400">
+<img src="/images/play_img/cw_003a.png" width="500">
 
 ## And a mouse :D
 
