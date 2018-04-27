@@ -16,7 +16,7 @@
 <img src="/images/neathack/fun1.png" width="700">
 
 ## Copy and Paste that result into a new tab. 
-- Click the first link. If this doesn't work, repeat the copy and paste
+- Click the first link. If this doesn't work, repeat the copy and paste into a new tab
 
 ## Eventually, this comes up
 <img src="/images/neathack/fun2.png" width="500">
