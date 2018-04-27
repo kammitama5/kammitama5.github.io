@@ -13,7 +13,7 @@
 ## Type in Applicative Functor
 - retrieve the first address for this Google search like shown below
 
-<img src="/images/neathack/fun1.png" width="500">
+<img src="/images/neathack/fun1.png" width="700">
 
 ## Copy and Paste that result into a new tab. 
 - Click the first link. If this doesn't work, repeat the copy and paste
