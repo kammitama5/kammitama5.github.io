@@ -19,6 +19,10 @@
 ## I had to set up my CLA
 - Basically, for Google Open Source projects, you need to sign a license that says it's okay to use your contribution.
 
+<img src="/images/play_img/cla1.png" width="500">
+
+<img src="/images/play_img/cla2.png" width="500">
+
 - And, I made a pull request which was accepted! Yeahhh!!! :D
 
 ## Oh, here are some other fun things I made along the way learning today :D
