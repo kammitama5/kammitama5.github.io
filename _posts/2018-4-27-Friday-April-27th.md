@@ -26,9 +26,11 @@
 
 - And, I made a pull request which was accepted! Yeahhh!!! :D
 
+<img src="/images/play_img/cw_003.png" width="500">
+
 ## Oh, here are some other fun things I made along the way learning today :D
 
-<img src="/images/play_img/cw_003.png" width="500">
+<img src="/images/play_img/bot.png" width="500">
 
 - and the code 
 
