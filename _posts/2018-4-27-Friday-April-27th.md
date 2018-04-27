@@ -23,11 +23,11 @@
 
 ## Oh, here are some other fun things I made along the way learning today :D
 
-<img src="/images/play_img/cw_003.png" width="500">
+<img src="/images/play_img/cw_003.png" width="400">
 
 - and the code 
 
-<img src="/images/play_img/cw_003a.png" width="500">
+<img src="/images/play_img/cw_003a.png" width="400">
 
 ## And a mouse :D
 
