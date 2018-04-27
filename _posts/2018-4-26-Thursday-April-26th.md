@@ -41,7 +41,8 @@
 - We would like to be able to solve this in Haskell!
 - I mean, since some persons claim it isn't even used anymore for recruiting, why not add a few languages
   that tend to draw *bright* people who are *passionate about programming?*
-- OCaml, Racket, Haskell, Scala, Rust? 
+- OCaml, Racket, Haskell, Scala, Rust? I mean, it's problem-solving, right?
+- Plus, I can guarantee that if a person can solve them in these languages, you can *teach* them Java / Python
 - I mean, I *was* searching for "Applicative Functor", after all. Why would I want to do your challenges in Java or Python?
 - Plus, to re-iterate...they're potentially missing out on some 
 bright candidates.
