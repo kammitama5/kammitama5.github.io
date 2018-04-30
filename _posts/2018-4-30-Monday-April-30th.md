@@ -23,6 +23,8 @@
 
 ## We went out for drinks afterwards
 - Well, 17 of us went to find food, and we ate at a Taqueria, and then a few of us headed to an Irish pub.
+- It was pretty crazy, because there was a Giants vs Dodgers game, and 17 of us were also trying to 
+  find a place to eat together. Because we're Haskellinos and FP-ers..we can make it happen! :D (with folds and fmaps) lol.
 - We had a lot of fun. With Phil, it's always shenanigans :D
 
 <img src="/images/bayhac18/b_002.png" width="500">
