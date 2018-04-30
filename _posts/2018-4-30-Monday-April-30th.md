@@ -10,7 +10,7 @@
 - I continued to work on CodeWorld, and was able to make two small pull requests.
 - Gabe says the next step is to make more meaningfull pull requests, since I have gotten 
   into the hang of doing small ones. I'm excited! :D
-- On the last day, we had an opportunity (from 4 to 5) to talk about what we worked on, in a few seconds to a minute.
+- On the last day, we had an opportunity (from 4 to 5pm) to talk about what we worked on, in a few seconds to a minute.
 - It was really great because it was a really supportive environment where everyone was applauded for their contribution
   during the duration of the conference.
   
