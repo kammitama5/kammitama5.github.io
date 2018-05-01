@@ -11,7 +11,9 @@
     Rust conference of my choice. So that's really exciting! One of them is in Paris! :D
     I'm particularly excited about this because I'd like to continue contributing to Open Source,
     and the Rust community is great and complementary to the Haskell community (there is a *lot* of overlap).
-  - I've been invited to participate in my first PLMW workshop! This is great news, because it is an opportunity
+    I won't say this explicitly because I have no evidence, but I think that doing both will help me become
+    a better problem-solver and a better programmer.
+  - Secondly, I've been invited to participate in my first PLMW workshop! This is great news, because it is an opportunity
     to be meet with peers and be mentored by professionals in research. So I'm pretty psyched.
     
 ## I'm also booked for OPLSS
