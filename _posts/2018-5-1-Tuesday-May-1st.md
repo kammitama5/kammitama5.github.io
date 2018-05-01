@@ -20,7 +20,7 @@
     
 ## I'm also booked for OPLSS
 - I'm booked for OPLSS, so that's taken care of. I will have to book the flight later on, but that will be fine.
-  One thing a a time. Google Cal has me pretty organized, so I'm okay. It's strange how things are sort of falling 
+  One thing at a time. Google Cal has me pretty organized, so I'm okay. It's strange how things are sort of falling 
   into place, though. It's uncanny, considering I've butt my head against things in the past and had nothing to show
   for it. Since I've been following this path, things just really seem to make sense. It's weird but really satisfying.
 - In the meantime, I will be spending *all* of my time on Haskell. I have a pull request to work on all day
