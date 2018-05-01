@@ -14,11 +14,16 @@
     I won't say this explicitly because I have no evidence, but I think that doing both will help me become
     a better problem-solver and a better programmer. I really think doing Rust will help me with Haskell, too.
   - Secondly, I've been invited to participate in my first PLMW workshop! This is great news, because it is an opportunity
-    to be meet with peers and be mentored by professionals in research. So I'm pretty psyched.
+    to be meet with peers and be mentored by professionals in research. So I'm pretty psyched. PLMW is a mentorship workshop
+    for researchers in programming languages. This one is part of PLDI, which I'm attending in June (the programming languages
+    design and implementation conference).
     
 ## I'm also booked for OPLSS
-- I'm booked for OPLSS, so that's taken care of. I will have to book the flight later on, but that will be fine
-- In the meantime, I will be spending all of my time on Haskell. I have a pull request to work on tomorrow
+- I'm booked for OPLSS, so that's taken care of. I will have to book the flight later on, but that will be fine.
+  One thing a a time. Google Cal has me pretty organized, so I'm okay. It's strange how things are sort of falling 
+  into place, though. It's uncanny, considering I've butt my head against things in the past and had nothing to show
+  for it. Since I've been following this path, things just really seem to make sense. It's weird but really satisfying.
+- In the meantime, I will be spending *all* of my time on Haskell. I have a pull request to work on all day
   with regards to a build error, and then I want to also keep working through Haskell material.
   
 ## My general time
