@@ -2,7 +2,7 @@
 
 ## It's still April, but I'm writing this anyways!
 
-- I received two good pieces of information today
+- I received two surprises today:
   - I've been asked to be a part of this summer's "Increasing Rust's Reach" commitment to Open Source.
     This means I'll be working on a Rust project (specifically, CLI) that is open source. I will also
     have a mentor, whose name is Aaron. He lives in Dublin, so that's going to be interesting!
