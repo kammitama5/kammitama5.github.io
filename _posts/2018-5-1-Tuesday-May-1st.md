@@ -14,7 +14,7 @@
     I won't say this explicitly because I have no evidence, but I think that doing both will help me become
     a better problem-solver and a better programmer. I really think doing Rust will help me with Haskell, too.
   - Secondly, I've been invited to participate in my first PLMW workshop! This is great news, because it is an opportunity
-    to be meet with peers and be mentored by professionals in research. So I'm pretty psyched. PLMW is a mentorship workshop
+    to meet with peers and be mentored by professionals in research. So I'm pretty psyched. PLMW is a mentorship workshop
     for researchers in programming languages. This one is part of PLDI, which I'm attending in June (the programming languages
     design and implementation conference).
     
