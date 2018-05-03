@@ -17,7 +17,7 @@
   
 ## I also turned down another scholarship
 - Don't get me wrong; a year ago I would have been over the moon to accept it. But I came to the realization 
-  that it isn't what I want to focus one. And that's all right. I've gotten better at just saying "no", but
+  that it isn't what I want to focus on. And that's all right. I've gotten better at just saying "no", but
   it's still really tough for me. I'm one of those "Don't pass up on opportunity" people. Which is good in
   some ways because I make the most of things, but also really bad because I end up spreading myself too thin
   and burning out. So I'm getting better at this.
