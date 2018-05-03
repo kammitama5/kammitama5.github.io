@@ -8,7 +8,7 @@
 - I got into Racket School. All of a sudden, I was in a bit of panic; had I made the right choice?
   I spent the morning working through Haskell exercises (I'm now on Chapter 11) and asking persons if 
   I was making the right choice attending another camp.
-- Finally, I came to the realization that I should just ask my GSoC mentor. He gave me really good advice 
+- Finally, I came to the realization that I should just ask my GSoC mentor (who has a PhD). He gave me really good advice 
   and I subsequently ended up choosing Racket school instead. Another PhD mentor was also hoping that I'd 
   pick that camp as well, so he was profoundly happy.
 - Another friend of mine told me as much as he liked hanging out with me, that this was the time I had to
