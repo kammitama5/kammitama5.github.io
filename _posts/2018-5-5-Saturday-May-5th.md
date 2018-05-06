@@ -21,7 +21,9 @@
   Or immigrant, which is what I am. I sat next to a welder for part of my flight. I really enjoyed
   speaking with him. He was cool AF. I took two welding classes, and was seriously considering getting
   my license a few years ago (just as a skill-set), and my teacher was a dive-welder (and female, too...
-  she was *very much* a badarse). I just had a great experience. 
+  she was *very much* a badarse). I just had a great experience for the trip. 
+- Out here, I feel like I'm more of a projection of what other people would like me to be, and over there
+  I'm who I am. Well, not to be meta or anything, but I am...uh..myself. Last I checked, anyways.
 - I knocked out and got up around 10am. I don't think I've slept that 
   long in a while. It was a bit nice, but really weirded me out when I saw
   the time.
