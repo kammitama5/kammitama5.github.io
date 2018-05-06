@@ -47,6 +47,29 @@
   until the wee hours of the morning. 
 - The Rust community is pretty great. I've interacted with them before. No complaints.
 
+## Oh
+- People have been randomly contacting me to ask how they can get in to such and such programme.
+  I really don't know because everything's sort of a mix of the right opportunity happening, 
+  luck and timing. For RustReach, for example, I almost didn't apply. 
+- I saw it on a friend's timeline on Twitter (and I'm never actually logged in to Twitter for a 
+  long time, tbh; it would suck up too much of my time and I'm trying to just be a better dev). 
+  When I saw it, it was due on the day, and it was 6pm of that day, so I thought yikes, I guess 
+  if it has a 4:30pm deadline, I'm toast, but the form was still open, so I filled it out anyways. 
+- I think intention is worth a lot, too. I keep telling everyone to just work on stuff anyways.
+  Don't think too much about getting such and such opportunity. If you don't get into X or Y, 
+  contribute anyways. I had told Chris for GSoC that I was willing to work on contributions
+  even if I didn't get in. The long-term goal is more important than a summer programme.
+- I think that that's their intention, too. A lot of these programmes are geared towards trying
+  to get long-term contributors.
+- I have a lot of friends who have made libraries and not only work, but work on open source,
+  and I'm really inspired by them. They definitely don't do it for the notoriety or anything.
+  They just do it because they're part of the community and they want their community to be a 
+  good one, and for the tooling to be better. I think that that's a lot more noble and it inspires
+  people like myself who are new to be a part of those communities. They're more willing to help
+  people who genuinely want to be a long-term member of their community than someone who is just
+  going to try to use the opportunities in the community to promote their own career, etc.
+  That's all I have to say on that.
+
 ## Tomorrow
 - I'm working on CodeWorld, because today was also a bit of my day of rest (see the AM
   sleep-out). I was able to work out my schedule so that I spend around (on average)
