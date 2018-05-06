@@ -45,6 +45,9 @@
   I was able to complete that today, but I found the list of Rust's Compiler Errors
   [here](https://doc.rust-lang.org/error-index.html). So I'll be reading that 
   until the wee hours of the morning. 
+- It may also be a good idea to go through some of the generated errors and try to fix them,
+  to understand why they occur and how to familiarize myself with resolving them. Probably 
+  this week.
 - The Rust community is pretty great. I've interacted with them before. No complaints.
 
 ## Oh
