@@ -28,7 +28,7 @@
 - So yeah..that's interesting. However, it forces me to streamline the chatter in 
   my life, and just focus on work, which is good. So one thing at a time, and 
   I don't get distracted once I've sat down to work. 
-- Anyways, I met with Aaron, and he was quite wonderful. My task for this week
+- Anyways, I met with Aaron, my RustReach mentor, and he was quite wonderful. My task for this week
   is to go through the ```cargo book```.
   You can find it [here](https://doc.rust-lang.org/cargo/faq.html).
   I was able to complete that today, but I found the list of Rust's Compiler Errors
