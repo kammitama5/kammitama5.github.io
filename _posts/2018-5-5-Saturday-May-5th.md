@@ -16,6 +16,12 @@
   People actually laugh at my jokes over there; I've been told I have a very specific
   sense of humour. I've found that JPL-ers also like my jokes or get my sense of humour,
   which is nice. I've also been told that they too have a specific sense of humour (it's true!).
+- Where I was has very much a mindset of "pull yourself up from the bootstraps" in terms of mentality,
+  and making things. I *loved* that. It's very much what I think of when I think of ```American values```.
+  Or immigrant, which is what I am. I sat next to a welder for part of my flight. I really enjoyed
+  speaking with him. He was cool AF. I took two welding classes, and was seriously considering getting
+  my license a few years ago (just as a skill-set), and my teacher was a dive-welder (and female, too...
+  she was *very much* a badarse). I just had a great experience. 
 - I knocked out and got up around 10am. I don't think I've slept that 
   long in a while. It was a bit nice, but really weirded me out when I saw
   the time.
