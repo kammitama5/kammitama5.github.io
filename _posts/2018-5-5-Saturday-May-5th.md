@@ -80,7 +80,11 @@
   programmer. I really appreciated that after I signed up, one of the actual professors
   wrote us a personal email. Really nice touch. I'm particularly looking for sort 
   of interaction in a PhD programme. I don't do well at places with hundreds of people.
-  I get really burnt out. So I think my mentor guided me to make the best choice.
+  I get really burnt out. So I think my mentor (Gabe) guided me to make the best choice.
+  I really trust his judgment. He says he's from Texas (sorry Gabe lol..the world knows your secret now lol), and I really like that he's straight-up.
+  I think that that's more helpful to people starting out like myself, to instill good habits.
+  I'd prefer for someone to tell me "you really need to spend time on X" than to make me believe
+  I'm doing a great job bluffingly. That's how I grew up, anyways. We don't sugar-coat.
 
 ## This week
 - Is my last real week of sort of goofing off before my mentor can officially kill me.
