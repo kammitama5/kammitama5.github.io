@@ -3,7 +3,10 @@
 ## Finally back in LA
 
 - I got back into LA last night around 11pm. Got to sleep around 2am.
+- I watched ```the Disaster Artist``` on the plane. Totally good movie. I laughed out loud.
+  It's also pretty smart, and is very tongue-in-cheek, which I really liked. 
 - I had a really great time on my trip (which I can't speak much about..sorry).
+  All I can say is that I met some really smart people and saw a lot of Maths.
   It sort of cemented in my mind that I'm seriously considering the East Coast.
   I can't say I've really *fit* out here. It's a bit frustrating, and I've ended up
   shying away and just dealing with specific groups of people or none at all.
