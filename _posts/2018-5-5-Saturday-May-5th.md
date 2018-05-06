@@ -3,6 +3,16 @@
 ## Finally back in LA
 
 - I got back into LA last night around 11pm. Got to sleep around 2am.
+- I had a really great time on my trip (which I can't speak much about..sorry).
+  It sort of cemented in my mind that I'm seriously considering the East Coast.
+  I can't say I've really *fit* out here. It's a bit frustrating, and I've ended up
+  shying away and just dealing with specific groups of people or none at all.
+  That wasn't my experience when I was briefly on the other coast. I liked the people
+  there a lot. I think we have a lot more in common, and I like the pace and work ethic
+  over there. I like their straight up demeanor, because that's pretty much how I am.
+  People actually laugh at my jokes over there; I've been told I have a very specific
+  sense of humour. I've found that JPL-ers also like my jokes or get my sense of humour,
+  which is nice. I've also been told that they too have a specific sense of humour (it's true!).
 - I knocked out and got up around 10am. I don't think I've slept that 
   long in a while. It was a bit nice, but really weirded me out when I saw
   the time.
