@@ -22,7 +22,8 @@
   was saturated. So within 20 
   minutes, I ended up finding a nearby Peet's and settled down there. Much better wifi and the video call with my GSoC
   mentor was fine.
-- In fact, it was great
+- In fact, it was great. We got a lot done even though one of my other mentors was unable to make it. Both of my mentors are
+  incredibly patient, supportive, and just great people, so I'm really happy and excited to be working with them this summer!
 
 ## Things we got done
 - We were able to fix a ```-Werror``` in ```CollaborationUI.hs``` that was aborting the build, and also get a clean install after 
