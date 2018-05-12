@@ -17,7 +17,9 @@
   
 ## I then found a coffee shop
 - So during the workshop, we figured out that this particular coffee shop on Castro had "great wifi", so I settled down
-  around 6pm and started testing out the video chat for my 7pm meeting. Except, the wifi kept dropping. So within 20 
+  around 6pm and started testing out the video chat for my 7pm meeting. Except, the wifi kept dropping. As it turns out, 
+  everyone in Silicon Valley had gotten the memo about the place "having great wifi", so the place was packed and the wifi
+  was saturated. So within 20 
   minutes, I ended up finding a nearby Peet's and settled down there. Much better wifi and the video call with my GSoC
   mentor was fine.
 - In fact, it was great
