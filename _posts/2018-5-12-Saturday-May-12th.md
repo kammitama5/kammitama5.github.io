@@ -35,3 +35,12 @@
   
 ## And that's about it!
 - Nap time! :D
+
+## Update
+- I had a great meeting with my Rust Mentor! I'm going through the 2nd Edition of the Rust book this week, and my first official
+  meeting starts on Monday, which is the welcome Meeting with my mentors and with Ashley :D
+- I also sat in on the PureScript Online Gathering, and I saw this fascinating example with Leibniz and Coyonedas and typechecking
+  of errors in PureScript for Elm.
+- Oh, my GSoC mentors told me to take today off. So I sent my mom a Mothers' day card and am going to Jazz with my mentor from JPL
+  to listen to the Caltech jazz play :D
+- Oh yeah..that's about it...for real this time.
