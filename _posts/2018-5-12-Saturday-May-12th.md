@@ -8,6 +8,9 @@
 ## Yesterday was amazing!
 - I was one of 90 women chosen for Ng Girls, which is the workshop in the spirit of Django Girls, where we have mentors
   and work through learning Angular via a tutorial together. 
+- This event was actually held at the Angular HQ at Google, and I got to meet the Angular team. One of the guys had a 
+  "memento mori" tshirt, and was really surprised when I asked him about it. Yup, that Northern Renaissance Art History class counted
+  for something after all LOL. That stuff is really interesting and I really like multi-dimensional people.
 - I met some really amazing and supportive women. I was amazed that they saw me as really resourceful, and one of the senior
   engineers / mentors said that I was already doing really well, and to continue. I left feeling really energized. 
   I hope to continue to stay in touch with these ladies; they were a pleasure to interact with and work with yesterday.
