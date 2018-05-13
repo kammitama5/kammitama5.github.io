@@ -31,3 +31,6 @@
 ## Lovely Ladies from Women Techmakers!
 
 <img src="/images/io18_/iopic.png" width="500">
+
+- Update: The day after IO, I apparently had *so* much fun that I broke out in hives.
+  It was *worth it* :D
