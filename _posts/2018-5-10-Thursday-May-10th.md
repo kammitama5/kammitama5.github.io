@@ -27,3 +27,7 @@
 <img src="/images/io18_/4.png" width="500">
 
 <img src="/images/io18_/5.png" width="500">
+
+## Lovely Ladies from Women Techmakers!
+
+<img src="/images/io18_/iopic.png" width="500">
