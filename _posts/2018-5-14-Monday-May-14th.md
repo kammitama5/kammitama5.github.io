@@ -21,3 +21,5 @@
 - I'm pretty happy to say that I have a lot of time to dedicate to GSoC and Rust. So after Monday, I'm pretty much
   just working on my projects. 
   
+## Cheers!
+  
