@@ -8,7 +8,7 @@
   Pretty funny. He was working on some Codewars challenges (one particular one involving wallpaper) at the time.
   
 ## In a few hours
-- I have a welcome call with the mentors and organizers of Rust Reach. 5am, to be precise. I have to definitely set my 
+- I have a welcome call with the mentors and organizers of Rust Reach. 5am, to be precise. I haven't decided yet if I'll take a brief nap or just work through until the call yet. But if I do take a nap, I have to definitely set my 
   alarm to be up for that! I'm excited, though. Should be fun!
 - I also have to go to an office for an afternoon interview, and unfortunately, with traffic, that means I'll have to miss class today.
   My professor was nice enough (at midnight) to tell me the files I need to look at to be able to do the assignment.
