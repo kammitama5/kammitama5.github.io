@@ -16,6 +16,11 @@
 - After that, I have a GSoC meeting with my mentor (the other mentor is unable to make this particular meeting), 
   and right after that, I have another meeting with a different group for Rust. So quite a busy day!
 - It looks like I should be able to make my meetings, though. So I should be OK. 
+
+## Update
+- Our first guest for RustReach was BOATS!!! So exciting! I also attended the second session, and our guest was Arshia!
+  She's currently in NY, and Boats was in Barcelona. I also got to see Lee on camera. I had no idea he worked as a cartoonist
+  before he got into tech. Neat! Ashley is really great and works really hard so that we have a great experience. I really respect that.
   
 ## However
 - I'm pretty happy to say that I have a lot of time to dedicate to GSoC and Rust. So after Monday, I'm pretty much
