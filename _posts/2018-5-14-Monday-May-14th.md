@@ -2,7 +2,7 @@
 
 ## It's just after midnight (Sun/Monday AM)
 - I'm building my project for GSoC. I really like these hours; I took a nap in the afternoon, after watching 
-  puffnfresh's stream: he got the flowers to work and collision to work, even though there is a bug when 
+  [puffnfresh](https://github.com/puffnfresh/sonic2)'s stream: he got the flowers to work and collision to work, even though there is a bug when 
   Sonic is moving downwards, in that he seems to move up and then down. However, so far, so good.
   We were also ported to a Haskell station today, where the streamer immediately said "nooo! Don't raid me!".
   Pretty funny. He was working on some Codewars challenges (one particular one involving wallpaper) at the time.
