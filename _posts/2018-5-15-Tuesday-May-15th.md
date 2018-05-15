@@ -4,6 +4,7 @@
 - It's Day two of Google Summer of Code and RustReach. I'm at home today, so I started around 9am and was able to get 
   some code pushed up and a pull request in and get the code merged. I feel really great and am excited to get the next 
   project to work on. 
+- It looks like I'll be splitting a constructor into two parts. I got it to work, but will probably submit that later this evening.
 - In the middle of that, I'm also working through the Rust book. I'm currently on Chapter 2, and headed towards Chapter 3.
   So far, so good. I'm probably going to try a little Rust project this week.
 - I have to find some time to work on my Ada project. The good thing about being at home is that I don't spend time commuting.
