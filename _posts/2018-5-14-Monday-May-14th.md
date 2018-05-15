@@ -49,7 +49,9 @@ testing and checking equipment, and even scanning slides for professors. Oh, and
 also check other students' resumes and help them apply for internships. That was sort of my life. 
 I've never had time to watch a movie or anything like that (I still don't own a television),
   because I was just (and still am) working all the time. That's sort of been my life in the US. Finally, it's beginning to pay off.
-  But it's been just a lot of work, so I'm proud of my work ethic. 
+  But it's been just a lot of work, so I'm proud of my work ethic. An artist friend of mine who has been successful once said that 
+  he was the worst in his class, but he told himself "Maybe I'm not the most talented, but I can work the hardest." I really relate
+  to that. To me, work presents opportunity when the timing is right. 
   
 ## GSoC
 - I had a great session with Gabe and Chris today, also. They are just stellar mentors; I hope I have the pleasure of having their 
