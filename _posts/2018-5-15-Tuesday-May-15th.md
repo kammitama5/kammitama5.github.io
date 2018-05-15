@@ -5,6 +5,8 @@
   some code pushed up and a pull request in and get the code merged. I feel really great and am excited to get the next 
   project to work on. 
 - It looks like I'll be splitting a constructor into two parts. I got it to work, but will probably submit that later this evening.
+  I'm still not super-comfortable with ```git```, so I tend to triple-check *everything*. I'm paranoid about git, even though in the back
+  of my head I know everything is changeable.
 - In the middle of that, I'm also working through the Rust book. I'm currently on Chapter 2, and headed towards Chapter 3.
   So far, so good. I'm probably going to try a little Rust project this week.
 - I have to find some time to work on my Ada project. The good thing about being at home is that I don't spend time commuting.
