@@ -5,7 +5,7 @@
 - I'm officially listed as a contributor! How cool is that!? *slow clap*
 
 ## I'm also stuck
-- I'm stuck on this one resolution of types that I'm going to work on tomorrow during the day. If I can't get it to work,
+- I'm stuck on this one resolution of types that I'm going to work on tomorrow during the day. I got the original new constructor to type-check, but I now have to remove a parameter and get that to type-check for both this and the other constructor. I have two errors to resolve that I just can't get right. If I can't get it to work,
   I guess I'm going to have to walk into that meeting tomorrow at 7pm and get some help. Either way, it shall be conquered!
   *insert arbitrary Trogdor dance*. So reminded me of a few years ago, when I was playing Trogdor and my dad asked me what 
   I was doing, and I calmly replied "setting peasants and their cottages afire" and he said with great interest and sarcasm "Oh..wonderful!" LOL.
