@@ -23,6 +23,9 @@
 - It probably means I won't have a life at all; so basically, I put in my hours about 4 days a week part-time, go to class (which 
   thankfully ends by mid-June), and all the rest of my time is for GSoC and RustReach. No weekend outings or anything like that for me.
   
+## Cool Mentorship Advice
+- Gabe sent this to me today. It's a reminder to [integrate my changes early and frequently](http://programmer.97things.oreilly.com/wiki/index.php/Integrate_Early_and_Often). I need a header of this somewhere in my apartment.
+  
 ## Juno lecture
 - I'm going to a Juno Lecture today with my mentor and his brother.
 - I had also declined two scholarships, and the two organizations were nice enough for one to give it to me anyways (so I 
