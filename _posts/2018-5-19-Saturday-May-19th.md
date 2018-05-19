@@ -8,10 +8,10 @@
   with flexible hours, and the people seem really nice. 
 - My house-sitting friend got back to me, and I can get the keys from him in the early afternoon Monday, 
   as well as my stuff over, and then get to class. I don't have to be in until Tuesday PM, so it all works.
-  Wednesday is a bit tricky, but I can have it all done. 
+  Wednesday is a bit tricky, but I can have it all done. And I have a dog again! :D
   
 ## I also had a RustReach meeting!
-- Had another meeting with my mentor. He's going to the Paris Rust conference! I still haven't pencilled 
+- Had another meeting with my mentor, Aaron. He's going to the Paris Rust conference! I still haven't pencilled 
   any of the Rust conferences in; my goal right now is to just keep learning and get comfortable in Haskell and Rust.
   I'm on chapter 6 of the book, and he gave me some posts to read on the ```builder pattern```, as well as some 
   general [formatting](https://doc.rust-lang.org/stable/std/fmt/index.html) and clean code tips.
