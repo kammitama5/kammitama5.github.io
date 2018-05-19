@@ -24,6 +24,7 @@
 - I also had one more commitment over the weekend which I think I'm just going to drop because I'm going to need that time 
   now for GSoC. So basically, my evenings and early mornings during the week will be GSoC and RustReach, as well as all of Fridays 
   and all of the weekends. That would put me a bit over the required amount of time I should be putting in, with breathing room.
+  That's ideally what I'd like.
 - I also have one other payment thing that is stressing me out; specifically a refund that is being delayed that is getting in 
   the way of my paying my rent early. I'll be fine, considering I will now be working part-time, so that is taken care of,
   but I'm one of those pay rent early types, so thinking about it makes me roll my eyes.
