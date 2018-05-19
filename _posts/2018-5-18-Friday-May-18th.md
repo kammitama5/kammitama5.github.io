@@ -33,6 +33,7 @@
 - I'm really excited to start my new gig. It's my first foray into the tech industry, and I'll be working with a team. Plus, it will
   supplement my GSoC and RustReach experiences. These are 100 percent my focus right now. It's all I need and I'm really excited.
   I'm also excited to get one of those RFID badges with my photo on it. :D
+- Things are coming together for me, even though yeah..life is a hustle right now. The hustle is real!
 
 ## That's about it for now
   
