@@ -18,7 +18,7 @@
   I have literally four more weeks left, but I feel like dropping out because it's just being stretched out with meaningless BS.
   The guy is literally reading from power point slides and using questions you can find the answers to on the Internet.
   Sometimes I think these people live in a world where time is not a precious commodity; for me, it always has been. I schedule *everything*, and I never have any time for tv or anything. Just work and sleep and it's time I could be working.
-- I've always had to work and go to school, and when you do both, it's a juggling act. There isn't fun time or fun for drinks 
+- I've always had to work and go to school in the US, and when you do both, it's a juggling act. There isn't fun time or fun for drinks 
   or whatever, because there is productive time, and then there's other time. Plus, I take the bus and train, so my schedule is constrained. When people start to dick with your productive time, it can be infuriating, because it's precious.
   Wow, this is starting to sound like I'm an extra in the movie "The Pursuit of Happyness" LOL.
 - I also had one more commitment over the weekend which I think I'm just going to drop because I'm going to need that time 
