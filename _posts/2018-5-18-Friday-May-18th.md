@@ -26,8 +26,8 @@
   and all of the weekends. That would put me a bit over the required amount of time I should be putting in, with breathing room.
   That's ideally what I'd like.
 - I also have one other payment thing that is stressing me out; specifically a refund that is being delayed that is getting in 
-  the way of my paying my rent early. I'll be fine, considering I will now be working part-time, so that is taken care of,
-  but I'm one of those pay rent early types, so thinking about it makes me roll my eyes.
+  the way of my paying my rent early, and it's academia related, too. I'll be fine, considering I will now be working part-time, so that is taken care of,
+  but I'm one of those pay rent early types, so thinking about it makes me roll my eyes because I live in a world with one foot in academia and the other trying to make it in the working world. 
   
 ## On the other hand 
 - I'm really excited to start my new gig. It's my first foray into the tech industry, and I'll be working with a team. Plus, it will
