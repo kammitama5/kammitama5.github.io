@@ -6,6 +6,9 @@
   a Bool value. I wonder if there's a way to print out or trace directly specific values? I really
   felt like I was floundering and there was a lot of disbelief in my ability to complete the task
   by myself. 
+- *update* I turned out to be a ```precedence problem``` so I was able to use ```(0 :: Double)``` to get it to work.
+   I would have never figured that one out on my own. Thanks to Chris on that one! So the code is now refactored and merged,
+   and hopefully I'll be working on something new Monday AM.
 - I was able to also able to move on to Rust Chapter 6. It's gotten steeper in terms of the learning curve.
   It's like everything has gotten steeper.
 - I also have one assignment to complete for class, due on the 23rd. It's silly, but I should do it. Again,
