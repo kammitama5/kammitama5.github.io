@@ -64,3 +64,12 @@
   my two laptops and clothes for work on Tuesday, so..yeah..organization. 
 - It would be nice sometime to just have normal-time to myself. Kind of like "what did you do this weekend?" 
   "Oh nothing..just go out drinking with friends." Comfortable life, you know? Maybe one day. 
+- update: I'm really enjoying learning Haskell and Rust. Even though I'm sleep deprived (actually, just got up
+  after crashing, fixed some errors, got my PR merged), I really couldn't imagine a better summer. 
+- Gabe is really teaching me some great engineering practices, and Chris is also picky about the final commit and 
+  formatting to his code; it's consistent and has a good quality/ practices. I really, really appreciate this. 
+  It looks like it can get easy (especially in less-readable, less cleaner languages) to get really sloppy, really quickly.
+  I want to avoid that, so this is really good. I like that Gabe emphasized committing early and often. That has really 
+  helped me in terms of clarity of my direction and in feedback my mentors can give me. I'm not committing a bunch of code
+  that no one has seen, but taking it bit by bit as things work and not making assumptions. Seems like a smart thing I've been
+  introduced to do. Lends itself to better team communication, and also shows the rest of the team you're working.
