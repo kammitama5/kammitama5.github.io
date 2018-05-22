@@ -1,9 +1,10 @@
 ## GSoC and RustReach Day 8
 
 ## It's almost midnight
-- I just made an initial pull-request for the Arc and ThickArc constructor for my GSoC project.
-- I'm hoping I get to work a bit early so I can work on it. I really enjoy working on Haskell at all hours of the morning.
+- I just made an initial pull-request for the Arc and ThickArc constructor for my GSoC project. PR was approved and merged into codebase :D
+- I'm hoping I get to work a bit early so I can work on more. I really enjoy working on Haskell at all hours of the morning.
   That [Stack Overflow survey](https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/) is correct! 
+- My next task is to split up Text and StyledText into two separate constructors.
 - I don't know if anyone will ever pay me for it, but I'm really starting to enjoy the whole type-checking thing..even when 
   I'm wrong, frustrated and think the compiler is lying to me.
 
@@ -13,7 +14,7 @@
 
 ## So this week, I hope to be working on:
 - For GSoC:
-  - The Arc and ThickArc constructors
+  - The Arc and ThickArc constructors (DONE)
   - The Circle, SolidCircle and ThickCircle constructors
   - Text and StyledText constructors
   - Blank constructor
