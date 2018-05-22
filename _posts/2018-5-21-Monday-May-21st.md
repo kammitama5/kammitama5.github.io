@@ -47,7 +47,7 @@
 ## A great tip
 - Chris and Gabe also identified that if something isn't making sense and I'm trying to trouble-shoot, feel free to put a parenthesis
   around the expression. It helps not just with parsing but with my understanding. Great. My code is going to look like Lisp, guys!
-  That's actually great, considering I'm taking Summer Racket School! :D
+  That's actually great, considering I'm taking [Summer Racket School](https://summer-school.racket-lang.org/2018/)! :D
   
 ## I'm pretty tired
 - And I get up in a few hours...so that's it!
