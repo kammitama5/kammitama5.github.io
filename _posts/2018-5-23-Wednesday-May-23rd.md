@@ -92,6 +92,8 @@
 - I'm going to finish Constructors for GSoC. The text Constructor(s) type-checked, so I hope I can move on to the Blank one
   tomorrow, the Rectangle one tomorrow night (or Friday), and the Circle ones over the weekend, to be all completed in time
   for our next Monday meeting.
+- Oh, and I have a blog post to do for Medium. It will more formal than this stuff, which is sort of just me talking to myself, into
+  DSN (deep space network) :D
 - Oh, and I'll have a new laptop with Linux installed and I can share my screen with my mentors, which will move things a lot 
   faster!
   
