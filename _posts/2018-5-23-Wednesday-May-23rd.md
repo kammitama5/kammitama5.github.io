@@ -67,7 +67,7 @@
   $20 laptop and use the same command line as someone with a $2000 Mac. In some other fields (like art; if anyone has used oils or 
   copic markers; I was that kid trying to stretch the tube out as much as possible!), having cash matters. You can still make things in
   tech even if you don't have the funding. I really like that; it's liberating.
-- It's part of why I'd never hesitate to help somoene who has an interest if I could. Maybe that's why my circle has grown, and
+- It's part of why I'd never hesitate to help someone who has an interest if I could. Maybe that's why my circle has grown, and
   I've met so many people. I know what it's like so to be in a group with a desire to do something, and be lacking..something. Not 
   the best tools, or something..resources. When I was learning hand-drafting, no one wanted to show me where to get a long list of drafting supplies,
   besides my mentor (who was a professional designer in NYC and taught at NYU grad school), and this one oddball kid who was nice 
