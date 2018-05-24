@@ -44,7 +44,7 @@
   welding, machining, robotics and then programming), and I felt so alienated from the students initially because 
   no one wanted to talk to me, so I'd sit up front. I was an anomaly and the teacher immediately took a liking to me, because
   he was a bit of one, also. They'd mostly speak in Korean and ignore me. I made friends with the receptionist, and she taught 
-  me some Korean (specifically how to say "potato chips" LOL). Eventually, they warmed up to me, but ever term I expected 
+  me some Korean (specifically how to say "potato chips" LOL). Eventually, they warmed up to me, but every term I expected 
   that no one would speak to me.
 - I felt so alone that I would hang out at this restaurant (now defunct) and the cooks and the head waiter and the
   owner took a liking to me. So the people in my class wouldn't speak to me and I didn't want to hang out with them, and I would 
@@ -54,25 +54,31 @@
   making friends with other students LOL. I remember one particular time I had 
   *no money*, so I got some rice, and some read beans, and made that for lunch. But it was terrible, and I couldn't stomach
   so many days of eating that in a row and was about to sink into self-pity, and the owner of the restaurant ran into me and said "are you going to stop by? We owe
-  you a meal!" They took really good care of me before it was bought.
+  you a meal!" They took really good care of me before it changed owners.
 - One day, I was having a five course meal, and drinking a bunch of red wine before class with the chefs, and watching football.
-  My teacher came downstairs and looked at me with this feast in front of me and laughed and said "you're going to be drunk in my
+  My teacher came downstairs and looked at me with this feast in front of me (he came in for a $7 tuna sandwich) and laughed and said "you're going to be drunk in my
   class!". The head waiter came up to him and asked if I was any good, and the teacher looked at him and said "she's very good; she
   just needs the right tools." And so, this statement has stuck with me ever since. She just needs the right tools.
   
 ## So here I am now
 - Learning Haskell, and that statement rings true again. I'm getting there. And maybe one day, I'll get to mentor someone, too,
-  and they won't have the best tools, and I'll be able to help them. I'd come full-circle.
+  and they won't have the best tools, and I'll be able to help them. I'd come full-circle. I empathize with people who don't have the
+  right tools. I don't think it should be expected. That's one of the great things I liked about learning to programme. I could have a 
+  $20 laptop and use the same command line as someone with a $2000 Mac. In some other fields (like art; if anyone has used oils or 
+  copic markers; I was that kid trying to stretch the tube out as much as possible!), having cash matters. You can still make things in
+  tech even if you don't have the funding. I really like that; it's liberating.
 - It's part of why I'd never hesitate to help somoene who has an interest if I could. Maybe that's why my circle has grown, and
   I've met so many people. I know what it's like so to be in a group with a desire to do something, and be lacking..something. Not 
-  the best tools, or something. When I was learning hand-drafting, no one wanted to show me where to get a long list of drafting supplies,
+  the best tools, or something..resources. When I was learning hand-drafting, no one wanted to show me where to get a long list of drafting supplies,
   besides my mentor (who was a professional designer in NYC and taught at NYU grad school), and this one oddball kid who was nice 
   enough to not care what other people thought of his speaking to me. He showed me where I could get supplies at Cornell. 
   Or maybe not the best support network. I've had that in the past, too. I've been locked out of classes because the students thought
   I shouldn't be there and tried to isolate me when the teacher wasn't around. So I've always been the one to go up to people who 
   think that they want to do something but maybe don't fit in with everyone else there. Because I was that person. 
-- Being nice to that person could make a real difference in that person's life. It did many times to mine.
-
+- Being nice to that person could make a real difference in that person's life. That one person often made a difference to me and 
+  made me stick with learning something or developing a new skill. It's also part of why I've stuck with facets of FP for a while;
+  there are some really nice people in the community, who check up on me and encourage me.
+  
 ## Anyways..that's a long detour
 - To say, you never know who you may find a kindred spirit in, regardless of what they look like on the outside. You never know
   who might have a real passion or real talent or grit for something. As for me, I never imagined I'd be doing any of this. I'm 
