@@ -11,9 +11,11 @@
   
 ## I got my new laptop! 
 - I have to wipe the OS and put Linux on it! :D
+- I'm *so* excited! Yes, there will be a Haskell/ Rust sticker on there. I think I even still have Rust ones. 
+  Also, JPL Open house is coming up, so I can get some NASA stuff on there, too! :D
 
 ## Rust
-- I wasn't able to get around to that today, but will put in some time tomorrow
+- I wasn't able to get around to that today, but will put in some time tomorrow. I'm on Chapter 11 still!
 
 ## GSoC
 - I'm working on the Blank Constructor, and after that, will work on the Rectangle one
