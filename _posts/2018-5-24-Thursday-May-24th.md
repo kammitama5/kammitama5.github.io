@@ -19,4 +19,9 @@
 - I'm working on the Blank Constructor, and after that, will work on the Rectangle one
 - Also, this weekend, I'll work on the Medium post :D
 
+## May Day Convoluted
+- I plan to attend this [PureScript/ Haskell event](https://www.meetup.com/LA-PureScript/events/250215566/?gj=co2&rv=co2&_xtd=gatlbWFpbF9jbGlja9oAJGFkZTFkYTEzLWEwNzItNDBlNC1hNWNmLTBhNmNlY2U3ZjM4MQ&_cookie-check=x-cgiYeiAVU894gv) that is sort of category-theory related and has my Haskellino group,
+  but has the PM for "hacking" in FP and talking about it. So I'm going to go to this to learn and work on my projects 
+  in Haskell and Rust.
+  
 ## Back to coding!
