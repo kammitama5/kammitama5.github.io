@@ -19,6 +19,8 @@
   
 ## I was in the lunch room at my part time gig
 - And all I could think about was Haskell. It was pretty sad. People wre playing ping-pong games around me and stuff, and I just wanted to finish my shift so I could get back to working on Haskell. I think I just have to find a way to continue to do Haskell. :(
+- The saddest part is not being able to talk to anyone about it. Maybe I should start a group haha. A lot of us are new grads, so some
+  of them are more into Python and JS, which I guess are pretty cool too.
 
 ## Anyways
 - It's 5am here, and I've got to get going around 9am to this Haskell/PureScript hack and talk-event. Should be fun!
