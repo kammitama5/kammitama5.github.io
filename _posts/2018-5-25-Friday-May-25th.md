@@ -18,7 +18,7 @@
   This week was just a bunch of juggling around.
   
 ## I was in the lunch room at my part time gig
-- And all I could think about was Haskell. It was pretty sad. I think I just have to find a way to continue to do Haskell. :(
+- And all I could think about was Haskell. It was pretty sad. People wre playing ping-pong games around me and stuff, and I just wanted to finish my shift so I could get back to working on Haskell. I think I just have to find a way to continue to do Haskell. :(
 
 ## Anyways
 - It's 5am here, and I've got to get going around 9am to this Haskell/PureScript hack and talk-event. Should be fun!
