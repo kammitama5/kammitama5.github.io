@@ -10,6 +10,8 @@
    He spent about 3.5 hours working with me, which was really really appreciated!
    We used a different method, but reasoning through made me able to come back to my original code and 
    worth through it to match the other code :D
+ - I also learned how to use ```ghc --make (give optns cabal has) (path to file to check)```
+ - Also ```-fno-code``` is good if you want quick feedback (but doesn't check incomplete patterns).
    
  - I was then able to come home and quickly get my code to type check and committed it to my PR. Super! :D
  
