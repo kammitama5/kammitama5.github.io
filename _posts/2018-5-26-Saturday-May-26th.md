@@ -34,7 +34,7 @@ vs
 ...WriteFile String String (Unit -> a)
 ...HttpGet String (String -> a)
 | Done a
-`
+```
 
 - ```~>``` is a natural transformation
 - extensible datatypes let you combine types without boiler plate (lends themselves to more reusable code)
