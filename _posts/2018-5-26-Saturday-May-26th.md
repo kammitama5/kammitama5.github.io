@@ -3,7 +3,9 @@
 ## May Day Convoluted
 
 - Phil gave a talk similar to his DOM talk, but he interestingly mentioned a few papers, including 
-  Day's Convolutions
+  Day's Convolution and Arthur Xavier's Comonads/UI thesis
+- Cofree meets Comonads
+- The dual of substitution is redecoration - Uustala and Vene
   
 ## Notes
 
