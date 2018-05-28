@@ -16,7 +16,7 @@
  - I was then able to come home and quickly get my code to type check and committed it to my PR. Super! :D
  
  - I hadn't even noticed before that there was a ```cs``` and a ```callStack``` in the code, which do similar but different things
-   as functions. So he walked me through reasoning about a lot of that, which was interesting. He also knew when things would type
+   as functions. Also ```pathDrawer``` vs ```polygonDrawer```. So he walked me through reasoning about a lot of that, which was interesting. He also knew when things would type
    check, which he said is similar to the way you reason in Mathematics, and that I would build that intuition with practice.
    Yes, I'd *love* that!
    
