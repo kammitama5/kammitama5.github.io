@@ -22,9 +22,10 @@
   think that should stop you. One of them was talking about "needing more time", but I think you can always find time, especially
   if you're in a non-programming job and want to get into solely programming. People (rarely) will hire you to do something you
   can't demonstrate you have the capacity to do. And you're competing with people who programme all day and come home and programme
-  in the early years, or otherwise have more experience.
+  in the early years, or otherwise have more experience. I thought it would be interesting to learn some testing while programming,
+  but I'm definitely a programmer. So when I'm not at my PT, I spend my time programming (or if it's slow at work).
 - I have The Arc/solidArc/thickArc to do. I'll do that this week.
-- I also have that blog post to do. I really think I'll be able to do this during LambdaConf. I'll be in one location, which isn't
+- I also have that blog post to do on Medium. I really think I'll be able to do this during LambdaConf. I'll be in one location, which isn't
   far away from where I'm staying (walking distance), so that will give me a lot more time. Plus, the talks are such that you can
   work and listen to some.
 - When Friday arrives, I have to drop off my rent cheque by Friday PM, because I fly out Saturday morning. Fortunately, I only work
