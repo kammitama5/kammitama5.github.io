@@ -7,6 +7,7 @@
 - We also resolved to have Monday Rust memes!
 - We've also been told that there is a Rust conference in Russia in December! I've never been there, so it's possible
   that I can book to go to either the one in Rome or the one in Russia :D
+- Oh, and I've been told Aaron Turon will be a guest in the future, as well as (Pokemon) Steve! :D
   
 ## I tried to leave my mentors be today (stealth mode)
 - I wanted to give them their privacy as much as possible on their day off. You know, people have lives and stuff.
