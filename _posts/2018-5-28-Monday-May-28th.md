@@ -2,7 +2,7 @@
 
 ## Happy Memorial Day
 - Mozilla had a 6am meeting with us from the Mozilla Paris office. I finally got to fully see Aaron, my mentor,
-  and [Manish](https://github.com/Manishearth) was our guest! 
+  and [Manish](https://github.com/Manishearth) was our guest! Interestingly, he was a Physics major who became a self-taught dev.
 - Ashley also took a screenshot, which was pretty cool :D
 - We also resolved to have Monday Rust memes!
 - We've also been told that there is a Rust conference in Russia in December! I've never been there, so it's possible
