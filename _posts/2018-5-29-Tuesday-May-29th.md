@@ -10,7 +10,8 @@
   I mean, I'm learning some stuff, but I can't say I've enjoyed the process. It's aight. It's been good to learn, I guess. 
   Thankfully, most of my time *is* spent programming, and I have learned about things to think about as a tester that will help
   me think of edge cases while programming. I really hope it's not like an "us vs them" reality, because I *love* my programmer
-  friends. They make me laugh, and we have the same sense of humour.
+  friends. They make me laugh, and we have the same sense of humour. Plus, if I compared the two groups, I've *definitely* gotten
+  better, quality mentorship and encouragement from my programmer friends. Truth.
   
 ## I'm giving a lightning talk
 - I'm giving a recap talk for my local GDG group on IO. I already sent my slides over. Oh, my parents finally got the card 
