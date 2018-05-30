@@ -20,7 +20,7 @@
 - In Rust. So far, so good
 
 ## I'm doing the Circle, SolidCircle and ThickCircle constructors 
-- I'm trying to figure out how to use Points...but not quite there yet. Things will into place, I think certainly after
+- I'm trying to figure out how to use Points...but not quite there yet. PathDrawer needs points, but I want to just call it like Circle callStack r(for radius), where Circle is the constructor that just needs that radius parameter. Things will into place, I think certainly after
   the meeting tomorrow evening. And best of all, we can video-skype and work and screen-share together now! Yay for new computers 
   (with Haskell stickers on them!) :D
   
