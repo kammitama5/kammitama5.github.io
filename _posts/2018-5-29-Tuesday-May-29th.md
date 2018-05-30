@@ -21,22 +21,22 @@
 - In Rust. So far, so good
 
 ## I'm doing the Circle, SolidCircle and ThickCircle constructors 
-- I'm trying to figure out how to use Points...but not quite there yet. PathDrawer needs points, but I want to just call it like Circle callStack r(for radius), where Circle is the constructor that just needs that radius parameter. Things will into place, I think certainly after
+- I'm trying to figure out how to use Points...but not quite there yet. PathDrawer needs points, but I want to just call it like ```Circle callStack r(for radius)```, where ```Circle``` is the constructor that just needs that radius parameter. Things will into place, I think certainly after
   the meeting tomorrow evening. And best of all, we can video-skype and work and screen-share together now! Yay for new computers 
   (with Haskell stickers on them!) :D
   
 ## I was thinking about
 - So I've mentioned that my peers have said as testers that they "don't have time to programme" after work. One still does 
-  online video editing, also. As for me, I can't wait to programme when I get home from work. It's like a release.
+  video editing, even, and finds time for that. As for me, I can't wait to programme when I get home from work. It's like a release.
   I spend my mornings before work programming, and this morning, a lady saw me and gave me information. LOL.
   She thought I was writing PHP, and I told her it was Rust.
 - What I'm most disappointed in so far with my PT is that my two GSoC mentors told me that where I gig should set me up for success.
   They should want to bring me up to speed as much as possible, so that I can be productive, and that should be a priority. It hasn't
   felt like that *at all*. The difference between my two remote internships and this one is startling. But I guess I should be fair
-  and give it time. LOL or not. Right now, the only good thing going is the flexibility (ie I get to attend the three things I had 
+  and give it time. LOL or not. I don't think it will matter either way; it seems like things will sort themselves out. Either I'll e a fit or I won't over time. Right now, one good thing going is the flexibility (ie I get to attend the three things I had 
   previously arranged to attend; Racket School, LambdaConf and PLDI) and not having to touch any extra money I have. But my head is 
   honestly just thinking about Haskell and Rust all day long. Plus, it feels a little bit more like nanny-ing. The expectation of the 
-  remote gigs is that you can do whatever, as long as you get the work done. 
+  remote gigs is that you can do whatever, as long as you get the work done. Maybe when people turn 65, employers trust them?
   
  ## Anyways
  - It is what it is. However it works out is how it works out. I'm a bit apathetic at this point (especially the LA market, which
