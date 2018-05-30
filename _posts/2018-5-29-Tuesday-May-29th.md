@@ -12,7 +12,9 @@
   me think of edge cases while programming. I really hope it's not like an "us vs them" reality, because I *love* my programmer
   friends. They make me laugh, and we have the same sense of humour. Plus, if I compared the two groups, I've *definitely* gotten
   better, quality mentorship and encouragement from my programmer friends. Truth.
-- Also, some of them think I should quit right away. LOL. So this isn't helping me, but it's amusing.
+- Also, some of them think I should quit right away. LOL. So this isn't helping me, but it's amusing. Their attitude is like 
+  I'm a guy who could retire who is driving Uber for fun, and they're telling me not to drive Uber, because I don't need the money
+  and could be spending my time...not driving Uber.
   
 ## I'm giving a lightning talk
 - I'm giving a recap talk for my local GDG group on IO. I already sent my slides over. Oh, my parents finally got the card 
