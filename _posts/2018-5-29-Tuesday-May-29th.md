@@ -33,13 +33,13 @@
 - What I'm most disappointed in so far with my PT is that my two GSoC mentors told me that where I gig should set me up for success.
   They should want to bring me up to speed as much as possible, so that I can be productive, and that should be a priority. It hasn't
   felt like that *at all*. The difference between my two remote internships and this one is startling. But I guess I should be fair
-  and give it time. LOL or not. I don't think it will matter either way; it seems like things will sort themselves out. Either I'll be a fit or I won't over time; that's really how it goes. Right now, one good thing going is the flexibility (ie I get to attend the three things I had 
+  and give it time. LOL or not. I don't think it will matter either way; it seems like things will sort themselves out. Either I'll be a fit or I won't over time; that's really how it goes. If I'm not, that's bad on them for wasting both our time, and we part ways. No hard feelings. Right now, one good thing going is the flexibility (ie I get to attend the three things I had 
   previously arranged to attend; Racket School, LambdaConf and PLDI) and not having to touch any extra money I have. But my head is 
-  honestly just thinking about Haskell and Rust all day long. Plus, it feels a little bit more like nanny-ing. The expectation of the 
+  honestly just thinking about Haskell and Rust all day long. Plus, it feels a little bit more like nanny-ing heading to work. The expectation of the 
   remote gigs is that you can do whatever, as long as you get the work done. Maybe when people turn 65, employers trust them?
   
  ## Anyways
  - It is what it is. However it works out is how it works out. I'm a bit apathetic at this point (especially the LA market, which
- I quite frankly think is balls)
+ I quite frankly think is balls, but that's a story for another day)
  , and only enthusiastic about doors
    that open, not ones that close. So we'll see.
