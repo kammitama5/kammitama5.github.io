@@ -14,7 +14,8 @@
   better, quality mentorship and encouragement from my programmer friends. Truth.
 - Also, some of them think I should quit right away. LOL. So this isn't helping me, but it's amusing. Their attitude is like 
   I'm a guy who could retire who is driving Uber for fun, and they're telling me not to drive Uber, because I don't need the money
-  and could be spending my time...not driving Uber.
+  and could be spending my time...not driving Uber. But I'm convinced that there is some value I can derive from the experience...
+  at least for now.
   
 ## I'm giving a lightning talk
 - I'm giving a recap talk for my local GDG group on IO. I already sent my slides over. Oh, my parents finally got the card 
