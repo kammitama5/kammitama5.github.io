@@ -15,6 +15,10 @@
   My plan is to keep trying to do Haskell stuff until I'm good enough to be hired. I can't say I can think
   of anything else off the top of my head that would make me happier. I've really really enjoyed learning and 
   working in Haskell. I rush home to work on Haskell. I think about it all day at work.
+- I'd be happy working stuff like my PT gig and just hustling in Haskell until I get that gig. Or just doing
+  Haskell internships and stuff until then. So maybe I'll do that. Or do a PhD programme that focuses on Haskell.
+  That would be pretty sweet. Five plus years of Haskell with a good instructor doing research? Sign me up!
+  Over summer and winter breaks, I'd do Haskell work, too!
   
 ## In the mornings, though..I do Rust :D
 - I'm on chapter 12! Hey hey! It's fun, and I feel like I have a much better handle on things. The errors make 
