@@ -7,8 +7,9 @@
   interesting than what I was doing, so I opted to do that instead :D It looks like I'll have to learn some CSS, Python, PHP
   and SQL. Fair enough, but what if I could write it all in Haskell? :D
 - A few people got promoted and stuff, who I hadn't met or heard of, so that's pretty great. It filled me with a bit of fear.
-  I don't know that I *want* to get promoted, because I want to be a Haskell def. I think I'll just do whatever while continuing
-  to learn Haskell until I can just do Haskell full-time. 
+  I don't know that I *want* to get promoted, because I want to be a Haskell dev / researcher. I think I'll just do whatever while continuing
+  to learn Haskell until I can just do Haskell full-time. Scrubbing floors, washing cars, you name it. Pay my bills and learn Haskell
+  until I'm good enough to work full-time in Haskell!
 
 ## I spent my morning finishing up chapter 12 in Rust
 - So yeah..I'm on chapter 13! Yeahh!
