@@ -32,7 +32,7 @@
   her up pretty soon. She just finished her Master's, did some work at ILM and is doing computer vision and augmented reality research.
 - Oh, and she totally mentioned that I missed an email I received that's actually a recruitment email from BigN company. Yeah, so I need
   to respond to that person and send them my resume, which they requested. Do you have a Haskell job or internship for me after August?
-  Pretty please? :D
+  Pretty please? :D Heck yeah I'll do it part time or full-time, remote or on location. I hope you like push notifications at 2am! :D
   
 ## Tomorrow
 - I have to cut my rent cheque, check in to my flight, take a break at 9am for my Mozilla meeting, leave early to drop off 
