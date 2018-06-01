@@ -30,6 +30,8 @@
   I also won a Daydream VR (pretty much everyone who showed up won something :D) and I met some amazing ladies. Apparently, one of them
   LIVES ON THE OTHER SIDE OF MY STREET! How cool is that!? She's awesome, and I have a feeling some large tech company is going to scoop
   her up pretty soon. She just finished her Master's, did some work at ILM and is doing computer vision and augmented reality research.
+- One thing she mentioned that I hadn't thought about too much is that in research, you can work for years on something and it can get cut, and never see the light of day. So now she's enjoying working on things she sees ship. That's an interesting perspective. She 
+also offered to help me prepare my application, and told me that I was doing really well and way ahead, and I should be quite fine.
 - Oh, and she totally mentioned that I missed an email I received that's actually a recruitment email from BigN company. Yeah, so I need
   to respond to that person and send them my resume, which they requested. Do you have a Haskell job or internship for me after August?
   Pretty please? :D Heck yeah I'll do it part time or full-time, remote or on location. I hope you like push notifications at 2am! :D
