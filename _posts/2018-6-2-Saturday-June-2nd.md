@@ -9,8 +9,10 @@
 - And had a lot of fun! We then decided it would be nice to walk back home.
 - We found a playground, and ended up on swings and slides and saw a raccoon, and almost ended up walking
   through a pond. 
-  
- <img src="/images/lconf18/fare.png" width="500">
+ 
+ - A totally academic guy doing un-academic things :D 
+ 
+ <img src="/images/lconf18_/fare.png" width="500">
   
 ## I'm looking forward
 - The first day of the conf is tomorrow. I'm really excited.
