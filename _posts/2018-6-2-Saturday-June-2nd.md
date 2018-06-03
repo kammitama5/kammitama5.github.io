@@ -19,4 +19,4 @@
 - I have to post that pic of Fare on a slide :D It's pretty epic!
 
 ## I have to do some Haskell and Rust
-- So tomorrow...
+- So tomorrow...most definitely!
