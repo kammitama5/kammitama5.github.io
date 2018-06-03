@@ -10,6 +10,8 @@
 - We found a playground, and ended up on swings and slides and saw a raccoon, and almost ended up walking
   through a pond. 
   
+ <img src="/images/lconf18/fare.png" width="500">
+  
 ## I'm looking forward
 - The first day of the conf is tomorrow. I'm really excited.
 - I have to post that pic of Fare on a slide :D It's pretty epic!
