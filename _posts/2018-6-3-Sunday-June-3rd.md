@@ -10,7 +10,7 @@
 
 ## Typed FP on the Job: Why bother
 
- <img src="/images/lconf18_/paul1.png" width="500"> 
+ <img src="/images/lconf18_/paul.png" width="500"> 
  
 
 - Algebra on Type
