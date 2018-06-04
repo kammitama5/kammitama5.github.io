@@ -25,6 +25,18 @@
 ## Tony's Hop workshop : FP Data61 Course
 - I really really enjoyed this workshop.
 - defined w/ prefix ```h 55 88``` vs infix ```55 `h` 88```
+- datatypes - uppercase
+- if starts w/ colon is infix position by default
+- ```Shape``` is algebraic data type: non overlapping patterns
+- ``` data Natural = Zero | Successor Natural deriving (Eq, Show)```
+```
+one = Successor Zero
+two = Successor One
+
+add :: Natural -> Natural -> Natural
+add Zero y = y
+add (Successor x) y = Successor (add x y)
+```
 
 
 
