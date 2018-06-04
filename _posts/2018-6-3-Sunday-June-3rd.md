@@ -5,11 +5,13 @@
   Paul was a part of my local Haskell group, and I know him quite well, so it was
   really cool to see him again at LambdaConf.
   
- <img src="/images/lconf18_/podium.png"
+ <img src="/images/lconf18_/podium.png" width="500"> 
+ 
 
 ## Typed FP on the Job: Why bother
 
- <img src="/images/lconf18_/paul.png"
+ <img src="/images/lconf18_/paul1.png" width="500"> 
+ 
 
 - Algebra on Type
 - A monad is: function that can possibly have an effect into a value
@@ -20,7 +22,7 @@
 - know what code does before it runs as a developer
 - as a business, economically worthwhile
 
- <img src="/images/lconf18_/paul1.png"
+ <img src="/images/lconf18_/paul1.png" width="500"> 
 
 ## Tony's Hop workshop : FP Data61 Course
 - I really really enjoyed this workshop.
@@ -51,7 +53,8 @@ data List t = Nil | t :. List t deriving (Eq, Ord)
 ## Keynote (Michael Stay)
 - Pi-calculus vs Rho-Calculus
 
-<img src="/images/lconf18_/mike.png"
+ <img src="/images/lconf18_/mike.png" width="500"> 
+ 
 - calculus - comes from pebble (counting with pebbles)
 - notation and method of applying that notation
 - reflective calculus
