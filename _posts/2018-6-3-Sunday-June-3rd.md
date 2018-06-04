@@ -54,7 +54,10 @@ data List t = Nil | t :. List t deriving (Eq, Ord)
 - Pi-calculus vs Rho-Calculus
 
  <img src="/images/lconf18_/mike.png" width="500"> 
- 
+
+- I really really enjoyed this talk, also. I'm not into crypto, but it was fascinating.
+  I also enjoyed the historical references (to Hilbert and Turing, Church and Leibniz).
+- Too bad his shop is in Scala, though :P
 - calculus - comes from pebble (counting with pebbles)
 - notation and method of applying that notation
 - reflective calculus
