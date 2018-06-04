@@ -37,6 +37,40 @@ add :: Natural -> Natural -> Natural
 add Zero y = y
 add (Successor x) y = Successor (add x y)
 ```
+```
+data List t = Nil | t :. List t deriving (Eq, Ord) 
+(t) binds tighter than cons (:.)
+```
+- ```const a -> b -> a```
+- ```:kind``` type of types is called its kind
+- monads: used so we don't have to same code over and over again
+- All applicatives are functors
+- Applicatives at superclass have pure
+- Backus '77 "Can we be liberated from Von Neumann style?"
+
+## Keynote (Michael Stay)
+- Pi-calculus vs Rho-Calculus
+
+<img src="/images/lconf18_/mike.png"
+- calculus - comes from pebble (counting with pebbles)
+- notation and method of applying that notation
+- reflective calculus
+- ```Hilbert``` if you could express a programme mathematically perhaps you could solve it
+  mathematically.
+  
+- ```lambda x . T-abstraction```
+- stochastic pi-calculus (Microsoft paper)
+- RHO (Reflective higher-order) calculus
+- Ian Stark - categories between functors
+- structural type
+- behavioral type
+- Greg Meredith
+- distributed vs verified computing
+  - distributed: slice into smaller bits, get different outputs
+  - should have same result
+  
+
+
 
 
 
