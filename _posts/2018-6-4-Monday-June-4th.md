@@ -170,7 +170,7 @@
  
  <img src="/images/lconf18_/lc18_010.png" width="500">
  
- - En route home, I saw a Foucault Pendulum. The others didn't seem impressed, but we have one at Griffith Observatory,
+ - En route home, I saw a [Foucault Pendulum](https://en.wikipedia.org/wiki/Foucault_pendulum). The others didn't seem impressed, but we have one at Griffith Observatory,
    and I'm a bit of a space/physics geek, so it really pleased me to see this :D
    
  <img src="/images/lconf18_/lc18_011.png" width="500">
