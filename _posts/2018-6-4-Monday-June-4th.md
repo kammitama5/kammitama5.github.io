@@ -61,6 +61,121 @@
  - Operational Semantics:
    - big-step semantics
    - small-step semantics
+ <img src="/images/lconf18_/lc18_005.png" width="500">  
+   
  - specifications should be precise and easy to understand
  - Olivier Danvy: has research on [big-step and small-step semantics](https://dl.acm.org/citation.cfm?id=2206596)
+ - You want your values to be separate
+ - A type classifies values
+ - A type-system predicts the type of the result value
+ - A type system enforces that the arguments of an operation makes sense
+ - Other resources: Pierce's book on Types, Siek's blog, Semantic Engineering w/ PLT Redex
+ 
+ ## Proposition as Types
+ - Algebraic Data types
+ - disjunction of conjunctions
+ - unit type
+ - bottom: corresponds to false
+ - inhabitation ```x::a```
+ - For a function type ```a -> b```, the proposition is "if a is inhabited, then so is b"
+ - ```return :: a -> [a]```
+ - ```returnList x = [x]```
+ 
+ - Proofs as Programs: any value inhabiting a given type is a proof of the corresponding function
+ - constructors = introduction rules
+ - pattern matching = elimination rules
+ - we can prove any theorem with a function
+ - Hypothetical syllogism
+ 
+ ```
+ (a -> b) -> (b -> c) -> (a -> c)
+ ```
+ - compose in Haskell
+ - Ex Falso Quodlibet
+ - contrapositive
+ ```
+ (a -> b) -> Not b -> Not a
+ ```
+ - const
+ ```a -> b -> a```
+ - ```(a, b) -> Either a b```
+ - Left/ Right
+ - ```a -> Either a b```
+ - Left
+ - Other: Physics, Topology, Logic and Computation: A Rosetta Stone (John Baez and Michael Stay)
+ 
+ ## Proving Theorems (S. Boyer)
+ - Modus Ponens vs Applicative Programming
+ ```
+ If A -> B and A then B        vs   If f:A->B and x:A then f(x): B
+ ```
+ - Curry-Howard Correspondence
+ - Propositions correspond to types and proofs to programmes
+ - github.com/stepchowfun/coq-intro
+ 
+ ## Stacc
+ - In orther to have a proof we need to construct it
+ 
+ ## What is a Side Effect (A. Serrano Mena)
+ - This was the end of day keynote. Also really interesting!
+ - handling effects
+ - monads, algebraic handlers, type and effect systems
+ - Algebraic handler..throw is a message, catch is a handler, through lens of effects
+ - Type and effect systems: every computation gets type and description of effects
+ ```
+ print s::(); Console
+ openDbPool c :: Handle ; Resource, Database
+ ```
+ - "A value is, a computation does" - Paul Levy
+ - effects are about computations, other approaches mix them with values
+ - Categories embody the concept of composition
+ - add laws to describe the behavior of the operations
+ 
+ - The new landscape
+  - pure effectful vs side-effectful
+  - few primitives vs no simple set of primitives
+  - lots of laws vs no real laws
+  - non-determinism vs "throw-all IO"
+  
+ ## RustReach
+ - I took a call at 2pm (I forgot...Boulder time...) to talk to my mentor and figure out my schedule for this week.
+   So far, so good. Things should be a lot better by tomorrow evening in terms of time to do work on my own.
+   
+ ## We had a break
+ - And had some cupcakes. I believe there was one that had bacon or something, and another that was a Peanut butter-
+   pretzel-stout cupcake. OK LOL.
+   
+ <img src="/images/lconf18_/lc18_006.png" width="500">
+ 
+ ## After the final keynote
+ - We had a conference dinner after the keynote. It was lovely!
+ 
+ <img src="/images/lconf18_/lc18_007.png" width="500">
+ 
+ - Look; they even drew new unicorns! That impressed me :D
+ 
+ ## After dinner
+ - a bunch of us decided to go drinking. Since it was my roommate's birthday the next day, I decided to join the large
+   group that headed to Pearl street's "Mountain Sun Brewery". We walked from campus and it took us about 25 minutes.
+ - Along the way, I saw this neat place.
+ 
+ <img src="/images/lconf18_/lc18_008.png" width="500">
+ 
+ - And of course, apparently the place was *packed* with LambdaConf people!
+ 
+ <img src="/images/lconf18_/lc18_009.png" width="500">
+ 
+ ## Finally
+ - Around minutes to midnight, we headed back, after chatting it out a bit outside of the bar, which was closing.
+ 
+ <img src="/images/lconf18_/lc18_010.png" width="500">
+ 
+ - En route home, I saw a Foucault Pendulum. The others didn't seem impressed, but we have one at Griffith Observatory,
+   and I'm a bit of a space/physics geek, so it really pleased me to see this :D
+   
+ <img src="/images/lconf18_/lc18_011.png" width="500">
+ 
+ ## I'm going to get rest tonight
+ - So that's about it for me. One of my mentors is at Zurihac (keynoting) this Friday, but my other mentor for GSoC is going to be able
+   to work with me, so I'm really grateful! 
  
