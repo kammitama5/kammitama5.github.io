@@ -49,7 +49,9 @@
   - encourage usage of functional paradigms in non- functional languages
   
 ## GHC (J)
+
 - A little Haskeller wanted to come in
+
 <img src="/images/lconf18_/lc18_100.png" width="500">
 
 - Kinds of errors:
@@ -59,6 +61,7 @@
 - module should be top of file. Then imports
 - Indentation rules: start at least one space after function name on following line.
 - new code block one space over
+
 - ```no accompanying binding``` error typically mispelling between function name and definition
 - Module main must have main function or rename your module to something else.
 - ```main :: IO``` type. Main always returns IO of some type, typically ```IO()``` (IO of unit).
