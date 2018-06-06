@@ -130,5 +130,90 @@ data ArithException
 - in above function, ```+``` is always satisfied so compiler doesn't have to do this at runtime.
 - Interpose ```(defn interpose [coll seq]...)```
 - seq is part of Seqable protocol
+- ```[coll]```: we don't know what parameters it needs
+```
+(assert-result z (instance? List z))
+```
+- assert is the test and z is the free variable. ```instance?``` sees if z is instance of list.
+- ```inc``` checks if other value is integer before incrementing. 
+- called statically
+- gradual vs soft typing
+- toccata is soft typing
+- drops runtime check at compiler time. Cannot determine if constraint will be satisfied.
+- dependent types: adds more information: restricts types based on information given.
+- product types:
+  - if x is a value from 0 and less than 4 (ie 4 values)
+  - another type has x, y, from 0 and less than 4 and from 0 and less than 5 respectively.
+  - product type...```4*5``` possible values (= 20)...product types.
+- sum would be ```x+y```
+- Algebraic data types: include both sum and product types
+- toccata: programming by composition
+- Algebraic data types:
+```
+OneType [x]
+AnotherType [x, y]
+BogusType [a, b, c]
+```
+- the r param must have an x field. The result is always same type as r.
+- row-polymorphism: only says what field that value has to have.
+- Martin Odersky "The trouble with Types".
+- "The Reasoned Schemer"
+- Higher Kinded types
+- eg. if you map over a list and increment, every member of your list must be checked to be an integer
+- grammar demonstrated using a free applicative
+- tail call optimization (no garbage collection pauses) for reference counting
+
+## Smart Contracts for Side-Chains (Fare)
+- Logic for Smart Contract instead for all, find mean instance that proves my case wrong.
+- Game semantics
+- finite, not brute force
+- Computability logic
+- game semantics first, syntax second
+- higher-level view of smart constracts
+- a contract (logical specification) is a small piece of dApp.
+- programming using logic
+- Alan Perlis "A PL is low-level when its programs require attention to the irrelevant".
+- Issue: No of interaction steps
+- Minimize steps: Skolemization
+- Skolem: predicate to propositional calculus
+```
+Forall x: X there exists Y : Y P(x,y)
+<=> there exists f : X -> Y
+For all x: X P(x, f(x))
+```
+- Group all ```there exists``` to the left. All proofs in two steps max.
+- Shared knowledge: what everyone knows
+- Common knowledge: what everybody knows that everybody knows
+- consensus: resolves double spending. Expensive (because you have to verify that everyone
+  knows what everyone knows)
+- ```Legicash: https://j.mp/LegicashCodeReleasePreview```
+
+## Wrap-up
+- There was a Q and A about the ```Book of Monoids``` with A. Serrano, and Kegan asked if we read the 
+  book in reverse if it's ```The Book of Co-monads```. :D 
+- Chris presented a project in which people learning Haskell can work on open-source project. It offers
+  to help conferences with their scheduling work and would be open sourced. It's called ```Moot```.
+- My roommate, Charlene had her birthday announced, along with her YT video (that she had just told myself
+  and John about lol. Quite evil!). 
+
+## We went out for dinner
+- We went to Taj for dinner, along with Snoyman and my friend, Lyle, and Fare and others. John was kind enough
+  to cover dinner for both Charlene and myself, which was really appreciated. Especially since you know..starving
+  students lol. I'm pretty sure Charlene enjoyed her birthday, especially after that wicked troll John managed to pull off.
+- A few of us took off afterwards and went to The Dark Horse afterwards. That place is intersesting. They have tricycle drinking
+  rides around the bar, and a bunch of us stood around talking about everything from APL to Galois Theory. I got to meet Aaron 
+  Hsu. I really liked him; we seem to have some similar values and he gave me great advice about preparing to do a PhD.
+- I also have no idea where my roommate is, and it's no longer her birthday, but she's leaving in a few hours so I'm sure
+  she'll be fine. I'm pretty sure she had a great time.
+  
+<img src="/images/lconf18_/lc18_202.png" width="500">
+  
+## I have to get up in some hours
+- For the hacking day. I plan to work on Haskell. Oh, I found a mentor at the bar, (he's Hungarian). He told me he's working
+  for a Haskell shop run by a Haskell guy and that I should keep in touch with him. He's also willing to mentor me tomorrow
+  and just teach me some stuff during the hackathon, which would be pretty neat. So we may be pair-programming. I think that's
+  pretty great.
+  
+## Okey doke..I think that's it!
 
 
