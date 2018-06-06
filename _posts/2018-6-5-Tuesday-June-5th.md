@@ -200,7 +200,7 @@ For all x: X P(x, f(x))
 - We went to Taj for dinner, along with Snoyman and my friend, Lyle, and Fare and others. John was kind enough
   to cover dinner for both Charlene and myself, which was really appreciated. Especially since you know..starving
   students lol. I'm pretty sure Charlene enjoyed her birthday, especially after that wicked troll John managed to pull off.
-- A few of us took off afterwards and went to The Dark Horse afterwards. That place is intersesting. They have tricycle drinking
+- A few of us took off afterwards and went to The Dark Horse afterwards. That place is interesting. I accidentally ended up in the wrong restroom, which was funny, because their signs are confusing (they are labelled Men and Women but there are hands pointing in the opposite direction). They have tricycle drinking
   rides around the bar, and a bunch of us stood around talking about everything from APL to Galois Theory. I got to meet Aaron 
   Hsu. I really liked him; we seem to have some similar values and he gave me great advice about preparing to do a PhD.
 - I also have no idea where my roommate is, and it's no longer her birthday, but she's leaving in a few hours so I'm sure
