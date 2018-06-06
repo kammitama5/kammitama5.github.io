@@ -73,15 +73,20 @@
 ## Languages with Exceptions
 
 <img src="/images/lconf18_/lc18_201.png" width="500">
+
 - C, Go don't have exceptions. Go has tuple error exception.
 - Exceptional semantics
+
 ```
 undefined :: a
 undefined = undefined
+
 ```
+
 - bottom
 - "A semantics for imprecise exceptions" : Introduction to Exceptions system in Haskell
 - Imprecise errors
+
 ```
 main :: IO()
 main = do
@@ -89,6 +94,7 @@ main = do
      let y = error "y" :: Int
      print (x + y)
 ```
+
 - GHC reserves right to run program however it sees fit to.
 - Specificity vs conposable choices of types matched precisely vs composable polymorphic types (more likely
   to line up in checker).
@@ -101,10 +107,12 @@ main = do
   - don't use error or strings
   - do leave comments
   - do consider purity
+  
 ```
 lookup :: Ord k => k -> Map k v -> Maybe v
 ```
-- Either value or nothing returned.
+
+ - Either value or nothing returned.
 - GHC TypeLits : specific errors
 - Don't throw pure errors
 - In exception types, only have one constructor
