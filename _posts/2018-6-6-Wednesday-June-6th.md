@@ -32,7 +32,7 @@
   "Jerk..." (his last name). We were laughing about it. He also said he was going to do more Haskell, which I'm really
   happy about. And maybe we'll have some more Lisp languages in the conf in the future and stuff. Either way, I really
   like the group. 
-- He was also super nice to help a guy review his resume, as a senior engineer. That's what I like about this community;
+- He was also super nice to help a guy review his (the guy's) resume, as a working senior engineer. That's what I like about this community;
   they've helped *so many* people. I've had a leg up being a n00b because of my interaction with the FP community. 
   Sure, we don't all get along, and sometimes we might leave the wrong impression on social media, but I can pretty much
   guarantee that in person we're all a bunch of geeky weirdos with boundless curiosity and a love for functional programming.
