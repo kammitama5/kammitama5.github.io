@@ -71,7 +71,7 @@
  - A type system enforces that the arguments of an operation makes sense
  - Other resources: Pierce's book on Types, Siek's blog, Semantic Engineering w/ PLT Redex
  
- ## Proposition as Types
+## Proposition as Types
  - Algebraic Data types
  - disjunction of conjunctions
  - unit type
@@ -104,7 +104,7 @@
  - Left
  - Other: Physics, Topology, Logic and Computation: A Rosetta Stone (John Baez and Michael Stay)
  
- ## Proving Theorems (S. Boyer)
+## Proving Theorems (S. Boyer)
  - Modus Ponens vs Applicative Programming
  ```
  If A -> B and A then B        vs   If f:A->B and x:A then f(x): B
@@ -113,10 +113,10 @@
  - Propositions correspond to types and proofs to programmes
  - github.com/stepchowfun/coq-intro
  
- ## Stacc
+## Stacc
  - In orther to have a proof we need to construct it
  
- ## What is a Side Effect (A. Serrano Mena)
+## What is a Side Effect (A. Serrano Mena)
  - This was the end of day keynote. Also really interesting!
  - handling effects
  - monads, algebraic handlers, type and effect systems
@@ -137,24 +137,24 @@
   - lots of laws vs no real laws
   - non-determinism vs "throw-all IO"
   
- ## RustReach
+## RustReach
  - I took a call at 2pm (I forgot...Boulder time...) to talk to my mentor and figure out my schedule for this week.
    So far, so good. Things should be a lot better by tomorrow evening in terms of time to do work on my own.
    
- ## We had a break
+## We had a break
  - And had some cupcakes. I believe there was one that had bacon or something, and another that was a Peanut butter-
    pretzel-stout cupcake. OK LOL.
    
  <img src="/images/lconf18_/lc18_006.png" width="500">
  
- ## After the final keynote
+## After the final keynote
  - We had a conference dinner after the keynote. It was lovely!
  
  <img src="/images/lconf18_/lc18_007.png" width="500">
  
  - Look; they even drew new unicorns! That impressed me :D
  
- ## After dinner
+## After dinner
  - a bunch of us decided to go drinking. Since it was my roommate's birthday the next day, I decided to join the large
    group that headed to Pearl street's "Mountain Sun Brewery". We walked from campus and it took us about 25 minutes.
  - Along the way, I saw this neat place.
@@ -165,7 +165,7 @@
  
  <img src="/images/lconf18_/lc18_009.png" width="500">
  
- ## Finally
+## Finally
  - Around minutes to midnight, we headed back, after chatting it out a bit outside of the bar, which was closing.
  
  <img src="/images/lconf18_/lc18_010.png" width="500">
@@ -175,7 +175,7 @@
    
  <img src="/images/lconf18_/lc18_011.png" width="500">
  
- ## I'm going to get rest tonight
+## I'm going to get rest tonight
  - So that's about it for me. One of my mentors is at Zurihac (keynoting) this Friday, but my other mentor for GSoC is going to be able
    to work with me, so I'm really grateful! 
  
