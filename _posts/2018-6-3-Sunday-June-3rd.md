@@ -29,8 +29,10 @@
 - defined w/ prefix ```h 55 88``` vs infix ```55 `h` 88```
 - datatypes - uppercase
 - if starts w/ colon is infix position by default
+
 - ```Shape``` is algebraic data type: non overlapping patterns
 - ``` data Natural = Zero | Successor Natural deriving (Eq, Show)```
+
 ```
 one = Successor Zero
 two = Successor One
@@ -39,10 +41,12 @@ add :: Natural -> Natural -> Natural
 add Zero y = y
 add (Successor x) y = Successor (add x y)
 ```
+
 ```
 data List t = Nil | t :. List t deriving (Eq, Ord) 
 (t) binds tighter than cons (:.)
 ```
+
 - ```const a -> b -> a```
 - ```:kind``` type of types is called its kind
 - monads: used so we don't have to same code over and over again
