@@ -5,7 +5,8 @@
   so we got coffee and fraps downstairs! The sugar helped me stay awake, and I actually
   completed my sprint two hours before the end of the day, so I spent the rest of the afternoon
   learning PHP on my own.
-  
+- I was actually amused today, being on the other side of developing again. But today I had the motivation
+  to get things done and even found some bugs.
 - I was supposed to hang out with some JPL-ers, but I am much too tired. I'm planning to take a nap,
   get up and work on some Rust until the early morning, and come home tomorrow and work on Haskell
   during the weekend. 
