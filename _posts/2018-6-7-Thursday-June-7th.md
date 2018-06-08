@@ -26,7 +26,7 @@
  <img src="/images/lconf18_/image1_sm.png" width="300">
  
 - Oh, and she calls herself "Lambda Turner" now! :D See what one conference has done! :D
-- I could definitely have been there (nor could she) without Scholarships this year. I hope that one day
+- I could definitely *NOT* have been there (nor could she) without Scholarships this year. I hope that one day
   I can return the favour, because this conf is my favourite and has meant so much to me, attending for my
   second year. 
   
