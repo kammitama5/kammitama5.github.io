@@ -21,5 +21,5 @@
   
 ## In the afternoon
 - A little birdie (with big puffy hair) sent me this photo. It really made me smile! 
- <img src="/images/lconf18_/image1_sm.png" width="500">
+ <img src="/images/lconf18_/image1_sm.png" width="300">
 
