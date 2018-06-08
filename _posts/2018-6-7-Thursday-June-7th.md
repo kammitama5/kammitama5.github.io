@@ -20,6 +20,8 @@
   because it's *your* community. These people are from all over the world and you may not see some of them
   until next year, at least.
   
+<img src="/images/lconf18_/meee1.png" width="500">
+  
 ## In the afternoon
 - A little birdie (with big puffy hair) sent me this photo. It really made me smile! 
 
