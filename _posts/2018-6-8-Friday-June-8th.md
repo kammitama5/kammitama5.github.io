@@ -11,7 +11,7 @@
 - I have a RustReach meeting tomorrow with my mentor, so I timed it so I'll make it back in time for that.
 - I also have a PureScript meeting, which I think I should be able to do a bit of, as well.
 
-## I plan
+## Saturday plan
 - I'm going to spend tomorrow evening working on Rust, and Sunday working on Haskell (all day).
 - Today, our Portal at work was down, because they were rebooting VMs, and so I used it as an excuse to learn
   Haskell. I started going through the CIS194 course on my own. 
