@@ -52,6 +52,7 @@
 ## Mission Control
  
  <img src="/images/jpl18/j_006.png" width="500">
+ 
  - Charles retired, so he's at Caltech, but his name is on Mission Control. I love that man!
    He's an inspiration to me, especially as an immigrant! :D
  
