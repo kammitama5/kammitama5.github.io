@@ -30,7 +30,12 @@
  ## I had an interesting conversation
  - With a guy who was a programmer on the Mars 2020. He was a joy to speak with, and got really excited
    when we first ran into each other. Programmers unite! :D
- - He told me about how they downloaded and received data and how they multi-thread everything.
+ - He was an ARM / Assembly guy, and saw my LambdaConf t-shirt. I usually opt for t-shirts that are tech-y
+   but a bit esoteric. A lot of people wear things at the event like "I ate Pi" tshirts or "I need my space"
+   t-shirts. But you'd have to dig a bit to figure out what Coq is (LOL), or be in the field, so usually if 
+   someone starts talking to me excitedly, it tends to be a scientist or fellow programmer. :D One scientist
+   in particular teases me every year because I like Haskell.
+ - Anyways, programmer guy told me about how they downloaded and received data and how they multi-thread everything.
  - I told him I'd *love* a talk on that at Von Karman. I wish they'd discuss how they actually get and
    receive data. Basically it goes into this mode autonomously where it sends a bunch of stuff and it says
    "done" on disk. Every year I go, they always try to convince me that I need to come work with them on lab.
