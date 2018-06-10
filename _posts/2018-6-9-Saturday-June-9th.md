@@ -12,7 +12,7 @@
 
  <img src="/images/jpl18/j_001.png" width="300">
  
- ## Mars Helicopter
+## Mars Helicopter
  
  <img src="/images/jpl18/j_002.png" width="500">
  
@@ -27,7 +27,7 @@
  
  <img src="/images/jpl18/j_004.png" width="300">
  
- ## I had an interesting conversation
+## I had an interesting conversation
  - With a guy who was a programmer on the Mars 2020. He was a joy to speak with, and got really excited
    when we first ran into each other. Programmers unite! :D
  - He was an ARM / Assembly guy, and saw my LambdaConf t-shirt. I usually opt for t-shirts that are tech-y
@@ -49,13 +49,13 @@
    
  <img src="/images/jpl18/j_005.png" width="300">
  
- ## Mission Control
+## Mission Control
  
  <img src="/images/jpl18/j_006.png" width="500">
  - Charles retired, so he's at Caltech, but his name is on Mission Control. I love that man!
    He's an inspiration to me, especially as an immigrant! :D
  
- ## All in All
+## All in All
  
  <img src="/images/jpl18/j_007.png" width="500">
  
