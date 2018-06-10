@@ -34,7 +34,9 @@
    Unfortunately, my specialization may not line up as much with what they do, unless there is some sort of 
    compiler system involved or something. My friend is going to do his Master's to become a roboticist, and is
    interning there, so that makes more sense. I seem definitely more in line with the kind of work for tech
-   companies in the Valley doing research and stuff, so I don't know.
+   companies in the Valley doing research and stuff, so I don't know. It seems I'm going farther away from that stuff,
+   but who knows. I did work in a hardware / electronics place for 7 years while going to school, so I always take
+   that stuff with me (and the IEEE certifications).
    
  <img src="/images/jpl18/j_005.png" width="300">
  
