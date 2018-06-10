@@ -10,7 +10,7 @@
   
 ## Here are some pics!
 
- <img src="/images/jpl18/j_001.png" width="500">
+ <img src="/images/jpl18/j_001.png" width="300">
  
  ## Mars Helicopter
  
@@ -19,9 +19,9 @@
    sad day for the Mars Helicopter" LOL. I also asked why it had only one antenna, and he said it's 
    because of the weight constraints they had, and if they lose the antenna well, I guess that's it. LOL.
    
- <img src="/images/jpl18/j_003.png" width="500">
+ <img src="/images/jpl18/j_003.png" width="300">
  
- <img src="/images/jpl18/j_004.png" width="500">
+ <img src="/images/jpl18/j_004.png" width="300">
  
  ## I had an interesting conversation
  - With a guy who was a programmer on the Mars 2020. He was a joy to speak with, and got really excited
@@ -36,7 +36,7 @@
    interning there, so that makes more sense. I seem definitely more in line with the kind of work for tech
    companies in the Valley doing research and stuff, so I don't know.
    
- <img src="/images/jpl18/j_005.png" width="500">
+ <img src="/images/jpl18/j_005.png" width="300">
  
  ## Mission Control
  
