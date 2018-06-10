@@ -54,7 +54,12 @@
  
  <img src="/images/jpl18/j_007.png" width="500">
  
- - It was fun. I had to get back for my 1pm meeting. I was *so* tired.
+ - I really liked this one, because my mentor worked on Voyager, which was part of the Mariner Program.
+   And I like DSN, which is the Deep Space Network.
+ 
+ - JPL was fun. I had to get back for my 1pm meeting. I was *so* tired. I've been running on low energy
+   for the latter part of this week.
+ 
  - I took a nap and plan on staying up to do Rust and Haskell tonight and all of tomorrow.
  
  ## And that's it!
