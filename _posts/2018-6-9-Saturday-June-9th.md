@@ -68,4 +68,4 @@
  
  - I took a nap and plan on staying up to do Rust and Haskell tonight and all of tomorrow.
  
- ## And that's it!
+## And that's it!
