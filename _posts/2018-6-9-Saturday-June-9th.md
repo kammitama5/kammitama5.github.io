@@ -15,6 +15,9 @@
  ## Mars Helicopter
  
  <img src="/images/jpl18/j_002.png" width="500">
+ - Oh, that's Lithium ion batteries and a Zigbee antenna. Didn't get the best photo of the details,
+   but a lot of that information is online.
+ 
  - I asked the guy what would happen if the helicopter lost a leg, and he said "that would be a very
    sad day for the Mars Helicopter" LOL. I also asked why it had only one antenna, and he said it's 
    because of the weight constraints they had, and if they lose the antenna well, I guess that's it. LOL.
