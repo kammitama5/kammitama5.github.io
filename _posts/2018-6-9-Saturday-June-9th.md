@@ -15,6 +15,7 @@
  ## Mars Helicopter
  
  <img src="/images/jpl18/j_002.png" width="500">
+ 
  - Oh, that's Lithium ion batteries and a Zigbee antenna. Didn't get the best photo of the details,
    but a lot of that information is online.
  
