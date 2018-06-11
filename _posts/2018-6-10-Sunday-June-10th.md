@@ -9,7 +9,7 @@
 
 ## Also
 - I'm moving on with a new part of my GSoC project, and I'm not quite sure how to start.
-  So there's trepidation about that.
+  So there's trepidation about that. I feel *so* incompetent right now.
 - I also have to attend a final tomorrow, and asked three different people if it's tomorrow,
   and haven't heard back from anyone yet. Not even the teacher. I *hate* this.
 - I'm missing hours of work (and pay) to go to this exam because my prof suggested that I do it since I couldn't drop
