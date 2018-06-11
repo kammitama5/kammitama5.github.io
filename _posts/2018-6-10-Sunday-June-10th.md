@@ -12,6 +12,9 @@
   So there's trepidation about that.
 - I also have to attend a final tomorrow, and asked three different people if it's tomorrow,
   and haven't heard back from anyone yet. Not even the teacher. I *hate* this.
+- I'm missing hours of work (and pay) to go to this exam because my prof suggested that I do it since I couldn't drop
+  his class, and I have a meeting right after the exam that I'd prefer to be home for, but I was able to book a space
+  at our computer lab to attend with my mentor. 
 - Also, I'm trying to confirm that I have a place to stay next week (halfway across the country), and I've heard nothing about
   that yet.
 - Finally, I reached out to a person who said they wanted help with an open source project, and 
