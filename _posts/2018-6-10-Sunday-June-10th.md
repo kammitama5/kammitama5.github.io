@@ -18,6 +18,13 @@
   haven't heard back from them. I'm going to give said person the benefit of the doubt and stay positive.
 - So pretty much frustration all around. I guess part of it is my impatience and frustration that
   a lot of things are just *out of my control*. That stresses me out a bit.
+
+## You need to understand
+- This is hereditary. My parents are *planners*. They need to know (mostly) how things will pan out. So it's in
+  my blood to at least have a decent idea of how things will work. My dad will blow a blood vessel if someone is
+  half an hour late, and my mom will sigh emphatically if someone is highly disorganized. My brother is worse.
+  He will say nothing, but he will be panicking (and dying) inside if someone is a disorganized mess. We don't
+  like loose-ends or loose-ends people, and one of our peeves is when people don't follow through.
   
 ## Otherwise
 - I guess I just have to keep pushing. I really do like Haskell, and Rust has been treating me well, also.
