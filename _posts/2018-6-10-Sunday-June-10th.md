@@ -12,10 +12,10 @@
   So there's trepidation about that.
 - I also have to attend a final tomorrow, and asked three different people if it's tomorrow,
   and haven't heard back from anyone yet. Not even the teacher. I *hate* this.
-- Also, I'm trying to confirm that I have a place to stay next week, and I've heard nothing about
+- Also, I'm trying to confirm that I have a place to stay next week (halfway across the country), and I've heard nothing about
   that yet.
 - Finally, I reached out to a person who said they wanted help with an open source project, and 
-  haven't heard back from them.
+  haven't heard back from them. I'm going to give said person the benefit of the doubt and stay positive.
 - So pretty much frustration all around. I guess part of it is my impatience and frustration that
   a lot of things are just *out of my control*. That stresses me out a bit.
   
