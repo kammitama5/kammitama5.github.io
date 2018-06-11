@@ -1,7 +1,7 @@
 ## GSoC, RustReach Day 28 and Disappointment
 
 ## I'm currently going through
-- The 2nd day of the ZuriHac Haskell Beginner Session.
+- The 2nd day of the [ZuriHac Haskell Beginner Session](https://www.youtube.com/watch?v=4fNIhrDhaYA).
 - Day 1 was pretty easy for me, but I'm definitely reaching a bit of a ceiling for day two.
 - Once I start getting into composition and Monads, I start to feel like I'm hitting a wall.
   I don't have enough experience nor understand a lot of that stuff, even though I understand
