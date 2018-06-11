@@ -28,6 +28,13 @@
   half an hour late, and my mom will sigh emphatically if someone is highly disorganized. My brother is worse.
   He will say nothing, but he will be panicking (and dying) inside if someone is a disorganized mess. We don't
   like loose-ends or loose-ends people, and one of our peeves is when people don't follow through.
+- Frustration with learning something new is also a legacy of my prestigous schooling-upbringing. The whole
+  time I was in competition with my peers, who were all really bright, and I was in the "bright (aka Sciences)"
+  class, so any sign of weakness or sign that you "didn't get something" immediately brought you an immense 
+  sense of shame that I still carry to this day. We were bred in that school system to be ashamed of failing and
+  sucking at things, because we were expected to be good at everything. 
+- Yes, this is setting kids up to have really low self-esteem. I know this. But it's deeply ingrained in me and
+  is something I have to deal mentally with *every* time I am learning/ sucking at something.
   
 ## Otherwise
 - I guess I just have to keep pushing. I really do like Haskell, and Rust has been treating me well, also.
