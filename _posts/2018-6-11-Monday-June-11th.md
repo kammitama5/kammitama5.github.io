@@ -1,8 +1,10 @@
 ## GSoc and RustReach Day 29, and a Bit of Progress...
 
 ## I can die happily right now
-- After a meeting with my mentor and his suggestions, I was able to make a function in Haskell
-  to print cleanly to the UI.
+- After a meeting with my mentor, Chris, and his suggestions, I was able to make a function in Haskell
+  to print cleanly to the UI. Gabe is flying back from Zurich today, so he gets to spend time with his family.
+  I feel kind of badly taking time away from people, but they've both reminded me that they committed to spend this
+  time with me this summer. Anyways...I went...
   
 ## Specifically from this...
 
