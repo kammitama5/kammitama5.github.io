@@ -20,6 +20,8 @@
 - I also had some build errors initially because a mutual friend and contributor, Richard, installed some AWS stuff.
   So I had to install some stuff on my end to get it to build and run, which was not a huge problem. I'm learning how
   to resolve some errors.
+- I just want to carry my laptop with me everywhere and work on Haskell every chance I get. Things are really making
+  more sense, even though I feel like a Haskell-ignoramus compared to everyone else.
 
 ## I also did first eval
 - It's the first checkpoint, so I had to do an evaluation of my mentors. 
