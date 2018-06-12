@@ -48,7 +48,7 @@
   comes up) *bites nails*.
   
 ## I also had the worst diet of all time today
-- I swear; my meals today were a frappacinno, a pack of Cheddar Chex Mix and an order of fries today.
+- I swear; my meals today were a frappuccino, a pack of Cheddar Chex Mix and an order of fries today.
   That was it, pretty much, besides straight up tea all day. I've *never* eaten so badly in my life
   before. Pretty embarrassed. Never again.
   
