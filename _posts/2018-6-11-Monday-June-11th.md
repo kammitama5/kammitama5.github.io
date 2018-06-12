@@ -52,6 +52,12 @@
   That was it, pretty much, besides straight up tea all day. I've *never* eaten so badly in my life
   before. Pretty embarrassed. Never again.
   
+## Things to do
+- Work on Rust (finish book)
+- Find what I'd like to work on (pull request for Mozilla RustReach)
+- Write Medium Article (I'll get this done before the end of June!)
+- Continue with Haskell
+  
 ## Anyways
 - So far, so good. Going to keep at it on the Haskell-train. I'm excited for the Haskell Book club, also.
   Should be fun!
