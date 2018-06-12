@@ -44,6 +44,8 @@
   a bunch of stuff over, but right now, I'm enjoying it because I like being nit-picky
   about how things are laid out in the application. It feels like writing documentation
   for a library or something on github.
+- Tomorrow we have some Git training, and you *know* me and Mr. Git are besties! (well, until a merge conflict
+  comes up) *bites nails*.
   
 ## I also had the worst diet of all time today
 - I swear; my meals today were a frappacinno, a pack of Cheddar Chex Mix and an order of fries today.
