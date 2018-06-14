@@ -10,7 +10,7 @@
 - My sprint at work had a break in the morning, so I spent the time re-working the types section (chapter 5?) of 
   Haskellbook. It's crazy how much better and easier it is for me to work through now. Weird.
 - I think once I get used to working through type errors and composition more, I'll be in much better shape.
-  But the whole process is challenging and fun.
+  But the whole process is challenging and fun. I have Haskell experience y'all! And as a student! :D
  
 ## A moment to appreciate
 - I'm really, really appreciative and satisfied with *all* of my mentors this summer. They've all made a huge
