@@ -38,9 +38,9 @@
 
 ## I'm going to PLDI
 - I was chosen as both a student volunteer *and* a scholarship recipient for PLMW. So I'm excited about attending. Plus,
-  it's in Philly, and Ben said he'd be there. I'm not sure if I mentioned I had been helping him get contacts for some
+  it's in Philly, and [Ben](https://en.wikipedia.org/wiki/Benjamin_C._Pierce) said he'd be there. I'm not sure if I mentioned I had been helping him get contacts for some
   research a while ago. Since he's at UPenn, it's easy for him to get to PLDI, and it would be a nice opportunity to catch
-  up. He's a *really* nice guy in person! Gabe said he went to school there and he hadn't met him, and I here I am, on the
+  up. He's a *really* nice guy in person! Gabe said he went to school there and he hadn't met him, and here I am, on the
   other side of the country, chatting with the guy LOL.
   
 ## Anyways, I'm burning out
