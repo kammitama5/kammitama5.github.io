@@ -32,6 +32,10 @@
 - I'd like to continue working with Haskell however I can. I realized that an opportunity I thought was set up as "open
   source" was really not that at all, but there are other options, so I'll keep contributing to my GSoC and RustReach
   projects moving forward, and continue to look for opportunities to commit code.
+- I hope *someone* gets something out of that advertised opportunity, even if it's not me. It's really a huge disservice
+  for someone to advertise an open source opportunity (and in Haskell!) and then not have it as really open to the community.
+  There are legit people who want experience in Haskell and would love an opportunity to get their feet wet in Haskell open
+  source, which can be super intimidating.
 - For GSoC, I'd like to definitely stick it through the end so my organization gets money. I'd like them to be chosen next year,
   too, so more people can get an opportunity to work on Haskell. GSoC has been a great opportunity. 
 - For Rust, the community seems particularly friendly; I'd like to continue to be a part of that community, also.
