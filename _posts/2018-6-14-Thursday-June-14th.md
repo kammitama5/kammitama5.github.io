@@ -6,7 +6,8 @@
 - I also just booked a ticket (flight) to Utah for Racket School, for which I'll be reimbursed.
 - I also discovered installation instructions for my workshop next week..which has elements of C++ in it. Good times!
 - A coworker told me yesterday "you know, you do too much". I've never really thought about that..at all. In my mind,
-  I'm always just trying to do the best I can and take advantage of opportunities and try to help people.
+  I'm always just trying to do the best I can and taking advantage of opportunities and trying to help people.
+- If I can make a community better off than when I joined it, why not?
   
 ## Open Source aka HOSS
 
@@ -14,7 +15,9 @@
   Haskell. I called it [HOSS](https://github.com/kammitama5/HOSS/issues) for now.
 - As someone relatively new to the Haskell eco-system, one of the things I really would like is a list of open source
   projects. Also, a relative time-frame for how quickly maintainers get back to persons (a response..even "I'm busy right
-  now, but I'll check this out within the coming week") and a friendliness rating for newbs.
+  now, but I'll check this out within the coming week") and a friendliness rating for newbs. It would help a lot!
+  I mean, I don't *have* to do it, and if someone else does, that's cool, too. But just as someone in that exact position,
+  it's something I want and would see value in others wanting, too.
 - Bear in mind I'm a beginner, so over time I may need help, but hey, what if this becomes an open source project for me, too? :D
 - I'd really love to share the opportunity for other people to get involved and learn Haskell, and commit more to open source.
 - Hold on..my build just completed.
@@ -31,8 +34,9 @@
 
 - Well, I shouldn't, but hear me out. One of my internships is a testing automation one, and right now I'm on the manual part,
   and I'm bored to tears. However, doing learning Haskell (particularly type-checking) not only makes it less boring, but
-  helps me make better tests. Because I've been checking against the GHC compiler and it makes me think. There is one guy who
-  legit told me he just flew through everything, passed everything. Uh. No. Haskell makes everything fun!
+  helps me make better tests. Apparently I'm also super thorough; my supervisor's face was in shock after I handed in the first assignment. Because I've been checking against the GHC compiler and it makes me think, I think it makes me better at the whole testing thing, too. There is one guy who
+  legit told me he just flew through everything, passed everything without really testing. Uh. No. Haskell makes everything fun!
+- As a budding developer, I'd like to know all the ways my code can break, so this stuff is important to me, too.
   
 ## Things upcoming
 - I have a race this afternoon. Yeah. On a boat.
@@ -41,3 +45,5 @@
 - I'll be doing Haskell Sunday
 - In between, I'll continue to build HOSS
 - I also have a meeting at 9 with the Mozilla peeps. :D
+
+## That's as much..as I can remember.
