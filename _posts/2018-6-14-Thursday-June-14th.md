@@ -3,8 +3,10 @@
 ## I'm writing this on Friday AM
 
 - I was wiped out yesterday. I'm currently building CodeWorld and checking some functions I'm adding.
-- I also just booked a ticket (flight) to Utah for Racket School, for which I'll be reimbursed.
-- I also discovered installation instructions for my workshop next week..which has elements of C++ in it. Good times!
+- I also just booked a ticket (flight) to Utah for [Racket School](https://summer-school.racket-lang.org/2018/), for which I'll be reimbursed.
+- I also discovered installation instructions for my PLDI workshop next week..which has elements of C++ in it. Good times!
+- I basically got a scholarship to their mentorship workshop, so I'll be doing that on Tuesday next week in Philly. Yay.
+  My programme just type-checked!
 - A coworker told me yesterday "you know, you do too much". I've never really thought about that..at all. In my mind,
   I'm always just trying to do the best I can and taking advantage of opportunities and trying to help people.
 - If I can make a community better off than when I joined it, why not?
