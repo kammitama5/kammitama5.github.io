@@ -30,6 +30,8 @@ so I can work in the evenings as usual. I don't have to commute or anything, so 
   so that they're viewable in the UI Inspect button. So what I've been doing is using the function ```describePicture :: Picture -> String``` to print what each function returns. I'm about six functions away from getting them to work more or less, and
   I've been building and testing every single one to see that they work.
 - My mentor just left some notes about code I have to clean up, so I'll be jumping on that shortly.
+- Update! I've completed all the functions. This included having to do a rebase and merge conflict. And I didn't delete
+  the entire repo. I'd call that a good day! Phew, now I get to see what's next!
   
 ## A friend
 - Really warmed my heart when she said that I had been through a lot and it says how much I love the language that I've still
