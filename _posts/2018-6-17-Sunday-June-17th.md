@@ -9,6 +9,7 @@
 - I have a window seat to and back (phew). I won't have my Shake Shack (wrong airline..that's in July!),
   but I think this is the terminal with Dunkin', so...haha. LAX is such a hot mess! Carry a good sense
   of humour with you because it's a train wreck...very disorganized.
+- I'll take a cup of attitude to go, please :D
 - I think I'm going to go to work in the morning for a few hours, because it's one bus stop away from
   work, so it will be cheaper if I go in the morning and take the bus to the airport. 
 - It's going to be a six hour flight. Yikes. I thought it was five! I'm probably going to get internet
@@ -17,7 +18,8 @@
   affiliated with the conference is pretty amazing. I guess it's also on the East Coast, but the list of my
   peers is pretty much Ivies...I saw Yale, MIT, UPenn, CMU, Princeton email addresses. I'm honoured but there
   is also so much I can learn from them. The dream would be to work in either Haskell or Racket for 5 years.
-  Hmm..five years of Haskell would be amazing. And I'd spend every summer working at a company that uses Haskell,
+  Hmm..five years of Haskell would be amazing. I don't think I'd speak English anymore..just Haskell. :D
+  And I'd spend every summer working at a company that uses Haskell,
   or a lab or something. That or Rust would be fine. I'm enjoying Rust. 
   But life-goals...Haskell, Rust, Racket. I guess that may make me unemployable to a lot of companies...uhhh. Ok.
   
