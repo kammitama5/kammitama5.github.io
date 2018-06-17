@@ -8,7 +8,7 @@
   as a mentor. So I have all super-awesome mentors this summer! :D
 - In other news, people in Academia must *hate* me right now, because I've sort of been dropping the ball on 
   conf PhD stuff, because I've been busy just working and coding. I literally got my dates in for Utah the day
-  it was due in. Sorry, Mr. McCarthy! :( Then, in another *awesome* K puts her foot in her mouth movie, I called
+  it was due in. Sorry, Mr. McCarthy! :( Then, in another *awesome* K puts her foot in her mouth move, I called
   someone the wrong name in an email. Winner winner chicken dinner on that one. Yikes. I apologized, though.
   100+ Academia. Fun times. They're probably plotting against me right now lol.
 - I've always been a bit of a weirdo, so I often have doubts that they'd accept me, even though I always have a 
