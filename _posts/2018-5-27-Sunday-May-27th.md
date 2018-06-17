@@ -34,8 +34,8 @@
  - So all in all, I had a really great, productive day. I have a meeting in the AM for Rust, but I'm pretty much free
    in terms of GSoC so I'll be working on the last bit tomorrow. Let the mentors have their day! :D 
    
- ## Todo
+## Todo
  - The last three constructors (involving Arc)
  - My blog post on Medium
  
- ## And that's it
+## And that's it
