@@ -9,10 +9,10 @@
 - Tested my function! If it exceeds more than 30 chars for now, it truncates, or otherwise returns the string
 - It needs tweaking but at least it kinda works :D
 
-<img src="/images/funccirc/notrunc.png" width="300">
+<img src="/images/funccirc/notrunc.png" width="500">
 
 - And this is with truncation for vertices
 
-<img src="/images/funccirc/trunc.png" width="300">
+<img src="/images/funccirc/trunc.png" width="500">
 
 - Pretty exciting!
