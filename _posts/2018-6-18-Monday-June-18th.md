@@ -26,6 +26,9 @@
   and be a working developer. I've actually opted out of a local Category Theory group in town,
   because I don't think it's useful to me at this juncture. I really just need to write a lot of 
   Haskell, fail, understand the errors and get better.
+- Particularly, there are people in the community who have turned out to not be so great at actually
+  getting stuff done in Haskell, even though they talk about Category Theory all the time. For someone
+  who is learning because they want to be a Haskell dev, it's distracting and not very helpful.
   
 ## Rust stuff
 - I have to continue with that later in the middle of this week. I had started on Sunday, and I'll
