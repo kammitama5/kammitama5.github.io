@@ -2,7 +2,7 @@
 
 ## Yeah...always something
 - Seriously, though..it's almost 2am on the East Coast and I've been working on this Haskell problem
-  for an hour now, trying to anticipate test cases, and I can't go to sleep, but I have to get up in
+  for an hour now, trying to anticipate test / edge cases, and I can't go to sleep, but I have to get up in
   5 hours. I'm ecstatic!
 - I just had a corn muffin for dinner..with corn in it! My roommate isn't here yet, either. From the Slack
   channel, it just seems like a lot of really nice people.
