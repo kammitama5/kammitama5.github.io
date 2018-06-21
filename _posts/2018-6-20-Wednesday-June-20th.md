@@ -58,7 +58,10 @@
 - Ended up going to another restaurant, when the sushi place didn't pan out. It was really fun. Sahil, one of the guys 
   in our group who is currently at MIT but originally from IIT (through an exchange programme) accidentally thought a photo
   in the restaurant was our waitress, when it was actually a photo of Janis Joplin. She really liked that, and we had a lot
-  of fun hanging out. 
+  of fun hanging out. Sahil was telling us that 1.5 million or so people apply to attend an IIT, which only accepts 5000.
+  And it's based on scores. That's the population of where I am, but our entry into high school was pretty rigorous and
+  based on one 3-hour long exam that evaluated Mathematics and English scores at the age of 10/11. I think in my year you
+  had to get at least a 97 % to get into my high school. Ugh.
   
 ## I rushed back for my meeting
 - With my GSoC mentors. Gabe got a haircut lol. Chris is flying to New York on Friday, and I'm flying back, so no meeting
