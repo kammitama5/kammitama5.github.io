@@ -28,6 +28,13 @@
 - And am really fascinated by tools like the [DaCapo](http://www.dacapobench.org/) benchmarking suite. Programmers talk about "benchmarking", but it's
   often a sort of hand-wavy explanation when I've listened in on conversations. This was the first time I had heard 
   specific, standardized tools used specifically for benchmarking from a community. So it's really interesting.
+- I've also managed to unwittingly catch the attention of almost every person at the [Semmle](https://semmle.com/) booth. 
+  Aditya said "I saw you speaking with my coworker", and soon he was roped in, and took my name down, and I said if I 
+  get into a PhD, I'd love to work with them over summer. I just really like their culture and I liked every single person
+  I've met from that company. Their reasoning makes a lot of sense to me, even though I need to get better technically
+  and just write a lot more code (which I'm working on every day). They also have an SF office, and I asked Aditya if
+  they'd possibly have a Haskell meetup or something there, because he'd meet some great people in the Bay who do Haskell.
+  He's moving there soon. I'd go, also. I really enjoyed speaking with everyong at that company, and I like their values.
   
 ## In real life
 - I met both Joaquim Breitner (who I've only ever seen via posts on github issues or pull requests or on mailing lists
