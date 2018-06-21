@@ -25,7 +25,7 @@
   describes Kotlin as "the new hotness" lol.
 
 ## I learned a lot
-- And am really fascinated by tools like the DaCapo benchmarking suite. Programmers talk about "benchmarking", but it's
+- And am really fascinated by tools like the [DaCapo](http://www.dacapobench.org/) benchmarking suite. Programmers talk about "benchmarking", but it's
   often a sort of hand-wavy explanation when I've listened in on conversations. This was the first time I had heard 
   specific, standardized tools used specifically for benchmarking from a community. So it's really interesting.
   
