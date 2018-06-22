@@ -92,7 +92,7 @@
 - I saw this really interesting talk on automated feedback for students using a repair algorithm, where there is a database of 
   correct programmes, so it matches an incorrect programme when a student is learning with the closest
   correct one. There is a paper on it [here](https://arxiv.org/pdf/1603.03165.pdf).
-  The actual github repo is [here](github.com/iradicek/clara). A lot of this research is through Microsoft.
+  The actual github repo is [here](https://github.com/iradicek/clara). A lot of this research is through Microsoft.
   It's about providing feedback for the student that is similar to the way in which they were thinking about
   a problem. It was fascinating. There were also questions about things like how to detect plagiarism. 
 - I would love such a feedback system for something like learning Lean Proving, or proofs. I suggested that
