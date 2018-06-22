@@ -6,5 +6,7 @@
   from India, later asked him what software he used to make the drawings, and he said
   "pen and paper" :D
   
+<img src="/images/pldi_1/001.png" width="500">
 
+<img src="/images/pldi_1/002.png" width="500">
   
