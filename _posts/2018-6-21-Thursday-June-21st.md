@@ -67,7 +67,7 @@
   recruit all of us haha. She also had encouraged me earlier to seriously think of attending
   Penn. If I can get in, I'd also love to attend.
 
-<img src="/images/pldi_1/009.png" width="500">
+<img src="/images/pldi_1/009.png" width="300">
 
 ## The group
 
