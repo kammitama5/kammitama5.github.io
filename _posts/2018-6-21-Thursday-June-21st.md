@@ -69,6 +69,10 @@
 
 <img src="/images/pldi_1/009.png" width="500">
 
+## The group
+
+<img src="/images/pldi_1/100.png" width="500">
+
 ## At the end of the night
 - A guy from our group and I decided to go for ice cream. He really did an excellent job
   of telling me all I needed to know about the PhD process, and what to do and what not to do.
