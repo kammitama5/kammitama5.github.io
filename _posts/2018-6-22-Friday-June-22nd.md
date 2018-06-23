@@ -24,4 +24,9 @@
 - Oh, I got back and my driver got me home within half an hour (score!). I saw that my friend from IO had written me back,
   and had given me some really great Philly recommendations. Alas, I'm back in LA, though. Next time.
   
+## I was able to push code up
+- To solve my ```intercalate``` problem I was having. So I'm just waiting on the final bit and then it's off to the next
+  part, which involves animations and a debugger slider that I'll be working on. Exciting! :D It's like game-programming
+  in Haskell!
+  
 ## And I'm off to sleep.
