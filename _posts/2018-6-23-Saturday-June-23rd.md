@@ -2,7 +2,7 @@
 
 ## Jetlag
 - Since my flight got in at midnight, I was really tired today. However, I managed
-  to get my rent together, pay all my bills for the month, and got some groceries.
+  to get my rent together, pay all my bills for the month, and get some groceries.
   I have to submit my receipts for reimbursement for PLDI, but am ok. I mostly
   feel energized to continue.
 - I also saw my photo in this article! It's called ["Hackathon Review and
