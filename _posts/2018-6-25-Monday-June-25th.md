@@ -11,7 +11,14 @@
   moves in terms of rotation are tied to bytes. It's just super interesting.
   
 ## RustReach
-- We had a meeting today, with Florian and QuietMisdreavus. It was *awesome*. My peers are amazing, and I'm going
+- We had a meeting today, with Florian and QuietMisdreavus. It was *awesome*. I love *both* of their sense
+  of humour. I asked QuietMisdreavus about VBS, and he wanted to know if I follow him on Twitter haha. 
+  Actually, I don't, but I just thought it interesting that he had created some programmes using VBS.
+  I have a friend who is obsessed with VBS and Kirby and Windows 95. Like he's literally wiped several
+  laptops and replaced the OS with Windows 95 :D And he's barely 20 years old.
+- Florian was also really interesting. I also liked his sense of humour. He says he likes puns. Oh no...
+  not *another* engineer who likes puns. Save us! :D
+My peers are amazing, and I'm going
   to spend an evening with Rust tomorrow because I seriously feel behind. So we'll see how that goes!
   I need to fail a lot at Rust, and I haven't done that yet. So that means putting in the time.
   This week is super busy for me in terms of 
