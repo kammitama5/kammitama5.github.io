@@ -24,15 +24,15 @@
   fail in Rust, first, as that will give me a lot of feedback on a lot of stuff. So that's my goal this week,
   along with starting on the GSoC debugger feature I'm working on.
   
- ## I also finally saw
+## I also finally saw
  - Ranjit's videos. The funny thing is that since he won the award, those are some of the first things that pop
    up when you google him :D They're actually pretty funny. I especially enjoyed the Ramen in the shape of a lambda.
    
- ## I also have papers to read
+## I also have papers to read
  - I have papers to read this week. I can download those and read them during the week.
  
- ## Staying up to do Haskell
+## Staying up to do Haskell
  - Today was mostly a "day off" to recover, but I may end up staying up to do some Haskell until the early morning from
    the book. Just to keep going.
    
- ## That's about it.
+## That's about it.
