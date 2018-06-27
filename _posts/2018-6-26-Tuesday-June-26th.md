@@ -8,11 +8,26 @@
 - It's the middle of the week (almost, it's Tuesday, remember :D) and if I don't take care of myself, things can go
   downhill *quickly*. And then I'll just be exhausted every day. And that's *not good*.
   
+## Why stress yourself out doing so much work?
+- It's good practice for a PhD (haha..not really the reason).
+- Not knowing how the next few months will be (since life comes in cycles), I'd like to not just rely on GSoC.
+  I *hate* being at barebones funds, because that's stressful, and LA is what it is, so I have to be prepared
+  for any unexpected things that may come up along the way and not just depend on one source. If I were to just
+  sit on my butt and let GSoC roll, after that money (which I have to put in the hours for) is done, *that's it*.
+  So I made up my mind to have a plan for it and have it work for me instead (ie not just blow it on something stupid
+  like spend all of it in a huge ramen party and invite a bunch of friends over...hmm..what an idea!).
+- Oh, btw, I also got an invitation to dog-sit for two days in July, ten to fourteen in August and about two to
+  four in September. So yeah, I'll be doing that.
+- I also have two sets of reimbursements to do for two events for which I was funded. So that's in the works,
+  and the people are efficient, so cool beans.
+
 ## So it looks like
 
 - I should be able to spend Friday on Rust most of the day, with the evenings for Haskell, and same with Saturday.
   Sunday will be Haskell-day, as will be the 4th. Last year for July 4th, I was on a boat, but I really would *prefer*
   to be on my own and just getting work done.
+- Right now, a lot of the other stuff is sort of a waste of time for me, unless it's say, PhD related (ie I was funded
+  for a workshop that improves my skill-set or helps me understand programming languages better).
   
 ## They've offered me more hours at my local internship
 
