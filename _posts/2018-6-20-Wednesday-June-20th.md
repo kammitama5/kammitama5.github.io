@@ -34,7 +34,7 @@
   I've met from that company. Their reasoning makes a lot of sense to me, even though I need to get better technically
   and just write a lot more code (which I'm working on every day). They also have an SF office, and I asked Aditya if
   they'd possibly have a Haskell meetup or something there, because he'd meet some great people in the Bay who do Haskell.
-  He's moving there soon. I'd go, also. I really enjoyed speaking with everyong at that company, and I like their values.
+  He's moving there soon. I'd go, also. I really enjoyed speaking with everyone at that company, and I like their values.
   
 ## In real life
 - I met both Joaquim Breitner (who I've only ever seen via posts on github issues or pull requests or on mailing lists
