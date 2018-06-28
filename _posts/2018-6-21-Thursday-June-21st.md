@@ -1,4 +1,4 @@
-## GSoC and RustReach Day 39
+## GSoC and RustReach Day 39 and Penn
 
 ## I got up early
 - I was working registration from 7:30am to 11am today as a student volunteer. However,
