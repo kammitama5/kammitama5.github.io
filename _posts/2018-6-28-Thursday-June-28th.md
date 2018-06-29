@@ -55,5 +55,14 @@
 - I'm getting up in the AM to do some Elm, then at 9 I have a meeting with the Mozilla people :D, then it's Rust
   for most of the day, and then in the PM I do Haskell (or maybe a bit of both, depending).
   
+## Also
+- If you'd really like to support me, I'm always looking for ways to get better at Haskell, by either doing some
+  kind of mentorship or internship (in Haskell or even PureScript or heck..even Elm!). I'd honestly be open to
+  any of that after GSoC. And I'm going to continue contributing to open source.
+- You don't need to throw me money or buy me coffee or anything (I'm actually buying another friend coffee this
+  Sunday, who sort of actually needs one right now, because that's what friends do for each other..they pick
+  you up when you're down and help you believe in yourself when you don't (or give you valid criticism when you
+  need it!)), but I'm always looking for ways to become a better FP dev!
+  
 ## So I'm going to keep it short...
 - So that's it.
