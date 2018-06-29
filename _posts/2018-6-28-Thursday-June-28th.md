@@ -27,9 +27,11 @@
   was learning Django, someone built a JavaScript Snake game, etc. And I had a conversation with someone about the
   new Python (3.7) that was released yesterday and the programming language J. I guess I'm infectious :D.
   This is a weird experience for me; coding in two internships and testing in one. Because devs talk about "testing"
-  all the time but it's kind of hand-wavy, and testers b!tch about devs lol. And I'm...in the middle, wearing 
-  Haskell tshirts and writing Haskell and Elm. Right.
-- Some of my dev friends think I shouldn't be doing this internship / job, but it works for now, and honestly, it's
+  all the time but it's kind of hand-wavy and they look down on testers, and testers b!tch about devs lol. And I'm...in the middle, wearing 
+  Haskell tshirts and writing Haskell and Elm. Right. I really don't care; I thought there would be value in this experience,
+  which is why I'm doing it. Devs can *talk* about testing all they want; I have some actual experience, while coding.
+  And it will make me a better developer.
+- Some of my dev friends think I shouldn't be doing this internship / job (and that I should quit immediately lol), but it works for now, and honestly, it's
   easy for them to say things like this off-handedly, not really thinking about how it was when they were starting out.
   Maybe they were just lucky and things just sort of fell into place for them. I don't think it's fair to assume
   that that is the case for everyone.
