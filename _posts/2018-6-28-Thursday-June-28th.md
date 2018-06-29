@@ -20,6 +20,15 @@
 - Went out for pizza for lunch today. That was nice. I still don't really feel like I fit, although I've noticed
   a strange fascination by some people into data science with testing. I guess I could reason why this might be the
   case.
+- I actually get my work done in between just writing code. Until I'm found out for doing that, or someone makes
+  a fuss about it, I'll um...keep writing Haskell and coding in general, in between getting my work done.
+  A lot of the people there, when I met them, had stopped coding once they started working. I swore to never do this
+  (I could never do this!), but strangely, I've been seeing more people learning stuff around me. So today, one guy
+  was learning Django, someone built a JavaScript Snake game, etc. And I had a conversation with someone about the
+  new Python (3.7) that was released yesterday and the programming language J. I guess I'm infectious :D.
+  This is a weird experience for me; coding in two internships and testing in one. Because devs talk about "testing"
+  all the time but it's kind of hand-wavy, and testers b!tch about devs lol. And I'm...in the middle, wearing 
+  Haskell tshirts and writing Haskell and Elm. Right.
 - Some of my dev friends think I shouldn't be doing this internship / job, but it works for now, and honestly, it's
   easy for them to say things like this off-handedly, not really thinking about how it was when they were starting out.
   Maybe they were just lucky and things just sort of fell into place for them. I don't think it's fair to assume
