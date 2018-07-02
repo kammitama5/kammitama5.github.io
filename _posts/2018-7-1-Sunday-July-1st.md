@@ -31,7 +31,7 @@
   as that is more demanding right now.
 - My GSoC mentors also committed to doing more pair-programming with me, which I think is really awesome. So that will be
   during the week (Mon through Friday typically). I'm really thankful for that.
-- Some PL people said they'd help me and want to see me succeed! PL people are pretty cool :D
+- Some famous PL people said they'd help me and want to see me succeed! PL people are pretty cool They're like family! :D
   
 ## Thoughts
 
