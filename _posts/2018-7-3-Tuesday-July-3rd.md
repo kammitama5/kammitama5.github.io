@@ -55,5 +55,5 @@
  - I can *still* improve on Lambda Calculus, though. But one of the things I'd like to just get better at
    is types and being able to (on paper) know if something will compile, without relying on the type-checker.
    
- ## So yeah...
- - I think that's about it. 
+## So yeah...
+ - I think that's about it. I'll be doing Haskell tomorrow! :D
