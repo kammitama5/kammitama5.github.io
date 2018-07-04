@@ -8,7 +8,7 @@
 
 - Ah! How cool!
 
-## Anyways
+## Anyways..Pair-Programming with Chris
 - Worked through all the tutorials for next week, and left work a bit early (3pm instead of 3:30pm)
   and took an hour nap to pair-programme with Chris. 
 - I really think it's an excellent idea that they had, because Haskell has been challenging, and 
