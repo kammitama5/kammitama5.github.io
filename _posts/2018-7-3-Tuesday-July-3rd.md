@@ -2,7 +2,7 @@
 
 ## It's Tuesday
 - But I'll do a re-cap of yesterday, too.
-- It was Bobby Findler's birthday! I happened to be doing Racket and saw this in my IDE on Monday!
+- It was Bobby Findler's birthday! I happened to be doing Racket and saw this in my IDE (Dr. Racket) on Monday!
 
 <img src="/images/bobby_f/bobby_birthday.png" width="200">
 
