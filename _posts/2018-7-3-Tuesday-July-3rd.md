@@ -4,7 +4,7 @@
 - But I'll do a re-cap of yesterday, too.
 - It was Bobby Findler's birthday! I happened to be doing Racket and saw this in my IDE!
 
-<img src="/images/bobby_f/bobby_birthday.png" width="300">
+<img src="/images/bobby_f/bobby_birthday.png" width="200">
 
 - Ah! How cool!
 
