@@ -4,7 +4,7 @@
 - But I'll do a re-cap of yesterday, too.
 - It was Bobby Findler's birthday! I happened to be doing Racket and saw this in my IDE!
 
-<img src="/images/bobbyf/birthday.png" width="400">
+<img src="/images/bobby_f/birthday.png" width="400">
 
 - Ah! How cool!
 
@@ -33,11 +33,11 @@
 ## Oh, so work
 - Yeah, the slider drags!
 
-<img src="/images/bobbyf/sliderdrags.png" width="400">
+<img src="/images/bobby_f/sliderdrags.png" width="400">
 
 - So it doesn't click around, but it does indeed drag!
 
-<img src="/images/bobbyf/sliderdrags1.png" width="400">
+<img src="/images/bobby_f/sliderdrags1.png" width="400">
 
 - The next thing I need to work on is making it so that it draws during different states; 
   when the mouse is pressed, when it is released, and when it is dragged are all different
