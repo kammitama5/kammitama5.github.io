@@ -24,7 +24,7 @@
 - So shallow socializing just makes me feel more behind on everything and I think it's stupid trying to force myself to relate
   to people where I currently live because I don't..have much...in common...with the people here...my age.
   I have no interest in getting drunk and seeing fireworks, but I do care about the history of the US, and what it
-  stands for. As an immigrant, that means more to me, and the promise of opportunity. I think about my family. I miss them.
+  stands for. As an immigrant, that means more to me, and the promise of opportunity. I think about my mom and dad. I miss them.
 - I really like my JPL mentor, though; he's probably three times my age (LOL) but I relate to him a *lot* more. He always
   knows how to say the most perfect things, like when I was complaining about hostile Haskell-land, and he joked (okay,
   there was some fervour in his words) that he could interest me in some Fortran. It made me feel better. He's also
