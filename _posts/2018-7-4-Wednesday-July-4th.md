@@ -48,5 +48,7 @@
   
 ## That's it for me
 - Back to work
+- Oh, also this post on difference between [putStrLn and print](https://stackoverflow.com/questions/19288652/difference-between-print-and-putstrln-in-haskell) was helpful. Apparently ```print x = putStrLn (show x)```. OK. Who knew. It helped me get 
+  my function to type-check today.
 
 
