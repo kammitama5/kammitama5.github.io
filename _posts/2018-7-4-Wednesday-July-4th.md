@@ -27,7 +27,17 @@
   stands for. As an immigrant, that means more to me, and the promise of opportunity. I think about my family. I miss them.
 - I really like my JPL mentor, though; he's probably three times my age (LOL) but I relate to him a *lot* more. He always
   knows how to say the most perfect things, like when I was complaining about hostile Haskell-land, and he joked (okay,
-  there was some fervour in his words) that he could interest me in some Fortran. It made me feel better.
+  there was some fervour in his words) that he could interest me in some Fortran. It made me feel better. He's also
+  *truly* successful and wants me to be somebody and isn't all talk. I really like that. It's the most honest thing.
+- I've been keeping away from people who talk but are selfish and won't help up and comers (which exists in many parts of
+  the community) or talk but have nothing on their Github repos (also exists). This is real talk. This isn't helping people
+  who are serious. Gabe had a great line "there are only so many ways you can say *Haskell is awesome*". Right now it
+  hurts like hell, but I want to put my money where my mouth is. I don't want to be one of those people who just hangs 
+  around the community for the *free stuff* and doesn't write enough code.
+- I mean, you can be like that if you like. It just isn't for me. It reminds me of this one guy who would show up to a 
+  monthly seminar, go for the free food, pile his plate up with food, and then nod off to sleep *before the seminar even
+  started*. He would *legit* start snoring. Finally, they'd had enough and had a talk with him. Thank goodness they had
+  the b@lls. 
   
 ## One more thing...The weird thing about listening to a playlist on loop
 - Is that you have no sense of time. So five hours passed this morning before I took a break and I had no idea. I sat down
@@ -37,6 +47,6 @@
   on the offer.
   
 ## That's it for me
-
+- Back to work
 
 
