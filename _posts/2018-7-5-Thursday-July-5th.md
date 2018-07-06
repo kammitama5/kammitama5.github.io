@@ -40,6 +40,7 @@ but I was conflicted, and he gave me
   of profound...there is a whole *dimension* of this I hadn't thought of before." It's like you have to grow
   up yourself to really understand what the person is trying to tell you. I don't really get that from my peers
   or the general programming community. I think that some of it comes from being worldly. It's different.
+  And it's often done with what I can only advise as "selfless guidance".
   A really good friend of mine who did that *all the time* (and wasn't my dad) was a high-school dropout who
   started his own business from scratch and was pretty much a multi-millionnaire by the time he was in his 30s
   (if not before). He just thought about everything differently, and understood people and motivation. I was
