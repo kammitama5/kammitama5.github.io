@@ -45,7 +45,8 @@ but I was conflicted, and he gave me
   started his own business from scratch and was pretty much a multi-millionnaire by the time he was in his 30s
   (if not before). He just thought about everything differently, and understood people and motivation. I was
   always super impressed by him because he always had a great work ethic and a sense of purpose about his life.
-  I often have felt like my peers care too much about what other people think; he never had that. He was *free*.
+  I often have felt like my peers care too much about what other people think; he never had that. He was *free*
+  and helped *so many people* and gave them direction in their lives by example. That's been rare here.
   
 - A friend of mine was talking about literature today; fascinated by a book. But it was something I had
   read in school. A few years ago, I would borrow 45 books at a time from the library. I wanted to understand
