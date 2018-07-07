@@ -78,8 +78,8 @@
    if they had LEDs and research what sort of technology I was thinking of. 
    Eventually, I became frustrated with that, and fell into programming.
    
-## ...Putting in Extra work...
- - But I missed Integrals. My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
+## ...But back to Putting in Extra work...
+ - But I missed Integrals in high school. My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
    in Mathematics. At the end of the day, no one knew the difference. All they saw was my grade,
    but I had to bust my butt for it because I was behind. I think about moments like that when
    I feel stupid again; when I feel behind. I've *done* this before, I can do it again. Even if
