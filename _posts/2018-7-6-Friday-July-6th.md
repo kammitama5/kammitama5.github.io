@@ -71,6 +71,12 @@
    She looked at me and said "Let me guess..sciences, huh". I remember feeling stupid; here was this school
    treating us like we were *special* because we were in *the smart class* ie the sciences, but yet I didn't
    know this word. I was missing out on a lot, I thought. Maybe that's part of why I took the shift.
+ - But I was forever frustrated that I couldn't find the academic *rigour* I had enjoyed in the sciences.
+   I was in a concept design class once, where people cared more about "shapes". We were designing something
+   or the other for some imaginary movie in the future, and I realized most of the class was blanking out
+   because I'd want to describe what every pipe would do, if parts had rivets, what kind metal they'd use,
+   if they had LEDs and research what sort of technology I was thinking of. 
+   Eventually, I became frustrated with that, and fell into programming.
    
 ## ...Putting in Extra work...
  - But I missed Integrals. My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
