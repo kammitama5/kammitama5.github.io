@@ -5,6 +5,8 @@
   Alas, it wouldn't move past the Start screen. I scoured ```the Internets``` and found
   that that had in fact happened for some users on Ubuntu 18.04. So I attempted a fresh
   install from my USB.
+- I've done that before, so that's not a problem, but it meant rebuilding my project, which
+  runs with GHCJS, and takes *hours* the first time.
   
 ## So that took me until around 6pm
  - Which was about the time Chris got on call with me to do some pair-programming.
