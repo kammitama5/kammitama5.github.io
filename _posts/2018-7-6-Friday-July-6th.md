@@ -49,6 +49,11 @@
    in some events and painting backdrops in the all-boys school. And I felt stupid. So I remember
    what that feels like, and it was easier for me later on whenever I felt that way. It just meant
    I had to put in the time to work harder.
+ - My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
+   in Mathematics. At the end of the day, no one knew the difference. All they saw was my grade,
+   but I had to bust my butt for it because I was behind. I think about moments like that when
+   I feel stupid again; when I feel behind. I've *done* this before, I can do it again. Even if
+   people say I'm a beginner right now...I won't be forever. I'll make sure of that. I can put in the work.
  - For some people, it's more difficult, particularly if they've *always* been in a situation where
    things weren't challenging, or school was too easy. That's a dangerous thing because the later on
    in life you learn that lesson (it's okay to suck), the earlier you learn about grit.
