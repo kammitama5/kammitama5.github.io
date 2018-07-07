@@ -7,7 +7,9 @@
   that that had in fact happened for some users on Ubuntu 18.04. So I attempted a fresh
   install from my USB.
 - I've done that before, so that's not a problem, but it meant rebuilding my project, which
-  runs with GHCJS, and takes *hours* the first time.
+  runs with GHCJS, and takes *hours* the first time. Today was also supposedly up to ```117 degrees```
+  where I'm currently located. So..fun times. I had to bring a fan in to my working area while
+  working today. Or... death.
   
 ## So that took me until around 6pm
  - Which was about the time Chris got on call with me to do some pair-programming.
