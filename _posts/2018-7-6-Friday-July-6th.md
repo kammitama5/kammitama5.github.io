@@ -61,9 +61,19 @@
    because they often *weren't good at Mathematics*. I had made a conscious decision, in *spite of* 
    being good at sciences, to move away from it, because engineering in my country was basically a left-
    over system from the days of British-colonialism and had zero inventiveness or room for creativity.
+ - I remember my dad having a conversation with me years ago, telling me "Physics, Maths..Art...that's
+   perfect for Architecture. Are you sure you don't want to study that?". I guess they thought I was 
+   flushing down all the hard work I had put into learning Newtonian Physics and all that. But when
+   I came to the US, people were continuously astounded that I'd do well at Mathematics. Doesn't everyone?,
+   I thought.
+ - A senior girl in high school was also writing a newspaper arcticle and because I typed quickly, I was asked
+   to transcribe. She said the word "juxtaposed", and I didn't know what it meant or how to spell it.
+   She looked at me and said "Let me guess..sciences, huh". I remember feeling stupid; here was this school
+   treating us like we were *special* because we were in *the smart class* ie the sciences, but yet I didn't
+   know this word. I was missing out on a lot, I thought. Maybe that's part of why I took the shift.
    
 ## ...Putting in Extra work...
- - My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
+ - But I missed Integrals. My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
    in Mathematics. At the end of the day, no one knew the difference. All they saw was my grade,
    but I had to bust my butt for it because I was behind. I think about moments like that when
    I feel stupid again; when I feel behind. I've *done* this before, I can do it again. Even if
