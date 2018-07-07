@@ -32,7 +32,7 @@
    a bit of a mystery. But everything else works. So I filed a bug for that one issue.
  
 ## Over the weekend
- - I am tasked with looking at the Elm debugger, so I'll be building a version of that and 
+ - I am tasked with looking at the Elm debugger, so I'll be building a version of that Sat/ Sun and 
    going to see how it works, and breaking that down. We'll be trying to implement a similar
    type debugger for our slider in Haskell, which is really exciting. That should take me
    to the end of GSoC, essentially. And then I'll be sad :(
