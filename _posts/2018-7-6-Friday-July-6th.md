@@ -49,6 +49,20 @@
    in some events and painting backdrops in the all-boys school. And I felt stupid. So I remember
    what that feels like, and it was easier for me later on whenever I felt that way. It just meant
    I had to put in the time to work harder.
+ - The funny part is some people (*cough recruiters*) assuming that I didn't do a lot of Mathematics because I didn't
+   originally choose CS. But I *could* have gone into engineering school. I studied Maths, Physics
+   and Art for 18 years, but decided I didn't want to design oil-pipes for a living, and that's what
+   *engineer* was in my mind in my country. It was not until I came to California that I realized that
+   engineers were *creative*. They could design space-ships and make real things. I didn't have
+   that growing up. In my mind, engineers were the *opposite* of creative growing up, even though
+   I was strong in Physics and Maths. And I also had some talent in Art, so I was split, because I
+   was both "left-brain" and "right-brain" (if you believe in that stuff). So I mostly felt out-of-place.
+ - I didn't realize in the US, people who didn't study Maths at college-level did it consciously also
+   because they often *weren't good at Mathematics*. I had made a conscious decision, in *spite of* 
+   being good at sciences, to move away from it, because engineering in my country was basically a left-
+   over system from the days of British-colonialism and had zero inventiveness or room for creativity.
+   
+## ...Putting in Extra work...
  - My mom spent time with me, I stayed up until 4 in the morning, took extra lessons and got my A
    in Mathematics. At the end of the day, no one knew the difference. All they saw was my grade,
    but I had to bust my butt for it because I was behind. I think about moments like that when
