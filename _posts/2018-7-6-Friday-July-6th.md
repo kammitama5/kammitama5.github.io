@@ -2,6 +2,7 @@
 
 ## It's a joke really
 - But I had a meeting this morning, and decided to update my computer.
+  So I restarted.
   Alas, it wouldn't move past the Start screen. I scoured ```the Internets``` and found
   that that had in fact happened for some users on Ubuntu 18.04. So I attempted a fresh
   install from my USB.
