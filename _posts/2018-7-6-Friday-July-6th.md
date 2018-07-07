@@ -58,7 +58,7 @@
    I was strong in Physics and Maths. And I also had some talent in Art, so I was split, because I
    was both "left-brain" and "right-brain" (if you believe in that stuff). So I mostly felt out-of-place.
  - I didn't realize in the US, people who didn't study Maths at college-level did it consciously also
-   because they often *weren't good at Mathematics*. I had made a conscious decision, in *spite of* 
+   because they often felt they *weren't good at Mathematics*. I had made a conscious decision, in *spite of* 
    being good at sciences, to move away from it, because engineering in my country was basically a left-
    over system from the days of British-colonialism and had zero inventiveness or room for creativity.
  - I remember my dad having a conversation with me years ago, telling me "Physics, Maths..Art...that's
