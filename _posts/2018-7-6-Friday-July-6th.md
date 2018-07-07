@@ -17,7 +17,17 @@
  - It was an *excellent* pairing session. I felt like understood things a lot more clearly,
    and it was a good pace for me, and very conversational. I really enjoyed it! And we got
    a fair amount done.
-   
+ - And oh snap, I used my first ```fold``` in production code. Wut?
+ - So the slider drags, is constrained by the size of the slider box, is also thinner so it
+   looks more like a slider, has snap points for integers 1 through 4 (the actual distance is
+   0 through 5) and the components work correctly together. They also drag over until you
+   release the mouse button (so basically the logic for the dragging works as expected).
+   The ```fence``` constraint was also added so the slider can't move below 0 or above 5
+   ie outside of the slider box and value constraints.
+ - I'm having a weird ```Exception Handling JS``` bug on my build that shows up shortly
+   after my code compiles locally in the browser, but the build still runs. So that's still
+   a bit of a mystery. But everything else works. So I filed a bug for that one issue.
+ 
 ## Over the weekend
  - I am tasked with looking at the Elm debugger, so I'll be building a version of that and 
    going to see how it works, and breaking that down. We'll be trying to implement a similar
