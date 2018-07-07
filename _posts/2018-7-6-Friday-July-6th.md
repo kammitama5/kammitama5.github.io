@@ -56,7 +56,10 @@
    people say I'm a beginner right now...I won't be forever. I'll make sure of that. I can put in the work.
  - For some people, it's more difficult, particularly if they've *always* been in a situation where
    things weren't challenging, or school was too easy. That's a dangerous thing because the later on
-   in life you learn that lesson (it's okay to suck), the earlier you learn about grit.
+   in life you learn that lesson (it's okay to suck), the later you learn about grit and relying
+   less on "natural talent". I had a professor who didn't believe in natural talent at all. He said
+   he always told himself "I may not be the most talented, but I can work the hardest". In rowing,
+   the captain would say "suck it up ladies..suck it up!". 
  - I was reading a Quora question today about the difference between a good PhD student and a great one,
    and one of the comparisons the person made was that you're excited by not knowing or being wrong.
    You go from someone who always thinks they have to know the answer and freaking out if this isn't the
