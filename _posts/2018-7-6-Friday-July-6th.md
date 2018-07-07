@@ -51,7 +51,7 @@
    I had to put in the time to work harder.
  - The funny part is some people (*cough recruiters*) assuming that I didn't do a lot of Mathematics because I didn't
    originally choose CS. But I *could* have gone into engineering school. I studied Maths, Physics
-   and Art for 18 years, but decided I didn't want to design oil-pipes for a living, and that's what
+   and Art for 18 years, but decided I didn't want to design petroleum-pipes for a living, and that's what
    *engineer* was in my mind in my country. It was not until I came to California that I realized that
    engineers were *creative*. They could design space-ships and make real things. I didn't have
    that growing up. In my mind, engineers were the *opposite* of creative growing up, even though
