@@ -32,10 +32,16 @@
  - I have some Elm to do today. I'm focusing on understanding how the debugger works. So I may make some notes on
    this as I understand it tonight. 
 ## Update
- - So I didn't *actually* get around to doing the Elm stuff because earlier in the day I tried to wake my laptop
+ - So I didn't *actually* get around to doing the Elm earlier in the day I tried to wake my laptop
    up from sleeping, and it actually didn't wake up :O
  - As it turns out, my screen went kaput, so I could see it dimly flickering. So working on getting that repaired,
    but in the meantime I got a Lenovo Laptop. It has a more powerful core and is already faster, and I think I might
    even be able to get Chromium properly installed on this one. So we shall see. I guess Henry II (this new one) needs
    some Haskell, space and Coq stickers :D
+   
+ ## Elm
+  - So I believe our slider will be something along the lines of [this](http://debug.elm-lang.org/edit/Stamps.elm).
+    Here it keeps in memory a list of the mouse positions and their click locations. The slider tracks when they occurred,
+    and we can go back in time to a state in time in which the clicks were applied.
+  - Apparently, the debugger was inspired by [this talk](https://www.youtube.com/watch?v=PUv66718DII)
  
