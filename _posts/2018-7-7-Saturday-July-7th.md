@@ -31,4 +31,11 @@
 ## Anyways
  - I have some Elm to do today. I'm focusing on understanding how the debugger works. So I may make some notes on
    this as I understand it tonight. 
+## Update
+ - So I didn't *actually* get around to doing the Elm stuff because earlier in the day I tried to wake my laptop
+   up from sleeping, and it actually didn't wake up :O
+ - As it turns out, my screen went kaput, so I could see it dimly flickering. So working on getting that repaired,
+   but in the meantime I got a Lenovo Laptop. It has a more powerful core and is already faster, and I think I might
+   even be able to get Chromium properly installed on this one. So we shall see. I guess Henry II (this new one) needs
+   some Haskell, space and Coq stickers :D
  
