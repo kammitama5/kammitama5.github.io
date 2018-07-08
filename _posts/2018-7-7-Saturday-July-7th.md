@@ -35,9 +35,12 @@
  - So I didn't *actually* get around to doing the Elm earlier in the day I tried to wake my laptop
    up from sleeping, and it actually didn't wake up :O
  - As it turns out, my screen went kaput, so I could see it dimly flickering. So working on getting that repaired,
-   but in the meantime I got a Lenovo Laptop. It has a more powerful core and is already faster, and I think I might
-   even be able to get Chromium properly installed on this one. So we shall see. I guess Henry II (this new one) needs
-   some Haskell, space and Coq stickers :D
+   but in the meantime I got a Lenovo Laptop. It has a more powerful core and is already faster; however
+   Chromium is not working on 18.04 in a stable manner. There have been several complaints.
+   So I opted for Opera instead, and I *love* it. It's fast. It also works flawlessly with GHangouts, which
+   is what we use for our screen-sharing. I also got a new headset, which is more
+   like the one I use at work. It also works quite well. Henry II (this new laptop) has
+   space, Deep Spec, LambdaConf and Coq stickers :D However, he really needs a Haskell sticker :(
    
  ## Elm
   - So I believe our slider will be something along the lines of [this](http://debug.elm-lang.org/edit/Stamps.elm).
