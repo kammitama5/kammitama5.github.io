@@ -42,7 +42,7 @@
    like the one I use at work. It also works quite well. Henry II (this new laptop) has
    space, Deep Spec, LambdaConf and Coq stickers :D However, he really needs a Haskell sticker :(
    
- ## Elm
+## Elm
   - So I believe our slider will be something along the lines of [this](http://debug.elm-lang.org/edit/Stamps.elm).
     Here it keeps in memory a list of the mouse positions and their click locations. The slider tracks when they occurred,
     and we can go back in time to a state in time in which the clicks were applied.
