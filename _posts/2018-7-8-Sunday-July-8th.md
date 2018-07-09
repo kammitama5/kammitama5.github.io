@@ -9,7 +9,8 @@
 - I took an afternoon nap and pretty much spent the evening looking at Haskell and Elm.
 - Trying to deconstruct the stamp example, which I *think* is making a list of the 
   the pentagons based on their X coordinate. The X coordinate is the centre of the pentagon.
-- So something like ```if Mouseclick then store X and Y coordinate```.
+- So something like ```if Mouseclick then store X and Y coordinate```, where each Mouseclick is 
+  of form ```[x,y]```. So we end up with a list of lists. ```[[90, 200],[285, 20]]```, etc.
 - It then makes a timeline based on the closest X coordinate and the furthest one, and that becomes
   the "timeline". To go back "in time", we look for the X coordinates collected in the list.
   So say, if one pentagon is drawn with a centre of X coordinate 89, on our timeline, if we go to the 
