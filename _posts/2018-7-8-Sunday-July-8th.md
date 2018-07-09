@@ -20,6 +20,8 @@
 ## I spent the other part of the evening
 - Reviewing Higher order Functions and Typeclasses and also trying to understand the [State Monad.](https://en.wikibooks.org/wiki/Haskell/Understanding_monads/State)
 - I really like the examples of probability, because they are essentially the way you would expect to do them in statistics.
+- Oh, I also joined the Haskell-art list forum for fun. One guy I know already started posting on there. He's into ontology,
+  Haskell, and live-coding.
 
 ## Other reading
 - [SO](https://stackoverflow.com/questions/36655035/how-to-print-the-result-of-a-state-monad-in-haskell)
