@@ -4,7 +4,8 @@
  - I had a conversation with Matthias Felleisen today about how someone would know if they're good enough
    to pursue a PhD. As always, I've been feeling like I'm not good enough, although I'm constantly surprised
    by all the scholarships and grants I've been fortunate to receive along my path. He said that I may not want
-   to hear this answer, as many people aren't, but "passion". I really liked that answer. It was satisfying.
+   to hear this answer, as many people aren't, but "passion" is what is needed most. I really liked that answer. It was satisfying. He told me a story of a person who was not doing so well, but was determined, and is doing well now.
+   You can turn it around if you are willing to put in the work. I liked that.
    It's probably the highest rated thing (besides grit) that I have right now. This is not just for a PhD,
    but for learning Haskell in general. 
  - I know that there are better people out there in terms of the skill-set or when they started, but I have the determination.
@@ -15,6 +16,13 @@
  - I learned *so* much today, and it has helped me reason a lot better about code in general. It's so weird.
  - I also have another idea for PhD study that relates to one idea I have. It also relates to my GSoC project.
    So that would be kind of awesome. 
+   
+## Matthias also mentioned
+ - Quine and ```referential transparency```. I had no idea the two (philosophy and RT) were related. Now I want
+   to read all of it. I downloaded the paper. I believe he calls it ```referential modularity```. Speaking to
+   Matthias made me just think more deeply about a *lot* of stuff. All of a sudden I had all these questions.
+   He is really one of those persons who is not only passionate about what he does, but he makes you think 
+   about things in a different way. I really liked interacting with him. 
    
 ## Meeting with my mentor
  - I filled out the second evaluation today. And had a really great meeting with both my mentors.
