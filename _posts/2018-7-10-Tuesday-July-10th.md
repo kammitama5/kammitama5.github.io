@@ -22,7 +22,7 @@
  ```
   - It looks like Haskell to me :) Actually, doing this *has* helped me with Haskell. It was a real mental workout
     and I think if I did enough of this for the rest of my life, it would probably make me a better programmer.
-    It's also pretty readable, especially if one knows Haskell.
+    It's also pretty readable, especially if one knows Haskell. The longer version is [here](https://github.com/kammitama5/racket_jacket/blob/master/algebra.rkt)
   
 ## This is pretty silly, also
  
