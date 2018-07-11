@@ -26,7 +26,7 @@ Started out in New York, mostly in California, but get around to the other state
 
 ### Other 
 
-[Gist of Things](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/KM_Resume.pdf)
+[Gist of Things](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/KM_Resume_1.pdf)
 
 ### Contact me
 
