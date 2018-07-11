@@ -54,4 +54,6 @@
  - Yeah. Pretty silly. I'm just learning. Maybe one day...when I'm 60 or something.
  
 ## Anyways
- - I should get back to work...on Haskell.
+ - I should get back to work...on Haskell. I found an example of ```interactionOf``` so I can get a sense of how it
+   works. From what I've seen thus far, it doesn't seem to have an implementation in the actual documentation
+   of ```CodeWorld```, and I'd like to understand that because it's a little bit different from ```simulationOf```.
