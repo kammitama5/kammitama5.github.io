@@ -24,7 +24,7 @@
  
 ## Fun times!
 
-<img src="/images/gsocbreak/crashed.png" width="400">  
+<img src="/images/gsocbreak/crashed.png" width="500">  
    
 ## I wrote a toy-language that works :D
  - It's silly, but it actually parsed addition, subtraction, numbers and booleans. I was mighty proud of that.
