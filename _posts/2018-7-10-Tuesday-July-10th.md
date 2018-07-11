@@ -9,7 +9,11 @@
    to do it a bit earlier so we could both head to sleep at a decent time. Right now, I'm working on ```debugInteractionOf```.
    
 ## I wrote a toy-language that works :D
- - It's silly, but it actually parsed addition, and booleans. I was mighty proud of that.
+ - It's silly, but it actually parsed addition, subtraction, numbers and booleans. I was mighty proud of that.
+   I've been pair-programming with a Haskellino who explains things to me in Haskell, but also knows a good bit 
+   of this stuff, and it's been helping me. He's also incredibly patient and just a nice guy, and helps run
+   BayHac :). He had a Haskell sticker on his laptop and Matthias wanted to put a Racket sticker over it. Alas,
+   Haskell still stands strong.
  
 ## I wrote this function :)
  
