@@ -1,7 +1,7 @@
 ## GSoC Day 58
 
 ## So...
- - My plug for one of my laptops has a short in it, so it ran out of charge, so...got a new AC plug today for $15,
+ - My plug for one of my laptops has a short in it, so it ran out of charge, so...got a new AC plug today for $15 online,
    but I probably won't have access to it until Saturday....I think, based on shipping. So..yeah. 
  - So I'm currently working on Haskell and trying to get Opera to install on my *other* small ($20) laptop.
    This summer has been the juggling-trick of laptops. 
