@@ -4,7 +4,7 @@
  - My plug for one of my laptops has a short in it, so it ran out of charge, so...got a new AC plug today for $15 online,
    but I probably won't have access to it until Saturday....I think, based on shipping. So..yeah. 
  - So I'm currently working on Haskell and trying to get Opera to install on my *other* small ($20) laptop.
-   Opera has actually been the fastest, most reliable browser thus far. Plus, it runs Hangouts pretty well.
+   Opera has actually been the fastest, most reliable browser thus far on my Linux laptops. Plus, it runs Hangouts pretty well.
    This summer has been the juggling-trick of laptops. 
  - In other news...the ```debugSimulationOf``` button works; Chris pair-programmed with me today, and we were able
    to do it a bit earlier so we could both head to sleep at a decent time. Right now, I'm working on ```debugInteractionOf```.
