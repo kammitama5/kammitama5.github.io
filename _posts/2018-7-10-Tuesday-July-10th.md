@@ -14,7 +14,7 @@
    I've been pair-programming with a Haskellino who explains things to me in Haskell, but also knows a good bit 
    of this stuff, and it's been helping me. He's also incredibly patient and just a nice guy, and helps run
    BayHac :). He had a Haskell sticker on his laptop and Matthias wanted to put a Racket sticker over it. Alas,
-   Haskell still stands strong.
+   Haskell still stands strong. I took a beating on behalf of Haskell, btw, but it's all good. Haskell til death!
  
 ## I wrote this function :)
  
