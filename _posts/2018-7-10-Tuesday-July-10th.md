@@ -9,6 +9,23 @@
  - In other news...the ```debugSimulationOf``` button works; Chris pair-programmed with me today, and we were able
    to do it a bit earlier so we could both head to sleep at a decent time. Right now, I'm working on ```debugInteractionOf```.
    
+## Laptop
+ - So, I was not able to get my laptop with the short to charge; there's an intermittent signal and I don't 
+   have a line-tester or anything. Right now it's at 27% and going to die at some point. I usually use that
+   for audio as when I used the gifted computer and screenshared, there was a slight lag in audio.
+   I haven't tested it on the new computer with the better core just yet.
+ - In the meantime, I tried installing Hangouts on my other ($20 Linux running Ubuntu 14.04) laptop via:
+   - Firefox (which was slow with Hangouts and crashed my browser)
+   - Opera (which was working but then got to Hangouts, I installed a plug-in, and that plug-in crashed.
+     The Hangouts website was functional except for the "Join now" button..which is the whole point.
+     Kind of like an ATM which lets you do everything but deposit or take out money, really.
+  - So I guess the new laptop will be supporting my meetings until I get a new cable (hopefully, that works)
+    Saturday.
+ 
+## Fun times!
+
+<img src="/images/gsocbreak/crashed.png" width="400">  
+   
 ## I wrote a toy-language that works :D
  - It's silly, but it actually parsed addition, subtraction, numbers and booleans. I was mighty proud of that.
    I've been pair-programming with a Haskellino who explains things to me in Haskell, but also knows a good bit 
