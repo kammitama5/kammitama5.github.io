@@ -23,7 +23,8 @@
   (syntax-parse stx
     [(_ . v:number) #'(#%datum . v)]
     [(_ . v:boolean) #'(#%datum . v)]
-    [(_ . other) (raise-syntax-error #f "not allowed" #'other)]))
+    [(_ . other) 
+    (raise-syntax-error #f "not allowed" #'other)]))
  ```
   - It looks like Haskell to me :) Actually, doing this *has* helped me with Haskell. It was a real mental workout
     and I think if I did enough of this for the rest of my life, it would probably make me a better programmer.
