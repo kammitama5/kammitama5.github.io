@@ -3,7 +3,7 @@
 ## I learned some things about myself today
 
  - I had a *really* interesting evening tonight! I pair-programmed with a guy named Frank during the day for about 8 hours,
-   and I was really pushed. I really appreciate the patience he had with me to keep going. 
+   and I was really pushed. I was mentally wiped out afterwards. I really appreciate the patience he had with me to keep going. 
  - One of the things I *really* have to work on is not being paralyzed by a large problem. Basically,
    being able to look at a problem and break it down into smaller problems. Right now, I rely too much
    on pattern matching. Every problem is a nail..or I'm looking too much for metaphorical "nails".
