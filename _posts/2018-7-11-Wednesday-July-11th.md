@@ -51,7 +51,8 @@
    me a *lot*, and is a good starting point for me.
    
 ## And that's about it!
- - Here is a photo from today :)
+ - Here is a photo from today :) This is courtesy of [Racket School 2018](https://summer-school.racket-lang.org/2018/plan/mon-mor-lecture.html). If you want to be challenged, I *highly* recommend it. 
+ It was blood, sweat and tears, but *very* rewarding.
  
  <img src="/images/racket_ambition.png" width="400">
    
