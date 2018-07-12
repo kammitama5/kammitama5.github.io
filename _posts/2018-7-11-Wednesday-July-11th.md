@@ -47,7 +47,7 @@
 ## Today was really a mental workout
  - I learned a lot today, and about myself. I may call it a night early, but I'm going to get up early to start
    documenting things, first by looking at the function ```interactionOf```, so I can reason about how that works
-   via its implementation on the user side, and then translate that to the code base. I think that that would help 
+   via its implementation on the user side, and then translate that process to the code base. I think that that would help 
    me a *lot*, and is a good starting point for me.
    
 ## And that's about it!
