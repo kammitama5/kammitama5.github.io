@@ -2,14 +2,14 @@
 
 ## I learned some things about myself today
 
- - I had a *really* interesting evening tonight! I pair-programmed with a guy today for about 8 hours today,
+ - I had a *really* interesting evening tonight! I pair-programmed with a guy named Frank during the day for about 8 hours,
    and I was really pushed. I really appreciate the patience he had with me to keep going. 
  - One of the things I *really* have to work on is not being paralyzed by a large problem. Basically,
    being able to look at a problem and break it down into smaller problems. Right now, I rely too much
    on pattern matching. Every problem is a nail..or I'm looking too much for metaphorical "nails".
  - Essentially, if I look at a problem and it's something that is similar to something I've seen,
    I use that look-up table and resolve that X is the way to solve the problem, and if not, it's often
-   difficult for me to know where to start. That's what they teach you in school.
+   difficult for me to know where to start, because I grasp at straws mentally. That's what they teach you in school.
  - "This is how you write a for-loop..when you want to count things". So you start to associate all "counting problems"
    with for-loops. I don't want to think like that, but instead want to be more in line with the way mathematicians
    tend to think, which is more-so reasoning about problems by breaking things down, and considering the trade-offs
@@ -35,3 +35,25 @@
  - In true Gabe-style, he has a blog post that he recommended to me called ["How to Desugar Haskell Code"](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
    He also gave me a copy of the notes he made, which is how he says he breaks down a problem, by basically talking to himself
    through the problem. That was super helpful!
+   
+## I want to work on a Parser
+ - I'd like to work on something like a language or parser because I think it would ([today's activity](https://github.com/kammitama5/racket_jacket/tree/master/7_11_18_notes_and_programmes) was one involving
+   grammars, parsers, lexers and tokenizers) force me to work on smaller bits that become parts of larger bits, and 
+   learn to debug and solve problems that are small and become larger problems as the code-base grows. I think that
+   I would learn a lot from that, particularly in a recursive language like Haskell or Racket. So that's my next 
+   goal for myself.
+   
+## Today was really a mental workout
+ - I learned a lot today, and about myself. I may call it a night early, but I'm going to get up early to start
+   documenting things, first by looking at the function ```interactionOf```, so I can reason about how that works
+   via its implementation on the user side, and then translate that to the code base. I think that that would help 
+   me a *lot*, and is a good starting point for me.
+   
+## And that's about it!
+ - Here is a photo from today :)
+ 
+ <img src="/images/racket_ambition.png" width="400">
+   
+
+   
+
