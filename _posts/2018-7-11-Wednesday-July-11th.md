@@ -29,7 +29,8 @@
  - It's often difficult to know where to *start* in a large code-base, also. I have found myself asking over and over
    again in the meetings for GSoC "where do I start?" or "Which one should I work on first?" based on the general
    agenda. I really think if I listened to Gabe's suggestion of writing everything down and asking questions to
-   myself that this will become more apparent to me over time.
+   myself that this will become more apparent to me over time. It would also help in cementing my thought process
+   when I have to come back to a code-base several days afterwards; I can revisit my thoughts and my reasoning.
    
 ## Of course he has a blog post...
  - In true Gabe-style, he has a blog post that he recommended to me called ["How to Desugar Haskell Code"](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
