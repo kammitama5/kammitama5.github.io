@@ -12,7 +12,8 @@
  - Was that Matthias said he'd chat with those who were interested in pursuing a PhD in PL. He described the average
    Bachelor's as kind of a shallow experience. I went in a little later, so my experience was quite different, 
    and I worked three jobs throughout, rowed on a NCAA division 1 team, attended an Ivy through an exchange programme
-   in between, spent a summer in a tiny country in West Africa and pretty much moved to a different country to attend
+   in between, spent a summer in a tiny country in West Africa through a Disney scholarship (as one of two students
+   chosen from our school) and pretty much moved to a different country to attend
    school, but
    I do notice that a lot of people come out not very well-rounded or worldly. 
    I did a *lot* in school, and I remember my parents walking on to campus and even the gardeners 
