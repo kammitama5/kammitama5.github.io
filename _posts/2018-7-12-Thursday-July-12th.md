@@ -40,6 +40,7 @@
  - Also check out the lab and talk to the students there. Find out about their experience day to day with their
    advisor. These people are the people who become like family. Matthias said he still writes papers with his peers
    from 20 years ago.
+ - Balance is also important. Ideally, I'd like to be somewhere where I can sail. :)
    
 ## I got back in time
  - To pair-programme with Chris on getting the window to be resizable so it isn't hiding the controls on my tiny 
