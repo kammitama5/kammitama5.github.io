@@ -10,8 +10,15 @@
    
 ## The highlight of the day
  - Was that Matthias said he'd chat with those who were interested in pursuing a PhD in PL. He described the average
-   Bachelor's as kind of a shallow experience. I went in a little later, so my experience was quite different, but
-   I do notice that a lot of people come out not very well-rounded or worldly. He mentioned that a student he knew
+   Bachelor's as kind of a shallow experience. I went in a little later, so my experience was quite different, 
+   and I worked three jobs throughout, rowed on a NCAA division 1 team, attended an Ivy through an exchange programme
+   in between, spent a summer in a tiny country in West Africa and pretty much moved to a different country to attend
+   school, but
+   I do notice that a lot of people come out not very well-rounded or worldly. 
+   I did a *lot* in school, and I remember my parents walking on to campus and even the gardeners 
+   knew me and told my parents good things about me! :) I enjoyed my time there but ultimately, ended up in a different
+   path a few years later (thus this blog).
+   Matthias mentioned that a student he knew
    actually found out he liked wood-carving more than dependent types for Assembly. Sometimes, that's how things work out.
    
  - He mentioned that the goal is to find a Master for whom you can be an apprentice. Someone who is willing to help
