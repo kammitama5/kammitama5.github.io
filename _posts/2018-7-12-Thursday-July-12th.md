@@ -37,10 +37,13 @@
    "hump paper", after which you can write your dissertation. He also mentioned that two to three years before you
    are ready to go before the committee, you should know where you want to end up and your advisor should help you
    achieve those goals or set you on that path. Very helpful advice.
+ - Also check out the lab and talk to the students there. Find out about their experience day to day with their
+   advisor. These people are the people who become like family. Matthias said he still writes papers with his peers
+   from 20 years ago.
    
 ## I got back in time
  - To pair-programme with Chris on getting the window to be resizable so it isn't hiding the controls on my tiny 
-   screen. A lot of it was fiddling with ```css`` and even writing a bit of ```jquery```. The difference between
+   screen. A lot of it was fiddling with ```css``` and even writing a bit of ```jquery```. The difference between
    that and reasoning about Haskell is *very* different. Plus, I didn't have to rebuild or anything because of the
    automatic reload with CSS. So it was a welcome break.
    
