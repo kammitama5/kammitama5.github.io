@@ -2,6 +2,13 @@
 
 ## I'm pretty tired
 
+ - Update: I passed the second evaluation of GSoC! So that means I have *one* more round to go.
+   This is going to be the final push, but I have nothing else going on, so I can dedicate 
+   time to making sure everything is polished for public presentation. So that's my focus for the 
+   following five weeks; solid work and presentation. These last five weeks will be the true test!
+   
+## Racket Summer School...
+
  - So I'm using this post to give a few photos that were highlights of Racket School 2018 :)
  
 ## Name tags!
