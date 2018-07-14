@@ -13,6 +13,9 @@
 ## Notes from Matthias
  
  <img src="/images/racketschool18/3.png" width="500"> 
+ 
+## Oh..there was a moose loose!
+- Apparently on one of the days there was a moose loose on campus! :O
    
  <img src="/images/racketschool18/4.png" width="500"> 
  
