@@ -68,7 +68,7 @@
  
  
  
- <img src="/images/racketschool18/16.png" width="500"> 
+ <img src="/images/racketschool18/17.png" width="500"> 
  
  
  ## I'm going to take a nap
