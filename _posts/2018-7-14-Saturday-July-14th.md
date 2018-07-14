@@ -73,4 +73,5 @@
  
 ## I'm going to take a nap
   - And then get up to do some work. This is the last push over the next five weeks, so I'll
-    be *super* busy, and may take time off from my PT gig to just get stuff done.
+    be *super* busy, and may take time off from my PT gig to just get stuff done. This is
+    the final push!
