@@ -68,7 +68,7 @@
 
  <img src="/images/racketschool18/15.png" width="500"> 
  
-## We ended up having dessert at the Porpupine Grill.
+## We ended up having dessert at the Porcupine Grill.
   - Corban, Kyle and myself walked back to campus afterwards.
     I got less than two hours of sleep and then checked out and shared
     an Uber with Dimitri and my roommate, Lindsey.
