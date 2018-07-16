@@ -8,6 +8,7 @@
    ```ghci``` and ran a function I had written that had imported ```Test.QuickCheck```.
  - I wrote a few functions to test different ones that could fail vs other ones that would pass
    the generated tests. Pretty neat stuff.
+ - This is also a [neat article on testing](https://www.fpcomplete.com/blog/2017/01/quickcheck), too, using QuickCheck.
    
  ## I also worked through
   - Applicatives and Functors in the [CIS194](http://www.seas.upenn.edu/~cis194/fall16/index.html) chapters. I haven't gotten around to any of that in
