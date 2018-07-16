@@ -20,7 +20,9 @@
     notebooks, so I think I may have to get a new one at some point, but we'll see. 
   - I really don't care about being a beginner; I mean, you have to learn somehow. There is no shame in 
     learning. I actually had someone tell me they de-friended me on github because I was a beginner LOL.
-    Everyone learns...somehow. I don't think that's anything to be ashamed of. Sorry. I think it's also
+    Everyone learns...somehow. I don't think that's anything to be ashamed of. Sorry. I know I'm definitely
+    *not stupid*, so I don't take it personally. 
+    I think it's also
     an accomplishment when someone grows into a really great developer and you had a part in that; you 
     can see how far someone has come. I think that that attitude is a better one than scoffing people 
     because they're learning. If you want your community to grow..you *should* encourage people learning.
