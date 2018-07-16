@@ -10,7 +10,7 @@
    the generated tests. Pretty neat stuff.
    
  ## I also worked through
-  - Applicatives and Functors in the CIS194 chapters. I haven't gotten around to any of that in
+  - Applicatives and Functors in the [CIS194](http://www.seas.upenn.edu/~cis194/fall16/index.html) chapters. I haven't gotten around to any of that in
     the HBook, so we'll see how that goes once I get to it. But so far, so good.
     
  ## Composition
