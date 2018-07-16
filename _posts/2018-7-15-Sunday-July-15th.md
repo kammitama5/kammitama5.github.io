@@ -13,7 +13,7 @@
   - Applicatives and Functors in the [CIS194](http://www.seas.upenn.edu/~cis194/fall16/index.html) chapters. I haven't gotten around to any of that in
     the HBook, so we'll see how that goes once I get to it. But so far, so good.
     
- ## Composition
+ ## Writing things down
   - I got my AC plug for my laptop (that had died), so that's up and running, and got a notebook,
     where I've been writing everything haskell-related down. So we'll see how it goes. I burn through
     notebooks, so I think I may have to get a new one at some point, but we'll see. 
