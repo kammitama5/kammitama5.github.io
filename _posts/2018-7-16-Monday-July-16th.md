@@ -25,7 +25,7 @@
     There are some *great* people on Twitter, and Reddit is super helpful, but it also means interacting
     with a bunch of people I'd rather not interact with quite frankly. My friend also mentioned a Slack
     I used to frequent (and pretty much stay on all day), and I quit that, also (decativated my account
-    about a month ago). 
+    about a month ago). In many ways, I had to cut my losses on that garbage fire.
   - It's just been too toxic for me and I don't think it will really help me improve. I have most of the help
     I need; I can contact friends who know and work in Haskell if I get stuck. I'm realizing I don't need to
     be around people who just talk all day about what they did or how great they are or whatever. It isn't
