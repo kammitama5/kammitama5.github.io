@@ -31,9 +31,11 @@
     be around people who just talk all day about what they did or how great they are or whatever. It isn't
     helping me and it has frustrated me that some of these people who purport to be so open there aren't 
     *actually* as friendly or hardworking as they purport to be on these sites; it's an illusion. You can
-    always go to someone's github or blog and see what they're actually doing. In my mind, I don't see 
+    always go to someone's github or blog and see what they're actually doing. In my mind, if I don't see 
     that they're working for a company that does X, or blogging on Y, or committing code or making a library,
     it's time to write them off. Or I'll get stuck in the mire of emptiness that is social media. 
+    Don't get me wrong, some people are *good* and *can* work and talk. But I think that this population is
+    *severely* overstated on social media.
   - The interesting thing is that there are people who are never around and go on to get hired, and you never 
     hear from them openly commenting on everything, and then there are those who can't even get past the first
     round of interviews or haven't a Haskell repo on their github. It's tricky, and social media is fun, but
