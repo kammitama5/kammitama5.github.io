@@ -6,7 +6,8 @@
    had to leave at 2pm because GSoC comes first, and I needed to be prepared for that. 
  - I actually also spent a chunk of the morning learning about ```LambdaCase``` and reading through the code
    from ```Driver.hs```. I started doing what Gabe recommended and just writing everything down and writing
-   down questions. 
+   down questions. It has *definitely* helped and I think it has also instilled in my mentors confidence that I
+   am putting in the work (which is the secret fear of any GSoC student; that they think you're slacking off).
  - I also learned about ```@``` today, which I initially thought was just used like ```(x:xs)```, which is like
    ```rest``` in Racket, where there is a ```head``` and a ```tail``` of a list, so it decomposes the list,
    but as it turns out, ```@``` is synctactic sugar. So not necessarily just for a list. So it's more of a pattern
