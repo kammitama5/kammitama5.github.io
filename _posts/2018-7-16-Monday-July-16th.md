@@ -14,7 +14,7 @@
    match than type-constrained for a specific data type. 
    
  ## I also learned about
-  - The language extension ```Derive Funtor```. And I spent a *while* figuring out how to rewrite this 
+  - The language extension ```Derive Functor```. And I spent a *while* figuring out how to rewrite this 
     anonymous function, because my head was wrapped around using ```const```, and Gabe said not to use
     ```const``` as a crutch in this particular case. So yeah..considering I should know how to use it,
     I guess I need some practice with that and understanding currying. I've gotten better, but there is
