@@ -38,9 +38,18 @@
     *severely* overstated on social media.
   - The interesting thing is that there are people who are never around and go on to get hired, and you never 
     hear from them openly commenting on everything, and then there are those who can't even get past the first
-    round of interviews or haven't a Haskell repo on their github. It's tricky, and social media is fun, but
+    round of interviews or don't even have a Haskell repo on their github. It's tricky, and social media is fun, but
     at the end of the day if this is going to be my life, I need to follow and stick with people who actually
-    get things done. 
+    get things done. Do...the...work.
+ 
+ ## Years ago
+  - A friend of mine (who is a developer currently) said that the socialization aspect of learning to code is fun
+    and helpful, but in many ways, learning is also very much a solitary activity. All the hangouts in the world
+    chatting all day or Meetups socializing is not the same as a person sitting down and getting stuck, working it out
+    and repeat. That's pretty much coding. Another friend said that the whole "learning to code together" thing is actually
+    a pretty new phenomenon. In his time, he said, you'd work on a game in BASIC or whatever, get stuck, and read the 
+    manual and try to work it out, pretty much. And you'd be determined because you really wanted your game of PONG
+    or whatever to work. 
     
  ## So that's all I have to say on that
   - Time for me to get back to work. Got a bit done with Chris and Gabe tonight, so I'm going to make progress
