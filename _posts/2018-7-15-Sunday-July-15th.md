@@ -10,11 +10,11 @@
    the generated tests. Pretty neat stuff.
  - This is also a [neat article on testing](https://www.fpcomplete.com/blog/2017/01/quickcheck), too, using QuickCheck.
    
- ## I also worked through
+## I also worked through
   - Applicatives and Functors in the [CIS194](http://www.seas.upenn.edu/~cis194/fall16/index.html) chapters. I haven't gotten around to any of that in
     the HBook, so we'll see how that goes once I get to it. But so far, so good.
     
- ## Writing things down
+## Writing things down
   - I got my AC plug for my laptop (that had died), so that's up and running, and got a notebook,
     where I've been writing everything haskell-related down. So we'll see how it goes. I burn through
     notebooks, so I think I may have to get a new one at some point, but we'll see. 
@@ -28,7 +28,7 @@
     because they're learning. If you want your community to grow..you *should* encourage people learning.
     This is one thing (of many) I think Rust *gets right* in their community.
     
- ## I also
+## I also
   - I want to visit my parents at some point next year. It looks like it might ideally be near my birthday,
     which would be pretty awesome, but I really don't know what the next few months will look like, so we'll
     see. People aren't the friendliest here compared to where I'm from (in terms of being friendly just to be friendly)
@@ -52,5 +52,5 @@
     *so* welcoming. And then I wonder if I'm doing it wrong by wasting all this time and energy in Haskell-land. But
     I *love* Haskell so much. I enjoy working on learning and I can't step away from writing Haskell every day :(
     
-  ## Anyways
+## Anyways
    - That's about it
