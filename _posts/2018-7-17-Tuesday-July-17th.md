@@ -19,6 +19,7 @@
    I got to write my first programme for ```CodeWorld``` using ```interactionOf```. 
    I have to say in all my reading, I haven't seen one ```InteractionOf``` programme that is less than
    say, 20 lines. So this clarified a lot for me.
+   
  - Specifically, it was
    ```
     import CodeWorld
