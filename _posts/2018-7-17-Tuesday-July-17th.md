@@ -16,7 +16,7 @@
    to come to our PureScript LA Meetup :) So that would be kind of cool. I think I'll get him hooked haha.
    
  - Today for our GSoC session, we worked on ```debugInteractionOf```. 
-   I got to write my first programme for ```CodeWorld``` using it. 
+   I got to write my first programme for ```CodeWorld``` using ```interactionOf```. 
    I have to say in all my reading, I haven't seen one ```InteractionOf``` programme that is less than
    say, 20 lines. So this clarified a lot for me.
  - Specifically, it was
