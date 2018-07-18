@@ -48,3 +48,7 @@
  - Also, I'm working on an issue for another Open Source project. I'm also excited about that.
    So continuing to work on Open Source daily :)
    
+## Finally
+ - I want a sticker that says "Is that a piece of dust on my computer screen or is that
+   expression point free?". Seriously caught myself saying this today! :)
+   
