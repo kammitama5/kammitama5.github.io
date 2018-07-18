@@ -36,7 +36,7 @@
     
  - So it looks like ```interactionOf``` takes an ```initial state```, a ```step```, which is the 
     derivative by which the state changes, driven by an ```event``` (eg. a Mouse Click)
-    and ```draws``` to a picture. In this case, the ```state``` after the ```PointerPress``` 
+    and ```draws``` to a picture type (ie a picture). In this case, the ```state``` after the ```PointerPress``` 
     (ie MouseClick) is the new state, because the point at which it is clicked is the new point.
     The picture is translated to the point x y of circle with radius 1.
   
