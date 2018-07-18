@@ -40,7 +40,7 @@
     (ie MouseClick) is the new state, because the point at which it is clicked is the new point.
     The picture is translated to the point x y of circle with radius 1.
   
- ## Anyways
+## Anyways
  - Back to work for me. I also found a broken link on Haskell documentation. If I were certain
    of the correct one, I would have made a pull-request, but I just filed an issue for now.
    
