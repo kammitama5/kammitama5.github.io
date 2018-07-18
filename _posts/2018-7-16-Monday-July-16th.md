@@ -13,14 +13,14 @@
    but as it turns out, ```@``` is synctactic sugar. So not necessarily just for a list. So it's more of a pattern
    match than type-constrained for a specific data type. 
    
- ## I also learned about
+## I also learned about
   - The language extension ```Derive Functor```. And I spent a *while* figuring out how to rewrite this 
     anonymous function, because my head was wrapped around using ```const```, and Gabe said not to use
     ```const``` as a crutch in this particular case. So yeah..considering I should know how to use it,
     I guess I need some practice with that and understanding currying. I've gotten better, but there is
     always room for improvement.
     
- ## The Blackout
+## The Blackout
   - I've been thinking of just staying off of social media after all this is done. Just giving myself a break.
     There are some *great* people on Twitter, and Reddit is super helpful, but it also means interacting
     with a bunch of people I'd rather not interact with quite frankly. My friend also mentioned a Slack
@@ -42,7 +42,7 @@
     at the end of the day if this is going to be my life, I need to follow and stick with people who actually
     get things done. Do...the...work.
  
- ## Years ago
+## Years ago
   - A friend of mine (who is a developer currently) said that the socialization aspect of learning to code is fun
     and helpful, but in many ways, learning is also very much a solitary activity. All the hangouts in the world
     chatting all day or Meetups socializing is not the same as a person sitting down and getting stuck, working it out
@@ -51,6 +51,6 @@
     manual and try to work it out, pretty much. And you'd be determined because you really wanted your game of PONG
     or whatever to work. 
     
- ## So that's all I have to say on that
+## So that's all I have to say on that
   - Time for me to get back to work. Got a bit done with Chris and Gabe tonight, so I'm going to make progress
     on learning Haskell on my own tonight, and go from there.
