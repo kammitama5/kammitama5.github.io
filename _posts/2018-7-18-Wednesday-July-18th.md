@@ -11,7 +11,7 @@
   I was using an [unhashed Integer](https://stackoverflow.com/questions/26169990/what-are-hashes-used-for-in-the-librarys-source). 
 
 ## Last night
-- I was reading this [book](https://goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf). There are some interesting solutions for things, like the 
+- I was reading this [book](https://goalkicker.com/HaskellBook/HaskellNotesForProfessionals.pdf) (warning: this is a pdf link!). There are some interesting solutions for things, like the 
   sieve of Eratosthenes. I have no idea how I found it. I might have been looking up something on Typeclasses.
   I think I understand it a lot better now. I skipped ahead to functional patterns today in Hbook, since that's closer
   to where I really am in the book (I just went back to Typeclasses to try to nail it down). I'm almost there for understanding
