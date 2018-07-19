@@ -16,7 +16,8 @@
   I think I understand it a lot better now. I skipped ahead to functional patterns today in Hbook, since that's closer
   to where I really am in the book (I just went back to Typeclasses to try to nail it down). 
   I'm slower at learning this stuff because I'm used to taking forever on something until I get it. But I'll keep coming back to it until I get it. I'm almost there for understanding
-  Typeclasses, but still think I need to spend more time on it. That and type-tetris (getting better at it).
+  Typeclasses, but still think I need to spend more time on it. That and type-tetris (getting better at it), particularly
+  for function applications.
   
 ## Unit
 - I learned a bit more about "unit", which is seen typically in ```IO ()```. 
