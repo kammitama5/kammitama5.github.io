@@ -23,6 +23,7 @@
 - I also stumbled across "pickler combinators" and "idiom brackets" along the way, randomly.
   Right now, I'm trying to get better at changing one type of syntax to another (eg ```anonymous functions``` to ```where```
   clauses and stuff like that). So basically different ways of changing the shape of code without changing the meaning.
+- Oh, I also ran into George Wilson's [awesome video](https://www.youtube.com/watch?v=2EdQFCP5mZ8) on Typeclasses.
   
 ## That seems about it for today
 - I got a fair amount of work done at my local internship today, and then spent the bulk of time on Haskell.
