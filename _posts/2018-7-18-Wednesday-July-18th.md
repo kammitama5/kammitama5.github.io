@@ -33,10 +33,16 @@
 ## That seems about it for today
 - I got a fair amount of work done at my local internship today, and then spent the bulk of time on Haskell.
   Haskell is important to me, and I've already spoken to people who have sort of "settled" and "don't have time
-  to code" anymore there. That scares me. A lot. I would always always always find time to code, even when I get it
+  to code" anymore there. That scares me. A lot. Some of them *just* graduated, too, or at most a year ago. I will always always always find time to code, even when I *get it*
   and become fluent in the language. When I become fluent, I also want to just continue contributing to open source
   and other things in a meaningful way on my own. So that's the goal. And even after I do that, I'm sure there
-  will be a lot of things I won't understand.
+  will be a lot of things I won't understand. At least that's how I feel about Haskell. 
+- A guy at work (in a different department) started talking to me and I mentioned Coq and all that, and he asked me
+  what I thought about JS and Go. My honest answer is "I don't". LOL. Maybe I hang around the wrong circles or something,
+  but a lot of my friends are into Rust, Racket, Lisp, Clojure, Haskell, PureScript, Idris, Agda, Coq, Type Theory, Elm, Scala, ATS
+  or Eta; I haven't anything much about Go or JS. So yeah...I don't think about those things a lot at all. I know I think
+  about types and languages and compilers a lot, and have an inclination to put parentheses around Haskell code that doesn't
+  need it. That's about all I can say on that.
   
 ## And that's about it.
   
