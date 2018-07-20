@@ -19,5 +19,10 @@
   I'm going to also start the new task this weekend. I also randomly moved up a floor near
   the end of work. Moving up in the world lol. 
   
+- I saw some of the other contributions people did on CodeWorld and wow; they really took a chance on me LOL.
+  There are Master's students and stuff who were working on CodeWorld. I'm just learning, but I have a lot of
+  enthusiasm for it, and think it's a really great project. So I'm happy to have the opportunity this summer
+  to work on it, as well as have two great mentors :)
+  
 ## Anyways
 - I think that's about it for now. 
