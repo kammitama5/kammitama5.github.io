@@ -53,3 +53,5 @@
    through exercises again so they're solid in my head. Never can learn *too much* Haskell!
    
 ## So It's back to work for me
+ - My apologies if I totally *botched* this explanation. I'm learning to be more correct and slow down and really
+   understand things accurately, and of course, learning Haskell :) Always looking to get better.
