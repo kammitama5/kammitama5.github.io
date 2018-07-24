@@ -24,9 +24,14 @@
 ## Edge cases
 - The two edge cases are where we are in Redo mode and there is no more history
   to redo and we need to create some.
-  At this point, we need to step forward. Also, if we can't undo anymore and
-  we are in Undo mode (ie we are in the present) so Undo should be an empty list
-  because we have no history.
+  If y is not empty, we can keep redo-ing past states.
+  So, ```hasFuture = [RedoButton]``` for ```not (null snd (state w)))```
+  If x is not empty, we can keep popping off the stack and revealing prior states (ie Undo).
+  So ```hasHistory = [UndoButton]``` for ```not (null (tail (fst (state w))))``` where
+  the ```fst``` state is ```(x:xs)```. If we can't do any more Undos, then we should be 
+  in the present state, so we return an empty list.
+  
+ 
   
 ## So the final button
  - Looks something like this
