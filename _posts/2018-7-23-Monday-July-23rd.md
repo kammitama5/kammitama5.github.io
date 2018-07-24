@@ -5,7 +5,7 @@
 - We worked through this idea today whereby instead of a Wrapped list for state we have
   two lists. We can call them X and Y, and they're represented as a Tuple of lists
   
-<img src="/images/GSoc_/2.png" width="200">
+<img src="/images/GSoc_/2.png" width="500">
 
 - So one list (X) pops its last state and adds it to the Y list. 
   When we "Undo" a function, we are taking the head of the "forward list" (X)
