@@ -36,7 +36,7 @@
 ## So the final button
  - Looks something like this
  
- <img src="/images/GSoc_/1.png" width="600">
+ <img src="/images/GSoc_/1.png" width="700">
  
  - It's next to the forward button so you can move forward and backwards until
    you run out of undos. Once you're out of undos, the button changes to the step
