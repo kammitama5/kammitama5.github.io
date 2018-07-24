@@ -47,7 +47,7 @@
  - I also have a pull request I'm working on for another open source project so ... fun times.
    
 ## Also
- - I tried to attend the Utah Haskell meeting tonight, but by the time I had completed my GSoC 
+ - I tried to attend the [Utah Haskell](https://www.meetup.com/utah-haskell/events/cvzpppyxkbvb/) meeting tonight, but by the time I had completed my GSoC 
    meeting, they had completed chapters 7 and 8. Oh well, Next month for sure. I'm currently on
    Algebraic Data Types, so I'm ahead in any case, but I'm always willing to go back and work 
    through exercises again so they're solid in my head. Never can learn *too much* Haskell!
