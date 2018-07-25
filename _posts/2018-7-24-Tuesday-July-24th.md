@@ -35,9 +35,11 @@
    I saw their video, which was on two chapters I've completed (7 and 8 I believe), and it was really interesting to see
    how their solutions differed from my own when I was trying to solve the problems by myself. I would definitely say
    that's a good experience to have. Right now, I'm on Chapter 11 of the book.
- - I also became interested in learning Isabelle, in an effort to learn something that is similar to Haskell (ie types)
-   but also will help me learn about how to write and check proofs. 
+ - I also became interested in learning [Isabelle](https://en.wikipedia.org/wiki/Isabelle_(proof_assistant)), in an effort to learn something that is similar to Haskell (ie types)
+   but also will help me learn about how to write and check proofs. This will make me a more conscientious and accurate
+   programmer, who is better prepared to break problems down into smaller ones and solve them accordingly (at least
+   according to Haskell Yoda). :)
   
 ## Other than that
- - Great news! I got in as a student volunteer for ICFP!!! :)
+ - Great news! I got in as a student volunteer for [ICFP](https://conf.researchr.org/home/icfp-2018)!!! :)
    I'm definitely psyched! So looking forward to attending!!!
