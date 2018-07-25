@@ -8,7 +8,7 @@
   another as I write this.
   
 ## The historySlider works!
-- I have to say, it also looks pretty *sick* :)
+- I have to say, it also looks pretty *sick* :) It's the right-hand side slider!
 
 <img src="/images/GSoc_/historySlider.png" width="500">
 
