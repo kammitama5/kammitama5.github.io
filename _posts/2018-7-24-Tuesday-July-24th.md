@@ -15,7 +15,7 @@
 - Chris wants the spacing to look more like 
 ```[A] [-----B-----] [C]      [D] [-----E-----] [F]```
   but I'm going to wait on that one because people are picky about their spacing.
-  That's very much a kind of UI-to taste type thing. I did make the slider say x so there
+  That's very much a kind of UI-to taste type thing. I did make the speedSlider (left hand side) say x so there
   is less ambiguity about what the ```speedSlider``` is doing.
   
 ## To the left
