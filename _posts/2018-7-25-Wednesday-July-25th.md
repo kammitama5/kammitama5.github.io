@@ -1,7 +1,7 @@
 ## GSoC Day 73
 
 ## I was so tired today
- - I left my local internship early and went home and slept from 3:30pm to 5:50pm. Then I checked my phone
+ - I left my local internship early and went home and slept from 3:30pm to 5:50pm. Then I got up, checked my phone
    and saw that my landlord had left a message saying she was going to stop by because she wanted to check
    something or other in my apartment. So I called her back and said okay. Apparently, one of my neighbours
    was out of town and had a friend staying in her place and the friend left the faucet running and pretty
