@@ -10,7 +10,9 @@
  - I had to modify a pull request I've been working on for the last few days;
    that was an experience because it's in a language I'm learning that's
    very similar in many ways to Haskell, so it was funny, and I enjoyed doing it, while working remotely
-   with a mentor halfway across the world. Eventually, it all worked and all the doc tests passed. Whew!
+   with a mentor halfway across the world. Eventually, it all worked and all the doc tests (44 of 44) passed. Whew!
+   One was continously not passing, and my travis build was failing, and the maintainer had specific requests).
+   What an adventure! :) Thankful for great mentors this summer!
    
 ## Then, Haskell
 
@@ -30,11 +32,11 @@
    
  - Today, we worked on the StartOver aka Restart button..but we already have a Restart button that does
    something else, so.. :) You can see it on the right hand side to the left of the ```historySlider```
-   .Its centre is on (0, -9)
+   .Its centre is on ```(0, -9)```
    
  <img src="/images/GSoc_/startover.png" width="500">
  
- - And also, the fast-forward button, which is on (-4, -9), as seen on the coordinate plane, where the
+ - And also, the fast-forward button, which is on ```(-4, -9)```, as seen on the coordinate plane, where the
    x is the value for the centre of the button.
  
  <img src="/images/GSoc_/fastforward.png" width="500">
@@ -43,3 +45,5 @@
    were fenced to reflect that with respect to the range of the fast forward button.
    
 ## So that's..pretty much it
+ - I have a meeting tomorrow morning, which is right when I collect the keys to the place I'm house-sitting,
+   so uh..we'll see how it works out, and if I make it!
