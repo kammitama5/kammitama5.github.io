@@ -29,15 +29,17 @@
    to build my own editor, probably in Haskell (and I probably will!). I really think that's so awesome!!
    
  - Today, we worked on the StartOver aka Restart button..but we already have a Restart button that does
-   something else, so.. :)
+   something else, so.. :) You can see it on the right hand side to the left of the ```historySlider```
+   .Its centre is on (0, -9)
    
  <img src="/images/GSoc_/startover.png" width="500">
  
- - And also, the fast-forward button
+ - And also, the fast-forward button, which is on (-4, -9), as seen on the coordinate plane, where the
+   x is the value for the centre of the button.
  
  <img src="/images/GSoc_/fastforward.png" width="500">
  
  - One thing it does is tie to the range on the ```SpeedSlider```, so we had to ensure that the values
-   were fenced to reflect that with respect to the range of the fast forward button. 
+   were fenced to reflect that with respect to the range of the fast forward button.
    
 ## So that's..pretty much it
