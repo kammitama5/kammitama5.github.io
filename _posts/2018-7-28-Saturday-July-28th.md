@@ -24,12 +24,19 @@
 - from there, you can globally set your text editor to be the one on which you can edit and save
   your squash notes, or you can just use the command line/ vi, like I did.
 - I used ```pick``` for the ones I wanted to keep, and ```squash``` for the ones I wanted to squash
-  into another commit. You can also ```amend``` and all of that, which you can read up on your own
+  into another commit. You can't squash *everything*; it's like a fold, so you have to have some
+  value to which you're squashing, from what I understand.
+  You can also ```amend``` and all of that, which you can read up on your own
   with the same links above (the video is good for this, also). Essentially, ```git commit --amend```.
 - This part scared me, (but it worked) but you have to then ```Ctrl+X``` out of the interface and 
   say ```Y``` to write out, and then ```git push origin <branchname> --force```, because you're
   basically overwriting your current commits from your pull request. You can then go to the
   original pull request and see that it reflects the changes you've made.
+- Once it's merged, delete the branch ```git branch -d <branchname>```. Pull from master to make sure
+  you have the recent changes from master.
+- I don't feel silly about writing this, because I had to look for this information in different places.
+  That kind of sucks, so I thought I'd put it in one place. Maybe it will help someone (maybe even
+  myself in the future!)
   
 ## CI
  - Oh yeah, this was the first time (this past week) I've had to use Travis to get the tests to pass.
