@@ -35,12 +35,12 @@
 - Once it's merged, delete the branch ```git branch -d <branchname>```. Pull from master to make sure
   you have the recent changes from master.
   - I usually say 
-  ```
+```
   git fetch upstream
   git pull upstream master
   git push origin master
   
-  ```
+```
   
 - I don't feel silly about writing this, because I had to look for this information in different places.
   That kind of sucks, so I thought I'd put it in one place. Maybe it will help someone (maybe even
