@@ -71,5 +71,5 @@
 ## So 
  - I'm probably going to continue working on my GSoC article this evening, and sneak in some Haskell!
  - Also, I found out my Haskell group (local) is going through ```CIS194``` with tests! So I may join them!
-   That kind of focused structure is beneficial to me, so as long as they're doing the work and I can improve,
+   That kind of focused structure is beneficial to me, as long as they're doing the work and I can improve,
    I'd be happy to be a part of that and commend the organizers for having this sort of community.
