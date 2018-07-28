@@ -35,6 +35,9 @@
    So that was an experience, but it actually makes a lot of sense, and it tells you where the tests
    failed. I had broken a build for one of my commits, so after I rebased and pushed, I re-ran the build
    and got a few errors due to an unused import. I fixed that and ran it again and both tests passed.
+   Sometimes I've thought that I *might* be interested in DevOps one day. Some of it just makes sense,
+   (I've also done Google Cloud and some AWS training and understand concepts like load testing, etc
+   ), but I of course, lack the experience.
    
 ## Scholarships
  - It is my pleasure to announce I got a PLMW ICFP Scholarship! I was sweating b@lls trying to figure out
