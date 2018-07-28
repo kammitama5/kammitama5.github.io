@@ -10,7 +10,7 @@
   morning and wake me up by licking my face :D
   
 - I did a meeting yesterday and then spent some time beginning my final GSoC draft. I also 
-  learned a bit about how to ```rebase```. It wasn't initially clear to me but 
+  learned a bit about how to ```squash``` commits using ```rebase```. It wasn't initially clear to me but 
   [this helped](https://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request/16642628#16642628)
   and [this](https://stackoverflow.com/questions/14534397/squash-all-my-commits-into-one-for-github-pull-request)
   and finally [this](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/).
