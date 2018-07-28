@@ -34,7 +34,7 @@
   original pull request and see that it reflects the changes you've made.
 - Once it's merged, delete the branch ```git branch -d <branchname>```. Pull from master to make sure
   you have the recent changes from master.
-  - I usually say 
+- I usually say 
   
 ```
   git fetch upstream
