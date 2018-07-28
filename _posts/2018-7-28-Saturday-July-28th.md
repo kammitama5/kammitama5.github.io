@@ -37,7 +37,9 @@
   - I usually say 
 ```
   git fetch upstream
+  
   git pull upstream master
+  
   git push origin master
   
 ```
