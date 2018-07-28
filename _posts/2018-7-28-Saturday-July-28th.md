@@ -25,9 +25,10 @@
   your squash notes, or you can just use the command line/ vi, like I did.
 - I used ```pick``` for the ones I wanted to keep, and ```squash``` for the ones I wanted to squash
   into another commit. You can also ```amend``` and all of that, which you can read up on your own
-  with the same links above (the video is good for this, also).
+  with the same links above (the video is good for this, also). Essentially, ```git commit --amend```.
 - This part scared me, but it worked, but you have to then ```Ctrl+X``` out of the interface and 
-  say ```Y``` to write out, and then ```git push origin <branchname>```. You can then go to the
+  say ```Y``` to write out, and then ```git push origin <branchname> --force```, because you're
+  basically overwriting your current commits from your pull request. You can then go to the
   original pull request and see that it reflects the changes you've made.
   
 ## CI
