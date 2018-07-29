@@ -60,7 +60,7 @@
    
 ## Scholarships
  - It is my pleasure to announce I got a PLMW ICFP Scholarship! I was sweating b@lls trying to figure out
-   *how* I'd afford ICFP, becuase I *really* wanted to go (I've probably been talking about this all year :D),
+   *how* I'd afford ICFP, because I *really* wanted to go (I've probably been talking about this all year :D),
    and the wonderful Dan Licata emailed me yesterday and gave me the great news. I've bought my plane ticket (for which I'll    be reimbursed),
    but am awaiting a registration code from my student volunteer captain so I can fill out the rest of the form
    and get my hotel organized. The best part is that to ensure you've received the email, they had you
