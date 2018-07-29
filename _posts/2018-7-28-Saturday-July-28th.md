@@ -66,7 +66,7 @@
    and get my hotel organized. The best part is that to ensure you've received the email, they had you
    respond and include a lambda calculus expression (which they said you didn't have to evaluate).
  - And this may sound silly, but I'm actually planning to check in a day late (and just stick around the area
-   in the early AM) so that I can stay for the entirety of the Haskell workshop :D
+   in the early AM) the day before, so I can check out a day later (and therefore stay for the entirety of the Haskell workshop) :D
  - Oh, and the greatest part about PLMW is that it's *full* of Haskell people!!! Not only is Stephanie W giving
    a presentation, but so is Ranjit, and so is Simon Peyton-Jones :D. It was organized by some *wonderful* people,
    and I'm truly honoured to be a part of ICFP this year! 
