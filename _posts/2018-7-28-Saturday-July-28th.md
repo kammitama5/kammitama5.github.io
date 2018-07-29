@@ -6,7 +6,7 @@
   which I will be compensated. So that's nice. I'd do it anyways because I really like the dog,
   and the family is a really nice one. It's a nice house and they make sure the kitchen is
   stocked and I have a quiet bedroom. However, I usually end up sleeping on the couch to keep
-  to dog company because I really enjoy spending time with her, and she likes to get up in the
+  the dog company because I really enjoy spending time with her, and she likes to get up in the
   morning and wake me up by licking my face :D
   
 - I did a meeting yesterday and then spent some time beginning my final GSoC draft. I also 
