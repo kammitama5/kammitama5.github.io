@@ -15,7 +15,7 @@
 - a new pull request for another open source project involving boolean predicates. I really like this project,
   so I'd like to stick with it, although I'm learning the language. I like the maintainer of the repo, also.
   He's been quite patient and like Chris, is a stickler for coding standards.
-- the ```zoom``` and ```pan``` buttons (and a ```zoomSlider```) for CodeWorld. Super excited about that.
+- the ```zoom``` (ie ```ZoomInButton``` and ```ZoomOutButton```) and ```pan``` buttons (and a ```zoomSlider```) for CodeWorld. Super excited about that.
   Should be fun, but there are a few edge cases to consider. For example, we currently have an Inspect mode,
   and if someone is say, zoomed all the way in, and they click inspect, does it stay at that zoom factor?
   How far can a person zoom? The pan should not be the same linearity from left to right as say, with a zoom
