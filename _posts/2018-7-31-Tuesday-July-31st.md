@@ -5,6 +5,8 @@
 - Today the ```ZoomInButton```, ```ZoomOutButton``` and ```ResetViewButton```  were added.
   It's specifically ```ResetView``` because it may be used for the ```Panning``` functionality
   as well (which is the next thing to be worked on, along with a ```zoomSlider```).
+- We also spoke about Monoids and the conditions for a monoid. In ```CodeWorld```, the ```&```
+  is the same as ```<>```.
   
 <img src="/images/GSoc_/zoombuttons.png" width="500">
 
