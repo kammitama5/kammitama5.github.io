@@ -2,10 +2,12 @@
 
 ## ZoomIn, ZoomOut, ResetZoom buttons
 
-- Today the ```ZoomInButton````, ```ZoomOutButton``` and ```ResetViewButton``` were added.
+- Today the ```ZoomInButton```, ```ZoomOutButton``` and ```ResetViewButton```  were added.
   It's specifically ```ResetView``` because it may be used for the ```Panning``` functionality
   as well (which is the next thing to be worked on, along with a ```zoomSlider```).
   
+<img src="/images/GSoc_/zoombuttons.png" width="500">
+
 - For the drawing of the ```zoomInButton```, this was the code for the image:
 
 ```
