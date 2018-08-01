@@ -58,7 +58,8 @@ p =
                 thickCircle 0.1 0.22 <>
                 solidRectangle 0.06 0.25 <>
                 solidRectangle 0.25 0.06 <>
-                rotated (-pi / 4) (translated 0.35 0 (solidRectangle 0.2 0.1))
+                rotated (-pi / 4)
+                (translated 0.35 0 (solidRectangle 0.2 0.1))
             ))
 
 ```
