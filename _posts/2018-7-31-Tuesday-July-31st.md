@@ -17,10 +17,12 @@ main :: IO ()
 main = drawingOf magnifyingGlass 
 
 magnifyingGlass = 
-      translated (-0.05) (0.05) (thickCircle 0.1 0.22  
+      translated (-0.05) (0.05) 
+      (thickCircle 0.1 0.22  
       & solidRectangle 0.06 0.25
       & solidRectangle 0.25 0.06 
-      & rotated (-pi / 4) (translated 0.35 0 (solidRectangle 0.2 0.1)))
+      & rotated (-pi / 4) (translated 0.35 0
+      (solidRectangle 0.2 0.1)))
 ```
 - Try it out [here](https://code.world/haskell#PY_-qCEXBDA20q4rFLCWKQg)
 
@@ -47,6 +49,7 @@ resetZoom =
   expressing its intent. 
   
 - For example
+
 ```
 p =
         colored
