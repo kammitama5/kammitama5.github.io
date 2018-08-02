@@ -3,7 +3,11 @@
 ## There is Panning!
  - Specifically
  
-<img src="/images/GSoc_/panning.png" width="500">
+## Zoomed in and Panning works...
+
+<img src="/images/GSoc_/panning.png" width="300">
+
+## Reset button resets both the zoom and pan positions (so back to (0,0) and zoomed out).
 
 <img src="/images/GSoc_/panning1.png" width="500">
 
