@@ -9,7 +9,7 @@
 
 ## Reset button resets both the zoom and pan positions (so back to (0,0) and zoomed out).
 
-<img src="/images/GSoc_/panning1.png" width="500">
+<img src="/images/GSoc_/panning1.png" width="300">
 
 - The implementation was done by creating a ```PanningLayer``` control. 
   We had a ```panningCenter``` set at ```(0,0)``` to keep track of the centre/ start for resetting the pan.
