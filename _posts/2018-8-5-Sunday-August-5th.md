@@ -13,7 +13,8 @@
    been a *really* fun experience. Seeing your pull request merged is also incredibly satisfying!
    Collaborating with people and solving problems is also really satisfying!
 - My other pull request was merged (Friday!).
-  It passed the Travis CI builds. I'm enjoying working on that set of repos, which is on [boolean predicates](https://github.com/assert-rs). Besides the syntax, it feels so Haskell-ish :)
+  It passed the Travis CI builds. I'm enjoying working on that set of repos, which is on [boolean predicates](https://github.com/assert-rs). Besides the syntax, it feels so Haskell-ish :). I also learned about [Monomorphization
+  Bloat](http://www.suspectsemantics.com/blog/2016/12/03/monomorphization-bloat/) by making concrete types for one of my commits, which I later had to remove.
    
 ## What I plan coming up
 - In August, I'll be in study and application mode again.
