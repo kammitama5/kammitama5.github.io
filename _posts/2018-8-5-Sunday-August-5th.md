@@ -18,7 +18,7 @@
 ## What I plan coming up
 - In August, I'll be in study and application mode again.
 - In September, I am getting my recs together, transcripts and SOP (statement of purpose).
-- Interestingly, the end of September is also ICFP, which I'll be attending. I'm excited by both the people
+- Interestingly, the end of September is also [ICFP](https://conf.researchr.org/home/icfp-2018), which I'll be attending. I'm excited by both the people
   who will be there (because I love the PL community!) and the companies that will be there. There is something
   very different about the quality of companies that are at PL conferences. They treat you differently and I really
   like the way they approach looking for PhD students. 
