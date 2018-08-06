@@ -13,7 +13,7 @@
    been a *really* fun experience. Seeing your pull request merged is also incredibly satisfying!
    Collaborating with people and solving problems is also really satisfying!
 - My other pull request was merged (Friday!).
-  It passed the Travis CI builds. I'm enjoying working on that set of repos, which is on [boolean predicates](https://github.com/assert-rs).
+  It passed the Travis CI builds. I'm enjoying working on that set of repos, which is on [boolean predicates](https://github.com/assert-rs). Besides the syntax, it feels so Haskell-ish :)
    
 ## What I plan coming up
 - In August, I'll be in study and application mode again.
