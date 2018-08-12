@@ -34,7 +34,7 @@
   and learning on this blog!
   
 ## Also
-- RIP VS Naipaul. I plan to re-read the Lonely Londoners (not by him, but by another author I read growing up)
+- RIP [VS Naipaul](https://en.wikipedia.org/wiki/V._S._Naipaul). I plan to re-read the Lonely Londoners (not by him, but by another author I read growing up)
 . It's a book about the wave of immigrants (Caribbean specifically)
   that came to London, and dealing with sacrificing everything for a chance to chase opportunity, and that it doesn't work
   out for everyone. My dad told me about it when he did his Master's. I think I own a copy. It's been a while.
