@@ -37,12 +37,19 @@
 - RIP [VS Naipaul](https://en.wikipedia.org/wiki/V._S._Naipaul). I plan to re-read the Lonely Londoners (not by him, but by another author I read growing up)
 . It's a book about the wave of immigrants (Caribbean specifically)
   that came to London, and dealing with sacrificing everything for a chance to chase opportunity, and that it doesn't work
-  out for everyone. My dad told me about it when he did his Master's. I think I own a copy. It's been a while.
+  out for everyone. My dad told me about it when he did his Master's.
+  He made me write him and I would write him letters and my mom would post them to him; they were written in ink pens.
+  I always looked forward to reading the letters he wrote back, and I look forward to his emails to this day.
+  My parents are currently in Scotland, taking care of my brother during an operation that was successful. I've 
+  been enjoying reading their emails about his progress, even though I can tell my dad is pretty anxious and won't
+  be settled until my brother comes home and my mom is feeding him as usual :).
+  Anyways, I think I own a copy of Lonely Londoners. It's been a while.
   I need to read it when I'm out here (ie not in my country of birth). Being in my home country is too comfortable.
   It's like listening to Tom Petty or the Beach boys
   in California. It's just more meaningful and there are subtleties you "get" from experiencing life the way the characters
   are mentally.
   I've been thinking about how my last name means "monk", and that science and academia progressed because of the Church.
-  And how it relates to my own continued search for knowledge. It's an interesting thing for me to think about. But that's
+  And how it relates to my own continued search for knowledge. It's an interesting thing for me to think about. 
+  Or that there's a library with my last name at King's College. But that's
   all I have for now.
   
