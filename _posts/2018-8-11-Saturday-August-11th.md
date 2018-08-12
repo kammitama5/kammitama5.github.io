@@ -38,12 +38,18 @@
 . It's a book about the wave of immigrants (Caribbean specifically)
   that came to London, and dealing with sacrificing everything for a chance to chase opportunity, and that it doesn't work
   out for everyone. My dad told me about it when he did his Master's.
-  He made me write him and I would write him letters and my mom would post them to him; they were written in ink pens.
+  
+- He made me write him (when he was doing his Master's) and I would write him letters and my mom would post them to him; they were written in ink pen.
   I always looked forward to reading the letters he wrote back, and I look forward to his emails to this day.
-  My parents are currently in Scotland, taking care of my brother during an operation that was successful. I've 
+- My parents are currently in Scotland, taking care of my brother during an operation that was successful. I've 
   been enjoying reading their emails about his progress, even though I can tell my dad is pretty anxious and won't
-  be settled until my brother comes home and my mom is feeding him as usual :).
-  Anyways, I think I own a copy of Lonely Londoners. It's been a while.
+  be settled until my brother comes home and my mom is feeding him as usual :). My dad has a really great way of taking
+  things I say to him in emails and boiling them down to the deeper meaning of what I mean. He's a very analytical and
+  deep thinker and has probably read more than anyone I know. I always remember he brought home an extensive collection
+  of books when he came back from Bradford (where he did his Master's). It took me into my late teens to pore through
+  several of them. One of the things I appreciated was in the latest email, he said that I was full of leadership ability,
+  because I'm insightful in the way I see things (especially in a working environment).
+- Anyways, I think I own a copy of Lonely Londoners. It's been a while.
   I need to read it when I'm out here (ie not in my country of birth). Being in my home country is too comfortable.
   It's like listening to Tom Petty or the Beach boys
   in California. It's just more meaningful and there are subtleties you "get" from experiencing life the way the characters
