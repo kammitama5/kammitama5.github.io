@@ -9,8 +9,8 @@
   reach out for help if I get stuck, of course.
 
 ## So two meetings
-- I had one at 1pm today with my mentor in Dublin, and another with my GSoC mentor, Chris. Both went well and I am
-  going to keep going. 
+- I had one at 1pm today with my mentor in Dublin, and another with my GSoC mentor, Chris at 7pm. Both went well and I am
+  going to keep going.
 - I also have two assignments to do tomorrow. They're only about 90 minutes each; I plan to do one tomorrow and the
   other on Monday, to space it out.
   
