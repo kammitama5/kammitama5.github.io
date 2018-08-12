@@ -5,7 +5,7 @@
   as well as have all my pull requests. I'll also spend tomorrow working on it.
 - I also got a pull request merged today. My mentor and myself worked on it via pair-programming, and it was really
   fun! I immediately changed my Linkedin profile to say "I love working on open source". I plan to continue, aiming
-  for one every two to three weeks until the end of the year. I think that this is very achievable. I also plan to
+  for one (Pull request) every two to three weeks until the end of the year. I think that this is very achievable. I also plan to
   reach out for help if I get stuck, of course.
 
 ## So two meetings
