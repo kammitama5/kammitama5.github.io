@@ -14,6 +14,9 @@
   our solutions and writing Haskell solutions. Things were a lot clearer for me, having spent the summer
   working on Haskell. However, I still have a long way to go!
   
+## Haskell Weekly
+- What do you know? Our GSoC articles and write-ups are in Haskell Weekly! So cool!
+  
 ## The next day
 - I took a flight to Portland. They upgraded me for my stay at this hotel, Eastlund, in Portland.
   I'm really enjoying my room, even though today I was mostly at training. I learned a lot. There
@@ -30,7 +33,10 @@
   Nix. I met a guy at Fb and we spent pretty much *forever* just talking about
   some really interesting stuff he was working on. I can't really talk about it explicitly, of course, but
   in terms of research, it was particularly fascinating, and ties into a lot of things I'm interested in.
-  So that was just wonderful.
+  So that was just wonderful. He also knew a bunch of stuff Galois was working on, which was awesome to hear about,
+  also. Rust compiling to C and other interesting projects. I was interested in the implementation and how they
+  would catch bugs. I'd just love to spend 5 (or 7) years on learning to be really solid at proofs and finding bugs.
+  That would be super, especially in Haskell! :D
   
 ## I have to get up in the morning
  - I have a coding quiz to do, a meeting, the conference all day and another meeting...all happening tomorrow.
