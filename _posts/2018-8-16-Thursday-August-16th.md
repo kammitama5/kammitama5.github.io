@@ -21,7 +21,8 @@
 - I took a flight to Portland. They upgraded me for my stay at this hotel, Eastlund, in Portland.
   I'm really enjoying my room, even though today I was mostly at training. I learned a lot. There
   is a lot of overlap between the Haskell and Rust communities. I also got to meet Steve, Ashley,
-  Manish, Arshia, Aaron, Boats and a bunch of people. 
+  Manish, Arshia, Aaron, Sarah, Boats and a bunch of people. I haven't officially met Sergio yet,
+  but that's on my list, too! They're all really nice!
 - I did the morning session, which was Intro to Rust (by Steve), and the afternoon, 
   which was Thinking in Rust (by Nick Cameron aka nrc on github).
   It was all very hands-on, so we got to write code and fix type errors, etc. There are so many things
