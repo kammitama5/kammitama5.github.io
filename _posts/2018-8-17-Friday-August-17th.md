@@ -4,6 +4,9 @@
 - I'm *exhausted*. The funny thing is, I'm getting up tomorrow to go the Farmer's Market and a Hack day!
   I had a *lot* of fun today! I can't even explain it all, but I met so many people, and I even made it
   into two talks! (including the keynote!). I just had a great time at this conference!
+- Oh, I'm also in a video! I was interviewed for the conference, too! :D Manish went out of his way in the
+  middle of the craziness to also make sure I was having a good time. It was just really conscientious of them.
+  I'm really thankful they were so welcoming to me. I had fun at this conference, and it was the right size.
   
 ## Here are some photos!
 
