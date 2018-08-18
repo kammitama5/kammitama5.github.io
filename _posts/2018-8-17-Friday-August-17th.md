@@ -11,11 +11,11 @@
 
 <img src="/images/rustconf18/1.png" width="500">
 
-- keynote
+- Arshia introduces Steve
 
 <img src="/images/rustconf18/2.png" width="500">
 
-- I'm in the keynote, Ma! :D
+- I'm in the keynote, Ma! :D. Nikos, Aaron and Ashley did the keynote.
 
 
 <img src="/images/rustconf18/3.png" width="500">
