@@ -7,7 +7,7 @@
 - I got there a bit early and got a cup of tea at a nearby coffee shop.
   I also walked around and took a few photos.
 
-<img src="/images/rusthackday18/1.png" width="500">
+<img src="/images/rusthackday18/1.png" width="400">
 
 - I couldn't decide whether to wear my NASA tshirt or my Rust tshirt, and decided
   on the RustConf one. That turned out to be a good decision!
