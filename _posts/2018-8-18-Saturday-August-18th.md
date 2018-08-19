@@ -6,6 +6,8 @@
 
 - I got there a bit early and got a cup of tea at a nearby coffee shop.
   I also walked around and took a few photos.
+  
+- I apologize for the Moire pattern on this one!
 
 <img src="/images/rusthackday18/1.png" width="400">
 
