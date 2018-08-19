@@ -18,7 +18,7 @@
 
 <img src="/images/rusthackday18/3.png" width="500">
 
-- I asked one person along the way where it was, and after he gave me
+- I asked one person along the way where the Portland Farmer's Market was, and after he gave me
   directions, he said "and thank you for using Rust!". Turns out, he works
   for Mozilla and had noticed my tshirt was a Rust one! :D
 
