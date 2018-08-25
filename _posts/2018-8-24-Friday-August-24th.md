@@ -34,6 +34,8 @@
   but actually encouraged me to do *that one* because he said I'd learn a lot and the 
   fact that I was really interested in it meant I would keep at it. I *loved* that!
   What a great mentor! :D
+- Soon, we were both giddily talking about things I could work on to get started,
+  and how to go about it. It was really fun!
 - So this blog post will be derailed a bit to talk about browsers and to talk
   about things I'm going to learn along the way. A lot of failure will also ensure.
 - The interesting thing is that I've found a lot of things on building it in C++,
