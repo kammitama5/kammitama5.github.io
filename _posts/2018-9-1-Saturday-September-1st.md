@@ -24,7 +24,9 @@
 
 ## I got a call
  - From two companies I'd love to work for. If I said which they were, you'd probably
-   throw rocks at me, so I won't do that.
+   throw rocks at me, so I won't do that. Think long...very long lines at career fairs,
+   and people promising their first-borns. One of them I think in the future I'd
+   definitely be a fit for, but both are great.
    However, I spoke with my mentor and he advised
    against it, and said I should, instead, focus on learning for now. So I have to let
    the opportunities to apply go. However, I am still applying for summer internships for
