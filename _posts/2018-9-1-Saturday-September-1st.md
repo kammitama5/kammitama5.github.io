@@ -7,8 +7,9 @@
   
 ## Found a friend
 - On a whim, I emailed a girl who had mentioned she was working on a Udacity mobile course.
-  Surprisingly, she was really happy I asked her if she wanted to study data structures!
-  So, we started studying on Tuesdays and Thursdays during lunch time! It really made
+  Surprisingly, she was really happy I asked her if she wanted to find a way to code together!
+  So, we started studying on Tuesdays and Thursdays during lunch time! 
+  We're going through cracking the coding interview! It really made
   my time at work brighter! We did the first bit of questions and I started porting
   our pseudo-code logic into Haskell. I believe she likes Ruby/JS/Python, so we are
   able to follow along, and we even looked at some Haskell solutions! :D
