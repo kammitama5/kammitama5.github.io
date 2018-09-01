@@ -2,6 +2,8 @@
 
 ## I'm currently House-sitting and Dog-sitting
 - The great part is that they also have food (fully-stocked) and there's a washer and dryer.
+  The one where I usually live is in my building, but needs quarters, and other people use it.
+  This one just needs a push of a button and they beep loudly when they're done.
   So I was able to do my laundry pretty quickly today. I'm probably going to do it again just
   before I finish this stint, too!
   
