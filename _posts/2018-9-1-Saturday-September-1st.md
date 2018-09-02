@@ -3,7 +3,7 @@
 ## I'm currently House-sitting and Dog-sitting
 - The great part is that they also have food (fully-stocked) and there's a washer and dryer.
   The one where I usually live is in my building, but needs quarters, and other people use it.
-  This one just needs a push of a button and they beep loudly when they're done.
+  This one just needs a push of a button and beeps loudly when laundry is done.
   So I was able to do my laundry pretty quickly today. I'm probably going to do it again just
   before I finish this stint, too!
   
@@ -32,13 +32,14 @@
    However, I spoke with my mentor and he advised
    against it, and said I should, instead, focus on learning for now. So I have to let
    the opportunities to apply go. However, I am still applying for summer internships for
-   next year, because why not.
+   next year, because why not. I'm thinking of trolling and just implementing the questions in Haskell.
+   Since I'm learning, I can fail them, but then use the questions on my own to learn Haskell! :D
    
 ## This morning
 - I also booked my GRE for Sept 19th and asked for recommendations. I think I may re-write
   my statement of purpose for the third time this weekend. Oh, and I cleaned up and made
   a new resume for my Phd applications that is more suitable for that, based on a template
-  of a current student I am friend with who I admire. I narrowed down my list to six schools.
+  of a current student I am friends with who I admire. I narrowed down my list to six schools.
   They're really the *only* schools I'm interested in applying to for Fall. If I don't get
   into any, well, we'll cross that bridge when we get there. But for now, I'm giving it my all.
   
