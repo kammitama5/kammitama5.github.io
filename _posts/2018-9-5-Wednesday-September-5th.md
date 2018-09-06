@@ -49,7 +49,10 @@
   
 ## Anyways
 - I'm missing out on a JPL lecture tomorrow, but I'll probably catch the stream at home.
-  Back to Haskell!
+- Oh yeah..that Scala course started back on Coursera. I mayyyy do some Scala on Sundays, just
+  to learn a bit of it. It can't be *that* different from Haskell, right? And it might help!
+  But only a couple hours a week. The rest is for Haskell and my PRs in Rust.
+  Anyways...Back to Haskell!
   
 
   
