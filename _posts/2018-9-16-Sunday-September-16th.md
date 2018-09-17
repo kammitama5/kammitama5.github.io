@@ -19,7 +19,10 @@
   It's bizarre to me because I very much consider myself a dev. I remember when I first started
   doing the internship, I met a guy who was a dev and asked him if he was ever a tester, and told
   him that I was doing this (just as a third internship for the experience; I was also doing two other
-  dev internships) and he blandly said "that sucks" and ignored me. It's so unlike how I'm treated
+  dev internships) and he blandly said "that sucks" and ignored me. I also got yelled at one time because
+  one of the testers said I was "behaving like a dev" because "they always do this". Yikes.
+  
+  It's so unlike how I'm treated
   outside of working there. Just because someone has a label doesn't mean that's who they are.
   A lot of the testers there have been scooped up by pretty big companies (but as testers).
   The devs..not so much lol. But to each his own, I guess. So we were talking about how we just
