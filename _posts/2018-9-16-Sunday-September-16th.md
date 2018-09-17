@@ -15,7 +15,7 @@
   what I was interested in. But he's been out of the office and returns this coming week, so I haven't
   really spoke to him since.
   
-- One of the things she spoke about was the rift between testers and devs. It's really true. 
+- One of the things my study-buddy spoke about was the rift between testers and devs. It's really true. 
   It's bizarre to me because I very much consider myself a dev. I remember when I first started
   doing the internship, I met a guy who was a dev and asked him if he was ever a tester, and told
   him that I was doing this (just as a third internship for the experience; I was also doing two other
