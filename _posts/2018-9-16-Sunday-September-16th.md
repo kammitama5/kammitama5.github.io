@@ -65,6 +65,9 @@
   The more time I spend on this, the more I realize I just want to work in Haskell right now. I just spend my time
   on that. And I'd like to get better. 
   
+## Things I'd like to do
+- Hopefully by October I can start back making pull requests in Rust. I'm also almost done with Hbook.
+  
 ## Grad school
 - I'm sitting exams this week and writing up an SOP (again lol) but for feedback this time. I've had four professors
   already give me the OK for recommendations, so that's all good. So who knows, I guess. We'll see how it goes.
