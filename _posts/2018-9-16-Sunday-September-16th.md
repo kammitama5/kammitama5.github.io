@@ -28,8 +28,7 @@
   like a black dude at a KKK meeting. Sort of like an imposter, because I hear them talk crap and I think "wow, is this
   what they'll think of me, too?"
   
-- It's so unlike how I'm treated
-  outside of working there. Just because someone has a label doesn't mean that's who they are.
+- It's so unlike my life outside of that reality. Just because someone has a label doesn't mean that's who they are.
   A lot of the testers there have been scooped up by pretty big companies (but as testers).
   The devs..not so much lol. But to each his own, I guess. So we were talking about how we just
   don't get what the deal is about the hate between testers and devs. It's real, though.
