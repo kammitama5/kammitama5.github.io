@@ -21,8 +21,14 @@
   him that I was doing this (just as a third internship for the experience; I was also doing two other
   dev internships) and he blandly said "that sucks" and ignored me. I also got yelled at one time because
   one of the testers said I was "behaving like a dev" because "they always do this". Yikes.
+
+- And yes, testers take a lot of pride in their work, but apparently they also *hate* devs. On teams, fortunately,
+  they can get along, and support each other, but it seems like if you put a room between all of them and separate
+  them, all they do is talk $h!T about each other. It's quite sad. It's a bit bizarro, too, because I'm sort of feeling
+  like a black dude at a KKK meeting. Sort of like an imposter, because I hear them talk crap and I think "wow, is this
+  what they'll think of me, too?"
   
-  It's so unlike how I'm treated
+- It's so unlike how I'm treated
   outside of working there. Just because someone has a label doesn't mean that's who they are.
   A lot of the testers there have been scooped up by pretty big companies (but as testers).
   The devs..not so much lol. But to each his own, I guess. So we were talking about how we just
