@@ -33,8 +33,9 @@
   A lot of the testers there have been scooped up by pretty big companies (but as testers).
   The devs..not so much lol. But to each his own, I guess. So we were talking about how we just
   don't get what the deal is about the hate between testers and devs. It's real, though.
-  It's nice to have that momentum and I really enjoy working with her during lunch, and just
-  getting better.
+  And other testers will straight up turn against you and stop talking to you if you make the switch.
+  Yep, it can be *that* petty. Anyways, for now it's nice to have that momentum and I really enjoy working with
+  my study-buddy during lunch, and just getting better.
   
 - Interestingly, my C++ code is a lot cleaner than it was before summer. I've also found myself writing tests.
   It's nice to see the improvement. My friend laughed and told me that if a tester crosses into dev at the company,
