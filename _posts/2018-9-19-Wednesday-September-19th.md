@@ -7,7 +7,7 @@
 
 ## It's been a looong day!
 - Okay, let's rewind. I was up at 2 this morning because I was worried about not getting up on time
-  for getting to my GRE exam. I sat it, got a good score, but was so wiped out that instead of going
+  for my GRE exam. I sat it, got a good score, but was so wiped out that instead of going
   back to work, I decided to go home. I was so pumped when I read up on my score (I had no idea lol
   because I honestly didn't study and even know the format of the exam )
   that I immediately booked another exam, because I'm really close to getting a score that is competitive
