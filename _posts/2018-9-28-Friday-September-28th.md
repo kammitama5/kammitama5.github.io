@@ -17,7 +17,7 @@
   it after watching Gabe's talk on folds. 
 - I also met Bartosz and met up again with Matthias and Ron and Ranjit and everyone.
 - I met David from Galois, who worked with Dan on Little Typer (we also went to that book release party)
-  , who I met via email because I was planning on attending the Galois workshop in UMass, but had to
+  . I met David via email because I was planning on attending the Galois workshop in UMass, but had to
   dog-sit last minute and didn't end up going (I totally would have gone for the day! It was a Haskell 
   workshop. However, I've also tried to convince him to have one on the West Coast).
 - Chris's dinner for K-12 education was amazing. I met so many great people there (and Bartosz also
