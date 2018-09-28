@@ -39,7 +39,7 @@
   one of the guys who works on infer. I also saw a really compelling project that I thought I could seriously
   do in Haskell, and I made contact with the researcher and he said they would love to have me for an internship
   at their lab, which is in France :) (of course). So I joked that the OCaml people had kidnapped me. They started
-  telling me that there are more OCaml jobs than there are OCaml developers, and as they say "bla blah blah" in French :)
+  telling me that there are more OCaml jobs than there are OCaml developers, and as they say "bla bla bla" in French :)
 - Oh, I met Larisse Voufo. She also gave me some GREAT advice on what to look for and what her PhD experience was like.
   We met when my roommate and I decided after food-truck day (and before the City Museum) to go for ice cream!
   We picked up William Byrd and Larisse along the way :) We got rolled ice cream and she gave me some solid and supportive
