@@ -16,6 +16,8 @@
   summer of code. I got to talk to him about Hyperloglog (his library), since I was reading up on
   it after watching Gabe's talk on folds. 
 - I also met Bartosz and met up again with Matthias and Ron and Ranjit and everyone.
+- I met Yaron Minsky. He was very nice and told us a bit about who they hire at Jane Street now
+  compared to years ago (in terms of the background), and what he's been working on these days.
 - I met David from Galois, who worked with Dan on Little Typer (we also went to that book release party)
   . I met David via email because I was planning on attending the Galois workshop in UMass, but had to
   dog-sit last minute and didn't end up going (I totally would have gone for the day! It was a Haskell 
