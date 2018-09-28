@@ -15,6 +15,8 @@
   summer of code. I got to talk to him about Hyperloglog (his library), since I was reading up on
   it after watching Gabe's talk on folds. 
 - I also met Bartosz and met up again with Matthias and Ron and Ranjit and everyone.
+- Chris's dinner for K-12 education was amazing. I met so many great people there (and Bartosz also
+  ate dinner with us, so we were joking it was also "teaching Category Theory at the K-12 level").
 - Robby was the Chair for the conference, so he was pretty much my boss. He's always fun to work with
   and just so calm...always.
   
