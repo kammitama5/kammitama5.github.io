@@ -16,6 +16,10 @@
   summer of code. I got to talk to him about Hyperloglog (his library), since I was reading up on
   it after watching Gabe's talk on folds. 
 - I also met Bartosz and met up again with Matthias and Ron and Ranjit and everyone.
+- I met David from Galois, who worked with Dan on Little Typer (we also went to that book release party)
+  , who I met via email because I was planning on attending the Galois workshop in UMass, but had to
+  dog-sit last minute and didn't end up going (I totally would have gone for the day! It was a Haskell 
+  workshop. However, I've also tried to convince him to have one on the West Coast).
 - Chris's dinner for K-12 education was amazing. I met so many great people there (and Bartosz also
   ate dinner with us, so we were joking it was also "teaching Category Theory at the K-12 level").
 - Robby was the Chair for the conference, so he was pretty much my boss. He's always fun to work with
@@ -51,6 +55,7 @@
   institution. There are a handful of teachers who have consistently helped me (one or two), but it isn't
   anything like what I experienced in New York (which was overwhelmingly supportive). I need to find that
   in a school. 
+- I currently got into SPLASH as a student volunteer but passed on it because I lack funding. So another time.
 - I now have about 8 schools. So time to jump into getting those sent out. We'll see.
 
 ## And so it goes
