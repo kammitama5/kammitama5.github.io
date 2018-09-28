@@ -10,7 +10,8 @@
   me my name for his talk (as part of his interactive example) and used me three times. He also
   remembered me the next day, also, which is pretty incredible. Alas, he lost his red sweater :(
   Strangely, I too own a red sweater *exactly* like the one he has. A bit eerie. I slept in that
-  sweater when I was in upstate New York.
+  sweater when I was in upstate New York. I don't wear it unless it's "snow weather" cold 
+  anymore, because mom is embarrassed by the state of that sweater, too :)
 - I also ran into Kmett, who said he "tripped out" over my badge, because he recognized me from
   summer of code. I got to talk to him about Hyperloglog (his library), since I was reading up on
   it after watching Gabe's talk on folds. 
