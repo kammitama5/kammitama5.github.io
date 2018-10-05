@@ -1,7 +1,8 @@
 ## One more Week
 
 ## It's almost been a week
-- Since my last post. I'm *really* busy. 
+- Since my last post. I'm *really* busy. I can't post the photos from ICFP just yet, or the JPL
+  photos I took tonight :( 
 - This month, instead of Hacktoberfest, I'll be working with a team on an application 
   that will benefit a non-profit local to where I live. So I've been in meetings for that.
   So far it's been Trello boards and online meetings and we have a central meeting in person
