@@ -35,7 +35,7 @@
   and it's been pretty chill. I like this guy who has been sort of mentoring me; he's a great fit
   for me and is clear in how he explains things.
 - The next three weeks will be pretty gruelling because I'm filling out applications and just getting
-  things together. This may all be for nothing. But I am reminded of this video by Matthias where he
+  things together. This may all be for nothing. But I am reminded of [this video by Matthias](https://www.youtube.com/watch?v=cq5m9Ve9ZYs) where he
   says that this is like falling in love. I am completely and utterly in love. I have to do this. And
   if I don't get in, you bet I'll be applying the next year, and so on. I'm pretty sure my friend at
   work is also tired of hearing me talk about it, too (haha). 
