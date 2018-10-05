@@ -7,7 +7,7 @@
   So far it's been Trello boards and online meetings and we have a central meeting in person
   all day on Saturday. It's for a real company which has an existing product that needs to
   be improved based on what the client wants. This is good experience for me, and I'm working
-  with three other developers, a product manager, a UI person and the client.
+  with two other developers, a product manager, a UI person and the client.
 - Oh, did I mention there is apparently going to be a video crew (so I've heard) and our bios
   will be up on the project's site? 
 - I think it's better because I get to work with a team for a longer period of time than
