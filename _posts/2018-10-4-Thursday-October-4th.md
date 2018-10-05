@@ -8,7 +8,9 @@
   all day on Saturday. It's for a real company which has an existing product that needs to
   be improved based on what the client wants. This is good experience for me, and I'm working
   with three other developers, a product manager, a UI person and the client.
-  I think it's better because I get to work with a team for a longer period of time than
+- Oh, did I mention there is apparently going to be a video crew (so I've heard) and our bios
+  will be up on the project's site? 
+- I think it's better because I get to work with a team for a longer period of time than
   Hacktoberfest, and focusing on this particular assignment is going to help me from November
   in understanding what I'm going to be learning/ working on with respect to Haskell in production
   for next summer. I've also been doing Haskell katas every morning, but after this month,
