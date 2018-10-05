@@ -6,8 +6,9 @@
   that will benefit a non-profit local to where I live. So I've been in meetings for that.
   I think it's better because I get to work with a team for a longer period of time than
   Hacktoberfest, and focusing on this particular assignment is going to help me from November
-  in understanding what I'm going to be learning/ working with with respect to Haskell in production
-  for next summer. 
+  in understanding what I'm going to be learning/ working on with respect to Haskell in production
+  for next summer. I've also been doing Haskell katas every morning, but after this month,
+  I'll dive back into just working on Haskell and building things with Haskell.
 - I'm also organizing myself for grad school. That's taking up a lot of time and I've had
   to schedule out *every single thing* and I don't know if I'll get into a single school.
   But I'll give it my best shot. 
