@@ -13,7 +13,9 @@
 - I think it's better because I get to work with a team for a longer period of time than
   Hacktoberfest, and focusing on this particular assignment is going to help me from November
   in understanding what I'm going to be learning/ working on with respect to Haskell in production
-  for next summer. I've also been doing Haskell katas every morning, but after this month,
+  for next summer. It's also a better simulation of what working on real production code is like,
+  and is a stronger contribution than random open-source pull requests.
+- I've also been doing Haskell katas every morning, but after this month,
   I'll dive back into just working on Haskell and building things with Haskell.
 - I'm also organizing myself for grad school. That's taking up a lot of time and I've had
   to schedule out *every single thing* and I don't know if I'll get into a single school.
