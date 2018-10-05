@@ -16,6 +16,9 @@
   for next summer. It's also a better simulation of what working on real production code is like,
   and is a stronger contribution than random open-source pull requests because we will be interacting
   with a database and that sort of thing.
+- I want to help Ed and really enjoyed the Rust open-source contributions, but I really need to just focus.
+  Only work that either relates to what I'll be doing over summer, Haskell learning, or grad school stuff
+  until I get into a school. Period. 
 - I've also been doing Haskell katas every morning, but after this month,
   I'll dive back into just working on Haskell and building things with Haskell.
 - I'm also organizing myself for grad school. That's taking up a lot of time and I've had
