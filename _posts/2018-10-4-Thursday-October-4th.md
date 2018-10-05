@@ -4,6 +4,10 @@
 - Since my last post. I'm *really* busy. 
 - This month, instead of Hacktoberfest, I'll be working with a team on an application 
   that will benefit a non-profit local to where I live. So I've been in meetings for that.
+  So far it's been Trello boards and online meetings and we have a central meeting in person
+  all day on Saturday. It's for a real company which has an existing product that needs to
+  be improved based on what the client wants. This is good experience for me, and I'm working
+  with three other developers, a product manager, a UI person and the client.
   I think it's better because I get to work with a team for a longer period of time than
   Hacktoberfest, and focusing on this particular assignment is going to help me from November
   in understanding what I'm going to be learning/ working on with respect to Haskell in production
