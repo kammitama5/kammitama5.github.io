@@ -41,7 +41,7 @@
   work is also tired of hearing me talk about it, too (haha). 
 - I came back from ICFP and stayed up all night thinking that I had to do this. I'm in LA, but my mind
   is not; I'm weighing all my options and thinking ahead about how I can best prepare myself, because 
-  this *I am GOING to do this*.
+  *I am GOING to do this*. I don't have a back-up plan.
 
 ## Space Things
 - I hung out with my friend at JPL tonight. I saw this really interesting talk by Sue Owen on data analysis
