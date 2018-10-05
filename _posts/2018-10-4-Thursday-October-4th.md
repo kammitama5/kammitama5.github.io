@@ -33,7 +33,7 @@
 ## Things....
 - I signed up for a sailing race for women (I took part a year ago, also!). It will have to be
   the Sunday one, as my Saturdays are booked working with my team on the application.
-  I had to cancel two longer sailing trips, but they're pretty understanding and told me to
+  I had to cancel two longer sailing trips, but the group is pretty understanding and told me to
   let them know how things are going. The race though..I have to do that, and it's just one day.
   It energizes me and helps me focus my energy on the water on my one task. It's good for me.
 - Next week, I also have the GSoC dinner in San Francisco. I scored a $50 ticket so I decided
