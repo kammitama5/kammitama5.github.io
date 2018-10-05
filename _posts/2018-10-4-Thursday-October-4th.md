@@ -69,6 +69,7 @@
   change based on X or Y variable? I enjoy the lectures a lot and since most are post-docs or professionals,
   they all tend to be *very* knowledgeable about what they do and have a polished way of explaining their work.
   They answer the questions from the audience really well. 
+- The project is NISAR and you can read about the SAR algorithm [here](https://en.wikipedia.org/wiki/Synthetic-aperture_radar). I'm pretty sure the recorded video will be up soon!
 
 ## Oh yeah
 - I'm in a [Google video](https://www.youtube.com/watch?v=RJiWKaYtzKk). I didn't know about this until today.
