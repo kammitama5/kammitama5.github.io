@@ -57,6 +57,18 @@
   want to see cool robots and hear about "Space". This had neither. It was just about looking at and analyzing
   data, charting maps and relationships, communicating data and it was all spacecraft orbiting in the Earth's
   atmosphere (so no cool zoom out shots of planets or anything, which the public loves... lol).
+- This is part of why I think I'd really enjoy just dedicating my time to research 100% right now. This is..
+  essentially..research. Make hypothesis, look at data and observations, confirm or deny hypothesis based 
+  on findings, supported by your communication of your observations. Refine as needed. 
+- I also really enjoy seeing how the scientists *communicate* their data and what they do. They work in a 
+  very specific area that is quite complex. How do they narrow it down, make us (who have a limited knowledge)
+  interested and make their case within a 45-minute span as to why we should care about what they do? How do 
+  they convince us to become involved? I learn so much every time I attend. I love that my mentor also asks
+  questions; he works within the same organization, but as a scientist, he knows there is a lot he can learn
+  from his peers so he asks them questions. Why would you choose this instrument vs that one? How does the data
+  change based on X or Y variable? I enjoy the lectures a lot and since most are post-docs or professionals,
+  they all tend to be *very* knowledgeable about what they do and have a polished way of explaining their work.
+  They answer the questions from the audience really well. 
 
 ## Oh yeah
 - I'm in a [Google video](https://www.youtube.com/watch?v=RJiWKaYtzKk). I didn't know about this until today.
