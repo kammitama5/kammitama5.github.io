@@ -28,7 +28,11 @@
   our boat; they were at that race. I did mostly trim and grinding, but every time I am on the boat, I learn so much!
   I also saw Zenji, Ellison's boat, on the water. I like that when you're sailing, it doesn't matter; you can have your piece 
   of mind, regardless of your social status on land. It's liberating. 
-
+- Talking to people who aren't in tech 24/7 is also great. Two of the ladies on my boat asked me what a "hackathon" was,
+  saying it sounded "like a spitting contest". That cracked me up, but it was also refreshing. A bunch of them are sailing
+  to the Isthmus coming up, and I had signed up for that, but I can't take a long period of time (ie more than a day) off
+  at the moment. Not until at least the end of November.
+  
 ## Anyways
 - Trudging ahead with the new week!
   
