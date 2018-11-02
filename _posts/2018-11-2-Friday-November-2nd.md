@@ -6,7 +6,7 @@
   Caribbean restaurants in LA. And it does re-energize me when I go home. But I'm not sure what the timing will be 
   next year, as some things are up in the air. So we'll see how that goes. My birthday is literally the week of Carnival.
   This does not help keep my mind off wanting to visit. Sometimes, in my dreams, I am there.
-- I'm going to be in the Bay area next week Sunday morning to Tuesday evening, and I do have some free time on Sunday to
+- I'm going to be in the Bay area next week Sunday morning to Tuesday evening (for Chrome Dev), and I do have some free time on Sunday to
   knock about, so I kid you not...the first thing I did was search for authentic Caribbean restaurants there. I found *one*,
   but they're CLOSED on Sundays AND Mondays! Argh.
   
@@ -40,6 +40,9 @@
   want the answer. 
 - I've also decided  to sign up for Advanced Data Structures and Assembly. Since I'm interested in debuggers, I want to delve more 
   into Disassembly code and will probably look into some OCaml. I was looking at the [owl](https://github.com/owlbarn/owl) library yesterday.
+  
+## Soo..
+- That's about it. I'm really busy, but only for a bit, and promise I'll write big updates!
   
   
   
