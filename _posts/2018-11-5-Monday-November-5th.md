@@ -2,6 +2,10 @@
 
 ## I participated in my second WOW/WAH this weekend!
 
+- Note, these photos are courtesy of the Women's Sailing Association of Santa Monica Bay's Facebook page.
+- The first and third are taken by photographer Mike of the Race committee, and the second by Barb,  
+  of the WSASMB committee (also our skipper for the race!).
+
 <img src="/images/GSoc_/boat.png" width="500">
 
 <img src="/images/GSoc_/boat1.png" width="500">
