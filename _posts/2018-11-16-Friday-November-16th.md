@@ -12,7 +12,9 @@
   be fun! My mentor at JPL (and my parents) are super happy for me and proud. 
 - What's strange is that this past week, all the orders I've had (for food, etc) have been prime number order numbers!
   (today, one was order 29, for example). So interesting! :D
-  
+ 
+## Letter from the MSRI
+
 <img src="/images/GSoc_/msri1.png" width="800">
 
 ## So this is a short post
