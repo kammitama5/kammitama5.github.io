@@ -11,7 +11,7 @@
   They will cover my lodging and give me a stipend! I've actually never been to Berkeley before, so that should
   be fun! My mentor at JPL (and my parents) are super happy for me and proud.
   
-<img src="/images/GSoc_/msri1.png" width="500">
+<img src="/images/GSoc_/msri1.png" width="800">
 
 ## So this is a short post
 - But I'll be completing my applications this weekend. It was deeply satisfying this week that I told one person
