@@ -30,7 +30,7 @@
 - I am a firm believer of this. Even if it's hard. Always give it a shot. You might fail, but the probability of
   your success increases if you go to the places where you will most likely get a break.
   I remind a good friend of mine of this every single day. 
-- In fact, you *need* to go where things are hard, and people are competitive as a young person. It will teach
+- In fact, you *need* to go where things are hard, and people are competitive (as a young person). It will teach
   you things about yourself. You will grow, become hardy, and develop character. Of course, that's just my opinion.
 - Strangely, this place has never felt like the land of opportunity for me. A friend once told
   me that LA is a land of nomads. That has always made sense to me, because I have met so 
