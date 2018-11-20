@@ -18,7 +18,9 @@
   not taken anything about this town seriously for years. My friend invited me to a "tech
   event" today, and I politely told her that I'd prefer to stay home looking at Youtube videos.
 - A lot of the events that claim to be "tech" are either feeding grounds for the many bootcamps
-  that reside here, or are geared towards front-end. For a while, I was part of a healthy data
+  that reside here, or are geared towards front-end. There is nothing wrong with front-end,
+  nor am I suggesting that, but I am saying that there is a lack of diversity in tech in LA.
+  For a while, I was part of a healthy data
   science group, and I enjoyed that a lot, but many of those persons ended up eventually being
   recruited away to that very place to which I commute quite frequently. And strangely,I can count
   on my fingers the number of local recruitments I've received. 
