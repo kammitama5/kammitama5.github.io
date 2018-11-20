@@ -25,9 +25,11 @@
   
 ## You should chase opportunity
 
-- I am a firm believer of this. Always give it a shot. You might fail, but the probability of
+- I am a firm believer of this. Even if it's hard. Always give it a shot. You might fail, but the probability of
   your success increases if you go to the places where you will most likely get a break.
   I remind a good friend of mine of this every single day. 
+- In fact, you *need* to go where things are hard, and people are competitive as a young person. It will teach
+  you things about yourself. You will grow, become hardy, and develop character. Of course, that's just my opinion.
 - Strangely, this place has never felt like the land of opportunity for me. A friend once told
   me that LA is a land of nomads. That has always made sense to me, because I have met so 
   many people passing through, but not many of them stay. It isn't a place of staying. It has never stuck.
@@ -38,6 +40,10 @@
   February 8th. There will be an opportunity for us to have roommates, even though they've given
   me quite a generous reimbursement offer. So I'll into that. I'm excited to spend close to two
   weeks at Berkeley. To see if it too, resonates with me. 
+  
+- The two workshops I'll be attending are "Derived Algebraic Geometry, Birational Geometry
+  and Moduli Spaces" and the Introductory workshop for "Derived Algebraic Geometry and Birational
+  Geometry and Moduli Spaces".
   
 - I also bought Sandy's book, and was making my way through it. I missed the Haskell Utah Meetup
   tonight, but I've been recovering from a cold, recovering from the dentist (where I spent half
