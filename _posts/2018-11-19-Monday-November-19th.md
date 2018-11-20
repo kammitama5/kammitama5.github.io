@@ -23,7 +23,7 @@
   nor am I suggesting that, but I am saying that there is a lack of diversity in tech in LA.
   For a while, I was part of a healthy data
   science group, and I enjoyed that a lot, but many of those persons ended up eventually being
-  recruited away or moved to that very place to which I commute quite frequently. And strangely, I can count
+  recruited away and I stopped attending because it became clear that the events began to be taken over by companiese trying to pitch us their jobs. It stopped being fun after that. Strangely, in LA, I can count
   on my fingers the number of local recruitments I've received. 
   
 ## You should chase opportunity
