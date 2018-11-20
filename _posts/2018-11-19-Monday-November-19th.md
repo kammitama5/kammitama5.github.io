@@ -9,7 +9,8 @@
   being back in LA. I find it difficult to speak to interact with people here in a meaningful
   way (my mentor and friends at JPL don't really count, because JPL itself is a very isolated
   place!). And I can't recall a recent time where I felt I "enjoyed a night out" or anything
-  like that in LA. I do remember the last time I was exhausted by its people, and frustrated,
+  like that in LA. Quite frankly, I have no idea what is going on daily in LA (ask me about reddit, though!).
+  I do remember the last time I was exhausted by its people, and frustrated,
   just wanted to be back in my place. I have multiple memories like that.
 - I ended up here because after school in New York, a big group of my friends moved here. 
   I liked New York, and had (and still have) a lot of friends there. They always ask me if I'll
