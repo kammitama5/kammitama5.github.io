@@ -44,7 +44,7 @@
 
 - I received more grants from MSRI!! So it looks like I'll actually be there from January 28th to
   February 8th. There will be an opportunity for us to have roommates, even though they've given
-  me quite a generous reimbursement offer. So I'll into that. I'm excited to spend close to two
+  me quite a generous reimbursement offer. So I'll look into that. I'm excited to spend close to two
   weeks at Berkeley. To see if it too, resonates with me. 
   
 - The two workshops I'll be attending are "Derived Algebraic Geometry, Birational Geometry
