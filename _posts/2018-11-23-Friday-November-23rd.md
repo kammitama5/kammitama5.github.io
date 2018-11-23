@@ -23,9 +23,9 @@
   
 ## JPL lectures
 
-<img src="/images/forgetmenot/_003.png" width="500">
+<img src="/images/forgetmenot/l003.png" width="500">
 
-<img src="/images/forgetmenot/_004.png" width="500">
+<img src="/images/forgetmenot/l004.png" width="500">
 
 - I went to two. These two images (above) are from the data analysis mapping
   lecture. The one below is from the DSN (Deep Space Network) one. My mentor's
@@ -33,7 +33,7 @@
   they became computerized. He is actually a really interesting guy; he's a mix
   of musician (he still gigs!), business owner and electrical engineer.
   
-<img src="/images/forgetmenot/_010.png" width="500">
+<img src="/images/forgetmenot/l010.png" width="500">
 
 ## Google Summer of Code
 
@@ -45,13 +45,13 @@
   and met fellow peers applying for grad school, so I was able to get some
   good advice and *cough* check out my competition :D
   
-<img src="/images/forgetmenot/_008.png" width="500">
+<img src="/images/forgetmenot/l008.png" width="500">
 
-<img src="/images/forgetmenot/_009.png" width="500">
+<img src="/images/forgetmenot/l009.png" width="500">
 
-<img src="/images/forgetmenot/_007.png" width="500">
+<img src="/images/forgetmenot/l007.png" width="500">
 
-<img src="/images/forgetmenot/_005.png" width="500">
+<img src="/images/forgetmenot/l005.png" width="500">
 
 - Yes, there was a chocolate fountain. I lost a few mini-marshmallows in there!
 
@@ -61,10 +61,10 @@
   Here are some pics! Oh, I randomly ended up in the hotel where there was some leather festival
   going on for the day in the lobby. That was pretty funny. 
   
-<img src="/images/forgetmenot/_011.png" width="500">
+<img src="/images/forgetmenot/l011.png" width="500">
 
 
-<img src="/images/forgetmenot/_017.png" width="500">
+<img src="/images/forgetmenot/l017.png" width="500">
 
 - This was a random slide I really enjoyed.
 
@@ -74,24 +74,24 @@
   various parts of the browser at Chrome Dev, and how it works. I think moving forward,
   this will help me. Some of it was very framework-y, but I also got a lot out of it.
   
- <img src="/images/forgetmenot/_012.png" width="500">
+ <img src="/images/forgetmenot/l012.png" width="500">
  
- <img src="/images/forgetmenot/_013.png" width="500">
+ <img src="/images/forgetmenot/l013.png" width="500">
  
  ## Midi Trumpet
  - This was one of the things I most enjoyed at Chrome Dev in the Expo area. 
  
- <img src="/images/forgetmenot/_014.png" width="500">
+ <img src="/images/forgetmenot/l014.png" width="500">
   
-<img src="/images/forgetmenot/_015.png" width="500">
+<img src="/images/forgetmenot/l015.png" width="500">
 
 ## Other stuff at the event
 
-<img src="/images/forgetmenot/_019.png" width="500">
+<img src="/images/forgetmenot/l019.png" width="500">
 
 ## The glasses had chrome logos etched into the ice
 
-<img src="/images/forgetmenot/_020.png" width="500">
+<img src="/images/forgetmenot/l020.png" width="500">
 
 - When I left Chrome Dev, I had a bit of time before my flight so I went to the SF Mozilla 
   office and went to see one of the talks on flatbuffers. It was really interesting!
@@ -100,20 +100,20 @@
 
 ## Other
 
-<img src="/images/forgetmenot/_021.png" width="500">
+<img src="/images/forgetmenot/l021.png" width="500">
 
-<img src="/images/forgetmenot/_022.png" width="500">
+<img src="/images/forgetmenot/l022.png" width="500">
 
 ## The Pac Man game came back! :D
 
-<img src="/images/forgetmenot/_023.png" width="500">
+<img src="/images/forgetmenot/l023.png" width="500">
 
 ## There was a booth making coffee and lattes and stuff.
 - I had oat milk for the first time. Apparently, it's the new hotness.
   I wouldn't really know about that stuff, though, even though it's good to know
   because in the US I'm lactose intolerant (long story about how milk is pasteurized here).
   
-<img src="/images/forgetmenot/_025.png" width="500">
+<img src="/images/forgetmenot/l025.png" width="500">
 
 ## Corgi Love
 
@@ -121,9 +121,9 @@
   she found my leg at Chrome Dev and fell asleep. Fortunately,
   after a few hours, I got it back. 
   
-<img src="/images/forgetmenot/_026.png" width="500">
+<img src="/images/forgetmenot/l026.png" width="500">
 
-<img src="/images/forgetmenot/_027.png" width="500">
+<img src="/images/forgetmenot/l027.png" width="500">
 
 ## I had a really great Thanksgiving
 
