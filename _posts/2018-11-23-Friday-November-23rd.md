@@ -24,7 +24,7 @@
 
 <img src="/images/popl_2/popl_001.png" width="400">
 
-<img src="/images/GSoC_/forgetmenot/_003.png" width="400">
+<img src="/images/GSoc_/forgetmenot/_003.png" width="400">
 
 <img src="/images/forgetmenot/_003.png" width="500">
 
