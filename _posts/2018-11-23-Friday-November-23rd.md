@@ -14,7 +14,7 @@
 
 <img src="/images/forgetmenot/_002.png" width="500">
 
-<img src="/images/GSoc_/_002.png" width="500">
+<img src="/images/GSoc_/l001.png" width="500">
 
 - Will, Larisse, Ivan, Marienela and myself went to get rolled ice-cream before heading
   to the City museum. Well, it started out being myself and Marienela, but we said 
