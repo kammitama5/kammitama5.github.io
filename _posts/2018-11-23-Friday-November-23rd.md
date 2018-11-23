@@ -22,6 +22,8 @@
   
 ## JPL lectures
 
+<img src="/images/popl_2/popl_001.png" width="400">
+
 <img src="/images/forgetmenot/_003.png" width="500">
 
 <img src="/images/forgetmenot/_004.png" width="500">
