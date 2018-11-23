@@ -5,7 +5,7 @@
 - I sat still this morning, and magically, the short in my USB adapter allowed my photos to
   download. I need to buy a new cable, but this is my third or something. It's really crappily
   manufactured, but it's also not that expensive. I guess I should get a new one, but I bought
-  a [book](https://mitpress.mit.edu/books/little-typer) on dependent types instead. :(
+  a [book on dependent types](https://mitpress.mit.edu/books/little-typer) instead. :(
   
 ## Anyways, here are some forgotten pics!
 
