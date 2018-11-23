@@ -41,7 +41,8 @@
   based on location. The closest to me was in their San Francisco office.
   Phil told me I should definitely go, so I did. I didn't regret it.
 - I also spoke to a bunch of Googlers who had done Summer of Code 
-  (which makes sense as I was recruited shortly after completing GSoC),
+  (which makes sense as I was recruited shortly after completing GSoC; Gabe told me
+  to focus on learning instead so I told them another time),
   and met fellow peers applying for grad school, so I was able to get some
   good advice and *cough* check out my competition :D
   
