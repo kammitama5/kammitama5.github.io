@@ -95,7 +95,7 @@
 - When I left Chrome Dev, I had a bit of time before my flight so I went to the SF Mozilla 
   office and went to see one of the talks on flatbuffers. It was really interesting!
   I didn't understand protobuffers or flatbuffers before, (even though my friend has been 
-  writing articles breaking the internet about them) but after this talk I had a better understanding.
+  writing articles [breaking the internet](https://news.ycombinator.com/item?id=18188519) about them) but after this talk I had a better understanding.
 
 ## Other
 
