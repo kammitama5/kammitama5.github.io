@@ -78,7 +78,8 @@
  
  <img src="/images/forgetmenot/l013.png" width="500">
  
- ## Midi Trumpet
+## Midi Trumpet
+ 
  - This was one of the things I most enjoyed at Chrome Dev in the Expo area. 
  
  <img src="/images/forgetmenot/l014.png" width="500">
