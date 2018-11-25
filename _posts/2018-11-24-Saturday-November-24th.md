@@ -11,6 +11,9 @@
 - I liked that even though both of them are wayyyyyy more experienced (many times over) than I am,
   they were both genuinely curious. They both made me feel like even as someone learning, I had something
   to contribute.
+- Gabe tried it on his version and it worked, and then it worked on my version, so he told me to try to 
+  recreate the error. I was able to by removing parts of working code bit by bit to my original code, to
+  determine *when* exactly it panicked. 
   
 ## It should never panic
 
