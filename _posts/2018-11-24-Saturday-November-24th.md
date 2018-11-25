@@ -31,7 +31,7 @@
 - I found [Chris Done's post on Data.Typeable](https://chrisdone.com/posts/data-typeable), which was pretty fascinating,
   and GHC's [implementation of static pointers](https://ghc.haskell.org/trac/ghc/wiki/StaticPointers),
   as well as Jose's [post on Poly-Kinded Typeable](http://hauptwerk.blogspot.com/2012/11/coming-soon-in-ghc-head-poly-kinded.html)
-- I downloaded and read a few papers, included Jose's Thesis, found Mitchell's [collection of papers](https://mitchellwrosen.github.io/haskell-papers/)
+- I downloaded and read a few papers, including Jose's Thesis, found Mitchell's [collection of papers](https://mitchellwrosen.github.io/haskell-papers/)
   and a couple others from Microsoft Research on Deriving via. All of that...from one silly n00b question.
   
 ## Anyways, I guess it's back to work for me
