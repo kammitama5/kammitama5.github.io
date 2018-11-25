@@ -8,6 +8,9 @@
   but I wanted to know *why* it panic-ed. 
 - Between Gabe and Sandy, I learned that it was a mixture of magic Gnomes in the compiler
   and an old bug that had been fixed in the new version of GHC.
+- I liked that even though both of them are wayyyyyy more experienced (many times over) than I am,
+  they were both genuinely curious. They both made me feel like even as someone learning, I had something
+  to contribute.
   
 ## It should never panic
 
