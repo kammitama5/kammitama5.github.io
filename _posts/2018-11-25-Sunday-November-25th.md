@@ -56,7 +56,7 @@
   [4 Proving Algorithms by Tail Functions
   ANTONI W. MAZURKIEWICZ ](https://core.ac.uk/download/pdf/82353021.pdf)
 
-  [Blog post on Continuation Monad](http://lambda-the-ultimate.org/node/86)
+  [Blog post on Continuation Monad by Lambda The Ultimate](http://lambda-the-ultimate.org/node/86)
 
   [5 ON THE RELATION OF INTERACTION SEMANTICS TO
   CONTINUATIONS AND DEFUNCTIONALIZATION -
@@ -66,10 +66,12 @@
   Passing Style -
   Hayo Thielecke](http://www.lfcs.inf.ed.ac.uk/reports/97/ECS-LFCS-97-376/ECS-LFCS-97-376.pdf)
 
-  [7](http://www.math.bas.bg/bantchev/place/iswim/conti-disco.pdf)
+  [7 The Discoveries of Continuations -
+JOHN C. REYNOLDS](http://www.math.bas.bg/bantchev/place/iswim/conti-disco.pdf)
 
-  [8 The Discoveries of Continuations -
-  JOHN C. REYNOLDS](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1012&context=lcsmith_other)
+  [8 Definitional interpreters for higher-order
+programming languages -
+John C. Reynolds](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1012&context=lcsmith_other)
 
   [9 Ncatlab](https://ncatlab.org/nlab/show/continuation-passing+style)
 
