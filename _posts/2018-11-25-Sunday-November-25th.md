@@ -9,13 +9,20 @@
   
 - I spent the day doing a fair amount of reading, and plodding along in [Sandy's Types](https://leanpub.com/thinking-with-types) book.
   It was a long and tough struggle, because a lot of it was dealing with the constant reminder that I'm not anywhere
-  where I'd like to be yet. I will list a list of resources I read up on today (or at least looked at) below. 
+  where I'd like to be yet. I am learning a lot and it's definitely stretching me, and I spend a lot of time just trying
+  to get things to work. However, it is a book that I plan to spend time on re-reading when I get better at Haskell.
+  
+- Bear in mind that I had *no* idea what any of these things were (listed above) before today. 
+  I have a better understanding, and find some (eg SECD and Krivine) to be *fascinating*.
+  I will list a list of resources I read up on today (or at least looked at) below. I pretty much went through
+  and took a pass from beginning to end of these resourced listed (below) today. 
   
 ## Feelings of Not being good enough
 
 - I constantly feel this. I've run into some situations where I've felt like people were competing with me, 
   (in one particular incident, I realized only afterwards that the person in particular was doing anything they
-  could to prevent me from gaining more experience) and I am perpetually perplexed by this because in my mind,
+  could to prevent me from gaining more experience, even though such person had a CS degree, a great GPA and 
+  great job prospects) and I am perpetually perplexed by this because in my mind,
   I am the *quintessential underdog*. I've gotten this far solely by trying to outwork the person next to me.
   But maybe one day, it won't be enough. 
   I don't have a CS degree, and I'm out of my mind for applying to grad school,
