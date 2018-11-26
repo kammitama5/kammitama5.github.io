@@ -79,7 +79,7 @@ John C. Reynolds](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredi
 
   [Haskell Wiki Article](https://wiki.haskell.org/MonadCont_under_the_hood)
 
-  [Eddie Yang Blog Post](http://blog.ezyang.com/2010/02/nested-loops-and-continuation/)
+  [Eddie Yang Blog Post - Nested Loops and Continuation](http://blog.ezyang.com/2010/02/nested-loops-and-continuation/)
 
   [SO example on Continuation Monads](https://stackoverflow.com/questions/3322540/how-and-why-does-the-haskell-cont-monad-work)
 
