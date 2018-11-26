@@ -16,7 +16,8 @@
 - I constantly feel this. I've run into some situations where I've felt like people were competing with me, 
   (in one particular incident, I realized only afterwards that the person in particular was doing anything they
   could to prevent me from gaining more experience) and I am perpetually perplexed by this because in my mind,
-  I am the *quintessential underdog*. I don't have a CS degree, and I'm out of my mind for applying to grad school,
+  I am the *quintessential underdog*. I've gotten this far solely by trying to outwork the person next to me.
+  I don't have a CS degree, and I'm out of my mind for applying to grad school,
   but I *want* to be there. I just need to convince *someone* that I will be worth a spot there. I'm competing 
   constantly with people who are in a better position, so I usually expect disappointment. But I keep going because
   I don't see myself doing any other thing. And what is a life if you don't try, right?
@@ -24,6 +25,10 @@
 ## Recources
 
 - I perused these today. I *loved* the BRICS one, and the Stack Overflow answer, as well as Landin's paper.
+  What I especially liked is that these particular papers are about *ideas* and are not swimming in PL notation,
+  so they were a lot easier for me to follow. I'm not a Scheme expert, so some of the code took a bit of time to
+  follow (eg in the SECD paper that showed its evaluation-dump process), but it was still reasonable if I spoke 
+  it out loud.
 
   [1 A Rational Deconstruction of
   Landin’s SECD Machine](http://www.brics.dk/RS/03/33/BRICS-RS-03-33.pdf)
@@ -38,17 +43,23 @@
 
   [Wiki on SECD machines](https://en.wikipedia.org/wiki/SECD_machine)
 
-  [4](https://core.ac.uk/download/pdf/82353021.pdf)
+  [4 Proving Algorithms by Tail Functions
+  ANTONI W. MAZURKIEWICZ ](https://core.ac.uk/download/pdf/82353021.pdf)
 
   [Blog post on Continuation Monad](http://lambda-the-ultimate.org/node/86)
 
-  [5](https://arxiv.org/pdf/1410.4980.pdf)
+  [5 ON THE RELATION OF INTERACTION SEMANTICS TO
+  CONTINUATIONS AND DEFUNCTIONALIZATION -
+  ULRICH SCHOPP ](https://arxiv.org/pdf/1410.4980.pdf)
 
-  [6](http://www.lfcs.inf.ed.ac.uk/reports/97/ECS-LFCS-97-376/ECS-LFCS-97-376.pdf)
+  [6 Categorical Structure of Continuation
+  Passing Style -
+  Hayo Thielecke](http://www.lfcs.inf.ed.ac.uk/reports/97/ECS-LFCS-97-376/ECS-LFCS-97-376.pdf)
 
   [7](http://www.math.bas.bg/bantchev/place/iswim/conti-disco.pdf)
 
-  [8](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1012&context=lcsmith_other)
+  [8 The Discoveries of Continuations -
+  JOHN C. REYNOLDS](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1012&context=lcsmith_other)
 
   [9 Ncatlab](https://ncatlab.org/nlab/show/continuation-passing+style)
 
