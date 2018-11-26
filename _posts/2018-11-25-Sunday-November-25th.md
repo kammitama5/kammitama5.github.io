@@ -87,4 +87,5 @@ John C. Reynolds](https://surface.syr.edu/cgi/viewcontent.cgi?referer=&httpsredi
   
   ## I've mostly downloaded and bookmarked these
   
-  - But I'd like to come back to them as I gain a better understanding. 
+  - But I'd like to come back to them as I gain a better understanding. Maybe someone else will find them useful
+    as they're all in one place. 
