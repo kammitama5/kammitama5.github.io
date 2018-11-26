@@ -25,7 +25,8 @@
 
 - I perused these today. I *loved* the BRICS one, and the Stack Overflow answer, as well as Landin's paper.
 
-  [1](http://www.brics.dk/RS/03/33/BRICS-RS-03-33.pdf)
+  [1 A Rational Deconstruction of
+  Landin’s SECD Machine](http://www.brics.dk/RS/03/33/BRICS-RS-03-33.pdf)
 
   [2](https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
 
