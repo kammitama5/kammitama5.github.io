@@ -28,7 +28,8 @@
   [1 A Rational Deconstruction of
   Landin’s SECD Machine](http://www.brics.dk/RS/03/33/BRICS-RS-03-33.pdf)
 
-  [2](https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
+  [2 The mechanical evaluation of expressions
+  By P. J. Landin](https://www.cs.cmu.edu/~crary/819-f09/Landin64.pdf)
 
   [3](http://www.math.bas.bg/bantchev/place/iswim/j.pdf)
 
