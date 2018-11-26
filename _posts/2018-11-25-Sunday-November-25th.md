@@ -11,6 +11,8 @@
   It was a long and tough struggle, because a lot of it was dealing with the constant reminder that I'm not anywhere
   where I'd like to be yet. I am learning a lot and it's definitely stretching me, and I spend a lot of time just trying
   to get things to work. However, it is a book that I plan to spend time on re-reading when I get better at Haskell.
+  For example, I definitely am not able to complete *all* of the exercises in the book right now. I do the best I can
+  at the moment.
   
 - Bear in mind that I had *no* idea what any of these things were (listed above) before today. 
   I have a better understanding, and find some (eg SECD and Krivine) to be *fascinating*.
