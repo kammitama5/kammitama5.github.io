@@ -17,6 +17,7 @@
   (in one particular incident, I realized only afterwards that the person in particular was doing anything they
   could to prevent me from gaining more experience) and I am perpetually perplexed by this because in my mind,
   I am the *quintessential underdog*. I've gotten this far solely by trying to outwork the person next to me.
+  But maybe one day, it won't be enough. 
   I don't have a CS degree, and I'm out of my mind for applying to grad school,
   but I *want* to be there. I just need to convince *someone* that I will be worth a spot there. I'm competing 
   constantly with people who are in a better position, so I usually expect disappointment. But I keep going because
