@@ -8,9 +8,10 @@
   However, before that, I decided to learn more about Linux configs in general and got started on building
   my own VM, after delving into Linux configs in general. 
 - Strangely, I had picked up a lot of the basics from my hackerspace. They've really taught me a lot.
-  At this one job I had, I was extremely bored and would take online classes on things like ```WireShark```,
+  At this one job I had, I was extremely bored and sat a computer all day, so I would take online classes on things like ```WireShark```,
   so I randomly know a bit about that stuff (through IEEE). I even got a few certificates out of it through
-  IEEE.
+  IEEE. Also, things would break a lot at that place, and an employee even hacked into the system remotely 
+  and deleted a bunch of stuff. I think that that also got me into programming and computers :D.
 - As for my Hackerspace,I have to make it back there at some point. I've heard they've moved (again). It's just tough to 
   maintain a hackerspace that is community-driven. The people there are good people. If people don't show up,
   though, and don't submit dues, it kind of goes to all hell.
