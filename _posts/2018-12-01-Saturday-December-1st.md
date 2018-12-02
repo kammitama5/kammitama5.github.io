@@ -30,8 +30,10 @@
   and resting in-between. Tomorrow I will venture outside for a few hours to help a friend, but I intend to come back in by
   the early afternoon, take a nap, and spend the evening coding. Perhaps I will find a solution then to 
   my issue. 
+- In the meantime...Haskell it is!
   
  ## And that's about it
+ 
   
 
   
