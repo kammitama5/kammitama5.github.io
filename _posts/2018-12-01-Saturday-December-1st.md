@@ -17,6 +17,9 @@
   though, and don't submit dues, it kind of goes to all hell.
 - Ah, the VM. So far, so good. However, currently, my ```makefile``` for my VM is just in a state of b@ll$.
   I will sort this out. Everything is in Bash and C++, and Dhall is in Haskell.
+- I'd like to figure out Dhall on both of my machines; one is on 32-bit and the other is 64-bit running on 18.04.
+  But, I also need to understand Dhall. So I've been reading up on it and reading through the code and watched a few
+  presentations on it during the past week.
   
 ## The point is to learn
 - I'm (potentially) taking Assembly next semester (if it's not interrupted by other random things I can't
@@ -32,7 +35,7 @@
   my issue. 
 - In the meantime...Haskell it is!
   
- ## And that's about it
+## And that's about it
  
   
 
