@@ -22,8 +22,8 @@
   me to swallow, because I often want people to do the right thing. 
   
 - Similarly, I've been thinking about some of my own experiences before this current path. In high school, I 
-  wrote up an article for a Languages major (our school was weird and was divided into Sciences, Business and 
-  Languages) and I didn't know the word "juxtaposed". She looked at me and said "let me guess, Science major, right?".
+  wrote up an article for a Languages major because I was the fastest typist (our school was weird and was divided into Sciences, Business and 
+  Languages..also, thanks Mavis Beacon!) and I didn't know the word "juxtaposed". She looked at me and said "let me guess, Science major, right?".
   It hurt, but I was also curious to find out what I was lacking. So I didn't do engineering in college. 
   Somehow, after college, I found engineering again. But once again, I found myself in an environment where one
   embittered engineer once told me that I would never become one, and that no one would ever hire me. Somehow,
