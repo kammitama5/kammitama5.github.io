@@ -27,7 +27,7 @@
   It hurt, but I was also curious to find out what I was lacking. So I didn't do engineering in college. 
   Somehow, after college, I found engineering again. But once again, I found myself in an environment where one
   embittered engineer once told me that I would never become one, and that no one would ever hire me. Somehow,
-  I had to find a way to forgive him, as I knew he was projecting. If I were a different person, it would not 
+  I had to find a way to forgive him, as I knew he was projecting pain in his own life and where he ended up. If I were a different person, it would not 
   have been so easy.
   
 ## And so
