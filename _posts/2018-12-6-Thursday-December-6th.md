@@ -5,6 +5,7 @@
 - That's okay. I've been spending time coding, but I don't feel the need to write everything
   down right now. I have the rest of my life to write technical posts and sound like I know amazing
   things in Haskell. This is sort of an opportunity for me to note things along the way.
+  I want to be able to read this blog years from now. I enjoy reading old letters and emails.
   
 ## I've been thinking about forgiveness a lot
 
