@@ -44,11 +44,14 @@
   this upcoming Monday, first, though!). This is what I mean by "forgiveness for myself". I want to get better 
   at telling myself it's okay to keep failing and getting better, especially as I came from an educational system
   where the price for failing was significant (different path/ different school system). Somehow, Haskell makes it okay,
-  because (as I was telling my friend), it's like a conversation when I work with the compiler. 
+  because (as I was telling my friend), it's like a conversation when I work with the compiler. I try to imagine SPJ
+  is saying the errors that the compiler is spitting out. That helps! :D He definitely wouldn't yell! (and I recommend 
+  this highly!)
   
 ## That's pretty much about it
 
 - I can't say where my ability to bounce back comes from. Certainly, with Haskell, I do this again and again.
+  Something about the language keeps me going. It's encouraging, even as you fail over and over. It pushes you. 
   I'm determined to learn it and get very good at it. It doesn't matter to me if it takes a lifetime. 
 
 - I have a bunch of homework to do, and I have to study for my test. Hopefully afterwards, I will be doing just 
