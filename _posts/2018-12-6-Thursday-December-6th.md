@@ -48,6 +48,9 @@
   
 ## That's pretty much about it
 
+- I can't say where my ability to bounce back comes from. Certainly, with Haskell, I do this again and again.
+  I'm determined to learn it and get very good at it. It doesn't matter to me if it takes a lifetime. 
+
 - I have a bunch of homework to do, and I have to study for my test. Hopefully afterwards, I will be doing just 
   the work for the open source project, prepping for the summer internship and finishing up the Types book.
   Also, starting Little Typer and Mathematics for Programmers.
