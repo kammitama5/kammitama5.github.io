@@ -41,7 +41,9 @@
   I fished it out of my bin and sure enough, it said "Congratulations. Here is the code for your free ticket". I am super stoked!
   
 - There are some really interesting talks on container/VM security and browsers. Plus, lock-picking and all of that great
-  stuff, too! Hackers are just really fun, great people, and intellectually curious, so I always have a good time!
+  stuff, too! Hackers are just really fun, great people, and intellectually curious, so I always have a good time! They also 
+  tend to have a low tolerance for BS, in general, so when I've needed solid advice, I really can't go wrong asking
+  someone from the hacker community, or someone who came from that world. They tend to be very direct and won't sugar-coat.
 
 ## One last thing
 
@@ -54,4 +56,13 @@
   My professors really pulled through, and I'm really happy. So...I guess we'll see!
   
 ## And that's about it!
+
+- I have this dream within the next year, that I've been thinking about, of getting into chess. My dad and I used to
+  play when I was younger, and I'd like to pick it back up again. I seem to like the solitary (but team-related) activities
+  like sailing and chess haha. So I'd say if I had a "goal" for next year for self-improvement (other than Haskell, 
+  grad school, getting better in general, yadda yadda), that would be it. To get back into playing chess. It's actually
+  not too difficult, either, because a lot of that is online (that didn't really exist when I was growing up). So maybe
+  I'll integrate it into my schedule somehow for the year, even if it's once a week or something. 
+  
+  
 
