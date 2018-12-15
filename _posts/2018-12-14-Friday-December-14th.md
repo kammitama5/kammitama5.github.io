@@ -2,7 +2,7 @@
 
 ## I hung out with my mentor last night
 
-- Went to the [San Gabriel Valley Linux User Group](http://www.sgvlug.org) and saw a presentation by the inventor of the [Microduino](https://microduinoinc.com). This group (SGVLUG) is typically about anything open-source. The lady who organizes the group, LAN, also works for JPL, but I knew her before she worked there, and she's been so incredibly kind to me. I don't imagine in my mind
+- Went to the [San Gabriel Valley Linux User Group](http://www.sgvlug.org) and saw a presentation by the inventor of the [Microduino](https://microduinoinc.com). This group (SGVLUG) is typically about anything open-source. The lady who organizes the group, Lan, also works for JPL, but I knew her before she worked there, and she's been so incredibly kind to me. I don't imagine in my mind
   that I've been a part of the open source community before Google Summer of Code, but I have actually been a part of this 
   *very* Meetup for about two years, and I have volunteered for [SCALE](https://en.wikipedia.org/wiki/Southern_California_Linux_Expo) for the past two years (SCALE is the Southern California Linux Expo). I guess I've always considered it just helping my friends and being a part of the community. They're like family to me.
 - The story of Microduino is an incredible story. It's an incredible story because he took the path of entrepreneurship when   all of his peers were going to companies after 
