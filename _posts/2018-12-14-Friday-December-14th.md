@@ -18,7 +18,7 @@
   He said when he used to teach Computer Science and Mathematics, he would tell them that if they're not too busy
   changing jobs every two years, they *might* want to write code that they could read ten years from now (in terms 
   of documentation, readability, maintainability), so that they wouldn't have to spend hours reverse engineering it.
-  He also said that the most important thing is not writing quickly, or how many lines, but about its life-cycle.
+  He also said that the most important thing is not code writing quickly, or writing many lines of code, but about a code base's life-cycle.
   Is it usable? Is it efficient? What is its lifetime? That resonated so much with me. 
 
 - It came up because I was telling him that I want to have a career in places (or a place) where people *care* about
