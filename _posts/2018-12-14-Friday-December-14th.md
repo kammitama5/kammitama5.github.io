@@ -14,7 +14,7 @@
   pursuing their Master's. But he had this dream of making this board, which was started as a Kickstarter project,
   and received over 600% of the expected support. 
   
-- On the way back, my friend/ mentor from JPL started talking and he said something really resonated with me.
+- On the way back, my friend/ mentor from JPL started talking and he said something that really resonated with me.
   He said when he used to teach Computer Science and Mathematics, he would tell them that if they're not too busy
   changing jobs every two years, they *might* want to write code that they could read ten years from now (in terms 
   of documentation, readability, maintainability), so that they wouldn't have to spend hours reverse engineering it.
