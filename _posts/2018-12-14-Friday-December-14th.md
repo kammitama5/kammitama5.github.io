@@ -5,6 +5,11 @@
 - Went to the [San Gabriel Valley Linux User Group](http://www.sgvlug.org) and saw a presentation by the inventor of the [Microduino](https://microduinoinc.com). This group (SGVLUG) is typically about anything open-source. The lady who organizes the group, Lan, also works for JPL, but I knew her before she worked there, and she's been so incredibly kind to me. I don't imagine in my mind
   that I've been a part of the open source community before Google Summer of Code, but I have actually been a part of this 
   *very* Meetup for about two years, and I have volunteered for [SCALE](https://en.wikipedia.org/wiki/Southern_California_Linux_Expo) for the past two years (SCALE is the Southern California Linux Expo). I guess I've always considered it just helping my friends and being a part of the community. They're like family to me.
+- They were the first place I found out about PGP KeySigning parties and learned about Hackaday. The Open Source community
+  and the hackerspace community were some of the first places I looked when I was curious about tech in LA, combined with
+  other computer science Meetups like [PWL](https://paperswelove.org). The people in the hacker community are very much
+  my friends and supporters. 
+  
 - The story of Microduino is an incredible story. It's an incredible story because he took the path of entrepreneurship when   all of his peers were going to companies after 
   pursuing their Master's. But he had this dream of making this board, which was started as a Kickstarter project,
   and received over 600% of the expected support. 
