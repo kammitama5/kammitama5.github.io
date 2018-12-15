@@ -28,7 +28,7 @@
 ## I'm going sailing tomorrow! 
 
 - Yipee! I had a sailing Christmas party this past week. It was splendid! The sailing community cares *so much* about
-  craftsmanship. I ended up going to sleep at 1:30 that day (yes, in the morning), and ten getting up at 4 to go to
+  craftsmanship. I ended up going to sleep at 1:30 that day (yes, in the morning), and then getting up at 4 am to go to
   work. I was so tired I took a rest during the day for 5 minutes during my lunch break, and ended up turning off my
   computer by accident. Whoops. My friend and I were chatting, and he said "I wondered where you had gone for five 
   minutes". Too funny.
