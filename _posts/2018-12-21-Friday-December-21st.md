@@ -39,5 +39,8 @@
   
 ## That's about it for me
 
+- Oh, I also joined the ACM Climate Wikipedia team. So I'll be responsible for helping update 
+  the Wiki pages for that, and possible research and data analysis.
+
 - Back to drinking a lot of orange juice, coconut water and watching PCB-repair videos! :)
 
