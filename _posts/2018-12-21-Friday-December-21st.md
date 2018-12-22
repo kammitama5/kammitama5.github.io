@@ -2,7 +2,7 @@
 
 ## I'm participating in L'Space in 2019
 
-<img src="/images/GSoC_/lspace1.png" width="500">
+<img src="/images/GSoc_/lspace1.png" width="500">
 
 ## What it means
 
