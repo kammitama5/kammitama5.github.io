@@ -34,13 +34,13 @@
 - Yeah, started Little Typer. I wasn't feeling so well this week, so I didn't do much
   in terms of working on the open source project, but hope to get around to starting this weekend.
   Was pretty much in bed for most of the day yesterday and today, pretty sick. I almost cancelled
-  yesterday evening, but it was only for a couple hours, I pretty much took a lot of antibiotics
+  yesterday evening, but it was only for a couple hours. I pretty much took a lot of antibiotics
   and was barely okay. Slept in today. I feel a lot better after resting today, though.
   
 ## That's about it for me
 
 - Oh, I also joined the ACM Climate Wikipedia team. So I'll be responsible for helping update 
-  the Wiki pages for that, and possible research and data analysis.
+  the Wiki pages for that, and possible research and data analysis. 
 
 - Back to drinking a lot of orange juice, coconut water and watching PCB-repair videos! :)
 
