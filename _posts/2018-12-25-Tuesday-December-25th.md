@@ -29,7 +29,7 @@
 - I was promised at the beginning of one that I'd learn certain things,
   and when other guys came in, they were given preference (even though my skill-set / background was better *cough sexism*),
   so I started taking welding and machining classes on my own
-  dime, which eventually lead to learning programming). In my head, I was determined that a person
+  dime, which eventually led to learning programming). In my head, I was determined that a person
   was not going to stop me from learning a certain skill-set and understanding how certain things were put together.
 - Years ago, I remember that another person was "above me" (in terms of position) as a service technician" 
   (and had the arrogance, as well!),
