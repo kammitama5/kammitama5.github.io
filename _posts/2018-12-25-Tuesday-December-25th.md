@@ -24,7 +24,8 @@
   isn't satisfying, I'll just slink away and spend hours on my own trying to get my questions answered.
   Indeed, I did work in a technician role for a number of years 
   (at what some may consider to be a few startups; the last one had a machine shop and built
-  80 percent of everything in-house. 
+  80 percent of everything in-house. We would even put "Made in America" stickers on our products before shipping
+  them out, and send people to provide service and help customers get set up.
 - I was promised at the beginning of one that I'd learn certain things,
   and when other guys came in, they were given preference (even though my skill-set / background was better *cough sexism*),
   so I started taking welding and machining classes on my own
