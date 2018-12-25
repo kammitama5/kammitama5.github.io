@@ -39,6 +39,9 @@
   to fix something in our car or help the guy who came to fix the wiring in our house
   !), and was quite kind to me and allowed me to sit in while
   he was doing repairs.
+- In college, everyone wanted me on their crew because if things went down, I could fix them. One person told her crew
+  that I was the only one allowed to touch certain equipment (lol). In retrospect, that's kind of crappy on my part,
+  because if I fixed it well enough, *anyone* should be able to touch it, but I guess I was learning.
 - Yesterday while I was writing Haskell 
   (because everyone around me was partying or getting ready to go home), I've been streaming these
   PCB board videos in the background (ie people repairing boards). I *really* enjoy watching (or listening to) board
