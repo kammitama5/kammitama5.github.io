@@ -20,7 +20,7 @@
   
 ## It was brought to my attention
 
-- That I may be a "fix it" person. I can spend forever trying to understand how things work, and if it
+- That I may be a "fix it" person. I do like making, but this post is about fixing. I can spend forever trying to understand how things work, and if it
   isn't satisfying, I'll just slink away and spend hours on my own trying to get my questions answered.
   Indeed, I did work in a technician role for a number of years 
   (at what some may consider to be a few startups; the last one had a machine shop and built
