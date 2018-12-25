@@ -51,8 +51,7 @@
 - So, I'm interested in how things work, and functional programming. I have no idea what that means, but I guess
   this post is a start mentally to 2019 for me. 
   
-## A short one, but that's about it...because I'll be enjoying my Christmas with friends and family, and hope
-   you will be, too!
+## A short one, but that's about it...because I'll be enjoying my Christmas with friends and family, and hope you will be, too!
   
 
   
