@@ -26,7 +26,7 @@ Started out in New York, mostly in California, but get around to the other state
 
 ### Other 
 
-- [Gist of Things](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/KM_Resume_7.pdf)
+- [Gist of Things](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_new_.pdf)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 
 ### Contact me
