@@ -19,7 +19,7 @@ permalink: /about/
 
 ### More Information
 
-Started out in New York, mostly in California, but get around to the other states, too.
+Ravenclaw. Started out in New York, mostly in California, but get around to the other states, too.
 
 
 [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California
