@@ -11,7 +11,8 @@
   so that it's been making me mentally forgetful in other more social areas of my life. For example, someone
   will call or text me, and I will only respond to them several hours later because I can only focus on reading
   and writing code, because those things calm my anxiety about unanswered questions I have with respect to the 
-  New Year.
+  New Year. It's difficult to imagine that by March, my life could have an entirely different trajectory, or
+  it could not at all.
   
 ## I've been learning both Haskell and Linux
 
