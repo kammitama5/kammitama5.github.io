@@ -37,7 +37,8 @@
   That is, to stick with Haskell, and learn more about what is under the hood of it, while learning the language.
   I know that I'm slow, and that I don't consider myself a rock-star or anything, but I'm eager to learn and I find
   the language to be very enjoyable. So I'm going to stick with it.
-- It ties into what I proposed for my line of study, too.
+- It ties into what I proposed for my line of study, too. It's strange how all these pieces just seem to fit together.
+  It's been eerie, almost frightening. When things are right they just sort of fit together, like a puzzle. 
 
 ## Anyways, that's it for me.
 
