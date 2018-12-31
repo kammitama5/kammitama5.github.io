@@ -27,7 +27,9 @@
 - I've also been revisiting areas of Haskell that I breezed through before because I was clueless about them
   (this is still at a beginner level) and really trying to understand them. So taking my time to work through
   excercises and make them break and try to fix them. I've noticed I'm getting better! Not quite there, but 
-  definitely better than I was even a few months ago!
+  definitely better than I was even a few months ago! Sandy's book helped because it was very difficult for me
+  (because it is more intermediate). I really struggled, but I went back to some old material and suddenly
+  found that I improved. I need to do this more often.
 - Someone (a few months ago) identified something I may have a natural talent for, and I've been musing about it
   lately. It's been puzzling, but the more I think about it, it makes a lot of sense, and it would tie into
   everything I've already been doing. It has just been unexpected.
