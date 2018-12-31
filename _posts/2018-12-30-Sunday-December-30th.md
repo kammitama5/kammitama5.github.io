@@ -29,7 +29,8 @@
   excercises and make them break and try to fix them. I've noticed I'm getting better! Not quite there, but 
   definitely better than I was even a few months ago! Sandy's book helped because it was very difficult for me
   (because it is more intermediate). I really struggled, but I went back to some old material and suddenly
-  found that I improved. I need to do this more often.
+  found that I improved. I need to do this more often (ie pick something ridiculously hard, make my way through
+  it, and then go back to something a bit closer to my reach).
 - Someone (a few months ago) identified something I may have a natural talent for, and I've been musing about it
   lately. It's been puzzling, but the more I think about it, it makes a lot of sense, and it would tie into
   everything I've already been doing. It has just been unexpected.
