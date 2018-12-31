@@ -30,7 +30,7 @@
   definitely better than I was even a few months ago!
 - Someone (a few months ago) identified something I may have a natural talent for, and I've been musing about it
   lately. It's been puzzling, but the more I think about it, it makes a lot of sense, and it would tie into
-  everything I've already been doing. 
+  everything I've already been doing. It has just been unexpected.
 - It also means that in the future, I can realistically contribute to the Haskell compiler if I so chose to do so.
   Right now, I really would like to help on an open source project I volunteered to work on a few weeks ago,
   but I want to learn a bit of this *first*. I'm not in a rush. 
