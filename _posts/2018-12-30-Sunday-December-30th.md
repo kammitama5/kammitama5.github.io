@@ -6,7 +6,7 @@
   but I will save it for tomorrow evening. I need to process things a bit more, first.
 - I've been staying up late, which is one of the wonderful things about being home for these past couple of 
   days. I went to sleep around 2 this morning, and am probably going to be up late again today (it's already
-  after 11am as I write this.)
+  after 11pm as I write this.)
 - My mind has been distracted by all the loose ends I don't have answers to in the New Year yet, so much 
   so that it's been making me mentally forgetful in other more social areas of my life. For example, someone
   will call or text me, and I will only respond to them several hours later because I can only focus on reading
