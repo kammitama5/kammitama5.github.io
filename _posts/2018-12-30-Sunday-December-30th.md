@@ -24,6 +24,10 @@
   the compiler for Haskell is LLVM. So in a way, I'm learning two things at once. It's been really rewarding. 
 - I'm learning a terrible amount about flags and system calls at the moment. And I actually have been finding 
   it to be immensely enjoyable. 
+- I've also been revisiting areas of Haskell that I breezed through before because I was clueless about them
+  (this is still at a beginner level) and really trying to understand them. So taking my time to work through
+  excercises and make them break and try to fix them. I've noticed I'm getting better! Not quite there, but 
+  definitely better than I was even a few months ago!
 - Someone (a few months ago) identified something I may have a natural talent for, and I've been musing about it
   lately. It's been puzzling, but the more I think about it, it makes a lot of sense, and it would tie into
   everything I've already been doing. 
