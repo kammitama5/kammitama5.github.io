@@ -50,7 +50,11 @@
   SCALE, which is the Linux Open Source conference of note in Southern California. 
 - I started writing things down: Gabe and Chris encouraged me to do this, and it's helped me tremendously. I've 
   continued this practice long after my Summer experience. It helps me to be more methodical and analytical while
-  learning instead of assuming broadly that "I understand" (often I think I do, but I really don't).
+  learning instead of assuming broadly that "I understand" (often I think I do, but I really don't). 
+- This is a point on a long list of reasons for applying for a PhD; a deeper understanding, better analytical skills,
+  and quite frankly, because it is a good fit for my mental state at this moment in time in my life. I am quite honoured
+  to have been supported in these current pursuits by organizations like NASA and the MSRI, with which I will be pursuing
+  research and collaborative opportunities in 2019.
   
 ## Most importantly
 
