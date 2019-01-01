@@ -49,7 +49,8 @@
   in priority. But I definitely plan to continue to contribute. Also, I've already been asked to be a volunteer for 
   SCALE, which is the Linux Open Source conference of note in Southern California. 
 - I started writing things down: Gabe and Chris encouraged me to do this, and it's helped me tremendously. I've 
-  continued this practice long after my Summer experience. 
+  continued this practice long after my Summer experience. It helps me to be more methodical and analytical while
+  learning instead of assuming broadly that "I understand" (often I think I do, but I really don't).
   
 ## Most importantly
 
