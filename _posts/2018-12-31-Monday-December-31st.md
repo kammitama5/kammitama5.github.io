@@ -56,7 +56,7 @@
 
 - This year has been another year of really demonstrating grit and resilience. It has been hard, but very rewarding.
   I have been able to bounce back from so much, while discovering so much strength within my character that I never
-  knew I had. I'm excited to see where it takes me. 
+  knew I had. I'm excited to see where this ability to bounce back and keep going takes me. 
 
 ## I have tremendous anxiety
 
