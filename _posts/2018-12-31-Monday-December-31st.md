@@ -16,7 +16,7 @@
   San Francisco. I almost made it to Boston, but that's for another year :). I met so many
   incredible individuals along the way who really touched my heart with their generosity and support
   and passion for what they do.
-- I contributed to a couple large open source projects, and it whet my appetite to keep going. These were
+- I contributed to a couple large open source projects, and it whetted my appetite to keep going. These were
   the result of some incredible mentorship by top quality mentors who had incredible patience with me.
 - I received a particular grant (called the Helium Grant) that was a highlight for me because it was specifically
   given to me in support of the things I was doing with my life. It meant so much to me to have so many people
