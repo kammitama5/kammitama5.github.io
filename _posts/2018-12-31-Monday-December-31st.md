@@ -65,7 +65,7 @@
 ## I have tremendous anxiety
 
 - 2019 is one that has incredible challenges of its own. There are a few opportunties that I have not yet resolved,
-  and I will have to be incredible flexible and organized in terms of my time, schedule and finances. But I'm up
+  and I will have to be incredibly flexible and organized in terms of my time, schedule and finances. But I'm up
   to the challenge. 
 - I may get to see my parents! They have expressed a desire to help me move in to a new place, depending on where
   I end up. So that is really promising! I'm really thankful for amazing parents! I also have to renew my passport,
