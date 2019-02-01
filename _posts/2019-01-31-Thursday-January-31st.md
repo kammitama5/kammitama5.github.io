@@ -7,6 +7,9 @@
 - It's pretty much a utopia for researchers, particularly those interested in
   Mathematical sciences.
   
+- I stumbled upon [MSRI](http://www.msri.org/web/msri/scientific/workshops) and IAS through Numberphile, and other videos I found while learning
+  about Mathematics and Haskell.
+  
 ## This is what Maths utopia looks like
   
 <img src="/images/msrismall/m1.png" width="500">
