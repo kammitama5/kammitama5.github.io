@@ -67,7 +67,7 @@
  
  <img src="/images/msrismall/msri.png" width="500">
  
- - Original Photo link [here](http://www.msri.org/workshops/861)
+ ## Original Photo link [here](http://www.msri.org/workshops/861)
    
  ## By the third day
  
