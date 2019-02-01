@@ -61,7 +61,7 @@
  
  - I ended up hanging out with a plethora of people who knew me by name,
    we took a group photo, I was incredibly inspired to no longer be a programmer
-   and just focus on Tropical Geometry instead.
+   and just focus on Tropical Geometry instead. Could I pursue Tropical Geometric Programming Languages Research, I wondered?
    
  ## Photo courtesy MSRI.org
  
