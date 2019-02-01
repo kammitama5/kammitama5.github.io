@@ -82,6 +82,7 @@
  
  <img src="/images/msrismall/m7.png" width="500">
  
+ ## The entire walk was about an hour long
  
  <img src="/images/msrismall/m9.png" width="500">
  
