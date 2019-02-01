@@ -28,68 +28,68 @@
   after my original expected time, I was in Berkeley, on the Hill shuttle, headed
   to MSRI.
   
- <img src="/images/msrismall/m2.png" width="500">
+<img src="/images/msrismall/m2.png" width="500">
  
- ## The Place
+## The Place
 
 - The building was decorated with posters of people I have looked at from afar, inspired.
   At one point, I saw a gentleman stand in front of a poster, and realized it was the same
   gentleman *in* the poster! There are blackboards everywhere, and you can see people furiously
   turning coffee and tea (available at all hours) into Derived Algebraic Geometry.
   
- ## A Poster from Numberphile, which is supported by MSRI 
+## A Poster from Numberphile, which is supported by MSRI 
  
- <img src="/images/msrismall/m4.png" width="500">
+<img src="/images/msrismall/m4.png" width="500">
  
- ## Knuth is a supporter of MSRI 
+## Knuth is a supporter of MSRI 
  
- <img src="/images/msrismall/m10.png" width="500">
+<img src="/images/msrismall/m10.png" width="500">
  
- ## The people
+## The people
  
- - The people I met were incredibly kind, on the first day, I joined
+- The people I met were incredibly kind, on the first day, I joined
    a group of about ten of us for Tibetan food in downtown Berkeley.
    We ended the day by playing Jenga and eating Gelato in the Gourmet Ghetto.
    
- - MSRI itself feels very intimate; it's a place where you can meet the giants of the Mathematical Sciences
+- MSRI itself feels very intimate; it's a place where you can meet the giants of the Mathematical Sciences
    casually and have a discussion about research you are working on. It's ideal because if you have cited
    or have been reading their work, you can simply ask questions and work on blackboards over tea or coffee.
    
- <img src="/images/msrismall/m3.png" width="500">
+<img src="/images/msrismall/m3.png" width="500">
  
- ## By the second day
+## By the second day
  
- - I ended up hanging out with a plethora of people who knew me by name,
+- I ended up hanging out with a plethora of people who knew me by name,
    we took a group photo, I was incredibly inspired to no longer be a programmer
    and just focus on Tropical Geometry instead. Could I pursue Tropical Geometric Programming Languages Research, I wondered?
    
- ## Photo courtesy MSRI.org
+## Photo courtesy MSRI.org
  
- <img src="/images/msrismall/msri.png" width="500">
+<img src="/images/msrismall/msri.png" width="500">
  
- ## Original Photo link [here](http://www.msri.org/workshops/861)
+## Original Photo link [here](http://www.msri.org/workshops/861)
    
- ## By the third day
+## By the third day
  
- - A group of seven of us took a 50 minute hike from MSRI all the way to downtown
+- A group of seven of us took a 50 minute hike from MSRI all the way to downtown
    Berkeley, had Thai food, and then went to a bar for a drink. I was heartbroken
    by the time I had to pack my bags and head out. The people are incredibly
    passionate and kind at MSRI. They love research and mathematics, and are 
    incredibly intellectually curious, with incredible wit.
    
- ## A view from our hike 
+## A view from our hike 
  
  
- <img src="/images/msrismall/m7.png" width="500">
+<img src="/images/msrismall/m7.png" width="500">
  
- ## The entire walk was about an hour long
+## The entire walk was about an hour long
  
- <img src="/images/msrismall/m9.png" width="500">
+<img src="/images/msrismall/m9.png" width="500">
  
  
- ## The conference itself
+## The conference itself
  
- - I was fortunate enough to be sponsored for the two conferences; 
+- I was fortunate enough to be sponsored for the two conferences; 
    one was focused on women in research, particularly with an interest
    in Derived Algebraic Geometry and Bi Rational Moduli Spaces. We were
    fortunate enough to be able to speak with several researchers both in
@@ -97,26 +97,26 @@
    speak with is [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter), who is a mathematician/ computer scientist
    who works for Microsoft Reseach in Redmond on Crytography. 
    
- ## There was a poster session
+## There was a poster session
  
- - Unlike CS poster events that I have attended, there was no cash prize,
+- Unlike CS poster events that I have attended, there was no cash prize,
    and there was less of a focus on the school the person was attending. 
    Posters were also not sponsored by industry (Google, Mozilla, etc).
    
- ## In conclusion
+## In conclusion
  
- - I definitely plan to return. Coming here has made me realize that I'm more 
+- I definitely plan to return. Coming here has made me realize that I'm more 
    excited by research than I am learning frameworks in programming, or anything
    like that. It was absolutely worth it for me and I plan to become a member
    and attend as many events as I can.
    
- - I have been splitting my time in between learning about the Linux 
+- I have been splitting my time in between learning about the Linux 
    kernel, some Haskell, an ACM wiki project (I made my first edit last week!), 
    the NASA project and at MSRI. The research community at MSRI really resonated 
    with me. I'm excited to return next week!
    
-  ## Notes from Mathematicians having a discussion during one of the scheduled breaks
+## Notes from Mathematicians having a discussion during one of the scheduled breaks
   
-  <img src="/images/msrismall/m8.png" width="500">
+<img src="/images/msrismall/m8.png" width="500">
 
    
