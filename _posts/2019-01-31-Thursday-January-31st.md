@@ -9,6 +9,9 @@
   
 - I stumbled upon [MSRI](http://www.msri.org/web/msri/scientific/workshops) and IAS through Numberphile, and other videos I found while learning
   about Mathematics and Haskell.
+
+- On a whim, I applied for a grant and to attend their workshops, particularly for their workshops that pertained to
+  Category Theory. I was surprised to discover that I had been accepted for two grants for both workshops. 
   
 ## This is what Maths utopia looks like
   
@@ -47,6 +50,10 @@
  - The people I met were incredibly kind, on the first day, I joined
    a group of about ten of us for Tibetan food in downtown Berkeley.
    We ended the day by playing Jenga and eating Gelato in the Gourmet Ghetto.
+   
+ - MSRI itself feels very intimate; it's a place where you can meet the giants of the Mathematical Sciences
+   casually and have a discussion about research you are working on. It's ideal because if you have cited
+   or have been reading their work, you can simply ask questions and work on blackboards over tea or coffee.
    
  <img src="/images/msrismall/m3.png" width="500">
  
