@@ -19,7 +19,7 @@
   
 ## First time there
 
-- It was my first time in Berkeley and at MSRI. 
+- It was my first time at MSRI. 
   I was *super* nervous. I had also never been to Berkeley before. 
   
 - On top of that, my bus cancelled 20 minutes before it was scheduled to leave,
