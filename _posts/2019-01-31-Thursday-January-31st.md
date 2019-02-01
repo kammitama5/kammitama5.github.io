@@ -63,6 +63,12 @@
    we took a group photo, I was incredibly inspired to no longer be a programmer
    and just focus on Tropical Geometry instead.
    
+ ## Photo courtesy MSRI.org
+ 
+ <img src="/images/msrismall/msri.png" width="500">
+ 
+ - Original Photo link [here](http://www.msri.org/workshops/861)
+   
  ## By the third day
  
  - A group of seven of us took a 50 minute hike from MSRI all the way to downtown
