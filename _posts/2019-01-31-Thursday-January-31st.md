@@ -79,9 +79,12 @@
    
  ## A view from our hike 
  
+ 
  <img src="/images/msrismall/m7.png" width="500">
  
+ 
  <img src="/images/msrismall/m9.png" width="500">
+ 
  
  ## The conference itself
  
