@@ -110,7 +110,9 @@
 - I definitely plan to return. Coming here has made me realize that I'm more 
    excited by research than I am learning frameworks in programming, or anything
    like that. It was absolutely worth it for me and I plan to become a member
-   and attend as many events as I can.
+   and attend as many events as I can. I also think that I can learn (if I don't
+   become converted 100% to become a Mathematician) from that community; I leave
+   humbled, but inspired.
    
 - I have been splitting my time in between learning about the Linux 
    kernel, some Haskell, an ACM wiki project (I made my first edit last week!), 
