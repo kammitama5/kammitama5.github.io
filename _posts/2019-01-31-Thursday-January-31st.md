@@ -95,8 +95,8 @@
    one was focused on women in research, particularly with an interest
    in Derived Algebraic Geometry and Bi Rational Moduli Spaces. We were
    fortunate enough to be able to speak with several researchers both in
-   academia and in industry. One mentor who stuck out for me that I was able to 
-   speak with is [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter). She is a mathematician/ computer scientist
+   academia and in industry. One moment (on the first day) that stuck out for me was that I was able to 
+   speak with [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter). She is a mathematician/ computer scientist
    who works for Microsoft Reseach in Redmond on Cryptography. 
    
 ## There was a poster session
