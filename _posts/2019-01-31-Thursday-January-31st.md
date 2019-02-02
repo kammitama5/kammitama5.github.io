@@ -47,7 +47,7 @@
  
 ## The people
  
-- The people I met were incredibly kind, on the first day, I joined
+- The people I met were incredibly kind. On the first day, I joined
    a group of about ten of us for Tibetan food in downtown Berkeley.
    We ended the day by playing Jenga and eating Gelato in the Gourmet Ghetto.
    
@@ -59,8 +59,8 @@
  
 ## By the second day
  
-- I ended up hanging out with a plethora of people who knew me by name,
-   we took a group photo, I was incredibly inspired to no longer be a programmer
+- I ended up hanging out with a plethora of people who knew me by name.
+   We took a group photo. I was incredibly inspired to no longer be a programmer
    and just focus on Tropical Geometry instead. Could I pursue Tropical Geometric Programming Languages Research, I wondered?
    
 <img src="/images/msrismall/m6.png" width="500">
@@ -95,15 +95,16 @@
    one was focused on women in research, particularly with an interest
    in Derived Algebraic Geometry and Bi Rational Moduli Spaces. We were
    fortunate enough to be able to speak with several researchers both in
-   academia and in industry. One who stuck out for me that I was able to 
-   speak with is [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter), who is a mathematician/ computer scientist
-   who works for Microsoft Reseach in Redmond on Crytography. 
+   academia and in industry. One mentor who stuck out for me that I was able to 
+   speak with is [Kristin Lauter](https://en.wikipedia.org/wiki/Kristin_Lauter). She is a mathematician/ computer scientist
+   who works for Microsoft Reseach in Redmond on Cryptography. 
    
 ## There was a poster session
  
 - Unlike CS poster events that I have attended, there was no cash prize,
    and there was less of a focus on the school the person was attending. 
-   Posters were also not sponsored by industry (Google, Mozilla, etc).
+   Posters were also not sponsored by industry (Google, Mozilla, etc), although most 
+   who presented posters were reimbursed via grant money from NSF and the NSA.
    
 ## In conclusion
  
