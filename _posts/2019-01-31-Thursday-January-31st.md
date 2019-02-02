@@ -63,6 +63,8 @@
    we took a group photo, I was incredibly inspired to no longer be a programmer
    and just focus on Tropical Geometry instead. Could I pursue Tropical Geometric Programming Languages Research, I wondered?
    
+<img src="/images/msrismall/m6.png" width="500">
+   
 ## Photo courtesy MSRI.org
  
 <img src="/images/msrismall/msri.png" width="500">
