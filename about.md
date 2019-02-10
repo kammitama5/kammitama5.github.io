@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-- I'm a programming languages researcher and aspiring boffin. I also dabble in Data Science and Algebraic Geometry.
+- I'm a programming languages researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I also dabble in Data Science and Algebraic Geometry.
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
 
