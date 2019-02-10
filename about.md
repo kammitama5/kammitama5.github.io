@@ -10,8 +10,8 @@ permalink: /about/
 
 
 
-- I'm a functional programming and programming languages theory researcher and aspiring boffin. I also dabble in Data Science and Algebraic Geometry.
-- Also a book junkie. Love Hackerspaces, puzzles, making and sailing. 
+- I'm a programming languages researcher and aspiring boffin. I also dabble in Data Science and Algebraic Geometry.
+- Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
 
 
