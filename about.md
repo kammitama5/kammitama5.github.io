@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-- I'm a functional programming and programming languages theory junkie. Data Science and Machine Learning Algorithms junkie.
+- I'm a functional programming and programming languages theory researcher and aspiring boffin. I also dabble in Data Science and Algebraic Geometry.
 - Also a book junkie. Love Hackerspaces, puzzles, making and sailing. 
 
 
