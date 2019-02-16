@@ -17,7 +17,7 @@
   
 - He also said that as the rest of our group are full-timers, to feel free to reach out to him if cost is a problem
   for anything. He was sensitive to the fact that I basically moved my life up to Silicon Valley. I thought that
-  this was really considerate of him, because this was the case. I'm doing alright, but it's good that he was 
+  this was really considerate of him, because this was the case. I don't have to suffer in silence, thinking "these people don't understand what I'm going through". I've had to do this before with other internships/ opportunities, but it's good that he was so upfront about it from day one. I'm doing alright, but it's good that he was 
   considerate of this and didn't assume that I came to the Valley with a bunch of money and resources. 
   
 ## Secondly
