@@ -7,7 +7,7 @@
   - being listened to; my opinions matter, even struggling through learning
   - being given autonomy while given the opportunity to grow and succeed
   - being set-up to succeed
-  - being treated like a part of the team, even as an intern
+  - being treated like I am a part of the team, even as an intern
   
 - I think as a junior developer, even though many of us are concerned with the name of the company,
   where it is located, the pay, etc, the most significant attribute of an internship or job is the right fit.
