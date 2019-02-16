@@ -36,6 +36,13 @@
   the *right* spot for you; it is the one in which you will probably grow the most, feel the most comfortable
   and form the best friendships. 
   
+## Lastly
+
+- I played chess! I found a chess buddy, and we play on Tuesdays and Thursdays. She is much better than I am, but 
+  I'm learning a lot and really enjoying it! She wanted to meet me because there were no people playing at all,
+  originally, so the board was just sitting there. Suddenly, by our second meeting, two more sets of people 
+  around us started playing. We joked that "we started a movement!" :D
+
 ## Moving forward
 
 - I'm probably going to spend this weekend doing Haskell and learning some other stuff. It's been a wild ride
