@@ -15,6 +15,11 @@
   an offer, feel free to have a cup of coffee with him to chat about everything. This was *amazing*. I really 
   feel like he is someone long-term who is looking out for me and is a real mentor for me. It's amazing.
   
+- He also said that as the rest of our group are full-timers, to feel free to reach out to him if cost is a problem
+  for anything. He was sensitive to the fact that I basically moved my life up to Silicon Valley. I thought that
+  this was really considerate of him, because this was the case. I'm doing alright, but it's good that he was 
+  considerate of this and didn't assume that I came to the Valley with a bunch of money and resources. 
+  
 ## Secondly
   
 - I think as a junior developer, even though many of us are concerned with the name of the company,
