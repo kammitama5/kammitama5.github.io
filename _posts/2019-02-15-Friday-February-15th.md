@@ -12,7 +12,7 @@
 ## Firstly 
 
 - My manager had an initial chat with me about compensation in Silicon Valley. He also told me before signing
-  an offer, feel free to have a cup of coffee with him to chat about everything. This was *amazing*. I really 
+  an offer, feel free to have a cup of coffee with him to chat about everything. Basically, he wants to ensure that I'm not getting screwed over, and get the best offer that I can get. This was *amazing*. I really 
   feel like he is someone long-term who is looking out for me and is a real mentor for me. It's amazing.
   
 - He also said that as the rest of our group are full-timers, to feel free to reach out to him if cost is a problem
