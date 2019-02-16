@@ -9,6 +9,14 @@
   - being set-up to succeed
   - being treated like I am a part of the team, *even as an intern*.
   
+## Firstly 
+
+- My manager had an initial chat with me about compensation in Silicon Valley. He also told me before signing
+  an offer, feel free to have a cup of coffee with him to chat about everything. This was *amazing*. I really 
+  feel like he is someone long-term who is looking out for me and is a real mentor for me. It's amazing.
+  
+## Secondly
+  
 - I think as a junior developer, even though many of us are concerned with the name of the company,
   where it is located, the pay, etc, the most significant attribute of an internship or job is the *right fit*.
 - The right fit with a team, a project, and a company is worth its weight in gold.
