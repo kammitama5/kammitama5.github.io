@@ -10,7 +10,7 @@
   is like " and he motioned his hand in an almost infinity gradient. Shortly after my offer, I was also accepted
   to grad school (PhD) for Programming Languages research, fully funded. I have a lot of respect for the places
   that took a chance on me, because there is always pressure to go with what is known.
-  Both events are sort of unheard of, which is really fascinating.
+  Both events (community college to PhD and community college to company X) are sort of unheard of, which is really fascinating.
   
 - Now that I'm here in Silicon Valley, I'm happy, and I feel like I really fit. 
   It's been a world of adventure, but I really feel in-tune with this place. Because there is so much going on,
