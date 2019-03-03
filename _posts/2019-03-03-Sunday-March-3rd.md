@@ -8,7 +8,8 @@
   Ivy after Ivy and so on. And here I was, attending a community college, while working. My friend told me, just before I 
   accepted my offer (when I was told I was in the last round) that "going from community college to X company 
   is like " and he motioned his hand in an almost infinity gradient. Shortly after my offer, I was also accepted
-  to grad school (PhD) for Programming Languages research, fully funded. 
+  to grad school (PhD) for Programming Languages research, fully funded. I have a lot of respect for the places
+  that took a chance on me, because there is always pressure to go with what is known.
   Both events are sort of unheard of, which is really fascinating.
   
 - Now that I'm here in Silicon Valley, I'm happy, and I feel like I really fit. 
