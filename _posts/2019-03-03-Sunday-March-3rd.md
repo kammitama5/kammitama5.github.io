@@ -45,7 +45,7 @@
   
 ## Nothing is perfect..I have some tough decisions to make
 
-- Once again, there are some loose ends, so we'll see how the next few months works out. It will definitely be an
+- Once again, there are some loose ends, so we'll see how the next few months work out. It will definitely be an
   interesting ride!
   
 ## And that's about it for now
