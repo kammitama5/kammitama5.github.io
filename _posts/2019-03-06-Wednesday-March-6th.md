@@ -6,7 +6,7 @@
 
 ## Here is a cake!
 
-<img src="/images/GSoC_/c2.png" width="500">
+<img src="/images/GSoc/c2.png" width="500">
 
 - They got it for me because it's chocolate, and we were talking about chocolate one time, and I mentioned
   that my country of birth supposedly has high-quality chocolate, and that I grew up with cocoa trees.
