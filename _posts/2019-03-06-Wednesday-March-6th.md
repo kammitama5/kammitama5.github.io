@@ -6,6 +6,8 @@
 
 ## Here is a cake!
 
+### It says "Happy Birthday Krystal :D :D"
+
 <img src="/images/GSoc_/c2.png" width="500">
 
 - They got it for me because it's chocolate, and we were talking about chocolate one time, and I mentioned
