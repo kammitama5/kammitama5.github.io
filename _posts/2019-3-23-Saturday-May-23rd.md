@@ -49,7 +49,7 @@
    great", but instead, the individual said "it's one of the regrets of my life". We spent an hour talking, and it was 
    really enjoyable. At the end, the individual said "you're keeping me in suspense; let me know which you choose and keep
    in touch!". He also asked about what I'd like to contribute in my life; I admit the question caught me off-guard. 
-   It's true; being to contribute something that matters is something that matters to me. This is why I'm also currently
+   It's true; being able to contribute something that matters is something that matters to me. This is why I'm also currently
    at this internship; because I believe that these are values that my current company also upholds and the people there
    do resonate with that need to contribute things to the world that really matter, even in their own, small way.
    
@@ -58,6 +58,7 @@
    the months ahead. One of the things my advisor told me was that Silicon Valley has always had a problem finding good
    talent, so that they know if they've found you and identified you as talent, they have to do all that is in their
    power to keep you there, because it benefits them.
+ - And honestly, I've never had a problem finding a job. My range is anywhere from 10 to 22 days, typically.
  - Another student told me that doing a PhD will give me (as a minority) an opportunity to be a positive role-model, too.
    And either decision will not hurt me, so it's really a personal decision. But in his case, he was working and was bored
    and was told that he'd get more challenging responsibility, and they just kept bringing in people with graduate degrees,
