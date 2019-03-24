@@ -37,7 +37,7 @@
  - There is also a really solid field (which my friend is into) that lends itself to really great collaboration opportunities for things I'm also interested in. So that's something to think about, too. 
  - Also, the subject matter is fascinating. It would, however mean that I may not be a fit for my current path after this
    journey. So that is something to weigh. This programme would change me significantly. However, I love my current company/
-   internship, and the subject matter is not too far off that I couldn't find a topic that I could work in within that company.
+   internship, and the subject matter is not too far off that I couldn't find a topic that I could work in within that company. I was even thinking it's a topic that they highly value, so by becoming an expert, my skillset would be valued.
    So I'm not 100% hosing myself.
    
  ## Mentorship
