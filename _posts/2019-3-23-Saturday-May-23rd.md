@@ -16,7 +16,7 @@
 ## Wisdom: Things I did enjoy
 - I met a girl who was also accepted but they didn't determine the degree to which they were going to fund her.
   My programme is fortunate enough that money is not an issue, so I'm fully funded. I immediately hit it off with
-  her, and we spent the evening having dinner and just discusing our futures, and what is in store for us. Both of
+  her, and we spent the evening having dinner and just discussing our futures, and what is in store for us. Both of
   us seem to have similar backgrounds, similar concerns, and a similar wit. She is also just the kind of person
   who is going to succeed wherever she goes. You can tell this just by speaking with her.
 - So she was also accepted to two other great schools (like top five) and one didn't fully fund her and the other did.
