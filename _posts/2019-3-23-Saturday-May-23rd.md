@@ -19,6 +19,8 @@
   her, and we spent the evening having dinner and just discussing our futures, and what is in store for us. Both of
   us seem to have similar backgrounds, similar concerns, and a similar wit. She is also just the kind of person
   who is going to succeed wherever she goes. You can tell this just by speaking with her.
+- She, like myself, were coaxed into taking internships by companies that originally wanted us full-time, but we 
+  had set out to do grad school anyways, but now we were having thoughts about the directions we should go.
 - So she was also accepted to two other great schools (like top five) and one didn't fully fund her and the other did.
   But the fully-funded one is not in research she finds interesting at all. And this one has research she is interested 
   in. On her way back, the chair informed her that they would fully fund her. They would be silly not to do so; she is
