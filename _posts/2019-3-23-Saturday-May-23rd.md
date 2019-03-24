@@ -33,7 +33,8 @@
    and that this is an apprenticeship. He even gave me a ride back to my hotel.
  - What he did promise is that in this world of engineers who solve their problems by looking online and asking their
    friends, he could teach me to solve new ones where the answers were not so obvious. Also, my advisors are a mix of 
-   solid Mathematics background and Computer Science/ programming, and there is a lot of Haskell and Python.
+   solid Mathematics background and Computer Science/ programming, and there is a lot of Haskell and Python, and that's awesome.
+ - There is also a really solid field (which my friend is into) that lends itself to really great collaboration opportunities for things I'm also interested in. So that's something to think about, too. 
  - Also, the subject matter is fascinating. It would, however mean that I may not be a fit for my current path after this
    journey. So that is something to weigh. This programme would change me significantly. However, I love my current company/
    internship, and the subject matter is not too far off that I couldn't find a topic that I could work in within that company.
