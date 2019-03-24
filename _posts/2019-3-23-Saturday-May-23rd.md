@@ -26,7 +26,7 @@
   in. On her way back, the chair informed her that they would fully fund her. They would be silly not to do so; she is
   definitely going places. 
   
- ## My situation
+## My situation
  - I had decided about a month ago that I would not go (on paper), but I decided to check it out anyways. 
    I change my mind daily, so take my first statement with a grain of salt.
    Silicon Valley has really
@@ -43,7 +43,7 @@
    So I'm not 100% hosing myself. I honestly think about the fact that this company where I'm currently interning has
    given me so much, that it would be an opportunity to give back in a positive way, if it were possible. 
    
- ## Mentorship
+## Mentorship
  - I've had several mentors since I have landed in Silicon Valley. Someone referred to me as "a gifted intern". I feel really
    grateful and fortunate. 
  - In this group, I've met people who were drop-outs, to people who were in a situation like myself and chose to do their
@@ -63,7 +63,7 @@
    the journey, and about enjoying things that are hard but that are fulfilling, and being around A people who push me
    to become the best that I can be. 
    
- ## Gratitude
+## Gratitude
  - I feel lucky and grateful to be in this situation, and I guess I'll have to make a lot of difficult decisions in
    the months ahead. One of the things my advisor told me was that Silicon Valley has always had a problem finding good
    talent, so that they know if they've found you and identified you as talent, they have to do all that is in their
@@ -75,9 +75,9 @@
    who were able to move ahead of him and get more interesting projects. So he knew that he had to pursue one. It hasn't
    been easy, but he has enjoyed it immensely. 
    
-  ## So I have all these things to think about
+ ## So I have all these things to think about
   - It's a tough decision. I guess that things that some people value highly, I don't particularly, so general advice
     is not helpful to me (buy a house, get a job, family, etc) because I guess I am not motivated by the same things that
     the average person is. So we'll see how it all goes. 
     
-  ## And that's it!
+ ## And that's it!
