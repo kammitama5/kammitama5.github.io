@@ -75,9 +75,9 @@
    who were able to move ahead of him and get more interesting projects. So he knew that he had to pursue one. It hasn't
    been easy, but he has enjoyed it immensely. 
    
- ## So I have all these things to think about
+## So I have all these things to think about
   - It's a tough decision. I guess that things that some people value highly, I don't particularly, so general advice
     is not helpful to me (buy a house, get a job, family, etc) because I guess I am not motivated by the same things that
     the average person is. So we'll see how it all goes. 
     
- ## And that's it!
+## And that's it!
