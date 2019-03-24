@@ -38,7 +38,8 @@
  - Also, the subject matter is fascinating. It would, however mean that I may not be a fit for my current path after this
    journey. So that is something to weigh. This programme would change me significantly. However, I love my current company/
    internship, and the subject matter is not too far off that I couldn't find a topic that I could work in within that company. I was even thinking it's a topic that they highly value, so by becoming an expert, my skillset would be valued.
-   So I'm not 100% hosing myself.
+   So I'm not 100% hosing myself. I honestly think about the fact that this company where I'm currently interning has
+   given me so much, that it would be an opportunity to give back in a positive way, if it were possible. 
    
  ## Mentorship
  - I've had several mentors since I have landed in Silicon Valley. Someone referred to me as "a gifted intern". I feel really
@@ -53,6 +54,12 @@
    It's true; being able to contribute something that matters is something that matters to me. This is why I'm also currently
    at this internship; because I believe that these are values that my current company also upholds and the people there
    do resonate with that need to contribute things to the world that really matter, even in their own, small way.
+ - It's very different from a lot of my peers, who seem to focus on "how to get into N company and make a lot of $$",
+   or "how do I get a job in Silicon Valley", or "how do I give this talk at X conference to get my name out there?", or
+   "will I ever be able to buy a house in California?" or "how will I pay my student loans from undergrad?".
+   I don't think about these things at all. I think about my growth as an engineer, the health of my parents, and about
+   the journey, and about enjoying things that are hard but that are fulfilling, and being around A people who push me
+   to become the best that I can be. 
    
  ## Gratitude
  - I feel lucky and grateful to be in this situation, and I guess I'll have to make a lot of difficult decisions in
