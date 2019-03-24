@@ -10,7 +10,8 @@
 - That Dulles airport thing was brutal lol. 
 - A bowl of butternut squash soup that I ordered from the restaurant downstairs that definitely (by West coast standards)
   is *not* a bowl of butternut squash soup
-- I'm really stating these things because they don't matter
+- Yeah...so I'm really stating these things because they don't matter :). I enjoyed it all, and even got a few tshirts and
+  candies that I plan to share with my coworkers when I get back.
 
 ## Wisdom: Things I did enjoy
 - I met a girl who was also accepted but they didn't determine the degree to which they were going to fund her.
