@@ -20,7 +20,7 @@
   us seem to have similar backgrounds, similar concerns, and a similar wit. She is also just the kind of person
   who is going to succeed wherever she goes. You can tell this just by speaking with her.
 - She, like myself, was coaxed into taking an internship by a company that originally wanted her full-time. Like myself, she 
-  had set out to do grad school anyways, but now and was having reservations about the direction she should go.
+  had set out to do grad school anyways, but now was having reservations about the direction she should go.
 - So she was also accepted to two other great schools (like top five) and one didn't fully fund her and the other did.
   But the fully-funded one is not in research she finds interesting at all. And this one has research she is interested 
   in. On her way back, the chair informed her that they would fully fund her. They would be silly not to do so; she is
