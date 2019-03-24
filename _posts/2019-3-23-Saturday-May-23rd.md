@@ -7,7 +7,7 @@
   I met my would-be advisors, some of my peers, and the general town called Burlington.
   
 ## Things I did not enjoy
-- That Dulles airport thing was brutal lol. 
+- That Dulles airport thing was brutal lol. I still don't know how to pronounce that word!
 - A bowl of butternut squash soup that I ordered from the restaurant downstairs that definitely (by West coast standards)
   is *not* a bowl of butternut squash soup
 - Yeah...so I'm really stating these things because they don't matter :). I enjoyed it all, and even got a few tshirts and
