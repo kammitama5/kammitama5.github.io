@@ -25,7 +25,9 @@
   definitely going places. 
   
  ## My situation
- - I had decided about a month ago that I would not go, but I decided to check it out anyways. Silicon Valley has really
+ - I had decided about a month ago that I would not go (on paper), but I decided to check it out anyways. 
+   I change my mind daily, so take my first statement with a grain of salt.
+   Silicon Valley has really
    put me at a crossroads, and I was going down one particular road. I ended up really loving Burlington, the people,
    and could honestly imagine myself here. My advisor had said that funding will never be an issue, as that's his job,
    and that this is an apprenticeship. He even gave me a ride back to my hotel.
