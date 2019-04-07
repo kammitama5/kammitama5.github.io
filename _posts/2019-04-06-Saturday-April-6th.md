@@ -55,7 +55,11 @@
   problem and the solution. I think about this [Hinton's interview](https://www.youtube.com/watch?v=l9RWTMNnvi4)
   and what it means to stick with a problem that has no obvious solution, and the kind of personality and mental
   fortitude it must take from a person. The people that resonate with me generally have this, and I relate to this
-  a lot. Anyone who has done anything really hard, who has felt like giving up, can relate to this.
+  a lot. Anyone who has done anything really hard, who has felt like giving up, can relate to this. Because this 
+  journey has been nothing short of a miracle, and just really, really hard. But I really, really want to be 
+  a great engineer. Even if it takes me my entire life. I mean, N00gler hats are cool and all, but I'd honestly
+  give it up in a heartbeat to chase a mentor who could help me with that goal; to help make me a better problem-solver
+  and a better engineer.
   
 ## Wall of Text
  - So I guess I should go write some Haskell now...but that's about all I have for today. Be well. 
