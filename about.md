@@ -13,6 +13,9 @@ permalink: /about/
 - I'm a programming languages researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I also dabble in Data Science and Algebraic Geometry.
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
+### What's Unique about me
+- I would describe myself as intellectually curious. I've taken classes in sculpting, woodworking, machining, and robotics (I also taught a robotics class weekly for about a year). I've sailed from MDR to Catalina Island, and to Newport beach. I like Haskell and programming languages in general, which I did not learn formally in school. I also worked in manufacturing for a bit for a couple startups, and understand the process of manufacturing real-world things (generating a BOM, 3-d modelling, etc). I believe that life experience/learning from failure is important.
+- I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science. 
 
 ### Update (as of 2019)
 - In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisor is Joseph P. Near). My focus will be on Compilers and Data Privacy, with a smidgen of Neural Networks. I will also be a TA for Compilers (Haskell) and Data Privacy coursework.
