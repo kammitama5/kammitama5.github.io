@@ -14,7 +14,7 @@ permalink: /about/
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
 ### What's Unique about me
-- I would describe myself as intellectually curious. I've taken classes in sculpting, woodworking, machining, and robotics (I also taught a robotics class weekly for about a year). I've sailed from MDR to Catalina Island, and to Newport beach. I like Haskell and programming languages in general, which I did not learn formally in school. I also worked in manufacturing for a bit for a couple startups, and understand the process of manufacturing real-world things (generating a BOM, 3-d modelling, etc). I believe that life experience/learning from failure is important.
+- I would describe myself as intellectually curious. I've taken classes in sculpting, woodworking, welding, machining, and robotics (I also taught a robotics class weekly for about a year). I've sailed from [MDR](https://www.visitmarinadelrey.com/wp-content/uploads/2016/06/MDR-MDR-Anchorage-map-web.pdf) to Catalina Island, and to Newport beach. I like Haskell and programming languages in general, which I did not learn formally in school. I also worked in manufacturing for a bit for a couple startups, and understand the process of manufacturing real-world things (generating a BOM, 3-d modelling, etc). I believe that life experience/learning from failure is important.
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science. 
 
 ### Update (as of 2019)
