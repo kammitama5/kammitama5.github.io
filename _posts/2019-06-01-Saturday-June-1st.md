@@ -2,7 +2,7 @@
 
 ## One last day
 - It's my last day at my current residence. Tomorrow, I move from Sunnyvale to San Francisco.
-  I'm excited because there is lots of Haskell involved (in fact, I start by going to a Haskell Meetup
+  I'm excited because there is a lot of Haskell involved (in fact, I start by going to a Haskell Meetup
   tomorrow evening), but there is also a lot of opportunity for me to grow as a developer.
   
 ## Yesterday was tough for me emotionally
