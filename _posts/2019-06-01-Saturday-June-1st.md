@@ -53,7 +53,7 @@
  
 ## And I met the other Geoff!
 
- <img src="/images/apl/geoffh.png" width="500">
+ <img src="/images/apl/geoffh.png" width="300">
  
 - My coworkers resolved that they would not allow me to come back unless I had attended, since I simply could not
   stop talking about Hinton, and it was sort of a dream for me to be able to (especially as an aspriring researcher) 
