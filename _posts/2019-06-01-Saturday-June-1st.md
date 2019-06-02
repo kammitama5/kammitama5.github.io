@@ -66,7 +66,8 @@
 - I met some of the summer interns! We had a few dinners together. I showed my friend in LA this photo and he said
   "You all look *so* happy!". Yes; if I could describe it all, it would be a mix of happiness and fulfillment.
   
- 
+<img src="/images/apl/innterns.png" width="300"> 
+
 ## What's next?
 - I leave inspired. I'm currently working on a group project for a new idea involving Space. We may get to 
   file for a patent, which is pretty cool.
