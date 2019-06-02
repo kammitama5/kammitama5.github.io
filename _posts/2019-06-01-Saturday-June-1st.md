@@ -76,5 +76,10 @@
   a new chapter of my life.
 - But for now, I'm just moving to SF and enjoying the summer and hoping to learn a lot of Haskell. I'm so 
   nervous, but grateful for the opportunities.
+
+## What has stuck with me
+- The spirit of everything. It was a special place because the people there really do care and love what they do.
+  I met really special people who I will remember for a long time (as long as my memory is intact).
+  We are all inventors. We are the rebels. 
   
 ## And that's it!
