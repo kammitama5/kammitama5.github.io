@@ -34,7 +34,7 @@
   and talking about functional programming and the community. We even went to a movie theatre one night
   and ended up watching various shows because the staff didn't seem to care that our tickets had expired :)
  
-<img src="/images/apl/d1.png" width="500">
+<img src="/images/apl/d1.png" width="300">
 
 - A drawing from our time in the Iris Garden
 
