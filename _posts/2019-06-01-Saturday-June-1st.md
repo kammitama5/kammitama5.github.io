@@ -33,6 +33,9 @@
 - It was fun because we ended up doing everything from trying out corn dogs, drawing, drinking boba
   and talking about functional programming and the community. We even went to a movie theatre one night
   and ended up watching various shows because the staff didn't seem to care that our tickets had expired :)
+  All she could say yesterday was "I'm going to miss you" *insert crying emoji*. What do you say to that?
+  I was tearing up, too. We resolved to make time to hang out every weekend, at least until I have to go back
+  to LA.
  
 <img src="/images/apl/d1.png" width="300">
 
@@ -58,6 +61,11 @@
 - My coworkers resolved that they would not allow me to come back unless I had attended, since I simply could not
   stop talking about Hinton, and it was sort of a dream for me to be able to (especially as an aspriring researcher) 
   see him speak. 
+  
+## Other interns
+- I met some of the summer interns! We had a few dinners together. I showed my friend in LA this photo and he said
+  "You all look *so* happy!". Yes; if I could describe it all, it would be a mix of happiness and fulfillment.
+  
  
 ## What's next?
 - I leave inspired. I'm currently working on a group project for a new idea involving Space. We may get to 
