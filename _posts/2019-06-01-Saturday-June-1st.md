@@ -10,7 +10,7 @@
   at my current internship, but I made it to around the early afternoon and had to start sending out emails to
   everyone that my email address was going to change and that they should stay in touch with me via my personal one.
 - Then, came an outpouring of people who were in shock, and saying that I should come back soon. 
-  "What!?" someone said. "What do you mean today is your last day? How!?" said another. "You *have* to come back"
+  "What!?" someone said. "What do you mean today is your last day? How!?" said another. "You *have* to come back!!! Get your PhD and come back here!!!"
   said a third. A fourth, burly six-foot man with dreadlocks gave me a bear hug. By the time I got around to my team,
   I think I had a slight case of the sniffles. My coworker, at the end of the day, stayed and chatted with me after
   everyone else had left, and he walked out with me, and wished me well. 
