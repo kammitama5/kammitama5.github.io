@@ -30,7 +30,7 @@
 
 <img src="/images/apl/d2.png" width="500"> 
 
-- It was fun because we ended up doing everything from trying out corn dogs, drawing, drinking boba
+- We'd hang out every weekend. It was fun because we ended up doing everything from trying out corn dogs, drawing, drinking boba
   and talking about functional programming and the community. We even went to a movie theatre one night
   and ended up watching various shows because the staff didn't seem to care that our tickets had expired :)
   All she could say yesterday was "I'm going to miss you" *insert crying emoji*. What do you say to that?
