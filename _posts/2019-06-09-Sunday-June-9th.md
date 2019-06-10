@@ -7,7 +7,8 @@
   
 - One thing that definitely is more surprising is that the hours are a *lot* better than my first internship.
   As in, I don't know what to do with all the extra time - better. So uh..yeah. I do get to write Haskell
-  daily, too, which is really great. I hope to get better at this. 
+  daily, too, which is really great; I started on my first day, too. I hope to get better at this, but that's
+  the point of an internship. 
   
 ## I also joined a Hackerspace
 
