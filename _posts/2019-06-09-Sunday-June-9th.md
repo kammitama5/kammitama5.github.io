@@ -18,6 +18,9 @@
   made friends with people at a nearby restaurant, where I can casually sit on a random evening and drink
   a glass of Moscato. So it feels very homey. 
   
+- My commute is also pretty fantastic. It picks me up on the corner a block away, and drops me on the same
+  block where I work, and it's just one bus. Laundry also takes me max an hour, and is half a block away.
+  
 - I joined a Hackerspace literally two blocks from where I work, which strangely had workshops in Haskell!
   I missed the first workshop, but have attended the second and third. They did not disappoint. I've since
   then made new friends and even learned how to write proofs in Haskell (or rather, am learning).
