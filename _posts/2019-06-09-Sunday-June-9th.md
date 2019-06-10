@@ -14,7 +14,7 @@
 - The day I moved out of my Sunnyvale apartment, I moved into my new one in Russian Hill/Nob Hill-ish area.
   The person told me it was Russian Hill, but when I look it up it says Nob Hill, so I have no idea?
   It's awesome, regardless, and I pretty much have the entire place to myself, at a great deal. I've already
-  made friends with peoplea at a nearby restaurant, where I can casually sit on a random evening and drink
+  made friends with people at a nearby restaurant, where I can casually sit on a random evening and drink
   a glass of Moscato. So it feels very homey. 
   
 - I joined a Hackerspace literally two blocks from where I work, which strangely had workshops in Haskell!
