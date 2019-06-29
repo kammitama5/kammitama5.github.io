@@ -32,14 +32,16 @@
   snow, fall, has resonated so deeply with what I'm looking for right now. Everything my advisors have 
   touched upon has come to pass. What they offered is something that NO ONE else had offered me;
   investment in myself, recognizing that I have the POTENTIAL to be so much more than I see myself to
-  be right now. NO ONE else has offered that in terms of a company and other mentors I have found here.
+  be right now. NO ONE else has offered that in terms of a company and other managers/engineers I have found here.
+  They focus on jobs and making money, as though I should settle.
   It is a sad thing, but it is a wonderful thing to have the maturity to recognize that. 
   
 - A mathematician friend of mine told me this week "you are more than what you are right now, at this 
   moment" basically, in an email. This is what my advisors have been saying. Every other company, recruiter
   or person who I do not consider a mentor has trended in the direction of putting a label on me and trying
-  to (as I call it) dumb it down so I take the path of least resistance. But that path isn't enough for me,
-  considering how far I've come. 
+  to (as I call it) dumb it down so I take the path of least resistance. They goad you on by saying you 
+  can "get a job quickly", "make a lot like me", or some other nonsense. 
+  But that path isn't enough for me, considering how far I've come. 
   
 
 ## Oh, I am going to Europe for a Conference!
