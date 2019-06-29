@@ -10,7 +10,7 @@
 - The theme was "Women in Tech", and some amazing ladies spoke about their journey and gave advice.
   Including this one :)
   
-<img src="/images/melissa_m.png" width="500">
+<img src="/images/melissa_m.png" width="400">
 
 - Marissa was interesting because she started out with a research background. She was interested 
   in some really specific research, which gave her a good opportunity for a summer research position,
