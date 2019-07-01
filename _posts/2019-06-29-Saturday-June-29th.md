@@ -14,7 +14,7 @@
 
 - Marissa was interesting because she started out with a research background. She was interested 
   in some really specific research, which gave her a good opportunity for a summer research position,
-  and then she decided to talk, out of 14 offers, a job at a weird little startup of 8 people. 
+  and then she decided to take, out of 14 offers, a job at a weird little startup of 8 people. 
   She said she chose it because she wanted to work with smart people who were doing something really
   interesting, and that the worst thing that could happen is that later on, she could say that she 
   worked at this weird little company with a funny name called "Google". 
