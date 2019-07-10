@@ -46,9 +46,10 @@
 - Every year during Racket school, I struggle, but I notice that when I write code in the evening (for both
   years it has been Haskell), my debugging skills got better, and so did my ability to reason about code.
   That is part of why I have been back, along with interesting ideas in general that Racket has about abstraction.'
-- To me, Racket is about pushing around blogs of code and sometimes bending your mind about how you think about things.
+- To me, Racket is about pushing around blobs of code and sometimes bending your mind about how you think about things.
   Haskell also bends your mind, but with structure; I can see the exoskeleton of a programme in Haskell, and I can grasp
-  whisps of rationality (or pretend to).
+  whisps of rationality (or pretend to). Racket is like watercolour and Haskell is like grey copic markers or using
+  different weights of lead to draw on vellum.
 - This year, when we introduced ourselves, I stood up and said "I am a fraud. I am not here for Racket, because I love
   Haskell, but I am here for the ideas and abstractions within Racket, which I find fascinating". Strangely, quite a few
   people followed with the thought of being frauds, and others also identified themselves as frauds, including a professor,
