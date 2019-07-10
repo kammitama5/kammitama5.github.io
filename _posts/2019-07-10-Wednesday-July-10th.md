@@ -5,6 +5,7 @@
 - I resolved to get up at 6, so I should be sleeping.
   However, I *just* got my programme to work, and then my tests broke, but I need to find a way
   to sleep, so I'm somewhere in between all of this, mentally.
+- I got lost in reading about type punning, because I managed to create one in GHC.
 - My head is drifting; I figured out this week that this year alone, I would have moved about 9 times;
   my head is mentally here but everywhere all at the same time (a paradox).
 - People keep asking me where they should mail things, and I hear myself sometimes say "I honestly don't know".
