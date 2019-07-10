@@ -7,6 +7,8 @@
   to sleep, so I'm somewhere in between all of this, mentally.
 - My head is drifting; I figured out this week that this year alone, I would have moved about 9 times;
   my head is mentally here but everywhere all at the same time (a paradox).
+- People keep asking me where they should mail things, and I hear myself sometimes say "I honestly don't know".
+  I'm at one place, but I'm really not, but my real place is not current; I am a nomad.
 - It's been a whirlwind. I got to Utah on Sunday, am leaving today (Wednesday) in the evening,
   then heading to Berkeley and then on Friday evening, heading to London.
   
@@ -20,7 +22,8 @@
   
 ## I'm excited to see my brother
 - I haven't seen him since 2017; the packages I've sent him have seen him before I have :D
-  He is taking me to a restaurant with food from my country, and I'm excited about that. 
+  He is taking me to a restaurant with food from my country, and I'm excited about that.
+  It's a bit of stability in the midst of everything, and something familiar. 
   I'm excited to see someone from my family. It has also sort of motivated my parents to deal
   with their visas so they can come to visit me, too.
   
@@ -39,7 +42,14 @@
 ## Today I struggled
 - Every year during Racket school, I struggle, but I notice that when I write code in the evening (for both
   years it has been Haskell), my debugging skills got better, and so did my ability to reason about code.
-  That is part of why I have been back, along with interesting ideas in general that Racket has about abstraction.
+  That is part of why I have been back, along with interesting ideas in general that Racket has about abstraction.'
+- To me, Racket is about pushing around blogs of code and sometimes bending your mind about how you think about things.
+  Haskell also bends your mind, but with structure; I can see the exoskeleton of a programme in Haskell, and I can grasp
+  whisps of rationality (or pretend to).
+- This year, when we introduced ourselves, I stood up and said "I am a fraud. I am not here for Racket, because I love
+  Haskell, but I am here for the ideas and abstractions within Racket, which I find fascinating". Strangely, quite a few
+  people followed with the thought of being frauds, and others also identified themselves as frauds, including a professor,
+  who admitted that he was spending most of his current time writing Haskell, even though he would be teaching us Racket.
 - This year, I pair-programmed with someone who, at the end, told me that I should be more assertive when I pair-programme.
   I hadn't thought about that before, but my self-confidence just isn't there yet. There are many things that
   aren't there yet. But I will fill in the gaps in years to come.
