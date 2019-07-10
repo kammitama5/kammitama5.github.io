@@ -5,6 +5,8 @@
 - I resolved to get up at 6, so I should be sleeping.
   However, I *just* got my programme to work, and then my tests broke, but I need to find a way
   to sleep, so I'm somewhere in between all of this, mentally.
+- My head is drifting; I figured out this week that this year alone, I would have moved about 9 times;
+  my head is mentally here but everywhere all at the same time (a paradox).
 - It's been a whirlwind. I got to Utah on Sunday, am leaving today (Wednesday) in the evening,
   then heading to Berkeley and then on Friday evening, heading to London.
   
