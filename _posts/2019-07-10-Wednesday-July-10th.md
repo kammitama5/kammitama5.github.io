@@ -33,7 +33,7 @@
   back a bunch of literature, which I devoured as a teenager. He had books from the great philosophers,
   even though his primary interest was in Economics and Statistics (and indeed, he was the first one 
   to introduce me to R, my first programming language). 
-- He mentioned in a recent one that he had never heard me complain about snow in Undergrad. Now that I think
+- He mentioned in a recent email that he had never heard me complain about snow in Undergrad. Now that I think
   about it, I think that after I got over the novelty of snow, my mind was just on other things. This place
   I will be moving to is more North than Undergrad, but it very much reminds me of Undergrad when I was in
   Upstate New York. I've visited Upstate NY since, and it's very gentrified and has changed a lot. I really
