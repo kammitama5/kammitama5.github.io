@@ -30,7 +30,9 @@
   
 ## My dad made a comment
 - My dad writes very thoughtful, profound emails. He studied in the UK for his Master's, and brought
-  back a bunch of literature, which I devoured as a teenager. He had books from the great philosophers,
+  back a bunch of literature, which I devoured as a teenager. He had books from the great philosophers
+  , as well as banned books, (and I spent a good chunk of my teenage years thinking about being, identity, purpose and the    invention
+  and worth of money)
   even though his primary interest was in Economics and Statistics (and indeed, he was the first one 
   to introduce me to R, my first programming language). 
 - He mentioned in a recent email that he had never heard me complain about snow in Undergrad. Now that I think
