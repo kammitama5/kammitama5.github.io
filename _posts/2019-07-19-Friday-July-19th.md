@@ -20,16 +20,16 @@
 ## I got to visit my brother!
 - Well, rather, he visited me!
 
-<img src="/images/tweeps_/brudda.png" width="500">
+<img src="/images/tweeps_/brudda.png" width="300">
 
 - We had doubles, sushi (he just got back from a trip to Tokyo), among other things!
 
 
-<img src="/images/tweeps_/doubles.png" width="500">
+<img src="/images/tweeps_/doubles.png" width="300">
 
 ## Incredible time in London!
 
-<img src="/images/tweeps_/eye.png" width="500">
+<img src="/images/tweeps_/eye.png" width="300">
 
 - Being in London was the first time in a while I felt like I could really *be me* because there are 
 SO MANY CARIBBEAN PEOPLE THERE!!! I squealed in delight when I landed and saw the photos of Carnival,
@@ -56,7 +56,7 @@ man asked me how the doubles was, and it was obvious that I was enjoying it beca
   went back to school and was finishing up a CS degree! Everyone that was selected seemed to really have a bright future;
   I was honoured to be there and to meet so many nice, encouraging people!
   
-<img src="/images/tweeps_/tweeps.png" width="500">
+<img src="/images/tweeps_/tweeps.png" width="300">
 
 ## I ran to a dinner
 - Right after that, I headed to a company dinner. I was asked to toast about something, so I said "Haskell?" and so,
