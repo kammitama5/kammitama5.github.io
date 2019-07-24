@@ -18,7 +18,7 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisors are Dr. Joseph P. Near and Dr. [David Darais](http://david.darais.com/)). My focus will be on Compilers and Data Privacy, with a smidgen of Neural Networks. I will also be a TA for Compilers (Haskell) and Data Privacy coursework.
+- In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisors are Dr. Joseph P. Near and [Dr. David Darais](http://david.darais.com/)). My focus will be on Compilers and Data Privacy, with a smidgen of Neural Networks. I will also be a TA for Compilers (Haskell) and Data Privacy coursework.
 - I'm open to Summer and Winter Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
 
