@@ -38,6 +38,8 @@
   
 <img src="/images/haskell_talk/gnometalk.png" width="300">
 
+- (photo courtesy Liz Krane aka learningnerd via Sentry.io's Community Show and Tell Meetup)
+
 ## People seemed to enjoy the talk
 - I met a GHC contributor, advertised for my internship company, met some people who really enjoyed the talk and 
   great people in general at the Meetup. One lady asked me if I was an alien from space when I told her I was giving
