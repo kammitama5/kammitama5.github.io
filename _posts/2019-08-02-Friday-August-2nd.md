@@ -49,7 +49,7 @@
 - I'm not going to lie; I've heard their interviews are challenging, but from the people I met, I was really impressed
   to find out more. 
   
-<img src="/images/haskell_talk/quorathing.png" width="300">
+<img src="/images/haskell_talk/quorathing.png" width="500">
 
 ## And that's it
  
