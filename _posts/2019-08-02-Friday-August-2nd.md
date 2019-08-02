@@ -36,7 +36,7 @@
   was really interesting.
   
 ## Adam spoke
-- I was impressed that he came by, and that by hearing him speak, he also struck me as having a very analytical
+- I was impressed that he came by, and that by hearing him speak (he's one of the founders, btw), he also struck me as having a very analytical
   mind, which was super appealing to me. He also mentioned research and academic papers, which is super impressive
   for someone running a company to me, as well as the shift from Desktop to Mobile (which I had a question about
   in my mind before he mentioned it). He also took Q and A from the audience of prospectives. Everyone was really
