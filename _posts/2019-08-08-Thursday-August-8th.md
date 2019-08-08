@@ -14,7 +14,7 @@
 
 - there were a plethora of cupcakes, which did not help my resolve to not eat as much sweet stuff :)
   The Bay area tech companies are not great for keeping a diet :)
-- M. Glauser gave an amazing talk on the leaky pipeline, and on her organization, Techtonica, which seems
+- M. Glauser gave an amazing talk on the leaky pipeline, and on her organization, [Techtonica](https://techtonica.org), which seems
   to be really an awesome organization to helping underrepresented persons get into tech. It doesn't take a
   percentage of your salary, and it also trains companies on how to keep underrepresentations in tech.
   She spoke about class straddlers, as she saw herself as one; someone who didn't necessarily grow up with 
