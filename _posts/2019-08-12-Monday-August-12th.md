@@ -60,7 +60,7 @@
 <img src="/images/signalgh/sfview.png" width="300">
 
 
-<img src="/images/signalgh/sfview_.png" width="300">
+<img src="/images/signalgh/sfview_.png" width="500">
 
 ## So why are you writing this?
 
