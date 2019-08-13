@@ -20,6 +20,9 @@
   the US can really be a place of dreams and opportunities because while I was on a visa, I felt like a slave.
   I was forfeiting the potential everyone in college saw in me to get a card that was not guaranteed, through a broken
   process. 
+  
+- At one point, everyone I knew who had ever gotten it had done it through marriage to an American citizen. My prospects
+  felt dim.
   Near the end, I grew resentful of that promise, and began to think that it might be a lie, but I pushed through
   and at my wit's end, got that magical card that promised me the freedom to do whatever I wanted with my time
   in the United States. I promised that I would choose employers, too; they wouldn't just choose me.
