@@ -58,3 +58,18 @@
 
 
 <img src="/images/signalgh/sfview_.png" width="300">
+
+## So why are you writing this?
+
+- I've seen many people struggle to get their first "in" in the tech industry. I'm not by any means anyone of note,
+  but one of the things I can relate to is having resilience to stick something out and find a way no matter what. 
+  I can relate to that, and one of my side projects is encouraging and supporting (even if it's an email every once
+  in a while) those who are trying to get their foot in the door. It matters a lot, even though many who are in the industry
+  can often forget. I think it's an important part of engineering culture to help others up, in the same way someone
+  probably helped you up when you were getting started. Sometimes it takes someone else a bit more energy, their path
+  was a little bit harder than yours, and they're near broken by the process. It doesn't mean they're stupid, or that they're not cut out for this, but that maybe they just need a hand up, and some encouragement. Maybe you're the one to do that for them. I think that being kind, supportive and encouraging them
+  is the least we can do in this industry to help up and coming engineers, in the same way someone was kind to us all starting out. Help *them* in the next part of their life. Many times, it's not *just* about learning a framework, or a language. It's so much more than that, in the same way my journey to here has encompassed so much more than just graduating school and getting into grad school. So if you can (and want to), email someone, ask them how their day is going, if they would like to be taken
+  out for a coffee or tea, and be a mentor if you'd like. It really makes a difference. Real engineering culture is kind,
+  and pays it forward, because it's collaborative. 
+  
+## But that's all I have to say on that..so I guess that that's it
