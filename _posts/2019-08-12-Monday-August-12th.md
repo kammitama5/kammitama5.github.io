@@ -18,7 +18,7 @@
   PhD study for most people; a total of around 9 years. Once I got it, I promised myself that I would always
   take chances, because this was not something afforded to me while I was on a visa. I used to think about whether
   the US can really be a place of dreams and opportunities because while I was on a visa, I felt like a slave.
-  I was forfeiting the potential everyone in college saw in me to get a card that was guaranteed, through a broken
+  I was forfeiting the potential everyone in college saw in me to get a card that was not guaranteed, through a broken
   process. 
   Near the end, I grew resentful of that promise, and began to think that it might be a lie, but I pushed through
   and at my wit's end, got that magical card that promised me the freedom to do whatever I wanted with my time
