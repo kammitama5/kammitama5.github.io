@@ -32,7 +32,7 @@
   
 <img src="/images/GSoc_/robots.png" width="300">
 
-<img src="/images/GSoc_/imagineer.png" width="300">
+<img src="/images/GSoc_/imagineer.png" width="500">
 
 ## And then I wondered
 - It popped into my mind "why did I ever feel like I didn't belong in tech? Why was that ever a thought?" Here, in my room,
@@ -48,6 +48,10 @@
   at least mentally, to begin a new chapter of my life.
   
 ## Dare Mighty Things
+- this is an excerpt from "Dare Mighty Things", by Teddy Roosevelt. 
+  I first heard about this from a workshop at JPL I participated in many years ago.
+  It stuck with me; that we should go out and try things, and go with courage. 
+  
 ```
 - "It is not the critic who counts; 
   not the man who points out how the strong man stumbles, 
@@ -59,3 +63,5 @@
   who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement,
   and who at the worst, if he fails, at least fails while daring greatly"
 ```
+
+## And that's it
