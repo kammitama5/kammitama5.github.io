@@ -32,7 +32,7 @@
   
 <img src="/images/GSoc_/robots.png" width="300">
 
-<img src="/images/GSoc_/robots.png" width="300">
+<img src="/images/GSoc_/imagineer.png" width="300">
 
 ## And then I wondered
 - It popped into my mind "why did I ever feel like I didn't belong in tech? Why was that ever a thought?" Here, in my room,
