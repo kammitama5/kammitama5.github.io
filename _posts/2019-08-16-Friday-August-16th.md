@@ -22,7 +22,7 @@
   and mentorship and learning. It was just really great. He's such a great mentor; he's the ideal person to mentor 
   young and upcoming engineers/scientists/mathematicians/physicists. 
 - I came home and started packing again. I wanted to have all my books packed because my neighbour promised he'd help
-  me take the books to a bookstore if they were packed; we could run them over to a bookstore his car. With one glass of wine in me,
+  me take the books to a bookstore if they were packed; we could run them over to a bookstore in his car. With one glass of wine in me,
   I resolved to pack all my books until the wee hours of the morning.
   
 ## Then I came across items from my past
