@@ -47,11 +47,17 @@
   but everything else is gone. I'm taking two suitcases with me and my place in Burlington is ready, and I'm ready,
   at least mentally, to begin a new chapter of my life.
   
-## Dare Mighty Things
-- this is an excerpt from "Dare Mighty Things", by Teddy Roosevelt. 
-  I first heard about this from a workshop at JPL I participated in many years ago.
+## Do Brave Things
+- this (below after photo) is an excerpt from "Dare Mighty Things", by Teddy Roosevelt. 
+  I first heard about this from a workshop at JPL I participated in many years ago (see photo).
   It stuck with me; that we should go out and try things, and go with courage. 
-  
+
+<img src="/images/GSoc_/dare.png" width="500">
+
+- (yes, I have an afro)
+
+## Dare Mighty Things
+
 ```
 - "It is not the critic who counts; 
   not the man who points out how the strong man stumbles, 
