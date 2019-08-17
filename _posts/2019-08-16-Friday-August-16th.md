@@ -27,7 +27,7 @@
   
 ## Then I came across items from my past
 - I found robots I had made, woodworking stuff, welded stuff, craftshanks, four-bar linkages and sketchbooks, 3D printed    objects, as well as 
-  hand draftings I had made. There were books on joinery and electronics and an entire stack of PCBs. I was overjoyed when
+  hand draftings I had made. There were books on joinery and electronics and an entire stack of PCBs. I was overjoyed at 3am when
   I discovered that my robot still worked. 
   
 ## A robot made out acrylic, a four-bar linkage system and a crankshaft system using gears and bearings  
