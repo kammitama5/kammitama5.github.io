@@ -51,7 +51,7 @@
   
 ## Do Brave Things
 - this (below after photo) is an excerpt from "Dare Mighty Things", by Teddy Roosevelt. 
-  I first heard about this from a workshop at JPL I participated in many years ago (see photo).
+  I first heard about this from a robotics workshop at JPL I participated in many years ago (see photo).
   It stuck with me; that we should go out and try things, and go with courage. 
 
 <img src="/images/GSoc_/dare.png" width="500">
