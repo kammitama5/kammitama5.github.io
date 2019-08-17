@@ -26,7 +26,7 @@
   I resolved to pack all my books until the wee hours of the morning.
   
 ## Then I came across items from my past
-- I found robots I had made, woodworking stuff, welded stuff, craftshanks, four-bar linkages and sketchbooks, as well as 
+- I found robots I had made, woodworking stuff, welded stuff, craftshanks, four-bar linkages and sketchbooks, 3D printed    objects, as well as 
   hand draftings I had made. There were books on joinery and electronics and an entire stack of PCBs. I was overjoyed when
   I discovered that my robot still worked. 
   
