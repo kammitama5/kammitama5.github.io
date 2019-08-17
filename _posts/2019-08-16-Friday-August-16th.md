@@ -2,7 +2,7 @@
 
 ## I received a really nice email this afternoon, around 1pm
 - It said (and I paraphrase) that I was chosen as a Google Developer Student Club Lead 
-  because I was a leader who believes that technology can do extraordinary things for the world,
+  because I was a leader who believes "...that technology can do extraordinary things for the world,
   and can be a great mentor to others and have an impact". 
 - I was psyched, because it was important for me in my first year (particularly as I am TA-ing), to do
   something that can positively have an impact to the students on campus. I know that my school may not 
