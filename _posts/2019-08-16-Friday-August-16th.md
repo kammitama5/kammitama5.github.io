@@ -30,6 +30,8 @@
   hand draftings I had made. There were books on joinery and electronics and an entire stack of PCBs. I was overjoyed when
   I discovered that my robot still worked. 
   
+## A robot made out acrylic, a four-bar linkage system and a crankshaft system using gears and bearings  
+
 <img src="/images/GSoc_/robots.png" width="300">
 
 <img src="/images/GSoc_/imagineer.png" width="500">
