@@ -18,8 +18,8 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisors are Dr. Joseph P. Near and [Dr. David Darais](http://david.darais.com/)). My focus will be on Compilers and Data Privacy, with a smidgen of Neural Networks. I will also be a TA for Compilers (Haskell) and Data Privacy coursework, as well as a Programming for Engineers Matlab course.
-- I'm open to Summer and Winter Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
+- In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisors are Dr. Joseph P. Near and [Dr. David Darais](http://david.darais.com/)). My focus will be on Compilers and Data Privacy, with a smidgen of Neural Networks. I will also be a TA for Compilers (Haskell) and Data Privacy coursework (Python), as well as a Programming for Engineers Matlab course (Matlab).
+- I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
 
 ### More Information
@@ -31,7 +31,7 @@ permalink: /about/
 
 ### Other 
 
-- [Gist of Things (Resume)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_8_25_19.pdf)
+- [Gist of Things (Resume)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_8_28_19.pdf)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 
 ### Contact me
