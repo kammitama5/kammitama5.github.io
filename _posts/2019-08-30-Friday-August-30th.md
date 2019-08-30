@@ -10,7 +10,7 @@
 - I'm presenting on an idea I had during a Summer workshop through NASA. My advisors have been super supportive
   in giving me feedback and I thought it might have been silly to present at first, because I haven't explored
   the idea extensively, but they thought it would be great, and instead of a 10 minute slot, now I have a 15 minute
-  slot in a schedule of full-day of some amazing talks!
+  slot in a schedule of a full-day of some amazing talks!
 
 ## I'm TA-ing 
 - I am on the books for two classes, specifically one that is Matlab, and another which is for Data Privacy.
