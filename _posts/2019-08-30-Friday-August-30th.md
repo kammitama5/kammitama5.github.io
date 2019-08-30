@@ -59,7 +59,8 @@
 ## There is so much I can say
 - But I regret nothing about all of this; it's been just a blast and if anything, I have to remind myself 
   to take a break when I schedule it, and find a quiet space. 
-- Grad school may be intense, but it's *amazing*. I feel like all these doors of opportunity opened because 
+- Grad school may be intense, but it's *amazing*. I feel supported, and I feel like I *matter*.
+I feel like all these doors of opportunity opened because 
   of my decision to attend, and I regret nothing. 
   
 ## And that's it
