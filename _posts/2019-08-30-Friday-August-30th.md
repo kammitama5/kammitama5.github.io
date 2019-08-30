@@ -29,8 +29,9 @@
 - A really awesome example today is that my professor mentioned that if he were to automate role-taking/attendance for our class,
   he would factor in (eg machine learning) the fact that we generally sit in more or less the same spot, to evaluate
   whether someone was actually in class or not (ie to catch fake attendance check-ins). 
-  That was so mind-blowing for me to think about; we as humans have habits of repition that we often take for granted,
+  That was so mind-blowing for me to think about; we as humans have habits of repetition that we often take for granted,
   but which persons can use to give other humans a better experience in designing software and software-dependent products.
+  And usually, unless I make a conscious decision, I *do* sit in more or less the same spot.
   So things like spatial awareness and patterns and how humans behave *matter*.
   I think they do. After all, we're building things for people..in the world. 
   
