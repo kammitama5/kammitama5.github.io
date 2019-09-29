@@ -16,6 +16,13 @@
   one of them might find motivation in contributing to a project. I'm thinking that at some point, I'd like to organize
   a thing whereby we can all commit to open source of some sort, so that it's something the students have experience
   doing, or can at least say they did. 
+
+- I also attended SCRAPS, which is a Complex Systems pizza meetup during lunch time, where people talk about research
+  they're working on or did. The guest was a guy named Ben, who just completed his Master's and is starting a job at
+  SANDIA labs next week in New Mexico. I enjoyed his presentation *a lot*, because it was a great example of showing
+  what the technical interview is like for a research position (in his case, he'll be continuing on as a research
+  statistician). I've really found myself gravitating towards the Complex Systems group and I enjoy learning about 
+  their data driven experiments a lot. It's really cool here, and the students are smart, interesting, and very creative.
   
 ## It takes a while for me to realize where I am
 - I did a bit of hiking yesterday with a group, and found myself chatting with two really nice graduate students;
@@ -48,6 +55,12 @@
   by doing this, because I could have an easier PhD life. But it's difficult for me, knowing all the things I've been through
   to get here. I want to make the most of my time here. My advisors have reassured me that what I am doing *is* the right thing,
   but I am too immature mentally to really *understand* if it is. I guess only time will tell. 
+- Most of my trepidation comes with the realization that this is one of the few places (barring losing my funding) that I have
+  the freedom *to fail*. It's really an amazing experience where you are not only given top-notch guidance, but also 
+  this space where you can pick and choose *ideas* you are interested in. I legitimately am looking forward to picking
+  classes for next semester, not based on their difficulty, but by how interesting they are and how much I think I could
+  benefit from learning the tools they promise to provide, and the ideas they introduce.
+- Grad school; there's really nothing like it. It's amazing.
   
 ## Here are photos from our Hike
 
