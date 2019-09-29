@@ -7,7 +7,9 @@
   
 - I've joined a Slack outside of school that is functional-programming based (my friend at my Spring internship introduced
   me to the space) and it's a great group of people. Every week, a bot reminds us "what did you learn/ build this week?".
-  It has really been a great activity for me to post there once a week what I've accomplished. My school also has a weekly
+  It has really been a great activity for me to post there once a week what I've accomplished. 
+  Someone on the Slack joked that I was "making them all look bad" by the sheer number of tasks
+  I had accomplished, but I'm also in grad school, so I just laughed about it. My school also has a weekly
   Wednesday scrum, but that is usually more a research-driven scrum than one for general accomplishments.
   
 - I gave a talk this week on open source and my (very limited) experience, for students at my school, in the hope that
