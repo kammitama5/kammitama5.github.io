@@ -3,7 +3,13 @@
 ## I'm at my school's library
 - I'm taking a mini-break while working on an assignment that is a mix of 3D motion detection and neural networks. 
   It's generally the assignment that takes up my Sunday and Monday; the rest of the week is taken up with classes,
-  my other assignments and TA-ing.
+  my other assignments for my two classes, and TA-ing.
+  
+- I've joined a Slack outside of school that is functional-programming based (my friend at my Spring internship introduced
+  me to the space) and it's a great group of people. Every week, a bot reminds us "what did you learn/ build this week?".
+  It has really been a great activity for me to post there once a week what I've accomplished. My school also has a weekly
+  Wednesday scrum, but that is usually more a research-driven scrum than one for general accomplishments.
+  
 - I gave a talk this week on open source and my (very limited) experience, for students at my school, in the hope that
   one of them might find motivation in contributing to a project. I'm thinking that at some point, I'd like to organize
   a thing whereby we can all commit to open source of some sort, so that it's something the students have experience
