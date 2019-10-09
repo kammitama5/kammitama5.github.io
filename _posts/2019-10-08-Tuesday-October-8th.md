@@ -11,7 +11,7 @@
 
 - I wrapped up / completed a local internship in El Segundo [ Jan ]
 - I attended a workshop at MSRI on Derived Algebraic Geometry [ Feb ]
-- I participated in NASA's L'Space Level One [ Jan ]
+- I participated in NASA's L'Space Level One Proposal/ Grant writing workshop [ Jan ]
 - I interned at Apple, which ended May 31st [ Feb to May ]
 - I attended a Number Theory Conference at Cornell [ April ]
 - I participated in NASA's L'Space Concept Proposal Academy [ April ]
