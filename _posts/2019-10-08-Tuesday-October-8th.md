@@ -11,16 +11,16 @@
 
 - I wrapped up / completed a local internship in El Segundo [ Jan ]
 - I attended a workshop at MSRI on Derived Algebraic Geometry [ Feb ]
-- I participated in L'Space Level One [ Jan ]
+- I participated in NASA's L'Space Level One [ Jan ]
 - I interned at Apple, which ended May 31st [ Feb to May ]
 - I attended a Number Theory Conference at Cornell [ April ]
-- I participated in L'Space Concept Proposal Academy [ April ]
+- I participated in NASA's L'Space Concept Proposal Academy [ April ]
 - I interned at Mercury, starting on June 3rd, and ending August 9th [ June to Aug ]
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
 - I attended Curry On, a PL conference in London [ July ]
 - Flew back to LA and packed everything in a week, and started orientation/ school the following Monday [ Aug to Sept ]
-- I was accepted for a Research Proposal group through NASA that meets weekly. 
+- I was accepted for a Research Proposal group through NASA (called L'Space NPWEE) that meets weekly. 
   (That's been my Tuesday evenings, even though we are also on Whatsapp and communicate pretty
   frequently for scheduling meetings, etc) [ July to present ]
 - I started attending meetings on Wednesdays for my school's research project [ Sept to present ] 
