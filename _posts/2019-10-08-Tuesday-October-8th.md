@@ -19,8 +19,9 @@
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
 - I attended Curry On, a PL conference in London [ July ]
-- I obtained a Twilio Signal Conference Scholarship and attended Signal [ Aug ]
 - I was accepted as a Code2040 Finalist [ July ]
+- I obtained a Twilio Signal Conference Scholarship and attended Signal [ Aug ]
+- I gave a talk on My First Panic, at Github's SF office, through Sentry's Community Show and Tell night [ Aug ]
 - Flew back to LA and packed everything in a week, and started orientation/ school the following Monday [ Aug to Sept ]
 - I was accepted for a Research Proposal group through NASA (called L'Space NPWEE) that meets weekly. 
   (That's been my Tuesday evenings, even though we are also on Whatsapp and communicate pretty
