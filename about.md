@@ -21,6 +21,10 @@ permalink: /about/
 - In Fall 19, I'll be starting as a PhD candidate in Programming Languages Research at the University of Vermont (my advisors are Dr. Joseph P. Near and [Dr. David Darais](http://david.darais.com/)). My focus will be on Data Privacy (specifically Differential Privacy) and Machine Learning. I will also be a TA for Data Privacy coursework (Python), as well as a Programming for Engineers Matlab course (Matlab).
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
+## More Updates...
+- You can see a bit of my so far (quite busy) life in a blog post [here](https://kammitama5.github.io/Tuesday-October-8th/).
+  There is still much time in the year to go! I love working hard and pushing myself, while helping others to reach their fullest potential!
+
 
 ### More Information
 
