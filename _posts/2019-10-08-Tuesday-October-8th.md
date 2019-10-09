@@ -40,4 +40,7 @@
   next year, but I've been applying and interviewing, so we'll see how it all turns out. Either way, I can just stay over
   the summer and do research, too, so it depends. 
   
+- There are many; so many more things in the works right now, but I should get to sleep. But I feel a bit better; it's been
+  a wild ride!
+  
 ## And that's about it
