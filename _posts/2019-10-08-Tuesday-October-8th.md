@@ -9,22 +9,24 @@
   
 ## Lately
 
-- Basically started by wrapping up last year by finishing up a local internship in El Segundo [ Jan ]
+- I wrapped up / completed a local internship in El Segundo [ Jan ]
 - I attended a workshop at MSRI on Derived Algebraic Geometry [ Feb ]
-- Internship at Apple, which ended May 31st [ Feb to May ]
+- I participated in L'Space Level One [ Jan ]
+- I interned at Apple, which ended May 31st [ Feb to May ]
 - I attended a Number Theory Conference at Cornell [ April ]
-- Internship at another company (Mercury) on June 3rd, which ended August 9th [ June to Aug ]
+- I participated in L'Space Concept Proposal Academy [ April ]
+- I interned at Mercury, starting on June 3rd, and ending August 9th [ June to Aug ]
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
 - I attended Curry On, a PL conference in London [ July ]
 - Flew back to LA and packed everything in a week, and started orientation/ school the following Monday [ Aug to Sept ]
-- Somewhere in there, I was accepted for a Research Proposal group through NASA that meets weekly. 
-  That's been my Tuesday evenings, even though we are also on Whatsapp and communicate pretty
-  frequently for scheduling meetings, etc [ July to present ]
+- I was accepted for a Research Proposal group through NASA that meets weekly. 
+  (That's been my Tuesday evenings, even though we are also on Whatsapp and communicate pretty
+  frequently for scheduling meetings, etc) [ July to present ]
 - I started attending meetings on Wednesdays for my school's research project [ Sept to present ] 
 - I started TA-ing the Matlab class, with office hours and TA hours pretty much on Thursdays. It's been a mix
   of showing up to two classes back to back, holding 2 hours of office hours and grading assignments. [ Sept to present ]
-- I gave a talk in my first week of attending classes for our CS Research Day, which included the faculty from
+- I gave a presentation for my research project in my first week of attending classes for our CS Research Day, which included the faculty from
   our department and the Department Chair (how about that for your first week!) [ Sept ] 
 - I gave another talk a week and a half later to our local CS Club on Google Summer of Code and Internships [ Sept ]
 - I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct]
@@ -42,5 +44,6 @@
   
 - There are many; so many more things in the works right now, but I should get to sleep. But I feel a bit better; it's been
   a wild ride!
+- I tend to look ahead and think of all the things I *want* to accomplish, which can distract from the things I have accomplished. What a list!
   
 ## And that's about it
