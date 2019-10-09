@@ -5,6 +5,8 @@
   It occurred to me after a one and a half hour long weekend that I haven't taken the time to acknowledge 
   some of the stuff I've done this year.
   
+- PhDs do that, I guess, so maybe I should too?
+  
 ## Lately
 
 - Basically started by wrapping up last year by finishing up a local internship in El Segundo [Jan]
