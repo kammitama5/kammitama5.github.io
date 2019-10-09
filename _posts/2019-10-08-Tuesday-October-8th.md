@@ -15,6 +15,7 @@
 - I interned at Apple, which ended May 31st [ Feb to May ]
 - I attended a Number Theory Conference at Cornell [ April ]
 - I participated in NASA's L'Space Concept Proposal Academy [ April ]
+- I attended Google I/O after receiving a subsidized ticket courtesy of Women Techmakers [ May ]
 - I interned at Mercury, starting on June 3rd, and ending August 9th [ June to Aug ]
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
