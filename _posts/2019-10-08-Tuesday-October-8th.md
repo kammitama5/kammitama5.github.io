@@ -26,7 +26,7 @@
 - I started attending meetings on Wednesdays for my school's research project [ Sept to present ] 
 - I started TA-ing the Matlab class, with office hours and TA hours pretty much on Thursdays. It's been a mix
   of showing up to two classes back to back, holding 2 hours of office hours and grading assignments. [ Sept to present ]
-- I gave a presentation for my research project in my first week of attending classes for our CS Research Day, which included the faculty from
+- I gave a presentation for my summer group's research project in my first week of attending classes for our CS Research Day. The audience included faculty from
   our department and the Department Chair (how about that for your first week!) [ Sept ] 
 - I gave another talk a week and a half later to our local CS Club on Google Summer of Code and Internships [ Sept ]
 - I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct]
