@@ -38,6 +38,7 @@
 - I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
+- I received complimentary registration and a travel grant to attend Neurips! [ Dec ]
   
 ## I think this means I'm not doing *too* badly in my first semester
 
