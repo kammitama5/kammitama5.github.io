@@ -11,14 +11,28 @@
   on my campus, and as someone who didn't study CS originally, I thought I'd be empathetic to their intent
   of making the Club not just for CS majors. The intent is to empower your local community to solve problems
   using Google technologies, which I think is a pretty great approach. I love people from different backgrounds!
-  I also had done Cloud on Board certifications, had given talks
+  At the moment, I am TA-ing a class for engineers who are learning coding, and I'm enjoying it a lot. 
+  In terms of training, I also had done Cloud on Board certifications, had given talks
   at my local GDG chapter (LA), had attended a GDG chapter in San Francisco, taken part and volunteered in
   Dev Fests for three years, and had already taken the Cloud Coursera course...randomly?
+  The technology was interesting to me, and I had taken the time to learn about how it worked. I'm by
+  no means an expert, but I understand a bit of it from two-day training in LA (twice) at Google LA,
+  and one day of training in SF for their Cloud on Board event.
 - As it turns out, I was selected as my School's Student lead, so I've been organizing a time and place for 
   a Cloud Jam in the future, and other data-related events. Our school is data-focused, so I have a good idea
   of the sort of projects people at my school would like. However, as they stressed, take the time to pick
   a core team. I'm working on that at the moment, because my intent is that I can pass this opportunity to
   someone else (preferably an undergrad) next year.
+  
+## GDG is different from DSC
+- Just to be clear; GDG was the group locally that was a mix of professional developers and students 
+  in different cities. In my case, I was a part of GDG. Even when I started hanging out more in FP meetups,
+  I couldn't let GDG go. It was very much a part of my tech-identity, just like hackerspaces are!
+  The DSC, on the other hand, is in North America for the first time, and its intent is to have such a club
+  on campuses in North America. To obtain a Student Lead position, we had to submit a video, apply and conduct
+  an interview with someone from Google. In return, we are promised support from Google in terms of training,
+  mentorship, etc. So we do the work locally in empowering our community, and they try to support us as best they can
+  with the things we need.
   
 ## Why mentorship is important
 - I got into GDG because Matt, from GDG LA sort of took me under his wing. I happened to attend a GDG group locally,
