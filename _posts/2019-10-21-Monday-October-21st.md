@@ -118,7 +118,7 @@
 ## It was sad leaving
 - I headed over to my hackerspace, and hung out with some of my friends there. 
   It was awesome and I love my hackerspace. People were working on crypto problems,
-  one guy was soldering a musical instrumental via a PCB board, among other things. 
+  one guy was soldering a musical instrument via a PCB board, among other things. 
   We sat around drinking boba and chatting.
   
 ## Finally, I had to head to the airport
@@ -148,7 +148,8 @@
 - I left motivated, and grateful for everything. It was a fun weekend!
   I'll miss all the other leads; they are all special people who are great leaders, with
   such a bright future. It was inspiring to be around everyone, and it felt very much like
-  a family. I'm really thankful for the opportunity!
+  a family. I'm really thankful for the opportunity! Now off to start a club on campus 
+  that can inspire students the way GDG inspired me when I was in LA!
   
 <img src="/images/dsc_small/gdgall.png" width="500">
 
