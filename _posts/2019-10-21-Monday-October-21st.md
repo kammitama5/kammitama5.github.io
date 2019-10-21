@@ -150,7 +150,7 @@
 
 ## I woke up to a beautiful view
 - but the view was uh..fog. This fog meant that we had to make a stop in Plattsburgh, refuel, and wait
-  for the fog to get better. So that meant that I missed my class for the day, and arrived in town two
+  for the fog to subside. So that meant that I missed my class for the day, and arrived in town two
   hours later than I intended, but it worked out just fine.
   
 <img src="/images/dsc_small/dsc_020.png" width="500">
@@ -172,6 +172,6 @@
   a family. I'm really thankful for the opportunity! Now off to start a club on campus 
   that can inspire students the way GDG inspired me when I was in LA!
   
-<img src="/images/dsc_small/gdgall.png" width="500">
+<img src="/images/dsc_small/gdgall.png" width="700">
 
 ## And that's it!
