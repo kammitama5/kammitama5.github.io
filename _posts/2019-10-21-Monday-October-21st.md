@@ -27,7 +27,7 @@
   asked me if I'd like to help with Dev Fest, and I ended up helping with registrations, setting up chairs, packing
   swag bags and giving out tshirts to attendees. Later on, I even ended up giving a few talks at my local GDG chapter.
   Looking back, I still don't know quite how that all happened. I'm super thankful for Matt and all the opportunities he 
-  gave to me when I was trying to figure things out, because it ultimately led to my becoming a GDG lead for my local
+  gave to me when I was trying to figure things out, because it ultimately led to my becoming a Developer Student Club lead for my local
   chapter here in Vermont.
   
 ## So they flew me out to Sunnyvale
