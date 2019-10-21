@@ -96,6 +96,11 @@
 
 ## Kyle Paul 
 <img src="/images/dsc_small/dsc_010.png" width="500">
+- He spoke about Firebase. A long time ago, I think I was making an NLP thing 
+  using Firebase and I broke my model. I might have it in a blog post somewhere.
+  It was super fun and I was able to follow along with his lab. I also got brownie points 
+  from him because he said I was the only person who knew "what every tech presentation needs".
+  I yelled out "cat photos?". 
 
 ## Obligatory Photo
 
@@ -116,6 +121,8 @@
 ## We had a Scavenger Hunt
 - We were split into teams and had a Scavenger hunt at Googleplex.
   It was super fun and I helped my team with two important clues.
+  One was in finding the X-Prize plane, and the other was a the Acrobat statue,
+  in honour of Adobe Acrobat, by building 45.
   We were in third place, but slipped to fourth (out of 10 teams).
   It was still super fun and we had a karaoke session at Building 45
   afterwards (the one with the glowing android eyes), among other
