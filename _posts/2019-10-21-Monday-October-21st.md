@@ -177,6 +177,6 @@
 ## Here is some swag they sent!
 - I will be sharing this with my peers at my school! :D
 
-<img src="/images/dsc_small/dsc_swag.png" width="500">
+<img src="/images/dsc_small/dsc_swag.png" width="400">
 
 ## And that's it!
