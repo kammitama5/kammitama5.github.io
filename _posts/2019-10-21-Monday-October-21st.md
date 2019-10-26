@@ -180,3 +180,5 @@
 <img src="/images/dsc_small/dsc_swag.png" width="400">
 
 ## And that's it!
+
+<img src="/images/dsc_small/0.jpeg" width="400">
