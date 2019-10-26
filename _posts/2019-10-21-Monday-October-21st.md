@@ -3,6 +3,7 @@
 ## First Developer Student Club Leads Summit (North America)
 
 <img src="/images/dsc_small/group.jpeg" width="500">
+- (group Root 81 aka 9 strikes a pose)
 
 - I attended the first Developer Student Club Leads Summit in North America
 - Google chose persons from various schools (around 100 of us) to be leads who start groups on our campus
