@@ -181,4 +181,4 @@
 
 ## And that's it!
 
-<img src="/images/dsc_small/0.jpeg" width="400">
+<img src="/images/dsc_small/0.jpeg" width="600">
