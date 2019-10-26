@@ -182,3 +182,4 @@
 ## And that's it!
 
 <img src="/images/dsc_small/0.jpeg" width="600">
+- (photo courtesy Google Developer Student Clubs)
