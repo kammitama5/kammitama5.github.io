@@ -29,7 +29,7 @@
   (That's been my Tuesday evenings, even though we are also on Whatsapp and communicate pretty
   frequently for scheduling meetings, etc. We also use Trello, etc) [ July to present ]
 - I started attending meetings on Wednesdays for my school's research project [ Sept to present ] 
-- I started TA-ing the Matlab class, with office hours and TA hours pretty much on Thursdays. It's been a mix
+- I started TA-ing a Matlab class, with office hours and TA hours pretty much on Thursdays. It's been a mix
   of showing up to two classes back to back, holding 2 hours of office hours and grading assignments. [ Sept to present ]
 - I gave a presentation for my summer group's research project in my first week of attending classes for our CS Research Day. The audience included faculty from
   our department and the Department Chair (how about that for your first week!) [ Sept ] 
