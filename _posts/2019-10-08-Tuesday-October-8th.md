@@ -37,6 +37,8 @@
 - I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct]
 - I am attending the Google Developer Student Lead Summit in Sunnyvale (all expenses paid by Google) [ Oct ]
 - I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
+- I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
+  I will be attending the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology.
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
 - I received complimentary registration and a travel grant to attend Neurips! [ Dec ]
