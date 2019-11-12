@@ -54,8 +54,9 @@
 - Human Computer Interaction (228) (FA19)
 
 ## Anticipated Classes
-- Evolutionary Robotics (SP20)
-- Machine Learning (SP20)
+- Evolutionary Robotics (TBD) (SP20)
+- Machine Learning (in Python) (SP20)
+- Compiler Construction (in Haskell) (SP20)
 
 ## I think this means I'm not doing *too* badly in my first semester
 
