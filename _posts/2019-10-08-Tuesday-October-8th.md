@@ -20,7 +20,7 @@
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
 - I attended Curry On, a PL conference in London [ July ]
-- I was accepted as a Code2040 Finalist [ July ]
+- I was accepted as a Code2040 Finalist and Fellow [ July ][ Nov ]
 - I obtained a Twilio Signal Conference Scholarship and attended Signal [ Aug ]
 - I gave a talk on My First Panic, at Github's SF office, through Sentry's Community Show and Tell night [ Aug ]
 - Flew back to LA and packed everything in a week, and started orientation/ school the following Monday [ Aug to Sept ]
@@ -39,6 +39,7 @@
 - I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
 - I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
   I will be attending the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology [ Nov ]
+- I am being interviewed for an organization called CareerGirls.org at MIT [ Nov ]
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
 - I received complimentary registration and a travel grant to attend Neurips! [ Dec ]
