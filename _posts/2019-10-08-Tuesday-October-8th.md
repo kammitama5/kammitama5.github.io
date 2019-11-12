@@ -20,7 +20,7 @@
 - I attended a conference at the Simons Institute in Berkeley on Error Correcting Codes and Encryption [ June ]
 - I attended Racket School, a PL workshop where we build a language from the ground up in a week [ July ]
 - I attended Curry On, a PL conference in London [ July ]
-- I was accepted as a Code2040 Finalist and Fellow [ July ][ Nov ]
+- I was accepted as a Code2040 Finalist (1 of 292) and Fellow (1 of 80) [ July ][ Nov ]
 - I obtained a Twilio Signal Conference Scholarship and attended Signal [ Aug ]
 - I gave a talk on My First Panic, at Github's SF office, through Sentry's Community Show and Tell night [ Aug ]
 - Flew back to LA and packed everything in a week, and started orientation/ school the following Monday [ Aug to Sept ]
@@ -34,7 +34,7 @@
 - I gave a presentation for my summer group's research project in my first week of attending classes for our CS Research Day. The audience included faculty from
   our department and the Department Chair (how about that for your first week!) [ Sept ] 
 - I gave another talk a week and a half later to our local CS Club on Google Summer of Code and Internships [ Sept ]
-- I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct]
+- I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct ]
 - I am attending the Google Developer Student Lead Summit in Sunnyvale (all expenses paid by Google) [ Oct ]
 - I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
 - I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
