@@ -39,6 +39,7 @@
 - I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
 - I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
   I will be attending the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology [ Nov ]
+- I accepted an internship via Code2040 to work at Autodesk's Pier 9. I'm super excited. There are robots and there is data there, and my team is amazing! [ Nov ] 
 - I am being interviewed for an organization called Career Girls at MIT [ Nov ]
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
