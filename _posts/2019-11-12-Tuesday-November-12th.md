@@ -17,6 +17,7 @@
 ## It felt just about right
 - The size was great for the event, because you felt like you really had a chance to speak with the people in ML at this event.
   It was definitely pretty flattering because of how much access we received. I would definitely attend another similar event!
+  The teams were diverse enough, also, that you could see how you might fit in one team versus another. Really well thought out.
   
 ## Here are some photos from the event
 
