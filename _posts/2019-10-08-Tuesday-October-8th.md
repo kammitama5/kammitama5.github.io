@@ -34,11 +34,12 @@
 - I gave a presentation for my summer group's research project in my first week of attending classes for our CS Research Day. The audience included faculty from
   our department and the Department Chair (how about that for your first week!) [ Sept ] 
 - I gave another talk a week and a half later to our local CS Club on Google Summer of Code and Internships [ Sept ]
-- I am giving another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct ]
-- I am attending the Google Developer Student Lead Summit in Sunnyvale (all expenses paid by Google) [ Oct ]
-- I am giving another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
+- I gave another (shorter) talk this Wednesday for our CS Club on Open Source projects involving Mathematics [ Oct ]
+- I attended the Google Developer Student Lead Summit in Sunnyvale (all expenses paid by Google) [ Oct ]
+- I gave another talk to a senior class on Interviewing, Job-hunting, Finances (basically life advice) [ Oct ] 
+- I received a Udacity Technology Scholarship powered by Bertelsmann. Will probably do this over the winter break [ Nov ]
 - I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
-  I will be attending the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology [ Nov ]
+  I attended the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology [ Nov ]
 - I accepted an internship via Code2040 to work at Autodesk's Pier 9 for Summer 2020. I'm super excited. There are robots and there is data there, and my team is amazing! [ Nov ] 
 - I am being interviewed for an organization called Career Girls at MIT [ Nov ]
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
