@@ -44,6 +44,7 @@
 - I am being interviewed for an organization called Career Girls at MIT [ Nov ]
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
+- I received a WiCyS Scholarship! [ Nov ]
 - I received complimentary registration and a travel grant to attend Neurips! I currently have tickets also for the Black in AI workshops, as well as the WiML workshops [ Dec ]
   
   
