@@ -64,9 +64,7 @@
 ## I think this means I'm not doing *too* badly in my first semester
 
 - I keep pushing myself, though. It's been fun. I've really been enjoying research, my classes, and being a PhD student.
-  I can't imagine really doing anything else right now. I haven't decided quite yet if I am going to do a summer internship
-  next year, but I've been applying and interviewing, so we'll see how it all turns out. Either way, I can just stay over
-  the summer and do research, too, so it depends. 
+  I can't imagine really doing anything else right now. 
   
 - There are many; so many more things in the works right now, but I should get to sleep. But I feel a bit better; it's been
   a wild ride!
