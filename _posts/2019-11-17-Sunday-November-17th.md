@@ -34,6 +34,9 @@
   I was able to help some people with Git, and the organizers said that there is some stuff they don't have as much
   experience with in Python that they think I'd be a great fit for in terms of contributing. They were really nice about it,
   too, and very patient.
+- I am very interested in general in projects that are tied to translating Mathematics to Computer Science, which is 
+  incredibly tied to my PhD (Data Privacy, Machine Learning, Programming Languages Research). More and more, I've also found
+  that I *love* working with interdisciplinary teams, and am happiest doing this. 
   
 ## A lot of the people are Mathematicians
 - The people at the workshop know how to code, but are also very good Mathematicians. So a lot of the tickets are working
@@ -42,11 +45,11 @@
 - It's also been really worth it for me because the participants have completed their PhDs and were able to give me really
   good advice based on their experience. One participant said she was the only one of 7 people in her group who 
   ended up completing her PhD. They also spoke about quals and postdocs with me, and about their general experience.
-  Also, about what it's like being one of the females in their lab, and things like speaking up. That along in itself
+  Also, about what it's like being one of the females in their lab, and things like speaking up. That alone in itself
   has been worth my being here. 
   
 ## I also found out about Women in Sage
-- It's a group that has events once a year or once every other year when they have funding. I'd definitely love to 
+- [Women in Sage](https://wiki.sagemath.org/days103) is a group that has events once a year or once every other year when they have funding. I'd definitely love to 
   become a lifelong member, and continue to contribute to this project. I really like the people and it's a really
   positive project.
   
