@@ -11,11 +11,11 @@
   Also, it's lightweight enough that anyone on any computer can run it, or contribute to it, which is awesome. 
   
 ## General Setting up
-- To set up, we used Github, generated an SSH key and linked that to the trac server
-- We also linked a token key based on our user account on SageMath to Trac, so that we're in sync with trac.
+- To set up, we used Github, generated an ```SSH key``` and linked that to the ```trac``` server
+- We also linked a ```token``` key based on our user account on SageMath to Trac, so that we're in sync with trac.
 - We then compiled Sage's Source Code. This takes a few hours the first time
 - We made a symbolic link to Sage, which made it easier to obtain Trac tickets.
-- That pretty much sets you up to start reviewing tickets making dev branches and pushing code to Trac
+- That pretty much sets you up to start reviewing tickets making dev branches and pushing code to ```trac```
   
 ## But you're a PhD in Computer Science, not a Number Theorist
 - That's okay; they need people who know a bit of programming, too. For the workshop, they gave us instructions on how
