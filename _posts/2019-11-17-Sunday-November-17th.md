@@ -6,9 +6,14 @@
   who want to help contribute to [Arithmetic Dynamics](https://en.wikipedia.org/wiki/Arithmetic_dynamics).
   
 ## Sage is Free and Open Source
-- It uses Python and other libraries like Matplotlib and Numpy, and has received NSF grants for funding so that people
+- It uses Python and other libraries like ```Matplotlib``` and ```Numpy```, and has received NSF grants for funding so that people
   can continue to work on it. I think it's a wonderful tool, particularly as not everyone can afford licenses software.
   Also, it's lightweight enough that anyone on any computer can run it, or contribute to it, which is awesome. 
+- Today, I learned some of the basics of Arithmetic Dynamics, and how to tell if a function is homogenous in Sage 
+  (you'll get this error a lot if you're using the Arithmetic Dynamics package in Sage).
+- The ```Sage Notebook``` is also wicked cool and has Tab completion, giving you information on what objects you
+  can use eg ```.object```, and you can do things like put a ```?``` after a function to pull up documentation. 
+  ```??``` will even show you source code for that function. 
   
 ## General Setting up
 - To set up, we used Github, generated an ```SSH key``` and linked that to the ```trac``` server
