@@ -48,25 +48,25 @@
 ## And now, for some photos
 
 ## View from Detroit Airport
-<img src="/images/sagedayssmall/sage_001.png" width="500">
+<img src="/images/sagedayssmall/sage_001.png" width="400">
 
 ## View over St. Louis
-<img src="/images/sagedayssmall/sage_002.png" width="500">
+<img src="/images/sagedayssmall/sage_002.png" width="400">
 
 ## Arbitrary Gummy Bears by me
-<img src="/images/sagedayssmall/sage_0013png" width="500">
+<img src="/images/sagedayssmall/sage_0013png" width="400">
 
 ## I visited Pappy's
-<img src="/images/sagedayssmall/sage_004.png" width="500">
+<img src="/images/sagedayssmall/sage_004.png" width="400">
 
 ## More Pappy's
-<img src="/images/sagedayssmall/sage_005.png" width="500">
+<img src="/images/sagedayssmall/sage_005.png" width="400">
 
 ## The University (walking)
-<img src="/images/sagedayssmall/sage_006.png" width="500">
+<img src="/images/sagedayssmall/sage_006.png" width="400">
 
 ## Day One Lunch
-<img src="/images/sagedayssmall/sage_007.png" width="500">
+<img src="/images/sagedayssmall/sage_007.png" width="400">
 
 ## List of TODOs
-<img src="/images/sagedayssmall/sage_009.png" width="500">
+<img src="/images/sagedayssmall/sage_009.png" width="400">
