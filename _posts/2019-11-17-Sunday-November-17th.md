@@ -54,7 +54,7 @@
 <img src="/images/sagedayssmall/sage_002.png" width="400">
 
 ## Arbitrary Gummy Bears by me
-<img src="/images/sagedayssmall/sage_0013png" width="400">
+<img src="/images/sagedayssmall/sage_003png" width="400">
 
 ## I visited Pappy's
 <img src="/images/sagedayssmall/sage_004.png" width="400">
