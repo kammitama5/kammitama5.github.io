@@ -1,6 +1,8 @@
 ## Sage Days
 
 ## I am currently in St. Louis
+- I'm writing this post to give some context on my experience with Sage Days, in case anyone might be interested in 
+  attending and browsing the Internet for some information.
 - I flew into St. Louis early Saturday morning. I received a travel grant and hotel accommodation to attend Sage Days.
   This specific workshop is geared towards number theorists who have or want to learn some programming, or programming people
   who want to help contribute to [Arithmetic Dynamics](https://en.wikipedia.org/wiki/Arithmetic_dynamics).
