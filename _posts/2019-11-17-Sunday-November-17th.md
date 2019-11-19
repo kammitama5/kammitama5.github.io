@@ -9,7 +9,7 @@
   
 ## Sage is Free and Open Source
 - It uses Python and other libraries like ```Matplotlib``` and ```Numpy```, and has received NSF grants for funding so that people
-  can continue to work on it. I think it's a wonderful tool, particularly as not everyone can afford licenses software.
+  can continue to work on it. I think it's a wonderful tool, particularly as not everyone can afford licensed software.
   Also, it's lightweight enough that anyone on any computer can run it, or contribute to it, which is awesome. 
 - Today, I learned some of the basics of Arithmetic Dynamics, and how to tell if a function is homogenous in Sage 
   (you'll get this error a lot if you're using the Arithmetic Dynamics package in Sage).
