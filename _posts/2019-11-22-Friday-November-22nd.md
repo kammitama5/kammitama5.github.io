@@ -12,7 +12,7 @@
   But some dude was incredibly rude to me (Boston is not known for kindness!), and I asked someone
   where the nearest exit was so I could just get the heck out of CSAIL. So she apologized and 
   showed me where I could go. I was frustrated because I did not look like someone who *belonged* there,
-  so he started to interrogate me, which was *awful*. Then I spoke up, and he left me alone. But the 
+  so he started to interrogate me, which was *awful*. Then I spoke up, and he (the epitome of a geriatric academic) left me alone. But the 
   damage had been done, and I was really angry about it. I just wanted out. I decided I was going to
   do the interview and just go straight back to my hotel. Academia is not welcoming to people like myself.
 - On the way out, I really had to use the restroom, because my next stop was about 15 minutes of walking.
