@@ -38,27 +38,27 @@
   house in the evening on the day of Thanksgiving. So we'll see how that goes.
   
 ## A Jibo
-<img src="/images/MIT_small/mit_001.png" width="500">
+<img src="/images/MIT_small/mit_001.png" width="300">
 
 ## The origins of Hacking
-<img src="/images/MIT_small/mit_002.png" width="500">
+<img src="/images/MIT_small/mit_002.png" width="300">
 
 ## An artpiece called Flow at CSAIL
-<img src="/images/MIT_small/mit_003.png" width="500">
+<img src="/images/MIT_small/mit_003.png" width="300">
 
 ## A robot
-<img src="/images/MIT_small/mit_004.png" width="500">
+<img src="/images/MIT_small/mit_004.png" width="300">
 
 ## I ran into Erik!
-<img src="/images/MIT_small/mit_009.png" width="500">
+<img src="/images/MIT_small/mit_009.png" width="300">
 
 ## He and his son made this
-<img src="/images/MIT_small/mit_007.png" width="500">
+<img src="/images/MIT_small/mit_007.png" width="300">
 
 ## Broad on the way to my interview
-<img src="/images/MIT_small/mit_011.png" width="500">
+<img src="/images/MIT_small/mit_011.png" width="300">
 
 ## After my interview
-<img src="/images/MIT_small/mit_010.png" width="500">
+<img src="/images/MIT_small/mit_010.png" width="300">
   
 ## And that's it!
