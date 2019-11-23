@@ -54,6 +54,7 @@
 
 ## He and his son made this
 <img src="/images/MIT_small/mit_007.png" width="300">
+- Yes, it's based on topological Maths
 
 ## Broad on the way to my interview
 <img src="/images/MIT_small/mit_011.png" width="300">
