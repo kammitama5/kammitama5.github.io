@@ -55,7 +55,7 @@
 ## I ran into Erik!
 <img src="/images/MIT_small/mit_009.png" width="300">
 
-## He and his son made this
+## He and his father made this
 <img src="/images/MIT_small/mit_007.png" width="300">
 - Yes, it's based on topological Maths
 
