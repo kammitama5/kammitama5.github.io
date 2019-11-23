@@ -18,7 +18,10 @@
 - On the way out, I really had to use the restroom, because my next stop was about 15 minutes of walking.
   So I asked someone, and they pointed me in the direction of some stairs. As I was coming down the stairs,
   I saw Erik D., who I recognized from YouTube, and he humbly said "thanks for watching my videos", and took
-  a photo with me. So that made me feel a bit better.
+  a photo with me. So that made me feel a bit better. In the back of my mind, though, I thought that I would never
+  go back to CSAIL ever again. People in my group had told me to apply when I was considering grad school, but there
+  was no one who interested me at that lab, so I didn't bother, and I felt vindicated in my decision today. But it
+  needs to change.
   
 ## I then walked over to my interview
 - It went really well, and I made a few friends from the Media Lab who had a robot named Jibo. They invited me
