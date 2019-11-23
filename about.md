@@ -44,7 +44,7 @@ permalink: /about/
 - [Black in AI](https://blackinai.github.io/)
 - [WINN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [Women Techmakers](https://www.womentechmakers.com/)
-- Black Women in Computing PhD Students
+- [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
 
 ### Contact me
 
