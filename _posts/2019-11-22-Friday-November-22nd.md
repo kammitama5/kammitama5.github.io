@@ -49,7 +49,7 @@
 ## An artpiece called Flow at CSAIL
 <img src="/images/MIT_small/mit_003.png" width="300">
 
-## A robot
+## A robot (Domo)
 <img src="/images/MIT_small/mit_004.png" width="300">
 
 ## I ran into Erik!
