@@ -41,7 +41,7 @@
 - I received an Opportunity to attend both Twitter's MLFlock events for PhD ML students in Boston and New York; 
   I attended the [event in New York City](https://mlflocktalkny2019.splashthat.com/) on Academia to Industry and Twitter technology [ Nov ]
 - I accepted an internship via Code2040 to work at Autodesk's Pier 9 for Summer 2020. I'm super excited. There are robots and there is data there, and my team is amazing! [ Nov ] 
-- I interviewed for an organization called Career Girls (Boston) at MIT [ Nov ]
+- I was interviewed by an organization called Career Girls (Boston) at MIT for support of women in STEM [ Nov ]
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
 - I received a WiCyS Student Scholarship! I will be attending the 2020 WiCyS Conference (lodging and registration provided) [ Nov ]
