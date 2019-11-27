@@ -45,7 +45,10 @@
 - I received a travel grant through the NSF to attend Sage Days, which is about contributing to SageMath,
   open source software for Computational Maths [ Nov ]
 - I received a WiCyS Student Scholarship! I will be attending the 2020 WiCyS Conference (lodging and registration provided) [ Nov ]
+- I received a full reimbursement opportunity to attend the GRA-WP Cohort for Women in 2020 [ Nov ]
+- I received a full reimbursement opportunity to attend the GRA-WP Cohort for Underrepresented Minorities in 2020 [ Nov ]
 - I received complimentary registration and a travel grant to attend Neurips! I currently have tickets also for the Black in AI workshops, as well as the WiML workshops [ Dec ]
+
   
   
 ## TA
