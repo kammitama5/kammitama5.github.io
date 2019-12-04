@@ -30,7 +30,7 @@
 - She said to me "you know, I was really intrigued by your application. We don't see a lot of (people like) you here until
   dissertation time; the Computer Science and Engineering people. They don't see writing as important, generally, until they
   have to write their disseratations and really get into writing". Then she said "we'll also train you; the expectation is
-  no one is born knowing how to do this stuff, and we support and teach other and a senior person will mentor you". I loved that.
+  no one is born knowing how to do this stuff, and we support and teach other and a senior person (and I) will mentor you". I loved that.
   It sounded *exactly* like what I was doing in grad school. You have an advisor who trains you to be a researcher in 
   Computer Science grad school. And this department would teach me how to write, and how to share that with others.
   Something about the process feels so collaborative and empathetic, and demands humility.
