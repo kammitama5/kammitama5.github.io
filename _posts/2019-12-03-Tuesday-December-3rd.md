@@ -44,6 +44,11 @@
   ability in my field are desperately needed, and the work is really interesting. And yet, the people in my field seem to
   stick to areas that people in my field already pursue. Like an invisible box that holds someone in my field in, they dare
   not go past its walls. 
+- A friend of mine told me recently that she expected me to be hugely successful because I had the right kind of curiosity
+  and humility to go into other fields, learn, and to contribute. I remember in my first semester of Undergraduate study,
+  absolutely horrifying an advisor when I said to him "there's this guy who makes Neon art in New York City, and I'd like to take his 
+  class for summer". I had spoken to the artist a couple times over email and was really curious about neon. I never did end up taking it, because I was steered against doing that, but I did eventually learn
+  a bit about neon.
 - So I asked myself, can tech really save the world? I can't say I'm sure. Some of the most interesting people I've met
   consistently throughout my life are smart, creative and thoughtful, but they're also in *every* field. They care about ideas
   and will learn whatever they need to pursue an idea; whether it's welding, painting, machining, glassblowing, 
