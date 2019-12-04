@@ -6,7 +6,7 @@
   The talks are highly technical, dense, and several pioneers of areas within the field will be there. This will be
   my first time attending. I think about whether I can make it across the border, and back into the country. I think
   about whether the algorithms will work in my favour, or if something in a scanner or database will be a problem.
-  I am already meeting people who will be attending, and we have already begun discussing where we will go sightseeing,
+  I am already meeting people who will be attending online, and we have already begun discussing where we will go sightseeing,
   who is planning After hour drinks, and what talks look interesting.
 - Yet, today I found myself at my college's Graduate Writing Centre. It just made sense to me to apply to their grad
   writing training programme, which would allow me to learn how to become a stronger writer in graduate school, as well
