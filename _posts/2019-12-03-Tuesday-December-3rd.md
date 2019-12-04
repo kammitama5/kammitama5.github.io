@@ -59,11 +59,11 @@
 - So I've been thinking...can tech really save the world? Should we rely on tech? We have already begun to discover 
   again that interdisciplinary teams are important, as topics like biases in algorithms are creeping up into our
   consciousness. I can't say, as a budding Computer Scientist, that I believe this with 100% accuracy, and in fact,
-  in Undergrad, I wrote an article (which proved to be controversial) about interdiscplinary opportunities and my 
+  in Undergrad, I wrote an article (which proved to be controversial) about interdisciplinary opportunities and my 
   experience pursuing that in New York City over a summer. The professors within a particular department weren't happy about that,
   and neither were the students; they were very territorial and thought that they should be the only people who
   could *do what they do*. My Undergraduate study was fun in some ways, and worthwhile, but painful in many ways.
-  I had a handful of friends, but was an outcast in many ways. 
+  I had a handful of friends, but was an outcast. 
 - So I guess what I'm saying is I think 
   we need all the help we can get, and perspectives and questions and values from different types of people, all people.
   And I know that I enjoy working with interdisciplinary teams; I'm happiest on these teams. 
