@@ -50,6 +50,7 @@
 - I received complimentary registration and a travel grant to attend Neurips! I currently have tickets also for the Black in AI workshops, as well as the WiML workshops [ Dec ]
 - I received a fee waiver for registration and a travel/lodging grant to attend Real World Crypto 2020, via the IACR.
   The conference will be in New York City, and I am funded for this opportunity by a generous NSF grant [ Dec ]
+- I received word that I am an NCWIT Finalist! [ Dec ]
 
   
   
