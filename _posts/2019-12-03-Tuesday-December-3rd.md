@@ -78,3 +78,5 @@
   And I know that I enjoy working with interdisciplinary teams; I'm happiest on these teams. 
   
 ## And that's it
+
+- Update: I am pleased to announce that I received an offer from the Graduate Writing Centre for Spring 2020! :)
