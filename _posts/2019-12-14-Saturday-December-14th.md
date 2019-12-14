@@ -16,8 +16,8 @@
   my time at the conference. Particularly as I was the only one from my entire school, or in Vermont, who was able to attend
   this year. I know this sounds trivial, but in a conference of over 20 000 people from all over the world, being the only
   person from your entire state (which you weren't even born in) was interesting. 
-<img src="/images/sagedayssmall/sage_007.png" width="400">
-<img src="/images/neurips19_small/neurips_004.png” width="500">
+
+<img src="/images/neurips19_small /neurips_004.png” width="500">
 
 <img src="/images/neurips19_small/neurips_005.png” width="500">
 
