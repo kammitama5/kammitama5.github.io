@@ -28,7 +28,8 @@
   what my experience would have been without the warmth of that group, and other Affinity groups at the conference.
   
 ## Companies recruit you
-- Companies that attend the first few days throw Invite-Only parties. It creates a strange hierarchy at the conference, where
+- Companies that attend the first few days throw Invite-Only parties. They send these invites out sometimes a week or week and a half before the start of the conference, but you can also schmooze up the booth to get an invite to an event, too.
+However, for some companies this is almost impossible to do; they are very selective. It creates a strange hierarchy at the conference, where
   you sometimes make friends with someone who has travelled 35 hours to attend for the first time, and they weren't invited
   to a single company-sponsored party. I'm thankful for groups such as BAI (and other affinity groups), which made these kinds
   of interactions better for people who don't necessarily attend the top schools, or know the top researchers in this field.
