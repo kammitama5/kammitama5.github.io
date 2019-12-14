@@ -73,8 +73,9 @@ However, for some companies this is almost impossible to do; they are very selec
   
 ## What I got out of the conference
 - There were lots of superstars there, but the moments that resonated the most for me were my experiences with budding
-  researchers like myself. They were passionate and regardless of the schools they came from, they really wanted to make
-  a difference in their field. I made so many friends at this conference.
+  researchers like myself. They were passionate and regardless of the schools they came from; they really wanted to make
+  a difference in their field. I made so many friends at this conference. These are people who will be successful because
+  they have a deep desire to make a lasting difference in the world with their work.
 - I enjoyed a budding researchers panel, in which we were rotated around with established mentors in the field. I felt like
   I got a lot more out of that than any tech recruitment party. I did have a strange an enjoyable moment, though, in which
   my friend and I ended up in a limo with twelve other students. It was an adventure and a time I'll cherish at this conference.
