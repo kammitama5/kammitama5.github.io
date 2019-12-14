@@ -5,7 +5,9 @@
   It was an experience!
   
 ## Neurips was held in Vancouver this year
-<img src="/images/neurips19_small/neurips_003.png" width="400">
+
+<img src="/images/neurips19_small/neurips_003.png" width="300">
+
 - In some ways, it felt like a very privileged space. You're surrounded by the cream of the crop in Academia,
   with the opportunity to speak with them about their work, and to meet some of the up and coming superstars
   in the areas of AI and Machine Learning.
@@ -17,9 +19,9 @@
   this year. I know this sounds trivial, but in a conference of over 20 000 people from all over the world, being the only
   person from your entire state (which you weren't even born in) was interesting. 
 
-<img src="/images/neurips19_small/neurips_004.png" width="400">
+<img src="/images/neurips19_small/neurips_004.png" width="300">
 
-<img src="/images/neurips19_small/neurips_005.png" width="400">
+<img src="/images/neurips19_small/neurips_005.png" width="300">
 
 ## The people are very nice, kind, and open
 - The people in my circles were very nice, particularly the crowd of BAI, of which I'm a member. I can't even imagine
@@ -37,7 +39,7 @@
   because bits of it reminded me of the exclusionary attitude associated with Silicon Valley tech. So I'm still thinking
   about that.
   
- <img src="/images/neurips19_small/swag.png” width="400">
+ <img src="/images/neurips19_small/swag.png” width="300">
 
 ## My realization
 - There were a couple times in the conference where I thought "my lab does better work than this? Why is this funded by 
@@ -72,29 +74,29 @@
   such affinity with that group. 
   
 ## Here are some pics
-<img src="/images/neurips19_small/neurips_006.png" width="400">
-<img src="/images/neurips19_small/neurips_007.png" width="400">
-<img src="/images/neurips19_small/neurips_008.png" width="400">
-<img src="/images/neurips19_small/neurips_009.png" width="400">
-<img src="/images/neurips19_small/neurips_010.png" width="400">
-<img src="/images/neurips19_small/neurips_011.png" width="400">
-<img src="/images/neurips19_small/neurips_012.png" width="400">
-<img src="/images/neurips19_small/neurips_014.png" width="400">
-<img src="/images/neurips19_small/neurips_200.png" width="400">
-<img src="/images/neurips19_small/neurips_201.png" width="400">
-<img src="/images/neurips19_small/neurips_202.png" width="400">
-<img src="/images/neurips19_small/neurips_203.png" width="400">
-<img src="/images/neurips19_small/neurips_204.png" width="400">
-<img src="/images/neurips19_small/neurips_205.png" width="400">
-<img src="/images/neurips19_small/neurips_206.png" width="400">
-<img src="/images/neurips19_small/neurips_207.png" width="400">
-<img src="/images/neurips19_small/neurips_210.png" width="400">
-<img src="/images/neurips19_small/neurips_211.png" width="400">
-<img src="/images/neurips19_small/neurips_212.png" width="400">
-<img src="/images/neurips19_small/neurips_213.png" width="400">
-<img src="/images/neurips19_small/neurips_214.png" width="400">
-<img src="/images/neurips19_small/panel.png" width="400">
-<img src="/images/neurips19_small/poster.png" width="400">
+<img src="/images/neurips19_small/neurips_006.png" width="300">
+<img src="/images/neurips19_small/neurips_007.png" width="300">
+<img src="/images/neurips19_small/neurips_008.png" width="300">
+<img src="/images/neurips19_small/neurips_009.png" width="300">
+<img src="/images/neurips19_small/neurips_010.png" width="300">
+<img src="/images/neurips19_small/neurips_011.png" width="300">
+<img src="/images/neurips19_small/neurips_012.png" width="300">
+<img src="/images/neurips19_small/neurips_014.png" width="300">
+<img src="/images/neurips19_small/neurips_200.png" width="300">
+<img src="/images/neurips19_small/neurips_201.png" width="300">
+<img src="/images/neurips19_small/neurips_202.png" width="300">
+<img src="/images/neurips19_small/neurips_203.png" width="300">
+<img src="/images/neurips19_small/neurips_204.png" width="300">
+<img src="/images/neurips19_small/neurips_205.png" width="300">
+<img src="/images/neurips19_small/neurips_206.png" width="300">
+<img src="/images/neurips19_small/neurips_207.png" width="300">
+<img src="/images/neurips19_small/neurips_210.png" width="300">
+<img src="/images/neurips19_small/neurips_211.png" width="300">
+<img src="/images/neurips19_small/neurips_212.png" width="300">
+<img src="/images/neurips19_small/neurips_213.png" width="300">
+<img src="/images/neurips19_small/neurips_214.png" width="300">
+<img src="/images/neurips19_small/panel.png" width="300">
+<img src="/images/neurips19_small/poster.png" width="300">
 
 ## In other news
 - I'm flying back today, with a lot of optimism, and with a lot more focus. While I was there, I received word that
