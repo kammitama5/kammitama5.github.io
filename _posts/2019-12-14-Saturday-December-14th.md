@@ -5,7 +5,7 @@
   It was an experience!
   
 ## Neurips was held in Vancouver this year
-<img src="/images/neurips19_small/neurips_003” width="500">
+<img src="/images/neurips19_small/neurips_003" width="400">
 - In some ways, it felt like a very privileged space. You're surrounded by the cream of the crop in Academia,
   with the opportunity to speak with them about their work, and to meet some of the up and coming superstars
   in the areas of AI and Machine Learning.
