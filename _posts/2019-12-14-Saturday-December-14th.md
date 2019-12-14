@@ -130,6 +130,6 @@ However, for some companies this is almost impossible to do; they are very selec
   mother tinker with cars, and my dad let me ask questions as put wirenuts on electrical wires, "What if I were a boy?".
 - It made me grateful to just be here and have
   the opportunity, even though I may never be acknowledged within my own country, to have people who would acknowledge me
-  and give me opportunities here.
+  and give me opportunities here. In my mind, I left my country as a girl, and became a boy.
   
 ## And that's it
