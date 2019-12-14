@@ -125,6 +125,9 @@ However, for some companies this is almost impossible to do; they are very selec
   ever be acknowledged for having accomplished. Meanwhile, our male counterparts were celebrated for their academic 
   and career achievements, for their genius.
 - Why are we ignored? Why do our voices sound so small even when we scream? What is it that makes us invisible?
+  We were taught to stand in the shadow of more powerful men, and to censor ourselves so that they would advance and attain
+  glory in their fields, regardless of our ambitions. I remember dreaming, as a tomboy, growing up sometimes, watching my
+  mother tinker with cars, and my dad let me ask questions as put wirenuts on electrical wires, "What if I were a boy?".
 - It made me grateful to just be here and have
   the opportunity, even though I may never be acknowledged within my own country, to have people who would acknowledge me
   and give me opportunities here.
