@@ -18,7 +18,7 @@
   person from your entire state (which you weren't even born in) was interesting. 
 
 <img src="/images/neurips19_small/drumsticks.png" width="500">
-<img src="/images/neurips19_small /neurips_004.png” width="500">
+<img src="/images/neurips19_small/neurips_004.png" width="500">
 
 <img src="/images/neurips19_small/neurips_005.png” width="500">
 
