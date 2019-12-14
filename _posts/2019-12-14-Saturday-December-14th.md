@@ -15,7 +15,7 @@
   if you were just a nobody to attend, unless you lucked out and got a ticket via the lottery this year (and even then,
   you'd have to foot the hotel and flight and your expenses by yourself, or your company would have to pay for it) meant
   that I found myself surrounded moreso by people I felt were already set up to succeed. I thought about this a lot during
-  my time at the conference. Particularly as I was the only one from my entire school, or in Vermont, who was able to attend
+  my time at the conference, especially in light of the visa denials from several researchers from specifically African countries. Also particularly as I was the only one from my entire school, or in Vermont, who was able to attend
   this year. I know this sounds trivial, but in a conference of over 20 000 people from all over the world, being the only
   person from your entire state (which you weren't even born in) was interesting. 
 
