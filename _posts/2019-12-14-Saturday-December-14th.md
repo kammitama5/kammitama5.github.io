@@ -32,12 +32,16 @@
   you sometimes make friends with someone who has travelled 35 hours to attend for the first time, and they weren't invited
   to a single company-sponsored party. I'm thankful for groups such as BAI (and other affinity groups), which made these kinds
   of interactions better for people who don't necessarily attend the top schools, or know the top researchers in this field.
+  At our mixer, LeCun, Dean and Bengio attended, and several top researchers made a presence to show support as allies for
+  such groups in AI.
 - I was very fortunate this year in that not only did I receive a travel grant and free registration to attend, but I was
   recruited by about 70% of the companies in attendance. However, it still created a weird rift where some of my friends
   wanted to attend some parties, but did not get an invite, or other friends were attending other parties. However,
   it is to be noted that the point of these parties is for recruitment. It did leave a bit of a strange taste in my mouth,
   because bits of it reminded me of the exclusionary attitude associated with Silicon Valley tech. So I'm still thinking
-  about that.
+  about that. I felt a lot of community among my peers at the conference, and I think that the SV tech recruiting scene
+  was almost a bit at odds with that. However, they did sponsor many events and activities that enables several researchers
+  to attend, also (and several researchers do work for those companies, too).
   
  <img src="/images/neurips19_small/swag.png” width="300">
 
