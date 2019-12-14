@@ -66,8 +66,7 @@ However, for some companies this is almost impossible to do; they are very selec
   of colour and a female, particularly at this conference. Within the next afternoon, a gentleman at large company booth
   where I interned was speaking with a gentleman there. The gentleman who was asking the guy at the booth a question, 
   looked me up and down and decided that I wasn't worth much, so he turned his body away from me and raised his voice,
-  ignoring me. I was a bit irritated, so I chimed in, commenting on some questions he was asking, because not only did  
-  I intern at that company that had the booth, but he was asking basic questions about the field I was doing my PhD in.
+  ignoring me. I was a bit irritated, so I chimed in, commenting on some questions he was asking, because not only did I intern at that company that had the booth, but he was asking basic questions about the field I was doing my PhD in.
   Also, I had implemented algorithms all semester that pertained to that field in a class. Suddenly, the gentleman turned
   pale, looked at me and said weakly "I guess I don't know that much about this stuff". I rolled my eyes to myself and left.
   
