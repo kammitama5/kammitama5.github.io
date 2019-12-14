@@ -44,7 +44,7 @@ However, for some companies this is almost impossible to do; they are very selec
   was almost a bit at odds with that. However, they did sponsor many events and activities that enables several researchers
   to attend, also (and several researchers do work for those companies, too).
   
- <img src="/images/neurips19_small/swag.png” width="300">
+ <img src="/images/neurips19_small/swag.png" width="300">
 
 ## My realization
 - There were a couple times in the conference where I thought "my lab does better work than this? Why is this funded by 
