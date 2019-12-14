@@ -39,7 +39,7 @@ However, for some companies this is almost impossible to do; they are very selec
   recruited by about 70% of the companies in attendance. However, it still created a weird rift where some of my friends
   wanted to attend some parties, but did not get an invite, or other friends were attending other parties. However,
   it is to be noted that the point of these parties is for recruitment. It did leave a bit of a strange taste in my mouth,
-  because bits of it reminded me of the exclusionary attitude associated with Silicon Valley tech. So I'm still thinking
+  because bits of it reminded me of the exclusionary attitude associated with Silicon Valley tech, and their habit of feigning "a commitment to diversity and inclusion". So I'm still thinking
   about that. I felt a lot of community among my peers at the conference, and I think that the SV tech recruiting scene
   was almost a bit at odds with that. However, they did sponsor many events and activities that enables several researchers
   to attend, also (and several researchers do work for those companies, too).
