@@ -47,8 +47,8 @@ However, for some companies this is almost impossible to do; they are very selec
  <img src="/images/neurips19_small/swag.png" width="300">
 
 ## My realization
-- There were a couple times in the conference where I thought "my lab does better work than this? Why is this funded by 
-  *insert large corporation*?" With much chutzpah after a keynote, and a speaker surrounded by a crowd, I spoke to the 
+- There were a couple times in the conference where I thought "my lab does more interesting work than this! Why is this funded by 
+  *insert large corporation*? in industry?" With much chutzpah after a keynote, and a speaker surrounded by a crowd, I spoke to the 
   keynote speaker and told him about some of the things my lab was doing, and he said "that sounds like something I'd very
   much be interested in! Please email me". 
 - There was also another time in which an invited speaker in my Privacy ML track literally showed research from our lab,
