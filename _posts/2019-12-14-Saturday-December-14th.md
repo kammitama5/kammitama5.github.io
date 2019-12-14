@@ -68,7 +68,8 @@ However, for some companies this is almost impossible to do; they are very selec
   looked me up and down and decided that I wasn't worth much, so he turned his body away from me and raised his voice,
   ignoring me. I was a bit irritated, so I chimed in, commenting on some questions he was asking, because not only did I intern at that company that had the booth, but he was asking basic questions about the field I was doing my PhD in.
   Also, I had implemented algorithms all semester that pertained to that field in a class. Suddenly, the gentleman turned
-  pale, looked at me and said weakly "I guess I don't know that much about this stuff". I rolled my eyes to myself and left.
+  pale, looked at me and said weakly "I guess I don't know that much about this stuff". Fortunately, for those more secure
+  in their work, I was able to form a lot of relationships, and a lot of people in general contacted me, citing that they offer internships and were interested in speaking with me, because it is apparently difficult to find talented people in the exact field I'm focusing on. So I focused my energies on those people. 
   
 ## What I got out of the conference
 - There were lots of superstars there, but the moments that resonated the most for me were my experiences with budding
