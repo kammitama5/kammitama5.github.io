@@ -52,8 +52,11 @@ However, for some companies this is almost impossible to do; they are very selec
   keynote speaker and told him about some of the things my lab was doing, and he said "that sounds like something I'd very
   much be interested in! Please email me". 
 - There was also another time in which an invited speaker in my Privacy ML track literally showed research from our lab,
-  with slides with my advisors' faces on them; she had collaborated with tme on research. Yet, we are this siloed lab, 
-  doing really interesting work, but without the glory of having *insert big name company* throwing us money. It made
+  with slides with my advisors' faces on them; she had collaborated with them on research. Yet, we are this siloed lab, 
+  doing really interesting work, but without the glory of having *insert big name company* throwing us money. I also think
+  that we trend more towards publishing in Journals, from what I've seen, whereas the focus seems to be posters of papers 
+  in major conferences in other labs, from what I've seen. But I've only been at my school for one semester, so..
+  It made
   me think about access a lot, and opportunity. At Neurips, you are surrounded by opportunity. But what about those who
   don't have those opportunities, but are doing great work? That's why organizations such as BAI were so special to me
   at this conference. 
