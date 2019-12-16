@@ -65,7 +65,7 @@
 - Human Computer Interaction (228) (FA19)
 
 ## Anticipated Classes (enrolled)
-- Evolutionary Robotics (TBD) (SP20)
+- Evolutionary Robotics (in Python) (SP20)
 - Machine Learning (in Python) (SP20)
 - Compiler Construction (in Haskell) (SP20)
 
