@@ -125,7 +125,7 @@ However, for some companies this is almost impossible to do; they are very selec
   and career achievements, for their genius.
 - While I was at the conference, my dad wrote me an email where he spoke about how proud he was of me (which he always says!),
   and also that he was sure my aunt would have loved to speak with me about Academia. She went to the University of Madison
-  in Wisconsin, did her PhD in Nutrition, and became a prolific head within the local University, where she also spearheaded
+  in Wisconsin, did her PhD in Nutrition, and became a prolific head within the local University in my home country, where she also spearheaded
   the engineering department there. However, all she wanted was to become a professor (which is tricker in my home country than you would imagine, especially as a woman, and even trickier to gain the respect of persons in that field), and the people there went out of their
   way to block her in every way possible from achieving that. She was excellent, and experienced a lot of professional envy,
   sexism and incredible chauvinism. She would often play tennis and set up a monthly hiking group to destress. Her husband was also a musician and botanist.
