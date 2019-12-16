@@ -59,15 +59,20 @@
 ## TA
 - Programming for Engineers (Matlab) (20) (FA19)
 
-## Current Classes
+## Current Classes (completed)
 - Software Verification (295A) (FA19)
 - Data Privacy (295B) (FA19)
 - Human Computer Interaction (228) (FA19)
 
-## Anticipated Classes
+## Anticipated Classes (enrolled)
 - Evolutionary Robotics (TBD) (SP20)
 - Machine Learning (in Python) (SP20)
 - Compiler Construction (in Haskell) (SP20)
+
+## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
+- Computational Physics
+- Numerical Computation
+- A Complex Systems course (of some kind)
 
 ## I think this means I'm not doing *too* badly in my first semester
 
