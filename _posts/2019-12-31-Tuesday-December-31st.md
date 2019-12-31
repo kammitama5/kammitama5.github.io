@@ -23,7 +23,7 @@
   and made models out of wood and arylic, joined a bunch of hackerspaces, 
   learned how to sail, made friends with a bunch of NASA scientists, 
   taught robotics classes, got my green card and somehow ended up deciding I wanted to become a computer scientist, 
-  because it was the way I thought I could make an impact on the world in a selfless way. It was fun, wild ride and I don't
+  because it was the way I thought I could make an impact on the world  and grow in a selfless way over these next few years. It was fun, wild ride and I don't
   regret anything.
 - A year ago, I was at a Programming Languages conference I was given a scholarship to attend, and the group of my peers
   quite enjoyed my charisma. Someone noticed my badge, and subtly mentioned it to the group. 
