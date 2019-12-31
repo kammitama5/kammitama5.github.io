@@ -38,7 +38,8 @@
   and asked me "what are you going to do? We're here because the next logical step for all of us is grad school. How will
   you do that? What will you do?". 
   I looked at them and said calmly "I am going to apply to grad school, of course. Let the school decide, but I want to attend". 
-  In my mind, we were all there for that, including myself. I resolved to do this.
+  In my mind, we were all there for that, including myself. I resolved to do this. But part of that resolve came from the other parts of my experience before I wanted to attend grad school. It's the part of me that is a trouble-maker, who will
+  pry just to see if something *is* possible, even if you tell me it can't be done. Who knew it would be an asset for research?
   
 ## A friend of mine passed
 - A friend of mine passed away this weekend. He was loved by millions of people. I thought about one of the last
