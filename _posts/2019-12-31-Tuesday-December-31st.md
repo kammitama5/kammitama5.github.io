@@ -9,6 +9,8 @@
 - Risk-taking is in my blood. My dad often told me he didn't know where I got that from, because I always seemed
   to have no problem throwing everything away and starting all over again, if I thought that it was worth it.
   Throw away everything but a suitcase and move. Chase the courage of your conviction. That's me. 
+  Move from a comfortable, tropical island to snowy upstate New York, to a school with a minority population of less than 5%.
+  Do it again in 2019.
 - A decade ago, I had moved from Upstate New York, to Los Angeles, knowing only one person who would be
   my roommate for three years, who was at the time crashing on the couch of another person who was our mutual
   friend. I knew no one there, but I determined that I would make friends and set up a network there. In ten days of having
