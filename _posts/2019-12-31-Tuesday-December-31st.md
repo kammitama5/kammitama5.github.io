@@ -22,7 +22,7 @@
   Don't disregard the step you need to take backwards, because you're walking backwards; sometimes it's what you need to be
   projected forward. 
 - Years later, after friends have moved, and I just moved (in mid-August) to Vermont, I think about the many adventures
-  and risks I took out there. I worked on a bunch of films (close to 200), plays, made art, was in an Art show
+  and risks I took out there. I worked on a bunch of films (close to 200), plays, worked on light art installations, made art, was in an Art show
   put on the by Art Directors' Guild, took classes in sculpture, 3D modelling, concept design, figure drawing, painting, welding, machining, soldering and electronics, studied architecture
   and made models out of wood and acrylic, joined a bunch of hackerspaces, 
   learned how to sail, made friends with a bunch of NASA scientists, 
