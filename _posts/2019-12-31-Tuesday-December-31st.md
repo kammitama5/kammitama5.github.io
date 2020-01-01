@@ -70,7 +70,14 @@
   start his own consultancy. 
 - I took a lighting design class in Undergrad in which one of my professors told us "whatever choice you make, be 
   bold about it". I always remember those words, but in reality, it's hard. It's difficult to swim against the tide.
-  For years, it's been a struggle. I've been swimming against the tide for this past decade. Will the water and the 
+  For years, it's been a struggle. The first few years, I perpetually felt like everything was hanging by a thread, and
+  I in fact used to joke about this. These days, the tide has been turning, and I find that each day, I'm in a position
+  where I can help people, the way a lot of people helped me when I was first starting out. I have more choices, more
+  opportunities, and people see talent in potential more easily than when I first started. But the journey has changed me.
+  I remember how difficult it was, and how I fought to be *heard*. I think about bringing opportunities for access to people
+  who are where I *was*, since I can have a little bit of that affordance right now. I have a little more credibility,
+  which will continue to increase as I build a research career.
+- I've been swimming against the tide for this past decade. Will the water and the 
   tide I swim against disappear one day? I try not to think about those things. 
 - It's been finally a few years into feeling like it's finally been paying off, and it feels really great.
   
