@@ -78,8 +78,10 @@
   who are where I *was*, since I can have a little bit of that affordance right now. I have a little more credibility,
   which will continue to increase as I build a research career.
 - I've been swimming against the tide for this past decade. Will the water and the 
-  tide I swim against disappear one day? I try not to think about those things. 
-- It's been finally a few years into feeling like it's finally been paying off, and it feels really great.
+  tide I swim against disappear one day? I try not to think about those things. But when you've survived winters, you know
+  that you can find it within yourself to do it again if you must.
+- It's been finally a few years into feeling like it's finally been paying off, and it feels really great. I'm pretty excited
+  about 2020 and beyond.
   
 ## Happy New Year to all of you
 - I have a list of goals, but I guess I'll keep that to myself. They mostly involve things I'd like to focus on making
