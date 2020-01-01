@@ -24,7 +24,7 @@
   learned how to sail, made friends with a bunch of NASA scientists, 
   taught robotics classes, got my green card and somehow ended up deciding I wanted to become a computer scientist, 
   because it was the way I thought I could make an impact on the world  and grow in a selfless way over these next few years. It was a fun, wild ride and I don't
-  regret anything.
+  regret anything. Man, it's been fun.
 - I have friends today all over the world who are filmmakers, artists, musicians, sculptors, photographers, computer scientists, engineers, architects, hackers, actors, designers, freelancers and owners of businesses who hire lots of people; you name it. I've lost count of them, and I still run into them, and it's
  like the first day we met. We run into each other at unusual places; most recently, it was at a large company where I was 
  interning. Some are famous, and others I have helped in some way or other at some point because I believe in them, but they're all passionate
