@@ -83,6 +83,10 @@
 - It's been finally a few years into feeling like it's finally been paying off, and it feels really great. I'm pretty excited
   about 2020 and beyond.
   
+## Another upcoming Decade
+- A lot of my friends tell me they don't understand any of the things I talk about these days. We have a history of being misunderstood... until the future catches up with us. But that's okay. We have an understanding whereby all of us take risks, and are misunderstood, but we don't knock each other about it. To take risks is to be misunderstood. All of a sudden, my choice of grad school doesn't seem so strange after all. It's the next logical step in a lifetime of being misunderstood and of taking risks.
+And that's okay.
+  
 ## Happy New Year to all of you
 - I have a list of goals, but I guess I'll keep that to myself. They mostly involve things I'd like to focus on making
   and doing this year, particularly as they pertain to becoming a computer scientist and researcher. But I'd like to focus
