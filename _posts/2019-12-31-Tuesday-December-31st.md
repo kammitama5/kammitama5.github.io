@@ -26,7 +26,7 @@
   put on the by Art Directors' Guild, took classes in sculpture, 3D modelling, concept design, figure drawing, painting, welding, machining, studied architecture
   and made models out of wood and acrylic, joined a bunch of hackerspaces, 
   learned how to sail, made friends with a bunch of NASA scientists, 
-  taught robotics classes, got my green card and somehow ended up deciding I wanted to become a computer scientist, 
+  taught robotics classes, did some software internships, got my green card and somehow ended up deciding I wanted to become a computer scientist, 
   because it was the way I thought I could make an impact on the world  and grow in a selfless way over these next few years. It was a fun, wild ride and I don't
   regret anything. Man, it's been fun.
 - I have friends today all over the world who are filmmakers, artists, animators, writers, musicians, sculptors, photographers, computer scientists, mathematicians, engineers, architects, hackers, actors, designers, freelancers and owners of businesses who hire lots of people; you name it. I've lost count of them, and I still run into them, and it's
