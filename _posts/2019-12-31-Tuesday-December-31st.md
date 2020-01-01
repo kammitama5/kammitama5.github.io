@@ -17,6 +17,10 @@
   moved there, I started my first job at 9.25 dollars an hour, as a camera technician for film and video cameras, 
   on a student visa. I was hired
   because I was the only one they said who knew how to thread a specific film camera, the one of 14.5 frame specificity.
+- A camera guy once told me what a Physics professor in high school once told me; sometimes you need to take a step back
+  to take a step forward. My Physics professor explained kinetic energy and the Law of Thermodynamics to us this way. 
+  Don't disregard the step you need to take backwards, because you're walking backwards; sometimes it's what you need to be
+  projected forward. 
 - Years later, after friends have moved, and I just moved (in mid-August) to Vermont, I think about the many adventures
   and risks I took out there. I worked on a bunch of films (close to 200), plays, made art, was in an Art show
   put on the by Art Directors' Guild, took classes in sculpture, 3D modelling, concept design, figure drawing, painting, welding, machining, studied architecture
@@ -60,10 +64,15 @@
   Throughout all of these experiences, I've been an outcast, or rather, someone who has floated from group to group,
   not quite fitting in, and taking the roads a lot my peers didn't take. They were puzzled. Why aren't you doing...
   what everyone else is doing? 
+- I thought about my friend who passed, and how I thought of him this way; he too belonged to no one; he was like the wind.
+  He touched everyone he met, energized them with his ideas and vision of the possibility of what technology would be like
+  in the future, but he never limited himself to being an artist. In fact, he quit his first job at a large company to
+  start his own consultancy. 
 - I took a lighting design class in Undergrad in which one of my professors told us "whatever choice you make, be 
   bold about it". I always remember those words, but in reality, it's hard. It's difficult to swim against the tide.
-  For years, it's been a struggle. I've been swimming against the tide for this past decade.
-  It's been finally a few years into feeling like it's finally been paying off, and it feels really great.
+  For years, it's been a struggle. I've been swimming against the tide for this past decade. Will the water and the 
+  tide I swim against disappear one day? I try not to think about those things. 
+- It's been finally a few years into feeling like it's finally been paying off, and it feels really great.
   
 ## Happy New Year to all of you
 - I have a list of goals, but I guess I'll keep that to myself. They mostly involve things I'd like to focus on making
