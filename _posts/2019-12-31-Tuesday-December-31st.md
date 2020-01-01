@@ -15,7 +15,7 @@
   my roommate for three years, who was at the time crashing on the couch of another person who was our mutual
   friend. I knew no one there, but I determined that I would make friends and set up a network there. In ten days of having
   moved there, I started my first job at 9.25 dollars an hour, as a camera technician for film and video cameras, 
-  on a student visa. I was hired
+  on a student visa (I also doubled it within a year). I was hired
   because I was the only one they said who knew how to thread a specific film camera, the one of 14.5 frame specificity.
 - A camera guy once told me what a Physics professor in high school once told me; sometimes you need to take a step back
   to take a step forward. My Physics professor explained kinetic energy and the Law of Thermodynamics to us this way. 
