@@ -73,7 +73,7 @@
   For years, it's been a struggle. The first few years, I perpetually felt like everything was hanging by a thread, and
   I in fact used to joke about this. These days, the tide has been turning, and I find that each day, I'm in a position
   where I can help people, the way a lot of people helped me when I was first starting out. I have more choices, more
-  opportunities, and people see talent in potential more easily than when I first started. But the journey has changed me.
+  opportunities, and people see talent and potential in me more easily than when I first started. But the journey has changed me.
   I remember how difficult it was, and how I fought to be *heard*. I think about bringing opportunities for access to people
   who are where I *was*, since I can have a little bit of that affordance right now. I have a little more credibility,
   which will continue to increase as I build a research career.
