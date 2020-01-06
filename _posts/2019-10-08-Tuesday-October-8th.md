@@ -75,7 +75,9 @@
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
 - Numerical Computation
+- Compilers
 - Deep Learning
+- Evolutionary Robotics
 - A Complex Systems course (of some kind)
 
 ## I think this means I'm not doing *too* badly in my first semester
