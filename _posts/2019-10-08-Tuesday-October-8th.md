@@ -6,8 +6,13 @@
   some of the stuff I've done this year.
   
 - PhDs do that, I guess, so maybe I should too?
-  
-## Lately
+
+## 2020
+
+- I received an Invitation to attend TechTogetherBoston2020, Boston's Largest All-Female Hackathon [ Jan ]  
+- I'm giving a talk at the Women in Data Science Meetup on Feb 3rd on Why Conferences Matter (inspired by Neurips) [ Feb ]
+
+## 2019
 
 - I wrapped up / completed a local internship in El Segundo [ Jan ]
 - I attended a workshop at MSRI on Derived Algebraic Geometry [ Feb ]
@@ -53,8 +58,6 @@
 - I received word that I am an NCWIT Finalist! [ Dec ]
 - I applied (and received an offer from) the Graduate Writing Centre; I will be learning how to write and mentoring students
   for around six hours a week in an interdisciplinary writing skillset at the graduate level (so reviewing and helping graduate students write papers in Literature, Materials Science, History, etc)! [ Dec ]
-
-  
   
 ## TA
 - Programming for Engineers (Matlab) (20) (FA19)
@@ -65,9 +68,9 @@
 - Human Computer Interaction (228) (FA19)
 
 ## Anticipated Classes (enrolled)
-- Evolutionary Robotics (in Python) (SP20)
 - Machine Learning (in Python) (SP20)
-- Compiler Construction (in Haskell) (SP20)
+- Programming Languages (in Haskell) (SP20)
+- Research credits (SP20)
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
