@@ -9,7 +9,7 @@
 
 ## 2020
 
-- I received an Invitation to attend TechTogetherBoston2020, Boston's Largest All-Female Hackathon [ Jan ]  
+- I received an Invitation to attend [TechTogetherBoston2020](https://boston.techtogether.io/), Boston's Largest All-Female Hackathon [ Jan ]  
 - I'm giving a talk at the Women in Data Science Meetup on Feb 3rd on Why Conferences Matter (inspired by Neurips) [ Feb ]
 
 ## 2019
