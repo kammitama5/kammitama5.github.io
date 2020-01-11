@@ -1,6 +1,6 @@
 ## RWC 2020
 
-## I attended my first RWC! 
+## I attended my first RWC conference! 
 
 - It actually wasn't supposed to happen, but I really wanted to attend, and I emailed the organizers.
   They responded and surprisingly, offered me a very generous travel grant to attend! I overheard later on that
