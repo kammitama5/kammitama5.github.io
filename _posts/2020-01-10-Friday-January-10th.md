@@ -15,7 +15,7 @@
   also chilly near the stage, and she offered me her scarf to stay warm. She introduced me to members of her team, and
   to my surprise, my advisor told me later on when I was relaying the story of this really nice lady who welcomed me 
   at this conference I was attending for the first time, that she worked in an amazingly awesome research group from a
-  well-known company in industry. He thought very highly of the research they do, which says a lot. So that was unexpected, and it was pretty awesome that she and everyone I met was just
+  well-known company in industry. He thought very highly of the research they do, which says a lot. So that was unexpected, and it was pretty awesome that she and everyone I met were just
   so nice to me. 
 - Surprisingly, I also met up with a friend I knew from my time in Los Angeles who was living in New York City, working
   as a security engineer. So I did end up knowing people there, and a bunch of us took the train home together each evening.
