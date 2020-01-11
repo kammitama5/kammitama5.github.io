@@ -64,6 +64,7 @@
 
 ## Next year's conference will take place in Amsterdam
 - Kind of a stretch, but maybe I'll get to attend again sometime. It was highly worth it for me. A girl can dream.
+- Oh, I also found out I'll be TA-ing a Compilers course in Haskell this Spring! Super cool!!!
 
 
 
