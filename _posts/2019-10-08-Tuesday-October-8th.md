@@ -62,8 +62,9 @@
   
 ## TA
 - Programming for Engineers (Matlab) (20) (FA19)
-- Compilers class (SP20)
-- CS class (SP20)
+- Data Privacy (Python, Jupyter) (295B) (FA19)
+- Compilers class (202) (SP20)
+- Advanced Web Design class (142) (SP20)
 
 ## Current Classes (completed)
 - Software Verification (295A) (FA19)
