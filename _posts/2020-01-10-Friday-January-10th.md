@@ -66,5 +66,11 @@
 - Kind of a stretch, but maybe I'll get to attend again sometime. It was highly worth it for me. A girl can dream.
 - Oh, I also found out I'll be TA-ing a Compilers course in Haskell this Spring! Super cool!!!
 
+## Edit: I got home and a friend from NASA sent me these!!!!
+- I almost cried. So nice of him!! I miss hanging out with him and listening to Jazz and going to JPL lectures on
+  Thursdays, but it's also to encourage me. He believes in me so much, that it's heartwarming. 
+  
+<img src="/images/rwc2020/mags.png" width="400">
+
 
 
