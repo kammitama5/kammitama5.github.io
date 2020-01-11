@@ -18,7 +18,8 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I started PhD candidacy in Programming Languages Research at the University of Vermont (my advisors are [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/) and [Dr. David Darais](http://david.darais.com/)). My focus will be on Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning. I will also be a TA for Data Privacy coursework (Python), as well as a Programming for Engineers Matlab course (Matlab).
+- In Fall 19, I started PhD candidacy in Programming Languages Research at the University of Vermont (my advisors are [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/) and [Dr. David Darais](http://david.darais.com/)). My focus will be on Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning. I also TA-ed for Data Privacy coursework (Python), as well as a Programming for Engineers Matlab course (Matlab), and in Spring I'll
+be TA-ing a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
 ## More Updates...
