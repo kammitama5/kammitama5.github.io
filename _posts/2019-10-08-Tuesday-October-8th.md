@@ -11,7 +11,7 @@
 
 - I received an Invitation to attend [TechTogetherBoston2020](https://boston.techtogether.io/), Boston's Largest All-Female Hackathon [ Jan ]  
 - I'm giving a talk at the Women in Data Science Meetup on Feb 3rd on Why Conferences Matter (inspired by Neurips) [ Feb ]
-- I'm TA-ing two classes in Spring; one is a Compilers course in Haskell, and another basic CS course [ Jan - May ]
+- I'm TA-ing two classes in Spring; one is a Compilers course in Haskell, and another CS basics (Advanced Web Design) course [ Jan - May ]
 
 ## 2019
 
