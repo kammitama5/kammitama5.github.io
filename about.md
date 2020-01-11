@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-- I'm a programming languages researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love machine learning, encryption, and functional programming (I am at the intersection of the crypto, programming languages and AI/ML communities).
+- I'm a programming languages researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love machine learning, encryption, and functional programming (I am at the intersection of the cryptography, programming languages and AI/ML communities).
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
 ### What's Unique about me
