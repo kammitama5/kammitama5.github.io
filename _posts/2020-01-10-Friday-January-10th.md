@@ -31,5 +31,27 @@
   
 ## Here are some photos of my favourite talks...and some NYC photos!
 
-<img src="/images/rwc2020/rwc_001.png" width="500">
-<img src="/images/rwc2020/rwc_002.png" width="500">
+<img src="/images/rwc2020/rwc_001.png" width="400">
+<img src="/images/rwc2020/rwc_002.png" width="400">
+<img src="/images/rwc2020/rwc_003.png" width="400">
+<img src="/images/rwc2020/rwc_004.png" width="400">
+<img src="/images/rwc2020/rwc_005.png" width="400">
+<img src="/images/rwc2020/rwc_006.png" width="400">
+<img src="/images/rwc2020/rwc_007.png" width="400">
+<img src="/images/rwc2020/rwc_008.png" width="400">
+<img src="/images/rwc2020/rwc_009.png" width="400">
+<img src="/images/rwc2020/rwc_010.png" width="400">
+<img src="/images/rwc2020/rwc_011.png" width="400">
+<img src="/images/rwc2020/rwc_012.png" width="400">
+<img src="/images/rwc2020/rwc_013.png" width="400">
+<img src="/images/rwc2020/rwc_014.png" width="400">
+<img src="/images/rwc2020/rwc_015.png" width="400">
+<img src="/images/rwc2020/rwc_016.png" width="400">
+<img src="/images/rwc2020/rwc_017.png" width="400">
+<img src="/images/rwc2020/rwc_019.png" width="400">
+<img src="/images/rwc2020/rwc_020.png" width="400">
+<img src="/images/rwc2020/rwc_021.png" width="400">
+<img src="/images/rwc2020/rwc_022.png" width="400">
+
+## Next year's conference will take place in Amsterdam
+- Kind of a stretch, but maybe I'll get to attend again sometime. It was highly worth it for me.
