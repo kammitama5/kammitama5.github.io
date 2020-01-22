@@ -16,7 +16,7 @@
 - I found my way over to the interviewing office, which was in the school's library,
   and on the way got excited by a shelf of books that
   had a mix of books on Mathematics, Logic and Philosophy. It wasn't just another shelf of books on Discrete Mathematics
-  or Data Science; the books that say to say to a visitor of an Academic office "the person who inhabits this office works in Computer
+  or Data Science; the books that seem to say to a visitor of an Academic office "the person who inhabits this office works in Computer
   Science". Does everything have to be so serious? Is this all Computer Scientists read?
   When you get a job in tech, are you trained to argue about the syntax and semantics of a language and about libraries?
   Let's not forget the obligatory Steve Jobs biography many startups display on their shelves; you need that
