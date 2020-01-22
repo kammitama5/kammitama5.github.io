@@ -14,6 +14,7 @@
 - I'm TA-ing two classes in Spring; one is a Compilers course in Haskell, and another CS basics (Advanced Web Design) course [ Jan - May ]
 - I'm working with a team of 5 researchers (mostly located on the East Coast) to plan the Black in AI lunch event on Sunday Feb 9th at AAAI this year. [ Jan ]
 - I will also be a panelist and mentor for [Try AI](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) during the AAAI conference, which is half a day of mentorship for young women to encourage them to study STEM and AI/ML [ Jan ]
+- I received funding to attend ICERM's "Variable Precision in Mathematical and Scientific Computing" at Brown University from May 6th through the 8th [ Jan ]
 
 ## 2019
 
