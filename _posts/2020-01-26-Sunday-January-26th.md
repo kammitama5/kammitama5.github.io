@@ -55,8 +55,6 @@
 
 <img src="/images/NCASRobot/ncas002.png" width="400">
 
-<img src="/images/NCASRobot/ncas005.png" width="400">
-
 <img src="/images/NCASRobot/ncas006.png" width="400">
 
 <img src="/images/NCASRobot/ncas007.png" width="400">
