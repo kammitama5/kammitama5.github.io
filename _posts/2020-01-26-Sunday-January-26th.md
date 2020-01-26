@@ -47,21 +47,21 @@
 - These are from 2016.
 
 ## This is the original wireframe CAD drawing
-<img src="/images/NCASRobot/ncas005.png" width="400">
+<img src="/images/NCASRobot/ncas005.png" width="500">
 
-<img src="/images/NCASRobot/ncas004.png" width="400">
+<img src="/images/NCASRobot/ncas004.png" width="500">
 
-<img src="/images/NCASRobot/ncas001.png" width="400">
+<img src="/images/NCASRobot/ncas001.png" width="500">
 
-<img src="/images/NCASRobot/ncas002.png" width="400">
+<img src="/images/NCASRobot/ncas002.png" width="500">
 
-<img src="/images/NCASRobot/ncas006.png" width="400">
+<img src="/images/NCASRobot/ncas006.png" width="500">
 
-<img src="/images/NCASRobot/ncas007.png" width="400">
+<img src="/images/NCASRobot/ncas007.png" width="500">
 
 ## This is rendered in an environment
 
-<img src="/images/NCASRobot/ncas003.png" width="400">
+<img src="/images/NCASRobot/ncas003.png" width="500">
 
 
 ## Anyways, this is just a post
