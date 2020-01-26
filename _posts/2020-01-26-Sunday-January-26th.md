@@ -43,8 +43,8 @@
   because that would use a lot of power, but it's still a fun project to go back and look at, and I did end up
   at the workshop, after all, scoring a perfect score on my project. 
   
-## Here are some of the models I found.
-- These are from 2016.
+## Here are some of the models I found from my proposal.
+- These are from 2016. 
 
 ## This is the original wireframe CAD drawing
 <img src="/images/NCASRobot/ncas005.png" width="500">
