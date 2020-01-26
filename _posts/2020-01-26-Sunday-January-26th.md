@@ -21,7 +21,7 @@
   either through exoskeleton stuff, 3D modelling,
   mentoring students, being part of hobby robotics groups such as SV-ROS, etc. In California, there is a lot of that,
   and people are intellectually curious in general, so you get a lot of people who pick up a machine shop class just
-  to gain the skills for a thing they're trying to build. I miss that freedom these days. I used to be a part of a hackerspace
+  to gain the skills for a thing they're trying to build. I miss that freedom these days; academia can be so narrow-minded in that respect, and so rigid. I struggled a lot with this in Undergrad, and expect to continue to struggle a lot with this in grad school, because I often draw from different things. I used to be a part of a hackerspace
   in downtown LA that would do everything from large-scale 3D printing, machining, welding, woodworking, and architectural
   robotics used on parametric modelling node-based programming. Oh yeah, and sometimes there would be charcoal drawing
   in there, too, and I would attend 72 hour long drawing events, where people would stay up for 72 hours and live on nothing
