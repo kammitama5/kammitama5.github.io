@@ -14,8 +14,9 @@
 ## I consider myself a maker
 
 - It's weird when people tell me today that I can't do robot things because I work in programming languages research,
-  because between 2008 and 2017-ish, all I did was robot-related tech stuff, and somewhere between 2014 to 2017, 
-  I was also painting and drawing and learning 3D modelling. I always thought that to be able to express an idea, it would
+  because between 2008 and 2017-ish, all I did was robot-related tech stuff, hardware and soldering (I worked as an electronics and high speed camera technician for a good 8 years), and somewhere between 2014 to 2017, 
+  I was also painting and drawing and learning 3D modelling. 
+  I always thought that to be able to express an idea, it would
   benefit a person to learn those tools. But anyways, I spent some time learning some creative tech stuff. 
   Either through exoskeleton stuff, 3D modelling,
   mentoring students, being part of hobby robotics groups such as SV-ROS, etc. In California, there is a lot of that,
@@ -46,23 +47,24 @@
 - These are from 2016.
 
 ## This is the original wireframe CAD drawing
+<img src="/images/NCASRobot/ncas005.png" width="400">
+
+<img src="/images/NCASRobot/ncas004.png" width="400">
+
+<img src="/images/NCASRobot/ncas001.png" width="400">
+
 <img src="/images/NCASRobot/ncas002.png" width="400">
 
-<img src="/images/NCASRobot/ncas004.png" width=“400">
+<img src="/images/NCASRobot/ncas005.png" width="400">
 
-<img src="/images/NCASRobot/ncas001.png" width=“400">
+<img src="/images/NCASRobot/ncas006.png" width="400">
 
-<img src="/images/NCASRobot/ncas002.png" width=“400">
-
-<img src="/images/NCASRobot/ncas005.png" width=“400">
-
-<img src="/images/NCASRobot/ncas006.png" width=“400">
-
-<img src="/images/NCASRobot/ncas007.png" width=“400">
+<img src="/images/NCASRobot/ncas007.png" width="400">
 
 ## This is rendered in an environment
 
-<img src="/images/NCASRobot/ncas003.png" width=“400">
+<img src="/images/NCASRobot/ncas003.png" width="400">
+
 
 ## Anyways, this is just a post
 - It means nothing, and there are just photos I found from back then. It's really cool to see how everything has evolved.
