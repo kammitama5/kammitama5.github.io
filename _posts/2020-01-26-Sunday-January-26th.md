@@ -13,8 +13,8 @@
 
 ## I consider myself a maker
 
-- It's weird when people tell me today that I can't do robot things because I work in programming languages research,
-  because between 2008 and 2017-ish, all I did was robot-related tech stuff, hardware and soldering (I worked as an electronics and high speed camera technician for a good 8 years), and somewhere between 2014 to 2017, 
+- It's weird when people tell me today that I can't do robot things or don't understand computer vision stuff because I work in programming languages research,
+  because between 2008 and 2017-ish, all I did was robot-related tech stuff, camera stuff, hardware and soldering (I worked as an electronics and high speed camera technician for a good 8 years), and somewhere between 2014 to 2017, 
   I was also painting and drawing and learning 3D modelling. 
   I always thought that to be able to express an idea, it would
   benefit a person to learn those tools. But anyways, I spent some time learning some creative tech stuff, 
