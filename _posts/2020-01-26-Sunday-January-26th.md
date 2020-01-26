@@ -71,7 +71,7 @@
 - It means nothing, and there are just photos I found from back then. It's really cool to see how everything has evolved.
   I don't know exactly how I ended up here, and when people say "how did you get into computer science", it takes a minute.
   To me, it's all the same thing; wanting to be a maker and specifically, to do things that will make a difference; an 
-  optimism and desire to do good, and to be a creative. And that is why I'm exited and optimistic about the future.
+  optimism and desire to do good, and to be a creative. And that is why I'm excited and optimistic about the future.
   
 ## And that's it
 
