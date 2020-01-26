@@ -46,7 +46,7 @@
 - These are from 2016.
 
 ## This is the original wireframe CAD drawing
-<img src="/images/MIT_small/mit_002.png" width="300">
+<img src="/images/NCASRobot/ncas002.png" width="400">
 
 <img src="/images/NCASRobot/ncas004.png" width=“400">
 
