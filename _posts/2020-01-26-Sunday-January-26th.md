@@ -4,7 +4,7 @@
   hang out every month with a bunch of NASA scientists; we would go drinking together. They had all done PhDs, and something about their values
   and commitment to selfless research was very appealing to me. So that's where this started for me. 
 - I went to a Linux event at a regular Meetup (one of the runners of the group did later on go on to work for JPL), and there
-  always seemed to be a pretty large gathering of NASA scientists at this event. JPL-ers are a pretty fun bunch; one of them once made a virtual planetarium for us, another let us look through some telescopes at JPL, and yet another was doing work with a 3D lidar scanner connected to a cat foot can in his spare time. The first Linux Meetup I attended was by a scientist
+  always seemed to be a pretty large gathering of NASA scientists at this event. JPL-ers are a pretty fun bunch with a distinct sense of humour; one of them once made a virtual planetarium for us, another let us look through some telescopes at JPL, and yet another was doing work with a 3D lidar scanner connected to a cat foot can in his spare time. The whole maker/hacker scene there excited me. There was a sort of playfulness about scientific discovery that was also very creative. Cross-disciplinary training was encouraged. The first Linux Meetup I attended was by a scientist
   who worked on NASA's OnSight, which is their planetary geology VR device with a hololens. He still joked that "of course you
   of all people would like a language like Haskell". YES.
 - But I made friends with a scientist/mathematician there, and we never really went back to that event; instead, we hung out
