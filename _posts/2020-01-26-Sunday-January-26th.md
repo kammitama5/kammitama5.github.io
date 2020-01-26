@@ -52,7 +52,7 @@
 ## This is the original wireframe CAD drawing
 <img src="/images/NCASRobot/ncas005.png" width="500">
 
-## Top and Elevated View
+## Top Plan and Side Elevation Views
 
 <img src="/images/NCASRobot/ncas004.png" width="500">
 
