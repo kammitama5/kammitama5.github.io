@@ -17,8 +17,8 @@
   because between 2008 and 2017-ish, all I did was robot-related tech stuff, hardware and soldering (I worked as an electronics and high speed camera technician for a good 8 years), and somewhere between 2014 to 2017, 
   I was also painting and drawing and learning 3D modelling. 
   I always thought that to be able to express an idea, it would
-  benefit a person to learn those tools. But anyways, I spent some time learning some creative tech stuff. 
-  Either through exoskeleton stuff, 3D modelling,
+  benefit a person to learn those tools. But anyways, I spent some time learning some creative tech stuff, 
+  either through exoskeleton stuff, 3D modelling,
   mentoring students, being part of hobby robotics groups such as SV-ROS, etc. In California, there is a lot of that,
   and people are intellectually curious in general, so you get a lot of people who pick up a machine shop class just
   to gain the skills for a thing they're trying to build. I miss that freedom these days. I used to be a part of a hackerspace
