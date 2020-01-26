@@ -9,7 +9,7 @@
   of all people would like a language like Haskell". YES.
 - But I made friends with a scientist/mathematician there, and we never really went back to that event; instead, we hung out
   every Thursday, and he encouraged me to go to grad school. He's still a strong mentor and advocate for me today. So I guess
-  I'm this weird film-school scientist girl now.
+  I'm this weird film-school electronics/camera technician concept design computer scientist girl now.
 
 ## I consider myself a maker
 
