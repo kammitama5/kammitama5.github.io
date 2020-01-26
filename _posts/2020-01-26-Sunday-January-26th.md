@@ -47,21 +47,21 @@
 
 ## This is the original wireframe CAD drawing
 
-<img src="/images/NCASRobot/ncas_004.png" width=“400">
+<img src="/images/NCASRobot/ncas004.png" width=“400">
 
-<img src="/images/NCASRobot/ncas_001.png" width=“400">
+<img src="/images/NCASRobot/ncas001.png" width=“400">
 
-<img src="/images/NCASRobot/ncas_002.png" width=“400">
+<img src="/images/NCASRobot/ncas002.png" width=“400">
 
-<img src="/images/NCASRobot/ncas_005.png" width=“400">
+<img src="/images/NCASRobot/ncas005.png" width=“400">
 
-<img src="/images/NCASRobot/ncas_006.png" width=“400">
+<img src="/images/NCASRobot/ncas006.png" width=“400">
 
-<img src="/images/NCASRobot/ncas_007.png" width=“400">
+<img src="/images/NCASRobot/ncas007.png" width=“400">
 
 ## This is rendered in an environment
 
-<img src="/images/NCASRobot/ncas_003.png" width=“400">
+<img src="/images/NCASRobot/ncas003.png" width=“400">
 
 ## Anyways, this is just a post
 - It means nothing, and there are just photos I found from back then. It's really cool to see how everything has evolved.
