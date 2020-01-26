@@ -37,7 +37,7 @@
   and make several designs for possible Mars robots that might work for the 2020 mission. 
   
 ## At the time
-- I was in love with the 3D modelling programme Rhino, at the time, so I used it to do quick mock-ups and designs for
+- I was in love with the 3D modelling programme Rhino (which is used moreso by architects and product designers; a guy who introduced me many years ago to the technology now works for FAANG), at the time, so I used it to do quick mock-ups and designs for
   these, and thought of drones that might fit in a quadrant design with rotors and drills and that would recharge 
   on the larger rover. In retrospect, maybe it was pretty silly to expect the smaller drone to also have a drill,
   because that would use a lot of power, but it's still a fun project to go back and look at, and I did end up
