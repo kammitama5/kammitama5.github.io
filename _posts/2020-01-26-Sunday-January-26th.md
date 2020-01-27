@@ -28,8 +28,8 @@
   but coffee and the models would come in and pose and we would draw them and listen to music, which was often a dj live-coding! 
  
 ## Somehow that ended up in a Space thing
-- I segued from architectural parametric modelling node-based programming into committing to learning about robots 
-  fully around 2014. I attended a school in which my professors were actually working on the Mars 2020 rover. It was a pretty
+- I segued from architectural parametric modelling node-based programming (circa 2014-2016) into committing to learning about robots 
+  fully around 2016. I attended a school in which my professors were actually working on the Mars 2020 rover. It was a pretty
   wild experience, to be honest. I also made friends with a guy who programmed robots in a dialect of Lisp, but I've lost
   touch with him. 
   
