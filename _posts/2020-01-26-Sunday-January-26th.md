@@ -46,8 +46,8 @@
 ## Here are some of the models I found from my proposal.
 - These are from 2016. The details about squirrel fans are there because I *worked* with them day to day, both 12v and
   24v ones. Also, stereoscopic cameras, from one of the jobs I had, where we had both beamsplitter cameras and side by side
-  stereoscopic cameras that would have to be calibrated. I'm doing a PhD right now, but I also think in the future a lot of 
-  these random skills might prove to be worthwhile that I've accrued over the years...somehow.
+  stereoscopic cameras that would have to be calibrated via [lens collimation](https://en.wikipedia.org/wiki/Collimator). I'm doing a PhD right now in Computer Science, but I also think in the future a lot of 
+  these random skills might prove to be worthwhile that I've accrued over the years...somehow. I know a lot about how light works, how images work, how cameras work, and a bit of electronics (in one class, a professor once tried to convince me to get electronics certification, but I was already hooked on CS by then).
 
 ## This is the original wireframe CAD drawing
 <img src="/images/NCASRobot/ncas005.png" width="500">
