@@ -26,6 +26,9 @@
   robotics used on parametric modelling node-based programming. Oh yeah, and sometimes there would be charcoal drawing
   in there, too, and I would attend 72 hour long drawing events, where people would stay up for 72 hours and live on nothing
   but coffee and the models would come in and pose and we would draw them and listen to music, which was often a dj live-coding! 
+
+## My first software onsite
+- My first software onsite was for a robotics company, and my challenges were in C and C++. I believe that my school curriculum at the time, my interests in robotics in general, and my love of hackerspaces were the result of that, even though I was pretty green at the time. Also, the technical side of the film industry (which is where I started) has an extensive number of robotics and robotics-related technologies (think cameras, camera cranes, cameras on all sorts of wires that move and do the same things repeatedly for each shot, or motorized vehicles with cameras on them). One of the companies I worked for had quite a few patents in robotics technology, and our sister company worked on exoskeletons. So yeah; I know a thing or two about robots.
  
 ## Somehow that ended up in a Space thing
 - I segued from architectural parametric modelling node-based programming (circa 2014-2016) into committing to learning about robots 
