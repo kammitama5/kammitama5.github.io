@@ -9,7 +9,8 @@
 
 ## 2020
 
-- I received an Invitation to attend [TechTogetherBoston2020](https://boston.techtogether.io/), Boston's Largest All-Female Hackathon [ Jan ]  
+- I received an Invitation to attend [TechTogetherBoston2020](https://boston.techtogether.io/), Boston's Largest All-Female Hackathon [ Jan ]
+- I received an Invitation to attend [WiHacks](https://wichacks.io/), RIT's all-female and non-binary 24-hour hackathon [ Jan ]  
 - I'm giving a talk at the Women in Data Science Meetup on Feb 3rd on Why Conferences Matter (inspired by Neurips) [ Feb ]
 - I'm TA-ing two classes in Spring; one is a Compilers course in Haskell, and another CS basics (Advanced Web Design) course [ Jan - May ]
 - I'm working with a team of 5 researchers (mostly located on the East Coast) to plan the Black in AI lunch event on Sunday Feb 9th at AAAI this year. [ Jan ]
