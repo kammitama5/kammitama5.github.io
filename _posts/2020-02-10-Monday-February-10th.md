@@ -1,7 +1,7 @@
 ## My first AAAI
 
 ## How do you know that you belong in a place?
-- I was thinking about the answer to this question today, as I was grading the last of homework before heading to sleep, at 1am.
+- I was thinking about the answer to this question today, as I was grading the last of homework before heading to sleep, at 3 am.
 - I attended my first AAAI conference this weekend. Alas, I have class, and I don't intend to miss any this semester, so I
   could only stay for two days, but it was really worth it for me.
   
