@@ -45,7 +45,7 @@
 
 <img src="/images/AAAI_small/aaai_006.png" width="400">
 
-- So appropriate! I love NYC's energy!
+- So appropriate! I love NYC's energy! Dance iguana, daaaance!
 
 ## View from my room!
 
