@@ -46,6 +46,10 @@
   because that would use a lot of power, and the weight of the drone would be a consideration, but it's still a fun project to go back and look at, and I did end up
   at the workshop, after all, scoring a perfect score on my project. 
   
+## Here is an article on us at JPL
+- [Courtesy of NASA](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/)
+- I found this while looking up my mentor for our team, O Polanco, who was (at the time) working as a mechanical engineer for JPL. This was my first time at JPL.
+  
 ## Here are some of the models I found from my proposal.
 - These are from 2016. The details about squirrel fans are there because I *worked* with them day to day, both 12v and
   24v ones. Also, stereoscopic cameras, from one of the jobs I had, where we had both beamsplitter cameras and side by side
