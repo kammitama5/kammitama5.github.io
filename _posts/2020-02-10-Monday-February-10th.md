@@ -89,6 +89,12 @@
 
 - They (Papillon Bistro) were really professional, and very prompt and helpful and it was just a great experience working with them!
 
+## A friend takes a Selfie during the Black in AI AAAI 2020 lunch!
+<img src="/images/AAAI_small/aaai_keith.png" width="400">
+
+- I have not seen this guy in more than a decade! We were in choir together in high school in Trinidad! Amazingness!
+  Was fun catching up! Totally unexpected!
+
 ## Fellows Talk
 - The three Turing award winners spoke; Hinton, Bengio and LeCun. Each for 20 minutes about what they're currently working on
 
