@@ -18,6 +18,7 @@
 - I received funding to attend ICERM's "Variable Precision in Mathematical and Scientific Computing" at Brown University from May 6th through the 8th [ Jan ]
 - I'm a reviewer for the Tapia Conference Workshops and Panels [ Feb ] 
 - I'm a reviewer for the ICLR 2020 PML4DC Workshop [ Feb ]
+- I received an invitation to give a 2 minute talk and present a poster at CMU for their AI for Social Good Symposium [ Feb ]
 
 ## 2019
 
