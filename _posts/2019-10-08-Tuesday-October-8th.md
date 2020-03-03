@@ -19,6 +19,7 @@
 - I'm a reviewer for the Tapia Conference Workshops and Panels [ Feb ] 
 - I'm a reviewer for the ICLR 2020 PML4DC Workshop [ Feb ]
 - I received an invitation to give a 2 minute talk and present a poster at CMU for their AI for Social Good Symposium [ Feb ]
+- I've been invited to become a Committee member for the HCI GHC 2020 track [ March ]
 
 ## 2019
 
