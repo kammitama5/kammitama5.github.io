@@ -20,6 +20,8 @@
 - I'm a reviewer for the ICLR 2020 PML4DC Workshop [ Feb ]
 - I received an invitation to give a 2 minute talk and present a poster at CMU for their AI for Social Good Symposium [ Feb ]
 - I've been invited to become a Committee member for the HCI GHC 2020 track [ March ]
+- I received a grant to attend MSRI's Optimal Transport and Applications to Machine Learning and Statistics Workshop [ March ]
+
 
 ## 2019
 
