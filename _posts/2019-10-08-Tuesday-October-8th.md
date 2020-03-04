@@ -23,6 +23,7 @@
 - I received a grant to attend MSRI's Optimal Transport and Applications to Machine Learning and Statistics Workshop [ March ]
 
 
+
 ## 2019
 
 - I wrapped up / completed a local internship in El Segundo [ Jan ]
