@@ -13,13 +13,14 @@
 - I received an Invitation to attend [WiHacks](https://wichacks.io/), RIT's all-female and non-binary 24-hour hackathon [ Jan ]  
 - I'm giving a talk at the Women in Data Science Meetup on Feb 3rd on Why Conferences Matter (inspired by Neurips) [ Feb ]
 - I'm TA-ing two classes in Spring; one is a Compilers course in Haskell, and another CS basics (Advanced Web Design) course [ Jan - May ]
+- I am a member of the OpenMined Women of OpenMined group; we have a study group where we learn about Differential Privacy and work up to contributing to the OpenMined codebase and take part in competitions (most members are in grad school or seasoned researchers/engineers) [ Jan ]
 - I'm working with a team of 5 researchers (mostly located on the East Coast) to plan the Black in AI lunch event on Sunday Feb 9th at AAAI this year. [ Jan ]
 - I will also be a panelist and mentor for [Try AI](https://sites.google.com/g.harvard.edu/tryai/home?authuser=0) during the AAAI conference, which is half a day of mentorship for young women to encourage them to study STEM and AI/ML [ Jan ]
 - I received funding to attend ICERM's "Variable Precision in Mathematical and Scientific Computing" at Brown University from May 6th through the 8th [ Jan ]
 - I'm a reviewer for the Tapia Conference Workshops and Panels [ Feb ] 
 - I'm a reviewer for the ICLR 2020 PML4DC Workshop [ Feb ]
 - I received an invitation to give a 2 minute talk and present a poster at CMU for their AI for Social Good Symposium [ Feb ]
-- I've been invited to become a Committee member for the HCI GHC 2020 track [ March ]
+- I've been invited to become a Committee member for the HCI GHC (Grace Hopper Conference) 2020 track [ March ]
 - I received a grant to attend MSRI's Optimal Transport and Applications to Machine Learning and Statistics Workshop [ March ]
 
 
