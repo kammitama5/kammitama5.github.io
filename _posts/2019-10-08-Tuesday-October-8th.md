@@ -22,6 +22,7 @@
 - I received an invitation to give a 2 minute talk and present a poster at CMU for their AI for Social Good Symposium [ Feb ]
 - I've been invited to become a Committee member for the HCI GHC (Grace Hopper Conference) 2020 track [ March ]
 - I received a grant to attend MSRI's Optimal Transport and Applications to Machine Learning and Statistics Workshop [ March ]
+- I've been invited to do a podcast for Corecursive [ March ]
 
 
 
