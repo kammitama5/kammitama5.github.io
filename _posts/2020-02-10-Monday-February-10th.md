@@ -111,5 +111,10 @@
 
 ## And that's it
 
+## Update
+- AAAI has been thoughtful and generous enough to send all Chairs and Committee members Certificates of Appreciation!
+  Truly thankful for this!
+  
+
   
 
