@@ -89,6 +89,10 @@
 - Programming Languages (in Haskell) (225) (SP20)
 - Research credits (491) (SP20)
 
+## TODO (2020)
+- Deep Learning (FA20)
+- Secure Compututation (FA20)
+
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
 - Numerical Computation
