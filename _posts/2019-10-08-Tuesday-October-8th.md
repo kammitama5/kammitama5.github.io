@@ -90,8 +90,9 @@
 - Research credits (491) (SP20)
 
 ## TODO (2020)
-- Deep Learning (FA20)
+- Deep Learning (FA/SP20)
 - Secure Compututation (FA20)
+- Reinforcememt Learning (FA20)
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
