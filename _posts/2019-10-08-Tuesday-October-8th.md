@@ -99,6 +99,7 @@
 - Numerical Computation
 - Compilers
 - Deep Learning
+- Reinforcement Learning
 - Evolutionary Robotics
 - A Complex Systems course (of some kind)
 
