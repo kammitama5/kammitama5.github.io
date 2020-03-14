@@ -37,6 +37,7 @@ be TA-ing a Compilers course in Haskell and another CS course.
 ### Other 
 
 - [Gist of Things (Resume)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_3_10_2020.pdf)
+- [Gist of Professional Things (CV)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_KM_3_13_2020.pdf)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 
 ### Groups I'm in
