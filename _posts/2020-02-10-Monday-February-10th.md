@@ -114,7 +114,8 @@
 ## Update
 - AAAI has been thoughtful and generous enough to send all Chairs and Committee members Certificates of Appreciation!
   Truly thankful for this!
-  
 
-  
+<img src="/images/AAAI_small/aaai_cert1.png" width="400">
+
+<img src="/images/AAAI_small/aaai_cert2.png" width="400">
 
