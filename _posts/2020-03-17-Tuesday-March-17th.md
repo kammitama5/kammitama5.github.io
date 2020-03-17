@@ -6,7 +6,7 @@
   about sanitation in general because I have access to things I have control over, vs public facilities, etc.
 - I have a soft-margin work schedule, so I've been getting work done. These days, I'm working on 
   a Machine Learning project, going over all the chapters from the first half of the semester, setting
-  up stuff so I'm reading to TA virtually (which, I've done in the past via Udacity anyways, in groups of
+  up stuff so I'm ready to TA virtually (which, I've done in the past via Udacity anyways, in groups of
   30 students; maybe grad student committees should put more weight on these skills in the future :D 
 - I'm also taking a machine learning course on neural networks, and enjoying it thus far. It will put me 
   in good shape for my class, which starts on Wednesday. 
