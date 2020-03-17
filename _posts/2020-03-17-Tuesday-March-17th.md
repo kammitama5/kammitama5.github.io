@@ -47,6 +47,19 @@
   this opportunity already (I know that I've been approached at least one time for this), but it's a great opportunity
   to do so, with great reach and impact. 
   
+## Change is inevitable
+- A person made a post a week ago about the LA area needing persons with lab-type experience. There is apparently a shortage
+  in LA. My first instinct was that if I lived in LA, I would certainly have helped out. I did spend 7 weeks of a summer 
+  in the Gambia, and I worked in both a Pharmacy dispensing and writing prescriptions, immunizing children in a nearby 
+  village, and checking the blood pressure of many persons old and young. If there was ever a need in my area, I would do 
+  the same to the best of my ability, also. Interestingly, a week ago, I was interviewed by local News agency and I asked
+  the reporter afterwards about lab capability, because I know the constraints of lab workers in terms of time and workforce.
+- It's been interesting to see the world adapt and for people to discover things which were kind of in the works anyways. 
+  Sometimes all the clues are there; you just have to take the time to listen. I am happy that years ago I adapted my life
+  so that I can pretty much exist mostly remotely, have a career that I can do remotely, etc. I think of some of the earlier
+  parts of my life, and how heavily it would have been impacted by the world's current events, and I feel grateful.
+  I also feel grateful that I can help others who weren't so fortunate.
+  
 ## Anyways, that's about all I have to say for now
 - Stay well, and wash your hands :D 
   
