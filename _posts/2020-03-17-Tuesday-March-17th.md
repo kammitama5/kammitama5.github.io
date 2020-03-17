@@ -38,8 +38,10 @@
 ## Opportunities arise when things change
 - My dad is very involved in the Church community, and was asking me for recommendations about computer cameras this week,
   because of my background (I haven't kept up with camera technology in years; probably since 2013?). I said that I 
-  wasn't really an expert, but I was able to give advice to send him in the right direction based on things he should look for.
-  He put it well, that basically the situation has "sped up parts of our lives that were inevitable" 
+  wasn't really an expert, but I was able to give advice to send him in the right direction based on things he should look for. 
+- He is in an interesting situation; the congregation of most churches is mostly the elderly, which is a high-risk group.
+  However, they are not typically the most technologically-savvy. So those are two challenges.
+- He put it well, that basically the situation has "sped up parts of our lives that were inevitable" 
   (eg speaking and working more remotely). A lot of my work has been in remote, cross-functional teams anyways these days,
   so this is pretty normal for me; I feel like a fish in water.
 - Another professor (the lovely Dr. Jones) suggested that if we had a conference talk or something we were passionate about,
