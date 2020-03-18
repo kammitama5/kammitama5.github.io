@@ -24,13 +24,17 @@
 
 ## I volunteered on a panel also
 - I volunteered to be on a panel for Try AI, in which we spoke with students from CUNY (City University in New York). It was
-  awesome. Liz (a grad student at Harvard) put the event on and it was a memorable experience for me getting to see high schoolers passionate about the 
+  awesome. Liz (a PhD student at Harvard) put the event on and it was a memorable experience for me getting to see high schoolers passionate about the 
   future of AI. I'm thankful for that opportunity.
   
 <img src="/images/AAAI_small/aaai_003.png" width="400">
 
 - They are amazing and have such a bright future! I would definitely participate again next year!
 
+<img src="/images/AAAI_small/tryai_001.jpeg" width="400">
+
+- photo courtesy of M. Tambe of Harvard, at the Try AI panel. Liz is in the photo, and my profile photo is in the back.
+  This was a lovely experience!
 
 <img src="/images/AAAI_small/aaai_005.png" width="400">
 
