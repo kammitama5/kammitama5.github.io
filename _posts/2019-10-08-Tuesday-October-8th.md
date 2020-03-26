@@ -24,7 +24,7 @@
 - I received a grant to attend MSRI's Optimal Transport and Applications to Machine Learning and Statistics Workshop [ March ]
 - I've been invited to do a podcast for Corecursive [ March ]
 - I am a member of the MD4SG Education Working group, which meets every other week and has a private Fb group to discuss papers, research, plans moving forward [ March ] 
-
+- I received a pass to attend the NVIDIA GTC Deep Learning Institute's workshop on "Anomaly Detection using Deep Learning", which is courtesy of Black in AI and LXAI [ March ]
 
 
 ## 2019
