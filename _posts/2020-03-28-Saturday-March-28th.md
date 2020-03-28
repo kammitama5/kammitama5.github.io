@@ -23,7 +23,7 @@
 Zaha Hadid, meeting and speaking with Will Wright, and taking one of my first Python workshops ever with architect
 and designer [Marc Fornes](https://theverymany.com/)), in which 3D models were made using Rhino and then
   3D printed. Could we make these kinds of topological meshes based on parametric modelling using Haskell?
-- I had noticed that many of Zaha's architects, who held one of the most popular workshpops, had backgrounds in 
+- I had noticed that many of Zaha's architects, who held one of the most popular workshops, had backgrounds in 
  programming. I guess that all of that had an influence on what I thought about programming, and my curiosity began.
  They were friendly to me, and some of them would say "I'm not really an architect; I just know programming". One of
  the guys who worked on the Rhino software was also in attendance (a guy named Steve), and I asked him once if he 
