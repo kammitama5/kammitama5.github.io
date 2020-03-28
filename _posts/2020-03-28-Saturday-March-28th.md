@@ -20,7 +20,7 @@
 <img src="/images/AAAI_small/fishtopos.png" width="400">
 
 - This was a model created by a student group at USC during [ACADIA](https://news.usc.edu/70069/attendance-at-acadia-architecture-conference-soars/) (in 2014, when I attended; I also had the privilege of attending the lecture by 
-Zaha Hadid, meeting and speaking with Will Wright, and taking one of my first Python workshops ever with architect
+Zaha Hadid, meeting and speaking with Will Wright on swarm robotics (I was reading a book at the time, asked him if he had heard of it, to which he responded "no; please tell me all about it!", and taking one of my first Python workshops ever with architect
 and designer [Marc Fornes](https://theverymany.com/)), in which 3D models were made using Rhino and then
   3D printed. I can't believe I can still find articles like [this](https://news.usc.edu/69842/architects-and-designers-coming-to-usc-for-global-technology-conference/), which explain just how creative and exciting this conference was at the time. I still have a question; could we make these kinds of topological meshes based on parametric modelling using Haskell?
 - I had noticed that many of Zaha's architects, who held one of the most popular workshops, had backgrounds in 
