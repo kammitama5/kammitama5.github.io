@@ -15,6 +15,8 @@
   would lend itself quite easily to doing interesting things like that. Most of the stuff I did was either node-based
   or involved languages like Python or C#.
   
+<img src="/images/AAAI_small/fishtopos.png" width="500">
+  
 ## This Self-Isolation
 - I've been enjoying the self-isolation. Early on, my parents taught me to enjoy keeping my own company, so this is not
   as big of a deal as others have made it out to be. In fact, I have found that I have to limit outside online interaction
