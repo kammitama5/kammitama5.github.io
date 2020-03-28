@@ -15,7 +15,7 @@
   would lend itself quite easily to doing interesting things like that. Most of the stuff I did was either node-based
   or involved languages like Python or C#.
   
-<img src="/images/AAAI_small/fishtopos.png" width="500">
+<img src="/images/AAAI_small/fishtopos.png" width="400">
   
 ## This Self-Isolation
 - I've been enjoying the self-isolation. Early on, my parents taught me to enjoy keeping my own company, so this is not
