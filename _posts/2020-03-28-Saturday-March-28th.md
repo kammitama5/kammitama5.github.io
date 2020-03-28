@@ -20,7 +20,8 @@
 <img src="/images/AAAI_small/fishtopos.png" width="400">
 
 - This was a model created by a student group at USC during [ACADIA](https://news.usc.edu/70069/attendance-at-acadia-architecture-conference-soars/) (in 2014, when I attended; I also had the privilege of attending the lecture by 
-Zaha Hadid and meeting and speaking with Will Wright), in which 3D models were made using Rhino and then
+Zaha Hadid, meeting and speaking with Will Wright, and taking one of my first Python workshops ever with architect
+and designer [Marc Fornes](https://theverymany.com/)), in which 3D models were made using Rhino and then
   3D printed. Could we make these kinds of topological meshes based on parametric modelling using Haskell?
 
 ## This Self-Isolation
