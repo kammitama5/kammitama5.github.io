@@ -15,8 +15,14 @@
   would lend itself quite easily to doing interesting things like that. Most of the stuff I did was either node-based
   or involved languages like Python or C#.
   
-<img src="/images/AAAI_small/fishtopos.png" width="400">
+## Parametric Modelling in Rhino
   
+<img src="/images/AAAI_small/fishtopos.png" width="400">
+
+- This was a model created by a student group at USC during [ACADIA](https://news.usc.edu/70069/attendance-at-acadia-architecture-conference-soars/) (in 2014, when I attended; I also had the privilege of attending the lecture by 
+Zaha Hadid and meeting and speaking with Will Wright), in which 3D models were made using Rhino and then
+  3D printed. Could we make these kinds of topological meshes based on parametric modelling using Haskell?
+
 ## This Self-Isolation
 - I've been enjoying the self-isolation. Early on, my parents taught me to enjoy keeping my own company, so this is not
   as big of a deal as others have made it out to be. In fact, I have found that I have to limit outside online interaction
