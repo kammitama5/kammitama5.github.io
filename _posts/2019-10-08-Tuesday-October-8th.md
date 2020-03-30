@@ -25,6 +25,7 @@
 - I've been invited to do a podcast for Corecursive [ March ]
 - I am a member of the MD4SG Education Working group, which meets every other week and has a private Fb group to discuss papers, research, plans moving forward [ March ] 
 - I received a pass to attend the NVIDIA GTC Deep Learning Institute's workshop on "Applications of AI for Anomaly Detection (LDLIW2249)", which is courtesy of Black in AI and LXAI [ March ]
+- I became part of the Open-Mined writing team, and will work with others to produce technical articles and blog posts involving Deep Learning and Differential Privacy, among other things [ March ]
 
 
 ## 2019
