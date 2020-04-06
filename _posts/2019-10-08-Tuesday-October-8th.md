@@ -88,8 +88,9 @@
 
 ## Anticipated Classes (enrolled)
 - Machine Learning (in Python) (254) (SP20)
-- Programming Languages (in Haskell) (225) (SP20)
-- Research credits (491) (SP20)
+- Research credits (491) (SP20)(FA20)
+- Secure Distributed Computation (395) (FA20)
+- Intro to Numerical Analysis (237) (FA20)
 
 ## TODO (2020)
 - Deep Learning (FA/SP20)
@@ -98,7 +99,6 @@
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
-- Numerical Computation
 - Compilers
 - Deep Learning
 - Reinforcement Learning
