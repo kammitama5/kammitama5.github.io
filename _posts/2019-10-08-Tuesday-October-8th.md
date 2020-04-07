@@ -26,6 +26,7 @@
 - I am a member of the MD4SG Education Working group, which meets every other week and has a private Fb group to discuss papers, research, plans moving forward [ March ] 
 - I received a pass to attend the NVIDIA GTC Deep Learning Institute's workshop on "Applications of AI for Anomaly Detection (LDLIW2249)", which is courtesy of Black in AI and LXAI [ March ]
 - I became part of the Open-Mined writing team, and will work with others to produce technical articles and blog posts involving Deep Learning and Differential Privacy, among other things [ March ]
+- I'm working my way through the DeepLearning.ai Specialization to complement my Machine Learning and Research coursework; I completed course 1 [ April ]
 
 
 ## 2019
@@ -93,8 +94,7 @@
 - Intro to Numerical Analysis (237) (FA20)
 
 ## TODO (2020)
-- Deep Learning (FA/SP20)
-- Secure Compututation (FA20)
+- Deep Learning (SP21)
 - Reinforcememt Learning (FA20)
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
