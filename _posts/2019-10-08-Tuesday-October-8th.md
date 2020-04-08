@@ -92,6 +92,7 @@
 - Research credits (491) (SP20)(FA20)
 - Secure Distributed Computation (395) (FA20)
 - Intro to Numerical Analysis (237) (FA20)
+- Privacy: Law, Policy, & Design (196) (FA20)
 
 ## TODO (2020)
 - Deep Learning (SP21)
