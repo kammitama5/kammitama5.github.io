@@ -47,6 +47,8 @@ be TA-ing a Compilers course in Haskell and another CS course.
 - [WINN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 - [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
+- [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
+- [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
 ### Contact me
 
