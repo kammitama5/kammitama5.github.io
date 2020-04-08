@@ -28,6 +28,7 @@
 - I received a pass to attend the NVIDIA GTC Deep Learning Institute's workshop on "Applications of AI for Anomaly Detection (LDLIW2249)", which is courtesy of Black in AI and LXAI [ March ]
 - I became part of the Open-Mined writing team, and will work with others to produce technical articles and blog posts involving Deep Learning and Differential Privacy, among other things [ March ]
 - I'm working my way through the DeepLearning.ai Specialization to complement my Machine Learning and Research coursework; I completed course 1 [ April ]
+- I've been selected to attend the Bloomberg Women in Engineering two-day event (which is now virtual) [ April ]
 
 
 ## 2019
