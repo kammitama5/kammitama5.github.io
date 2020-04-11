@@ -59,7 +59,7 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   companies and teams spoke more about things that gave meaning in tech. I say this also not as a beckoning to the shallow, 
   corporate public relations self-posturing of tech, but rather, I am suggesting the deeper, uncomfortable conversations
   about what is and isn't working with technology, why people lose their sense of self in tech, and how people can find
-  meanine in the work they do in tech. 
+  meaning in the work they do in tech. 
   
 ## I don't have too much else to say on this
 - I'm lost in the papers of others, under the shadow of others and of a system that seems to tell me again and again
@@ -68,7 +68,8 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   give up, and is that damage reparable?
   
 ## I guess that these are questions I can't answer
-- But in time. And that's it.
+- This post is a question, a discussion, and part of a stream of thoughts strung together.
+- And that's it.
   
   
   
