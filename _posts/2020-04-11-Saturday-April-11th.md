@@ -63,9 +63,10 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   
 ## I don't have too much else to say on this
 - I'm lost in the papers of others, under the shadow of others and of a system that seems to tell me again and again
-  that it was not meant for me. What does mean to an individual who wants to succeed in spite of that? Does that person
-  have to give up something about themselves to make it through such a system? And how much of themselves must they 
-  give up, and is that damage reparable?
+  that it was not meant for me. What does mean for an individual who wants to succeed in spite of that? Does that person
+  have to give up something about themselves to make it through such a system? Can they have an impact and change the system
+  in some small way just by being a part of that very system? And how much of themselves must they give up, 
+  and is that damage reparable?
   
 ## I guess that these are questions I can't answer
 - This post is a question, a discussion, and part of a stream of thoughts strung together.
