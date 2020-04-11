@@ -60,6 +60,11 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   corporate public relations self-posturing of tech, but rather, I am suggesting the deeper, uncomfortable conversations
   about what is and isn't working with technology, why people lose their sense of self in tech, and how people can find
   meaning in the work they do in tech. 
+- I saw a bit of this exploration when I first got into tech, because people in tech were (at least, where I was located),
+  suddenly becoming a part of groups I was involved in, such as woodworking shops, metalworking, and drawing and painting 
+  classes. They were looking for ways to find beauty or meaning in the world, to make things that were their own, in some
+  existential conversation through craftsmanship. However, the Maker/Hackerspace culture has its own set of issues, which
+  I don't think are within the scope of this post to discuss.
   
 ## I don't have too much else to say on this
 - I'm lost in the papers of others, under the shadow of others and of a system that seems to tell me again and again
