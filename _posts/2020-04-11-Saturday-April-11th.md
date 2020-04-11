@@ -66,6 +66,12 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   existential conversation through craftsmanship. However, the Maker/Hackerspace culture has its own set of issues, which
   I don't think are within the scope of this post to discuss.
   
+## These questions aren't new
+- It's interesting to me that many startups cite individuals such as Jobs but do not speak more about the general culture 
+  of the time that made innovation possible. A lot of the tech and art and culture of the time came from a place of people
+  asking themselves *who they really were*. Some examples of these are found in works such as ["Zen and the Art of Motorcycle Maintenance"](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance). Somewhere along the way, that went
+  out of fashion, even though the progress of technology continued.
+  
 ## I don't have too much else to say on this
 - I'm lost in the papers of others, under the shadow of others and of a system that seems to tell me again and again
   that it was not meant for me. What does it mean for an individual who wants to succeed in spite of that? Does that person
