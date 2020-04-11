@@ -6,9 +6,11 @@
   One of the members of the group, who was working in industry, had commented, in response to the reaction from some others
   on the channel that he "forgot that most of us did not come from a hard sciences background, and that if we did, we would
   know that Science (or rather, the academic study of Science) is dehumanizing". 
-- I actually disagree on this; I think that on the contrary, from what I've seen (and having come from both a hard
-  sciences background *and* a liberal arts background; I was one of those early hybrids!), people in Science deflect
-  from answering difficult and uncomfortable questions. They deflect these questions by saying such statements.
+- My opinion, from what I've seen (and having come from both a hard
+  sciences background *and* a liberal arts background; I was one of those early hybrids!), is that people in Science deflect
+  from answering difficult and uncomfortable questions. They deflect these questions by saying such statements, because 
+  it is a method for not having to think or dig deeply into more difficult and challenging questions about the work they do
+  and larger social implications; we'll just pass it off by saying our field discourages the human element. Gross.
 - I thought about this a lot in the context of some (really late and) bad news about a friend, and some other news 
   about another close relative who passed away a few years ago that I found out had relayed to a stranger that they 
   thought that their life had been a waste. In a timely discussion, this week's topic for an online book club was on Ethics
