@@ -69,7 +69,7 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
 ## These questions aren't new
 - It's interesting to me that many startups cite individuals such as Jobs but do not speak more about the general culture 
   of the time that made innovation possible. A lot of the tech and art and culture of the time came from a place of people
-  asking themselves *who they really were*. Some examples of these are found in works such as ["Zen and the Art of Motorcycle Maintenance"](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance). Somewhere along the way, that went
+  asking themselves *who they really were*, about the human condition and about the nature of work and meaning. Some examples of these are found in works such as ["Zen and the Art of Motorcycle Maintenance"](https://en.wikipedia.org/wiki/Zen_and_the_Art_of_Motorcycle_Maintenance). Somewhere along the way, that went
   out of fashion, even though the progress of technology continued.
   
 ## I don't have too much else to say on this
