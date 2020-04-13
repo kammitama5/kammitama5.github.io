@@ -65,7 +65,7 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   he started his programming job, but it never does. I think that programming *is* both an art and a science, and I see it moreso as a tool, so I don't think his conversations are explicitly about *programming*. I think his larger battle is with finding himself in his work; it's
   something the artists did early on, by taking risks, and whether or not they fail or don't fail, they come out knowing
   a bit more about *who they are*. It's that growth process that can sometimes elude you if you've never struggled,
-  never asked those fundamental questions about who you are or if you really want to be doing the thing you're doing. 
+  never asked those fundamental questions about who you are or if you really want to be doing the thing you're doing. It's Jobs taking time off from Silicon Valley and success to spend time trekking about in India. 
 - I saw a bit of this exploration when I first got into tech, because people in tech were (at least, where I was located),
   suddenly becoming a part of groups I was involved in, such as woodworking shops, metalworking, and drawing and painting 
   classes. They were looking for ways to find beauty or meaning in the world, to make things that were their own, in some
