@@ -61,9 +61,9 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   about what is and isn't working with technology, why people lose their sense of self in tech, and how people can find
   meaning in the work they do in tech. 
 - I have a programmer friend who talks about wanting to go to art school constantly. He wants to leave his job to go to
-  grad school to study art. He talks about how he thought the feelings to make stuff and be artistic would go away once
-  he started his programming job, but it never does. I think his larger battle is with finding himself in his work; it's
-  something the artists do early on, by taking risks, and whether or not they fail or don't fail, they come out knowing
+  grad school to study art. He talks about how he thought the feelings to make stuff and be artistic would *go away* once
+  he started his programming job, but it never does. I think that programming *is* both an art and a science, and I see it moreso as a tool, so I don't think his conversations are explicitly about *programming*. I think his larger battle is with finding himself in his work; it's
+  something the artists did early on, by taking risks, and whether or not they fail or don't fail, they come out knowing
   a bit more about *who they are*. It's that growth process that can sometimes elude you if you've never struggled,
   never asked those fundamental questions about who you are or if you really want to be doing the thing you're doing. 
 - I saw a bit of this exploration when I first got into tech, because people in tech were (at least, where I was located),
