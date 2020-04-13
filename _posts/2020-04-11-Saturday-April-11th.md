@@ -87,7 +87,7 @@ that focuses on [Fairness and Transparency](https://facctconference.org/). I was
   
 ## I guess that these are questions I can't answer
 - This post is a question, a discussion, and part of a stream of thoughts strung together.
-- People in Vermont (usually my students, when they inevitably find my profile, or find out random things about me) ask me all the time why I left California, or Silicon Valley, and this post is the beginning of explaining why.
+- People in Vermont (usually my peers, when they inevitably find my profile, or find out random things about me by accident) ask me all the time why I left California, or Silicon Valley, and this post is the beginning of explaining why.
   I left because I thought that by doing a PhD, it could teach me more about who I was. That's a bigger lesson that is
   worth more than any amount of money could supply.
 - And that's it.
