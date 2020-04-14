@@ -97,17 +97,16 @@
 - Intro to Numerical Analysis (237) (FA20)
 - Privacy: Law, Policy, & Design (196) (FA20)
 
-## TODO (2020)
+## TODO (2020-21)
 - Deep Learning (SP21)
-- Reinforcememt Learning (FA20)
+- Reinforcememt Learning (FA21)
+- Algorithms (SP21)
+- Foundations of Quantitative Reasoning (FA21)
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Computational Physics
 - Compilers
-- Deep Learning
-- Reinforcement Learning
 - Evolutionary Robotics
-- A Complex Systems course (of some kind)
 
 ## I think this means I'm not doing *too* badly in my first semester
 
