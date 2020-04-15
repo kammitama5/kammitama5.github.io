@@ -30,6 +30,7 @@
 - I'm working my way through the DeepLearning.ai Specialization to complement my Machine Learning and Research coursework; I completed course 1 [ April ]
 - I've been selected to attend the Bloomberg Women in Engineering two-day event (which is now virtual) [ April ]
 - I've been selected as a volunteer for ICLR, which will be virtual this year [ April ]
+- I received Financial Aid to attend SciPy 2020, which is now virtual [ April ]
 
 
 ## 2019
