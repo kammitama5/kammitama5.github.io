@@ -31,6 +31,7 @@
 - I've been selected to attend the Bloomberg Women in Engineering two-day event (which is now virtual) [ April ]
 - I've been selected as a volunteer for ICLR, which will be virtual this year [ April ]
 - I received Financial Aid to attend SciPy 2020, which is now virtual [ April ]
+- I was offered a BRAID Funded Scholarship to attend the Grace Hopper Conference 2020. This will include accommodation during the conference, with the group. I accepted :) I'm thankful to my school and for BRAID for this opportunity [ April ]
 
 
 ## 2019
@@ -79,7 +80,7 @@
 - I received word that I am an NCWIT Finalist! [ Dec ]
 - I applied (and received an offer from) the Graduate Writing Centre; I will be learning how to write and mentoring students
   for around six hours a week in an interdisciplinary writing skillset at the graduate level (so reviewing and helping graduate students write papers in Literature, Materials Science, History, etc)! [ Dec ]
-- I was offered a BRAID Funded Scholarship to attend the Grace Hopper Conference 2020. This will include accommodation during the conference, with the group. I accepted :) I'm thankful to my school and for BRAID for this opportunity [ April ]
+
   
 ## TA
 - Programming for Engineers (Matlab) (20) (FA19)
