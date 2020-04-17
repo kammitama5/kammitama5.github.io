@@ -32,6 +32,7 @@
 - I've been selected as a volunteer for ICLR, which will be virtual this year [ April ]
 - I received Financial Aid to attend SciPy 2020, which is now virtual [ April ]
 - I was offered a BRAID Funded Scholarship to attend the Grace Hopper Conference 2020. This will include accommodation during the conference, with the group. I accepted :) I'm thankful to my school and for BRAID for this opportunity [ April ]
+- I have been accepted as an NCWIT Change Leader Scholar (CLS) pending my attendance in their introductory session. The Change Leader Scholarship Programme guides students to become leaders within their communities, particularly as women in STEM. It culminates in a Summit that is usually held in person, but will be held virtually this year [ April ]
 
 
 ## 2019
