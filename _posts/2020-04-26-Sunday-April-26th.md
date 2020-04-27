@@ -57,9 +57,11 @@
 - I am particularly sensitive to this topic not just because of my film background (where we spoke about topics like hegemony
   and objectification in recorded images), but also because they cover issues of consent and privacy (privacy, being my focus
   for grad school), and also because I am from a country with a rich history of grappling with the ideas and memory of 
-  [postcolonialism](https://en.wikipedia.org/wiki/Postcolonialism). I see myself as a young researcher who is idealistic and optimistic and passionate about Machine Learning and Privacy, and it sickens and exhausts me. And I'm frustrated because ego in a field makes things difficult to explain..until we hurt people. Or 
+  [postcolonialism](https://en.wikipedia.org/wiki/Postcolonialism). I see myself as a young researcher who is idealistic and optimistic and passionate about Machine Learning and Privacy, but some of the Academy assumptions sicken and exhaust me. 
+  And I'm frustrated because ego in a field makes things difficult to explain..until we hurt people. Or 
   they revolt. I joked that we should have a Hegemonic Index for measuring this relationship in data. Maybe it's not that funny
   of a joke and it's worth considering.
+ - I remember the work of [Jose Clemente Orozco](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco) and [Diego Rivera](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco); they had so many things to say about the interaction of technology and humans and class structures. Why aren't we re-exploring these points of view? Why aren't we deconstructing what we assume to be true? Aren't we scientists, after all? Isn't it our job to be curious, seek out true and be skeptical of things that present themselves as lazy answers to questions? 
   
 ## Anyways...
 - My friend recommended some books. I've bought them.
