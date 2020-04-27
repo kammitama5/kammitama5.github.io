@@ -36,7 +36,7 @@
 - I am not the biggest fan of downloading data from the internet and just using that. I'm highly sensitive to the idea
   that data is a proxy and a codified choice, yet there are so many fields that use it as a way of validating accuracy
   for a specific point of view. Coming from a film background, where we engaged in critical theory, and discussed that
-  a camera, even with the promise of objectivity, is not, it's easy for me to have issues with the concept of "data as truth".
+  a camera, even with the promise of objectivity, [is not](https://en.wikipedia.org/wiki/Triumph_of_the_Will), it's easy for me to have issues with the concept of "data as truth".
 - I'm also a huge fan of coming back to the source of data, and iterating through the process. I really have a silent 
   disdain for a one-all collection of data, to be used as "the model". It's frustrating to me, in ways I hint about later
   in this post. But broadly, it's the same way historically colonialist countries made assessments about the region in which
