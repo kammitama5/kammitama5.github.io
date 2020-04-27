@@ -57,7 +57,7 @@
 - I am particularly sensitive to this topic not just because of my film background (where we spoke about topics like hegemony
   and objectification in recorded images), but also because they cover issues of consent and privacy (privacy, being my focus
   for grad school), and also because I am from a country with a rich history of grappling with the ideas and memory of 
-  postcolonialism. And I'm frustrated because ego in a field makes things difficult to explain..until we hurt people. Or 
+  [postcolonialism](https://en.wikipedia.org/wiki/Postcolonialism). I see myself as a young researcher who is idealistic and optimistic and passionate about Machine Learning and Privacy, and it sickens and exhausts me. And I'm frustrated because ego in a field makes things difficult to explain..until we hurt people. Or 
   they revolt. I joked that we should have a Hegemonic Index for measuring this relationship in data. Maybe it's not that funny
   of a joke and it's worth considering.
   
