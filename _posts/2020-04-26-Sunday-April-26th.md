@@ -2,7 +2,7 @@
 
 ## I gave a talk at CMU's Symposium called AI for Good
 - I was supposed to present a poster at CMU, but the event went virtual,
-  so I was told I'd have 5 minutes to give a talk. These are my slides.
+  so I was told I'd have 5 minutes to give a talk. These are my slides (bottom of post).
 - Basically, it was one of the most horrifying moments ever for me because I realized
   there were between 60 and 90 people there, and notifications were going off in the chat,
   and I couldn't see the right hand side of my screen and the clock was ticking. But it was
