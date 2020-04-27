@@ -61,7 +61,7 @@
   And I'm frustrated because ego in a field makes things difficult to explain..until we hurt people. Or 
   they revolt. I joked that we should have a Hegemonic Index for measuring this relationship in data. Maybe it's not that funny
   of a joke and it's worth considering.
- - I remember the work of [Jose Clemente Orozco](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco) and [Diego Rivera](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco); they had so many things to say about the interaction of technology and humans and class structures. Why aren't we re-exploring these points of view? Why aren't we deconstructing what we assume to be true? Aren't we scientists, after all? Isn't it our job to be curious, seek out true and be skeptical of things that present themselves as lazy answers to questions? 
+ - I remember the work of [Jose Clemente Orozco](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco) and [Diego Rivera](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco); they had so many things to say about the interaction of technology and humans and class structures. Why aren't we re-exploring these points of view? Why aren't we deconstructing what we assume to be true? Aren't we scientists, after all? Isn't it our job to be curious, seek out truth and be skeptical of things that present themselves as easy, lazy answers to questions? 
   
 ## Anyways...
 - My friend recommended some books. I've bought them.
