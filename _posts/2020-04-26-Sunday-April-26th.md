@@ -44,6 +44,8 @@
   they disseminated into our culture (as we were under their control), and led to several decades of our citizens trying
   to figure out our own independent identities and historical truths from the half-truths and data points presented to us
   through textbooks they recommended for our "education".
+- How infantilized was our identity before we gained our Independence? I thought about this while growing up, comparing 
+  how some books would claim our [national heroes were distrupters and troublemakers](https://en.wikipedia.org/wiki/Tubal_Uriah_Butler), and we celebrated their valiance and their vision for a country where we could have our own freedom.
 - In short, you can see how I find things like "history", "data" and "education" to be fundamentally problematic when presumed
   to be fundamentally representative of some holistic "truth".
   
