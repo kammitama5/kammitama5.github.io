@@ -16,7 +16,7 @@
   working on a project in conjunction with the Economics department. Something about that was compelling to me.
   Maybe I just wanted to get away from the ego of Computer Science. Sometimes I feel like half of my mind
   is very passionate about Computer Science, programming, and tech, and the other part of me is ground down
-  by the arrogance and ego that is associated with the culture in that field. And that parts sometimes just wants
+  by the arrogance and ego that is associated with the culture in that field. And that part just wants
   a break. 
 - I found a cool spot on campus in that Department after I met with the professor, 
   and I never really returned to hanging out in my
