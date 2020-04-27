@@ -61,7 +61,7 @@
   
 ## Anyways...
 - My friend recommended some books. I've bought them.
-- One is "The Ethical Algorithm" by Kearns and Roth and the other is "Privacy: A short history" by Vincent.
+- One is ["The Ethical Algorithm"](https://www.youtube.com/watch?v=tmC9JdKc3sA) by Kearns and Roth and the other is ["Privacy: A short history"](https://www.google.com/books/edition/Privacy/TGSpCwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) by Vincent.
   If any of this resonates with you, I'd definitely recommend both!
   
 ## Oh yeah, my slides
