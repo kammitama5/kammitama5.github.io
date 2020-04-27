@@ -50,8 +50,8 @@
   to be fundamentally representative of some holistic "truth".
   
 ## It's a highly relevant topic
-- Machine Learning is very data-centric. There are wonderful [individuals](https://arxiv.org/pdf/1912.10389.pdf) dealing specifically with these challenges, and 
-  I was very pleased today to hear from some of them in keynotes during ICLR's Trust and Privacy track today. 
+- Machine Learning is very data-centric. There are wonderful [individuals](https://arxiv.org/pdf/1912.10389.pdf) [dealing specifically](http://www.towardtrustworthyai.com/) [with these challenges](http://md4sg.com/colloquium/index.html), and 
+  I was very pleased today to hear from some of them in keynotes during [ICLR's Trust and Privacy](https://trustworthyiclr20.github.io/) track today. 
 
 ## It's also relevant
 - I am particularly sensitive to this topic not just because of my film background (where we spoke about topics like hegemony
