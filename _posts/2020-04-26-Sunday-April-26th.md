@@ -9,7 +9,7 @@
   so relieving, I was thankful for the opportunity and heard from persons afterwards who wanted
   to keep in touch with me about the progress of the project.
 - What I got out of it was to be able to speak about a project I'm working on, to hear what other people
-  are working on, and that it is a thrilling process and I want to do that over and over.
+  are working on, and that was a thrilling process and I want to do that over and over.
   
 ## I got into the project by accident
 - I was searching for a project in class, and found a friend and classmate who was interested in
