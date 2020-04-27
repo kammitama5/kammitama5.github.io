@@ -32,7 +32,7 @@
   and that helps developers; you are there to faciliate them. It's an interesting correlation to how we can think of
   data collection and data modelling, because the goal is to build a robust, automatable model (which is similar to what
   Machine Learning models aim to be) that is a system that responds well to failures and facilitates those who use the
-  tools around it.
+  tools around it, as well as being attentive to a feedback loop from those who use it.
 - I am not the biggest fan of downloading data from the internet and just using that. I'm highly sensitive to the idea
   that data is a proxy and a codified choice, yet there are so many fields that use it as a way of validating accuracy
   for a specific point of view. Coming from a film background, where we engaged in critical theory, and discussed that
