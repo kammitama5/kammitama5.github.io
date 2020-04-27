@@ -55,28 +55,24 @@
   
 ## Oh yeah, my slides
 
-<img src="/images/AAAI_small/aaai_005.png" width="400">
-
 <img src="/images/AIgood2020/good_001.png" width="400">
 
-<img src="images/AI4good2020/good_001.png" width="500">
+<img src="/images/AIgood2020/good_002.png" width="400">
 
-<img src="images/AIgood2020/good_002.png" width="500">
+<img src="/images/AIgood2020/good_003.png" width="400">
 
-<img src="images/AIgood2020/good_003.png" width="500">
+<img src="/images/AIgood2020/good_004.png" width="400">
 
-<img src="images/AIgood2020/good_004.png" width="500">
+<img src="/images/AIgood2020/good_005.png" width="400">
 
-<img src="images/AIgood2020/good_005.png" width="500">
+<img src="/images/AIgood2020/good_006.png" width="400">
 
-<img src="images/AIgood2020/good_006.png" width="500">
+<img src="/images/AIgood2020/good_007.png" width="400">
 
-<img src="images/AIgood2020/good_007.png" width="500">
+<img src="/images/AIgood2020/good_008.png" width="400">
 
-<img src="images/AIgood2020/good_008.png" width="500">
+<img src="/images/AIgood2020/good_009.png" width="400">
 
-<img src="images/AIgood2020/good_009.png" width="500">
-
-<img src="images/AIgood2020/good_010.png" width="500">
+<img src="/images/AIgood2020/good_010.png" width="400">
   
 ## And that's it
