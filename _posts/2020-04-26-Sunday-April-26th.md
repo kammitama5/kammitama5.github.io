@@ -1,7 +1,7 @@
 ## The Horror and Hegemony
 
-## I gave a talk at CMU's Symposium called AI for Good
-- I was supposed to present a poster at CMU, but the event went virtual,
+## I gave a talk at CMU's Symposium on AI for Good
+- I was supposed to [present a poster at CMU, but the event went virtual](https://www.cs.cmu.edu/calendar/thu-2020-04-23-0900/2020-cmu-symposium-artificial-intelligence-and-social-good),
   so I was told I'd have 5 minutes to give a talk. These are my slides (bottom of post).
 - Basically, it was one of the most horrifying moments ever for me because I realized
   there were between 60 and 90 people there, and notifications were going off in the chat,
