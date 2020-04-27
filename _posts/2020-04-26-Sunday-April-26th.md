@@ -21,7 +21,7 @@
 - I found a cool spot on campus in that Department after I met with the professor, 
   and I never really returned to hanging out in my
   Department as much again. I took naps in that spot, ate lunch and would listen to the professors greet each other
-  in the morning. I became familiar with the office dog of the floor. 
+  in the morning. I became familiar with the office dog of the floor, and thumbed through free books left on shelves. 
   
 ## The work 
 - It's on work we're doing on implicit bias, in a way that might be helpful to the city. But we're trying to do it 
