@@ -37,6 +37,15 @@
   that data is a proxy and a codified choice, yet there are so many fields that use it as a way of validating accuracy
   for a specific point of view. Coming from a film background, where we engaged in critical theory, and discussed that
   a camera, even with the promise of objectivity, is not, it's easy for me to have issues with the concept of "data as truth".
+- I'm also a huge fan of coming back to the source of data, and iterating through the process. I really have a silent 
+  disdain for a one-all collection of data, to be used as "the model". It's frustrating to me, in ways I hint about later
+  in this post. But broadly, it's the same way historically colonialist countries made assessments about the region in which
+  I grew up; make a trip, come to a conclusion, leave. These methods then perpetuated themselves into the materials that
+  they disseminated into our culture (as we were under their control), and led to several decades of our citizens trying
+  to figure out our own independent identities and historical truths from the half-truths and data points presented to us
+  through textbooks they recommended for our "education".
+- In short, you can see how I find things like "history", "data" and "education" to be fundamentally problematic when presumed
+  to be fundamentally representative of some holistic "truth".
   
 ## It's a highly relevant topic
 - Machine Learning is very data-centric. There are wonderful individuals dealing specifically with these challenges, and 
