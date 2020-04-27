@@ -73,6 +73,6 @@
 
 <img src="images/AIgood2020/good_009.jpeg" width="500">
 
-<img src="images/AIgood2020/good_0010.jpeg" width="500">
+<img src="images/AIgood2020/good_010.jpeg" width="500">
   
 ## And that's it
