@@ -55,24 +55,24 @@
   
 ## Oh yeah, my slides
 
-<img src="images/AIgood2020/good_001.jpeg width="500">
+<img src="images/AIgood2020/good_001.png width="500">
 
-<img src="images/AIgood2020/good_002.jpeg" width="500">
+<img src="images/AIgood2020/good_002.png" width="500">
 
-<img src="images/AIgood2020/good_003.jpeg" width="500">
+<img src="images/AIgood2020/good_003.png" width="500">
 
-<img src="images/AIgood2020/good_004.jpeg" width="500">
+<img src="images/AIgood2020/good_004.png" width="500">
 
-<img src="images/AIgood2020/good_005.jpeg" width="500">
+<img src="images/AIgood2020/good_005.png" width="500">
 
-<img src="images/AIgood2020/good_006.jpeg" width="500">
+<img src="images/AIgood2020/good_006.png" width="500">
 
-<img src="images/AIgood2020/good_007.jpeg" width="500">
+<img src="images/AIgood2020/good_007.png" width="500">
 
-<img src="images/AIgood2020/good_008.jpeg" width="500">
+<img src="images/AIgood2020/good_008.png" width="500">
 
-<img src="images/AIgood2020/good_009.jpeg" width="500">
+<img src="images/AIgood2020/good_009.png" width="500">
 
-<img src="images/AIgood2020/good_010.jpeg" width="500">
+<img src="images/AIgood2020/good_010.png" width="500">
   
 ## And that's it
