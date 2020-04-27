@@ -50,7 +50,7 @@
   to be fundamentally representative of some holistic "truth".
   
 ## It's a highly relevant topic
-- Machine Learning is very data-centric. There are wonderful individuals dealing specifically with these challenges, and 
+- Machine Learning is very data-centric. There are wonderful [individuals](https://arxiv.org/pdf/1912.10389.pdf) dealing specifically with these challenges, and 
   I was very pleased today to hear from some of them in keynotes during ICLR's Trust and Privacy track today. 
 
 ## It's also relevant
