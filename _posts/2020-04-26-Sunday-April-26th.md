@@ -55,6 +55,8 @@
   
 ## Oh yeah, my slides
 
+<img src="/images/AAAI_small/aaai_005.png" width="400">
+
 <img src="images/AI4good2020/good_001.png" width="500">
 
 <img src="images/AIgood2020/good_002.png" width="500">
