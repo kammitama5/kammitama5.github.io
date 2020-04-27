@@ -55,24 +55,24 @@
   
 ## Oh yeah, my slides
 
-<img src="/images/AI4good2020/good_001.jpeg” width="500">
+<img src="images/AI4good2020/good_001.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_002.jpeg” width="500">
+<img src="images/AI4good2020/good_002.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_003.jpeg” width="500">
+<img src="images/AI4good2020/good_003.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_004.jpeg” width="500">
+<img src="images/AI4good2020/good_004.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_005.jpeg” width="500">
+<img src="images/AI4good2020/good_005.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_006.jpeg” width="500">
+<img src="images/AI4good2020/good_006.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_007.jpeg” width="500">
+<img src="images/AI4good2020/good_007.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_008.jpeg” width="500">
+<img src="images/AI4good2020/good_008.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_009.jpeg” width="500">
+<img src="images/AI4good2020/good_009.jpeg” width="500">
 
-<img src="/images/AI4good2020/good_0010.jpeg” width="500">
+<img src="images/AI4good2020/good_0010.jpeg” width="500">
   
 ## And that's it
