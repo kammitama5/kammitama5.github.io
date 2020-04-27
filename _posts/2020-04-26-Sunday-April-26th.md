@@ -33,6 +33,10 @@
   data collection and data modelling, because the goal is to build a robust, automatable model (which is similar to what
   Machine Learning models aim to be) that is a system that responds well to failures and facilitates those who use the
   tools around it, as well as being attentive to a feedback loop from those who use it.
+- Having spent some time archiving work (yes; newspaper clippings in giant file cabinets, as well as dv cassettes before I attended Undergraduate study), I think
+  that the Science community (I'm particularly looking at you who build fancy tools on github!) can do more to help make
+  these data collection and archival systems *better*. It's the least we can do. We trivialize data collection, and regard
+  it as a bit of a burden. 
 - I am not the biggest fan of downloading data from the internet and just using that. I'm highly sensitive to the idea
   that data is a proxy and a codified choice, yet there are so many fields that use it as a way of validating accuracy
   for a specific point of view. Coming from a film background, where we engaged in critical theory, and discussed that
