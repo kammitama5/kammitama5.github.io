@@ -64,7 +64,7 @@
  - I remember the work of [Jose Clemente Orozco](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco) and [Diego Rivera](https://en.wikipedia.org/wiki/Jos%C3%A9_Clemente_Orozco); they had so many things to say about the interaction of technology and humans and class structures. Why aren't we re-exploring these points of view? Why aren't we deconstructing what we assume to be true? Aren't we scientists, after all? Isn't it our job to be curious, seek out truth and be skeptical of things that present themselves as easy, lazy answers to questions? 
   
 ## Anyways...
-- My friend recommended some books. I've bought them.
+- My friend at Oxford recommended some books. I've bought them.
 - One is ["The Ethical Algorithm"](https://www.youtube.com/watch?v=tmC9JdKc3sA) by Kearns and Roth and the other is ["Privacy: A short history"](https://www.google.com/books/edition/Privacy/TGSpCwAAQBAJ?hl=en&gbpv=1&printsec=frontcover) by Vincent.
   If any of this resonates with you, I'd definitely recommend both!
   
