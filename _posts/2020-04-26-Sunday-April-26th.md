@@ -55,7 +55,7 @@
   
 ## Oh yeah, my slides
 
-<img src="images/AIgood2020/good_001.jpeg" width="500">
+<img src="images/AIgood2020/good_001.jpeg width="500">
 
 <img src="images/AIgood2020/good_002.jpeg" width="500">
 
