@@ -29,7 +29,7 @@
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern)
 
 ## Art
-- Art Director's Guild (Tuesday nights live drawing)
+- Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured.
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much)
