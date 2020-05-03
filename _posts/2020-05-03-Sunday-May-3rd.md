@@ -5,6 +5,7 @@
 - If you think I look familiar, we really might have met somewhere! 
 
 ## Institutions
+- Univesity of Vermont (currently, as of August 2019)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech)
 - Cornell University (took a course called Music, Light and Dance here in my final semester)
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
