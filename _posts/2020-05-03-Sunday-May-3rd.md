@@ -75,7 +75,7 @@
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester for six months (LA)
-- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg ICFP, POPL, PLDI) and Developer (Google I/O, Strange Loop, Defcon etc), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort.
+- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Strange Loop, Defcon etc), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort.
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc)
 - I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, etc
 
