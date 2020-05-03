@@ -34,7 +34,9 @@
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
 - Queen's Hall (in Trinidad); think the Maljo show
 - Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern)
-- Film Centre Building (worked in a lighting shop in NYC for a month as an intern)
+- Film Centre Building (worked in a lighting shop in NYC for a month as an intern, and replaced fixtures for an off-broadway
+  show called Forgotten on Broadway.
+- Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig).
 
 ## Art
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
