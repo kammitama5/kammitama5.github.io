@@ -60,6 +60,7 @@
 - Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture
 - MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :(
 - Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python)
+- Keystone Art Space (I think the building was bought by the Agassis and turned into a school) (LA)
 
 ## Hackerspaces
 - Null Space Labs (LA)
@@ -81,4 +82,6 @@
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc)
 - I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, etc
 
+## Sailing
+- I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group (LA)
 
