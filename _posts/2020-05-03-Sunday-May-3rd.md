@@ -10,13 +10,16 @@
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
-- Pasadena City College (took a bunch of architecture classes there; at one point I thought I wanted to be an architect!)
+- Pasadena City College (took a bunch of architecture classes there, machining and welding; at one point I thought I wanted to be an architect!)
 - Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
   admission into PhD candidacy
   
 ## Film
-- Too many films to name; probably around 200
-- I also worked in a camera shop and a lighting shop, prepping gear, troubleshooting and maintaining it
+- Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
+  Ali and Stacey Dash.
+- I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club
+- I also worked in a camera shop and a lighting shop, prepping gear, troubleshooting and maintaining it (mostly obscure, 
+ proprietary gear)
   
 ## Theatre
 - Trinidad Theatre Workshop (Trinidad)
@@ -39,18 +42,20 @@
 
 ## Art Makerspaces
 - Community Woodshop (LA) - took 2 classes there
-- Somewhere something (took a bunch of architecture-3D-node-programming classes there)
-
+- Somewhere something (took a bunch of architecture-3D-node-programming classes there) (LA)
+- Matt's Molten Metalworks (LA) - I took a few classes there, including one on MIG welding and mobile sculpture
 
 ## Hackerspaces
-- Null Space Labs
-- Queerious Labs
-- 23B (I've been to Sparklecon a few times)
+- Null Space Labs (LA)
+- Queerious Labs (LA)
+- 23B (I've been to Sparklecon a few times) (Fullerton, CA)
+- Hackaday (LA, SF)
+- I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering (SF)
 
 ## Tech
 - Intern at Autodesk (remote)
-- Intern at Apple (three months)
-- I was a manual tester for six months
+- Intern at Apple (three months) (bay area)
+- I was a manual tester for six months (LA)
 - Been to many conferences, including Academic ones (eg ICFP, POPL, PLDI) and Developer (Google I/O, Strange Loop, etc)
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc)
 
