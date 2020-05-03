@@ -14,7 +14,7 @@
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
 - Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear)
 - Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
-  admission into PhD candidacy...in...Computer Science?
+  admission into PhD candidacy...in...Computer Science? Uh oh what have I done?)
   
 ## Film
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
