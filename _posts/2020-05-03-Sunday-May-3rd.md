@@ -30,16 +30,16 @@
   
 ## Theatre
 - The Autry (LA) - Lighting Board operator for two shows
-- Barnsdall Theatre (LA) - Lighting Designer for a show
+- Barnsdall Theatre (LA) - Lighting Designer for a show. Tippi Hedren starred in this show, and Melanie Griffith attended our opening show.
 - Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
 - Queen's Hall (in Trinidad); think the Maljo show
 - Naparima Bowl (Trinidad); did a bunch of shows as an assistant lighting designer and trained there. Also acted in some plays
   in high school there. Got a scholarship to do a theatre tech workshop there once as well (month long session).
-- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern)
+- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern). The late Heath Ledger came to one of the shows, among many celebrities. It was a strange summer.
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern, and replaced fixtures for an off-broadway
-  show called Forgotten on Broadway.
-- Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig).
+  show called Forgotten on Broadway.) Apparently also home to many recording studios, so lots of musicians. Weird summer.
+- Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig). Our show had a mime!
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
