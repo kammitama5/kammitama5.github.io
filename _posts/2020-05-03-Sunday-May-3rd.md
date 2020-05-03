@@ -33,6 +33,8 @@
 - Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
 - Queen's Hall (in Trinidad); think the Maljo show
+- Naparima Bowl (Trinidad); did a bunch of shows as an assistant lighting designer and trained there. Also acted in some plays
+  in high school there. Got a scholarship to do a theatre tech workshop there once as well (month long session).
 - Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern)
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern, and replaced fixtures for an off-broadway
   show called Forgotten on Broadway.
