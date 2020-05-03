@@ -27,6 +27,7 @@
 - I was a member of the SOC (Associate member) and SMPTE at one point or the other.
 - I am still a member of the DSC because I think they're cool and I think they have a [cool dog](https://kammitama5.github.io/Sunday-December-17th/).
 - I took a workshop on Hippotizer, learning 3D projection mapping, as well as some IATSE 728 classes.
+- I have been to every major film studio in Los Angeles (and worked on three lots).
   
 ## Theatre
 - The Autry (LA) - Lighting Board operator for two shows
