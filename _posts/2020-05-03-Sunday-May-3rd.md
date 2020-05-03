@@ -87,3 +87,6 @@
 ## Sailing
 - I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group (LA)
 
+## What about you?
+- What does your life look like? Has it been as windy?
+
