@@ -76,6 +76,7 @@
   in which I was one of two persons sent from my school.
 
 ## Tech
+- I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester/ sdet/ plans of making me a build/release engineer but I quit before then? for six months (LA)
