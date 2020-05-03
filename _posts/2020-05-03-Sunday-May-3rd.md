@@ -6,7 +6,8 @@
 
 ## Institutions
 - Univesity of Vermont (currently, as of August 2019; I'm a researcher in training)
-- Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech)
+- Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech. 
+  I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame.)
 - Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
