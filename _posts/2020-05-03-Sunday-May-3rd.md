@@ -42,13 +42,13 @@
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
 - Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured.
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)
-- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing
+- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much)
 - Concept Design Academy (took a bunch of digital painting classes there)
 - Red Engine School (took a bunch of digital painting classes there)
-- Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there)
+- Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed)
 - Studio Arts (took a bunch of vfx and digital 3D classes there)
-- David Simon Sculpting studio
+- David Simon Sculpting studio (he's awesome!)
 - Gnomon (took one sculpting class there)
 
 ## Art Makerspaces
