@@ -15,7 +15,6 @@ permalink: /about/
   my focus draws from the technical aspects of computer science in Programming Languages (which has a rigid, provable method
   of what it means for something to work), and my critical film theory and art history (specifically, in Latin American political art), to question what it means for our data to be secure, what it means to encode trust, and what is ethical, considering margins of power that exist in the world.
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
-- We may have met. [Have we met?](https://kammitama5.github.io/Sunday-May-3rd/)
 
 ### What's Unique about me
 - I have the unique perspective of being an immigrant (and green card holder), having been through many pipelines of school, having work experience and having lived in locations and groups where my representation was quite scarce (both in terms of knowledge, having work experience and demographics). My career has been in a breadth of typically niche, proprietary knowledge/ technologies (which is a nice way of saying I know a lot about things that are absolutely useless but I have great stories!).
@@ -56,5 +55,5 @@ be TA-ing a Compilers course in Haskell and another CS course.
 - [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
 ### Contact me
-
+- We may have met. [Have we met?](https://kammitama5.github.io/Sunday-May-3rd/)
 [krystal.maughan@gmail.com](mailto:email@domain.com)
