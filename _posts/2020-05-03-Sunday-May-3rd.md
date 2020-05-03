@@ -22,9 +22,11 @@
  proprietary gear)
   
 ## Theatre
+- The Autry (LA) - Lighting Board operator for two shows
+- Barnsdall Theatre (LA) - Lighting Designer for a show
 - Trinidad Theatre Workshop (Trinidad)
-- Central Bank Theatre (in Trinidad)
-- Queen's Hall (in Trinidad) 
+- Central Bank Theatre (in Trinidad); I was an assistant lighting designer
+- Queen's Hall (in Trinidad); think the Maljo show
 - Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern)
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern)
 
