@@ -7,7 +7,7 @@
 ## Institutions
 - Univesity of Vermont (currently, as of August 2019; I'm a researcher in training)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech)
-- Cornell University (took a course called Music, Light and Dance here in my final semester)
+- Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
