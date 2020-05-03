@@ -17,6 +17,8 @@
 ## Film
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
   Ali and Stacey Dash.
+- I worked for one summer at the GIS in Trinidad, making documentaries for television segments. Producer was my title, but
+  I did have to teach myself some Avid and Graphics and was able to interview some extraordinary people.
 - I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club but worked mainly as a PA and did some accounting during that time as well.
 - I also worked in a camera shop and a lighting shop, prepping gear, troubleshooting and maintaining it (mostly obscure, 
  proprietary gear)
@@ -27,7 +29,7 @@
 ## Theatre
 - The Autry (LA) - Lighting Board operator for two shows
 - Barnsdall Theatre (LA) - Lighting Designer for a show
-- Trinidad Theatre Workshop (Trinidad)
+- Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
 - Queen's Hall (in Trinidad); think the Maljo show
 - Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern)
