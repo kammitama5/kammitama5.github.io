@@ -47,6 +47,7 @@
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much)
+- I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago)
 - Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops)
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed)
