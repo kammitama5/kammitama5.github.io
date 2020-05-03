@@ -5,7 +5,7 @@
 - If you think I look familiar, we really might have met somewhere! 
 
 ## Institutions
-- Univesity of Vermont (currently, as of August 2019; I'm a researcher in training)
+- University of Vermont (currently, as of August 2019; I'm a researcher in training)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech. 
   I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame.)
 - Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
