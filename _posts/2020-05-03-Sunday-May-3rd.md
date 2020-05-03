@@ -17,9 +17,10 @@
 ## Film
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
   Ali and Stacey Dash.
-- I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club
+- I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club but worked mainly as a PA and did some accounting during that time as well.
 - I also worked in a camera shop and a lighting shop, prepping gear, troubleshooting and maintaining it (mostly obscure, 
  proprietary gear)
+- I was a member of the SOC (Associate member) and SMPTE at one point or the other.
   
 ## Theatre
 - The Autry (LA) - Lighting Board operator for two shows
