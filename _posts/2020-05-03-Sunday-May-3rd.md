@@ -11,7 +11,7 @@
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
-- Pasadena City College (took a bunch of architecture classes there, machining and welding; at one point I thought I wanted to be an architect!)
+- Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear)
 - Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
   admission into PhD candidacy
   
