@@ -65,6 +65,11 @@
 - Hackaday (LA, SF)
 - I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering (SF)
 
+## Random Medical/ Study Abroad?
+- I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
+  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children in nearby villages. This was through a scholarship offered from Disney,
+  in which I was one of two persons sent from my school.
+
 ## Tech
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
