@@ -29,6 +29,7 @@
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern)
 
 ## Art
+- I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
 - Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured.
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing
