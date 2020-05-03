@@ -55,9 +55,11 @@
 - Gnomon (took one sculpting class there)
 
 ## Art Makerspaces
-- Community Woodshop (LA) - took 2 classes there
+- Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?)
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there) (LA)
-- Matt's Molten Metalworks (LA) - I took a few classes there, including one on MIG welding and mobile sculpture
+- Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture
+- MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :(
+- Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python)
 
 ## Hackerspaces
 - Null Space Labs (LA)
