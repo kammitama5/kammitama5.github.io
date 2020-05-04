@@ -4,14 +4,14 @@
 - I think it can be easy to put people in a box; I have had a lot of lives.
 - If you think I look familiar, we really might have met somewhere! 
 
-## Institutions
+## Institutions (in order of attendance)
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
 - Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
   admission into PhD candidacy...in...Computer Science? Uh oh what have I done?)
 - Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear)
+- Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech. 
   I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame.)
-- Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
