@@ -9,7 +9,7 @@
 
 ## From Theatre to Movies to Art to JPL to Tech to Grad school?
 - Photos from a shoot I was on; not my Emmy!
-- From the workshop I did at JPL
+- From the workshop I did at JPL as a NASA Aerospace Scholar (my mom has all my swag)
 
 <img src="/images/doiknowyou/notmyemmy.png" width="300">
 
