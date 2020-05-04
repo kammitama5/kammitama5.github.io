@@ -11,11 +11,11 @@
 - Photos from a shoot I was on; not my emmy!
 - From the workshop I did at JPL
 
-<img src="/images/doiknowyou/jpl.png" width="400">
+<img src="/images/doiknowyou/notmyemmy.png" width="300">
 
-<img src="/images/doiknowyou/jpl1.png" width="400">
+<img src="/images/doiknowyou/jpl.png" width="300">
 
-<img src="/images/doiknowyou/notmyemmy.png" width="400">
+<img src="/images/doiknowyou/jpl1.png" width="300">
 
 
 ## Institutions (in order of attendance)
