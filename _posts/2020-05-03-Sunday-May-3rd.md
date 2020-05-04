@@ -6,15 +6,20 @@
 
 ## Institutions
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
+- Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
+  admission into PhD candidacy...in...Computer Science? Uh oh what have I done?)
+- Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech. 
   I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame.)
 - Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester)
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College)
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
-- Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear)
-- Glendale Community College (took a bunch of robotics, electronics/PCB classes and programming classes, which led to my
-  admission into PhD candidacy...in...Computer Science? Uh oh what have I done?)
+- Attended Naparima Girls' High School (involved in a lot of choir, theatre stuff, also in Sciences class. A-levels subjects:
+  Physics, Maths, Art, General Paper). I was part of my school's choir, and Prescon. I also played drums for our school's 
+  Steelpan orchestra, took traps (drums) lessons at the Normandie, played Squash, Netball, Football for a bit and was part of
+  the Gymnastics and Swimteam. Also Brownie, Junior, Senior girl guides (this might be too far back!)
+
   
 ## Film
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
