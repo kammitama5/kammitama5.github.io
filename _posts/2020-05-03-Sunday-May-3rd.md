@@ -53,7 +53,8 @@
   
 ## Theatre (Tech/Design)
 - The Autry (LA) - Lighting Board operator for two shows
-- Barnsdall Theatre (LA) - Lighting Designer for a show. Tippi Hedren starred in this show, and Melanie Griffith attended our opening show. I believe it was featured in Playbill and Variety, but I don't keep track of such things (maybe I should have milked the press for grad school? lol)
+- Two Roads Theatre (LA) - Co-Designed Lighting for "Kowalski". I guess [LA times covered it?](https://latimesblogs.latimes.com/culturemonster/2011/07/theater-review-kowalski-at-two-roads-theatre.html) and so did [Variety](https://variety.com/2011/legit/reviews/kowalski-1117945600/)
+- Barnsdall Theatre (LA) - Lighting Designer for a show. Tippi Hedren starred in this show, and Melanie Griffith attended our opening show. I believe it was featured in Playbill, but I don't keep track of such things (maybe I should have milked the press for grad school? lol)
 - Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
 - Queen's Hall (in Trinidad); think the Maljo show (I was the kid who ran the light cue when the person stepped away from the board in the middle of the show lol). I also worked on the Cacique Awards as assistant lighting designer (2003) and for the 
