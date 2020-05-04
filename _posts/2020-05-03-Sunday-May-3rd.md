@@ -63,7 +63,7 @@
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting. (LA)
 - David Simon Sculpting studio (he's awesome!) (LA)
 - Gnomon (took one sculpting class there) (LA)
-- I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto.
+- I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
