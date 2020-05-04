@@ -4,7 +4,7 @@
 - I think it can be easy to put people in a box; I have had a lot of lives. If you run into me and ask "have we met",
   this might help. Often, it's difficult for me to place faces, because I've met a LOT.
 - If you think I look familiar, we really might have met somewhere! See if it rings a bell. Location is a great start!
-  If you can narrow it down to a field, too, even better!
+  If you can narrow it down to a field (ie what was I doing?), too, even better!
 
 ## Institutions (in order of attendance)
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
