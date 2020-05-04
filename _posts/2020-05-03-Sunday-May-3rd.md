@@ -69,8 +69,8 @@ Love Movement Show
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA) for the show Light Sensitive
 - Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA).
-- Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)(LA)
-- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?) (LA)
+- Animation Guild (Jon's perspective class and many of Gnass's live drawing classes; Gnass teaches animators at Disney and Dreamworks)(LA)
+- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well? Put on by the artists at [Titmouse](https://en.wikipedia.org/wiki/Titmouse,_Inc.)) (LA)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much) (LA)
 - I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) (LA)
 - Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum) (LA)
