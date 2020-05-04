@@ -33,7 +33,7 @@
  proprietary gear)
 - I was a member of the SOC (Associate member) and SMPTE at one point or the other.
 - I am still a member of the DSC because I think they're cool and I think they have a [cool dog](https://kammitama5.github.io/Sunday-December-17th/).
-- I got a scholarship courtesy of Lighting Designer Jeff Ravitz (multi-award Emmy nominations/ winner; mentorship kind of thing) to attend the Live Design Concert Master Lighting Class (2010). I remember because they were tearing down the New Year's Even recording on stage when we were walking in. It was only then that I found out that they actually recorded most of the show beforehand, and only certain parts were live lol.
+- I got a scholarship courtesy of Lighting Designer Jeff Ravitz (multi-award Emmy nominations/ winner; mentorship kind of thing) to attend the Live Design Concert Master Lighting Class (2010). I remember because they were tearing down the New Year's Eve Ball Drop Show recording on stage when we were walking in. It was only then that I found out that they actually recorded most of the show beforehand, and only certain parts were live lol.
 - I took the Basic and Advanced workshops on Hippotizer (Media Server), learning 3D projection mapping, as well as some IATSE 728 classes.
 - I have been to a couple premieres (my friend and I skipped Gnass's class once to attend a red carpet premiere of the film 8mm by accident...we didn't know it was a premiere lol), many screenings (including the premiere of Hugo), and every major film studio in Los Angeles (and worked on three lots).
 - I also did an apprenticeship learning Nuke at a vfx house (Nuke is a node-based compositing tool) for about a month for the film "Wallenda" on the Wallenda acrobats.
