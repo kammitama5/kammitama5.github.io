@@ -76,7 +76,7 @@ Love Movement Show
 - Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum) (LA)
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding) (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
-- Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting. (LA)
+- Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator. I also learned Rhino, which is still my go-to software for mock-ups. Learned about Renderman). Got first taste of scripting in Rhino+Modo class. (LA)
 - David Simon Sculpting studio (he's awesome and runs a workshop once a year in Rome. A lot of art+tech people enjoy his classes! He gave me one of the best pieces of advice, ever, which is that as long as you invest in yourself, you will be okay. I still follow this advice!) (LA)
 - I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer.
 - Gnomon (took one sculpting class there) (LA)
