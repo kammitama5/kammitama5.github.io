@@ -7,7 +7,7 @@
   If you can narrow it down to a field (ie what was I doing?), too, even better!
   
 
-## From Movies to Art to JPL to Tech to Grad school?
+## From Theatre to Movies to Art to JPL to Tech to Grad school?
 - Photos from a shoot I was on; not my Emmy!
 - From the workshop I did at JPL
 
