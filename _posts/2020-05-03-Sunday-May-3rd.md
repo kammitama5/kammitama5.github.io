@@ -65,11 +65,11 @@
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
-- Somewhere something (took a bunch of architecture-3D-node-programming classes there) (LA)
-- Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture (LA)
+- Somewhere something (took a bunch of architecture-3D-node-programming classes there). Learned about generative art and started programming interest here (LA)
+- Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture inspired by MIT's sculptures (person who ran shop was a MechE from MIT) (LA)
 - MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :( (LA)
 - Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
-- Keystone Art Space (I think the building was bought by the Agassis and turned into a school) (LA)
+- Keystone Art Space (I think the building was bought by the Agassis (yup the tennis players) and turned into a school) (LA)
 
 ## Hackerspaces (Maker/hacker scene)
 - Null Space Labs (LA)
