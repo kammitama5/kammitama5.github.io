@@ -8,7 +8,7 @@
   
 
 ## From Movies to Art to JPL to Tech to Grad school?
-- Photos from a shoot I was on; not my emmy!
+- Photos from a shoot I was on; not my Emmy!
 - From the workshop I did at JPL
 
 <img src="/images/doiknowyou/notmyemmy.png" width="300">
