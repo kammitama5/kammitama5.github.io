@@ -56,7 +56,7 @@
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?) (LA)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much) (LA)
 - I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) (LA)
-- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops) (LA)
+- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum) (LA)
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding) (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting. (LA)
