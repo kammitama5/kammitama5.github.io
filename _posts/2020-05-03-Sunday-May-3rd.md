@@ -34,7 +34,7 @@
 - I was a member of the SOC (Associate member) and SMPTE at one point or the other.
 - I am still a member of the DSC because I think they're cool and I think they have a [cool dog](https://kammitama5.github.io/Sunday-December-17th/).
 - I took a workshop on Hippotizer, learning 3D projection mapping, as well as some IATSE 728 classes.
-- I have been to every major film studio in Los Angeles (and worked on three lots).
+- I have been to a couple premieres (my friend and I skipped Gnass's class once to attend a red carpet premiere of the film 8mm by accident...we didn't know it was a premiere lol), many screenings (including the premiere of Hugo) and every major film studio in Los Angeles (and worked on three lots).
   
 ## Theatre
 - The Autry (LA) - Lighting Board operator for two shows
