@@ -77,7 +77,7 @@ Love Movement Show
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding) (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting. (LA)
-- David Simon Sculpting studio (he's awesome!) (LA)
+- David Simon Sculpting studio (he's awesome and runs a workshop in Rome. A lot of art+tech people enjoy his classes!) (LA)
 - Gnomon (took one sculpting class there) (LA)
 - I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
 
