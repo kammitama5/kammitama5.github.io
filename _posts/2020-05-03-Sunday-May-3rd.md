@@ -21,7 +21,7 @@
   Ali and Stacey Dash.
 - I worked for one summer at the GIS in Trinidad, making documentaries for television segments. Producer was my title, but
   I did have to teach myself some Avid and Graphics and was able to interview some extraordinary people.
-- I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club but worked mainly as a PA and did some accounting during that time as well.
+- I worked on a soap opera in my home country called "Westwood Park". I was an extra in two scenes; one involving a lamaze class and a club scene at a club but worked mainly as a PA and wrote cheques/ did payroll during that time as well. Near the end our crew was quite small and I got the opportunity to 2nd AC/ Slate and work with the lighting crew as well.
 - I also worked in a camera shop and a lighting shop, prepping gear, troubleshooting and maintaining it (mostly obscure, 
  proprietary gear)
 - I was a member of the SOC (Associate member) and SMPTE at one point or the other.
