@@ -78,10 +78,9 @@
 - Hackaday (LA, SF)
 - I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering (SF)
 
-## Random Medical/ Study Abroad?
+## Random Medical/ Doctors Without Borders Study Abroad?
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
-  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children in nearby villages. This was through a scholarship offered from Disney,
-  in which I was one of two persons sent from my school. (West Africa)
+  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
 
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
