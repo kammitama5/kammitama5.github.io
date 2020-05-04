@@ -51,24 +51,24 @@
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
-- Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured.
-- Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)
-- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?)
-- Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much)
-- I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago)
-- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops)
-- Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding)
-- Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed)
-- Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting.
-- David Simon Sculpting studio (he's awesome!)
-- Gnomon (took one sculpting class there)
+- Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA).
+- Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)(LA)
+- Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?) (LA)
+- Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much) (LA)
+- I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) (LA)
+- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops) (LA)
+- Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding) (LA)
+- Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
+- Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator). Got first taste of scripting. (LA)
+- David Simon Sculpting studio (he's awesome!) (LA)
+- Gnomon (took one sculpting class there) (LA)
 
 ## Art Makerspaces
-- Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?)
+- Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there) (LA)
-- Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture
-- MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :(
-- Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python)
+- Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture (LA)
+- MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :( (LA)
+- Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
 - Keystone Art Space (I think the building was bought by the Agassis and turned into a school) (LA)
 
 ## Hackerspaces
@@ -81,19 +81,19 @@
 ## Random Medical/ Study Abroad?
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
   through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children in nearby villages. This was through a scholarship offered from Disney,
-  in which I was one of two persons sent from my school.
+  in which I was one of two persons sent from my school. (West Africa)
 
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester/ sdet/ plans of making me a build/release engineer but I quit before then? for six months (LA)
-- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Strange Loop, Defcon etc), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times.
-- Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc). This how I found functional programming, and research papers, and started whetting my appetite for what I would enjoy in tech.
-- I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, etc
+- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Strange Loop, Defcon etc), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times. (LA)
+- Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc). This how I found functional programming, and research papers, and started whetting my appetite for what I would enjoy in tech. (various)
+- I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, etc (various)
 
 ## Sailing
-- I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group (LA)
+- I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group. Maybe we sailed to Catalina Island or to Newport beach together? (CA)
 
 ## What about you?
 - What does your life look like? Has it been as windy?
