@@ -45,7 +45,7 @@
 - Queen's Hall (in Trinidad); think the Maljo show (I was the kid who ran the light cue when the person stepped away from the board in the middle of the show lol)
 - Naparima Bowl (Trinidad); did a bunch of shows as an assistant lighting designer and trained there. Also acted in some plays
   in high school there. Got a scholarship to do a theatre tech workshop there once as well (month long session).
-- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern). The late Heath Ledger came to one of the shows, among many celebrities. It was a strange summer. I also interviewed with Spike Lee but didn't end up getting the gig. I also lived in the Hamptons for a month (mostly Southampton and Bridgehampton).
+- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern). The late Heath Ledger came to one of the shows, among many celebrities. It was a strange summer. I also interviewed with Spike Lee but didn't end up getting the gig. I also lived in the Hamptons for a month (mostly Southampton and Bridgehampton) and worked with the producers of the Lion King on Broadway. I also had my first ever Starbucks frappuccino and accidentally hit the producer in the nuts with a filing cabinet (yikes). I was their favourite intern anyways, so it paid off.
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern, and replaced fixtures for an off-broadway
   show called Forgotten on Broadway.) Apparently also home to many recording studios, so lots of musicians. Weird summer.
 - Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig). Our show had a mime!
