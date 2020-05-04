@@ -23,7 +23,7 @@
   the Gymnastics and Swimteam. Also a member of the Indian Cultural Club and completed one grade of piano. Also Brownie, Junior, Senior girl guides (this might be too far back..just say Trinidad and that narrows things down a bit!)
 
   
-## Film
+## Film (Tech/Design)
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
   Ali and Stacey Dash.
 - I worked for one summer at the GIS in Trinidad, making documentaries for television segments. Producer was my title, but
@@ -36,7 +36,7 @@
 - I took a workshop on Hippotizer, learning 3D projection mapping, as well as some IATSE 728 classes.
 - I have been to a couple premieres (my friend and I skipped Gnass's class once to attend a red carpet premiere of the film 8mm by accident...we didn't know it was a premiere lol), many screenings (including the premiere of Hugo), and every major film studio in Los Angeles (and worked on three lots).
   
-## Theatre
+## Theatre (Tech/Design)
 - The Autry (LA) - Lighting Board operator for two shows
 - Barnsdall Theatre (LA) - Lighting Designer for a show. Tippi Hedren starred in this show, and Melanie Griffith attended our opening show.
 - Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
@@ -63,7 +63,7 @@
 - David Simon Sculpting studio (he's awesome!) (LA)
 - Gnomon (took one sculpting class there) (LA)
 
-## Art Makerspaces
+## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there) (LA)
 - Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture (LA)
@@ -71,18 +71,18 @@
 - Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
 - Keystone Art Space (I think the building was bought by the Agassis and turned into a school) (LA)
 
-## Hackerspaces
+## Hackerspaces (Maker/hacker scene)
 - Null Space Labs (LA)
 - Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday (LA, SF)
 - I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering; first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
 
-## Random Medical/ Doctors Without Borders Study Abroad?
+## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
-  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
+  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
   
-## Maths
+## Maths 
 - MSRI (Derived Algebraic Geometry workshop for women) (bay area)
 - Simons Institute (Error-correcting codes workshop) (bay area)
 - Cornell Number Theory Conference 2019 (NY)
