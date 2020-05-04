@@ -18,7 +18,7 @@
 - Attended Naparima Girls' High School (involved in a lot of choir, theatre stuff, also in Sciences class. A-levels subjects:
   Physics, Maths, Art, General Paper). I was part of my school's choir, and Prescon. I also played drums for our school's 
   Steelpan orchestra, took traps (drums) lessons at the Normandie, played Squash, Netball, Football for a bit and was part of
-  the Gymnastics and Swimteam. Also Brownie, Junior, Senior girl guides (this might be too far back!)
+  the Gymnastics and Swimteam. Also a member of the Indian Cultural Club and completed one grade of piano. Also Brownie, Junior, Senior girl guides (this might be too far back!)
 
   
 ## Film
