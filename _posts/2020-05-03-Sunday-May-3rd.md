@@ -73,10 +73,10 @@
 
 ## Hackerspaces
 - Null Space Labs (LA)
-- Queerious Labs (LA)
+- Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday (LA, SF)
-- I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering (SF)
+- I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering; first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
 
 ## Random Medical/ Doctors Without Borders Study Abroad?
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
@@ -92,7 +92,7 @@
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester/ sdet/ plans of making me a build/release engineer but I quit before then? for six months (LA)
-- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, Curry On, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Twilio's Signal, Strange Loop, Defcon etc), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times. (LA)
+- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, Curry On, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Twilio's Signal, Strange Loop, Defcon etc), Hackaday's Superconference (SF and LA), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times. (LA)
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc). This how I found functional programming, and research papers, and started whetting my appetite for what I would enjoy in tech. (various)
 - I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, etc (various)
 
