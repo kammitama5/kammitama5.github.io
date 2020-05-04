@@ -33,25 +33,29 @@
  proprietary gear)
 - I was a member of the SOC (Associate member) and SMPTE at one point or the other.
 - I am still a member of the DSC because I think they're cool and I think they have a [cool dog](https://kammitama5.github.io/Sunday-December-17th/).
-- I took a workshop on Hippotizer, learning 3D projection mapping, as well as some IATSE 728 classes.
+- I got a scholarship courtesy of Lighting Designer Jeff Ravitz (multi-award Emmy nominations/ winner) to attend the Live Design Concert Master Lighting Class (2010)
+- I took the Basic and Advanced workshops on Hippotizer (Media Server), learning 3D projection mapping, as well as some IATSE 728 classes.
 - I have been to a couple premieres (my friend and I skipped Gnass's class once to attend a red carpet premiere of the film 8mm by accident...we didn't know it was a premiere lol), many screenings (including the premiere of Hugo), and every major film studio in Los Angeles (and worked on three lots).
 - I also did an apprenticeship learning Nuke at a vfx house (Nuke is a node-based compositing tool) for about a month for the film "Wallenda" on the Wallenda acrobats.
+- I also worked on a weird movie (which ignited the software bug) in which I was assigned as the digital technician using software called Sculptor HD. I later learned that this was custom software that was being used to stretch the dynamic range of the recorded images, even though we were using a DVX-100 (not a high quality camera). Person who invented this software also introduced me to photogrammetry and 3D motion tracking software as a thank you for helping him (thus curiosity began in tech).
   
 ## Theatre (Tech/Design)
 - The Autry (LA) - Lighting Board operator for two shows
 - Barnsdall Theatre (LA) - Lighting Designer for a show. Tippi Hedren starred in this show, and Melanie Griffith attended our opening show.
 - Trinidad Theatre Workshop (Trinidad); I did archival work for them as they were moving into a new space.
 - Central Bank Theatre (in Trinidad); I was an assistant lighting designer
-- Queen's Hall (in Trinidad); think the Maljo show (I was the kid who ran the light cue when the person stepped away from the board in the middle of the show lol)
+- Queen's Hall (in Trinidad); think the Maljo show (I was the kid who ran the light cue when the person stepped away from the board in the middle of the show lol). I also worked on the Cacique Awards as assistant lighting designer (2003) and for the 
+Love Movement Show 
 - Naparima Bowl (Trinidad); did a bunch of shows as an assistant lighting designer and trained there. Also acted in some plays
   in high school there. Got a scholarship to do a theatre tech workshop there once as well (month long session).
-- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern). The late Heath Ledger came to one of the shows, among many celebrities. It was a strange summer. I also interviewed with Spike Lee but didn't end up getting the gig. I also lived in the Hamptons for a month (mostly Southampton and Bridgehampton) and worked with the producers of the Lion King on Broadway. I also had my first ever Starbucks frappuccino and accidentally hit a producer in the nuts with a filing cabinet (yikes). I was their favourite intern anyways, so it paid off (I was the only one who was paid and they asked me to come back next year).
+- Arielle Tepper Summer Play Festival (New York City; 16 plays worked as a lighting tech intern, and follow-spot for the show Mimesophobia starring Hamish Linklater). The late Heath Ledger came to one of the shows, among many celebrities. It was a strange summer. I also interviewed with Spike Lee but didn't end up getting the gig. I also lived in the Hamptons for a month (mostly Southampton and Bridgehampton) and worked with the producers of the Lion King on Broadway. I also had my first ever Starbucks frappuccino and accidentally hit a producer in the nuts with a filing cabinet (yikes). I was their favourite intern anyways, so it paid off (I was the only one who was paid and they asked me to come back next year).
 - Film Centre Building (worked in a lighting shop in NYC for a month as an intern, and replaced fixtures for an off-broadway
   show called Forgotten on Broadway.) Apparently also home to many recording studios, so lots of musicians. Weird summer.
-- Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig). Our show had a mime!
+- Worked as a lighting tech for the Fringe Festival in NYC (same summer as the Film Centre/SPF gig). Our show had a mime and was called "Love is in the Air"
+- Ithaca College; worked as a lighting tech for Fires, Dancing at Lughnasa, The Shape of Things and Violet.
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
-- I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA)
+- I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA) for the show Light Sensitive
 - Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA).
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes)(LA)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well?) (LA)
@@ -82,7 +86,7 @@
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
-  through Banjul and Serrekunda working and living in a hospital where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
+  through Banjul and Serrekunda working and living in a hospital (Sulayman Junkung Hospital) where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
   
 ## Maths 
 - MSRI (Derived Algebraic Geometry workshop for women) (bay area)
