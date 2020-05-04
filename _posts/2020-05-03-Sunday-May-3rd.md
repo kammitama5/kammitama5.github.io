@@ -5,6 +5,18 @@
   this might help. Often, it's difficult for me to place faces, because I've met a LOT.
 - If you think I look familiar, we really might have met somewhere! See if it rings a bell. Location is a great start!
   If you can narrow it down to a field (ie what was I doing?), too, even better!
+  
+
+## From Movies to Art to JPL to Tech to Grad school?
+- Photos from a shoot I was on; not my emmy!
+- From the workshop I did at JPL
+
+<img src="/images/doiknowyou/jpl.png" width="400">
+
+<img src="/images/doiknowyou/jpl1.png" width="400">
+
+<img src="/images/doiknowyou/notmyemmy.png" width="400">
+
 
 ## Institutions (in order of attendance)
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
