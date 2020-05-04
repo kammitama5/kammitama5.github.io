@@ -15,7 +15,7 @@
 
 <img src="/images/doiknowyou/jpl.png" width="300">
 
-<img src="/images/doiknowyou/jpl1.png" width="300">
+<img src="/images/doiknowyou/jpl1.png" width="400">
 
 
 ## Institutions (in order of attendance)
