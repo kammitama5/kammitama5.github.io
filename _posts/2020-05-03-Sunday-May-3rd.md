@@ -68,18 +68,18 @@ Love Movement Show
 - Ithaca College; worked as a lighting tech for Fires, Dancing at Lughnasa, The Shape of Things and Violet.
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
-- I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA) for the show Light Sensitive
-- Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA).
+- I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my friend's fine art lighting installation (LA) for the show Light Sensitive.
+- Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA). Mimi, the head of the Guild at the time, was a great mentor to me.
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes; Gnass teaches animators at Disney and Dreamworks)(LA)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well? Put on by the artists at [Titmouse](https://en.wikipedia.org/wiki/Titmouse,_Inc.)) (LA)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much) (LA)
 - I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) (LA)
-- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum) (LA)
-- Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding) (LA)
+- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum). [Robh Ruppel](https://en.wikipedia.org/wiki/Robh_Ruppel)'s workshop left a huge impression on me (LA)
+- Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding). [Patrick Hanenberger](http://www.patrickhanenberger.com/blog)'s Worldbuilding workshop left a huge impression on me (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator. I also learned Rhino, which is still my go-to software for mock-ups. Learned about Renderman). Got first taste of scripting in Rhino+Modo class. (LA)
 - David Simon Sculpting studio (he's awesome and runs a workshop once a year in Rome. A lot of art+tech people enjoy his classes! He gave me one of the best pieces of advice, ever, which is that as long as you invest in yourself, you will be okay. I still follow this advice!) (LA)
-- I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer.
+- I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer. His life advice left a huge impression on me; very wise guy.
 - Gnomon (took one sculpting class there) (LA)
 - I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
 
@@ -96,7 +96,7 @@ Love Movement Show
 - Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday (LA, SF)
-- I did a couple of Matt's PCB workshops where we made fidget spinners did PCB soldering; first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
+- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners did PCB soldering; first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
