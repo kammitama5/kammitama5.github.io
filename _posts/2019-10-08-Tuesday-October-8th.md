@@ -36,6 +36,7 @@
 - I have been invited to co-host Kaggle e-days (Data Science and Machine Learning events/ talks, etc). [ April ]
 - I received word that I was successfully matched for the Lighthouse3 Women in AI Ethics Mentorship Programme. In response, I will have to not only communicate with my mentor (who is based in SF), but this result in a published article about my experience [ May ] 
 - I received an ALife Conference Student Scholarship award to attend the virtual conference this year! [ May ]
+- I have been featured in [The Women of Silicon Valley: Caribbean Techies](https://medium.com/caribbeantechies/4-questions-with-krystal-a-maughan-2fa2ed9ab9fe). It talks about my journey into tech.
 
 
 ## 2019
