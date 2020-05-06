@@ -35,6 +35,7 @@
 - I have been accepted as an NCWIT Change Leader Scholar (CLS) pending my attendance in their introductory session. The Change Leader Scholarship Programme guides students to become leaders within their communities, particularly as women in STEM. It culminates in a Summit that is usually held in person, but will be held virtually this year [ April ]
 - I have been invited to co-host Kaggle e-days (Data Science and Machine Learning events/ talks, etc). [ April ]
 - I received word that I was successfully matched for the Lighthouse3 Women in AI Ethics Mentorship Programme. In response, I will have to not only communicate with my mentor (who is based in SF), but this result in a published article about my experience [ May ] 
+- I received an ALife Conference Student Scholarship award to attend the virtual conference this year! [ May ]
 
 
 ## 2019
