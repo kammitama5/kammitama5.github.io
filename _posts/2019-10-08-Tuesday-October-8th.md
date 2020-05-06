@@ -106,6 +106,7 @@
 
 ## TODO (2020-21)
 - Deep Learning (SP21)
+- Reliability of Engineering Systems (FA21)
 - Reinforcememt Learning (FA21)
 - Algorithms (SP21)
 - Foundations of Quantitative Reasoning (FA21)
