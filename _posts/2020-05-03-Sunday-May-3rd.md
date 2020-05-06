@@ -8,8 +8,15 @@
   
 
 ## From Theatre to Movies to Art to JPL to Tech to Grad school?
+- I did a music video on this lot once, and attended Cinegear every year.
+- Someone took a photo of me during an IATSE workshop on moving light fixtures.
 - Photos from a shoot I was on; not my Emmy!
-- From the workshop I did at JPL as a NASA Aerospace Scholar (my mom has all my swag)
+- A huge mentor for me when I lived in LA; he encouraged me to go to grad school.
+- From the workshop I did at JPL as a NASA Aerospace Scholar (my mom has all my swag).
+
+<img src="/images/doiknowyou/oldlife.png" width="400">
+
+<img src="/images/doiknowyou/oldlife1.png" width="400">
 
 <img src="/images/doiknowyou/notmyemmy.png" width="300">
 
