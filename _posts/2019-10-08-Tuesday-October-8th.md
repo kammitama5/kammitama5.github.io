@@ -111,6 +111,7 @@
 - Foundations of Quantitative Reasoning (FA21)
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
+- Reliability of Engineering Systems
 - Computational Physics
 - Compilers
 - Evolutionary Robotics
