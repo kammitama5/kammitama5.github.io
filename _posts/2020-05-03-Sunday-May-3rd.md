@@ -8,7 +8,7 @@
   
 
 ## From Theatre to Movies to Art to JPL to Tech to Grad school?
-- I did a music video on this lot once, and attended Cinegear every year.
+- I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
 - Someone took a photo of me during an IATSE workshop on moving light fixtures.
 - Photos from a shoot I was on; not my Emmy!
 - A huge mentor for me when I lived in LA; he encouraged me to go to grad school.
