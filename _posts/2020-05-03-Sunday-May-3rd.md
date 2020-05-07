@@ -24,6 +24,11 @@
 
 <img src="/images/doiknowyou/jpl1.png" width="400">
 
+## Pixel-mapping
+- In 2010, I was obsessed with this thing called pixel-mapping. It was like this hybrid of video, lighting, and computers
+
+<img src="/images/doiknowyou/pixelmapping.png" width="400">
+
 
 ## Institutions (in order of attendance)
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
