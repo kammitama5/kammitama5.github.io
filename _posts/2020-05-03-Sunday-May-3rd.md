@@ -41,8 +41,8 @@
 
 ## Pixel-mapping
 
-- In 2010, I was obsessed with this thing called pixel-mapping. It was like this hybrid of video, lighting, and computers,
-but I didn't know that; I just thought it was cool, so I was chasing around the Virtuoso, the Hippotizer and D3 projection-mapping tools. This is from a workshop where I learned basic pixel-mapping using the "Hippo" aka Hippotizer.
+- In 2010, I was obsessed with this thing called [pixel-mapping](https://www.lightsoundjournal.com/2014/09/07/what-is-the-difference-between-projection-and-pixel-mapping/). It was like this hybrid of video, lighting, and computers,
+but I didn't know that; I just thought it was cool, so I was chasing around the Virtuoso, the Hippotizer and D3 projection-mapping tools. This is from a workshop where I learned basic pixel-mapping and projection mapping using the "Hippo" aka Hippotizer.
 The guy who taught is the dude who did the [2Pac Hologram](https://www.washingtonpost.com/business/technology/how-the-tupac-hologram-works/2012/04/18/gIQA1ZVyQT_story.html), among other things. It was funny; while the world was freaking out, those of us who knew the technology immediately knew who had done it!
 
 <img src="/images/doiknowyou/pixelmapping.png" width="400">
