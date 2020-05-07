@@ -8,23 +8,39 @@
   
 
 ## From Theatre to Movies to Art to JPL to Tech to Grad school?
-- I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
-- Someone took a photo of me during an IATSE workshop on moving light fixtures.
-- Photos from a shoot I was on; not my Emmy!
-- A huge mentor for me when I lived in LA; he encouraged me to go to grad school.
-- From the workshop I did at JPL as a NASA Aerospace Scholar (my mom has all my swag).
+
+## Paramount?
 
 <img src="/images/doiknowyou/oldlife.png" width="400">
 
+- I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
+
+## IATSE Who?
+
 <img src="/images/doiknowyou/oldlife1.png" width="400">
+
+- Someone took a photo of me during an IATSE workshop on moving light fixtures.
+
+## Emmy?
 
 <img src="/images/doiknowyou/notmyemmy.png" width="300">
 
+- Photos from a shoot I was on; not my Emmy!
+
+## JPL?
+
 <img src="/images/doiknowyou/jpl.png" width="300">
+
+- A huge mentor for me when I lived in LA; he encouraged me to go to grad school.
+
+## NASA?
 
 <img src="/images/doiknowyou/jpl1.png" width="400">
 
+- From the workshop I did at JPL as a NASA Aerospace Scholar (my mom has all my swag).
+
 ## Pixel-mapping
+
 - In 2010, I was obsessed with this thing called pixel-mapping. It was like this hybrid of video, lighting, and computers
 
 <img src="/images/doiknowyou/pixelmapping.png" width="400">
