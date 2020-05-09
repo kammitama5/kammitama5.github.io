@@ -31,7 +31,11 @@
   
 ## A Vampiric life in Solitude
 - Another famous quote by Lestat is "I've come to answer your prayers. Life has no meaning anymore, does it? The wine
-  has no taste, food sickens you and there seems no reason for any of it." One of the realities of living in a state
+  has no taste, food sickens you and there seems no reason for any of it." Louis lost his wife and child and says he
+  "wanted to lose it all; my life, my estate, my sanity". Anyone embarking on a PhD can surely relate to this; you're 
+  giving up your place in the world for a state of timelessness, living on a stipend, and there has been endless 
+  research on ways in which pursuing a PhD is damaging to one's mental health. 
+  One of the realities of living in a state
   of changelessness (and a bit of why a PhD is so difficult) is that in this state you can forget why you are there.
   You can lose meaning or a sense of self, and everything can appear meaningless. You can slip into hopelessness,
   which can lead to the depths of depression.
