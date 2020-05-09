@@ -86,7 +86,6 @@
 - I received word that I am an NCWIT Finalist! [ Dec ]
 - I applied (and received an offer from) the Graduate Writing Centre; I will be learning how to write and mentoring students
   for around six hours a week in an interdisciplinary writing skillset at the graduate level (so reviewing and helping graduate students write papers in Literature, Materials Science, History, etc)! [ Dec ]
-- Featured on The Women of Silicon Valley platform [ May ]
 
   
 ## TA
