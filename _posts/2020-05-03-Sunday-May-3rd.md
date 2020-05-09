@@ -123,7 +123,7 @@ Love Movement Show
 - MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :( (LA)
 - Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
 - Keystone Art Space (I think the building was bought by the Agassis (yup the tennis players) and turned into a school) (LA)
-- I also designed a movie poster once for M. Nankin and D. Simkins (one of them worked on the tv show Grimm or something).
+- I also designed a movie poster once for [M. Nankin](https://en.wikipedia.org/wiki/Michael_Nankin) and [D. Simkins](https://en.wikipedia.org/wiki/David_Simkins) (one of them worked on the tv show Grimm or something).
 
 ## Hackerspaces (Maker/hacker scene)
 - Null Space Labs (LA)
