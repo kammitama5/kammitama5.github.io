@@ -25,7 +25,8 @@
   reborn again (even as you age) through the process, and ready to move on. 
   Until then, you sleep in coffins, you will never see a new sunrise,
   and live with the reality that you will live for centuries (if time is relative) in Academia as a student and see friends move on
-  before your time comes. Okay, I don't really sleep in a coffin, but you get my point.
+  before your time comes. Okay, I don't really sleep in a coffin, but you get my point. It also brings one to think about
+  the phrase "publish or perish". In Academia, publishing is your lifeblood.
 - Maybe it is the longing to change that propels us forward, if change can be quantified by a contribution to that world
   under which we have accepted to train; the world of scientific and analytical study. Is this the price we pay?
   
