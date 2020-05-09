@@ -54,6 +54,10 @@ be TA-ing a Compilers course in Haskell and another CS course.
 - [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
 - [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
+## Awesome other things I used to enjoy!
+- [Women's Sailing Association of Santa Monica Bay: I was a member and raced in WOW-WAH twice](https://wsasmb.org/)
+- Hanging out at [Del Rey Yacht Club: learn about the fact that they started because of exclusion from other yacht clubs! I raced in a boat there](https://www.kcrw.com/news/shows/greater-la/off-to-the-sailboat-races-with-a-nearly-all-female-crew/a-ride-along-with-women-sailboat-racers-in-marina-del-rey)
+
 ### Contact me
 - We may have met. [Have we met?](https://kammitama5.github.io/Sunday-May-3rd/)
 - Contact: [krystal.maughan@gmail.com](mailto:email@domain.com)
