@@ -20,9 +20,9 @@
   There are lots of things that have no state, but a doll vs a human implies being dead inside; having no life force
   besides shallow beauty/ superficiality. It is someone else's belonging and lacks its own voice.
 - In many ways, as a PhD student, you are a surrogate child to your advisor, until you grow up. Louis has to be trained
-  to live as a vampire, even though he is initially disgusted by it, and there is this constant tug-of-war in their 
+  to live as a vampire, even though he is initially disgusted by it (he has to be trained on how to survive), and there is this constant tug-of-war in their 
   understanding of and relationship with each other, much like the PhD student who eventually finds their own voice 
-  at the end of their apprenticeship.
+  at the end of their apprenticeship by learning what it takes to survive during their time in Academia.
 - I saw this movie as a child (it was pretty popular, as was the book, when I was growing up), but as an adult in grad
   school, and seeing the parallels, it feels almost too painful to watch right now. You are unchanging until you are 
   reborn again (even as you age) through the process, and ready to move on. 
