@@ -141,6 +141,7 @@ Love Movement Show
 - MSRI (Derived Algebraic Geometry workshop for women) (bay area)
 - Simons Institute (Error-correcting codes workshop) (bay area)
 - Cornell Number Theory Conference 2019 (NY)
+- ICERM (Providence, RI)
 
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
