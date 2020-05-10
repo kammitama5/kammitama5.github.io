@@ -138,10 +138,11 @@ Love Movement Show
   through Banjul and Serrekunda working and living in a hospital (Sulayman Junkung Hospital) where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school. (West Africa)
   
 ## Maths 
-- MSRI (Derived Algebraic Geometry workshop for women) (bay area)
-- Simons Institute (Error-correcting codes workshop) (bay area)
-- Cornell Number Theory Conference 2019 (NY)
+- MSRI (Derived Algebraic Geometry workshop for women) (bay area; Berkeley, CA)
+- Simons Institute (Error-correcting codes workshop) (bay area; Berkeley, CA)
+- Cornell Number Theory Conference 2019 (Ithaca, NY)
 - ICERM (Providence, RI)
+- IPAM (UCLA, LA)
 
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
