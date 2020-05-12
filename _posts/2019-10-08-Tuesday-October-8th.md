@@ -38,6 +38,8 @@
 - I received an ALife Conference Student Scholarship award to attend the virtual conference this year! [ May ]
 - I have been featured in [The Women of Silicon Valley: Caribbean Techies](https://medium.com/caribbeantechies/4-questions-with-krystal-a-maughan-2fa2ed9ab9fe). It talks about my journey into tech.
 - I'm attending the NASA Formal Methods 2020 conference (now virtual), including their sessions on AI for Safety and their Workshop on Formal Methods for Cryptographic Proofs [ May ]
+- I was asked to be a programme committee member and reviewer for the LXAI workshop at ICML [ May ]
+- I was chosen (1 of 18) to attend the online version of the Dark Matters workshp at the School for Poetic Computation, which is being taught by American Artist, and covers issues of technology, surveillance, and ethics [ May ]
 
 
 ## 2019
