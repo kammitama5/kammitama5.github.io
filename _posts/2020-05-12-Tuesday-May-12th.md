@@ -55,7 +55,9 @@
   that goes "California...seems so golden..but there's struggle everywhere". 
 - One night on a train ride home, a girl went to a party with her friends and someone got into a fight and her friends were trying to make sure she stayed up on the train, because she might have gotten a concussion. Another time, two seats
   away from me, an African American guy and a Latino guy got into a fight and started swinging at each other on a moving
-  train, and the Latino guy was clearly drunk, so he wasn't the most accurate at taking a swing at the other guy.
+  train, and the Latino guy was clearly drunk, so he wasn't the most accurate at taking a swing at the other guy, while the rest of us just tried to get out of the way, after late, long shifts and night schools. Running for the train and missing it
+  by a minute (because your connection was late) meant waiting forty five minutes for the next one. Eventually we made the best of it by waving at each other;
+  we had gotten used to being the regulars running for the hourly train. 
   Another guy once told me he was on the train once, listening to music, and then he heard nothing; someone had stolen
   his iPod while he dozed off. 
 - I remember a friend of mine telling me that he wanted to move because someone took a dump in their shared washer and 
