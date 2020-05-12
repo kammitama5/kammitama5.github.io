@@ -9,8 +9,8 @@
   very systems and entities with which you are supposed to interact, or to represent. 
 - I'm reading a book at the moment that is pertinent to my area of research, but also talks about people who 
   don't have much. I also read a paper recently where the author was so angry that his words were like bile 
-  etched onto a page. It definitely was not a Computer Science paper, because we...(don't have empathy? A soul? Have important algorithms to explore? Would rather fight over syntax than over the human condition?). It was the first time in a while I had felt that kind of rage come out of a book. Most  
-  books are filled with fake niceties; the raw emotions are edited out. "You can't use that word; it's much too...caustic."
+  etched onto a page. It definitely was not a Computer Science paper, because we...(don't have empathy? A soul? Have important algorithms to explore? Would rather fight over syntax than over the human condition?). It was the first time in a while I had felt that kind of rage come out of a book. 
+- Most books are filled with fake niceties; the raw emotions are edited out. "You can't use that word; it's much   too...caustic."
 - Right now, quite a few of my friends are struggling, but there's a distinction that is clear
   between those who are hanging on and won't bounce back as quickly, and those for whom things will turn out just fine
   (because of their skills, support group, etc). And it feels *uncomfortable*. I mean, you can't really tell someone
