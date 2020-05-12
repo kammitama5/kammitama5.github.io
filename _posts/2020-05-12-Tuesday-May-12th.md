@@ -50,7 +50,7 @@
 ## Even then
 - I would still spend Christmas feeding the homeless in LA when I didn't have, because I still knew I'd be okay. 
 Someone I knew once went out with me one day, and when we were checking out at the cashier's,
-they skipped ahead of me, with the assumption that I would pay for both their food and mine. Some might say it was insincere and a crappy thing to do (and I could agree with that), but it was also a reminder that the person thought I had more than they did, and they was desperate; it was an act of desperation at the time. There are things that remind you of those differences.
+they skipped ahead of me, with the assumption that I would pay for both their food and mine. Some might say it was insincere and a crappy thing to do (and I could agree with that), but it was also a reminder that the person thought I had more than they did, and they were desperate; it was an act of desperation at the time. There are things that remind you of those differences.
 - There are some incidents that stay with me forever, though. 
   It's the feeling of being surrounded by those who have given up hope, which you see a lot of if you've hung around
   people who don't have. One such moment was seeing a construction worker sick to his stomach on the train just 20
