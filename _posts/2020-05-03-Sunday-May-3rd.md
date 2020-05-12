@@ -149,10 +149,17 @@ Love Movement Show
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester/ sdet/ plans of making me a build/release engineer but I quit before then? for six months (LA)
-- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, Curry On, AAAI, ICFP, POPL, PLDI) and Developer (Google I/O, Twilio's Signal, Strange Loop, Defcon etc), Hackaday's Superconference (SF and LA), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times. (LA)
+- 1 of 4 chosen for mentorship with developer Mentorship (out of 100) via LearnTeachCode (getting our feet wet with what it
+  means to work as a web developer; I was 1 of 2 of the "intermediate" and in turn had to mentor 2 students).
+- Been to many conferences, including Acadia (Computational Architecture conf at USC), Film ones (Cinegear), Academic ones (eg Neurips, Curry On, AAAI, ICFP, POPL, PLDI, ICLR (virtual), ICML (virtual), ALife (virtual)) and Developer (Google I/O, Twilio's Signal, Strange Loop, Defcon, SCALE, LayerOne, etc), Hackaday's Superconference (SF and LA), or even just open houses (I've been to three JPL Open Houses) and was part of [NCAS](https://www.jpl.nasa.gov/edu/news/2016/4/12/live-blog-ncas-spring-2016/7/) class of 2016 April cohort. I've also been to a few Von Karman lectures and to the JPL German Club several times. (LA)
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc). This how I found functional programming, and research papers, and started whetting my appetite for what I would enjoy in tech. (various)
 - I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, Netflix, etc (various)
 - My story has been covered by [Coursera](https://blog.coursera.org/learner-story-film-architecture-python-programming/), and featured in [The Women of Silicon Valley: Caribbean Techies](https://medium.com/caribbeantechies/4-questions-with-krystal-a-maughan-2fa2ed9ab9fe). If you have made it to the end of this list, know that I am grateful for the journey, and also for the privilege of your time.
+
+## Ethics and Identity
+- Code 2040 (Summer 2020; online)
+- Lighthouse3 Data+Ethics mentorship (Summer 2020; online)
+- "Dark Matters Workshop", School for Poetic Computation (Summer 2020; online)
 
 ## Sailing
 - I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group. Maybe we sailed to Catalina Island or to Newport beach together? (CA)
