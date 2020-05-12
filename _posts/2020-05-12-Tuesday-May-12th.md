@@ -53,6 +53,11 @@
   people who don't have. One such moment was seeing a construction worker sick to his stomach on the train just 20
   feet away from me on a packed train. There's a lot of that in LA. There's that famous line from that Avicii song
   that goes "California...seems so golden..but there's struggle everywhere". 
+- One night on a train ride home, a girl went to a party with her friends and someone got into a fight and her friends were trying to make sure she stayed up on the train, because she might have gotten a concussion. Another time, two seats
+  away from me, an African American guy and a Latino guy got into a fight and started swinging at each other on a moving
+  train, and the Latino guy was clearly drunk, so he wasn't the most accurate at taking a swing at the other guy.
+  Another guy once told me he was on the train once, listening to music, and then he heard nothing; someone had stolen
+  his iPod while he dozed off. 
 - I remember a friend of mine telling me that he wanted to move because someone took a dump in their shared washer and 
   dryer again. The neighbours were too loud and someone stole another pair of jeans from their laundry again. Another friend of mine was paying to set up in someone's garage and asking (again) if someone knew of anyone who had a couch they could crash on. Another friend was staying in an apartment where cockroaches would regularly come up from her sink. Yet another
   said if things didn't work out, there was this guy they might try to marry to stay in the country (uh..totally illegal). At the same time,
