@@ -22,7 +22,7 @@
 - But when I was getting started, it was different. It was a different reality of being cheap labour *without* any
   pedigree; just another immigrant. It was a different feeling of staying up until 1am to make sure that money hits your account (just in case).
 - It was a different feeling riding the train or bus, coming home, and still having the smell of homelessness on you, or
-  praying someone wasn't smoking too close to you that your clothes would reek of marijuana, because you *really* couldn't
+  praying someone wasn't smoking so close to you that your clothes would reek of marijuana, because you *really* couldn't
   afford to do another batch of laundry (by coin wash, of course).
 - It was a diffeent feeling of knowing that the only way things would work out financially is if you shopped at the stores where all the other
   underpaid immigrants shopped. That changed after I got my green card. It was as though I had stepped into the echelons of
