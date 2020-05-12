@@ -14,7 +14,7 @@
 - Right now, quite a few of my friends are struggling, but there's a distinction that is clear
   between those who are hanging on and won't bounce back as quickly, and those for whom things will turn out just fine
   (because of their skills, support group, etc). And it feels *uncomfortable*. I mean, you can't really tell someone
-  "things turn out okay" when you know you're full of it. You can't even lie to them about it. 
+  "things will turn out okay" when you know you're full of it. You can't even lie to them about it. 
 
 ## It's a different feeling in the latter category
 - I can still ride the bus and swipe my card for free; people on the bus can see the logo from my school and 
