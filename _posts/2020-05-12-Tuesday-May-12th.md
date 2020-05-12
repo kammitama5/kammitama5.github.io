@@ -2,7 +2,7 @@
 
 ## I wanted to talk about being broke
 - I am currently studying through funding (via a stipend), but I don't feel broke or poor. In fact, I live quite
-  confortably. Having the comfort of the Academic community gives a certain guarantee that things will be 
+  comfortably. Having the comfort of the Academic community gives a certain guarantee that things will be 
   okay; things will work out. They may not be as grand as you expect, but they're in no way the same way
   as the times when I didn't have much or I was seen as *not much*.
 - In Academia, you are still one of the chosen ones; you have potential. But sometimes that is in conflict with the 
