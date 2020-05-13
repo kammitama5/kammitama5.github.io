@@ -131,7 +131,7 @@ Love Movement Show
 - Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday (LA, SF)
-- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners did PCB soldering; first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
+- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
