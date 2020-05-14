@@ -41,6 +41,7 @@
 - I was asked to be a programme committee member and reviewer for the LXAI workshop at ICML [ May ]
 - I was chosen (1 of 18) to attend the online version of the Dark Matters workshop at the School for Poetic Computation, which is being taught by American Artist, and covers issues of technology, surveillance, and ethics [ May ]
 - I was selected for the LXAI Research Mentorship Programme for ICML, which entails being matched with a senior research scientist in AI and meeting with them until ICML to discuss career goals, mentorship in research [ May ]
+- I am participating as a mentee for S&P/Oakland's Speed Mentoring. Such a great idea for young researcher/senior research interaction! [ May ]
 
 ## 2019
 
