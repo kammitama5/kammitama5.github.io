@@ -40,7 +40,7 @@
 - I'm attending the NASA Formal Methods 2020 conference (now virtual), including their sessions on AI for Safety and their Workshop on Formal Methods for Cryptographic Proofs [ May ]
 - I was asked to be a programme committee member and reviewer for the LXAI workshop at ICML [ May ]
 - I was chosen (1 of 18) to attend the online version of the Dark Matters workshop at the School for Poetic Computation, which is being taught by American Artist, and covers issues of technology, surveillance, and ethics [ May ]
-
+- I was selected for the LXAI Research Mentorship Programme for ICML, which entails being matched with a senior research scientist in AI and meeting with them until ICML to discuss career goals, mentorship in research [ May ]
 
 ## 2019
 
