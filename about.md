@@ -48,6 +48,7 @@ be TA-ing a Compilers course in Haskell and another CS course.
 
 - [NCWIT](https://www.facebook.com/groups/AspirationsAward/)
 - [Black in AI](https://blackinai.github.io/)
+- [LXAI](https://www.latinxinai.org/)
 - [WINN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 - [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
