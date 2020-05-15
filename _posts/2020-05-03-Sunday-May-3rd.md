@@ -137,6 +137,11 @@ Love Movement Show
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
   through Banjul and Serrekunda working and living in a hospital (Sulayman Junkung Hospital) where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school through a programme called "Operation Crossroads Africa". (West Africa)
   
+
+<img src="/images/doiknowyou/bwiam_001.png" width="400">
+
+- A group photo. A lot of these people are now doctors or medical practicioners. What am I doing with my life again?
+  
 ## Maths 
 - MSRI (Derived Algebraic Geometry workshop for women) (bay area; Berkeley, CA)
 - Simons Institute (Error-correcting codes workshop) (bay area; Berkeley, CA)
