@@ -20,7 +20,7 @@
   as the studios were convinced that the future was 3D; 3D vfx, 3D movies, 3D art.
 - I was given the privilege (because I was a full-time employee working in entertainment) of being trained in these
   classes for free, but some of my peers were also given grants because they were unemployed, and this school was a solution
-  set up by the union to help these artists transition to find work.
+  set up by the film unions (Art Director's Guild, Animation Guild, etc) to help these artists transition to find work.
 - It was the first time I sat in a class as a young whipper-snapper (ha!) quickly grasping the 3D concepts and enjoying
   the new world of software and how it could create art. But it was also incredibly humbling that sitting beside me
   were persons who had garned several of the highest awards in Hollywood, but who had found themselves out of work
