@@ -23,10 +23,16 @@
   set up by the film unions (Art Director's Guild, Animation Guild, etc) to help these artists transition to find work.
 - It was the first time I sat in a class as a young whipper-snapper (ha!) quickly grasping the 3D concepts and enjoying
   the new world of software and how it could create art. But it was also incredibly humbling that sitting beside me
-  were persons who had garned several of the highest awards in Hollywood, but who had found themselves out of work
+  were persons who had garnered several of the highest awards in Hollywood, but who had found themselves out of work
   because "no one wants 2D drawings anymore". And therefore, I unwittingly found myself at the intersection of the effects
   of technology disruption on people I personally interacted with and knew. Many of them were older artists, veterans of
   the industry; if I mentioned their names, people would look in awe. And yet, they were out of work.
+- Some sat beside me in class, wanting to know who I was and why I was taking the class, and they had all the connections
+  in the world, all the experience in the world. If I had a fraction of the success they had had in Hollywood, I would be
+  considered a massive success in my home country. And yet, they sat there, disheveled, begging the head of the school
+  if there was any way they could take a specific class with a professor they knew "might be working on huge movie" and 
+  if they did well enough in the class and showed their portfolio, maybe they would be hired again, because "that person
+  works a lot".
   
 ## A second time
 - The film industry, like tech, is filled with these disruptions. Another incident was the dwindling of film as a technology
