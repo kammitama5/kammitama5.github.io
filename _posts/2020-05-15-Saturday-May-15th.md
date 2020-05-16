@@ -2,7 +2,12 @@
 
 ## I've had this weird relationship with technology
 - A person I made friends with this week at large unnamed tech company and I were speaking about our relationships with
-  technology. As it turns out, we both had experiences with similar locations, and saw it change with time.
+  technology. As it turns out, we both had experiences with similar locations, and saw it change with time. When I came
+  back from the Bay area to pack (I lived in the North Hollywood Arts district, which was for artists and filmmakers and
+  budding actors getting their foot in the door when I first moved there), it was heavily gentrified and I barely recognized
+  my own neighbourhood. It was terrifying and I was almost happy to leave and start a new chapter. There were so many
+  people who looked like what I was. No more [Millenium Dance Complex](https://en.wikipedia.org/wiki/The_Millennium_Dance_Complex); they had long moved. And all the nook artist galleries
+  were slowly losing their leases; who can afford to pay their employees $14 a day and pay rent there anymore?
 - As I have said many times, I've always been this hybrid art-techie person, so that means I've lived at the intersection
   of having both friends in the Arts, or in Tech, or anything in between. I've also been at both ends of the spectrum in
   terms of experiencing the struggle of living on a mattress (my first visit to San Francisco; which was to draw with a 
