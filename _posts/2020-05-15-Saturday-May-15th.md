@@ -1,7 +1,7 @@
 ## Making, Technology and Humans
 
 ## I've had this weird relationship with technology
-- A person I made friends with this week at large unnamed tech company and I were speaking about our relationships with
+- A person I made friends with this week (at large unnamed tech company) and I were speaking about our relationships with
   technology. As it turns out, we both had experiences with similar locations, and saw it change with time. When I came
   back from the Bay area to pack (I lived in the North Hollywood Arts district, which was for artists and filmmakers and
   budding actors getting their foot in the door when I first moved there), it was heavily gentrified and I barely recognized
