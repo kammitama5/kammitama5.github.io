@@ -31,7 +31,7 @@
   connections and wasn't particularly useful to anyone), and they had all the connections
   in the world, all the experience in the world. If I had a fraction of the success they had had in Hollywood, I would be
   considered a massive success in my home country. And yet, they sat there, disheveled, begging the head of the school
-  if there was any way they could take a specific class with a professor they knew "might be working on huge movie" and 
+  to see if there was any way they could sit in on a specific class with a professor they knew "might be working on huge movie" and 
   if they did well enough in the class and showed their portfolio, maybe they would be hired again, because "that person
   works a lot".
   
