@@ -3,7 +3,7 @@
 ## I've had this weird relationship with technology
 - A person I made friends with this week (at large unnamed tech company) and I were speaking about our relationships with
   technology. As it turns out, we both had experiences with similar locations, and saw it change with time. When I came
-  back from the Bay area to pack (I lived in the North Hollywood Arts district, which was for artists and filmmakers and
+  back from the Bay area to pack (I lived in the [North Hollywood Arts district](https://en.wikipedia.org/wiki/NoHo_Arts_District,_Los_Angeles), which was for artists and filmmakers and
   budding actors getting their foot in the door when I first moved there), it was heavily gentrified and I barely recognized
   my own neighbourhood. It was terrifying and I was almost happy to leave and start a new chapter. There were so many
   people who looked like what I was. No more [Millenium Dance Complex](https://en.wikipedia.org/wiki/The_Millennium_Dance_Complex); they had long moved. And all the nook artist galleries
