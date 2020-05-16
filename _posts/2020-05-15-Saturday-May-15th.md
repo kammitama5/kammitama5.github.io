@@ -13,7 +13,7 @@
   terms of experiencing the struggle of living on a mattress (my first visit to San Francisco; which was to draw with a 
   friend; we stayed in the [Tenderloin district](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco) and it was glorious and fun!) and the luxury of working in Silicon Valley.
   
-## What I'd like to talk about
+## Tech as Disruption
 - One of my first interactions, however, was through a school I joined that was a direct result of technology disrupting
   art. It was a school created by the Film Industry (specifically the Animation industry) to help artists transition
   from 2D to 3D. You see, at the time, huge studios were laying off 2D artists and hiring more and more 3D and vfx artists,
