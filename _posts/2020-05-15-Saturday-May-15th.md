@@ -1,4 +1,4 @@
-## Making, Technology and Humans
+## Making, Technology and Humans and Displacement
 
 ## I've had this weird relationship with technology
 - A person I made friends with this week (at large unnamed tech company) and I were speaking about our relationships with
