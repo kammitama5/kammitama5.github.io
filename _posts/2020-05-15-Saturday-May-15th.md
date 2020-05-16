@@ -53,6 +53,10 @@
   What was ironic to me about it is that many of these artists out of necessity *had* to transition to digital sketching
   tools, Cintiqs and Wacoms, to make a living. But they still saw a clear divide between the world of artists and the 
   world of "those people" in tech. 
+- The artists are "the creatives", the ones with ideas, and the techies look down on the artists as not being "good enough"
+  to do what they do. There is perpetual conflict and denigration between both sides. And yet, I stand being pulled 
+  in and out like a tide between both groups. I support my artists friends as best I can, while chastising ego in 
+  tech. I want both to exist together, because they exist in my head, and both represent parts of who I am.
 - I cannot change who I am today, and it's been a journey, but I have those sensitivies about who I was, who I am and
   my future path, and they inform questions I have about the ethical nature of technology.
   
