@@ -27,7 +27,8 @@
   because "no one wants 2D drawings anymore". And therefore, I unwittingly found myself at the intersection of the effects
   of technology disruption on people I personally interacted with and knew. Many of them were older artists, veterans of
   the industry; if I mentioned their names, people would look in awe. And yet, they were out of work.
-- Some sat beside me in class, wanting to know who I was and why I was taking the class, and they had all the connections
+- Some sat beside me in class, wanting to know who I was and why I was taking the class (but only briefly; I had little 
+  connections and wasn't particularly useful to anyone), and they had all the connections
   in the world, all the experience in the world. If I had a fraction of the success they had had in Hollywood, I would be
   considered a massive success in my home country. And yet, they sat there, disheveled, begging the head of the school
   if there was any way they could take a specific class with a professor they knew "might be working on huge movie" and 
