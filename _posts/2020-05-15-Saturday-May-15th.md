@@ -11,7 +11,7 @@
 - As I have said many times, I've always been this hybrid art-techie person, so that means I've lived at the intersection
   of having both friends in the Arts, or in Tech, or anything in between. I've also been at both ends of the spectrum in
   terms of experiencing the struggle of living on a mattress (my first visit to San Francisco; which was to draw with a 
-  friend, and stayed in the Tenderloin district) and the luxury of working in Silicon Valley.
+  friend; we stayed in the Tenderloin district and it was glorious and fun!) and the luxury of working in Silicon Valley.
   
 ## What I'd like to talk about
 - One of my first interactions, however, was through a school I joined that was a direct result of technology disrupting
