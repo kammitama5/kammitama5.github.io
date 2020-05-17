@@ -65,6 +65,9 @@
 - I cannot change who I am today, and it's been a journey, but I have those sensitivies about who I was, who I am and
   my future path, and they inform questions I have about the ethical nature of technology.
   
+## Throughout all of it
+- I've also felt, there are other groups/organizations/systems, etc that are manipulating us, pitting us against each other. Perhaps we should focus more on ways we can understand each other and work together? Perhaps we can dismantle those systems that are working to ensure we are distracted by the pettiness of "art vs tech" as an "us vs them" battle? Surely, we can find ways to do good that have commonalities between groups. Surely we can collaborate, even though we have differences?
+  
 ## Anyways
 - Here is one of the first renders I did in Solidworks at night school
 
