@@ -44,7 +44,7 @@
 - The third was the advent of smaller cameras
   and streaming or "webisodes", which meant that the film industry no longer needed large crews to shoot movies, and everyone was shooting with a DLSR (Canon 5 and 7Ds). Instead
   of, in the 90s, million dollar music videos and lots of 50 million dollar budget movies, now there were just 200 million
-  dollar movies that everyone wanted to get on, and movies that were 150 dollars a day. We were used to disruption.
+  dollar movies that everyone wanted to get on, and movies that were 150 dollars a day. We were used to disruption, but we quietly accepted it as a natural occurrence.
   
 ## As someone at the intersection of humans and technology
 - Today, I am again at the intersection of humans and technology, researching privacy, fairness and machine learning. 
@@ -66,7 +66,8 @@
   my future path, and they inform questions I have about the ethical nature of technology.
   
 ## Throughout all of it
-- I've also felt, there are other groups/organizations/systems, etc that are manipulating us, pitting us against each other. Perhaps we should focus more on ways we can understand each other and work together? Perhaps we can dismantle those systems that are working to ensure we are distracted by the pettiness of "art vs tech" as an "us vs them" battle? Surely, we can find ways to do good that have commonalities between groups. Surely we can collaborate, even though we have differences?
+- I've also felt, there are other groups/organizations/systems, etc that are manipulating us, pitting us against each other.
+Perhaps it starts with the myopic groupings of subjects in schools? Maybe it filtered into the intentional class hierarchy (which was, I was told, had a militaristic history) of industries like the entertainment industry? Perhaps we should focus more on ways we can understand each other and work together. Perhaps we can dismantle those systems that are working to ensure we are distracted by the pettiness of "art vs tech" as an "us vs them" battle. Surely, we can find ways to do good that have commonalities between groups. Surely we can collaborate, even though we have differences.
   
 ## Anyways
 - Here is one of the first renders I did in Solidworks at night school
