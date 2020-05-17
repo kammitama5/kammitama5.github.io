@@ -4,7 +4,7 @@
 - A person I made friends with this week (at large unnamed tech company) and I were speaking about our relationships with
   technology. As it turns out, we both had experiences with similar locations, and saw it change with time. When I came
   back from the Bay area to pack (I lived in the [North Hollywood Arts district](https://en.wikipedia.org/wiki/NoHo_Arts_District,_Los_Angeles), which was for artists and filmmakers and
-  budding actors getting their foot in the door when I first moved there), it was heavily gentrified and I barely recognized
+  budding actors getting their foot in the door when I first moved there; I say this acknowledging that neighbourhoods change, and not with the ego and naivete of a person I once met who claimed that "everything about San Francisco was made for programmers" lol; imperialist mentality much? ), it was heavily gentrified and I barely recognized
   my own neighbourhood. It was terrifying and I was almost happy to leave and start a new chapter, even though my heart ached from leaving a place I lived for so many years; it was a lot of fun living there! But it wasn't the same place I had moved to years ago. Now, there were so many
   people who looked like what I was; tech hoodies and techie hats with weird esoteric tshirts going to drink craft beers and tapas. No more [Millenium Dance Complex](https://en.wikipedia.org/wiki/The_Millennium_Dance_Complex); they had long moved. And all the [nook artist galleries](https://culturela.org/cultural-centers/lankershim-arts-center/)
   were slowly losing their leases; who can afford to pay their employees $14 a day and pay rent there anymore?
@@ -49,7 +49,7 @@
   It's a difficult place to be in, as some people might see me as on the "side that is the problem". I remember clearly
   when I told the very friend I went to San Francisco with that I was getting more into programming 
   (I drifted into it by accident; it was the last thing I ever intended to do), they decided that
-  I was a "sellout", and shortly thereafter, our friendship ended. The two can't exist together, they thought.
+  I was a "sellout", and shortly thereafter, our friendship ended. I didn't feel angered about it, but rather felt like it was the Universe telling me that it was time to move on, which I've felt many times in my life. But I've asked myself the question several times why people think the two can't exist together, and why my friend thought this way.
   What was ironic to me about it is that many of these artists out of necessity *had* to transition to digital sketching
   tools, Cintiqs and Wacoms, to make a living. But they still saw a clear divide between the world of artists and the 
   world of "those people" in tech. 
