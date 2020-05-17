@@ -11,7 +11,7 @@
 - As I have said many times, I've always been this hybrid art-techie person, so that means I've lived at the intersection
   of having both friends in the Arts, or in Tech, or anything in between. I've also been at both ends of the spectrum in
   terms of experiencing the struggle of living on a mattress (my first visit to San Francisco; which was to draw with a 
-  friend; we stayed in the [Tenderloin district](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco) and it was glorious and fun!) and the luxury of working in Silicon Valley. I've hung around "the cool people", while feeling dreadfully uncool.
+  friend; we stayed in the [Tenderloin district](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco) and it was glorious and fun!) and the luxury of working in Silicon Valley. I've hung around "the cool people" (literal rock stars and movie stars), while feeling dreadfully uncool (I would always say something awkward that would throw everyone off, that would remind me that I'm not cool, and a bit of a weirdo).
   
 ## Tech as Disruption
 - One of my first interactions, however, was through a school I joined that was a direct result of technology disrupting
