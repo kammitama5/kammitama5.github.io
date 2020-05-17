@@ -36,7 +36,7 @@
   works a lot". There is a saying in Hollywood; "be nice to people on the way up, because you might meet them again on the way down".
   
 ## A second time
-- The film industry, like tech, is filled with these disruptions. First we were interested in CCD, and then 14-bit ray bayer formats. Another incident was the dwindling of film as a technology
+- The film industry, like tech, is filled with these disruptions. First we were interested in CCD, and then [14-bit raw bayer](https://en.wikipedia.org/wiki/Bayer_filter) formats. Another incident was the dwindling of film as a technology
   for shooting movies, and the growing enthusiasm by directors and producers for using video (Less Kodak Vision3 500T 7219 stock, more Red and digital downloading packages). There was a debate between the new DIT role, which included a lot of people with extensive knowledge who had come over from tech during the dot com bust to fill those roles, and camera operators *hated* working with them, because they were so "techie" and made comparably a lot more than they did (I recall one saying they wouldn't get out of bed for less than 3K a day). Camera operators also saw themselves more-so as artists and craftsmen (there still aren't a lot of women in the field, and it sucks so I'll say "craftsmen"). All of a sudden, young
   people with barely ten years of experience who bought video cameras were just as hirable (in theory, not in terms of skill
   necessarily) as veteran cinematographers, and everyone was scrambling for work. Then the wave of 3D cameras, where everyone was scrambling to learn about pitch, roll, and yaw and how to align stereoscopic rigs with cameras. The third was the advent of smaller cameras
