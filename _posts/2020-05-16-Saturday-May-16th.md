@@ -14,12 +14,12 @@
   friend; we stayed in the [Tenderloin district](https://en.wikipedia.org/wiki/Tenderloin,_San_Francisco) and it was glorious and fun!) and the luxury of working in Silicon Valley. I've hung around "the cool people" (literal rock stars and movie stars), while feeling dreadfully uncool (I would always say something awkward that would throw everyone off, that would remind me that I'm not cool, and a bit of a weirdo).
   
 ## Tech as Disruption
-- One of my first interactions, however, was through a school I joined that was a direct result of technology disrupting
+- One of my first interactions (with disruption) was through a school I joined that was a direct result of technology disrupting
   art. It was a school created by the Film Industry (specifically the Animation industry) to help artists transition
   from 2D to 3D. You see, at the time, huge studios were laying off 2D artists and hiring more and more 3D and vfx artists,
   as the studios were convinced that the future was 3D; 3D vfx, 3D movies, 3D art.
 - I was given the privilege (because I was a full-time employee working in entertainment) of being trained in these
-  classes for free, but some of my peers were also given grants because they were unemployed, and this school was a solution
+  classes for free (and I was on the technical side of the industry, with a steady job at the time, so my situation wasn't dire), but some of my peers were also given grants because they were unemployed, and this school was a solution
   set up by the film unions (Art Director's Guild, Animation Guild, etc) to help these artists transition to find work.
 - It was the first time I sat in a class as a young whipper-snapper (ha!) quickly grasping the 3D concepts and enjoying
   the new world of software and how it could create art. But it was also incredibly humbling that sitting beside me
@@ -33,7 +33,7 @@
   considered a massive success in my home country. And yet, they sat there, disheveled, begging the head of the school
   to see if there was any way they could sit in on a specific class with a professor they knew "might be working on huge movie" and 
   if they did well enough in the class and showed their portfolio, maybe they would be hired again, because "that person
-  works a lot".
+  works a lot". There is a saying in Hollywood; "be nice to people on the way up, because you might meet them again on the way down".
   
 ## A second time
 - The film industry, like tech, is filled with these disruptions. Another incident was the dwindling of film as a technology
