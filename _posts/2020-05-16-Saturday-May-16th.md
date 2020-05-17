@@ -44,7 +44,7 @@
 - The third was the advent of smaller cameras
   and streaming or "webisodes", which meant that the film industry no longer needed large crews to shoot movies, and everyone was shooting with a DLSR (Canon 5 and 7Ds). Instead
   of, in the 90s, million dollar music videos and lots of 50 million dollar budget movies, now there were just 200 million
-  dollar movies that everyone wanted to get on, and movies that were 150 dollars a day. 
+  dollar movies that everyone wanted to get on, and movies that were 150 dollars a day. We were used to disruption.
   
 ## As someone at the intersection of humans and technology
 - Today, I am again at the intersection of humans and technology, researching privacy, fairness and machine learning. 
