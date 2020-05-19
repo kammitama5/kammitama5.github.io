@@ -122,9 +122,14 @@ Love Movement Show
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there). Learned about generative art and started programming interest here (LA)
 - Matt's Molten Metalworks (LA); I took a few classes there, including one on MIG welding and mobile sculpture inspired by MIT's sculptures (person who ran shop was a MechE from MIT) (LA)
 - MakeSpace Arts;  I tried to go to their sculpting workshops, but I think they eventually folded :( (LA)
-- Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
+- Makerden / Acrobotic; did quite a few fun electronics classes here including setting up a weather server, and a home detection system (in Python) (LA)
 - Keystone Art Space (I think the building was bought by the Agassis (yup the tennis players) and turned into a school) (LA)
 - I also designed a movie poster once for [M. Nankin](https://en.wikipedia.org/wiki/Michael_Nankin) and [D. Simkins](https://en.wikipedia.org/wiki/David_Simkins) (one of them worked on the tv show Grimm or something).
+
+<img src="/images/doiknowyou/littlelaptop.png" width="400">
+
+- I enjoyed the Meetup / maker / hacker scene a lot, but I didn't have a lot of resources. I was so broke at the time that the extra money I had I would sink into bidding on laptops on ebay (this was an example of a bid I lost, but this was about the range of laptops I'd bid on). I started out Google Summer of Code on a laptop that looked like this, and even tried to do a Tensorflow workshop once on this, but Tensorflow (at the time) didn't work with this kind of laptop, and for GSoC, my laptop took all day to build, and Google Hangouts would work on it. So sharing my screen and building code at the same time was out of the question, until I was gifted a laptop by my mentor, and then by Nadia Eghbal by way of a Helium Grant to complete GSoC.
+I'm really thankful that no one judged me during this time; they were all really supportive and tried to work with my OS so I could follow along and get as much out of workshops as possible. 
 
 ## Hackerspaces (Maker/hacker scene)
 - Null Space Labs (LA)
