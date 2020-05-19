@@ -166,7 +166,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Many, many tech meetups (WWC, LearnTeachCode, Santa Monica Haskell Group, Papers We Love, Data Science Meetups, etc). This how I found functional programming, and research papers, and started whetting my appetite for what I would enjoy in tech. (various)
 - I've also participated in User Research Studies for StackOverflow, Google (4x), Udacity, AT&T
 - I've also been invited to formal recruiting events at: Twitter, Quora, Google, LinkedIn, Netflix, etc (various)
-- My story has been covered by [Coursera](https://blog.coursera.org/learner-story-film-architecture-python-programming/), and featured in [The Women of Silicon Valley: Caribbean Techies](https://medium.com/caribbeantechies/4-questions-with-krystal-a-maughan-2fa2ed9ab9fe). If you have made it to the end of this list, know that I am grateful for the journey, and also for the privilege of your time.
+- My story has been covered by [Coursera](https://blog.coursera.org/learner-story-film-architecture-python-programming/), and featured in [The Women of Silicon Valley: Caribbean Techies](https://medium.com/caribbeantechies/4-questions-with-krystal-a-maughan-2fa2ed9ab9fe) and on the Corecursive podcast. If you have made it to the end of this list, know that I am grateful for the journey, and also for the privilege of your time.
 
 ## Ethics and Identity
 - Code 2040 (Summer 2020; online)
