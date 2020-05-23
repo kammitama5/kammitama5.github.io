@@ -173,7 +173,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 ## Ethics and Identity
 - Code 2040 (Summer 2020; online)
 - Lighthouse3 Data+Ethics mentorship (Summer 2020; online)
-- "Dark Matters Workshop", School for Poetic Computation (Summer 2020; online)
+- "Dark Matters Workshop", [School for Poetic Computation](https://en.wikipedia.org/wiki/School_for_Poetic_Computation) (Summer 2020; online)
 
 ## Sailing
 - I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group. Maybe we sailed to Catalina Island or to Newport beach together? (CA)
