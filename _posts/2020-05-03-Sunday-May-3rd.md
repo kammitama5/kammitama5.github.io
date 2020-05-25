@@ -121,7 +121,7 @@ Love Movement Show
 
 <img src="/images/doiknowyou/procedural.png" width="400">
 
-- This is not made one by one, by rather a series of generated points, thickened with a pipe tool, and constrained within a geometry (in this case, a hollowed out cube). This was the beginning (via [Somewhere Something](http://www.somewheresomething.com/) and learning about the work of and meeting [Marc Fornes](https://theverymany.com/)) of learning about node-based and generative art and architecture through programming in [Rhino with Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D). 
+- This is not made one by one, by rather a series of generated points, thickened with a pipe tool, and constrained within a geometry (in this case, a hollowed out cube). This was the beginning (via [Somewhere Something](http://www.somewheresomething.com/) and learning about the work of and meeting [Marc Fornes](https://theverymany.com/)) of learning about node-based and generative art and architecture through programming in [Rhino with Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D) in [2014](http://2014.acadia.org/workshops.html). 
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
