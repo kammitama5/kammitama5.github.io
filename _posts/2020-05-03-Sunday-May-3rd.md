@@ -119,6 +119,10 @@ Love Movement Show
 - Gnomon (took one sculpting class there) (LA)
 - I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
 
+<img src="/images/doiknowyou/procedural.png" width="400">
+
+- This is not made one by one, by rather a series of generated points, thickened with a pipe tool, and constrained within a geometry (in this case, a hollowed out cube). This was the beginning (via [Somewhere Something](http://www.somewheresomething.com/) and learning about the work of and meeting [Marc Fornes](https://theverymany.com/)) of learning about node-based and generative art and architecture through programming in [Rhino with Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D). 
+
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there). Learned about generative art and started programming interest here (LA)
