@@ -29,7 +29,7 @@
 - I became part of the Open-Mined writing team, and will work with others to produce technical articles and blog posts involving Deep Learning and Differential Privacy, among other things [ March ]
 - I'm working my way through the DeepLearning.ai Specialization to complement my Machine Learning and Research coursework; I completed course 1 (Neural Networks and Deep Learning) , 2 (Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization), 3 (Structuring Machine Learning Projects) [ April ]
 - I've been selected to attend the Bloomberg Women in Engineering two-day event (which is now virtual) [ April ]
-- I've been selected as a volunteer for ICLR, which will be virtual this year [ April ] (*)
+- I've been selected as a [volunteer for ICLR](https://iclr.cc/Conferences/2020/Volunteers), which will be virtual this year [ April ] (*)
 - I received Financial Aid to attend SciPy 2020, which is now virtual [ April ]
 - I was offered a BRAID Funded Scholarship to attend the Grace Hopper Conference 2020. This will include accommodation during the conference, with the group. I accepted :) I'm thankful to my school and for BRAID for this opportunity [ April ]
 - I have been accepted as an NCWIT Change Leader Scholar (CLS) pending my attendance in their introductory session. The Change Leader Scholarship Programme guides students to become leaders within their communities, particularly as women in STEM. It culminates in a Summit that is usually held in person, but will be held virtually this year [ April ]
