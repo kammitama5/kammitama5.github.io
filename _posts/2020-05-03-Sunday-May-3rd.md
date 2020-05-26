@@ -103,6 +103,7 @@ Love Movement Show
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my [friend's](https://www.forbes.com/sites/felicitycarter/2018/03/03/artist-heather-carson-on-sculpted-light/#4520cdb521f7) fine art lighting installation (LA) for the show Light Sensitive.
+- I also attended the [DLFLA meetings in LA](http://www.dlfla.org/calendar.html), which were focused on architectural lighting design. The meetings would usually culminate in an Awards exhibit for the best lighting fixture designs (typically held at GAM)
 - Art Director's Guild (Tuesday nights live drawing). I also took part in one Art Director's Guild gallery show where three of my artworks were featured (LA). Mimi, the head of the Guild at the time, was a great mentor to me. I also learned about the work of [Guy Hendrix Dyas](https://en.wikipedia.org/wiki/Guy_Hendrix_Dyas) and other awesome artists there, and got a lot of free books.
 - Animation Guild (Jon's perspective class and many of Gnass's live drawing classes; Gnass teaches animators at Disney and Dreamworks)(LA)
 - Dr. Sketchy's (took part in their 72 hour long weekends of live drawing; anyone remember Turkish nights themed drawing as well? Put on by the artists at [Titmouse](https://en.wikipedia.org/wiki/Titmouse,_Inc.)) (LA)
