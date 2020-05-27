@@ -143,7 +143,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Null Space Labs (LA)
 - Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
-- Hackaday (LA, SF)
+- Hackaday; I volunteered at the first ever Hackaday Superconference in SF (LA, SF)
 - I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF)
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
