@@ -47,6 +47,9 @@ The guy who taught is the dude who did the [2Pac Hologram](https://www.washingto
 
 <img src="/images/doiknowyou/pixelmapping.png" width="400">
 
+- A lot of this stuff was compounded with the fact that Previs (think ESP Vision software or this other company, D3) was being introduced from the
+  touring industry into film. In this software, you could design about 85% of the lighting and projection mapping just using a CAD model and programme cues as opposed to just having a static model (in Vectorworks and Renderworks) and programming from scratch at the venue. So it saved time. The Lighting designer, Benoit Richard was teaching classes at the union on this at the time, and that sort of simulation technology made me interested in exploring 3D modelling/ vfx; my knowledge of rendering (outside of editing in Final Cut Pro and simple titles) was pretty limited at the time. I also visited PRG to get a run-down of their Virtuoso MBox, which had a similar system, but integrated internally to their systems for projection mapping.
+
 
 ## Institutions (in order of attendance)
 - University of Vermont (currently, as of August 2019; I'm a researcher in training)
