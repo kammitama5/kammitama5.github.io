@@ -112,6 +112,7 @@
 - Privacy: Law, Policy, & Design (196) (FA20)
 
 ## TODO (2020-21)
+- A Game Theory class (EC 138 or online) (SP21)
 - Deep Learning (SP21)
 - Reliability of Engineering Systems (FA21)
 - Reinforcememt Learning (FA21)
