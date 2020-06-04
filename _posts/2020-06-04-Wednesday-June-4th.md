@@ -60,11 +60,11 @@
   understandable, given all that's going on right now. But I'm okay. I might pass out from eating too many seafood salad
   sandwiches, but that's on me mostly.
   
-<img src="/images/doiknowyou/afro.png" width="400">
+<img src="/images/doiknowyou/afro.png" width="300">
 
 - sometimes I grow my hair out. I do not apologize for this. This was probably at some Google event.
 
-<img src="/images/doiknowyou/foodcurry.png" width="300">
+<img src="/images/doiknowyou/foodcurry.png" width="200">
 
 - sometimes I cook curry; it's the one food that reminds me of home. It also reminds me that I'm multi-ethnic. 
   Interestingly, when I was growing up, someone asked my dad "how he felt about living in an East Indian neighbourhood".
