@@ -63,13 +63,13 @@
 <img src="/images/doiknowyou/afro.png" width="300">
 
 - sometimes I grow my hair out. I do not apologize for this. This was probably at some Google event. If you're wondering
-  if I'm okay, you can look at this photo. See? I'm smiling here. 
+  if I'm okay, you can look at this photo. See? I'm smiling here. Tell your friends I'm okay.
 
 <img src="/images/doiknowyou/foodcurry.png" width="200">
 
 - sometimes I cook curry; it's the one food that reminds me of home. It also reminds me that I'm multi-ethnic (try a mix of Spanish, French, Portuguese, African, Indian, Chinese, Native; my mom alone is African/Indian descent). 
   Interestingly, when I was growing up, someone asked my dad "how he felt about living in an East Indian neighbourhood".
-  So you could say I'm used to not fitting in.
+  So you could say I'm used to not fitting in, or fuming silently while people decide things about me without asking.
 
 ## I too have scars
 - I've been chatting with friends and allies back and forth and sometimes I remember some of the incidents, and some of 
