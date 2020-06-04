@@ -43,7 +43,7 @@
   accepted as one of 18 students for one of the full cohorts. I'm truly grateful. What a wonderful community!
 - Finally, I joined the Corecursive Slack. Okay, a friend of mine at a company told me about it, and I joined
   since then, but I wasn't really active. My attitude to a lot of tech groups on Slack is that there is usually a honeymoon period,
-  and then I'll be too honest one day and get kicked off, or someone will get pissed off by something I say (I speak the truth a lot).
+  and then I'll be too honest one day and get kicked off, or someone will get pissed off by something I say (I speak the truth a lot...and it pisses people off. Usually it's unintentional sarcasm).
   When I got to grad school and started feeling more alienated, I drifted more into that community. 
   It's been a source of joy for me. They're a really fun group.
 - I joined a few other groups for women (on Discord, Slack, GroupMe), and they've also been really great. 
