@@ -59,6 +59,16 @@
 - I'm writing this because I have friends who text me and ask me if "I'm okay". They're worried for me. And that's 
   understandable, given all that's going on right now. But I'm okay. I might pass out from eating too many seafood salad
   sandwiches, but that's on me mostly.
+  
+<img src="/images/doiknowyou/afro.png" width="400">
+
+- sometimes I grow my hair out. I do not apologize for this. This was probably at some Google event.
+
+<img src="/images/doiknowyou/foodcurry.png" width="300">
+
+- sometimes I cook curry; it's the one food that reminds me of home. It also reminds me that I'm multi-ethnic. 
+  Interestingly, when I was growing up, someone asked my dad "how he felt about living in an East Indian neighbourhood".
+  So you could say I'm used to not fitting in.
 
 ## I too have scars
 - I've been chatting with friends and allies back and forth and sometimes I remember some of the incidents, and some of 
@@ -72,6 +82,7 @@
   myself. I think that's also important because it propels me forward. It's what drives me to continue to make a difference,
   to keep going, to mentor others like myself, to see others who are hurting and to help them heal, too. One more day. You haven't gotten rid of me quite
   yet. I'm not giving up.
+  
   
 ## This is the summer of healing
 - I've been hanging out in these groups, and it's a mix of people, and it's been great and really positive for me this summer.
