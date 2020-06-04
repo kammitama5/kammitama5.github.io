@@ -41,7 +41,7 @@
 - I signed up for the Dark Matters class at SFPC; I did this because when I saw the description, I think I must have said 
   out loud "this class is perfect!". I imagined myself being there. I was strangely surprised to find an email in my inbox that said that I had been 
   accepted as one of 18 students for one of the full cohorts. I'm truly grateful. What a wonderful community!
-- Finally, I joined the Corecursive Slack. Okay, a friend of mine at company told me about it, and I joined
+- Finally, I joined the Corecursive Slack. Okay, a friend of mine at a company told me about it, and I joined
   since then, but I wasn't really active. My attitude to a lot of tech groups on Slack is that there is usually a honeymoon period,
   and then I'll be too honest one day and get kicked off, or someone will get pissed off by something I say (I speak the truth a lot).
   When I got to grad school and started feeling more alienated, I drifted more into that community. 
