@@ -31,7 +31,7 @@
   I attended the first meeting and realized that there were people there who looked like me. 
   We had a similar sense of humour. I hadn't laughed so hard in a meeting with people from school in such a large group before. 
 - I decided to pair with someone in Economics and CS on research on ways to apply machine learning to help look at issues of implicit bias 
-  in policing in Vermont. That resulted in a poster acceptance. Well....that's all I have to say. What a topic this has become. 
+  in policing in Vermont. That resulted in a poster acceptance and work that is still in progress, as it's a long-term project. Well....that's all I have to say. What a topic this has become. 
 - I wrote a paper on my own because I decided I wanted to submit to this conference. I wrote it and then asked my advisor
   if he'd give me advice, and he said he'd be glad to, and he gave me really great advice! A few days later, a researcher
   said he'd donate money to an organization I'm affiliated with if we were POCs who had received mentorship advice 
