@@ -45,7 +45,7 @@
   since then, but I wasn't really active. My attitude to a lot of tech groups on Slack is that there is usually a honeymoon period,
   and then I'll be too honest one day and get kicked off, or someone will get pissed off by something I say (I speak the truth a lot...and it pisses people off. Usually it's unintentional sarcasm).
   When I got to grad school and started feeling more alienated, I drifted more into that community. 
-  It's been a source of joy for me. They're a really fun group.
+  It's been a source of joy for me. They're a really fun group; I even made a pull request and merged a PR this week alone!
 - I joined a few other groups for women (on Discord, Slack, GroupMe), and they've also been really great. 
 - I decided that I wanted to focus on a particular area of research that I'm really passionate about, and so far, so good.
   
