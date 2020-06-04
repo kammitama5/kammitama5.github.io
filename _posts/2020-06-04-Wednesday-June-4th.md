@@ -47,6 +47,8 @@
   When I got to grad school and started feeling more alienated, I drifted more into that community. 
   It's been a source of joy for me. They're a really fun group; I even made a pull request and merged a PR this week alone!
 - I joined a few other groups for women (on Discord, Slack, GroupMe), and they've also been really great. 
+- I kept applying for grants, even when some advised me that it wasn't worth doing. It led to my eventually attending NeurIPS
+  and meeting some amazing people in my research area, and amazing support in general. It also justified my resolve in pushing myself to keep applying, writing, reviewing, reaching out. I think I got 3 rejections once in a day in a semester from applications, but getting an offer the day before meant I was able to brush them off pretty quickly.
 - I decided that I wanted to focus on a particular area of research that I'm really passionate about, and so far, so good.
   
 ## Why this is important
