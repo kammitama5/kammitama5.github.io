@@ -38,6 +38,7 @@
   (ie someone had reviewed/read/gave feedback on something you were working on for a conference). I contacted the researcher
   and told them about what my advisor had done for me, and he decided that it was worth putting on as a +1 tally for a donation
   to the organization.
+- I signed up for this mentorship on AI Ethics. It's been a delightful experience thus far. My mentor is amazing, and she's real. I feel so at ease speaking with her. She's a hybrid thinker in terms of the tech/ethics space, with very acute observations.
 - I signed up for the Dark Matters class at SFPC; I did this because when I saw the description, I think I must have said 
   out loud "this class is perfect!". I imagined myself being there. I was strangely surprised to find an email in my inbox that said that I had been 
   accepted as one of 18 students for one of the full cohorts. I'm truly grateful. What a wonderful community!
