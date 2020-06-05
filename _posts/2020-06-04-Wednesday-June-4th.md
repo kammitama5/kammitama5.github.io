@@ -26,7 +26,7 @@
 - I picked the perfect company (and they picked me); the company at which I'm interning has a culture of empathy, a commitment to diversity 
   and it's just been a really great experience. I have a manager and two buddies, and I'm driven to succeed this summer.
   The project is amazing and impactful. But more importantly, it openly has a culture of holding itself 
-  to high ethical standards and accountability. Perfect.
+  to high ethical standards and accountability. Humility and collaboration are written into the culture. Perfect.
 - I signed up for the graduate writing centre; very strange choice (STEM majors don't do this apparently). 
   I attended the first meeting and realized that there were people there who looked like me. 
   We had a similar sense of humour. I hadn't laughed so hard in a meeting with people from school in such a large group before. 
