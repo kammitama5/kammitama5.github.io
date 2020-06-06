@@ -47,9 +47,9 @@
   and then I'll be too honest one day and get kicked off, or someone will get pissed off by something I say (I speak the truth a lot...and it pisses people off. Usually it's unintentional sarcasm).
   When I got to grad school and started feeling more alienated, I drifted more into that community. 
   It's been a source of joy for me. They're a really fun group; I even made a pull request and merged a PR this week alone!
-- I joined a few other groups for women (on Discord, Slack, GroupMe), and they've also been really great. 
-- I kept applying for grants, even when some advised me that it wasn't worth doing. It led to my eventually attending NeurIPS
-  and meeting some amazing people in my research area, and amazing support in general. It also justified my resolve in pushing myself to keep applying, writing, reviewing, reaching out. I think I got 3 rejections once in a day in a semester from applications, but getting an offer the day before meant I was able to brush them off pretty quickly.
+- I joined a few other groups for women and other underrepresented groups(on Discord, Slack, GroupMe) such as NCWIT and a GroupMe for Black PhDs, and they've also been really great. 
+- I kept applying for grants, even when some advised me that it wasn't worth doing. A good friend once told me that sometimes faculty will tell you not to do it because they see you as they see themselves. They may have had privilege that would have allowed them to succeed regardless of whether they applied for grants, etc, but know that the journey will be that much harder for you. So you need to put in more work. So I kept applying, speaking, writing. It led to my eventually attending NeurIPS
+  and meeting some amazing people in my research area, and amazing support in general. It also justified my resolve in pushing myself to keep applying, writing, reviewing, reaching out. I think I got 3 rejections once in a day in a semester from applications, but getting an offer/grant/scholarship the day before meant I was able to brush rejections off pretty quickly.
 - I decided that I wanted to focus on a particular area of research that I'm really passionate about, and so far, so good.
   
 ## Why this is important
