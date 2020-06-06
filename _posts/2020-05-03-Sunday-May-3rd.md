@@ -15,6 +15,10 @@
 
 - I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
 
+I used to do this for a living; building these and threading the film for each package. Here is a photo of me after building one.
+
+<img src="/images/doiknowyou/aaton.png" width="400">
+
 ## IATSE Who?
 
 <img src="/images/doiknowyou/oldlife1.png" width="400">
