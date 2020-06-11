@@ -7,7 +7,7 @@
   If you can narrow it down to a field (ie what was I doing?), too, even better!
   
 
-## From Theatre to Movies to Art to JPL to Tech to Grad school?
+## From Theatre (NY) to Movies (Hollywood) to Art to NASA/JPL to Tech (Silicon Valley/SF) to Grad school?
 
 ## Paramount?
 
