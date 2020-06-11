@@ -62,7 +62,7 @@ The guy who taught is the dude who did the [2Pac Hologram](https://www.washingto
 - Pasadena City College (took a bunch of architecture classes there, machining and welding and AutoCAD digital design class; at one point I thought I wanted to be an architect! I left because the machining gear was being replaced with 3D machines and I wanted to go to a school that still taught machining and had better gear). I also did a research project on the [Caltrans building](https://en.wikipedia.org/wiki/Caltrans_District_7_Headquarters) by [Thom Mayne](https://en.wikipedia.org/wiki/Thom_Mayne), where I ended up talking about the engineering a lot more than the architecture, which ignited an interest in understanding more about how it all worked. It's an engineering marvel, and the civil engineers were kind enough to give me a private tour of the building!
 - Cornell University (took a course called Music, Light and Dance, an interdisciplinary course, in my final semester, where I learned about Alfred Brendel, saw Twyla Tharp's "In the Upper Room" for the first time and saw [Stephen Petronio's Dance Company](https://en.wikipedia.org/wiki/Stephen_Petronio) live)
 - Ithaca College (went to Undergraduate here; Film, Theatre, Photography and double minor in Art History and Theatre Tech. 
-  I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame. I was also in rowing crew my first semester, had three work-study jobs (one of which was as a cinema film camera tester, which helped me land my first job out of college), and reviewed students' resumes at the Career Academic Centre as a volunteer). Received multiple awards/scholarships, including max financial award (Presidential Scholarship), Photography Finishing Grants and awarded best BFA of my class and rostered on Who's Who (also received admission to Howard U, SCAD, USC, among other schools but I loved IC).
+  I also did a Women in Leadership retreat in Seneca Falls at the National Women's Hall of Fame. I was also in rowing crew my first semester (and received Empire Eight Academic Recognition), had three work-study jobs (one of which was as a cinema film camera tester, which helped me land my first job out of college), and reviewed students' resumes at the Career Academic Centre as a volunteer). Received multiple awards/scholarships, including max financial award (Presidential Scholarship), Photography Finishing Grants and awarded best BFA of my class and rostered on Who's Who (also received admission to Howard U, SCAD, USC, among other schools but I loved IC).
 - University of the West Indies Centre of Creative Arts (I studied Film and Video I and II for a year before Ithaca College; professors were Y. Ramesar (theory and intro production), B. Paddington (theory) and C. Selvon Abrahams (animation))
 - University of the West Indies Centre for Creative Arts (also took a summer long course on various aspects of Theatre
   Technology, including Sound Design, Lighting Design, Scenic Design, etc)
@@ -73,6 +73,7 @@ The guy who taught is the dude who did the [2Pac Hologram](https://www.washingto
 
   
 ## Film (Tech/Design)
+- In school I was on the Dean's list for 6 semesters (thanks hand-drafting class), Presidential Scholar for 8 semesters, Who's Who and obtained a Peggy Williams Awards for Leadership/ Best of Major award. I also received a Pendleton Photography Finishing Grant (2008), and two James B Pendleton Scholarships (2006, 2007) and an Ithaca Photo Support Grant (2004).
 - Too many films to name; probably around 200 (Los Angeles). My hair was featured in one straight to dvd one starring Tatiana
   Ali and Stacey Dash.
 - I worked for one summer at the GIS in Trinidad, making documentaries for television segments. Producer was my title, but
@@ -156,7 +157,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
   through Banjul and Serrekunda working and living in a hospital (Sulayman Junkung Hospital) where I worked in the pharmacy department dispensing pharmaceuticals, as well as vaccinating children and taking blood pressure (BP) in nearby villages. The mural we painted as a group was the last known mural at the particular hospital. This was through a scholarship offered from Disney, in which I was one of two persons sent from my school through a programme called "Operation Crossroads Africa". (West Africa)
-  
+- The grant I received was called the Reginald Simmons Memorial Award (2007)
 
 <img src="/images/doiknowyou/bwiam_001.png" width="400">
 
