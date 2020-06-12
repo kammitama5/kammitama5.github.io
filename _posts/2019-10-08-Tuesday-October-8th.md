@@ -45,6 +45,7 @@
 - I'm being funded through a Fellowship grant courtesy of an Award (for one student, based on research I was already working on with my advisor, from a proposal my advisors submitted) given to us by Amazon. This should be for approximately 2 years [ May ]
 - I have been asked to speak on a panel for Career Girls Virtual AI Camp in July [ May ]
 - I will be attending the IPAM Fall workshop on Safe Operation of Connected and Autonomous Vehicle Fleets, which is on thinking of provably safe ways to keep large datasets safe, and is part of the larger workshop "Mathematical Challenges and Opportunities for Autonomous Vehicles" [ Jun ]
+- I've been chosen as a mentee for the AGT Mentorship Workshop (AMW) 2020 as part of the Economics and Computation (EC 2020) conference, in which the goal is to mentor students considering a research career in Economics and Computation, particularly who either have come from developing countries [ June ]
 
 ## 2019
 
