@@ -7,7 +7,7 @@
 - After I got bored with following the gear heads in the Film industry (updates in cameras, 
   just like updates in software libraries don't really interest me), I was interested in Concept Design.
   Concept Design is essentially the iterative process of designing movies. Unfortunately, these days, it's 
-  kind of a mindless, superficial industry in terms of its ideas, but I was drawn to the idea of using hidden
+  kind of a mindless, superficial industry in terms of its ideas (and a lot of those artists don't read), but I was drawn to the idea of using hidden
   messages in the design and fabrication of a movie to spread a broader message about not just the society we
   currently live in, but the society we *could* live in.
 - At its best, it's like an opportunity to tell a moralalistic tale through a design image.
