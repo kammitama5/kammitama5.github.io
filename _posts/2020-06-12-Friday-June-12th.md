@@ -41,9 +41,9 @@
 - I've been thinking a lot about this kind of stuff in the context not of just what is going on in the world, but in terms
   of representation. 
   
-<img src="/images/doiknowyou/droid15.png" width="400">
+<img src="/images/doiknowyou/droid15.png" width="300">
 
-- Years ago, I made this image in concept design class. It's one of the few I ever kept. I guess because I liked the idea
+- Years ago, I made this image in concept design class. It's one of the few I ever kept, and I always had a sense of humour about work in that world, because I often thought that a lot of the work was pretty but shallow. The title was an inside joke about sequels. I guess I kept it because I liked the idea
   of a lead character who was represented by a group that wasn't typical (that is, an elderly person), frail, but whose
   technology empowered him. In this case, it was this sort of futuristic breathing device. It's still a bit of a strange image
   because it's a fake movie poster.
