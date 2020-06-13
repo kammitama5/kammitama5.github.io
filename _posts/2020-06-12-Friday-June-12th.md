@@ -26,6 +26,16 @@
 - What's unfortunate is that they're so applicable but I never have anyone to TALK TO about these things. The film
   people aren't particularly interested in AI (they're too busy looking at new cameras!) and the AI people don't particularly
   see the value of critical film theory. I don't know if they've quite figured out the connection between the two just yet.
+  Furthermore, there is a lack of a common language between the two; it's difficult to be heard if you don't have a technical
+  background in the CS community, and the people in film aren't particularly interested in Computer Science research.
+  So it's definitely a strange space to be in with that background. So many things sound so familiar, but out of reach 
+  simultaneously.
+- There is also the problem of forgetting; if you are in one field, persons often forget that you can have the introspection
+  of a person who used to be in another, so you are often lumped as one or the other. A friend of a friend who works in that
+  industry recently tried to explain what a professional camera was to me, for example. I'm often mindful of this bias
+  when meeting others; I don't assume that they have no background in a field (people have many lives, and you never know.
+  Plus, the world is pretty open for learning if you have the curiosity, so why brand someone's ability to learn and 
+  limit their understanding based on their perceived field?)
 - Some of the most interesting classes I ever took acknowledged that there were inequalities (just as there are today)
   that are economic, racial etc and that these inequalities would still be embedded in societies in the future; they would
   just be represented differently. And some of the most interesting teachers actively told us to subvert the expectation
