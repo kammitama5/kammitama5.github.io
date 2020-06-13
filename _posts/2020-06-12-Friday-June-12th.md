@@ -61,6 +61,10 @@
   groups like the elderly. The typical researcher in Computer Science isn't rushing to publish in NeurIPS on AI for the elderly.
   Maybe there should be a track that specifically considers the ways AI might harm this particularly vulnerable group, and ways
   to mitiage those risks. But what do I know? I'm just learning.
+- Oh, btw, you can usually tell if I'm writing a fair amount of code on this blog, because I won't be writing about code.
+  Sometimes I will, but if I'm fairly consumed in code for most of the day, I'll do something else instead. I've been thinking
+  of doing a pop-up book or something like that this summer, but I haven't fully decided yet. Covid makes it more difficult
+  to get access to such tools. But we'll see.
   
 ## Today I feel grateful
 - I have a long way to go, but I feel like coming with my background, and having been exposed to these ideas, and learning
