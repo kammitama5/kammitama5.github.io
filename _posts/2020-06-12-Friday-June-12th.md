@@ -30,8 +30,8 @@
   that are economic, racial etc and that these inequalities would still be embedded in societies in the future; they would
   just be represented differently. And some of the most interesting teachers actively told us to subvert the expectation
   of these ideas in our design pitches; why not have a black lead; Hollywood doesn't have that. 
-- Alas, unfortunately the most *interesting* work typically came from the very students who were exposed and very aware
-  of such inequalities, but their survival in that field was difficult, because it rewards those who already have a safety
+- Alas, unfortunately the most *interesting* work typically came from the very students who were exposed to and very aware
+  of such inequalities (either through lived experiences or otherwise), but their survival in that field was difficult, because it rewards those who already have a safety
   net that involved nepotism and generational wealth. It rewarded those designers in learning who could pay the high 
   tuition without blinking and saw design as little more than flashy colours in Photoshop and fancy brushes, adding a filter
   bloom here and there, with a radial blur. Having seen behind the curtain of Hollywood, I'm perpetually underwhelmed by the 
