@@ -25,7 +25,7 @@
   infrastructure look like? These questions are so applicable to the field of AI today. 
 - What's unfortunate is that they're so applicable but I never have anyone to TALK TO about these things. The film
   people aren't particularly interested in AI (they're too busy looking at new cameras!) and the AI people don't particularly
-  see the value of critical film theory. I don't know if they've quite figured out the connection between the two just yet.
+  see the value of critical film theory. I don't know if they've quite figured out the connection between the two just yet. A few of us are starting to ask questions, though, and I'm already a part of a book club and a film club that is meeting this summer to talk about these things; race, culture and technology and how it relates to ourselves (as techies; one group is geared towards software engineers in tech, and the other is geared towards computer scientists).
   Furthermore, there is a lack of a common language between the two; it's difficult to be heard if you don't have a technical
   background in the CS community, and the people in film aren't particularly interested in Computer Science research.
   So it's definitely a strange space to be in with that background. So many things sound so familiar, but out of reach 
