@@ -71,6 +71,10 @@
   Computer Science research, I'm painfully aware of a lack of these perspectives. I've often said that most of the time,
   I feel like I'm an impostor. Not just by virtue of the way I look in these halls, but I think that having a curiosity 
   for the field might just *not be enough*. I'm often afraid that the gatekeepers will discover me and deem me not worthy.
+  Interestingly, a similar conversation occurred on a Women's Sailing group I'm involved in. All the women are excellent
+  in that group, many own their own boats and they have sailed all over the world, but they still feel like it may never
+  be enough, and that there are insecurities because so much of what we do is just never enough. Sometimes, that just gets 
+  inside of your head. Beware of self-sabotage.
 - However, that curiosity I had, that imagination for what the future *might* look like, really keeps me going. What if we
   did the right things to mitigate all the bad things that might happen? It's exciting. 
   
