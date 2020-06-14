@@ -22,7 +22,7 @@
 - The most interesting concept design classes I ever had were some of the worldbuilding ones. Specifically, they were
   based around *ideas*. What if the characters lived in a world of depleted resources, but in the future? What would
   be the currency of the future, given this constraint? What would forms of energy look like? What would houses and
-  infrastructure look like? These questions are so applicable to the field of AI today. 
+  infrastructure look like? These questions are so applicable to the field of AI today, and we can draw from existing sources in fields like economics or sociology to make predictions. 
 - What's unfortunate is that they're so applicable but I never have anyone to TALK TO about these things. The film
   people aren't particularly interested in AI (they're too busy looking at new cameras and as I explained in another post, they see themselves more so as craftsmen and artists than as part of the world of AI/tech!) and the AI people don't particularly
   see the value of critical film theory. I don't know if they've quite figured out the connection between the two just yet. A few of us are starting to ask questions, though, and I'm already a part of a book club and a film club that is meeting this summer to talk about these things; race, culture and technology and how it relates to ourselves (as techies; one group is geared towards software engineers in tech, and the other is geared towards computer scientists).
