@@ -48,6 +48,7 @@
 - I've been chosen as a mentee for the AGT Mentorship Workshop (AMW) 2020 as part of the Economics and Computation (EC 2020) conference, in which the goal is to mentor students considering a research career in Economics and Computation, particularly who either have come from developing countries or live in developing countries for their unique perspectives [ June ]
 - I've been invited to register and volunteer for ICML [ June ]
 - I've been invited to speak on a panel about AI/ML for M@M (Morehouse @ Momentum Coding School) for Juneteenth weekend [ June ]
+- I've been invited to be the on the 2020 WiML organizing committee as the Senior Program and Mentorship Co-Chair for NeurIPS [ June ]
 
 ## 2019
 
