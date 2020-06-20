@@ -49,7 +49,7 @@
 - I've been invited to register and volunteer for ICML [ June ]
 - I've been invited to speak on a panel about AI/ML for M@M (Morehouse @ Momentum Coding School) for Juneteenth weekend [ June ]
 - I've been invited to be the on the 2020 WiML organizing committee as the Senior Program and Mentorship Co-Chair for NeurIPS [ June ]
-- I've been invited to be a volunteer for the ACL 2020 (Association for the field of Computational Linguistics)! I am STOKED! p June ]
+- I've been invited to be a volunteer for the ACL 2020 (Association for the field of Computational Linguistics)! I am STOKED! [ June ]
 
 ## 2019
 
