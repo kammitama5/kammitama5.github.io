@@ -10,7 +10,7 @@
   kind of a mindless, superficial industry in terms of its ideas (and a lot of those artists don't read, which is painful to me because in the US there was a time where it was [illegal for people who looked like me to read](https://en.wikipedia.org/wiki/Anti-literacy_laws_in_the_United_States)), but I was drawn to the idea of using hidden
   messages in the design and fabrication of a movie to spread a broader message about not just the society we
   currently live in, but the society we *could* live in.
-- At its best, it's like an opportunity to tell a moralalistic tale through a design image.
+- At its best, it's like an opportunity to tell a moralistic tale through a design image.
   
 ## The Medium of Computer Science
 - One of the reasons I think that the field of Machine Learning is so interesting is that it again forces us
