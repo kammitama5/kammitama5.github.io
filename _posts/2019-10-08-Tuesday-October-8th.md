@@ -51,6 +51,7 @@
 - I've been invited to be the on the 2020 WiML organizing committee as the Senior Program and Mentorship Co-Chair for NeurIPS [ June ]
 - I've been invited to be a volunteer for the ACL 2020 (Association for the field of Computational Linguistics)! I am STOKED! [ June ]
 - I've been invited to be a volunteer for ICFP 2020 (International Conference of Functional Programming)! [ June ]
+- I have been asked by WiML to be a Session Facilitator for one of their ICML workshops on "Recommender Systems Research in Industry" [ June ]
 
 ## 2019
 
