@@ -53,6 +53,7 @@
 - I've been invited to be a volunteer for ICFP 2020 (International Conference of Functional Programming)! [ June ]
 - I have been asked by WiML to be a Session Facilitator for one of their ICML workshops on "Recommender Systems Research in Industry" [ June ]
 - I received a WiML Travel Fund grant for ICML 2020 [ June ]
+- I have been asked to speak at the STSI STEAM/STEM camp [ July ]
 
 ## 2019
 
