@@ -54,6 +54,7 @@
 - I have been asked by WiML to be a Session Facilitator for one of their ICML workshops on "Recommender Systems Research in Industry" [ June ]
 - I received a WiML Travel Fund grant for ICML 2020 [ June ]
 - I have been asked to speak at the STSI STEAM/STEM camp [ July ]
+- I have been invited to moderate a panel the Transform 2020 event [ July ]
 
 ## 2019
 
