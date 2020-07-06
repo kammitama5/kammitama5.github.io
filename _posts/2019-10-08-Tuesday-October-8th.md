@@ -55,6 +55,7 @@
 - I received a WiML Travel Fund grant for ICML 2020 [ June ]
 - I have been asked to speak at the STSI STEAM/STEM camp [ July ]
 - I have been invited to moderate a panel the Transform 2020 event [ July ]
+- I will be co-planning a casual ACL Black in AI Social [ July ]
 
 ## 2019
 
