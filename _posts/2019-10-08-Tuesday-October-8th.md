@@ -56,6 +56,7 @@
 - I have been asked to speak at the STSI STEAM/STEM camp [ July ]
 - I have been invited to moderate a panel the Transform 2020 event [ July ]
 - I will be co-planning a casual ACL Black in AI Social [ July ]
+- I received word that I received the TechX Social Impact / Harvard Franklin Fellowship. I'm super stoked! [ July ]
 
 ## 2019
 
