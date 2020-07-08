@@ -57,6 +57,8 @@
 - I have been invited to moderate a panel the Transform 2020 event [ July ]
 - I will be co-planning a casual ACL Black in AI Social [ July ]
 - I received word that I received the TechX Social Impact / Harvard Franklin Fellowship. I'm super stoked! [ July ]
+- I received a Microsoft Scholarship for a Udacity course online [ July ] 
+- I am judging the DataKind/ Data.org Global Challenge [ July ] 
 
 ## 2019
 
