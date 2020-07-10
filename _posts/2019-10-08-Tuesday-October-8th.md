@@ -59,6 +59,7 @@
 - I received word that I received the TechX Social Impact / Harvard Franklin Fellowship. I'm super stoked! [ July ]
 - I received a Microsoft Scholarship for a Udacity course online [ July ] 
 - I am judging the DataKind/ Data.org Global Challenge [ July ] 
+- I received a Women of Color in Technology Complimentary Registration for GHC (that's the Grace Hopper Conf, not the Haskell compiler :D) [ July ]
 
 ## 2019
 
