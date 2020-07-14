@@ -60,6 +60,7 @@
 - I received a Microsoft Scholarship for a Udacity course online [ July ] 
 - I am judging the DataKind/ Data.org Global Challenge [ July ] 
 - I received a Women of Color in Technology Complimentary Registration for GHC (that's the Grace Hopper Conf, not the Haskell compiler :D) [ July ]
+- I was asked to speak for the Women of Silicon Valley podcast [ July ]
 
 ## 2019
 
