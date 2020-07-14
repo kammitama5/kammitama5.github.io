@@ -177,8 +177,8 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - 1 of 4 chosen for mentorship with developer Mentorship (out of 100) via LearnTeachCode (getting our feet wet with what it
   means to work as a web developer; I was 1 of 2 of the "intermediate" and in turn had to mentor 2 students).
 - I worked on two products through Philosophie with the purpose of building workable prototypes in five weekends; the first is Coding for Product and 
-  the other is Coding for Good; for the first we worked in a group to make an app that would incentivize Metro riders in the LA area, and the second
-  we worked on working with a local group (PBS LA) that wanted to incentivize a community to learn coding with their children in local libraries with parents.
+  the other is Coding for Good; for the first we worked in a group to make an app that would incentivize Metro riders in the LA area (doing user research), and the second
+  we worked on working with a local group (PBS LA) that wanted to incentivize a community to learn coding with their children in local libraries with parents (working with client and persons who were part of that community as user research).
 - I did Google Summer of Code (2018) for Haskell.org
 - I did Mozilla's RustReach (2018)
 - I took part in Racket School (2018 and 2019); I had to leave midway through 2019's because I had to catch an 8 hour flight to London to attend Curry On, which was graciously sponsored through a grant by Kyle Kingsbury (who is amazing!) and Heather Miller (CMU; also amazing)
