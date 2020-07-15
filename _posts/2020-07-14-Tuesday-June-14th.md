@@ -25,11 +25,18 @@
   too, will be enough for me to get a Best Paper award and get invited to keynotes, where I can pontificate about the truthiness of science and goodness
   and magnanimousness of the field. We are discovering something new, after all.
   
+  
 ## Or maybe not
 - Maybe we are blind. Maybe we are delusional. Maybe if the voices from the last few decades were to come back, they would project vile words onto us 
   for forgetting and undoing all the things that they did in their generation so that we should never have to relive the oppressions, the mistakes, 
   the sins of their past generations. Maybe this is the way of every generation to come. My friend once told me "that's life; you make a mess, you
   clean it up". Maybe it's every generation's fate to forget the history and pain of that before, only to repeat it again.
+  
+## You should watch this really neat video!
+- This is a video I grew up watching as a child (I had a pretty multiracial upbringing). It's Filipino, by the author R. O. Villanueva, and you can watch it [here](https://www.unmultimedia.org/avlibrary/asset/1956/1956116/). It's about preserving the Earth and not repeating our mistakes,
+but there are so many themes about gluttony, remembering and legacy here. What is the legacy tech and AI want to leave? I honestly
+could not tell you. Right now, it looks dismal. 
+
   
 ## My fate
 - Lately I've been asking for advice from friends outside of my typical space. I don't want to be like those people, I tell my friends. I don't want
