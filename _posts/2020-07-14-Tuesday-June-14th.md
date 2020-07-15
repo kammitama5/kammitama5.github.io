@@ -9,7 +9,8 @@
   deeper questions about technology. I think that that's pretty scary, considering the amount of time that has passed with some of these technologies.
   But maybe it can still be considered relatively new. 
 - I'm also incredibly wary of the idea of (re) invention. It historically brings back nightmares for me of people exploring "new" lands and claiming that
-  they saw it first, therefore they get to own it, even though it was inhabited by others. But the field has this hero complex, and (re)invention is often
+  they saw it first, therefore they get to own it, even though it was inhabited by others. Whoever remains after the bloodbath gets to tell the story.
+  But the field has this hero complex, and (re)invention is often
   a result of the hero complex. We invented it first and we are incentivized by the idea that we invented it first (even if we're completely wrong). 
   Admittance of wrongdoing isn't incentivized either in tech or Academia. It is seen as a sign of weakness.
  
