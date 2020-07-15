@@ -35,7 +35,8 @@
 ## You should watch this really neat video!
 - This is a video I grew up watching as a child (I had a pretty multiracial upbringing). It's Filipino, by the author R. O. Villanueva, and you can watch it [here](https://www.unmultimedia.org/avlibrary/asset/1956/1956116/). It's about preserving the Earth and not repeating our mistakes,
 but there are so many themes about gluttony, remembering and legacy here. What is the legacy tech and AI want to leave? I honestly
-could not tell you. Right now, it looks dismal. 
+could not tell you. Right now, it looks dismal. The space hasn't yet found itself and doesn't know what it is, or what its values are.
+And that's frightening. 
 
   
 ## My fate
