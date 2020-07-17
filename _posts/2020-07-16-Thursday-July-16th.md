@@ -6,6 +6,8 @@
 - I joined an Abolition reading group, wrote in secret and for all to see, had dances in virtual spaces and became a virtual avatar. 
   I asked strangers about their hopes, dreams and memories, their motivations, and tied for first place in a game of two truths and a lie.
 - It's made me a lot more aware of these spaces, and to see the shortcomings of certain other spaces. And for that, I'm grateful.
+- I cried and shed my anger and frustration in other spaces, and received virtual hugs from strangers in other spaces. I received assurance
+  that my feelings were valid, and that there were people out there like myself who felt the same.
 - I met a person today who told me that my background was unique, fascinating, and that I definitely have a lot to say. They encouraged 
   me to write, saying that some of the ideas that have been floating around in my head for a while are important. I write on this blog,
   but they said I should think about writing on Medium also. So maybe I'll do that; we'll see. For one of the groups I'm in, I do have
