@@ -24,7 +24,8 @@
 - One of my mentors told me that his programme head once told him that their goal for his PhD was to make my mentor unemployable by the end
   of his PhD. That's such an interesting way to think about a PhD. You set out to forge your own path, and if you are hired by a place,
   it is because what you do is so unique that it is just you who can do it, and so you have to be given the opportunity to start your own
-  department or something like that. I think that's awesome. 
+  department or something like that. I think that's awesome. You do you. As someone who has always been a bit of an outcast, who moves
+  between spaces, this is super appealing to me.
   
 ## A lot of this summer
 - A lot of this summer has been that of healing, but also of finding so much comfort in my skin, for who I am. At least one CEO of a major
