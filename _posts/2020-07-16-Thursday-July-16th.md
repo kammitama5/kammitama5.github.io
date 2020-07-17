@@ -14,7 +14,7 @@
   to write a Medium Blog post. 
   
 ## Today stretched me
-- Today stretched me in a way that I would not have anticipated. I was around a bunch of successful persons in the business AI space,
+- Today stretched me in a way that I would not have anticipated. I was around a bunch of very successful persons in the business AI space,
   and their mindset is incredibly different from the AI research (or research in general) space. All of a sudden, it made me think
   about things that are lacking in the paths that I am currently pursuing. It opened up my world-view. Similarly, as part of the Fellowships
   I'm doing, I am in one assigned a mentor who pursued a PhD and then started his own business, and in another part of a group where
