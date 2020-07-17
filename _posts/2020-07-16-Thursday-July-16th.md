@@ -1,4 +1,7 @@
 ## Conversations at intersections
+
+
+
 - This summer has been incredibly meaningful to me. I've touched so many spaces. From Art to architecture, to building and Computer Science,
   to Economics, and business, it's really broadened my world and forced me to think about things I haven't thought of before. Possibilities
   of things I could pursue in the future. I feel as though I've been sailing on a boat to a strange land, and have just come back to shore
