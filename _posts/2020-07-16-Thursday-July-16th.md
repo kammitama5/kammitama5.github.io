@@ -3,6 +3,8 @@
   to Economics, and business, it's really broadened my world and forced me to think about things I haven't thought of before. Possibilities
   of things I could pursue in the future. I feel as though I've been sailing on a boat to a strange land, and have just come back to shore
   to the dock upon which I first started my journey. 
+- I joined an Abolition reading group, wrote in secret and for all to see, had dances in virtual spaces and became a virtual avatar. 
+  I asked strangers about their hopes, dreams and memories, their motivations, and tied for first place in a game of two truths and a lie.
 - It's made me a lot more aware of these spaces, and to see the shortcomings of certain other spaces. And for that, I'm grateful.
 - I met a person today who told me that my background was unique, fascinating, and that I definitely have a lot to say. They encouraged 
   me to write, saying that some of the ideas that have been floating around in my head for a while are important. I write on this blog,
