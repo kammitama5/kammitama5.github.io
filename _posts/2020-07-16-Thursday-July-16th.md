@@ -35,6 +35,8 @@
 - Furthermore, this summer has given me an opportunity to get excited about the world again. You cannot imagine how many friendships I have
   made, how many people have touched me this summer with their words and kindness, and how many tears I have cried. How many virtual hugs
   I have wanted to give to all my new friends, who I hope I can cherish for a long, long time.
+- If I can describe it, this summer has felt like I stepped onto a Merry go round with a bunch of people, and we spun around and around at the
+  highest velocity. It was wild, terrifying, and simultaneously thrilling. It's been so much fun.
   
 ## I'm grateful
 - Thank you for helping me see value and potential in myself, and for seeing value and potential in me. Thank you for taking me into this 
