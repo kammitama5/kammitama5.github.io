@@ -61,6 +61,7 @@
 - I am judging the DataKind/ Data.org Global Challenge [ July ] 
 - I received a Women of Color in Technology Complimentary Registration for GHC (that's the Grace Hopper Conf, not the Haskell compiler :D) [ July ]
 - I was asked to speak for the Women of Silicon Valley podcast [ July ]
+- The article on VentureBeat about the panel I moderated and my wrapup [is released](https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/). [ July ]
 
 ## 2019
 
