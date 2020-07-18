@@ -21,7 +21,7 @@
   different experience to work in a place where you make the product, versus gluing a bunch of tools that other companies provide together.
 - In our grassroots art groups, we found community. We performed plays under trees. We told stories. We wrote poetry. We danced and did choral speaking.
   There is a photo of me in the local newspaper when I was around nine years old playing the steelpan at the Creative Arts Centre with a group of other
-  kids my age. That instrument is the only one invented in the 21st century. It is invented in my home country. It was only years later I realized the
+  kids my age. That instrument is the only one invented in the 20th century. It is invented in my home country. It was only years later I realized the
   importance of being able to touch and learn about an invention that was made in your own country, by someone who looked like you. This was what art
   in my country did for me. It's almost telling that something that had that much impact was suppressed in a way that made it difficult to make a living
   doing *just that*.
