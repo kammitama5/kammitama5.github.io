@@ -3,7 +3,7 @@
 ## Lately
 - I've been thinking a lot about *why* I've enjoyed so many of the spaces I got to explore this summer, and in particular why some of them resonated
   a lot more than others. 
-- When I was younger, I was part of a couple grassroots theatre organizations. You see, where I am from, Arts isn't really given the kind of importance
+- When I was younger, I was part of a couple grassroots theatre organizations. You see, where I am from, Art isn't really given the kind of importance
   that it should (you aren't expected to make a living doing just that), even though there has so much prolific work that has come out of that region, particularly on themes such as colonialism and post-
   colonialism. For many, performing in plays, singing, doing gigs was the way we had autonomy over our creativity. It was our voice in the evenings
   after working jobs in law, medicine or teaching during the day. Rehearsals were often in the evenings, so persons had enough time to get from work
