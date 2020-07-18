@@ -43,7 +43,11 @@
 - Similarly, what would grassroots AI look like? I've been thinking about things like code-switching, and how that isn't represented in AI today,
   in our natural language processing systems, because it wasn't made for people *like us* who codeswitch. But codeswitching is something that 
   is so natural to us; tune in to any dancehall song or rapso and you hear artistes switch between colloquial phrases; in and out like they are
-  weaving a tapestry.
+  weaving a tapestry with words.
+- Allegory is also significantly a part of our literature and the arts. I think that allegory is also a form of resistance, because it embeds
+  hidden meaning for those who can unlock those meanings, almost like a cipher of some sort. A lot of this is tied to our griot history and was
+  brought over to us from Africa. But it isn't just Africa; in Indian dance (which is quite popular in my home country), people tell stories 
+  with their hands. 
   
 ## Anyways
 - One of the shows I remember vividly, that I sat in on, when I was learning in the theatre world, was this show called "Mary could dance". It's one
@@ -57,6 +61,10 @@
 ## So I guess
 - I guess that a lot of my experience has been about making, and thinking about our history, and trying to find parallels in whatever space 
   I am a part of. And about memory and identity and belonging. It's not so far off from AI, isn't it?
+- I have been thinking lately about what many authors speak about with respect to post-colonialism and being multi-racial, which is a sort of
+  schizophrenia of identities. Could we embed that into our AI? So much of AI feels like it was made for one person, with one identity,
+  but being multi-racial by its very definition means that you have multiple identities, some of which are in direct conflict with each other,
+  almost like GANs. Identities at war. It would be an interesting concept to explore.
   
 ## And that's it
 
