@@ -41,7 +41,7 @@
   programme in Mexico!". It was just a firework going off, and it was a tongue in cheek joke. But the other side of that cheek is the idea of what
   it means to grow up in a place without a Space programme; what it means to grow up not seeing like you suit up to explore new worlds. 
 - Similarly, what would grassroots AI look like? I've been thinking about things like code-switching, and how that isn't represented in AI today,
-  in our natural language processing systems, because it wasn't make for people *like us* who codeswitch. But codeswitching is something that 
+  in our natural language processing systems, because it wasn't made for people *like us* who codeswitch. But codeswitching is something that 
   is so natural to us; tune in to any dancehall song or rapso and you hear artistes switch between colloquial phrases; in and out like they are
   weaving a tapestry.
   
