@@ -52,12 +52,13 @@
   
 ## Anyways
 - One of the shows I remember vividly, that I sat in on, when I was learning in the theatre world, was this show called "Mary could dance". It's one
-  of the most popular theatre shows ever. It's a romantic comedic play, but it does intellectual code-switching, as well. In the case of Mary,
+  of the most popular theatre shows ever performed locally for general audiences (even though some of it is explicit). It had encore after encore. It's a romantic comedic play, but it does intellectual code-switching, as well. In the case of Mary,
   she is "a dancer on Broadway", but she is an exotic dancer on Broadway, Port of Spain. And the play is filled with local music, and it was a 
   wild ride every time I sat in on it. 
 - Another play I remember vividly was Ti-Jean, because I remembered in the first version I saw of it, my cousin was in the play (I have a long
   heritage in the Arts) and at the end of the play, he lifted me up onto the stage, and I couldn't find my parents, so I started crying on stage,
-  in front of everyone. But I remember how the play made physical waves using cloth. 
+  in front of everyone. But I remember how the play made physical waves using cloth. It's a familiar tale of beating the Devil, and the music is amazing,
+  written by this [musical genius](https://en.wikipedia.org/wiki/Andr%C3%A9_Tanker). I'm not even kidding; he was compared to Bob Dylan.
   
 ## So I guess
 - I guess that a lot of my experience has been about making, and thinking about our history, and trying to find parallels in whatever space 
