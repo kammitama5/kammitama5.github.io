@@ -13,6 +13,7 @@
 - This was our quiet resistance. It is embedded in our history. In one of our musical artforms, performers, even in the 1920s, would take on regal names such as Lord or Lady,
   or use names such as King. It was our artistic resistance and a way to reflect on our past, while giving social commentary on where we thought
   we were heading politically in our present, and what our future might look like. 
+- Artistes like [this guy](https://en.wikipedia.org/wiki/Black_Stalin) spoke about [believing in our country](https://www.youtube.com/watch?v=Y-jXacysH5E) rather than giving up and deferring to British colonialism. The road would be hard, but we could do our own thing.
 
 ## Creativity versus Maintenance
 - I've spoken about this quite a bit. In one of my first jobs out of college, I worked at a place where we just sold and rented stuff. I deliberately made
