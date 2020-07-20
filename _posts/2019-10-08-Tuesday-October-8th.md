@@ -62,6 +62,9 @@
 - I received a Women of Color in Technology Complimentary Registration for GHC (that's the Grace Hopper Conf, not the Haskell compiler :D) [ July ]
 - I was asked to speak for the Women of Silicon Valley podcast [ July ]
 - The article on VentureBeat about the panel I moderated and my wrapup [is released](https://venturebeat.com/2020/07/18/ai-needs-systemic-solutions-to-systemic-bias-injustice-and-inequality/). [ July ]
+- I was invited to the PL+HCI Swimmer School and will be attending virtually [ July ]
+- I was invited to the IBM Qiskit Quantum school and will be attending virtually [ July ]
+- I will be attending the "Frontiers of Machine Learning" conference (supposed to be in Redmond, now remote) by MSR [ July ]
 
 ## 2019
 
