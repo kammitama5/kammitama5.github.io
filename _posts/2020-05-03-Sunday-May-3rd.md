@@ -25,6 +25,14 @@ I used to do this for a living; building these and threading the film for each p
 
 - Here is a photo of me next to a horse (sorry I blocked out the identity of the rider!) in 2013 for an Art Directors' Guild Family Day.
   This ranch is famous for having been the location for Django Unchained, Wyatt Earp, among other films, and is located in Santa Clarita.
+  
+## Universal 
+
+<img src="/images/doiknowyou/universalgirl.png" width="400">
+
+- My first and only experience as an extra for a short film on the Universal lot.
+
+
 
 ## IATSE Who?
 
