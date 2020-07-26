@@ -19,6 +19,13 @@ I used to do this for a living; building these and threading the film for each p
 
 <img src="/images/doiknowyou/aaton.png" width="400">
 
+## Melody Ranch
+
+<img src="/images/doiknowyou/melody_ranch.png" width="400">
+
+- Here is a photo of me next to a horse (sorry I blocked out the identity of the rider!) in 2013 for an Art Directors' Guild Family Day.
+  This ranch is famous for having been the location for Django Unchained, Wyatt Earp, among other films, and is located in Santa Clarita.
+
 ## IATSE Who?
 
 <img src="/images/doiknowyou/oldlife1.png" width="400">
