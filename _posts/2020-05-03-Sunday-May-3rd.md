@@ -28,7 +28,7 @@ I used to do this for a living; building these and threading the film for each p
   
 ## Universal 
 
-<img src="/images/doiknowyou/universalgirl.png" width="400">
+<img src="/images/doiknowyou/universalgirl.png" width="300">
 
 - My first and only experience as an extra for a short film on the Universal lot.
 
