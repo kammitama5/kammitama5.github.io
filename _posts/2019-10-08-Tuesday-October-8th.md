@@ -65,7 +65,8 @@
 - I was invited to the PL+HCI Swimmer School and will be attending virtually [ July ]
 - I was invited to the IBM Qiskit Quantum school and will be attending virtually [ July ]
 - I will be attending the "Frontiers of Machine Learning" conference (supposed to be in Redmond, now remote) by MSR [ July ]
-- I am imvolved in a Grant Proposal with the SageMaths group (as Personnel)
+- I am imvolved in a Grant Proposal with the SageMaths group (as Key Personnel)
+- I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
 
 ## 2019
 
