@@ -67,6 +67,7 @@
 - I will be attending the "Frontiers of Machine Learning" conference (supposed to be in Redmond, now remote) by MSR [ July ]
 - I am imvolved in a Grant Proposal with the SageMaths group (as Key Personnel)
 - I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
+- I was invited to become a Board Member for an AI and Ethics Journal [ July ]
 
 ## 2019
 
