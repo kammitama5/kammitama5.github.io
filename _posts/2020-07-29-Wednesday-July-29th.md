@@ -90,7 +90,8 @@ You are always bubbly, always showing me.
 Showing me things with witty punctuations, 
 while half-sloppily dipping a dumpling 
 into the slow-roasted,
-sesame sauce, held nimbly together with chopsticks. 
+sesame sauce, 
+held nimbly together with chopsticks. 
 
 There is a kpop band performing 
 on a large screen behind us,
@@ -110,7 +111,8 @@ Your wanting me to be more than
 who I imagine myself to be. To push toward
 the interstellar space of my imaginations.
 
-Sometimes I have deep dreams where my body has lifted 
+Sometimes I have deep dreams 
+where my body has lifted 
 itself back to the place where I was born.
 It is the place where 
 every part of what makes me *me* aligns. 
@@ -121,8 +123,11 @@ shadows looming.
 I am reminded as the people pass by me that 
 it is considered rude not to greet even strangers. 
 The sound of the ocean seems to follow me
-in these dreams, like a pleasant, lingering taste or smell.
+in these dreams, like a pleasant, 
+lingering taste or smell.
 
-These days, that place of my deep dreams doesn't feel real; 
-it feels so far away, like an imaginary place. 
+These days, that place of my 
+deep dreams doesn't feel real; 
+it feels so far away, 
+like an imaginary place. 
 ```
