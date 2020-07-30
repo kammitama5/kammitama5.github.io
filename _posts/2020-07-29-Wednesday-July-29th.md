@@ -61,7 +61,7 @@ a new customer enters. There is so much energy here.
 You take a large napkin beside you and produce 
 a skinny blue ink pen (like every proper
 scientist has) out of your pocket 
-and begin scribbling on the napkinto show me.
+and begin scribbling on the napkin to show me.
 You are always bubbly, always showing me. 
 Showing me things with witty punctuations, 
 while half-sloppily dipping a dumpling into the slow-roasted,
