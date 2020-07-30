@@ -28,7 +28,7 @@ of being in a space next to someone with whom I could share time with, in that s
 Where I could exist in the present. 
 The sun was setting, and we were walking around Pasadena. 
 I could hear the honking of horns, the sigh of the Metro buses, and the 
-loquacoious traffic stop narrator, instructing us to cross Raymond and Holly. 
+loquacious traffic stop narrator, instructing us to cross Raymond and Holly. 
 It is chilly and I always wear a light grey jacket. 
 I do not fit into this city, either; 
 the people here do not think I belong in Pasadena. 
