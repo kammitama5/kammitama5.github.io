@@ -70,7 +70,7 @@ sesame sauce, held nimbly together with chopsticks.
 There is a kpop band performing on a large screen behind us,
 but the subtitles are in Mandarin. 
 The audio is silent, but the restaurant
-lights from the neon blue stage lights spill onto the floor.
+lights from the neon blue stage spill onto the floor.
 You laugh at some of the characters as you thoughtfully translate them. 
 I say the words you teach me, but for every five I can only remember one. 
 I have always been astounded by the humility and how enveloped
