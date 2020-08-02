@@ -68,6 +68,7 @@
 - I am imvolved in a Grant Proposal with the SageMaths group (as Key Personnel)
 - I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
 - I was invited to become a Board Member for an AI and Ethics Journal [ July ]
+- Our paper on Fairness using Provable Privacy has been accepted for the MD4SGD Conference! [ August ]
 
 ## 2019
 
