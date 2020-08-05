@@ -69,6 +69,8 @@
 - I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
 - I was invited to become a Board Member for an AI and Ethics Journal [ July ]
 - Our paper (on which I am first author!) on Fairness using Provable Privacy has been accepted for the MD4SGD Conference! Hooray! [ August ]
+- I am taking two classes from Hyperlink Academy; one in which I will be making a book with Racket and another where we recreate periods in Art History
+  using GUIs [ August ]
 
 ## 2019
 
