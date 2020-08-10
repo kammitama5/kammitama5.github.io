@@ -65,7 +65,7 @@
 - I was invited to the PL+HCI Swimmer School and will be attending virtually [ July ]
 - I was invited to the IBM Qiskit Quantum school and will be attending virtually [ July ]
 - I will be attending the "Frontiers of Machine Learning" conference (supposed to be in Redmond, now remote) by MSR [ July ]
-- I am imvolved in a Grant Proposal with the SageMaths group (as Key Personnel)
+- I am involved in a Grant Proposal with the SageMaths group (as Key Personnel) [ July ]
 - I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
 - I was invited to become a Board Member for an AI and Ethics Journal [ July ]
 - Our paper (on which I am first author!) on Fairness using Provable Privacy has been accepted for the MD4SGD Conference! Hooray! [ August ]
