@@ -42,7 +42,7 @@
   with them a certain amount of prestige. My dad reminds me that in some churches, the black communities took over, 
   and they formed their own congregations, and had their own priests. However, in some communities, even when the black
   communities took over, they too formed their own structures of a hierarchy of networking and power. 
-  It's a fascinating historical byte of history in
+  It's a fascinating byte of history in
   my country that has not really been explored to my knowledge.
   
 ## How does this come back to today
