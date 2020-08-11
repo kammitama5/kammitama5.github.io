@@ -27,9 +27,15 @@
   what part of society you affiliated with. When my dad was growing up, there were areas that were gated communities
   for expats, and these white bodies filled the churches within these gated communities. These gated communities were 
   heavily policed; you had to belong there and have a high paying job in one of these expat companies to attend their churches. 
-  It goes without saying that the priets were often white.
+  It goes without saying that the priests were often white. Even further, if you were a non-white priest, you might be 
+  dismissed; that community might not want you, or see you as a puppet and be quite dismissive towards you. It's absolutely
+  fascinating, and demonstrates the systemic structure of power wielding itself in hidden sight in my country.
   My dad recalls quite a few times being stopped at the gate to the place 
-  where he belonged, because he did not look like he belonged there. The churches and attending these
+  where he belonged, because he did not look like he belonged there. My grandfather, you see, worked at one of those
+  oil companies, and was high up, even though he himself was black. This gave him a certain degree of privilege, and
+  his family lived within the compound of a primarily very privileged area. So my dad had access to this growing up,
+  and had to wrap his head around what it meant, in the middle of the Black Power movement in my country, to compound things.
+- The churches and attending these
   were a sign of status; you were *somebody important* if you happened to attend certain local churches that were filled
   with expats, often headed by a white priest. 
 - Interestingly, after the expats left, after the oil disappeared, these structures remained. Certain churches still kept
