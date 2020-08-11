@@ -16,6 +16,10 @@
 ## Reading
 - Reading is tied to colonization for me not just because of our British history (as I am from a British colonized country),
   but because of the structures of power within my country, which permeates itself through our churches. 
+- It is very much a mainstay of our culture, and that has continued even today as some of the most powerful persons in
+  my country (not in terms of visual power, but power that demonstrably runs our country in hidden sight) attend the 
+  same churches. Churches in my country are not just about "your relationship with God", but rather are highly 
+  political and show your network, access to power and your own status in society.
 - You see, in my home country, where you went to church would indicate or hint to others what kind of job you had,
   what part of society you affiliated with. When my dad was growing up, there were areas that were gated communities
   for expats, and these white bodies filled the churches within these gated communities. These gated communities were 
