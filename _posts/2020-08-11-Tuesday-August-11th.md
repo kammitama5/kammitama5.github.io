@@ -8,7 +8,7 @@
   reading I had been assigned to read because "I read so beautifully". At the time it was embarrassing for me, because
   of a long story that involves my parents wanting me to be confirmed in the place I was born, and my not living there
   anymore, and being treated as a teenager as an outsider (including being teased and bullied) in that community. 
-  They made fun of me because I wore socks instead of stockings, and my mom went out of my way, when someone at my school
+  They made fun of me because I wore socks instead of stockings, and my mom went out of her way, when someone at my school
   told me why they would laugh at me behind my back, to get me a pair of stockings to wear to church the following Sunday.
   Eventually I realized that nothing I could do would stop them from bullying me and feeling like an outsider, so I went right
   back to wearing socks. It was a lesson I learned about being true to myself. But that is besides the point. 
