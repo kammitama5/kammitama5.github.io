@@ -12,6 +12,9 @@
   told me why they would laugh at me behind my back, to get me a pair of stockings to wear to church the following Sunday.
   Eventually I realized that nothing I could do would stop them from bullying me and feeling like an outsider, so I went right
   back to wearing socks. It was a lesson I learned about being true to myself. But that is besides the point. 
+- Later on, I did have the maturity to realize why I was bullied, and to simultaneously appreciate the importance of why
+  my parents wanted me to participate in Confirmation there. It's helped me understand other situations where I have been an 
+  outsider, also, and to continue to learn how to keep to myself when I am ostracized by the common group. 
   
 ## Reading
 - Reading is tied to colonization for me not just because of our British history (as I am from a British colonized country),
