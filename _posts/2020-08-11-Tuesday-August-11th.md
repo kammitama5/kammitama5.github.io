@@ -63,7 +63,7 @@
 ## I am in love with mappings
 - I think back and realize that a lot of my exploration with Haskell, drawing, welding, etc, was my passion for mapping. I think constantly about
   how ideas map themselves from one context to the next. Literature can be mapped onto a pop-up book. Mathematical notation can be mapped onto a Categorical
-  Diagram, or to music. To me, a lot of it (including talks) is about mapping ideas, and mapping those ideas onto your audience. It is a lossy process, 
+  Diagram, or to music. To me, a lot of it (including talks) is about mapping ideas, and mapping those ideas onto your audience. It is a [lossy process](https://en.wikipedia.org/wiki/Lossy_compression), 
   in that some information does or might get lost along the way by the very medium you use to perform those mappings, but it is still a representation,
   a thought, an idea.
 
