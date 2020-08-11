@@ -56,6 +56,9 @@
 - When I read a book or give a presentation today, you know a bit of the history of my speaking in public. It's interesting
   how something so simple can be so complex. Reading and speaking in public for me is embedded in my country's history of segregation, power, and
   religion. Who knew?
+- It reminds me of the works of Breton and the art of Magritte I was exposed to growing up, and in college. When we ascribe labels to things, are they
+  really as they seem? Or do they have other layers we do not see? Is it just a representation, or is it something else, a puzzle to unlock that tells
+  us more about the world around us, if we care to see?
 
 ## And that's it
   
