@@ -17,7 +17,7 @@
   outsider, also, and to continue to learn how to keep to myself when I am ostracized by the common group. 
   
 ## Reading
-- Reading is tied to colonization for me not just because of our British history (as I am from a British colonized country),
+- But back to reading. Reading is tied to colonization for me not just because of our British history (as I am from a British colonized country),
   but because of the structures of power within my country, which permeates itself through our churches. 
 - It is very much a mainstay of our culture, and that has continued even today as some of the most powerful persons in
   my country (not in terms of visual power, but power that demonstrably runs our country in hidden sight) attend the 
