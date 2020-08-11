@@ -49,8 +49,8 @@
 - Today, I am back to the world of reading and presenting again; I have made about five slide decks in the past week. 
   This time, it is for the world of Academia, another world where you need to belong or gain approval or clout to be heard. 
   It is like being part of that gated church community all over again; like a church I couldn't walk to, because we all 
-  had cars to gain access, and we all had to speak with a security guard at the entrance to state or show how we belonged.
-- It's funny how life repeats itself
+  had to have cars to gain access (no buses come here), and we all had to speak with a security guard at the entrance to state or show how we belonged.
+- It's funny how life repeats itself.
 
 ## Today when I read a book, or present
 - When I read a book or give a presentation today, you know a bit of the history of my speaking in public. It's interesting
