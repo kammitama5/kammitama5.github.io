@@ -73,6 +73,7 @@
   using GUIs [ August ]
 - I have been asked to speak at the EGG on Air Conference [ August ]
 - I am taking a course on The Laws of Digital Data, Content and Artificial Intelligence (for fun) [ August ]
+- I am a Code2040 Essay Reviewer for 2021's Cohort [ August ]
 
 
 ## 2019
