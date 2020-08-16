@@ -49,10 +49,14 @@ I (virtually) spent the summer with. Interestingly,
 
 
 
-## Tech X Social Impact Fellowship aka Harvard Franklin Fellowship 
-- On to my next Fellowship! I applied via a form, and was narrowed down to a second round. I thought that there was no way I would get a spot
+## Tech X Social Impact Fellowship aka Harvard Franklin Fellowship Process
+- On to my next Fellowship! I applied via a form, and was narrowed down to a second round with another application and information to fill out (essay-type). I thought that there was no way I would get a spot
   (they only choose about 12 to 15 of us), but I was notified that I made it to the third round, which was a group interview. We were assigned
-  some articles to read and during our group interview, participated in a discussion about it.
+  some articles to read and during our group interview, participated in a discussion about it. I read the articles from cover to cover and even did
+  further research, thinking that even if I didn't get in, I would give it my best shot.
+  
+## Tech X Social Impact Fellowship aka Harvard Franklin Fellowship 
+
 - Fortunately, I was informed that I was one of the 12 or 15 out of 128 initial applicants to be selected! The actual Fellowship was also 
   very memorable! They did a really great job of helping the group bond and you really do become friends fairly quickly.
 - Note: everyone in that group is *exceptional*. Once again, I was in a group where it was super intimidating because everyone is so ambitious,
