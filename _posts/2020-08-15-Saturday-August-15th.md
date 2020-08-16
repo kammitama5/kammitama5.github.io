@@ -100,14 +100,19 @@ I (virtually) spent the summer with. Interestingly,
   ## In conclusion
 - I'm really thankful I took the time to participate in both fellowships. I grew incredibly and it really opened my mind to seeing the world
     in differnt ways and in challenging my world view. 
-- I also took part in the Lighthouse3 Externship, which was an AI Ethics Mentorship programme, which was also quite wonderful! I'm still 
+- I also took part in the [Lighthouse3 Externship](https://lighthouse3.com/mentoring/mentors.php), which was an AI Ethics Mentorship programme, which was also quite wonderful! I'm still 
   very much friends with my mentor, and although it was just supposed to be for four weeks, time just flew by and our conversations were so 
   easy and fluid.
-- I also took a class via SFPC which also challenged me, as it was an interdisciplinary opportunity to join a reading and critical group 
+- I also took a class via [SFPC](https://sfpc.io/) which also challenged me, as it was an interdisciplinary opportunity to join a reading and critical group 
   where we had deep conversations about various topics tied to Technology and people. So that was also incredibly valuable and I made many
   new friends in that group, too! 
 - I also am jointly mentoring a student with a non-traditional background who is incredibly talented and I think not just going to be an
   awesome engineer, but one with fantastic leadership ability. You should seriously hire her! 
+- I also worked on two research projects over summer with my advisor, which thinking back is INSANE. What was I even thinking!? One of them resulted
+  in an acceptance to a poster session I'll be presenting this week as first author! (Hooray!)
+- I also took a few online classes this summer; one on British Imperalism and another on Data Laws and AI (which focused on GDPR, etc).
+- I also volunteered in at least three major conferences (actually: ICLR, ICML, ICFP, ACL, EC2020), including co-organizing a social and a fireside chat.
+- Oh, and I did some podcasts, interviews, spoke and moderated at some conferences / events.
 - Finally, I'm taking part in a project that is longer-term and involves a group of people from the West Coast. I just started recently,
   but it's been a blast. It's an impactful project that I was able to segue directly into from completing the Code 2040 Fellowship, and
   that excited at least one of the organizers when I mentioned it. Oh, and for all the Fellowships and programmes I mentioned, once you're involved, you are a part
@@ -115,4 +120,8 @@ I (virtually) spent the summer with. Interestingly,
 - So if you're thinking of applying to any of the programmes I mentioned, I would *highly* mention all! And once you've completed them,
   especially if it influenced you in some meaningful way, don't forget to give back! :)
   
+  
+## Three days before school starts back
+- I am definitely going to take off! It's been a lot, but it's also been incredibly worthwhile! What a summer!
+
  ## That's it for now
