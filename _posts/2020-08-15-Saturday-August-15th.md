@@ -122,7 +122,7 @@ I (virtually) spent the summer with. Interestingly,
   but it's been a blast. It's an impactful project that I was able to segue directly into from completing the Code 2040 Fellowship, and
   that excited at least one of the organizers when I mentioned it. Oh, and for all the Fellowships and programmes I mentioned, once you're involved, you are a part
   of that organization for life, and it's wonderful! 
-- So if you're thinking of applying to any of the programmes I mentioned, I would *highly* mention all! And once you've completed them,
+- So if you're thinking of applying to any of the programmes I mentioned, I would *highly* recommend all! And once you've completed them,
   especially if it influenced you in some meaningful way, don't forget to give back! :)
   
   
