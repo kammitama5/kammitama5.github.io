@@ -125,4 +125,4 @@ I (virtually) spent the summer with. Interestingly,
 ## Three days before school starts back
 - I am definitely going to take off! It's been a lot, but it's also been incredibly worthwhile! What a summer!
 
- ## That's it for now
+## That's it for now
