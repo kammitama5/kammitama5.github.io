@@ -112,6 +112,7 @@ I (virtually) spent the summer with. Interestingly,
   in an acceptance to a poster session I'll be presenting this week as first author! (Hooray!)
 - I also took a few online classes this summer; one on British Imperalism and another on Data Laws and AI (which focused on GDPR, etc).
 - I also volunteered in at least three major conferences (actually: ICLR, ICML, ICFP, ACL, EC2020), including co-organizing a social and a fireside chat.
+- I reviewed applications for a lot of things, including proposals and backlog for an organization that is near and dear to my heart. 
 - Oh, and I did some podcasts, interviews, spoke and moderated at some conferences / events.
 - Finally, I'm taking part in a project that is longer-term and involves a group of people from the West Coast. I just started recently,
   but it's been a blast. It's an impactful project that I was able to segue directly into from completing the Code 2040 Fellowship, and
