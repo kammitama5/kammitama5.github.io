@@ -30,6 +30,10 @@ I (virtually) spent the summer with. Interestingly,
   end of April, but you are also trying to get one of those spots, because once it is filled, the company is closed for hiring. There are only 80 
   Fellow spots total, so remembering that there are close to 300 of us, you want to get one of those 80 spots or you can't advance to be a Fellow.
   And everyone in the group is stellar. 
+- They definitely do not lower the bar, either. It is possible that a company reaches out to several Finalists, conducts their own set of technical
+  interviews and non-technical interviews to hire one of us, but they don't find a fit and just don't place anyone. That's rare, but it could happen
+  and I definitely saw some companies take a lot longer to close / find an intern than others. Once you get to the Finalist stage, you're essentially
+  interviewing with each company, however they would like to pursue the process (whether that means 2 more rounds and on onsite, etc).
 - This year, because of Covid, they opened up the Fellowship after April to other persons who had secured non-Code 2040 companies, which was really
   great, because there was a lot of uncertainty by students everywhere (not just at Code 2040) as to whether they would be able to land internships.
   I will say that if you are able to get to the Finalist or Fellow stage of Code, you are *highly* competitive. All of the students I spoke with
