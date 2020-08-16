@@ -72,7 +72,9 @@ I (virtually) spent the summer with. Interestingly,
 - Note: everyone in that group is *exceptional*. Once again, I was in a group where it was super intimidating because everyone is so ambitious,
   driven and basically a superstar. Many persons in the group have run a startup, or are running a startup, and have incredibly leadership skills.
   Every week, a speaker is brought in who is running a company, and we have discussions with them. The companies they run are varied, and it truly
-  is a world-expanding experience. It gave me a lot to chew on.
+  is a world-expanding experience. It gave me a lot to chew on. All of the speakers are chosen not only because they are super passionate and 
+  high achievers, but also because they are doing something disruptive and interesting in the Tech and Social Impact space. The speakers all had 
+  very different backgrouds, which was fascinating. They all had incredibly innovative solutions to problems. 
 - On top of that, we had weekly activities, such as virtual yoga, Skribbl and persons gave lightning talks. 
 - Again, I was in a group with exceptional individuals who were vulnerable about their lives, their accomplishments and their future goals.
   These individuals are *incredibly* resilient, and I feel super grateful to have been a part of this cohort. 
