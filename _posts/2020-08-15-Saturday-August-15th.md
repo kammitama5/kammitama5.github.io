@@ -44,7 +44,9 @@ I (virtually) spent the summer with. Interestingly,
   very personal, and they ensured it was a space where we could both be vulnerable and find a source of strength in each other. I enjoyed it a lot!
 - In terms of the internship, they gave me a really great, competitive offer, a project I enjoyed working on, and we had regular Check-ins with the 
   Code 2040 point of contact within the company. They did a really great job at supporting us, and I enjoyed my time at my host company this summer.
-- It very much influenced my deciding to work on a project I'm working on, and I'm really thankful that especially this year, I participated in 
+- I had a check-in with two managers (one of them was the main manager), and both were incredibly kind and helpful. I was also paired with two "buddies";
+  both of whom had been interns last summer and secured full-time offers the following summer. One was also a past Code 2040 Fellow, too! 
+- My time during the Code 2040 Fellowship very much influenced my deciding to work on a project I'm working on, and I'm really thankful that especially this year, I participated in 
   Code 2040. 
 
 
