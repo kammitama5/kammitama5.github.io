@@ -50,6 +50,9 @@ I (virtually) spent the summer with. Interestingly,
   Code 2040 point of contact within the company. They did a really great job at supporting us, and I enjoyed my time at my host company this summer.
 - I had a check-in with two managers (one of them was the main manager), and both were incredibly kind and helpful. I was also paired with two "buddies";
   both of whom had been interns last summer and secured full-time offers the following summer. One was also a past Code 2040 Fellow, too! 
+- I was able to give five presentations; one for another office, one for the organization and three for my team this summer. I definitely got used 
+  to timing, rehearsing and giving presentations about my work! The company also has a very strong ERG presence and is part of the [Hidden Genius project](https://www.hiddengeniusproject.org/),
+  which I enjoyed learning about (it is also based out of Oakland). 
 - My time during the Code 2040 Fellowship very much influenced my deciding to work on a project I'm working on, and I'm really thankful that especially this year, I participated in Code 2040. 
 
 
