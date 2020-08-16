@@ -61,6 +61,9 @@ I (virtually) spent the summer with. Interestingly,
   (they only choose about 12 to 15 of us), but I was notified that I made it to the third round, which was a group interview. We were assigned
   some articles to read and during our group interview, participated in a discussion about it. I read the articles from cover to cover and even did
   further research, thinking that even if I didn't get in, I would give it my best shot.
+- I received a phone call from one of the organizers congratulating me and telling me that I had gotten a spot. I was super super excited! I had a lot
+  of fun during this Fellowship! Everyone is incredibly spontaneous, has a wealth of information, and a lot of knowledge. It's a group of very mission-driven individuals who are really impacting the Tech and Social Impact space, and I have no doubt that every single one of the persons chosen will go
+  on to have an incredibly successful career. I feel incredibly lucky to have been chosen.
   
 ## Tech X Social Impact Fellowship aka Harvard Franklin Fellowship 
 
