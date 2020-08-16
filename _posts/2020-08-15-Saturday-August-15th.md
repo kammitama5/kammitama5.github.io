@@ -27,11 +27,15 @@ I (virtually) spent the summer with. Interestingly,
   to companies you are interested in, so that if they are interested in you, as well, they might determine it's a mutual match, but this is not 
   guaranteed. I definitely sent out four messages and heard back from one or two of those companies and didn't hear back from others. Each company
   is looking to hire a certain number of interns, also. So you are not just looking to obtain an internship with a company you might like before the 
-  end of April, but you are also trying to get one of those spots, because once it is filled, the company is closed for hiring. 
+  end of April, but you are also trying to get one of those spots, because once it is filled, the company is closed for hiring. There are only 80 
+  Fellow spots total, so remembering that there are close to 300 of us, you want to get one of those 80 spots or you can't advance to be a Fellow.
+  And everyone in the group is stellar. 
 - This year, because of Covid, they opened up the Fellowship after April to other persons who had secured non-Code 2040 companies, which was really
   great, because there was a lot of uncertainty by students everywhere (not just at Code 2040) as to whether they would be able to land internships.
-  I will say that if you are able to get to the Finalist or Fellow stage of Code, you are *highly* competitive. Many of the students I spoke with
-  over the summer who were Finalists and Fellows were extremely qualified, top-notch, super talented and have an incredibly bright future.
+  I will say that if you are able to get to the Finalist or Fellow stage of Code, you are *highly* competitive. All of the students I spoke with
+  over the summer who were Finalists and Fellows were extremely qualified, top-notch, super talented and have an incredibly bright future. Some were
+  not able to secure Fellowships with the portal companies, but they went off to work for FAANG and other such companies anyways, which worked out
+  for all of us in the end because we were able to give referrals to each other at the end of our internships. Pretty great group!
 
 ## Code 2040 Fellow
 - As a Code 2040 Fellow, you are paired with a mentor. In my case, they paired me with a PhD graduate who is a successful co-founder. Needless to say,
@@ -46,9 +50,7 @@ I (virtually) spent the summer with. Interestingly,
   Code 2040 point of contact within the company. They did a really great job at supporting us, and I enjoyed my time at my host company this summer.
 - I had a check-in with two managers (one of them was the main manager), and both were incredibly kind and helpful. I was also paired with two "buddies";
   both of whom had been interns last summer and secured full-time offers the following summer. One was also a past Code 2040 Fellow, too! 
-- My time during the Code 2040 Fellowship very much influenced my deciding to work on a project I'm working on, and I'm really thankful that especially this year, I participated in 
-  Code 2040. 
-
+- My time during the Code 2040 Fellowship very much influenced my deciding to work on a project I'm working on, and I'm really thankful that especially this year, I participated in Code 2040. 
 
 
 ## Tech X Social Impact Fellowship aka Harvard Franklin Fellowship Process
@@ -81,7 +83,7 @@ I (virtually) spent the summer with. Interestingly,
   doing your own thing. I relate to that a lot, as I feel this way about grad school. If I had not gone go grad school, I may have chased
   a more comfortable tech job, but I don't feel that at the moment, that that's a priority for me. Since I have lived in the US, I have 
   experienced frequent instability and ups and downs, so I don't expect comfort. And that, as it turns out, is a great skill to have as 
-  both a leader and someone who is trying to do their own thing. 
+  both a leader and someone who is trying to do their own thing. You learn to be uncomfortable and take risks and learn from failure.
   
   
   ## In conclusion
