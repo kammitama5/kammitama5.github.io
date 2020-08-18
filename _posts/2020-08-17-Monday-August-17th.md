@@ -75,8 +75,8 @@
 - When I worked as a student camera tester, during my time as an Undergraduate student, it became painfully aware that *certain* 16mm film magazines
   would repair, and then break, over and over again. We were able to use a maintenance system that tracked over time, not just the magazines,
   but their repairs, the dates they were repaired, and who used them. We built systems on the premise that there is wear and tear, and there 
-  are not simple solutions, and that things in the real world break. Our data was rich enough to also give information to the person creating 
-  a diagnostic as to how the magazine could be fixed, and give them information on the historical context of maintenance. 
+  are not simple solutions, and that things in the real world break. We also built systems that accounted for user error and equipment failure, as well as general wear and tear. Our data was rich enough to also give information to the person creating 
+  a diagnostic as to how the magazine could be fixed, and give them information on the historical context of maintenance. And, of course, when the magazines themselves were no longer usable, given some threshold of usability both in the system and in the real world, with advice from the electronics technician and the service administrator (ie both the person repairing the thing and the person collecting the data). 
 - When you work on systems that are supposed to help humans, interact with humans, then, how do we measure what "done" is? Humans are all so 
   different, this may never be the case. So how is that expected to fit into a system if we are all such anomalies? It's a question that's difficult
   to answer, but there are many fields that have already explored such topics. 
