@@ -57,7 +57,7 @@
   "Which is it? Is it Trinidad OR Tobago? Pick one!". I tried to explain to him that they were together; it's *one* 
   twin-island republic. Triumphantly, after he looked it up, he responded that "I was right" (as though I could not validate
   for myself the very place that I was born). It was a comical but tragic incident, but it speaks more broadly to the relationship 
-  us as people who analyze and collect data, and those who give up their data. Do we see the data and think as data scientists or
+  we as people who analyze and collect data, and those who give up their data have. Do we see the data and think as data scientists or
   analysts that for it to be authentic, we alone can validate it? Are we authoratative in a way that diminishes the experiences and 
   inputs of the very people we collect data from? Or do we see ourselves as participatory and collaborative, as part
   of a wider process. 
