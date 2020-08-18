@@ -63,7 +63,7 @@
   of a wider process. 
 
 ## I guess I've been thinking about this a lot
-- I was asking someone the other day how do you know when a problem or project is "done"? When is something *enough*. The Computer Scientist 
+- I was asking someone the other day "How do you know when a problem or project is *done*"? When is something *enough*. The Computer Scientist 
   and agile process says that you should specify when something is done, and that's how you know a project is over. 
   It's a very neat, convenient way for someone in Computer Science
   to think about a problem, but that isn't really how things work in the real world, isn't it? 
