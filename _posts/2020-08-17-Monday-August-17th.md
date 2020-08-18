@@ -32,6 +32,14 @@
   and cousins. Today, it is with digital amenties that delight when they are first brought to us, but are a pain when
   they experience wear and tear. 
   
+## Imagine this (A true story)
+- Imagine this: a daughter has bought her father a Kindle. However, when he logs into his Kindle, it wants to authenticate his 
+  account by sending [two-factor auth](https://en.wikipedia.org/wiki/Multi-factor_authentication) to his daughter via *her* mobile phone. This means that he has to text her and ask her
+  about the number that was sent to *her phone* (because United States numbers required only of course) to unlock *his Kindle*.
+  And this is a timed transaction, so it has to be done before the transaction times out. 
+- In the age of companies looking to make profits, and hiring many immigrants whose families live outside of the United States,
+  unfortunately this isn't really a thing that seems to matter...shrug.
+  
 ## But back to those forms
 - Why do I care about forms? Well, because forms are the pipeline to data; the data we in Data Science, Machine Learning
   and AI take for granted. If we don't have an understanding for and healthy skepticism for the way our data is collected,
