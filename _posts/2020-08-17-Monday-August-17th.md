@@ -8,7 +8,7 @@
 - But I've know this. You see, back in the days of this young'un appylying to United States
   universities, they would *mostly* ask for a zip code. Application after application would not
   let you hit that submit button unless you put in a state and a zip code, and well, my country of birth has *neither*. Very quickly, we learned that
-  you could put in "99999" or "00000" as the zip code, or use a random state in a drop-down. You could not submit unless you picked "some state" so a random one is as good as any, right? But sometimes the for wouldn't accept
+  you could put in "99999" or "00000" as the zip code, or use a random state in a drop-down. You could not submit unless you picked "some state" so a random one is as good as any, right? But sometimes the form wouldn't accept
   "00000". So you'd hope "99999". I think for one form, it didn't work, so I just put in a random
   zip code. I mean, it's not *technically* lying if the form is terrible and there is no other
   way to get it to submit, right? They were all pretty terrible.
