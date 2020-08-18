@@ -64,9 +64,10 @@
 
 ## I guess I've been thinking about this a lot
 - I was asking someone the other day "How do you know when a problem or project is *done*"? When is something *enough*. The Computer Scientist 
-  and agile process says that you should specify when something is done, and that's how you know a project is over. 
+  and agile process says that you as the designer of that project, as the person architecting that system, should specify when something is done, and that's how you know a project is over. 
   It's a very neat, convenient way for someone in Computer Science
-  to think about a problem, but that isn't really how things work in the real world, isn't it? 
+  to think about a problem, but that isn't really how things work in the real world, is it? I wonder how we can be so blithely unaware of this 
+  reality, yet take ourselves so seriously. 
 - A mechanic knows this isn't the case, as things are a trade-off. You make a fix, but something else may come loose or rattle. Your tires may
   need to be aligned. Your fan belt is rattling again. Doctors know this to be the case, too; someone can experience little to no symptoms,
   but that doesn't mean that they are fully cured, or that they will be cured *forever*. It seems to be only the computer scientist without
