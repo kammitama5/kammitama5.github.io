@@ -74,6 +74,8 @@
 - I have been asked to speak at the EGG on Air Conference [ August ]
 - I am taking a course on The Laws of Digital Data, Content and Artificial Intelligence (for fun) [ August ]
 - I am a Code2040 Essay Reviewer for 2021's Cohort [ August ]
+- My advisor convinced me to apply (yet again!) to speak at my school's Research Day on our work. I'll be talking about the paper we recently wrote, as well
+  as some of our empirical work [ August ] 
 - I won a raffle ticket courtesy of Google Research to attend ECCV 2020! [ August ]
 
 
