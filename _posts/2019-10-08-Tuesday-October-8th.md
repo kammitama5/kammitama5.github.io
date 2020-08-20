@@ -77,6 +77,7 @@
 - My advisor convinced me to apply (yet again!) to speak at my school's Research Day on our work. I'll be talking about the paper we recently wrote, as well
   as some of our empirical work [ August ] 
 - I won a raffle ticket courtesy of Google Research to attend ECCV 2020! [ August ]
+- I received a D&I ticket to attend KDD 2020, which is virtual! [ August ]
 
 
 ## 2019
