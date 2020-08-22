@@ -78,6 +78,11 @@
   as some of our empirical work [ August ] 
 - I won a raffle ticket courtesy of Google Research to attend ECCV 2020! [ August ]
 - I received a D&I ticket to attend KDD 2020, which is virtual! [ August ]
+- I've been matched with an ICFP 2020 mentor! She's wonderful! [ August ]
+
+
+
+
 
 
 ## 2019
