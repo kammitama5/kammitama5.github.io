@@ -13,7 +13,7 @@
   which involves finding meaning or clues in the details.
 - One of the historical facts of the practice of ethnography was that it was used as an Academic practice to justify colonization and to treat
   the colonized as savages or uncivil. I think about ethnography today not just as an Academic practice, but as one of the earliest means of data
-  collection. As someone who works with data daily, this is very disconcerting.
+  collection. As someone who works with data daily, this is very disconcerting. Data is not truth. It is a proxy for something.
 
 ## Two
 - Today, ethnography is embedded into the field of commodification, and private ethnographic practice is used to observe and analyze humans to be 
