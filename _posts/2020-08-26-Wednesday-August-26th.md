@@ -63,8 +63,9 @@
   and a [writing group](https://www.wendyssubway.com/programs/events/writing-night).
   
 ## A lot of this is common sense
-- But it's really difficult to implement, especially if you're a good person. But it's really important, especially during the time of virtual time,
+- But it's really difficult to implement, especially if you're a [good](https://knowyourmeme.com/memes/all-the-things) person driven to do good things in the world that have impact and hep people. But it's really important, especially during the time of virtual time,
   to protect your time and your energy.
+- I hope you had as much fun reading this as I did writing it! Have a great, day and a balanced and restful week!
   
 ## And that's it
   
