@@ -1,4 +1,4 @@
-## Reading group notes
+## Reading group notes (Auto-Ethnographic Stories)
 
 ## It's still Wednesday
 - It's still Wednesday here, but I took part in the reading group tonight.
