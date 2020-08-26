@@ -28,6 +28,11 @@
   me when I had a flip phone, to be honest. But thank you airplane mode.
 - Also, as others suggest, [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique)
 
+## Reading is important
+- I think that during one's PhD, quiet time for reading isn't emphasized enough. I've specifically blocked off times to read because it's important
+  to me. And I try to read not necessarily technical papers during this time (I can do that during blocked off "work" times). I've been reading 
+  quite a bit lately on [Ethnography](https://www.goodreads.com/book/show/18078994-practical-ethnography), for example. 
+
 ## Taking breaks
 - One of my coworkers this summer would go for a run in the middle of the day. I learned over summer that I very easily got tired of virtual 
   meetings and conferencing, so I would take an hour in the middle of the day, turn off the lights, put my electronics to sleep or off, and 
@@ -40,7 +45,7 @@
   I'm still struggling with this, but I'm getting better over time. 
 - I've gotten better at saying no to certain blocks of time, though (just say you're not available during these times, which are your focused times).
 
-## Alienation
+## Alienation and doing Other things
 - I listen to [podcasts](https://podcasts.apple.com/us/podcast/how-to-do-grad-school/id1521767027). It's a low-effort way to have some noise
   in the room without having the distraction of music.
 - I also have lab-time, am on some Slack groups and this summer was able to be in groups that had virtual games, virtual chats, Twitch streams,
