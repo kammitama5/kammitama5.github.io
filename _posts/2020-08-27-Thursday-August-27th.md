@@ -2,7 +2,7 @@
 
 ## It's still Wednesday
 - It's still Wednesday here, but I took part in the reading group tonight.
-- Our notes were pulled from the book Ethno-Techno, and from an image of the Pachuco, particularly an image of a man being inspected by a police
+- Our notes were pulled from the book [Ethno-Techno](https://www.goodreads.com/book/show/1403728.Ethno_Techno_Writings_on_Performance_Activism_and_Pedagogy), and from an image of the [Pachuco](https://en.wikipedia.org/wiki/Pachuco), particularly an image of a man being inspected by a police
   officer, as though he were a rare subhuman.
   
 ## Our prompt was
