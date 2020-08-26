@@ -9,7 +9,7 @@
 - Are we able to recuperate the possibility of change in a society like ours, in which all changes implode or are instantly commodified?
 
 ## My hour of solitude (I'll try not to post it in one large chunk)
-- I've been reading about the history of LA's inmate system (highest in the country) and simultaneously reading about ethnography in practice,
+- I've been reading about the history of [LA's inmate system](https://www.goodreads.com/book/show/34725951-city-of-inmates) (highest in the country) and simultaneously reading about ethnography in practice,
   which involves finding meaning or clues in the details.
 - One of the historical facts of the practice of ethnography was that it was used as an Academic practice to justify colonization and to treat
   the colonized as savages or uncivil. I think about ethnography today not just as an Academic practice, but as one of the earliest means of data
