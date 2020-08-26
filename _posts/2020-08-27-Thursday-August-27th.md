@@ -37,7 +37,7 @@
   
 ## Five
 - A rejection of that commodification is therefore a rejection of that mocking or degradation of the dominating culture. It is a celebration of 
-  that culture, regaining power.
+  that culture, regaining power. It is deliberate surversion.
 
 ## Six
 - In conclusion, the phrase "possibility of change" to me is a euphemism for "truth"; the kind of truth that ethnographers first seeked when they
