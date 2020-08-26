@@ -8,7 +8,17 @@
   in the same environment. 
 - During one of my fellowships this summer, one of the founders of a company said that pre-frontal cortex rest is super important. You need time
   to think that is focused and interrupted, and it is for this reason that they go to sleep by 8pm. They also get up early because many persons
-  are not up then, so they can get focused work done. 
+  are not up then, so they can get [focused work](https://knowledge.wharton.upenn.edu/article/deep-work-the-secret-to-achieving-peak-productivity/) done. 
+  
+## Deep work
+- [Deep work](https://www.calnewport.com/books/deep-work/) is very difficult for me to achieve during the day, because everyone is up. I either fall into
+  one of two camps; I will either respond to you and be aware of the things you are telling me, or I will be so distracted by what I am working on that
+  I will miss meetings completely (which happened to me twice this summer). I have gotten better at not missing meetings by setting an alarm and by
+  buying a dry-erase board. It sits on my desk, and I write every week up, cross out items as I go through the day, and make a new one every week.
+  If it isn't on my whiteboard, it's very easy for me to miss completely. 
+- I also have a section on my whiteboard that is for longer-term projects to keep in mind, and the other side of my whiteboard has longer-term PhD goals.
+- The root of my whiteboard planning is my online calendar. I colour code everything. My colour code also has ranges of importance, from not so important (grey),
+  to very important (usually red). This summer I also had the pleasure of balancing both a separate work calendar and a personal calendar. Not fun. Not fun at all.
   
 ## Optimal times
 - The founder mentioned that it's good to figure out when you are most productive. During my summer internship, I was fortunate to have access to 
