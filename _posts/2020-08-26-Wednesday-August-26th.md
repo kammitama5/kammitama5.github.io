@@ -32,7 +32,7 @@
 ## Blocking off times
 - I am a habitual email-checker. This is *bad*. I learned over summer, with advice from my manager over summer and labmates from another lab
   that I should train persons I work with to expect responses from me at times of the day. Professors are great at this. Instead, my manager
-  said that I should block off specific times to check my email, and then leave it along otherwise.
+  said that I should block off specific times to check my email, and then leave it alone otherwise. Nope. Don't look at it.
 - Similarly, during the times of focused work, avoid distractions. My advisor has a laptop with no browsers, that he uses when he is working.
   Another postdoc friend said that he simply leaves his phone in another room, and another said they turn off their phone. This was easier for 
   me when I had a flip phone, to be honest. But thank you airplane mode.
