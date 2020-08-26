@@ -44,7 +44,7 @@
   quite a bit lately on [Ethnography](https://www.goodreads.com/book/show/18078994-practical-ethnography), for example. 
 
 ## Taking breaks
-- One of my coworkers this summer would go for a run in the middle of the day. I learned over summer that I very easily got tired of virtual 
+- One of my coworkers this summer would go for a run in the middle of the day. Others would garden. I learned over summer that I very easily got tired of virtual 
   meetings and conferencing, so I would take an hour in the middle of the day, turn off the lights, put my electronics to sleep or off, and 
   take a nap. This worked wonders and energized me for my tasks for the rest of the day.
 - Also, as I had said before, I work best nocturnally, so it gave me energy to get work done when everyone else had gone to sleep.
