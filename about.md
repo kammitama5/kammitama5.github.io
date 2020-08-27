@@ -44,6 +44,7 @@ be TA-ing a Compilers course in Haskell and another CS course.
 - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_8_27_2020b.pdf)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 - [TechX Social Impact Medium Article (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
+- I have also contributed both the ACM Climate Change Wiki page and the [Project in Red/Women in AI Ethics Wiki page](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). You can find my Wiki user profile [here](https://en.wikipedia.org/wiki/User:Kammitama)
 
 ### Groups I'm in
 
