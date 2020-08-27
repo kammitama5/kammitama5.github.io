@@ -79,7 +79,7 @@
 - I won a raffle ticket courtesy of Google Research to attend ECCV 2020! [ August ]
 - I received a D&I ticket to attend KDD 2020, which is virtual! [ August ]
 - I've been matched with an ICFP 2020 mentor! She's wonderful! [ August ]
-- I started contributing to the Wiki Page [WikiProject: Women in Red / AI Ethics Project](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). I've contributed to the ACM Climate Change project before (2 years ago), so I have a Wiki account already :)
+- I started contributing to the Wiki Page [WikiProject: Women in Red / AI Ethics Project](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). I've contributed to the ACM Climate Change project before (2 years ago), so I have a Wiki account already :) [ August] 
 
 
 
