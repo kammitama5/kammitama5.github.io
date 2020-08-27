@@ -56,7 +56,7 @@
 - I've gotten better at saying no to certain blocks of time, though (just say you're not available during these times, which are your focused times).
 
 ## Alienation and doing Other things
-- I listen to [podcasts](https://podcasts.apple.com/us/podcast/how-to-do-grad-school/id1521767027). It's a low-effort way to have some noise
+- I [listen](https://podcasts.apple.com/us/podcast/in-machines-we-trust/id1523584878) to [podcasts](https://podcasts.apple.com/us/podcast/how-to-do-grad-school/id1521767027). It's a low-effort way to have some noise
   in the room without having the distraction of music.
 - I also have lab-time, am on some Slack groups and this summer was able to be in groups that had virtual games, virtual chats, Twitch streams,
   Improv sessions, virtual yoga, and I even joined a [reading](https://www.wendyssubway.com/programs/reading-groups/abolition-reading-group-end-to-political-policing) 
