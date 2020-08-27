@@ -3,7 +3,7 @@
 ## Thinking
 - One of the things I've really been thinking a lot about was how to add order into the chaos of existing and getting work done virtually.
   I am often *incredibly* busy, and when my virtual schedule first started, I noticed that my productivity hours flipped; I prefer to stay up
-  really late and get late. 
+  really late and get up late. 
 - While this is dependent on the person, I've been asking around about various tips and tricks people have done to stay sane working and living
   in the same environment. 
 - During one of my fellowships this summer, one of the founders of a company said that pre-frontal cortex rest is super important. You need time
