@@ -52,7 +52,7 @@
 - I've been invited to be a volunteer for the ACL 2020 (Association for the field of Computational Linguistics)! I am STOKED! [ June ]
 - I've been invited to be a volunteer for ICFP 2020 (International Conference of Functional Programming)! [ June ]
 - I have been asked by WiML to be a Session Facilitator for one of their ICML workshops on "Recommender Systems Research in Industry" [ June ]
-- I received a WiML Travel Fund grant for ICML 2020 [ June ]
+- I received a WiML Travel Fund grant for ICML 2020, courtesy of Quantum Black (A McKinsey Company) [ June ]
 - I have been asked to speak at the STSI STEAM/STEM camp [ July ]
 - I have been invited to moderate a panel the Transform 2020 event [ July ]
 - I will be co-planning a casual ACL Black in AI Social [ July ]
@@ -79,6 +79,8 @@
 - I won a raffle ticket courtesy of Google Research to attend ECCV 2020! [ August ]
 - I received a D&I ticket to attend KDD 2020, which is virtual! [ August ]
 - I've been matched with an ICFP 2020 mentor! She's wonderful! [ August ]
+- I started contributing to the Wiki Page [WikiProject: Women in Red / AI Ethics Project](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). I've contributed to the ACM Climate Change project before (2 years ago), so I have a Wiki account already :)
+
 
 
 
