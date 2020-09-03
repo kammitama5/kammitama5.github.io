@@ -40,8 +40,8 @@ be TA-ing a Compilers course in Haskell and another CS course.
 
 ### Other 
 
-- [Gist of Things (Resume for Industry, Code Links, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_8_28_2020.pdf)
-- [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_8_28_2020.pdf)
+- [Gist of Things (Resume for Industry, Code Links, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_8_3_2020.pdf)
+- [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_8_3_2020.pdf)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 - [TechX Social Impact Medium Article (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
 - [TechX Social Impact Medium Article (Summer 2020)](https://medium.com/tech-x-social-impact/impossible-markets-and-big-dreams-my-interaction-with-the-cfo-of-impossible-foods-f0c075c241e0)
