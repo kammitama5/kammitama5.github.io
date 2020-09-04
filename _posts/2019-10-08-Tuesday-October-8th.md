@@ -81,6 +81,7 @@
 - I've been matched with an ICFP 2020 mentor! She's wonderful! [ August ]
 - I started contributing to the Wiki Page [WikiProject: Women in Red / AI Ethics Project](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). I've contributed to the ACM Climate Change project before (2 years ago), so I have a Wiki account already :) [ August] 
 - I am a Logistics co-organizer (1 of 3) for the Black in AI @ NeurIPS workshop 2020 [ August ]
+- I received an NCWIT Bloomberg GHC Grant [ September ]
 
 
 
