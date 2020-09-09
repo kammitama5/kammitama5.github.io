@@ -1,9 +1,11 @@
-## Writing Group
+## Writing Group (9/9/2020)
 
 ## Writing
 - Today's writing group was more stream of consciousness. It was a challenging subject for me, to be honest.
 - I'm also a bit tired, as I had a lot going on this week (still do). I also had my first live writing consult today!
-- I have to stay up late to write code. Wish me compiles!
+- I have to stay up late to write code. Wish me compiles! Weird how my life is between writing papers and writing code now. Pretty much a lot 
+  of writing. However, I am doing this class tonight that will be letting me draw some stuff, so that should be kind of cool. I thought of getting
+  a replacement for my Wacom that I had to get rid of when I moved. I kind of miss it (I had three Wacoms, tbh). I also have been in a LOT of meetings. Ugh. Meetings. 
 
 ## Prompt
 - I won't put the entire prompt down, but it was about writing as a toy and a portal. There was another prompt about 
