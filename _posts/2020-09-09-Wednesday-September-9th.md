@@ -5,7 +5,7 @@
 - I'm also a bit tired, as I had a lot going on this week (still do). I also had my first live writing consult today!
 - I have to stay up late to write code. Wish me compiles! Weird how my life is between writing papers and writing code now. Pretty much a lot 
   of writing. However, I am doing this class tonight that will be letting me draw some stuff, so that should be kind of cool. I thought of getting
-  a replacement for my Wacom that I had to get rid of when I moved. I kind of miss it (I had three Wacoms, tbh). I also have been in a LOT of meetings. Ugh. Meetings. 
+  a replacement for my Wacom that I had to get rid of when I moved. I kind of miss it (I had three Wacoms, tbh). I also have been in a LOT of meetings. Ugh. Meetings. I was in meetings from 11am all the way to 11:30pm last night. :(
 
 ## Prompt
 - I won't put the entire prompt down, but it was about writing as a toy and a portal. There was another prompt about 
@@ -40,7 +40,7 @@ I get paid to write now. Will I hate it? Will the play disappear?
 I think of great writers in my own country, who used the writing of extempo and sobriquets to be someone else; 
 to have an alternate existence in the world within which they existed, where they could be exalted. 
 Their writing made them griots in their communities.
-I think of Lord Kitchener, who in spite of this portal, died tragically. An immense loss. 
+I think of [Lord Kitchener](https://en.wikipedia.org/wiki/Lord_Kitchener_(calypsonian)), who in spite of this portal, died tragically. An immense loss. 
 I think of his music and writing that continues to live on.
 
 ## Six
