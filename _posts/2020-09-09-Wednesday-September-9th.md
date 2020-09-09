@@ -13,7 +13,7 @@
 
 
 ## One
--The interaction of writing as being central to the act of writing is difficult for me to think about. 
+- The interaction of writing as being central to the act of writing is difficult for me to think about. 
 Writing in itself is like sewing up deep wounds with sutures. Writing is memory.
 Writing is the reliving of trauma for some. 
 Collective writing for me is the cementing of a particular ideology from a single idea. Writing can become dogmatic truth. 
