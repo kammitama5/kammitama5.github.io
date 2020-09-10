@@ -72,8 +72,8 @@ Who needs silence and a pen and paper? What are you, a luddite?
   give us the room to fail and try things out, which is kind of stupid. And then people wonder why it's so difficult for women to make it in business. Well..maybe..just maybe..give us females room to try and fail, too. But...Wow guys are soooooooo cool.
   We as females...Our failures are made to be examples as to why we should not be put into leadership positions, and their failures are just seen as another step...
   on the way to conquering the world or whatever, as they were ordained to do by some fake ideology that was made by dudes anyway. Guys. 
-  Maybe when I grow up I can be one. Just kidding. I like being me. A lot. But I think that a lot of things people mouth are stupid and they don't 
-  think deeply about how what they say is sometimes just a banal mouthing of some bull**** ideology someone taught them growing up. And it means 
+  Maybe when I grow up I can be one. Just kidding. I like being me. A lot. But I think that a lot of things people mouth stupidly are things they don't 
+  think deeply about. Sometimes it's just a banal mouthing of some bull**** ideology someone taught them growing up. And it means 
   nothing. Even if you come to the conclusion that your ideology is *right* (whatever that means), how do you go through life not questioning it *at all*. That kind of astounds me. I feel like if you are a particular type of person, you can go through your entire life not having that questioned, and that's just well...sad. And you spout that fake ideology to others (with authority, too!) because you've never really had a conversation; only a one-way assumption that has never been criticized or questioned, and you hypocritically see yourself as superior by not stepping into spaces that might question your way of seeing the world. Being someone like myself means that it's always questioned. Your existence is questioned. Your identity is questioned. Anything you have provably shown you have the capacity to do is *still* questioned. And well, the world is burning so maybe try something new? Have a different point of view, perhaps? It's worth a try. 
   
 ## Oh
