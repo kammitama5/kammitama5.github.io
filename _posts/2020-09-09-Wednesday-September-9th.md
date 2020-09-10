@@ -70,7 +70,9 @@ Who needs silence and a pen and paper? What are you, a luddite?
 - This week I've been thinking about the fact that people get annoyed if you're a female and you don't automatically pick a thing (ie fit in a box), but
   when guys do that, it's seen as wild and courageous and they're celebrated for being so exploratory and creative. It's almost like they don't 
   give us the room to fail and try things out, which is kind of stupid. And then people wonder why it's so difficult for women to make it in business. Well..maybe..just maybe..give us females room to try and fail, too. But...Wow guys are soooooooo cool.
-  Maybe when I grow up I can be one. Just kidding. I like being me. A lot.
+  Maybe when I grow up I can be one. Just kidding. I like being me. A lot. But I think that a lot of things people mouth are stupid and they don't 
+  think deeply about how what they say is sometimes just a banal mouthing of some bull**** ideology someone taught them growing up. And it means 
+  nothing. And well, the world is burning so maybe try something new? Have a different point of view, perhaps? It's worth a try. 
 
 ## That's it
 
