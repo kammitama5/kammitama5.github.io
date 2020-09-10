@@ -77,7 +77,7 @@ Who needs silence and a pen and paper? What are you, a luddite?
   nothing. Even if you come to the conclusion that your ideology is *right* (whatever that means), how do you go through life not questioning it *at all*. That kind of astounds me. I feel like if you are a particular type of person, you can go through your entire life not having that questioned, and that's just well...sad. And you spout that fake ideology to others (with authority, too!) because you've never really had a conversation; only a one-way assumption that has never been criticized or questioned, and you hypocritically see yourself as superior by not stepping into spaces that might question your way of seeing the world. Being someone like myself means that it's always questioned. Your existence is questioned. Your identity is questioned. Anything you have provably shown you have the capacity to do is *still* questioned. And well, the world is burning so maybe try something new? Have a different point of view, perhaps? It's worth a try. 
   
 ## Oh
-- I'm not a dude-hater, btw. Far from it. I'm just making a point and I don't apologize for that. I've also had this similar conversation over *years* with several friends (of many identities).
+- I'm not a dude-hater, btw. Far from it. I'm just making a point and I don't apologize for that. I've also had this similar conversation over *years* with several friends (of various identities).
 
 ## That's it
 
