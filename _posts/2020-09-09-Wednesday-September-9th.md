@@ -4,7 +4,7 @@
 - Today's writing group was more stream of consciousness. It was a challenging subject for me, to be honest.
 - I'm also a bit tired, as I had a lot going on this week (still do). I also had my first live writing consult today!
 - I have to stay up late to write code. Wish me compiles! Weird how my life is between writing papers and writing code now. Pretty much a lot 
-  of writing. However, I am doing this class tonight that will be letting me draw some stuff, so that should be kind of cool. I thought of getting
+  of writing. However, I am doing this class tonight (obviously not related to PhD or school) that will be letting me draw some stuff with computers, so that should be kind of cool. I thought of getting
   a replacement for my Wacom that I had to get rid of when I moved. I kind of miss it (I had three Wacoms, tbh). I also have been in a LOT of meetings. Ugh. Meetings. I was in meetings from 11am all the way to 11:30pm last night. :(
 
 ## Prompt
@@ -65,6 +65,12 @@ It is very different from the writing of today, which seems to be sped up by tec
 No one wants to commit to reading. It is like those troll dolls from the 80s. 
 Why should one invest in a toy that has outlived its usefulness anyway? 
 Who needs silence and a pen and paper? What are you, a luddite?
+
+## This week
+- This week I've been thinking about the fact that people get annoyed if you're a female and you don't automatically pick a thing (ie fit in a box), but
+  when guys do that, it's seen as wild and courageous and they're celebrated for being so exploratory and creative. It's almost like they don't 
+  give us the room to fail and try things out, which is kind of stupid. And then people wonder why it's so difficult for women to make it in business. Well..maybe..just maybe..give us females room to try and fail, too. But...Wow guys are so cool.
+  Maybe when I grow up I can be one. 
 
 ## That's it
 
