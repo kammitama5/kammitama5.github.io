@@ -10,7 +10,7 @@
 - It's unlike the other two that I had owned, so I wasn't sure how it would feel and if I'd get accustomed to it,
   but it's a lot larger than I thought it would be, was super easy to install, and so far, so good!
 - I was thinking about getting a tablet, but decided not to get one. I used to draw in a certain store on their tablets,
-  and also get kicked out. The security guard there used to ask me to leave, and I never knew why. They even lied about being busy one time.
+  and also get kicked out. The security guard there used to ask me to leave, and I never knew why. They even lied about the store being busy one time.
   It's funny that shortly after getting kicked out by their security, they (the company) hired me (not as security). 
   At the time, I was super broke, and it was a free way of killing time while waiting to visit my friend at NASA (he would take
   me out for dinner and we would sometimes go hang out with other scientists). I also was interviewing and thought since I might get 
