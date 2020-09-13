@@ -19,7 +19,7 @@
   a pot of tea and sit there for the entire day. When I wasn't working, I would hang out there, and they were really kind to me. Shortly
   afterwards, I did get a job, but it was also really cool just being able to sit in coffee shops and meet other people making their way
   in the world. One of them heard I was writing scripts and thought I was screenwriter. I had to explain it was "scripts in Haskell", not
-  screenwriters, and he laughed at our miscommunication.
+  movie scripts, and he laughed at our miscommunication.
 - I definitely made sure to visit the store that used to kick me out before I left LA, and I noticed they didn't seem to have any issue with my being there. Ha!
 - I haven't been sketching since last summer, and I haven't done any digital painting since around 2016-2017-ish?
 - When I was in Silicon Valley, I used to hang out with my buddy on weekends and we would go to places in the area and sketch, even
