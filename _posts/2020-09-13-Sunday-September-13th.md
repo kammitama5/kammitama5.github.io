@@ -10,10 +10,17 @@
 - It's unlike the other two that I had owned, so I wasn't sure how it would feel and if I'd get accustomed to it,
   but it's a lot larger than I thought it would be, was super easy to install, and so far, so good!
 - I was thinking about getting a tablet, but decided not to get one. I used to draw in a certain store on their tablets,
-  and also get kicked out. It's funny that shortly after getting kicked out by their security, they hired me (not as security).
+  and also get kicked out. The security guard there used to ask me to leave, and I never knew why. They even lied about being busy one time.
+  It's funny that shortly after getting kicked out by their security, they (the company) hired me (not as security). 
   At the time, I was super broke, and it was a free way of killing time while waiting to visit my friend at NASA (he would take
   me out for dinner and we would sometimes go hang out with other scientists). 
-- I definitely made sure to visit the store before I left LA, and I noticed they didn't seem to have any issue with my being there. Ha!
+- I giggle sometimes thinking about how many people like me that security guard might have told to leave; I think it's important and really
+  liked that there are public spaces for artists to draw. Many in my old neighbourhood would hang out at this boba shop where you could get
+  a pot of tea and sit there for the entire day. When I wasn't working, I would hang out there, and they were really kind to me. Shortly
+  afterwards, I did get a job, but it was also really cool just being able to sit in coffee shops and meet other people making their way
+  in the world. One of them heard I was writing scripts and thought I was screenwriter. I had to explain it was "scripts in Haskell", not
+  screenwriters, and he laughed at our miscommunication.
+- I definitely made sure to visit the store that used to kick me out before I left LA, and I noticed they didn't seem to have any issue with my being there. Ha!
 - I haven't been sketching since last summer, and I haven't done any digital painting since around 2016-2017-ish?
 - When I was in Silicon Valley, I used to hang out with my buddy on weekends and we would go to places in the area and sketch, even
   though we both were categorized in technical capacities. I miss her! :(
