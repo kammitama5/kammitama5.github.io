@@ -13,7 +13,10 @@
   and also get kicked out. The security guard there used to ask me to leave, and I never knew why. They even lied about being busy one time.
   It's funny that shortly after getting kicked out by their security, they (the company) hired me (not as security). 
   At the time, I was super broke, and it was a free way of killing time while waiting to visit my friend at NASA (he would take
-  me out for dinner and we would sometimes go hang out with other scientists). 
+  me out for dinner and we would sometimes go hang out with other scientists). I also was interviewing and thought since I might get 
+  the gig, I should learn more about their products, since I hadn't owned one of their products since 2006 (it was outside of my budget
+  at the time to own their products). I remember asking the security guard how they knew I wasn't someone who, based on my experience 
+  in the store, might buy their products. They continued to follow me and tell me that I had to leave soon. Even when the place was not very busy.
 - I giggle sometimes thinking about how many people like me that security guard might have told to leave; I think it's important and really
   liked that there are public spaces for artists to draw. Many in my old neighbourhood would hang out at this boba shop where you could get
   a pot of tea and sit there for the entire day. When I wasn't working, I would hang out there, and they were really kind to me. Shortly
