@@ -11,6 +11,6 @@
 - So maybe in between all the other stuff I'm doing, during quarantine, I'll find time to paint or do some digital sketching. 
 - It's a nice thing to do while listening to podcasts or if you just want to clear your head from work.
 
-<img src="/images/sketch_k001.png" width="500">
+<img src="/images/sketch_k001.png" width="400">
 
 ## That's it
