@@ -83,6 +83,7 @@
 - I am a Logistics co-organizer (1 of 3) for the Black in AI @ NeurIPS workshop 2020 [ August ]
 - I gave a talk at a really wonderful group teaching Python for Beginners! [ September ]
 - I received an NCWIT Bloomberg GHC Grant [ September ]
+- I participated in the Git Inclusion Summit; about making Open Source a better, more equitable place [ September ]
 
 
 
