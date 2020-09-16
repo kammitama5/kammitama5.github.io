@@ -41,7 +41,7 @@
 
 ## Okay..one more 
 
-<img src="/images/sketchk_003.png" width="400">
+<img src="/images/sketchk_003.png" width="300">
 
 
 ## That's it
