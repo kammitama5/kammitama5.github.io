@@ -33,11 +33,11 @@
 ## Here is my first sketch
 - I'm trying a small one in black and white first, and mayyybe I'll move on to colour soon.
 
-<img src="/images/sketch_k001.png" width="400">
+<img src="/images/sketch_k001.png" width="300">
 
 ## One more
 
-<img src="/images/sketchk_002.png" width="400">
+<img src="/images/sketchk_002.png" width="300">
 
 ## Okay..one more 
 
