@@ -84,7 +84,7 @@
 - I gave a talk at a really wonderful group teaching Python for Beginners! [ September ]
 - I received an NCWIT Bloomberg GHC Grant [ September ]
 - I participated in the Git Inclusion Summit; about making Open Source a better, more equitable place [ September ]
-
+- I signed up for Interaccess's workshops in Parametric Thinking with Images (Grasshopper 3D) and Generating Images with Shaders (GLSL) [ September ]
 
 
 
