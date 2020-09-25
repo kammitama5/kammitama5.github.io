@@ -87,7 +87,7 @@
 - I signed up for Interaccess's workshops in Parametric Thinking with Images (Grasshopper 3D) and Generating Images with Shaders (GLSL) [ September ]
 - I have been accepted to the M2L / Mediterranean Machine Learning Summer School (Winter Cohort) [ September ]
 - I received a grant through MSRI to attend SACNAS 2020 [ September ]
-
+- I will be presenting a bit of the work I proposed as my thesis research project at the next Mechanism Design for Social Good Data Economies and Governance meeting as a short talk with discussion (15 minutes) [ Oct ]
 
 
 
