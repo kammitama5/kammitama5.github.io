@@ -35,6 +35,9 @@
 - This is usually the sort of stuff that an admirer of an artist's work who isn't an artist might not pick up on. General admirers who 
   don't study work will often tell an artist "this is amazing! You are sooo talented" without being able to articulate why. And a professional artist will
   rip your piece apart, *and* tell you why. They pick up on things that casual admirers may not. 
+- They see the lack of life drawing, or the lack of practice in oil painting and too much of a reliance on digital tools. They 
+  understand that the person has not taken a sculpting class or ecorche. They can look beyond the shiny glitter and surface rendering. 
+  They can look at a bad drawing and still see a communication of an idea. Potential.
 - I'm beginning to feel like some parts of computer science are like that. They stitch together ideas from other fields...but badly.
   They're like the Photoshop of fields, with a mega dose of a healing brush and a clone tool.
   They don't stay engaged long enough in those fields to really understand and commit to why those problems were approached in that way,
