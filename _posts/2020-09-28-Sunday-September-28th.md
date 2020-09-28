@@ -26,7 +26,11 @@
   the hip one that everyone wanted to be able to draw like, and then a slew of students would copy, very badly, the style of 
   that hip concept designer. But they couldn't really replicate it because the reason the concept designer's style was so interesting
   was because they're well, them. It took them years to get to that place, and their style is influenced by all the people who
-  influenced them on their journey; you couldn't really replicate that by just looking at their work and without the experience.
+  influenced them on their journey; you couldn't really replicate that by just looking at their work and without the experience. 
+  The internet has a LOT of bad copies of other people's work around, but those generally aren't the kinds of things anyone wants to
+  see in a portfolio. They want to see you; they want to see *original work* with something to say. The remake of "A Star is Born" 
+  talks about this, btw. And that's hard, and it's rare. A lot of work looks nice, but it doesn't say anything. And sometimes saying
+  somethin with work is a painful process, with a lot of failure and uncertainty. Authors may take years to write a book.
   There are hidden things you just don't see if you only look at the surface and try to copy the lines, the style, the textures, the colour. 
 - This is usually the sort of stuff that an admirer of an artist's work who isn't an artist might not pick up on. General admirers who 
   don't study work will often tell an artist "this is amazing! You are sooo talented" without being able to articulate why. And a professional artist will
