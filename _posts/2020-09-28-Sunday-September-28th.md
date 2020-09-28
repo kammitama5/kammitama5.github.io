@@ -27,6 +27,7 @@
   that hip concept designer. But they couldn't really replicate it because the reason the concept designer's style was so interesting
   was because they're well, them. It took them years to get to that place, and their style is influenced by all the people who
   influenced them on their journey; you couldn't really replicate that by just looking at their work and without the experience.
+  There are hidden things you just don't see if you only look at the surface and try to copy the lines, the style, the textures, the colour. 
 - I'm beginning to feel like some parts of computer science are like that. They stitch together ideas from other fields...but badly.
   They don't stay engaged long enough in those fields to really understand and commit to why those problems were approached in that way,
   and to engage in the study of those before them, too.
