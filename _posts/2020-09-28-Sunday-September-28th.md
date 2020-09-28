@@ -41,6 +41,7 @@
 - I guess one can say that they understand why some of these companies are now considering things such as ethics in tech, or 
   intersectionality. But it's strange because to me, these are the questions *anyone* who is curious about identity and meaning
   eventually asks oneself. Weird.
+- Know thyself.
   
 ## That's all I have to say
   
