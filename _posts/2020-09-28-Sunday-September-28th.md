@@ -15,6 +15,7 @@
   haven't found those kinds of conversations among computer scientists, and I honestly felt like a child. I felt like I
   could only communicate with the language of a ten year old, and everyone around me was an adult, so erudite and layered
   in their thinking. It made me immediately aware of the gaping hole of Computer Science education.
+- We don't process things. We don't take the time to think *deeply*. And it shows in our products.
 - We who can code (I can barely do so; that's why I'm focusing on research and am not really a software engineer per se) see
   ourselves as often of high intellect, of boundless ability. But stepping into that sort of space made me realize why we 
   flatten the ideas of other fields. I've been thinking about that a lot, as it's been coming up again and again in spaces like
