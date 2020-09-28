@@ -28,7 +28,11 @@
   was because they're well, them. It took them years to get to that place, and their style is influenced by all the people who
   influenced them on their journey; you couldn't really replicate that by just looking at their work and without the experience.
   There are hidden things you just don't see if you only look at the surface and try to copy the lines, the style, the textures, the colour. 
+- This is usually the sort of stuff that admirers of an artist's work who isn't an artist might not pick up on. General admirers who 
+  don't study work will often tell an artist "this is amazing!" without being able to articulate why. And a professional artist will
+  rip your piece apart, *and* tell you why. They pick up on things that casual admirers may not. 
 - I'm beginning to feel like some parts of computer science are like that. They stitch together ideas from other fields...but badly.
+  They're like the Photoshop of fields, with a mega dose of a healing brush and a clone tool.
   They don't stay engaged long enough in those fields to really understand and commit to why those problems were approached in that way,
   and to engage in the study of those before them, too.
 - And it's painfully obvious when you are confronted with the veracity of study in those other fields. It just doesn't measure up.
