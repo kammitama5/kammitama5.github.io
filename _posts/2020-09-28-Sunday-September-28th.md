@@ -31,13 +31,15 @@
   They don't stay engaged long enough in those fields to really understand and commit to why those problems were approached in that way,
   and to engage in the study of those before them, too.
 - And it's painfully obvious when you are confronted with the veracity of study in those other fields. It just doesn't measure up.
-  You feel like a toddler. 
+  You feel like a toddler.
   
 ## I have no idea what to do with this
 - I've been thinking about this a lot. It feels disatisfying. But I don't want to put down computer science; I'm learning a lot 
   and I'm grateful for that. But a part of me tells me that this isn't all I am. I do like a lot of the tech and computer science
   culture, but it's very difficult (or rather, rare) to find spaces like this reading space in there. And it's strange and makes
   me very concerned but not surprised about why these spaces (at least not on the surface) don't exist in tech. 
+- A friend of mine once joked to me that "programmers don't read" (my friend is a programmer). I want to laugh at the joke, but then
+  cry. 
 - I guess one can say that they understand why some of these companies are now considering things such as ethics in tech, or 
   intersectionality. But it's strange because to me, these are the questions *anyone* who is curious about identity and meaning
   eventually asks oneself. Weird.
