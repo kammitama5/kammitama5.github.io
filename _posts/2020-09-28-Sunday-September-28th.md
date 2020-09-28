@@ -30,7 +30,7 @@
   The internet has a LOT of bad copies of other people's work around, but those generally aren't the kinds of things anyone wants to
   see in a portfolio. They want to see you; they want to see *original work* with something to say. The remake of "A Star is Born" 
   talks about this, btw. And that's hard, and it's rare. A lot of work looks nice, but it doesn't say anything. And sometimes saying
-  somethin with work is a painful process, with a lot of failure and uncertainty. Authors may take years to write a book.
+  something with work is a painful process, with a lot of failure and uncertainty. Authors may take years to write a book.
   There are hidden things you just don't see if you only look at the surface and try to copy the lines, the style, the textures, the colour. 
 - This is usually the sort of stuff that an admirer of an artist's work who isn't an artist might not pick up on. General admirers who 
   don't study work will often tell an artist "this is amazing! You are sooo talented" without being able to articulate why. And a professional artist will
