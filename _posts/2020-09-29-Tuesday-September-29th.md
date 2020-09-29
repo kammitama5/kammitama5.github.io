@@ -15,7 +15,7 @@
 ## Crap situation number one: research opportunities are everywhere (no they're not)
 - The only research class that the school I went to had was a year-long research class (never mind I was actually working in an R&D shop and gave my input
   often into how things should be manufactured based on customer feedback; research schools don't seem to care about that, apparently!). It was run by a 
-  NASA scientist, who himself worked a full-time job. But NASA's schedule is 90/60, so they often work several days and get a day off, or something like that.
+  NASA scientist, who himself worked a full-time job (and you had to take the full class, which ran over two semesters as a part A and B type thing where you would work in a group to build a prototype for a robot using a mix of machine shop stuff, coding, 3D printing, and creating a BOM and all that). But NASA's schedule is 90/60, so they often work several days and get a day off, or something like that.
   So basically, there was no way based on the schedule I could take the class and go to work. 
 - There was also an assembly class (like the language, not PCBs) that I really wanted to take as well, but it was always at like 1:10pm. I took the bus to
   class from work, and it me about 2 hours each way if I optimized my path (ie took it when the bus was running most frequently, with least amount of time
