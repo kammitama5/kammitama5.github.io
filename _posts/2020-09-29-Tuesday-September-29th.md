@@ -35,7 +35,8 @@
 - When I first got into the PL community, students would often tell me "you should submit a poster!". I don't think they realized at the time what it took
   for me to stand in the same room as a volunteer with them, because they just assumed that I was like them (except for the one time some kid figured out 
   I wasn't from my badge and tried to embarrass me in front of my peers, but that's another story for another time because it didn't work lol. That in itself
-  was kind of messed up but I was mature enough to recognize it was just insecurity on the part of the person, and that's human).
+  was kind of messed up but I was mature enough to recognize it was just insecurity on the part of the person, and that's human. Also weird that a PhD student
+  would feel threatened by a night school student but alrighty then).
 - The truth is that if you don't have the context about how this is done (and for each conference, the rules are very specific!), it's a difficult thing
   to navigate. Most schools have templates that they provide to their students so they have a bit of some context about how to align their figures, 
   LaTeX, etc. I really think we could do better with respect to this. I also am a bit salty that most people, when they talk about "mentorship", still
