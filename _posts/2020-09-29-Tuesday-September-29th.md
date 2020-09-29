@@ -63,7 +63,7 @@ from it once. Amazing programme! Also, if you are in night school, and intereste
 
 ## We should fix some of these things
 - It's really quite awful because we're missing a huge chunk of a very talented pool of people. A friend of mine who came to LA to become a musician and then
-  (when I met him at NASA for NCAS) was in night school for Physics and then switched to Engineering, ended up being a genius at making rockets 
+  (when I met him at NASA for NCAS) was in night school (while working at a pizza restaurant during the day!) for Physics and then switched to Engineering, ended up being a genius at making rockets 
   and working in electrical engineering (he works for a startup doing just that today).
 - Another friend of mine transferred from night school to UCLA, and ended up not only interning at JPL (2x), but today works in AI for another 
 well-known aerospace
