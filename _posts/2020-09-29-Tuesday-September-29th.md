@@ -78,7 +78,7 @@ well-known aerospace
   about this stuff, because they really don't know. I was one of those people who made it through, but there are many, many more of us. Some of us don't
   make it through. What a waste. Case in point, the school I attended didn't want to send my transcript out of state, but the schools I was admitted to
   needed my transcripts. So I asked them to ship it to me and then I sent it to the schools (a hack). But not every person would do this; someone with less
-  life experience might have thought that this meant they were stuck and just turned the school down (I know of such a person, tbh).
+  life experience might have thought that this meant they were stuck and just turned the school down (I know of such a person, tbh. They ended up going to work in tech instead, and when I ran into them, they told me that "I was living their dream" by going to grad school. I still encouraged them to go to grad school if they had the opportunity and still wanted to do so; this person can legitimately do *anything* they set their mind to do).
   
 ## As for me
 - It's really been a wonderful journey. I highly recommend if you think "I can't go to grad school" and "I really want to do research but no one will give me the chance" that you check out some of the things I spoke about in this post, or if you'd like to reach out to me, too, I'd be happy to help (within the limits of my time). I know it's rough, and this is a HUGE blindspot of Academia, but you can do it! I'm rooting for you.
