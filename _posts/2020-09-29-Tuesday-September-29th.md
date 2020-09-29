@@ -31,6 +31,8 @@
 - Even though it's not research (I guess it could be, though, depending on the project!), I have to applaud Google Summer of Code (GSoC) for not being elitist
   and $h!tty and considering you, as long as you attend a school, to apply for GSoC. At $46 a credit, you could enroll and if you are part of the open source
   community, you get your ID and you're eligible. And they pay. Huge props on that.
+- Oh, and PLMW, which is this awesome PL Mentorship Workshop that also isn't elitist and $h!tty, but rather aims to forge a path (and it does work!) in PL research for all kinds of people! You can be working, a student, etc and apply, as long as you have an interest in PL, but you can (theoretically) only benefit
+from it once. Amazing programme! Also, if you are in night school, and interested in PL, you can still apply for both Racket School and OPLSS, although OPLSS was a bit stricter about recommendation letters (and Racket school required neither). And both will typically provide you with some degree of room and board at no cost, and will reimburse you for your flight or something to that extent (in either words, they are both options for working people who would like to consider research and grad school).
 
 ## The assumption that I could just make a poster
 - When I first got into the PL community, students would often tell me "you should submit a poster!". I don't think they realized at the time what it took
@@ -78,6 +80,9 @@ well-known aerospace
   make it through. What a waste. Case in point, the school I attended didn't want to send my transcript out of state, but the schools I was admitted to
   needed my transcripts. So I asked them to ship it to me and then I sent it to the schools (a hack). But not every person would do this; someone with less
   life experience might have thought that this meant they were stuck and just turned the school down (I know of such a person, tbh).
+  
+## As for me
+- It's really been a wonderful journey. I highly recommend if you think "I can't go to grad school" and "I really want to do research but no one will give me the chance" that you check out some of the things I spoke about in this post, or if you'd like to reach out to me, too, I'd be happy to help (within the limits of my time). I know it's rough, and this is a HUGE blindspot of Academia, but you can do it! I'm rooting for you.
   
 ## And that's it.
   
