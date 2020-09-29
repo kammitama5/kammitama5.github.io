@@ -69,6 +69,10 @@ well-known aerospace
   company. And that research class I spoke about at the beginning (with the NASA professor) had a TA (when I was starting out) who got into Caltech because of that experience.
   
 ## That's all I have to say for now on this
+- If I omitted anything, it's because I honestly didn't know, but I did my research and applied to a bunch of places, spoke with professors, contacted people
+  at labs; everything. A professor at a University set up a two hour long Skype conversation with me because I didn't know whether to apply for a Master's
+  or a PhD, because when I started applying, the voice of that kid who tried to embarrass me messed up my self-confidence. I'm super grateful to that professor.
+  He told me to just apply to PhD programmes. And I did.
 - It's really frustrating to me, and I feel very angry and frustrated when some of these students and faculty who were in the successful pipeline talk
   about this stuff, because they really don't know. I was one of those people who made it through, but there are many, many more of us. Some of us don't
   make it through. What a waste. Case in point, the school I attended didn't want to send my transcript out of state, but the schools I was admitted to
