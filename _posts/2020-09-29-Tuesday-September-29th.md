@@ -42,7 +42,7 @@
   to navigate. Most schools have templates that they provide to their students so they have a bit of some context about how to align their figures, 
   LaTeX, etc. I really think we could do better with respect to this. I also am a bit salty that most people, when they talk about "mentorship", still
   focus on the same groups (*cough REU qualifying people*) to do things like partner to write papers, make their first poster, etc. By default they're 
-  missing out on an entirely large group of people; the working people who might be thinking of going to grad school and don't know how to navigate that
+  missing out on an entirely large group of people; the working people who might be thinking of going to grad school (and I'm including myself as somenoe whose employer was flexible about taking classes, and realize that this was a plus for me!) and don't know how to navigate that
   and the students who can't afford to go straight to college and are taking night school classes to knock some of those out of the way. So yeah,
   that needs to be fixed.
   
