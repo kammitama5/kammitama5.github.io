@@ -59,7 +59,7 @@ from it once. Amazing programme! Also, if you are in night school, and intereste
   us to and from the facility each day. However, this doesn't work for employees that need to stay super late).
 - There is another place that does have internships for night school students (at least on the surface), and they fit you with a lab (the Department of Energy internships; look up DOE internships. They will match you with a lab of your choice, and it's paid!). But I thought it was probably just a loophole they didn't think of and maybe they don't really want night school applicants (that sometimes happens too lol!)?
 - Oh, I also contacted a lab once and a scientist there emailed me back to laugh at me that "I didn't even have any published work" (how dare you contact me, you
-  of no publications! LOL). That's just elitist and shitty and I never applied to that lab afterwards, even when they recruited me after I got into my PhD.
+  of no publications! LOL). That's just elitist and shitty and I never applied to that lab afterwards, even when they recruited me after I got into my PhD. Don't be like that guy. Be like this guy instead. He mentored a student from [high school](https://nullprogram.com/blog/2016/09/02/) who now works at his lab!
 
 ## We should fix some of these things
 - It's really quite awful because we're missing a huge chunk of a very talented pool of people. A friend of mine who came to LA to become a musician and then
