@@ -2,7 +2,7 @@
 
 ## Memory: why I'm doing this now
 - I decided to write this before I get further into my degree because I still remember a lot of it. Yesterday, I thanked my advisor profusely for helping me with
-  my first publication, which I presented as a poster earlier this year. For me, it was the culmination of Herculean efforts from my time before grad school.
+  my first publication, which I presented as a poster earlier this year. For me, it was the culmination of Herculean efforts from my time before grad school. I had crossed the invisible line. It meant a lot to me.
 - It's sometimes asked of me why I don't happen to have any research qualifications from say, undergrad. I try not to get upset about it, but try to educate people instead, because it's upsetting and it's something I'm very passionate about, because it's not because I didn't try. So let's get that out of the way. I didn't go to school
   to study Science (although I did do a split in high school of Arts and Science). As I've said before, I realized a gaping hole in my high school education
   and didn't think Science was creative (to be fair, I didn't quite
