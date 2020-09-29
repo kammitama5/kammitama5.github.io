@@ -3,7 +3,7 @@
 ## Memory
 - I decided to write this before I get further into my degree because I still remember a lot of it.
 - It's sometimes asked of me why I don't happen to have any research qualifications from say, undergrad. So let's get that out of the way. I didn't go to school
-  to study Science (although I did do a split in high school of Arts and Science). As I've said before, realized a gaping hole in my high school education
+  to study Science (although I did do a split in high school of Arts and Science). As I've said before, I realized a gaping hole in my high school education
   and didn't think Science was creative (to be fair, I didn't quite
   figure out at the time that science, as taught in my country, was wrapped up in neo-colonialism, and that the Arts in my country was the only space sort of 
   exploring ways of understanding that or breaking out of that. Plus, I thought my writing skills were weak compared to my Maths skills (at the time they really
@@ -50,6 +50,10 @@
   So again, if someone is working, they essentially have to give up their job or miss large chunks of work to do unpaid programmes. And a friend of mine
   who did do such a programme said it was almost critical to have a car (btw, JPL is similar; it's a remote-ish facility and there is a bus, but other than
   that, most people use the parking lot and drive cars or motorcycles).
+- There is another place that does have internships for night school students (at least on the surface), and they fit you with a lab (it might be some
+  California programme; I forget). But I thought it was probably just a loophole they didn't think of and maybe they don't really want night school applicants (that sometimes happens too lol!)?
+- Oh, I also contacted a lab once and a scientist there emailed me back to laugh at me that "I didn't even have any published work" (how dare you contact me, you
+  of no publications! LOL). That's just elitist and shitty and I never applied to that lab afterwards, even when they recruited me after I got into my PhD.
 
 ## We should fix some of these things
 - It's really quite awful because we're missing a huge chunk of a very talented pool of people. A friend of mine who came to LA to become a musician and then
