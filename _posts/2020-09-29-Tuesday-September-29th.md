@@ -57,8 +57,7 @@ from it once. Amazing programme! Also, if you are in night school, and intereste
   who did do such a programme said it was almost critical to have a car (btw, JPL is similar; it's a remote-ish facility and there is a bus, but other than
   that, most people use the parking lot and drive cars or motorcycles...although when I did do the workshop, they housed us in a hotel in Glendale and shuttled
   us to and from the facility each day. However, this doesn't work for employees that need to stay super late).
-- There is another place that does have internships for night school students (at least on the surface), and they fit you with a lab (it might be some
-  California programme; I forget). But I thought it was probably just a loophole they didn't think of and maybe they don't really want night school applicants (that sometimes happens too lol!)?
+- There is another place that does have internships for night school students (at least on the surface), and they fit you with a lab (the Department of Energy internships; look up DOE internships). But I thought it was probably just a loophole they didn't think of and maybe they don't really want night school applicants (that sometimes happens too lol!)?
 - Oh, I also contacted a lab once and a scientist there emailed me back to laugh at me that "I didn't even have any published work" (how dare you contact me, you
   of no publications! LOL). That's just elitist and shitty and I never applied to that lab afterwards, even when they recruited me after I got into my PhD.
 
