@@ -7,7 +7,7 @@
   and didn't think Science was creative (to be fair, I didn't quite
   figure out at the time that science, as taught in my country, was wrapped up in neo-colonialism, and that the Arts in my country was the only space sort of 
   exploring ways of understanding that or breaking out of that. Plus, I thought my writing skills were weak compared to my Maths skills (at the time they really
-  were; I wasn't doing as much deep reading). 
+  were; I wasn't doing as much deep reading. Yours truly got a distinction in Maths but had to study her butt off for the verbal SATs)). 
 - Anyways, by the time I even knew that research was a thing, I was taking night classes and going to work full-time. The company I was working at was 
   gracious enough to let me leave work a bit early on a couple days a week to head to class, but of course, with limitations.
   
