@@ -88,6 +88,7 @@
 - I have been accepted to the M2L / Mediterranean Machine Learning Summer School (Winter Cohort) [ September ]
 - I received a grant through MSRI to attend SACNAS 2020 [ September ]
 - I will be presenting a bit of the work I proposed as my thesis research project at the next Mechanism Design for Social Good Data Economies and Governance meeting as a short talk with discussion (15 minutes) [ Oct ]
+- I have been invited to be a reviewer for AFCI2020, a workshop at NeurIPS 2020 [ September ]
 
 
 
