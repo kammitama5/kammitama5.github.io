@@ -24,7 +24,7 @@
 - Also, after 9pm if you happened to take the hourly bus, you definitely had to use the restroom at school before, because by the time you got to the 
   Red Line from the bus, the cleaners at night might be cleaning at least one of the only two restrooms at the train station so they might be closed,
   and you had another 45 minutes to wait if you *just* missed the train back to the Valley. Fun times.
-- Also, applying to an REU and going to night school is not a thing. It should be, though. But you basically have to be *in the pipeline* of success
+- Also, applying to an REU and going to night school is not a thing. It should be, though (technically you're knocking out the first two years of classes / electives or at least a year by going to night school, and if you transfer, it's at least as a sophomore). But you basically have to be *in the pipeline* of success
   already to get an REU. So it's like they're punishing people who aren't already in that pipeline and rewarding those people who have opportunities....
   and just giving them more, essentially.
 - Even though it's not research (I guess it could be, though, depending on the project!), I have to applaud Google Summer of Code (GSoC) for not being elitist
