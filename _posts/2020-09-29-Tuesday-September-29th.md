@@ -26,8 +26,10 @@
   and you had another 45 minutes to wait if you *just* missed the train back to the Valley. Fun times.
 - Also, applying to an REU and going to night school is like not a thing. It should be, though. But you basically have to be *in the pipeline* of success
   already to get an REU. So it's like they're punishing people who aren't already in that pipeline and rewarding those people who have opportunities....
-  and just giving them more, essentially. 
-
+  and just giving them more, essentially.
+- Even though it's not research (I guess it could be, though, depending on the project!), I have to applaud Google Summer of Code (GSoC) for not being elitist
+  and $h!tty and considering you, as long as you attend a school, to apply for GSoC. At $46 a credit, you could enroll and if you are part of the open source
+  community, you get your ID and you're eligible. And they pay. Huge props on that.
 
 ## The assumption that I could just make a poster
 - When I first got into the PL community, students would often tell me "you should submit a poster!". I don't think they realized at the time what it took
