@@ -1,6 +1,6 @@
 ## Things that are broken about getting into the Research Community
 
-## Memory
+## Memory: why I'm doing this now
 - I decided to write this before I get further into my degree because I still remember a lot of it.
 - It's sometimes asked of me why I don't happen to have any research qualifications from say, undergrad. So let's get that out of the way. I didn't go to school
   to study Science (although I did do a split in high school of Arts and Science). As I've said before, I realized a gaping hole in my high school education
