@@ -60,6 +60,10 @@ from it once. Amazing programme! Also, if you are in night school, and intereste
 - There is another place that does have internships for night school students (at least on the surface), and they fit you with a lab (the Department of Energy internships; look up DOE internships. They will match you with a lab of your choice, and it's paid!). But I thought it was probably just a loophole they didn't think of and maybe they don't really want night school applicants (that sometimes happens too lol!)?
 - Oh, I also contacted a lab once and a scientist there emailed me back to laugh at me that "I didn't even have any published work" (how dare you contact me, you
   of no publications! LOL). That's just elitist and shitty and I never applied to that lab afterwards, even when they recruited me after I got into my PhD. Don't be like that guy. Be like this guy instead. He mentored a student from [high school](https://nullprogram.com/blog/2016/09/02/) who now works at his lab!
+  
+## Why didn't you just write a paper?
+- I actually did! Twice (and was rejected; if you've read my blog, you know I bounce back quickly from rejections, though so I thought oh well and dusted myself off). But academic writing for research is a very particular type of writing, and if you are not tuned in to this and have the practice or 
+  guidance, it's very difficult to do this on your own. The reviews were that they thought I had good ideas, but there were "disturbed" by my lack of blah blah. Well ahm..I really had no context for understanding *that* part of the process, but just wanted to communicate "I have a cool thing to say", which isn't enough if you're writing a research paper for academia (It sounds silly but I legitimately did not know this!). It's a language that you have to learn to communicate in.
 
 ## We should fix some of these things
 - It's really quite awful because we're missing a huge chunk of a very talented pool of people. A friend of mine who came to LA to become a musician and then
