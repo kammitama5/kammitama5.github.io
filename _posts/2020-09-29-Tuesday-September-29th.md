@@ -65,7 +65,7 @@
   and working in electrical engineering (he works for a startup doing just that today).
 - Another friend of mine transferred from night school to UCLA, and ended up not only interning at JPL (2x), but today works in AI for another 
 well-known aerospace
-  company. And that research class had a TA (when I was starting out) who got into Caltech because of that experience.
+  company. And that research class I spoke about at the beginning (with the NASA professor) had a TA (when I was starting out) who got into Caltech because of that experience.
   
 ## That's all I have to say for now on this
 - It's really frustrating to me, and I feel very angry and frustrated when some of these students and faculty who were in the successful pipeline talk
