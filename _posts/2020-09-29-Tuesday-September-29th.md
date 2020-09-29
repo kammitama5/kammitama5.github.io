@@ -52,7 +52,7 @@ from it once. Amazing programme! Also, if you are in night school, and intereste
 - To my knowledge (and I searched high and wide), the only large place that has internships for non-undergrads is NASA (they deliberately use programmes
   like NCAS to encourage students to transfer to undergrad and go to grad school, etc). And of course, that means you also have to be a US citizen (for the 
   most part; JPL will take you if you have a green card but you typically have to be qualified already) to apply.
-- There are some programmes I can recall that are affiliated with labs in other schools (eg USC had a liquid Propulsion lab programme), but they don't pay.
+- There are some programmes I can recall that are affiliated with labs in other schools (eg USC had a liquid Propulsion lab programme similar get research experience type fellowship that included night school / any school in the application), but they don't pay.
   So again, if someone is working, they essentially have to give up their job or miss large chunks of work to do unpaid programmes. And a friend of mine
   who did do such a programme said it was almost critical to have a car (btw, JPL is similar; it's a remote-ish facility and there is a bus, but other than
   that, most people use the parking lot and drive cars or motorcycles...although when I did do the workshop, they housed us in a hotel in Glendale and shuttled
