@@ -6,6 +6,8 @@
 - Anyways, that is not the point of this post.
 - I have a lot going on, and it's tiring, but I'm pushing through. I'm also really grateful for the opportunities. I don't now if I can post photos (yet),
   but some of it is really exciting!
+- I realized based on what I wrote tonight that I was thinking about it more in terms of data points more so than say, the idea, or writing, which
+  is quite different. I wonder if it's because I've been looking at so much data? I've also been looking at cartography recently, among other things. 
 
 ## Writing
 - Prompt (not putting the entire paragraph): The danger of nostalgia = confuse the actual home and the imaginary one? Where do you find difference between the actual versus the imaginary?
@@ -61,6 +63,13 @@ to project into the future points that can imagine a different alternative.
 I believe that this is more powerful, because it does not attempt to mire itself by building upon inaccuracies and errors believed to be true, 
 but rather attempts to rebuild a new extrapolation into the future by the now, the present. 
 It is forming an identity where anything can be possible, where anything is possible, and where we are the dreamers of our own future. 
+
+## I've also recovered
+- I was feeling a bit sick over the past couple fo weeks, but I cranked up the heat in my place and got some rest, and I'm feeling a lot better!
+  But things are very busy for me! But I'll try to post some stuff upcoming (I'm also working on a game in my spare time, and bought myself a 
+  sketchbook, so maybe I'll post some prelim artwork for the game I'm building at some point, or some sketches. I've been writing a fair amount
+  and reviewing a fair amount of Academic writing recently, presenting, and writing some code. Oh, and I think I may pretty much know what
+  the direction of my thesis will be, and of all things, it may involve a couple unexpected programming languages :)
 
 ## The end
 
