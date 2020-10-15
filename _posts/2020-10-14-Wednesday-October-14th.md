@@ -13,9 +13,10 @@
 - Prompt (not putting the entire paragraph): The danger of nostalgia = confuse the actual home and the imaginary one? Where do you find difference between the actual versus the imaginary?
 
 ## One
-- One of the songs I heard regularly growing started “bring back the old time days”, sang by Nappy Mayers.
+- One of the songs I heard regularly growing started “bring back the old time days, bring back those old time ways”, sang by Nappy Mayers.
 It was a song that spoke about the nostalgia of the old, as typified by values that seemed 
-to exist in the past but did not seem to be emphasized in the world in which we existed today. 
+to exist in the past but did not seem to be emphasized in the world in which we existed today. In retrospect, it's a very strange song coming 
+from a singer in a postcolonial country. But people really love the song there, and it's catchy musically.
 
 ## Two
 - This reminds me of Ruha’s talk in which she speaks about an ad which claims that “soon we will have slaves again...not human slaves,
