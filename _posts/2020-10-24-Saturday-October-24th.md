@@ -18,7 +18,7 @@
   is that he recognized that often when asked some of the questions that would garner the responses above by a computer science student, I would say
   "it depends" or "it could be both". Contradictions exist. People are walking contradictions. 
 - A great example is the very concept of interdiscplinary. People in science love to claim being interdiscplinary, but it is no secret that when a person
-  announces that their training was in the liberal arts, they are immediately regarded as "less than". We are so obsessed with measuring. Whereas, 
+  announces that their training was in the liberal arts (either in what their original background was or their current background), they are immediately regarded as "less than". Something about that to even those in computer science who "love interdiscplinary people" puts them in a bucket of inadequacy. We are so obsessed with measuring. Whereas, 
   someone in the liberal arts might see the background as "a complement to" whatever the person is currently doing, or adding to their skillsets.
 
 ## The communities are different
