@@ -33,4 +33,8 @@
   just like the people who make them, often think in "either / or". But the people who use them are, again, walking contradictions. We have dualities
   within us. So is it any wonder that we are failing as technologists to make adequate human-centric technologies? 
   
+## Why is this important?
+- It's important because sometimes to contribute something novel in your field, you have to understand the boundaries or limits within which the people 
+  in your field think. 
+  
 ## Anyways, that's about all I have to say
