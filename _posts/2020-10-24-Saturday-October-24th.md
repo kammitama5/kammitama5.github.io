@@ -26,6 +26,7 @@
   in the liberal arts, by the way!) who do this. I can say this because I attend events where liberal arts persons congregate, and they are giving talks,
   and I attend computer science events, and they are also giving talks. Outside of this, the communities in the liberal arts don't often congregate 
   anywhere *near* the computer science persons, and vice versa.
+- And why should they? If they are already deemed to be "less than" by one community.
 - I attended a reading group with a special guest this Friday, and we were discussing melancholy. Particularly that the feeling of melancholy is not a 
   state that one can pass through, but that one takes with them (so it has a degree of permanance; you don't get over it and it disappears). The person
   then made a really interesting point, which is that our technologies seem to have, embedded within them, the same lack of duality. Our technologies,
