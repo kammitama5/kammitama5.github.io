@@ -5,7 +5,7 @@
   Computer Science. Of course, they're lovely people (why else would I be consorting with them), but they can sometimes fail to see the ways in
   which their very discipline allows them to see the world in a constrained way.
 - How often have you been speaking with a Computer Science major, who says something to the extent of "this makes no sense!" or "the way you solve 
-  it is ..." or "which one is it?". 
+  it is ..." or "it cannot work that way!" or "which one is it?". 
 - In hiring, what I get a lot of is "what are you?". Usually, when they ask this, I try to give a weak explanation, but essentially it tells me that
   by the very structure of its organization and the people who work within it, I won't be a fit. They don't get it. So mentally, I write them off my list
   of possibilities.
