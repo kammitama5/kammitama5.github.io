@@ -69,8 +69,8 @@
 - I've been invited to Adobe's Open House Recruiting (Invite Only) [ July ]
 - I was invited to become a Board Member for an AI and Ethics Journal [ July ]
 - Our paper (on which I am first author!) on Fairness using Provable Privacy has been accepted for the MD4SGD Conference! Hooray! [ August ]
-- I am taking two classes from Hyperlink Academy; one in which I will be making a book with Racket and another where we recreate periods in Art History
-  using GUIs [ August ]
+- I am taking three classes from Hyperlink Academy; one in which I will be making a book with Racket and another where we recreate periods in Art History
+  using GUIs, and one on Conlang [ August, October ]
 - I have been asked to speak at the EGG on Air Conference [ August ]
 - I am taking a course on The Laws of Digital Data, Content and Artificial Intelligence (for fun) [ August ]
 - I am a Code2040 Essay Reviewer for 2021's Cohort [ August ]
