@@ -7,7 +7,7 @@ people are kind. I think at least two persons in the group might be writing Art 
 chose the topic, which was on a participatory work from an artist that I didn't know. So I guess it's kind of out of 
 my element, although I did do a minor in Art History in Undergraduate study, so I have some context for observing 
 or commenting on work (something something repoussoir).
-- I also did Improv night for Data Scientists last night, if you can believe it! So I mentioned that in the interview
+- I also did [Improv night for Data Scientists](https://www.meetup.com/SF-Data-Science/events/259929651/) last night, if you can believe it! So I mentioned that in the interview
 when they asked about Covid activities! I definitely have quite a few! Definitely been stepping into a few random spaces,
 and enjoying it. I was familiar with many of the exercises, though! I guess I've done enough improv groups in my life!
 I really like the idea of engaging in storytelling and improv with computer scientists and data scientists, though. Such a great
