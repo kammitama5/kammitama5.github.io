@@ -91,7 +91,7 @@
 - I have been invited to be a reviewer for AFCI2020, a workshop at NeurIPS 2020 [ September ]
 - I have been invited to be a reviewer for the BAI@NeurIPS workshop 2020 [ October ]
 - I have been invited to be the keynote speaker for a 10 minute talk on Fairness in Data at the MIT Hacking Racism in Healthcare Challenge [ October ]
-- I will be promoting BAI in a postcast [ October ]
+- I will be promoting BAI in a podcast [ October ]
 - I will be on a panel for a cross-institution PhD event [ November ]
 - I will be speaking at Amazon Science with my advisor [ December ]
 
