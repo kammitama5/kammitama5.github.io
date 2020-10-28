@@ -2,8 +2,13 @@
 
 ## I am bushed today
 - I had meetings and work all the way from 9:30am and I won't be done until around 11pm. Today was really great though.
-I enjoyed the podcast, which I did with another member from BAI, and after that, I engaged in a lovely conversation with
-a friend from another University who is also in her second year. We hav so much in common! Oh my goodness! 
+The writing space, although it's completely not CS, is a nice quiet space to just write. I appreciate this space, and the 
+people are kind. I think at least two persons in the group might be writing Art History dissertations, and one of them
+chose the topic, which was on a participatory work from an artist that I didn't know. So I guess it's kind of out of 
+my element, although I did do a minor in Art History in Undergraduate study, so I have some context for observing 
+or commenting on work (something something repoussoir).
+- I enjoyed the podcast, which I did with another member from BAI, and after that, I engaged in a lovely conversation with
+a friend from another University who is also in her second year. We have so much in common! Oh my goodness! 
 - We both like hybrid spaces, and the application of technologies rather than technology or science for science's sake,
 and we both like people (or rather, using technology and science to help people). Also, we both didn't start out in 
 Computer Science! How cool is that! I am so thankful to have met her! It's inspiring. She a superstar!
