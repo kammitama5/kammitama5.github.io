@@ -15,7 +15,10 @@ idea! A lot of the exercises are about listening and empathy with regards to the
 which are skills anyone can benefit from improving. Also, the larger the group, the more flexible you have to be, as when
 doing things like collaborative storytelling, the story can change quite a bit before you have to add to the arc of the story.
 - I enjoyed the podcast, which I did with another member from BAI, and after that, I engaged in a lovely conversation with
-a friend from another University who is also in her second year. We have so much in common! Oh my goodness! 
+a friend from another University who is also in her second year. We have so much in common! Oh my goodness! She also likes privacy,
+particularly mpc, and her research involves using mpc for good, which is awesome!
+- I've only been learning a bit of mpc through my class with my advisor this semester but I love it! I love everything about the whole
+privacy and encryption space, but in a humanistic way (so the focus is on systems that help people rather than on the technology).
 - We both like hybrid spaces, and the application of technologies rather than technology or science for science's sake,
 and we both like people (or rather, using technology and science to help people). Also, we both didn't start out in 
 Computer Science! How cool is that! I am so thankful to have met her! It's inspiring. She a superstar!
