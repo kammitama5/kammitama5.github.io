@@ -96,8 +96,7 @@
 - I will be speaking at Amazon Science with my advisor [ December ]
 - I will be interning at Microsoft next summer ie 2021 [ October ]
 - My artwork and writing was accepted to the First Resistance AI Workshop at NeurIPS (I will be presenting a poster!) [ October ]
-
-
+- Our paper was accepted as a poster for AFCI (Algorithmic Fairness through the lens of Causality and Interpretability) at NeurIPS (congrats Miss Ivy! :) [ October ]
 
 
 
