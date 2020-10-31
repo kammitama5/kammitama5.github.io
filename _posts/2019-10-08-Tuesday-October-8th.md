@@ -94,7 +94,9 @@
 - I will be promoting BAI in a podcast [ October ]
 - I will be on a panel for a cross-institution PhD event [ November ]
 - I will be speaking at Amazon Science with my advisor [ December ]
+- I will be interning at Microsoft next summer ie 2021 [ October ]
 - My artwork and writing was accepted to the First Resistance AI Workshop at NeurIPS (I will be presenting a poster!) [ October ]
+
 
 
 
