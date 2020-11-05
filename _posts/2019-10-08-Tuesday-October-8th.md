@@ -97,6 +97,8 @@
 - I will be interning at Microsoft next summer ie 2021 [ October ]
 - My artwork and writing was accepted to the First Resistance AI Workshop at NeurIPS (I will be presenting a poster!) [ October ]
 - Our paper was accepted as a poster for AFCI (Algorithmic Fairness through the lens of Causality and Interpretability) at NeurIPS (congrats Miss Ivy! :) [ October ]
+- I am giving a talk for some students at Morgan State University, in conjunction with EGG [ November ]
+
 
 
 
