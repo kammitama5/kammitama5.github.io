@@ -48,7 +48,7 @@
   make a difference to people starting out.
   
 ## MSRI
-- Similarly, my time at MSRI and Simons Institute and ICERM were similar. I'm not a mathematician, and I don't pretend to be, but I was 
+- Similarly, my time at MSRI and Simons Institute and ICERM was similar. I'm not a mathematician, and I don't pretend to be, but I was 
   (and still am) fascinated by Number Theory and encryption. These places made space to me, and I was typically the only CS student there,
   but I appreciate that they thought that my being there was okay. It went a long way for me on my journey.
 
