@@ -21,9 +21,9 @@
 - I had been to a few meetups run by [Peter](https://www.amazon.com/The-Hacker-Playbook-Practical-Penetration/dp/1494932636/)
   and to be honest, it was interesting, but I realized that I liked privacy, encryption and data a lot more than I did security,
   even though people often confuse the two. However, along the way, I was still figuring things out.
-- In one Meetup, I attempted to go, but figured out that it would take me around 3 hours each way to attend. When I got there,
+- In one Meetup, I attempted to go, but figured out that it would take me around 3 to 5 hours each way to attend. When I got there,
   I couldn't find the place after a good hour of looking, so I settled in the nearby library instead. Realizing that the last bus for the day was coming in
-  20 minutes, I turned around and went home (I couldn't afford a taxi and didn't own a smart phone so taking a rideshare or taxi
+  20 minutes (so there was physically no other bus arriving until the next morning around 6am), I turned around and went home (I couldn't afford a taxi and didn't own a smart phone so taking a rideshare or taxi
   was out of the question for me). 
 - When I got back, I received a rude email from the host of the Meetup telling me that "when I was serious" I should consider 
   emailing him, and was subsequently kicked out of the Meetup group. It's funny to think about now, because I'm on the fringes
