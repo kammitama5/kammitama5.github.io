@@ -34,7 +34,8 @@
   (no... probably not). To be fair, I did learn a bit of Wireshark on my own out of boredom at a job, and was hanging around a lot of SoCal hackers
   at the time. But sometimes running into walls like that, depending on someone's personality, is enough to turn them off. 
 - It reminds me of a professor who told me that he was once deciding between PL and the crypto community, and when he decided to attend an event and
-  told the person sitting next to him at a lunch table that he was there because he was interested in the community, the person took their lunch tray and walked away. So he ended up in PL instead. 
+  told the person sitting next to him at a lunch table that he was there because he was interested in the community, the person took their lunch tray and walked away. So he ended up in PL instead. In retrospect, I'm happy that they ended up in PL, because that's where I met them, and they ended up encouraging 
+  me to apply to grad school, and I got in, and I'm super thankful that he was there to support and encourage me at a time when I felt like it was silly and I was undeserving of the opportunity.
   
 ## My adventures in Haskell
 - I think about some of these things when I think about some of my experiences in Haskell, too. Sometimes, I used to get upset that I wasn't
