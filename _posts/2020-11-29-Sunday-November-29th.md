@@ -12,7 +12,7 @@
   
 ## My adventures in OWASP
 - I've slowly been finding myself, with a lot more free time, fascinated by secure computation, particularly MPC. 
-  I've been working on a small project, and spending my free time looking at the videos. Basically anything and everything
+  I've been working on a small project, and spending my free time looking at the [videos](https://www.youtube.com/watch?v=Zs-kE01nXRY). Basically anything and everything
   by N. Smart or Y. Ishai. I've found myself staying up past 5am reading about and [listening](https://www.youtube.com/watch?v=Zs-kE01nXRY) to the [talks](https://www.youtube.com/watch?v=xwxkp4fMWsk).
   Somewhere along the way,
   it reminded me of my time in LA, when I was curious about the world of OWASP and was considering whether I did enjoy
