@@ -36,6 +36,11 @@
   food, which made it easier for persons like myself who weren't making a lot at the time and couldn't afford to buy food in the expensive 
   startup neighbourhood of Santa Monica or Playa Vista (where many of the events were held) to be there. It sounds trivial, but these things
   make a difference to people starting out.
+  
+## MSRI
+- Similarly, my time at MSRI and Simons Institute and ICERM were similar. I'm not a mathematician, and I don't pretend to be, but I was 
+  (and still am) fascinated by Number Theory and encryption. These places made space to me, and I was typically the only CS student there,
+  but I appreciate that they thought that my being there was okay. It went a long way for me on my journey.
 
 ## Opportunity
 - I was looking at an (unfortunate) Residency a few days ago and saw that no one in the group of persons they had chosen looked like me.
