@@ -25,7 +25,11 @@
   emailing him, and was subsequently kicked out of the Meetup group. It's funny to think about now, because I'm on the fringes
   of that community. However, I think about instances like that and what it means for attrition for persons who are legitmiately interested,
   and really just need help or support. What if instead of that treatment, the person had helped pool resources with someone who also had 
-  an interest (a regular of the group) who could meet me halfway at a location, or something like that?
+  an interest (a regular of the group) who could meet me halfway at a location, or something like that? Maybe I might have been a pentester today
+  (no... probably not). To be fair, I did learn a bit of Wireshark on my own out of boredom at a job, and was hanging around a lot of SoCal hackers
+  at the time. But sometimes running into walls like that, depending on someone's personality, is enough to turn them off. 
+- It reminds me of a professor who told me that he was once deciding between PL and the crypto community, and when he decided to attend an event and
+  told them he was there because he was interested in the community, the person took their lunch tray and walked away. So he ended up in PL instead. 
   
 ## My adventures in Haskell
 - I think about some of these things when I think about some of my experiences in Haskell, too. Sometimes, I used to get upset that I wasn't
