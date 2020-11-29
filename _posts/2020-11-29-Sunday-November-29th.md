@@ -9,7 +9,9 @@
   
 ## My adventures in OWASP
 - I've slowly been finding myself, with a lot more free time, fascinated by secure computation, particularly MPC. 
-  I've been working on a small project, and spending my free tie looking at the videos. Somewhere along the way,
+  I've been working on a small project, and spending my free time looking at the videos. Basically anything and everything
+  by N. Smart or Y. Ishai. I've found myself staying up past 5am reading about and listening to the talks.
+  Somewhere along the way,
   it reminded me of my time in LA, when I was curious about the world of OWASP and was considering whether I did enjoy
   the world of forensics and ethical hacking. 
 - I had been to a few meetups run by [Peter](https://www.amazon.com/The-Hacker-Playbook-Practical-Penetration/dp/1494932636/)
