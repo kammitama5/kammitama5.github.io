@@ -49,8 +49,9 @@
   
 ## MSRI
 - Similarly, my time at MSRI and Simons Institute and ICERM was similar. I'm not a mathematician, and I don't pretend to be, but I was 
-  (and still am) fascinated by Number Theory and encryption. These places made space to me, and I was typically the only CS student there,
-  but I appreciate that they thought that my being there was okay. It went a long way for me on my journey.
+  (and still am) fascinated by Number Theory and encryption. These places made space for me, and I was typically the only CS student there (they even supported me *before* I had been accepted to grad school! This is excellent, and I think their support *helped* me get into grad school),
+  but I appreciate that they thought that my being there was okay. It went a long way for me on my journey. 
+- They introduced me to the world I knew I wanted to be a part of, and showed me that there was space for someone like me, too.
 
 ## Opportunity
 - I was looking at an (unfortunate) Residency a few days ago and saw that no one in the group of persons they had chosen looked like me.
