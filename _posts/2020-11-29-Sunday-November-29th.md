@@ -22,9 +22,10 @@
   and to be honest, it was interesting, but I realized that I liked privacy, encryption and data a lot more than I did security,
   even though people often confuse the two. However, along the way, I was still figuring things out.
 - In one Meetup, I attempted to go, but figured out that it would take me around 3 to 5 hours each way to attend. When I got there,
-  I couldn't find the place after a good hour of looking, so I settled in the nearby library instead. Realizing that the last bus for the day was coming in
+  I couldn't find the place after a good hour of looking, so I settled in the nearby library instead and used the sketchy wifi to send the organizer an email telling him I couldn't find the spot, but that I was in the library. Realizing that the last bus for the day was coming in
   20 minutes (so there was physically no other bus arriving until the next morning around 6am), I turned around and went home (I couldn't afford a taxi and didn't own a smart phone so taking a rideshare or taxi
-  was out of the question for me). 
+  was out of the question for me). Also, back then, the way I got to places was by drawing instructions on pieces of paper. And sometimes, I wouldn't
+  know which side of the road the bus would arrive and I would have to wait on the next one in that direction (was it South, or North?).
 - When I got back, I received a rude email from the host of the Meetup telling me that "when I was serious" I should consider 
   emailing him, and was subsequently kicked out of the Meetup group. It's funny to think about now, because I'm on the fringes
   of that community. However, I think about instances like that and what it means for attrition for persons who are legitmiately interested,
