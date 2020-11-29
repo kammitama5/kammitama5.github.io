@@ -6,6 +6,9 @@
   wasn't that persons were struggling to get in to such spaces, but that the attrition rate was awful.
 - And it's true. It's a lazy metric to pay attention to only the process of admittance, rather than looking at long-term
   attrition.
+- If the process itself is gatekeeping these persons who obtain PhDs from tenure track positions, then what is the point of admitting
+  a bunch of people who will never get these jobs? If this is where the process is broken, admitting more students isn't solving anything.
+  It's just lipstick on a pig.
   
 ## My adventures in OWASP
 - I've slowly been finding myself, with a lot more free time, fascinated by secure computation, particularly MPC. 
