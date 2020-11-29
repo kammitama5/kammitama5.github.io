@@ -16,7 +16,8 @@
   by N. Smart or Y. Ishai. I've found myself staying up past 5am reading about and [listening](https://www.youtube.com/watch?v=Zs-kE01nXRY) to the [talks](https://www.youtube.com/watch?v=xwxkp4fMWsk).
   Somewhere along the way,
   it reminded me of my time in LA, when I was curious about the world of OWASP and was considering whether I did enjoy
-  the world of forensics and ethical hacking. 
+  the world of forensics and ethical hacking. To me, privacy was security and security was privacy, and then there was all this other
+  stuff I was looking at, from functional programming to web design to data science and hardware and robotics. How could I choose?
 - I had been to a few meetups run by [Peter](https://www.amazon.com/The-Hacker-Playbook-Practical-Penetration/dp/1494932636/)
   and to be honest, it was interesting, but I realized that I liked privacy, encryption and data a lot more than I did security,
   even though people often confuse the two. However, along the way, I was still figuring things out.
