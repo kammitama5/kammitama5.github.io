@@ -99,7 +99,7 @@
 - Our paper was accepted as a poster for AFCI (Algorithmic Fairness through the lens of Causality and Interpretability) at NeurIPS (congrats Miss Ivy! :) [ October ]
 - I am giving a talk for some students at Morgan State University, in conjunction with EGG [ November ]
 - I was accepted to the Winter Institute in Computational Social Science hosted by the University of Arizona (WICSS), which will be held in Jan 2021 [ November ]
-
+- I will be attending the 2020 SOCML session for Privacy and ML, moderated by U. Erlingsson, organized by I. Goodfellow. I am on 2 hours of sleep but happy!
 
 
 
