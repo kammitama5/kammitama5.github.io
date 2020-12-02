@@ -23,10 +23,14 @@
   up to learn a thing, and you're very bad at it, and you fail over and over again. And you feel like crap. But one day, you become very good
   at the thing. You focus on a lot of starts. You get better at the starts.
 - You spend time thinking deeply about a thing. When I was in Silicon Valley, I realized that something about that, and the process, was so 
-  compelling to me; perhaps because it lined up so closely to the values I had learned great artists had.
+  compelling to me; perhaps because it lined up so closely to the values I had learned great artists had. And I realized that I had an aversion
+  to people who liked bragging. In art, it is typically the sign of a bad artist if you aren't humble, because you're always learning.
 - Great artists focus on the start, they focus on the things under the shallow, just like great researchers. 
 
 ## Anyways
+- Sometimes when I want to focus on structure, I will draw from sculptures. In sculptures, the form of the thing (and its construction) is very
+  emphasized, so it's good in helping you "see", whereas drawing from photos (which unfortunately I did a lot of in high school, so I learned
+  more about colour and shape than construction and perspective) can flatten things so it's more difficult to see the construction of the object.
 - I started with sketching this sculpture and doing the comparison thing. I haven't done it in a while, but too many people were messaging me,
   so I turned off my phone and did some of this for a bit. Time to get back to code and reading.
 
