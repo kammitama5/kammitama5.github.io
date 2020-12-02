@@ -22,10 +22,15 @@
 - I think about that a lot especially during my life as a PhD student, because you're essentially doing just that. You're starting from the ground
   up to learn a thing, and you're very bad at it, and you fail over and over again. And you feel like crap. But one day, you become very good
   at the thing. You focus on a lot of starts. You get better at the starts.
+- Every time you want to advance knowledge in a field, or think about how something new can be done, you're building a bit off of something,
+  but you're also in many ways beginning, with a dubious ending.
 - You spend time thinking deeply about a thing. When I was in Silicon Valley, I realized that something about that, and the process, was so 
   compelling to me; perhaps because it lined up so closely to the values I had learned great artists had. And I realized that I had an aversion
   to people who liked bragging. In art, it is typically the sign of a bad artist if you aren't humble, because you're always learning. You learn
   from your mistakes, you learn from other artists.
+- I really like the writing group I'm in, and my constructed languages class, too, because it's a very iterative process, too. It's very humbling 
+  to see people who have committed so much time and are great at what they do, but who value feedback, too, regardless of how far along you are.
+  They can focus on starts, too, and like [getting to Mars](https://mars.nasa.gov/mro/mission/timeline/mtcruise/cruisetcms/), make small adjustments (they call it trajectory correction maneuvers) that might lead to improvements to your destination.
 - Great artists focus on the start, they focus on the things under the shallow, just like great researchers. 
 
 ## Anyways
