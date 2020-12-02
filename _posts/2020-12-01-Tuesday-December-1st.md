@@ -30,6 +30,6 @@
 - I started with sketching this sculpture and doing the comparison thing. I haven't done it in a while, but too many people were messaging me,
   so I turned off my phone and did some of this for a bit. Time to get back to code and reading.
 
-![bernini](/images/bernini_.png){:height="300px" width="400px"}
+![bernini](/images/bernini_.png){:height="100px" width="100px"}
 
 ## And that's it.
