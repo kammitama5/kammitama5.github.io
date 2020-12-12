@@ -11,8 +11,7 @@
 ```
 On a hill, a sheep that did not 
 have wool saw horses.
-kŋ <ng> kaa tshaa-ŋ-aŋ 
-tsaani tschaa saat-o kaabkh-i
+kŋ <ng> kaa tshaa-ŋ-aŋ tsaani tschaa saat-o kaabkh-i
 
 One horse pulled a heavy wagon.
 ŋ <ng> tsc aa-o u-ŋ kaabkh tschgaa
@@ -28,8 +27,7 @@ kah-ao (pl) tschaak a-k kaabkh-i
 
 “I grieve when I see a person
 who drives horses.”
-ŋ <ng> ŋklhhh saat-ak 
-brt-ŋ kaabkh(-an)-i pvkka
+ŋ <ng> ŋklhhh saat-ak brt-ŋ kaabkh(-an)-i pvkka
 
 The horses said:
 kaa-o kaabkh(-an)-i
