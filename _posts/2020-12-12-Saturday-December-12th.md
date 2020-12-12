@@ -2,10 +2,10 @@
 
 ## I took a class
 - I took a [class](https://hyperlink.academy/courses/language-construction-workshop/26) taught by this amazing [software engineer and linguist](https://colingorrie.com/about) where we made a language in six weeks. 
-- Then, we presented our translation of the same poem based on the language.
-- Mine is inspired by Hindi and Armenian and is [VSO](https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object). Other VSO languages are  Irish, Mayan and some other Polynesian languages.
+- Then, we presented our translation of the same poem based on the language by reading it if we wanted.
+- Mine is inspired by Hindi and Armenian and is [VSO](https://en.wikipedia.org/wiki/Verb%E2%80%93subject%E2%80%93object). Other VSO languages are  Irish, Mayan and some other Polynesian languages. I haven't come up with a name for the language yet.
 - I wanted to make a language for a game I'm making (along with some game art. Don't tease my geekiness lol.
-
+- This was *such* a fun class!! I loved it!!! I'm also taking an Esoteric Programming languages class in 2021.
 
 ## Poem
 ```
