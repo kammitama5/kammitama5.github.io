@@ -24,8 +24,10 @@
   best to plan the digital space, keep sponsors happy, keep speakers happy, keep participants happy and enforce our code of conduct.
   
 ## On top of that
-- I discovered this year that two of my submissions (in fact, the only two I had submitted) were accepted to workshops at NeurIPS!
-  That was exciting. For one I was a first author (in fact, the sole author), and for the other, I was second author. So that was pretty
+- I discovered this year that two of my submissions (in fact, the only two I had submitted) were accepted to workshops at NeurIPS! Furthermore,
+  one was a painting and writing based on work and reading groups I had been engaged in over summer, and the other was research I was working
+  on with my advisor. So somehow I had managed to get both a painting and scientific work into workshops at NeurIPS this year! 
+- That was exciting. For one I was a first author (in fact, the sole author), and for the other, I was second author. So that was pretty
   cool! I'm quite pleased that I went from entering this new world just a year ago to being so engaged! Finally, I moderated two Q&As for
   WiML; one with Mihaela and another with Rediet, and fed questions for the other Q&As. I also moderated a talk with Cyril for BAI, and the
   topic was completely up my alley! AI and art! So cool!
