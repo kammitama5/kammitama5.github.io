@@ -56,17 +56,17 @@
 <img src="/images/Neurips_/s_005.png" width="300">
 
 ## Shafi's talk 
-<img src="/images/Neurips_/s_008.png" width="300">
+<img src="/images/Neurips_/s_008.png" width="500">
 - this was one of the first talks I stayed up to attend. It was so worth it!
 
 ## It's me!
-<img src="/images/Neurips_/s_009.png" width="300">
+<img src="/images/Neurips_/s_009.png" width="500">
 
 ## Me again!
-<img src="/images/Neurips_/s_010.png" width="300">
+<img src="/images/Neurips_/s_010.png" width="500">
 
 ## Peak Gather Town
-<img src="/images/Neurips_/s_013.png" width="300">
+<img src="/images/Neurips_/s_013.png" width="100">
 - a LOT of people!
 
 ## A poster!
@@ -76,15 +76,15 @@
 <img src="/images/Neurips_/s_016.png" width="300">
 
 ## Standing by another poster
-<img src="/images/Neurips_/s_017.png" width="300">
+<img src="/images/Neurips_/s_017.png" width="500">
 
 ## These were for these workshops
-<img src="/images/Neurips_/s_018.png" width="300">
+<img src="/images/Neurips_/s_018.png" width="500">
 
 <img src="/images/Neurips_/s_021.png" width="300">
 
 ## SOCML notification
-<img src="/images/Neurips_/s_023.png" width="300">
+<img src="/images/Neurips_/s_023.png" width="500">
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
