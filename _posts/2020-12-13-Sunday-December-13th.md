@@ -3,7 +3,7 @@
 ## This year's NeurIPS was online. 
 - My first NeurIPS was in 2019. You can find more about that [here](https://kammitama5.github.io/Saturday-December-14th/). At the time,
   I felt coming in like I was pretty much an outsider (I was the only person there from my school), and felt like I had just gotten lucky or someone had
-  accidentally decided to grant me a travel award to attend. It was also my first time in Canada, and having a love for the West Coast, it gave
+  accidentally decided to grant me a travel award to attend. It was also my first time in Canada, and having a [love for the West Coast](https://kammitama5.github.io/images/accelerateU/a_022.png), it gave
   me a reason to visit. Also, having my first semester turn out pretty terribly and feeling isolated, I was pretty much looking for any reason to get away.
   
 ## This year
