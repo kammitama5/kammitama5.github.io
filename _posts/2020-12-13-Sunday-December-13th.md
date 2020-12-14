@@ -5,7 +5,8 @@
   I felt coming in like I was pretty much an outsider (I was the only person there from my school), and felt like I had just gotten lucky or someone had
   accidentally decided to grant me a travel award to attend. It was also my first time in Canada, and having a [love for the West Coast](https://kammitama5.github.io/images/accelerateU/a_022.png), it gave
   me a reason to visit. Also, having my first semester turn out pretty terribly and feeling isolated, I was pretty much looking for any reason to get away.
-  
+- As it turns out, I made some incredible friends at that conference, and we remained in touch throughout 2020. Some are now faculty at Universities, working at large corporations, or pursuing postdocs. Sometimes we have salty conversations online or via text (haha).
+
 ## This year
 - A lot has happened in a year. I've settled in a lot more, and even though I am still an outsider in many ways where I am, in terms of the Academic community, 
   I would say that I've quite settled in. I'm pretty familiar with many people in the AI research community, and consider them my peers and friends. They 
