@@ -61,7 +61,8 @@
 - A stream of notifications. This was in the time frame of one evening/ overnight
 
 ## This is me being antisocial during a test run of the WiML Gather Town
-<img src="/images/Neurips_/s_005.png" width="300">
+<img src="/images/Neurips_/s_005.png" width="400">
+- Argh don't talk to me (lol)
 
 ## Shafi's talk 
 <img src="/images/Neurips_/s_008.png" width="700">
