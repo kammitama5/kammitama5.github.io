@@ -39,52 +39,52 @@
 ## Here are sone of the memorable pics online
 
 ## Me, testing out the virtual space for BAI
-<img src="/images/Neurips_/s_001.png” width="300">
+<img src="/images/Neurips_/s_001.png" width="300">
 
 ## Testing out the virtual booth for BAI
-<img src="/images/Neurips_/s_002.png” width="300">
+<img src="/images/Neurips_/s_002.png" width="300">
 
 ## Entering the SOCML Gather town space
-<img src="/images/Neurips_/s_003.png” width="300">
+<img src="/images/Neurips_/s_003.png" width="300">
 - I am really excited even though you can't tell! This session was a treat!
 
 ## What my phone looked like closer to the date of the conference.
-<img src="/images/Neurips_/s_004.png” width="300">
+<img src="/images/Neurips_/s_004.png" width="300">
 - A stream of notifications. This was in the time frame of one evening/ overnight
 
 ## This is me being antisocial during a test run of the WiML Gather Town
-<img src="/images/Neurips_/s_005.png” width="300">
+<img src="/images/Neurips_/s_005.png" width="300">
 
 ## Shafi's talk 
-<img src="/images/Neurips_/s_008.png” width="300">
+<img src="/images/Neurips_/s_008.png" width="300">
 - this was one of the first talks I stayed up to attend. It was so worth it!
 
 ## It's me!
-<img src="/images/Neurips_/s_009.png” width="300">
+<img src="/images/Neurips_/s_009.png" width="300">
 
 ## Me again!
-<img src="/images/Neurips_/s_010.png” width="300">
+<img src="/images/Neurips_/s_010.png" width="300">
 
 ## Peak Gather Town
-<img src="/images/Neurips_/s_013.png” width="300">
+<img src="/images/Neurips_/s_013.png" width="300">
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png” width="300">
+<img src="/images/Neurips_/s_015.png" width="300">
 
 ## Standing by a Poster
-<img src="/images/Neurips_/s_016.png” width="300">
+<img src="/images/Neurips_/s_016.png" width="300">
 
 ## Standing by another poster
-<img src="/images/Neurips_/s_017.png” width="300">
+<img src="/images/Neurips_/s_017.png" width="300">
 
 ## These were for these workshops
-<img src="/images/Neurips_/s_018.png” width="300">
+<img src="/images/Neurips_/s_018.png" width="300">
 
-<img src="/images/Neurips_/s_021.png” width="300">
+<img src="/images/Neurips_/s_021.png" width="300">
 
 ## SOCML notification
-<img src="/images/Neurips_/s_023.png” width="300">
+<img src="/images/Neurips_/s_023.png" width="300">
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
