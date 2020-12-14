@@ -27,7 +27,11 @@
 - I discovered this year that two of my submissions (in fact, the only two I had submitted) were accepted to workshops at NeurIPS! Furthermore,
   one was a painting and writing based on work and reading groups I had been engaged in over summer, and the other was research I was working
   on with my advisor. So somehow I had managed to get both a painting and scientific work into workshops at NeurIPS this year! 
-- That was exciting. For one I was a first author (in fact, the sole author), and for the other, I was second author. So that was pretty
+- Both were really well received, and I'm super happy the way it worked out. Several people stopped by to comment on and ask questions, and
+  for the painting, people expressed strong support for some of the conversations in the piece and engaged awesomely. I'm so happy!
+  It seems like it's one of the first spaces I've been able to bring all of myself. For most of my life, I've felt like I've had to choose
+  one or the other.
+- That was all exciting. For one I was a first author (in fact, the sole author), and for the other, I was second author. So that was pretty
   cool! I'm quite pleased that I went from entering this new world just a year ago to being so engaged! Finally, I moderated two Q&As for
   WiML; one with Mihaela and another with Rediet, and fed questions for the other Q&As. I also moderated a talk with Cyril for BAI, and the
   topic was completely up my alley! AI and art! So cool!
