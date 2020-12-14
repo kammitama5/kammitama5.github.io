@@ -39,7 +39,7 @@
 ## Here are sone of the memorable pics online
 
 ## Me, testing out the virtual space for BAI
-<img src="/images/Neurips_/s_001.png" width="300">
+<img src="/images/Neurips_/s_001.png" width="200">
 
 ## Testing out the virtual booth for BAI
 <img src="/images/Neurips_/s_002.png" width="300">
@@ -56,7 +56,7 @@
 <img src="/images/Neurips_/s_005.png" width="300">
 
 ## Shafi's talk 
-<img src="/images/Neurips_/s_008.png" width="500">
+<img src="/images/Neurips_/s_008.png" width="700">
 - this was one of the first talks I stayed up to attend. It was so worth it!
 
 ## It's me!
@@ -70,7 +70,7 @@
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="900">
+<img src="/images/Neurips_/s_015.png" width="1000">
 
 ## Standing by a Poster
 <img src="/images/Neurips_/s_016.png" width="200">
