@@ -70,10 +70,10 @@
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="700">
+<img src="/images/Neurips_/s_015.png" width="900">
 
 ## Standing by a Poster
-<img src="/images/Neurips_/s_016.png" width="300">
+<img src="/images/Neurips_/s_016.png" width="200">
 
 ## Standing by another poster
 <img src="/images/Neurips_/s_017.png" width="300">
