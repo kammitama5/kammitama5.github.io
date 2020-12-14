@@ -66,17 +66,17 @@
 <img src="/images/Neurips_/s_010.png" width="500">
 
 ## Peak Gather Town
-<img src="/images/Neurips_/s_013.png" width="100">
+<img src="/images/Neurips_/s_013.png" width="50">
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="300">
+<img src="/images/Neurips_/s_015.png" width="500">
 
 ## Standing by a Poster
-<img src="/images/Neurips_/s_016.png" width="300">
+<img src="/images/Neurips_/s_016.png" width="100">
 
 ## Standing by another poster
-<img src="/images/Neurips_/s_017.png" width="500">
+<img src="/images/Neurips_/s_017.png" width="100">
 
 ## These were for these workshops
 <img src="/images/Neurips_/s_018.png" width="500">
