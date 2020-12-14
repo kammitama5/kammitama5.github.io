@@ -45,11 +45,11 @@
 <img src="/images/Neurips_/s_002.png" width="300">
 
 ## Entering the SOCML Gather town space
-<img src="/images/Neurips_/s_003.png" width="300">
+<img src="/images/Neurips_/s_003.png" width="500">
 - I am really excited even though you can't tell! This session was a treat!
 
 ## What my phone looked like closer to the date of the conference.
-<img src="/images/Neurips_/s_004.png" width="300">
+<img src="/images/Neurips_/s_004.png" width="200">
 - A stream of notifications. This was in the time frame of one evening/ overnight
 
 ## This is me being antisocial during a test run of the WiML Gather Town
@@ -70,21 +70,21 @@
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="500">
+<img src="/images/Neurips_/s_015.png" width="700">
 
 ## Standing by a Poster
-<img src="/images/Neurips_/s_016.png" width="100">
+<img src="/images/Neurips_/s_016.png" width="300">
 
 ## Standing by another poster
-<img src="/images/Neurips_/s_017.png" width="100">
+<img src="/images/Neurips_/s_017.png" width="300">
 
 ## These were for these workshops
-<img src="/images/Neurips_/s_018.png" width="500">
+<img src="/images/Neurips_/s_018.png" width="700">
 
-<img src="/images/Neurips_/s_021.png" width="300">
+<img src="/images/Neurips_/s_021.png" width="500">
 
 ## SOCML notification
-<img src="/images/Neurips_/s_023.png" width="500">
+<img src="/images/Neurips_/s_023.png" width="600">
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
