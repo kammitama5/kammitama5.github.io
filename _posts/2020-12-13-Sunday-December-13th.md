@@ -79,7 +79,7 @@
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="1000">
+<img src="/images/Neurips_/s_015.png" width="1200">
 
 ## Standing by a Poster
 <img src="/images/Neurips_/s_016.png" width="200">
@@ -102,6 +102,9 @@
 - However, I had a great time, met incredible people, had great conversations, learned a lot and got really involved in the community this
   year, all from the comfort of my space. So that was pretty cool. The workshops were at different timezones, though, I definitely took
   power naps in between, and some things messed up my sleep schedule.
+  
+## So how does it feel
+- It feels surreal. I can't believe it's over, but I'm happy to have connected with so many people, and had such a fun (but exhausting) week. The community isn't perfect, but these are my people. My friend came to see me during my poster session, and she said she was so impressed by all I've accomplished this year. If you ever wanted to see two people tear up in a virtual Gather Room by a poster, that was it! I am so thankful for her friendship and for her support. I'm so thankful for everything. These people make everything worthwhile.
   
 ## C'est la vie
 
