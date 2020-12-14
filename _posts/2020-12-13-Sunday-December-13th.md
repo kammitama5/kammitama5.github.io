@@ -42,7 +42,7 @@
   semester, I was able to listen in and ask a question about it, too! As it turns out, I'll be continuing to spend my time this winter break
   (classes start again in February) on encryption and NLP. Also, I signed up for two classes that start in January and that run for 3 to 6 
   weeks. I'm excited about those as well. Finally, I got into two workshops; one based in the UK, and the other based in the US, and I'll
-  be attending those in January. I'm also waiting back to hear from some other stuff.
+  be attending those in January (and will be presenting posters for those workshops, too!). I'm also waiting back to hear from some other stuff.
   
 ## Here are sone of the memorable pics online
 
