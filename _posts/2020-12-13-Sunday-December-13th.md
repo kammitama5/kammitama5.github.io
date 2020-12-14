@@ -13,7 +13,7 @@
   have talks with me and send me texts, tell me about their papers, and mentor me. We're there for each other, even as they are in Academic institutions scattered
   all over the world.
 - So by the time this summer rolled around, I was notified that I was chosen for both the organizational team of WiML and BAI. To be honest,
-  it was unexpected. I was pretty sure that one would reject me, so I was pleasantly surprised to be accepted by both organizations. This
+  it was unexpected. I was pretty sure that one would reject me (so I'd just be able to work on one like a sane person), so I was pleasantly surprised to be accepted by both organizations. It's a good thing I didn't apply for that third one I was considering (lol). This
   year would be a challenge; everyone was adapting to the virtual platform. We had to be creative and try to keep people engaged.
   
 ## Schedules changing
