@@ -20,7 +20,8 @@
 - We ended up planning a number of activities and how they would translate to being virtual, such as the mentorship roundtables. 
   Each organization did them in a unique way. We had virtual sponsor booths. We had ways for participants to mingle and all the talks 
   would now be online. This meant that we had multiple platforms, and that some talks would be pre-recorded and others would be live.
-  We ended up using a mix of SlidesLive, Gather Town, Zoom, Rocket Chat and the NeurIPS website.
+  We ended up using a mix of SlidesLive, Gather Town, Zoom, Rocket Chat and the NeurIPS website. On top of running the event, we had to do our
+  best to plan the digital space, keep sponsors happy, keep speakers happy, keep participants happy and enforce our code of conduct.
   
 ## On top of that
 - I discovered this year that two of my submissions (in fact, the only two I had submitted) were accepted to workshops at NeurIPS!
