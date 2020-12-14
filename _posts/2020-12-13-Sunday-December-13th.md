@@ -53,7 +53,7 @@
 <img src="/images/Neurips_/s_002.png" width="300">
 
 ## Entering the SOCML Gather town space
-<img src="/images/Neurips_/s_003.png" width="500">
+<img src="/images/Neurips_/s_003.png" width="600">
 - I am really excited even though you can't tell! This session was a treat!
 
 ## What my phone looked like closer to the date of the conference.
