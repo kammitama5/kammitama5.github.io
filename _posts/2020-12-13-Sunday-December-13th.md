@@ -36,6 +36,12 @@
   WiML; one with Mihaela and another with Rediet, and fed questions for the other Q&As. I also moderated a talk with Cyril for BAI, and the
   topic was completely up my alley! AI and art! So cool!
   
+## Finally, on top of that
+- I also reviewed work for two workshops; BAI and AFCI. I did about 2 to 4 papers each, which was very manageable. I've been trying to get better with each opportunity, as that is part of the process of becoming an independent researcher. I'd like to be able to do a solid review regardless of the specific sub-field in AI, but it is a lot easier to review papers you're excited about! 
+- Alas, I've been told that the Graduate Writing Center may be shutting down after Spring semester at my school. And I've learned a lot.
+  I hope this doesn't happen, but I am prepared that this may be the outcome, and I still have all the things I learned this semester about 
+  reviewing work across disciplines. I really did work on helping my peers in everything from papers in Social Work to Clinician work to Biology, to Ecology and even a video and a Dissertation presentation. So it was definitely worthwhile. And..back to NeurIPS.
+  
 ## One of the treats
 - One of the treats this year was also being able to attend for the first time, [SOCML](https://www.socml.org/). I was one of nine to attend
   the privacy track, and invited by Ian himself, which was a surprise. The discussion was fantastic, and being a secure computation nut this 
