@@ -94,6 +94,7 @@
 
 ## SOCML notification
 <img src="/images/Neurips_/s_023.png" width="600">
+- Reaction: Me, jumping up and down. I was also in the middle of a final project that was using a hybrid of multiparty computation and homomorphic encryption, so I was pretty stoked!
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
