@@ -96,6 +96,11 @@
 
 - Standing by our poster. Quite a few people stopped by to ask questions. Thank you! 
 
+## Another poster
+<img src="/images/Neurips_/s_028.png" width="600">
+
+- I used my concept design skills from many years ago to make a poster that spoke about some of the parallels I had noticed between contract work and marginalized communities in tech and postcolonial literature (particularly from the Caribbean), particularly in the context of abolitionist insurgency thinking and the reimagining of futures that provided space for these persons to come together and to value the world they were building that wouldn't centre Eurocentrism, and how that might relate to finding community outside of the larger, isolating structures of tech. It got accepted, and I presented it. It got a lot of support from both researchers and artists; a lot of people came by and several persons said "thank you", which was unexpected.
+
 ## Standing by a Poster
 <img src="/images/Neurips_/s_016.png" width="200">
 
