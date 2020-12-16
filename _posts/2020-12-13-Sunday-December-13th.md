@@ -87,7 +87,7 @@
 ## A poster!
 <img src="/images/Neurips_/s_015.png" width="1200">
 
-<img src="/images/Neurips_/s_025.png" width="600">
+<img src="/images/Neurips_/s_025.png" width="200">
 - My advisor was randomly assigned a black female avatar (with pearls!) initially. I asked him if he had chosen that, and he admitted that
   he hadn't, which made us giggle.
 
