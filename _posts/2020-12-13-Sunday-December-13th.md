@@ -71,7 +71,7 @@
 - Argh don't talk to me (lol)
 
 ## Us dancing
-<img src="/images/Neurips_/s_014.png" width="400"
+<img src="/images/Neurips_/s_014.png" width="400">
 - All work and no play and all that :)
 
 ## Shafi's talk 
