@@ -102,7 +102,7 @@
 - I will be attending the 2020 SOCML session for Privacy and ML, moderated by U. Erlingsson, organized by I. Goodfellow. I am on 2 hours of sleep but happy! [ December ]
 - I am taking two classes from Hyperlink Academy in 2021: Esoteric Programming Theory and Design Neighbourhood Scale Software and a Digital Privacy Legal course at school [ December ]
 - I am co-organizing an event with Prof Jenkins and and BIC [ December ]
-
+- A reading of our work from the Dark Matters Zine will be on  Montez Press Radio in 2021 (previous guests have been S. Browne) [ December ]
 
 ## 2019
 
