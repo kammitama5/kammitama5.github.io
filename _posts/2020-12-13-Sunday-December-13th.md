@@ -70,6 +70,10 @@
 <img src="/images/Neurips_/s_005.png" width="400">
 - Argh don't talk to me (lol)
 
+## Us dancing
+<img src="/images/Neurips_/s_014.png" width="400"
+- All work and no play and all that :)
+
 ## Shafi's talk 
 <img src="/images/Neurips_/s_008.png" width="700">
 - this was one of the first talks I stayed up to attend. It was so worth it!
