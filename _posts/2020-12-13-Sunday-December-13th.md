@@ -89,7 +89,7 @@
 - a LOT of people!
 
 ## A poster!
-<img src="/images/Neurips_/s_015.png" width="1200">
+<img src="/images/Neurips_/s_015.png" width="1400">
 
 ## Another poster!
 <img src="/images/Neurips_/s_020.png" width="400">
