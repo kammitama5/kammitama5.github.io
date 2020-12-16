@@ -91,6 +91,9 @@
 ## A poster!
 <img src="/images/Neurips_/s_015.png" width="1200">
 
+## Another poster!
+<img src="/images/Neurips_/s_020.png" width="1200">
+
 <img src="/images/Neurips_/s_025.png" width="200">
 
 - My advisor was randomly assigned a black female avatar (with pearls!) initially. I asked him if he had chosen that, and he admitted that
@@ -120,6 +123,10 @@ It got accepted, and I presented it. It got a lot of support from both researche
 ## SOCML notification
 <img src="/images/Neurips_/s_023.png" width="600">
 - Reaction: Me, jumping up and down. I was also in the middle of a final project that was using a hybrid of multiparty computation and homomorphic encryption, so I was pretty stoked!
+
+## The workshops were enjoyed by a lot of people!
+<img src="/images/Neurips_/s_012.png" width="600">
+- We heard news that the workshops gave them energy to continue to do their work. That makes me very thankful. I won't unroll the thread, but you'll see many similar comments under that about how they really felt supported and energized by the workshops. Part of it is seeing people just like you who are doing really great research, and having some of these great conversations with your peers. It was a place where we felt supported.
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
