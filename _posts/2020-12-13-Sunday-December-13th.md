@@ -88,10 +88,12 @@
 <img src="/images/Neurips_/s_015.png" width="1200">
 
 <img src="/images/Neurips_/s_025.png" width="200">
+
 - My advisor was randomly assigned a black female avatar (with pearls!) initially. I asked him if he had chosen that, and he admitted that
   he hadn't, which made us giggle.
 
 <img src="/images/Neurips_/s_026.png" width="600">
+
 - Standing by our poster. Quite a few people stopped by to ask questions. Thank you! 
 
 ## Standing by a Poster
