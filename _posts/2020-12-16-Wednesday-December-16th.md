@@ -6,9 +6,9 @@
   
 <img src="/images/ThisIsNotHome/h_002.png" width="300">
 
-<img src="/images/ThisIsNotHome/h_001.png" width="300">
+<img src="/images/ThisIsNotHome/h_001.png" width="500">
 
-<img src="/images/ThisIsNotHome/h_003.png" width="300">
+<img src="/images/ThisIsNotHome/h_003.png" width="500">
 
 ## Writing
 - Tonight our prompt involved being dropped into a random space, and we could write based on that prompt. 
