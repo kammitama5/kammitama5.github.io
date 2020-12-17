@@ -4,11 +4,11 @@
 - For our prompt tonight, we were each randomly teleported to a location, and we were to write on it.
   Here was my location.
   
-<img src="/images/ThisIsNotHome/s_002.png" width="300">
+<img src="/images/ThisIsNotHome/h_002.png" width="300">
 
-<img src="/images/ThisIsNotHome/s_001.png" width="300">
+<img src="/images/ThisIsNotHome/h_001.png" width="300">
 
-<img src="/images/ThisIsNotHome/s_003.png" width="300">
+<img src="/images/ThisIsNotHome/h_003.png" width="300">
 
 ## Writing
 - Tonight our prompt involved being dropped into a random space, and we could write based on that prompt. 
