@@ -15,7 +15,7 @@
 Somehow, I ended up in Miðfjarðarvegur, Iceland (see photo courtesy Google Maps), a place that I have never visited.
 - Somehow, though, at this exact spot, looks very much like home.
 Specifically, it looks like the very view I experience when I turn on the ramp off the highway to head to the road that leads to my childhood home. 
-I’m struck by the eeriness of this location, and of my memory, especially living so far away in Vermont (which is another country). 
+I’m struck by the eeriness of this location, and of my memory, especially living so far away in Vermont (which is in another country). 
 It’s almost like this has triangulated my memory, my current existence, and a future that I couldn’t imagine before. 
 - There are no people in the photograph, and no signs of habitation, except in the distance. 
 In my home country, many of these houses in these places would be by squatters or for government-assisted living areas in parts of suburbia or more rural areas.
