@@ -2,7 +2,7 @@
 
 ## Writing Night
 - For our prompt tonight, we were each randomly teleported to a location, and we were to write on it.
-  Here was my location.
+  Here was my location (courtesy Google Maps).
   
 <img src="/images/ThisIsNotHome/h_002.png" width="300">
 
