@@ -130,7 +130,7 @@ It got accepted, and I presented it. It got a lot of support from both researche
 
 <img src="/images/Neurips_/s_029.png" width="600">
 
-- We heard news that the workshops gave them energy to continue to do their work. That makes me very thankful. I won't unroll the thread, but you'll see many similar comments under that about how they really felt supported and energized by the workshops. Part of it is seeing people just like you who are doing really great research, and having some of these great conversations with your peers. It was a place where we felt supported.
+- We heard news that the workshops gave them energy to continue to do their work. That makes me very thankful. I won't unroll the thread, but you'll see many similar comments under that about how they really felt supported and energized by the workshops (we even got a shout out in Town Hall by S. Bengio). Part of it is seeing people just like you who are doing really great research, and having some of these great conversations with your peers. It was a place where we felt supported.
 
 ## Aftermath
 - This is a small fraction; I don't want to point out specific people as I respect people's privacy, but some people mentioned or tagged
