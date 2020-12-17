@@ -50,7 +50,7 @@
   weeks. I'm excited about those as well. Finally, I got into two workshops; one based in the UK, and the other based in the US, and I'll
   be attending those in January (and will be presenting posters for those workshops, too!). I'm also waiting back to hear from some other stuff.
   
-## Here are sone of the memorable pics online
+## Here are some of the memorable pics online
 
 ## Me, testing out the virtual space for BAI
 <img src="/images/Neurips_/s_001.png" width="200">
