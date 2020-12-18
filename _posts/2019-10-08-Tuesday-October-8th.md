@@ -103,6 +103,7 @@
 - I am taking two classes from Hyperlink Academy in 2021: Esoteric Programming Theory and Design Neighbourhood Scale Software and a Digital Privacy Legal course at school [ December ]
 - I am co-organizing an event with Prof Jenkins and and BIC [ December ]
 - A reading of our work from the Dark Matters Zine will be on  Montez Press Radio in 2021 (previous guests have been S. Browne) [ December ]
+- I have been accepted to the Jane Street PhD Symposium and will be presenting the research I've been working on in a 10 to 15 minute presentation in January. Stoked! [ December ]
 
 ## 2019
 
