@@ -170,21 +170,23 @@
 - Software Verification (295A) (FA19)
 - Data Privacy (295B) (FA19)
 - Human Computer Interaction (228) (FA19)
-
-## Anticipated Classes (enrolled)
 - Machine Learning (in Python) (254) (SP20)
 - Research credits (491) (SP20)(FA20)
 - Secure Distributed Computation (395) (FA20)
-- Intro to Numerical Analysis (237) (FA20)
-- Privacy: Law, Policy, & Design (196) (FA20)
+
+## Anticipated Classes (enrolled)
+- Research credits (491) (SP20)(FA20)(SP21)
+- Privacy: Law, Policy, & Design (196) (SP21)
 
 ## TODO (2020-21)
 - A Game Theory class (EC 138 or online) (SP21)
-- Deep Learning (SP21)
+- Deep Learning (SP22)
 - Reliability of Engineering Systems (FA21)
 - Reinforcememt Learning (FA21)
-- Algorithms (SP21)
+- Algorithms (SP22)
 - Foundations of Quantitative Reasoning (FA21)
+- Intro to Numerical Analysis (237) (FA21)
+- A prototyping class (eg Integrated Product Development (395) 
 
 ## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
 - Reliability of Engineering Systems
