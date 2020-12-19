@@ -6,6 +6,11 @@
   some of the stuff I've done this year.
   
 - PhDs do that, I guess, so maybe I should too?
+- If you find this confusing, please check out my most up to date CV in the Other section of the [About](https://kammitama5.github.io/about/) page.
+  I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
+
+## 2021
+- more opportunities?
 
 ## 2020
 
@@ -104,6 +109,8 @@
 - I am co-organizing an event with Prof Jenkins and and BIC [ December ]
 - A reading of our work from the Dark Matters Zine will be on  Montez Press Radio in 2021 (previous guests have been S. Browne) [ December ]
 - I have been accepted to the Jane Street PhD Symposium and will be presenting the research I've been working on in a 10 to 15 minute presentation in January. Stoked! [ December ]
+- I am doing a brief YT interview TBD [ December ]
+
 
 ## 2019
 
@@ -150,7 +157,7 @@
   The conference will be in New York City, and I am funded for this opportunity by a generous NSF grant [ Dec ]
 - I received word that I am an NCWIT Finalist! [ Dec ]
 - I applied (and received an offer from) the Graduate Writing Centre; I will be learning how to write and mentoring students
-  for around six hours a week in an interdisciplinary writing skillset at the graduate level (so reviewing and helping graduate students write papers in Literature, Materials Science, History, etc)! [ Dec ]
+  for around six hours a week in an interdisciplinary writing skillset at the graduate level (so reviewing and helping graduate students write papers in Literature, Materials Science, History, etc)! [ December ]
 
   
 ## TA
