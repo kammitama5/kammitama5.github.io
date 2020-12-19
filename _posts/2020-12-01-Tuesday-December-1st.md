@@ -42,6 +42,9 @@
 
 <img src="/images/bernini_.png" width="300">
 
+
 <img src="/images/notberninianotherface.png" width="300">
+
+- I also tried a black sculpture but it's a lot more painting so I stopped (lol)
 
 ## And that's it.
