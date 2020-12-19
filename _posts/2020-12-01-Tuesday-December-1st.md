@@ -42,4 +42,6 @@
 
 <img src="/images/bernini_.png" width="300">
 
+<img src="/images/notberninianotherface.png" width="300">
+
 ## And that's it.
