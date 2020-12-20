@@ -123,7 +123,7 @@ It got accepted, and I presented it. It got a lot of support from both researche
 
 ## SOCML notification
 <img src="/images/Neurips_/s_023.png" width="600">
-- Reaction: Me, jumping up and down. I was also in the middle of a final project that was using a hybrid of multiparty computation and homomorphic encryption, so I was pretty stoked!
+- Reaction: Me, jumping up and down. I was also in the middle of a final project that was using a hybrid of multiparty computation and homomorphic encryption, so I was pretty stoked! (Edit: I ended up getting an A+ in my Secure Computation class! :) *happy dance* )
 
 ## The workshops were enjoyed by a lot of people!
 <img src="/images/Neurips_/s_012.png" width="600">
