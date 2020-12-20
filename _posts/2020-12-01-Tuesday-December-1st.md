@@ -47,4 +47,9 @@
 
 - I also tried a black sculpture but it's a lot more painting so I stopped (lol)
 
+<img src="/images/johncoleman1.png" width="300">
+
+- Also unfinished
+
+
 ## And that's it.
