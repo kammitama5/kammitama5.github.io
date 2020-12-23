@@ -109,7 +109,8 @@
 - I am co-organizing an event with Prof Jenkins and and BIC [ December ]
 - A reading of our work from the Dark Matters Zine will be on  Montez Press Radio in 2021 (previous guests have been S. Browne) [ December ]
 - I have been accepted to the Jane Street PhD Symposium and will be presenting the research I've been working on in a 10 to 15 minute presentation in January. Stoked! [ December ]
-- I am doing a brief YT interview TBD [ December ]
+- I am doing a YT interview, "Tech Girl Thursdays" [ December ]
+- I am diong an interview on our research for OM TBD [ December ]
 
 
 ## 2019
