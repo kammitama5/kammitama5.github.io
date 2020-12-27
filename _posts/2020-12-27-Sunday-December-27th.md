@@ -38,7 +38,7 @@
   and carried a horse shoe Magnet with me everywhere. 
   I preferred to hang out in tree houses with my male cousins,
   watch video games and learn about wire nuts from people who came to re-wire our family house. 
-- Being black and female and awkward is really as terrible as it gets. Society has all these expectations on people who are in these
+- Being black and female and awkward is really as terrible as it gets. As writer Octavia Butler says, "shyness is shit". Society has all these expectations on people who are in these
   groups as is. You begin to realize that not being cool (because being black to some people who aren't means you're supposedly "cool" or "hip"),
   not being a typical female (don't speak to me about "how do you girls" because I have no context for that) and being awkward and geeky
   is really the worst. It's like a macro embedding of being an outsider inside of another one inside of another one. There are so many levels
