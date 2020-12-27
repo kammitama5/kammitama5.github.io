@@ -70,6 +70,15 @@
   pick. Once again, he started asking me "are you sure you can take the pressure of doing this job? It's very hard, you know". The patronizing
   tone, over and over. Being judged not on potential (the way his friend would), but on an assumed lack of ability.
 - I can't do it every day. I don't always have the energy.
+
+## Conversations
+- My dad says that having people who believe in you, and the expectation and entitlement that you'll always succeed, versus having the resilience to 
+  succeed in spite of everyone thinking you won't, are both different experiences. The latter, he says, is like jumping over a canyon. Not everyone 
+  can do it. I'm built like that, and I've done it over and over again throughout my life. 
+- I've been part of this reading group where we read some work and conversations from Octavia Butler. In one piece, called "Positive Obsession",
+  she asks questions about the use of literature, and Science fiction, to Black people. What is the use of reimagining yourself outside of limits
+  within which other people have set for you? It's an important question to ask. How can you carve out a space for yourself to exist within which
+  you can do the thing that you love *in spite of* what others think of yourself and your expectations?
   
 ## And I wonder if it will change
 - I am not solely responsible for changing the minds of these people, and how they inherently interpet, with implicit bias, the inherent skills,
