@@ -2,8 +2,9 @@
 
 ## This semester
 - This semester, I looked reluctantly at my grade. "They're going to find some reason to knock some points off", I thought.
-  I legitimately believed that people who were in a group project with me were better off, because by being in a group with me,
-  their grade would be lower. "It's better to work alone", I've thought. 
+  I legitimately believed that people who were in a group project with me were better off going solo, because by being in a group with me,
+  their grade would be lower. "It's better to work alone", I've thought. Not just for myself, but because I endanger people's grades, because
+  people have low expectations of me, in spite of who I am and all I've done. 
   The last I had heard in this class, I had a 96. But I loved this class. Encryption was part of what got me interested in everything
   in the first place. It was filled with memories of hanging out with my Maths major post-doc friends writing on blackboards, and hikes
   to the Gourmet Ghetto to eat Momos. It was filled with hanging out at Hackerspaces and being silly, having spontaneous barbecues at 2am
