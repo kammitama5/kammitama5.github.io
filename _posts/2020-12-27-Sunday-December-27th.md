@@ -7,9 +7,9 @@
   people have low expectations of me, in spite of who I am and all I've done. 
   The last I had heard in this class, I had a 96. But I loved this class. Encryption was part of what got me interested in everything
   in the first place. It was filled with memories of hanging out with my Maths major post-doc friends writing on blackboards, and hikes
-  to the Gourmet Ghetto to eat Momos. It was filled with hanging out at Hackerspaces and being silly, having spontaneous barbecues at 2am
+  to the [Gourmet Ghetto](https://en.wikipedia.org/wiki/Gourmet_Ghetto) to eat Momos. It was filled with hanging out at Hackerspaces and being silly, having spontaneous barbecues at 2am
   and watching people playing with firecrackers, or getting their butt handed to them in video games or in pinball machine matches.
-  It was toying with Wireshark because there was an online IEEE course with about 10 of us in the middle of the day that just sounded
+  It was toying with Wireshark because there was an [online IEEE course in 2015](https://www.designnews.com/cec-archive/cec-semester-eight-2015/developing-testing-and-troubleshooting-ipv4-and-ipv6-using) with about 10 of us in the middle of the day that just sounded
   fun and interesting so I signed up and then found myself taking enough of the classes to earn a certificate. My first IEEE certificate.
   My earliest memories growing up were of working together with my brother trying to figure out [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge), when he said "you know, you have good
   logic skills". 
