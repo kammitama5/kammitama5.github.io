@@ -38,6 +38,15 @@
   and carried a horse shoe Magnet with me everywhere. 
   I preferred to hang out in tree houses with my male cousins,
   watch video games and learn about wire nuts from people who came to re-wire our family house. 
+- Being black and female and awkward is really as terrible as it gets. Society has all these expectations on people who are in these
+  groups as is. You begin to realize that not being cool (because being black to some people who aren't means you're supposedly "cool" or "hip"),
+  not being a typical female (don't speak to me about "how do you girls" because I have no context for that) and being awkward and geeky
+  is really the worst. It's like a macro embedding of being an outsider inside of another one inside of another one. There are so many levels
+  of expectations you don't hit societally, and everyone's disappointed with you LOL. Why aren't you cool? Why aren't you stylish? Why are you
+  so...awkward? The worst is that people also have this expectation that you "did what all the black kids did" in whatever limited (and often
+  stereotypical) impression they have. That usually means you like Wu-Tang and listen to DMX or something. I wouldn't know. My mom loves
+  Abba and my favourite bands growing up were Aerosmith and Roxette. Weird. It's like you can't *be yourself* as a black geek; you're 
+  disappointing in multi-dimensions (a subspace of disappointment! Yay!).
 - I was curious about welding and decided to take night classes in it, and classes at a local Makerspace, because I realized that
   the place in which I worked would never teach me. Mediocre, incompetent guys would walk in, who fumbled through using a multimeter 
   (they couldn't even figure out how to turn the setting from Amps to Volts),
