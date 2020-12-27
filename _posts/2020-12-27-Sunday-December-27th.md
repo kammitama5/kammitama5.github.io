@@ -80,7 +80,7 @@
   taken to be anything worth considering at all. You climb the mountain over and over, starting at the bottom each time, while being told "it's impossible".
   I like that. And when you fail, especially as an underdog, you're used to picking yourself up, dusting yourself off, and trying again. 
 - I think about how far I've come in spite of that, and I'm proud. I'm proud of how far I've come, because I can say "you were right; it's hard, but I
- did it anyway" and laugh. I have been able to change a few minds. I'm still underestimated, but *some* are now wary.
+ did it anyway" and laugh. I have been able to change a few minds. I'm still underestimated, but *some* are now wary of their preconceived judgments.
 - Still, I'm optimistic. I'm spending the break learning more about things I don't want to talk about, because I expect when I do, that people will
  find a way to tell me that "it's hard", and that I shouldn't be doing it. But I'll do it anyways, because it makes me happy, and I'm doing it for myself.
 
