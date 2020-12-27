@@ -79,7 +79,11 @@
   In fact, I think it's one of the best industries for underdogs; people who are assumed to statistically never succeed, who aren't, upon first glance,
   taken to be anything worth considering at all. You climb the mountain over and over, starting at the bottom each time, while being told "it's impossible".
   I like that. And when you fail, especially as an underdog, you're used to picking yourself up, dusting yourself off, and trying again. 
-- I think about how far I've come in spite of that, and I'm proud. I'm proud of how far I've come, because I can say "you were right; it's hard, but I
+- I've watched some of my peers from other industries who are *used* to being given the benefit of the doubt *crumble* because all of a sudden, they were
+  put in an industry and had to start over from a place where they were not *as statistically* likely to succeed. But they were used to expecting that
+  they were. Being constantly underestimated means you *thrive* in areas where people expect you to *not succeed*. Enter PhD. It's like someone made a degree
+  defined by society's expectations of me. It's a match made in heaven.
+- I think about how far I've come in spite of being constantly underestimated, and I'm proud. I'm proud of how far I've come, because I can say "you were right; it's hard, but I
  did it anyway" and laugh. I have been able to change a few minds. I'm still underestimated, but *some* are now wary of their preconceived judgments.
 - Still, I'm optimistic. I'm spending the break learning more about things I don't want to talk about, because I expect when I do, that people will
  find a way to tell me that "it's hard", and that I shouldn't be doing it. But I'll do it anyways, because it makes me happy, and I'm doing it for myself.
