@@ -12,7 +12,8 @@
   It was toying with Wireshark because there was an [online IEEE course in 2015](https://www.designnews.com/cec-archive/cec-semester-eight-2015/developing-testing-and-troubleshooting-ipv4-and-ipv6-using) with about 10 of us in the middle of the day that just sounded
   fun and interesting so I signed up and then found myself taking enough of the classes to earn a certificate. My first IEEE certificate.
   My earliest memories growing up were of working together with my brother trying to figure out [Chip's Challenge](https://en.wikipedia.org/wiki/Chip%27s_Challenge), when he said "you know, you have good
-  logic skills". 
+  logic skills". Or my friend inviting me to see him do [Matchmoving](https://en.wikipedia.org/wiki/Match_moving) work until he ran out,
+  and turning to me and saying "you know, you'd probably make a good programmer" (I'm still terrible and learning, but I enjoy it). 
   I glanced and saw an A+. I was overjoyed.
 - The memories came flooding back. I was sitting in a car with an individual, and reluctantly mentioned that I was taking
   workshops at my local hackerspace with an Arduino, learning Radare and about things like Haskell at Meetups. What I got 
