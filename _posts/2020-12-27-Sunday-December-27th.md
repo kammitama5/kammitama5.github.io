@@ -25,6 +25,11 @@
   around at the final rounds and seeing no one who looked like me, or in the accepted cohorts at no one who looked like me,
   was also a constant reminder. I didn't fit in, and I wouldn't be expected to make it through. It was probably a fluke that I got
   this far anyways. Just feel good about having gotten this far.
+- I've gotten used to standing at booths, even in a tech hoodie (it can even say Google on it) and being ignored. I am just a recruiter, most likely.
+  I remember at the last one held by my school, one recruiter at a company didn't even give me the time of day (the gentleman at the booth didn't want to speak
+  with me, but certainly pre-occupied himself with Bachelor's students dressed in shirts and ties, with less populated resumes); he simply assumed that I was not 
+  qualified, so I never bothered to send them my resume, even though they had, when I first moved to the state, somehow found my phone number and flat
+  out asked me based on my experience if I "wanted a job".
   
 ## Why am I paying attention to them?
 - At some point, through the tears, I kept going. I still don't know why. Maybe in spite of all that nonsense, it was still
