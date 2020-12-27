@@ -44,12 +44,15 @@
   and they were given opportunities to learn and wire things before I did. But that wouldn't stop me from learning. That wouldn't stop my curiosity.
 - At my job before that, I would spend the hour or two before heading over to my job reading and learning the resistor codes from
   a book. It was a book on Architectural lighting, and about codes. Later, I picked up a book on Automotive Lighting, and learned 
-  about the CIE Chromaticity scale and types of lights and the chemistry of how they worked. The CIE scale made sense to me because
+  about the [CIE Chromaticity scale](https://en.wikipedia.org/wiki/CIE_1931_color_space) and types of lights and the chemistry of how they worked. The CIE scale made sense to me because
   of my high school Physics classes, where we memorized the various band widths for frequencies of waves (and therefore velocities).
 - Even before that, I took classes in high school in Physics, Mathematics, Chemistry, Biology and Additional Mathematics for 16 years.
   I took classes in Physics, Mathematics and Art for 18. In college, I found myself fixing equipment and having a knack for it, to the 
   point that most persons wanted me on their crew to repair things when dimmers wouldn't quite work. One of the directors, on a student
   film set, said "okay, no one can touch this dimmer besides her."
+- Still, I had gotten my first job because of my ability; they hadn't been able to actually find someone who claimed they knew how to use
+  a particular piece of tech that I knew with my eyes closed. I got a call that afternoon asking when I could start. It was my first experience that people (not me) usually lie a lot, and they expected not to be caught. I didn't have that benefit. Still, on the surface, presumed never technical enough at technical events. Being asked if they could "verify with my manager" that what I said, was in fact true. At my first job, at my second job.
+  At my forever job, and at the job that doesn't exist yet. What about at a company that I build? Who will they ask?
   
 ## And yet
 - Still, it hasn't been enough. People who do a fraction of the work are assumed to have more ability. They are not questioned. 
