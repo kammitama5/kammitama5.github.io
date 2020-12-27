@@ -75,9 +75,12 @@
 - I am not solely responsible for changing the minds of these people, and how they inherently interpet, with implicit bias, the inherent skills,
   or lack thereof, of people who look like me. But I have learned to try to be fair through my interactions, to give people the benefit of the doubt
   as much as I can. And to build people up, to give them confidence and the tools to accomplish things, when I can teach them. I am hopeful that
-  more people (especially in tech, which is a lot more meritocratic than many other industries I've happened to be a part of) will, too.
+  more people (especially in tech, which is a lot more meritocratic than many other industries I've happened to be a part of) will, too. 
+  In fact, I think it's one of the best industries for underdogs; people who are assumed to statistically never succeed, who aren't, upon first glance,
+  taken to be anything worth considering at all. You climb the mountain over and over, starting at the bottom each time, while being told "it's impossible".
+  I like that. And when you fail, especially as an underdog, you're used to picking yourself up, dusting yourself off, and trying again. 
 - I think about how far I've come in spite of that, and I'm proud. I'm proud of how far I've come, because I can say "you were right; it's hard, but I
- did it anyway" and laugh. I have been able to change a few minds.
+ did it anyway" and laugh. I have been able to change a few minds. I'm still underestimated, but *some* are now wary.
 - Still, I'm optimistic. I'm spending the break learning more about things I don't want to talk about, because I expect when I do, that people will
  find a way to tell me that "it's hard", and that I shouldn't be doing it. But I'll do it anyways, because it makes me happy, and I'm doing it for myself.
 
