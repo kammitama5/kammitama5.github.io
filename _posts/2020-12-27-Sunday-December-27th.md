@@ -74,7 +74,17 @@
 ## Conversations
 - My dad says that having people who believe in you, and the expectation and entitlement that you'll always succeed, versus having the resilience to 
   succeed in spite of everyone thinking you won't, are both different experiences. The latter, he says, is like jumping over a canyon. Not everyone 
-  can do it. I'm built like that, and I've done it over and over again throughout my life. 
+  can do it. I'm built like that, and I've done it over and over again throughout my life.
+- Sometimes people ask me how it was "going into a very technical area". This question often confuses me. You see, before college I had never shot
+  a frame of film. I climbed to the top of my undergraduate class without having *any* experience besides having worked on local crews in my home country for a year
+  and a half (mostly as a production assistant and Assistant lighting designer). Before that, I was a science student who also did an extra subject; Art.
+  I have years and years of Mathematics as a foundation (although I'm quite rusty). So switching back (even though it was after several years) wasn't
+  very difficult. Unlike many of my other peers in filmmaking, I was on the technical side, anyways (fixing electronics, assembling stuff) throughout. 
+  So it was a pretty smooth transition. I was able to bring both my creativity in thinking about how tech could be *used* and my high school background.
+  It's also quite bizarre that out of all the persons people assume "couldn't make it" it would have been myself, when several of my peers never had 
+  my high school background and didn't take 6 or 7 Maths classes back to back. Bias is a heck of a thing. I'd say that in fact, many immigrants come
+  in with a strong technical background; the level of Mathematics and science in these countries is often much more rigorous than in the US at the high
+  school level anyways. In my high school, everyone had to take a science.
 - I've been part of this reading group where we read some work and conversations from Octavia Butler. In one piece, called "Positive Obsession",
   she asks questions about the use of literature, and Science fiction, to Black people. What is the use of reimagining yourself outside of limits
   within which other people have set for you? It's an important question to ask. How can you carve out a space for yourself to exist within which
