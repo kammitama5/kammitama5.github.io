@@ -86,7 +86,7 @@
   in with a strong technical background; the level of Mathematics and science in these countries is often much more rigorous than in the US at the high
   school level anyways. In my high school, everyone had to take a science. 
 - Although I'm not as great as say, someone who spent all their time since the age of 10 coding (those people should be retired by now anyways lol) and I've always been *slow* (I'm definitely on the more deliberate side and care about correctness so I am not running to companies that are "move fast, break things"), it confuses me that the benefit of the doubt of success is given to people who don't look like me
-  who don't even have a technical foundation. That is clear bias, based on an expectation that based on what someone looks like, it's easier for them to "pick up a thing", even when all the information seems to point to otherwise (For all implies...). Fwiw most of these people, even when given (multiple) chances such as these, have failed. 
+  who don't even have a technical foundation. That is clear bias, based on an expectation that based on what someone looks like, it's easier for them to "pick up a thing", even when all the information seems to point to otherwise (For all implies...). Fwiw most of these people, even when given (multiple) chances such as these, have failed. Throughout my career, these are the people who have failed upwards (they're not very good at "the thing", but we hired them so). They often end up stuck in their own mediocrity.
   
  ## Why Unfair advantage leads to failure
 - I think that this is twofold: a person sets up an expectation based on entitlement, so there is less desire to put in the work, and the person already comes 
