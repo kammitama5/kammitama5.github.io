@@ -97,7 +97,8 @@
   the opportunities, even more awesome.
 - Sidenote: on a hiring standpoint, I'd be incredibly intrigued to learn about what motivates them, how they got there, and the kind of perspectives that they
   can bring to a team, which I personally think would be much more valuable long-term (ie making space for that) than "this person looks like us so they'll probably pick up the thing, even though they haven't done the work and they lack the qualifications". Then again, I'm generally of the opinion that people
-  *should* hire for what a person brings to the team rather than just for the laziness of familiarity (ie. you remind me of myself).
+  *should* hire for what a person brings to the team rather than just for the laziness of familiarity (ie. you remind me of myself). Hiring for familiarity
+  leads to incestuous, nepotistic cultures, which leads to mediocrity (which also tends to have a side-effect of making those with talent and ability leaving).
 - I recently mentored someone from another country who lives in the US, who
   just completed a bootcamp. She was able to find a gig pretty quickly, but even without that, she already had strong logical thinking and analytical
   skills. She's fantastic and very talented and is the kind of person who can succeed in whatever capacity she chooses; she just happened to choose
