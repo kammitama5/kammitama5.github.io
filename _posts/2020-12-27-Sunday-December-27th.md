@@ -95,6 +95,8 @@
   Whereas someone who *doesn't* look like your expectation but is in the pool and seems to be doing well regardless is *more likely* to have overcome significant hurdles, 
   meaning that they have statistically might be *more capable* than your baseline metrics are able to measure. In other words, they might become, if given access
   the opportunities, even more awesome.
+- Sidenote: on a hiring standpoint, I'd be incredibly intrigued to learn about what motivates them, how they got there, and the kind of perspectives that they
+  can bring to a team, which I personally think would be much more valuable long-term (ie making space for that) than "this person looks like us so they'll probably pick up the thing, even though they haven't done the work and they lack the qualifications".
 - I recently mentored someone from another country who lives in the US, who
   just completed a bootcamp. She was able to find a gig pretty quickly, but even without that, she already had strong logical thinking and analytical
   skills. She's fantastic and very talented and is the kind of person who can succeed in whatever capacity she chooses; she just happened to choose
