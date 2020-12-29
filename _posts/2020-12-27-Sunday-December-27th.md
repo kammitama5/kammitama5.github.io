@@ -84,7 +84,10 @@
   It's also quite bizarre that out of all the persons people assume "couldn't make it" it would have been myself, when several of my peers never had 
   my high school background and didn't take 6 or 7 Maths classes back to back. Bias is a heck of a thing. I'd say that in fact, many immigrants come
   in with a strong technical background; the level of Mathematics and science in these countries is often much more rigorous than in the US at the high
-  school level anyways. In my high school, everyone had to take a science.
+  school level anyways. In my high school, everyone had to take a science. I recently mentored someone from another country who lives in the US, who
+  just completed a bootcamp. She was able to find a gig pretty quickly, but even without that, she already had strong logical thinking and analytical
+  skills. She's fantastic and very talented and is the kind of person who can succeed in whatever capacity she chooses; she just happened to choose
+  another field before coding, but she always had these strong skills. Woe betide the person who underestimates her!
 - I've been part of this reading group where we read some work and conversations from Octavia Butler. In one piece, called "Positive Obsession",
   she asks questions about the use of literature, and Science fiction, to Black people. What is the use of reimagining yourself outside of limits
   within which other people have set for you? It's an important question to ask. How can you carve out a space for yourself to exist within which
