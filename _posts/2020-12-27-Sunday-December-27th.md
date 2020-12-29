@@ -87,9 +87,14 @@
   school level anyways. In my high school, everyone had to take a science. 
 - Although I'm not as great as say, someone who spent all their time since the age of 10 coding (those people should be retired by now anyways lol) and I've always been *slow* (I'm definitely on the more deliberate side and care about correctness so I am not running to companies that are "move fast, break things"), it confuses me that the benefit of the doubt of success is given to people who don't look like me
   who don't even have a technical foundation. That is clear bias, based on an expectation that based on what someone looks like, it's easier for them to "pick up a thing", even when all the information seems to point to otherwise (For all implies...). Fwiw most of these people, even when given (multiple) chances such as these, have failed. 
-  I think that this is twofold: a person sets up an expectation based on entitlement, so there is less desire to put in the work, and the person already comes 
+  
+ ## Why Unfair advantages leads to failure (the un-Affirmative action version)
+- I think that this is twofold: a person sets up an expectation based on entitlement, so there is less desire to put in the work, and the person already comes 
   in with a lack of a foundation, so they are already at a disadvantage. So in many ways, bias aside, you're setting them up to fail. You'd be better off giving
   *them* the lower expectation and the *oppoortunity* to prove themselves *if* they put in the work imo. That's how it should work.
+  Someone who *doesn't* look like your expectation but is in the pool and seems to be doing well is *more likely* to have overcome significant hurdles, 
+  meaning that they have statistically might be *more capable* than your baseline metrics are able to measure. In other words, they might become, if given access
+  the opportunities, even more awesome.
 - I recently mentored someone from another country who lives in the US, who
   just completed a bootcamp. She was able to find a gig pretty quickly, but even without that, she already had strong logical thinking and analytical
   skills. She's fantastic and very talented and is the kind of person who can succeed in whatever capacity she chooses; she just happened to choose
