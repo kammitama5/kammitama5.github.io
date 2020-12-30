@@ -93,7 +93,7 @@
   in with a lack of a foundation, so they are already at a disadvantage. So in many ways, bias aside, you're setting them up to fail. You'd be better off giving
   *them* the lower expectation and the *oppoortunity* to prove themselves *if* they put in the work imo. That's how it should work.
   Whereas someone who *doesn't* look like your expectation but is in the pool and seems to be doing well regardless is *more likely* to have overcome significant hurdles, 
-  meaning that they have statistically might be *more capable* than your baseline metrics are able to measure. In other words, they might become, if given access
+  meaning that they statistically might be *more capable* than your baseline metrics are able to measure. In other words, they might become, if given access
   the opportunities, even more awesome.
 - Sidenote: on a hiring standpoint, I'd be incredibly intrigued to learn about what motivates them, how they got there, and the kind of perspectives that they
   can bring to a team, which I personally think would be much more valuable long-term (ie making space for that) than "this person looks like us so they'll probably pick up the thing, even though they haven't done the work and they lack the qualifications". Then again, I'm generally of the opinion that people
