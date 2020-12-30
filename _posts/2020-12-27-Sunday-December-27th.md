@@ -49,7 +49,7 @@
   disappointing in multi-dimensions (a subspace of disappointment! Yay!).
 - I was curious about welding and decided to take night classes in it, and classes at a local Makerspace, because I realized that
   the place in which I worked would never teach me. Mediocre, incompetent guys would walk in, who fumbled through using a multimeter 
-  (they couldn't even figure out how to turn the setting from Amps to Volts),
+  (they couldn't even figure out how to turn the setting from Amps to Volts; this is particularly nefarious when working with electricity, because the person then becomes a liability, as you must now look out for *their* safety *and yours* when working together!),
   and they were given opportunities to learn and wire things before I did. But that wouldn't stop me from learning. That wouldn't stop my curiosity.
 - At my job before that, I would spend the hour or two before heading over to my job reading and learning the resistor codes from
   a book. It was a book on Architectural lighting, and about codes. Later, I picked up a book on Automotive Lighting, and learned 
