@@ -17,7 +17,7 @@
 - Worked on an NSF proposal with some mathematicians (Sage Maths)
 - Proposed direction of my dissertation (and presented via MD4SG group)
 - Completed a summer internship (Adsk)
-- Secured for summer internship (Msft)
+- Secured for summer internship (Msft). I was fortunate to only do 2 interviews this year and to secure offers from both companies, but one got back to me faster :)
 - Explored the world of entrepreneurship through the Harvard Franklin Fellowship (1 of 12 persons chosen) and wrote about my experiences. 
 - Wrote and reviewed a lot through Graduate Writing Center at my school, which improved my reviewing skills across disciplines.
 - Was recruited for both a Creative and a Technical role simultaneously at the same company (wild!) 
