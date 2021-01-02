@@ -67,7 +67,7 @@
   were on set. You would have to suck it up and cry *at the end of the day* if you wanted to feel upset about it. They would laugh if you showed it; it 
   was a sign of weakness and that weren't cut out for the job if you showed it publicly. 
   I did a bit of work with [Nuke](https://en.wikipedia.org/wiki/Nuke_(software)) as well. By the time I got into the simulators for things like Virtuoso
-  or [GrandMA](https://www.youtube.com/watch?v=uIT_EQ31SNo) and Previz plug-ins with Vectorworks / projection mapping, I'd like to think that I was pretty much hooked on CS. I wonder how many lighting board operators got into
+  or [GrandMA](https://www.youtube.com/watch?v=uIT_EQ31SNo) and Previz plug-ins with Vectorworks (eg [ESP Vision](https://www.youtube.com/watch?v=jMpOzznAEfY)) / projection mapping, I'd like to think that I was pretty much hooked on CS. I wonder how many lighting board operators got into
   scripting because that path is kind of a gateway drug.
 - Still, I had gotten my first job because of my ability; they hadn't been able to actually find someone who claimed they knew how to use
   a particular piece of tech that I knew with my eyes closed. I got a call that afternoon asking when I could start. It was my first experience that people (not me) usually lie a lot, and they expected not to be caught. I didn't have that benefit. Still, on the surface, presumed never technical enough at technical events. Being asked if they could "verify with my manager" that what I said, was in fact true. At my first job, at my second job.
