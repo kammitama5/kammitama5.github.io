@@ -8,7 +8,7 @@
 ## In no special order
 - Presented research at 3 Academic, peer-reviewed conference workshops (woo! I was aiming for 1 at the beginning of the year!)
 - Invited to speak for 30 events (that's about 1 every 2 weeks!)
-- Reviewer for.6 Academic conferences and asked to be a reviewer and Member of the Board for an Academic journal
+- Reviewer for 6 Academic conferences and asked to be a reviewer and Member of the Board for an Academic journal
 - Reviewed for 2 non-academic organizations, and wrote recommendation letters
 - Organizer & Volunteer for a number of conferences (close to 7: this year I was involved in:  AAAI, ACL, ICML, EMNLP,  EC’20, ICLR, NeurIPS. I was also asked
   to speak on a panel for FaaCT but I couldn't get my visa together in time to fly to Spain)
