@@ -21,7 +21,7 @@
 - Explored the world of entrepreneurship through the Harvard Franklin Fellowship (1 of 12 persons chosen) and wrote about my experiences. 
 - Wrote and reviewed a lot through Graduate Writing Center at my school, which improved my reviewing skills across disciplines.
 - Was recruited for both a Creative and a Technical role simultaneously at the same company (wild!) 
-  and presented both an artwork and a scientific paper at a peer-reviewed Academic conference
+  and presented both an artwork and a scientific paper at a peer-reviewed Academic conference (NeurIPS)
 - Did Code 2040 Fellowship, which I’ve always wanted to do!
 - Participated and joined the SFPC community, which I've always wanted to do!
 - Joined a reading and writing club (to continue to write consistently and with discipline)! 
