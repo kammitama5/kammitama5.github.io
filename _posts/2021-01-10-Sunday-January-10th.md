@@ -11,7 +11,7 @@
 ## Why was I there?
 - I think we can't just make technology without thinking about the people that are impacted by such technology, and so systems should be built 
   bearing in mind the people (especially with domain expertise) who use them.
-- So surprisingly, I applied, and got in (as one of 30 persons chosen). To get in I had to submit papers I had currently worked on (sample of published work, etc). It's interesting
+- So surprisingly, I applied, and got in (as one of 30 persons chosen). To get in I had to submit my CV, papers I had currently worked on (sample of published work, etc) and what I'm currently working on (proposal). It's interesting
   because depending on your field, you probably might publish more in journals versus in conferences or conference workshops. But they were pretty
   flexible either way. 
 - Interestingly, the person I did a [conlang](https://kammitama5.github.io/Saturday-December-12th/) class with completed his PhD in Linguistics (he 
