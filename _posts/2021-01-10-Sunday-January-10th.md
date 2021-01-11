@@ -6,7 +6,7 @@
 - In a strange twist, I think I was the *only* computer science PhD person there, but we had a fair share of persons in poli sci, sociology, linguistics,
   and other such interesting fields. And I got a lot of insight from the people and topics covered.
 - You can scroll down the list and see a photo of me [here](https://sicss.io/2020/tucson/people). I didn't know that it would be non-CS people, so 
-  when asked for a bio, I just said my specialization instead of my major, which is funny. Oh well, live and learn, I guess.
+  when asked for a bio, I just said my specialization instead of my major, which is funny. Oops. Oh well, live and learn, I guess.
   
 ## Why was I there?
 - I think we can't just make technology without thinking about the people that are impacted by such technology, and so systems should be built 
