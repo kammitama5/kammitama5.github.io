@@ -62,7 +62,9 @@
   gets off on ML and tries to apply it to everything under the sun. But that's just me.
 - (Coincidentally, this *isn't* just me. I attended BUDS at NeurIPS 2019, which is a series of mentorship roundtables, and [Dr. Bouman](https://en.wikipedia.org/wiki/Katie_Bouman) expressed similar sentiments. That is, that it is worth staying in one space long enough to understand it.
   Perhaps the people who do these kinds of breakthroughs have done precisely that; they've stayed with a problem long enough to chip away at it, understanding 
-  "the domain under the ML", if we can put it that way. 
+  "the domain under the ML", if we can put it that way.
+- One of the things that is fundamentally interesting about (crypto / secure comp) + ML (or rather, that intersection) is that the former is about precision,
+  and the latter is about approximation. So they seem almost incompatible. Anyways, that's all I have to say on that.
 
 ## And that's it.
   
