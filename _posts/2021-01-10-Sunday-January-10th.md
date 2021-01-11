@@ -31,7 +31,7 @@
 - I had a lot of fun in the "Wonder" rooms, which were these spatial chat rooms in which we were able to float around and chat with various people.
   I also got really great advice about where to find data for a project I'm working on. Most of all, the group seemed non-judgmental. I've experienced
   similar sentiments in the Maths and Linguistics graduate communities. It seems to be a part of their culture (well, the tiny bit that I've seen),
-  as well.
+  as well. Once again, maybe part of this I've seen in CS are a result of the influence of, and dependency on, corporate funding. It's a metric by which we can begin to "look down on" other labs that don't have, etc. So the focus is taken away from "what are you working on, and why is that important?".
 - I haven't used R in years, but it was wasn't bad to get back into. I like that the community really is a stats-one. It's really a language for
   statisticians but I had no idea that since I had picked it up, people were using it to nlp and all sorts of stuff like that. I remember that 
   one guy in LA who even made a logo in R with R code and printed it onto a tshirt lol. I also still subscribe (and have been for years) [R-bloggers](https://www.r-bloggers.com/),
