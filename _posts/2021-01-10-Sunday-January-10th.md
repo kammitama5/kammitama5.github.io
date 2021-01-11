@@ -60,6 +60,9 @@
   But that's a discussion for another day. A lot of these fields have incredibly rich backgrounds that are incredibly interesting, even though they do need
   more people who really understand the domain and can apply ML techniques. I personally think that's the better way to go, rather than the person who just 
   gets off on ML and tries to apply it to everything under the sun. But that's just me.
+- (Coincidentally, this *isn't* just me. I attended BUDS at NeurIPS 2019, which is a series of mentorship roundtables, and [Dr. Bouman](https://en.wikipedia.org/wiki/Katie_Bouman) expressed similar sentiments. That is, that it is worth staying in one space long enough to understand it.
+  Perhaps the people who do these kinds of breakthroughs have done precisely that; they've stayed with a problem long enough to chip away at it, understanding 
+  "the domain under the ML", if we can put it that way. 
 
 ## And that's it.
   
