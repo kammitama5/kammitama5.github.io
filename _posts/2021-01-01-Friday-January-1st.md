@@ -27,7 +27,7 @@
 - Joined a reading and writing club (to continue to write consistently and with discipline)! 
 - Participant in 3 industry PhD events (Adobe, Msft Research, Bloomberg) and invited to another for 2021 (Jane Street), where I will be presenting my research!
 - Mentored 2 persons; one is applying for grad school and presented their first, first-author paper at a conference, one got a job!
-- Reviewed resumes and GSoC applications; 2 persons got in to GSoC!
+- Reviewed resumes and GSoC applications; 2 persons got in to GSoC (both on Privacy-preserving ML)!
 
 ## Goals
 - I made a list of goals; I already have some long-term ones, but I'm on this Slack where we're doing it anyways, so why not? 
