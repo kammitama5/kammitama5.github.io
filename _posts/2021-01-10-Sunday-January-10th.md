@@ -17,6 +17,10 @@
 - Interestingly, the person I did a [conlang](https://kammitama5.github.io/Saturday-December-12th/) class with completed his PhD in Linguistics (he 
   works currently as a software engineer) at the same school, University of Arizona. Interesting. The person who taught our nlp course apparently
   is also a Haskeller, and even briefly spoke about Type Theory, which is funny. 
+- It also exposed me to some of my own biases with respect to access to information. I think in one of the socials with two other persons I was casually talking with, I found myself asking them why they didn't contact the company? In CS, this is something that we do and people listen to us,
+  because well, everyone wants to talk to CS people, so a lot of the time companies come to us, or even contact us saying that they heard we are currently working on a thing that they may be interested in. I realized that this wasn't as straight-forward for every major. It can probably create 
+  this bubble where people in CS (particularly in ML or data science) can think that the work they do is *more important*, but companies wanting to
+  pour money and give grants is a poor metric for this, based on the baseline that especially tech companies are already more interested in sponsoring and giving grants to CS research. Weird.
   
 ## So what was covered?
 - We had insightful speakers each day. I loved the sessions on web scraping, surveys, nlp, machine learning, and gis. I guess that's almost all
