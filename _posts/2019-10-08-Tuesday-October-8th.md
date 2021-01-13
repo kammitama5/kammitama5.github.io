@@ -181,7 +181,7 @@
 - Cryptography (259) (SP21)
 
 ## Kinda-sorta (Audit)
-- (Audit at Stanford) EE374 : Internet Scale Consensus in the Blockchain Era (SP21)
+- (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
 
 ## TODO (2020-21)
 - A Game Theory class (EC 138 or online) (SP21)
