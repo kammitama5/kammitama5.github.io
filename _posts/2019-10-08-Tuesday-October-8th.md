@@ -178,6 +178,10 @@
 ## Anticipated Classes (enrolled)
 - Research credits (491) (SP20)(FA20)(SP21)
 - Privacy: Law, Policy, & Design (196) (SP21)
+- Cryptography (259) (SP21)
+
+## Kinda-sorta (Audit)
+- (Audit at Stanford) EE374 : Internet Scale Consensus in the Blockchain Era (SP21)
 
 ## TODO (2020-21)
 - A Game Theory class (EC 138 or online) (SP21)
