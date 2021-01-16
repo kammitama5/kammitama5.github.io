@@ -10,7 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2021
-- more opportunities?
+- I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. I know, I'm shocked too! :)
 
 ## 2020
 
