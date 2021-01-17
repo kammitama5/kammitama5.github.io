@@ -11,7 +11,8 @@
   contribution and what you had to say! I would highly highly recommend attending!
 - I also attended the Jane Street PhD Symposium, and made friends with a bunch of PhDs! I cannot speak much about what we learned over the two days,
   but I can legimately say that Jane Street has brilliant employees. My impression is that persons there were also incredibly humble and intellectually
-  curious. Between M2L and Jane Street's PhD Symposium, I was in intellectual curiosity *heaven*.
+  curious. Between M2L and Jane Street's PhD Symposium, I was in intellectual curiosity *heaven*. I legitimately had moments this week where I met 
+  persons and thought "wow, what that person does is COOL!", and imagined what it might be to do work like that, too. It made me smile.
 - I attended a bit of Real World Crypto 2021 ([RWC](https://rwc.iacr.org/)), which was also very fun! This was also a great group! I spent this evening reading the Signal App paper,
   and the PrivateStats paper from the conference. 
 - I started my Stanford class, which I have been auditing since Monday. It's great, and it's on internet-scale consensus and blockchain. I had to miss
