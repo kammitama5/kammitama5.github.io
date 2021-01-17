@@ -18,7 +18,7 @@
 - I started my Stanford class, which I have been auditing since Monday. It's great, and it's on internet-scale consensus and blockchain. I had to miss
   the second class, but the instructor was pleased to hear a great bit of news I shared with him (and his TA) today.
 - I started my EsoLang and Ostromian Computing workshops, which are short workshops of three weeks long and six weeks long respectively.
-- Finally, I used Glimpse to reconnect with some persons from my school and to network, and got three great connections out of it. I found out that my 
+- Finally, I used [Glimpse](https://www.joinglimpse.com/) to reconnect with some persons from my school and to network, and got three great connections out of it. I found out that my 
   undergrad has a half arts half science major now, which I think in retrospect I might have done if it were available when I was attending. But somehow,
   I guess I was able to do it in a roundabout way, in the school of life, which is funny.
 
