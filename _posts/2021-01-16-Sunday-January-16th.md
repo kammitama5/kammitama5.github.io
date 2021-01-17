@@ -40,7 +40,7 @@
   from which I moved, who I had never met before, who had lived there as long as I had!
 - I found myself up at 2am thinking about my long bus rides home after 9pm, when the bus would show up every hour (and not always on time), and about a 
   conversation I had with another student with whom I would take bus-rides to downtown LA, through "Flood Town", as it was called, because it would supposedly always flood in that part of downtown LA. I remember he told me that he didn't know anyone in his immediate
-  circle who had been to college, and that he was struggling to believe that he could make it. And we were having a conversation, (in the middle of the persons
+  circle who had been to college, and that he was struggling to believe that he could make it (he wanted to be an electrical engineer). And we were having a conversation, (in the middle of the persons
   with large bags and those hoping to stay on the bus for as long as possible because they had no where else to go) why it was important for him to make it,
   to be the first. I wondered where he was now, and if he had continued to find it in himself to keep going. I hoped. And then I wondered why I was spending
   my time at 2am thinking about such things. About dreams and why we stopped pursuing them, or how we could find it within ourselves to keep going even
