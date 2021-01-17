@@ -44,7 +44,7 @@
   to be the first. I wondered where he was now, and if had continued to find it in himself to keep going. I hoped. And then I wondered why I was spending
   my time at 2am thinking about such things. About dreams and why we stopped pursuing them, or how we could find it within ourselves to keep going even
   when people around us, even those we loved, tried to take those dreams away from us. I hope my friend is still pursuing his, as I am still mine. Just
-  for this week, I held on to mine. 
+  for this week, I was thankful that I held on to mine. 
   
 ## And that's it
   
