@@ -10,7 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2021
-- I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. I know, I'm shocked too! :)
+- I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
 
 ## 2020
 
