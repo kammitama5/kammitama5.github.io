@@ -11,6 +11,8 @@
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
+- I got a grant to attend the USENIX Enigma Conference!
+
 
 ## 2020
 
