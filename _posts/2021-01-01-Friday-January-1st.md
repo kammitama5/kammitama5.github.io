@@ -6,7 +6,7 @@
   I also met a lot of people across disciplines, which was great. Looking back, I didn't think I thought I'd be able to achieve as much as I did!
 
 ## In no special order
-- Presented research at 3 Academic, peer-reviewed conference workshops (woo! I was aiming for 1 at the beginning of the year!)
+- Presented research at 3 Academic (two first author, one second), peer-reviewed conference workshops (woo! I was aiming for 1 at the beginning of the year!)
 - Invited to speak for 30 events (that's about 1 every 2 weeks!)
 - Reviewer for 6 Academic conferences and asked to be a reviewer and Member of the Board for an Academic journal
 - Reviewed for 2 non-academic organizations, and wrote recommendation letters
