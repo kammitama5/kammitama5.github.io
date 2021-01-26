@@ -51,7 +51,7 @@
 ## M2L Certificate
 - How cool! You get an awesome one for participating (and in my case, presenting a poster!)
 
-<img src="/images/m2l.png" width="500">
+<img src="/images/m2l.png" width="700">
   
 ## And that's it
   
