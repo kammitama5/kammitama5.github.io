@@ -47,5 +47,11 @@
   when people around us, even those we loved, tried to take those dreams away from us. I hope my friend is still pursuing his, as I am still mine. Just
   for this week, I was thankful that I held on to mine. 
   
+  
+## M2L Certificate
+- How cool! You get an awesome one for participating (and in my case, presenting a poster!)
+
+<img src="/images/m2l.png" width="500">
+  
 ## And that's it
   
