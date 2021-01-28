@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-- I'm a researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love machine learning, encryption, ethics and functional programming (I am at the intersection of the cryptography, programming languages and AI/ML/fairness communities, and I'm particularly fascinated by Neural Networks). Most recently, I've also become interested by Information Theory, courtesy of a class I'm currently taking on decentralized communication protocols.
+- I'm a researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love machine learning, encryption, ethics and functional programming (I am at the intersection of the cryptography, programming languages and AI/ML/fairness communities, and I'm particularly fascinated by Neural Networks). Most recently, I've also become interested by Information Theory, courtesy of a class I'm currently auditing on [decentralized communication protocols](http://web.stanford.edu/class/ee374/).
 - My precise focus can be described as Data Privacy (Differential Privacy) meets Fairness meets AI. In terms of Fairness,
   my focus draws from the technical aspects of computer science in Programming Languages (which has a rigid, provable method
   of what it means for something to work), and my critical film theory and art history (specifically, in Latin American political art), to question what it means for our data to be secure, what it means to encode trust, and what is ethical, considering margins of power that exist in the world.
