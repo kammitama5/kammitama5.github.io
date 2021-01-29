@@ -187,6 +187,7 @@
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
 
 ## TODO (2020-21)
+- An Information Theory Class
 - A Game Theory class (EC 138 or online) (SP21)
 - Deep Learning (SP22)
 - Reliability of Engineering Systems (FA21)
