@@ -52,6 +52,10 @@
 - How cool! You get an awesome one for participating (and in my case, presenting a poster!)
 
 <img src="/images/m2l.png" width="700">
+
+## Outstanding Poster certificate :)
+
+<img src="/images/m2loutstanding.png" width="700"> 
   
 ## And that's it
   
