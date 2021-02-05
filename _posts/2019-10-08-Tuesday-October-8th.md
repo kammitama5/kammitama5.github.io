@@ -14,6 +14,7 @@
 - I got a grant to attend the USENIX Enigma Conference!
 - I have been accepted to the 2020-2021 class of Google’s CS Research Mentorship Program (CSRMP)! 
 - I have been accepted to the 2021 CRA-WP Grad Cohort for Women, which will be held remotely.
+- I have been invited to be a reviewer for the Distributed and Private Machine Learning (DPML) workshop at ICLR 2021
 
 ## 2020
 
