@@ -189,6 +189,7 @@
 
 ## TODO (2020-21)
 - An Information Theory Class
+- Number Theory (SP22: 255)
 - A Game Theory class (EC 138 or online) (SP21)
 - Deep Learning (SP22)
 - Reliability of Engineering Systems (FA21)
