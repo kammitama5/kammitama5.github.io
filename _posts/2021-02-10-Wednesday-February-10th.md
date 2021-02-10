@@ -5,6 +5,8 @@
   around 11am. I take a mid-afternoon / mid-evening map and start it all over again!
 - I also got tired of being freaked out by people wanting to know what I was up to 24 / 7. My family is pretty private, and I'm also pretty private,
   so when it overwhelmingly becomes a situation where I'm crowded for information on what I'm up to, I'll retreat and just stay away from everything.
+- The lovely thing about quarantine (at least for me) is being able to disappear and do focused work, not having anyone know where you are (well, except
+  my advisor, because well, that's my boss lol). But it's been quite lovely!
   
   
 ## Recent Adventures
