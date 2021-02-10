@@ -31,7 +31,7 @@
 - Today I also had an hour-long chat with my Mathematics professor, and she is not only awesome, but also very supportive. She's also absolutely geeky and fun,
   and makes me laugh. I love her!
 - I think it's amazing and really cool that people can all use statistics but with different lenses. They think about analyzing data in different ways, and some
-  models are more common than others. Right now, I'm right at the intersection of encryption and statistics, and I'm really enjoying it. 
+  models are more common than others. Right now, I'm right at the intersection of encryption and statistics (statistics covering the fairness and privacy aspect), and I'm really enjoying it. 
   
 ## Thoughts
 - I have kind of laid low on recruitment for the past few weeks, even though I had still been getting opportunities. I started feeling like I didn't want to do
