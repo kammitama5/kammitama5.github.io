@@ -27,7 +27,7 @@
   But I hadn't gotten back into using R since the workshop via WICSS. I've been using quarantine to spend more time on it, and have been enjoying it. 
 - It's really refreshing because I'm really against any kind of gatekeeping with respect to learning, and I've felt that the whole departmental structure 
   can sometimes incentivize gatekeeping. So this is a breath of fresh air in comparison, and I find myself staying up late and chatting with a friend who is
-  also taking a stats course (who did his PhD in Anthropology).
+  also taking a stats course (who did his PhD in Anthropology, another discipline that has both a qualitative and quantitative component).
 - Today I also had an hour-long chat with my Mathematics professor, and she is not only awesome, but also very supportive. She's also absolutely geeky and fun,
   and makes me laugh. I love her!
 - I think it's amazing and really cool that people can all use statistics but with different lenses. They think about analyzing data in different ways, and some
