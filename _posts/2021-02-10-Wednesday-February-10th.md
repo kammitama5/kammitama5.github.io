@@ -42,6 +42,10 @@
   aren't committed and pretty deep into the process, you should let them know and not waste their time. So this is the first season I really just started saying
   no to people. More of a "Thanks, but maybe another time". I got a lot more exhausted by people trying to book back to back interviews and eventually just tapped
   out, which was a different experience and a little empowering. But I really just felt like it was pulling me away from research, and I really like the stuff I'm working on at the moment, so I just started saying no, this isn't worth it. It can wait.
+- I think that's because pre-grad school, I was coming from more of a space of scarcity. I would apply to *every* scholarship and *every* grant, because I thought
+  that I should do it, and maybe I'll get one. My PL mentor, Amal, is the first one to drill into my head that I didn't have to apply to all, and that being in 
+  grad school (especially for CS) means that now I can be picky. You should be picky about which ones 
+  are worth your time. She particularly said that most of those calls are for people already working on specific things related to that work, so you shouldn't just apply for it because someone made a call for papers or a grant; pick the ones that you are most likely to get. And considering all the other things I'm constantly juggling, that makes sense. So this year, I've been able to see more things pass through my inbox and just ignore them, or not respond to them at all. 
 - I also got more exposure this year to fields that weren't just tech. In the past, I'd get recruitment from other companies outside of tech, but to be honest,
   in California, it just feels different, because you're almost incentivized to go with the flow and aim for tech (generally; I understand that some people don't
   want to do this and aim for other areas like entertainment, insurance, gaming, aerospace, etc). So I've been considering that in terms of where I'd like to look
