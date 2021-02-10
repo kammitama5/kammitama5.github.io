@@ -18,6 +18,7 @@
 - Paperwork has also started coming in for my summer internship. As usual, large companies usually mean drowning in paperwork, but I've been quite impressed
   so far by both the culture and people I've met, and the persons helping us through the process. I'm convinced that companies that make things or deal with physical constraints (aka hardware, distributed systems)
   are more my thing, both in terms of the type of work and the general culture. I've also been hanging out with a lot of gearheads, electronics people, cryptocurrency people (as in, they develop or do research in that field and are super enthusiastic about that sort of stuff) and graphics programmers on Discord. But maybe a company that just does software as a service or something will convince me otherwise. I'm open.
+- I also attended a WiML social for organizers in which some of the members who are going on the job market gave research job talks. It's such a great idea and I learned a lot. We were allowed to give feedback (either anonymously or with our names) in a document, and also give feedback to the person directly orally, too, if we wanted. It's such a great idea to give PhD students as much opportunity to give presentations and speak in front of different types of audiences. A talk one gives for say, persons in high school is very different from say, a dissertation committee. 
 
 ## Finally
 - I started hanging out with a bunch of West Coast people who use and are learning R, and it's been fantastic. The fields range from Physics to Biostatistics
@@ -32,7 +33,6 @@
   also taking a stats course (who did his PhD in Anthropology, another discipline that has both a qualitative and quantitative component).
 - Today I also had an hour-long chat with my Mathematics professor, and she is not only awesome, but also very supportive. She's also absolutely geeky and fun,
   and makes me laugh. I love her!
-- I also attended a WiML social for organizers in which some of the members who are going on the job market gave research job talks. It's such a great idea and I learned a lot. We were allowed to give feedback (either anonymously or with our names) in a document, and also give feedback to the person directly orally, too, if we wanted. It's such a great idea to give PhD students as much opportunity to give presentations and speak in front of different types of audiences. A talk one gives for say, persons in high school is very different from say, a dissertation committee. 
 - I think it's amazing and really cool that people can all use statistics but with different lenses. They think about analyzing data in different ways, and some
   models are more common than others. Right now, I'm right at the intersection of encryption and statistics (statistics covering the fairness and privacy aspect), and I'm really enjoying it. People keep telling me that it's a very interesting intersection, but it seems pretty obvious to me. Maybe the assumed model for thinking of it and how I think of it are different, or something?
   
