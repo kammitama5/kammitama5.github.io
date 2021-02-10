@@ -14,7 +14,7 @@
 - I started my Cryptography Maths class and my Privacy Law class. Cryptography is awesome and now I think I want to continue with another class after
   this one. The teacher is also awesome. 
 - I'm also auditing a class at Stanford, and that one is awesome, too. It's on blockchain protocols and internet scale consensus.
-- Finally, I'm doing a mentorship with another student and a Google Research mentor. I heard from my mentor today. She works at [Jigsaw](https://jigsaw.google.com/). We will all meet later this week.
+- Finally, I'm doing a mentorship with another student (who is finishing up her PhD at another East Coast school) and a Google Research mentor (also based on the East Coast). I heard from my mentor today. She works at [Jigsaw](https://jigsaw.google.com/). We will all meet later this week.
 - Paperwork has also started coming in for my summer internship. As usual, large companies usually mean drowning in paperwork, but I've been quite impressed
   so far by both the culture and people I've met, and the persons helping us through the process. I'm convinced that companies that make things or deal with physical constraints (aka hardware, distributed systems)
   are more my thing, both in terms of the type of work and the general culture. But maybe a company that just does software as a service or something will convince me otherwise. I'm open.
