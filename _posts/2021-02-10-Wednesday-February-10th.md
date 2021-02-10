@@ -22,7 +22,7 @@
 ## Finally
 - I started hanging out with a bunch of West Coast people who use and are learning R, and it's been fantastic. The fields range from Physics to Biostatistics
   to Mathematics and everything in between. Most are either in PhD programmes or have completed and are in Post-docs, or working as statisticians. The quality
-  is excellent, and as it turns out, one of the organizers went to my school for his PhD (which was not originally in stats, but that's what he does anyways).
+  is excellent, and as it turns out, one of the organizers went to my school for his PhD (which was not originally in stats, but that's what he does anyways; he's an pretty experienced and knowledgeable Principal Data Scientist).
 - It's really refreshing because I'm really against any kind of gatekeeping with respect to learning, and I've felt that the whole departmental structure 
   can sometimes incentivize gatekeeping. So this is a breath of fresh air in comparison, and I find myself staying up late and chatting with a friend who is
   also taking a stats course (who did his PhD in Anthropology).
