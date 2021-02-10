@@ -17,7 +17,7 @@
 - Finally, I'm doing a mentorship with another student (who is finishing up her PhD at another East Coast school) and a Google Research mentor (also based on the East Coast). I heard from my mentor today. She works at [Jigsaw](https://jigsaw.google.com/). We will all meet later this week.
 - Paperwork has also started coming in for my summer internship. As usual, large companies usually mean drowning in paperwork, but I've been quite impressed
   so far by both the culture and people I've met, and the persons helping us through the process. I'm convinced that companies that make things or deal with physical constraints (aka hardware, distributed systems)
-  are more my thing, both in terms of the type of work and the general culture. But maybe a company that just does software as a service or something will convince me otherwise. I'm open.
+  are more my thing, both in terms of the type of work and the general culture. I've also been hanging out with a lot of gearheads, electronics people, cryptocurrency people (as in, they develop or do research in that field and are super enthusiastic about that sort of stuff) and graphics programmers on Discord. But maybe a company that just does software as a service or something will convince me otherwise. I'm open.
 
 ## Finally
 - I started hanging out with a bunch of West Coast people who use and are learning R, and it's been fantastic. The fields range from Physics to Biostatistics
