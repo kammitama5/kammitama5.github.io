@@ -22,7 +22,7 @@
 ## Finally
 - I started hanging out with a bunch of West Coast people who use and are learning R, and it's been fantastic. The fields range from Physics to Biostatistics
   to Mathematics and everything in between. Most are either in PhD programmes or have completed and are in Post-docs, or working as statisticians. The quality
-  is excellent (our most recent workshop was headed by a tenured professor at a California University with a strong statistics programme), and as it turns out, one of the organizers went to my school for his PhD (which was not originally in stats, but that's what he does anyways; he's a pretty experienced and knowledgeable Principal Data Scientist).
+  is excellent (our most recent workshop was headed by a tenured Stats professor at a California University with a strong statistics programme), and as it turns out, one of the organizers went to my school for his PhD (which was not originally in stats, but that's what he does anyways; he's a pretty experienced and knowledgeable Principal Data Scientist).
 - To be clear, the first language I ever dabbled in was R (my dad likes open source and has a stats background), and I used to hang around a similar group when I was in LA, too. So it's been nice to reconnect.
   But I hadn't gotten back into using R since the workshop via WICSS. I've been using quarantine to spend more time on it, and have been enjoying it. 
 - It's really refreshing because I'm really against any kind of gatekeeping with respect to learning, and I've felt that the whole departmental structure 
