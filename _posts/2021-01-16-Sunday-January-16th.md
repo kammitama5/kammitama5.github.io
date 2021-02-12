@@ -56,6 +56,11 @@
 ## Outstanding Poster certificate :)
 
 <img src="/images/m2loutstanding.png" width="700"> 
+
+## JSC Swag
+- Thank you so much! I enjoyed meeting all the incredibly smart, collaborative and humble people from your company :)
+<img src="/images/jsc.png" width="500">
+
   
 ## And that's it
   
