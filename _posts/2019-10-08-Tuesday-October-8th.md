@@ -191,8 +191,8 @@
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
 
 ## TODO (2020-21)
-- An Information Theory Class (wip)
-- An Estimation Theory class (might have to find on my own)
+- An Information Theory Class (CS 395) (FA 21)
+- An Estimation Theory class (EE 371) (SP 22)
 - Number Theory (SP22: 255)
 - A Game Theory class (EC 138 or online) (SP21)
 - Deep Learning (SP22)
