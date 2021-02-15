@@ -180,17 +180,19 @@
 - Machine Learning (in Python) (254) (SP20)
 - Research credits (491) (SP20)(FA20)
 - Secure Distributed Computation (395) (FA20)
+- Research credits (491) (SP20)(FA20)(SP21) (in progress)
+- Privacy: Law, Policy, & Design (196) (SP21) (in progress)
+- Cryptography (259) (SP21) (in progress)
 
 ## Anticipated Classes (enrolled)
-- Research credits (491) (SP20)(FA20)(SP21)
-- Privacy: Law, Policy, & Design (196) (SP21)
-- Cryptography (259) (SP21)
+- Information Theory (CS 395)
 
 ## Kinda-sorta (Audit)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
 
 ## TODO (2020-21)
-- An Information Theory Class
+- An Information Theory Class (wip)
+- An Estimation Theory class (might have to find on my own)
 - Number Theory (SP22: 255)
 - A Game Theory class (EC 138 or online) (SP21)
 - Deep Learning (SP22)
