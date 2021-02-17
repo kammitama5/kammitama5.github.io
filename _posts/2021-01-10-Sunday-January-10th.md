@@ -65,6 +65,9 @@
   "the domain under the ML", if we can put it that way.
 - One of the things that is fundamentally interesting about (crypto / secure comp) + ML (or rather, that intersection) is that the former is about precision,
   and the latter is about approximation. So they seem almost incompatible. Anyways, that's all I have to say on that.
+  
+## A thank you!!
+<img src="/images/wicsspostcard.png" width="500">
 
 ## And that's it.
   
