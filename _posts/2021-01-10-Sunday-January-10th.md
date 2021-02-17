@@ -67,7 +67,9 @@
   and the latter is about approximation. So they seem almost incompatible. Anyways, that's all I have to say on that.
   
 ## A thank you!!
-<img src="/images/wicsspostcard.png" width="500">
+<img src="/images/wicsspostcard.png" width="400">
+
+- It reads "Thank you for participating in WICSS" :)
 
 ## And that's it.
   
