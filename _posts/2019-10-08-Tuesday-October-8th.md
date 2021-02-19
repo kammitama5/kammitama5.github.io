@@ -17,6 +17,7 @@
 - I have been invited to be a reviewer for the Distributed and Private Machine Learning (DPML) workshop at ICLR 2021
 - I have been accepted to participate in the FAccT Doctoral Consortium 2021!
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2021
+- I have been invited to be a reviewier for Tapia 2021
 
 ## 2020
 
