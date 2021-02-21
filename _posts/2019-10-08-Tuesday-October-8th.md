@@ -18,6 +18,7 @@
 - I have been accepted to participate in the FAccT Doctoral Consortium 2021!
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2021
 - I have been invited to be a reviewier for Tapia 2021
+- A quote from myself has been featured in the Black Girls CODE the Future Coloring Book! I am truly honoured! :)
 
 ## 2020
 
