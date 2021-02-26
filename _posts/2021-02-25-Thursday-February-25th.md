@@ -39,7 +39,7 @@
    electrical engineering, and today he continues to work on that stuff, at a startup in the Bay area. What if someone had told him along the way that he lacked
    some arbitrary privilege? 
  - Hate or love this country, but one of the beautiful things about it is that it's truly for the curious-minded. Anyone can buy a thing online, order a kit,
-   go to an electronics store and try out a new thing. Heck, one of my friends from film and another from architecture recently asked me about coding. What if I had 
+   go to an electronics store and try out a new thing. Quarantine has been a gold-mine for DIY-ers and introverts. This weekend, I'm taking a wifi pen-testing workshop with a bunch of hackers, as one example. During the week, I do lots of similar stuff, hopping from virtual coast to coast. Heck, one of my friends from film and another from architecture recently asked me about coding. What if I had 
    been like that person at the start of my grad school? No. I just told them about a couple places people have found useful, and told them if there was anything I could ever do to help, please feel free to reach out. These are my friends, and this is my community. People move in and out. They're human and they may have a tiny idea, and they just need the right tools, the right insight, to solve it, to make a breakthrough that can impact lots of people. Who am I to deny this?
  - I think people figure it out along the way, so I don't think it's my place to tell someone, if they feel like at this time, at this moment, this is where they
    should be. It's funny considering that tech talks about people like Jobs all the time, but dismiss that he found himself, arbitrarily, taking a calligraphy class.
