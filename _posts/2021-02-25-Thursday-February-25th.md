@@ -13,7 +13,7 @@
   and many other wonderful and delightful stories. Some of them worked behind the scenes in theatre, dressed in black, or behind video cameras at their local station in high school. Some loved anime and wanted to work in animation. There was an element of play that led them to their passion.
   
 ## This permeates into culture
-- In my first grad school semester, someone told me that I couldn't possibly know anything about a thing because it wasn't my specialization. This is an example of the
+- In my first grad school semester, someone told me that I couldn't possibly know anything about a thing because it wasn't my specialization. It was the first time in a long time I had been confronted again with the "you can't possibly know this" mindset. This is an example of the
   training and the mindset that is a result of not encouraging creative problem-solving, or an openness to solve complex problems. I've been thinking deeply
   about this, and wonder why I often don't believe in this ideology. I've come up with a few explanations
 - I moved away from this in undergrad, deliberately choosing a field that was based on an expectation of being both technical and creative. I also came from a 
