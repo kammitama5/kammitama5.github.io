@@ -25,7 +25,7 @@
   pull you aside and say "hey kid, I'm going to teach you how to fix this thing. Watch me first and then you try it." I had similar experiences in sailing. There
   wasn't "you don't have the experience" or "you're not the expert don't touch anything". It was more "this needs to get done; let's give you a shot". 
   
- ## I've been wandering through a new world
+## I've been wandering through a new world
  - I've currently been involved in a few new ventures, where I'm often the only person like myself. But I'm of the belief that the culture of the community, if
    it's good, is enough to hold me. When I'm into a thing, it doesn't matter if I know nothing about it, or if I stick out; if they are happy to have me and someone
    is willing to take the time and has the patience to teach me, I'll eventually stick around long enough to learn a thing. Heck, I may even become incredibly 
