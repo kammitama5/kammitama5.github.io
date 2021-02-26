@@ -43,8 +43,9 @@
    been like that person at the start of my grad school? No. I just told them about a couple places people have found useful, and told them if there was anything I could ever do to help, please feel free to reach out. These are my friends, and this is my community. People move in and out. They're human and they may have a tiny idea, and they just need the right tools, the right insight, to solve it, to make a breakthrough that can impact lots of people. Who am I to deny this?
  - I think people figure it out along the way, so I don't think it's my place to tell someone, if they feel like at this time, at this moment, this is where they
    should be. It's funny considering that tech talks about people like Jobs all the time, but dismiss that he found himself, arbitrarily, taking a calligraphy class.
-   Yet, a lot of these fields still put people in boxes, dictating what they can and cannot do based on a piece of paper or an input in a form. Coming from a 
-   place that lacked so many choices, where we were dabbling in things we didn't know were even things people would just do a a tiny subset of a field for an entire
+ - This semester I'm taking 3 different classes (2 for credit and one auditing) that are from three completely different departments, but they all overlap with my focus, and I wouldn't have it any other way. They make me think deeply about my field in completely different ways. This week, one of the TAs presented work they had published and it blew my mind, the way they had turned a problem inside out, in an effort to think about it in a different way. And that's what I find so valuable about the class. The professor *always* challenges my assumptions. 
+ - Yet, a lot of these fields still put people in boxes, dictating what they can and cannot do based on a piece of paper or an input in a form. Coming from a 
+   place that lacked so many choices, where we were dabbling in things we didn't know were even things people would just do as a tiny subset of a field for an entire
    career, I have to say it still feels weird. I still feel like an imposter. I guess you can say that like my French friend, I am, at heart, still a hacker.
    Not a scientist, not an engineer, not an artist. All of them, while being none of them.
    
