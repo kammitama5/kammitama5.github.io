@@ -24,6 +24,13 @@
   (he was more than qualified anyways). Additionally, I stuck to fields that encouraged that kind of openness; the kind of field where someone would need help, 
   pull you aside and say "hey kid, I'm going to teach you how to fix this thing. Watch me first and then you try it." I had similar experiences in sailing. There
   wasn't "you don't have the experience" or "you're not the expert don't touch anything". It was more "this needs to get done; let's give you a shot". 
+
+## Undergrad
+- I remember speaking with my parents just a weekend ago. My dad mentioned that when they met my professors in Undergrad, they were in a state of shock about me,
+  but gushing to my parents about me. Their biggest shock was that they didn't know where I had come from, how I just "came out of nowhere", and blew everyone
+  out of the water. They just couldn't understand how I had just come out of nowhere, curiously sat in their classes, not necessarily needing to be there, soaking
+  everything up like a sponge. 
+- I haven't changed, but I'd like to think that by doing this, I had changed some assumptions people had about me.
   
 ## I've been wandering through a new world
  - I've currently been involved in a few new ventures, where I'm often the only person like myself. But I'm of the belief that the culture of the community, if
