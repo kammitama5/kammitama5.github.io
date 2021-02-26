@@ -3,7 +3,8 @@
 ## Sometimes I go back and forth
 - Sometimes, I go back and forth about whether I really am an engineer. It reminded me of a panel I moderated last year,
   where I accidentally referred to the speaker as Professor, and he said "I'm not a professor; I'm a hacker" in a thick French accent.
-- Yes, a hacker, that's more like it.
+- Yes, a hacker, that's more like it. I came to tech because of play; something pulled my interest away and I fell down a giant rabbit hole, and didn't look back.
+  And I love it.
 - I was discussing with a friend that I was speaking with someone who wanted to pursue grad school, and who had come from a liberal 
   arts background, like myself. One of the things I told him was that he is the perfect person for research. I was telling my friend that the liberal 
   arts people who transition to technical fields are perfect for *creative* problem solving, because their minds are spared from the boxing that inevitably
