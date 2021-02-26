@@ -29,8 +29,9 @@
 - I remember speaking with my parents just a weekend ago. My dad mentioned that when they met my professors in Undergrad, they were in a state of shock about me,
   but gushing to my parents about me. Their biggest shock was that they didn't know where I had come from, how I just "came out of nowhere", and blew everyone
   out of the water. They just couldn't understand how I had just come out of nowhere, curiously sat in their classes, not necessarily needing to be there, soaking
-  everything up like a sponge. 
-- I haven't changed, but I'd like to think that by doing this, I had changed some assumptions people had about me.
+  everything up like a sponge. Coincidentally, I don't remember any of these kinds of things, but it made me smile. Sometimes, it takes the world a while to catch
+  up. Today, I am grateful for the people who had that vision and talent to see something in me before everyone else caught on.
+- In terms of general curiosity, I haven't changed, but I'd like to think that by doing this, I had changed some assumptions people had about me.
   
 ## I've been wandering through a new world
  - I've currently been involved in a few new ventures, where I'm often the only person like myself. But I'm of the belief that the culture of the community, if
