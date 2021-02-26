@@ -10,7 +10,7 @@
   comes with too much of a STEM education, too early. Let me explain.
 - STEM training, at the lower level, is essentially training to be an employee. Many of the persons I met later in life who were interested in engineering 
   or science told me that they, too, were either hackers, became electrical engineers or roboticists out of tinkering with amps and modding them in high school,
-  and many other wonderful and delightful stories. There was an element of play that led them to their passion.
+  and many other wonderful and delightful stories. Some of them worked behind the scenes in theatre, dressed in black, or behind video cameras at their local station in high school. Some loved anime and wanted to work in animation. There was an element of play that led them to their passion.
   
 ## This permeates into culture
 - In my first grad school semester, someone told me that I couldn't possibly know anything about a thing because it wasn't my specialization. This is an example of the
