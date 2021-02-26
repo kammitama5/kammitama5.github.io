@@ -17,7 +17,7 @@
   training and the mindset that is a result of not encouraging creative problem-solving, or an openness to solve complex problems. I've been thinking deeply
   about this, and wonder why I often don't believe in this ideology. I've come up with a few explanations
 - I moved away from this in undergrad, deliberately choosing a field that was based on an expectation of being both technical and creative. I also came from a 
-  region where we are not given the privilege of the expectation of just doing *one* thing. Often, someone seems a need or a skillset that is lacking, learns as 
+  region where we are not given the privilege of the expectation of just doing *one* thing. Often, someone sees a need or a skillset that is lacking, learns as 
   best they can, and gives it a shot. When I worked in the video industry in my country of birth, there was no such thing as a "set electrician". They hired 
   someone who was an actual electrician, figuring out that he already liked the job and since it was a budding new industry, they might as well give him a shot
   (he was more than qualified anyways). Additionally, I stuck to fields that encouraged that kind of openness; the kind of field where someone would need help, 
