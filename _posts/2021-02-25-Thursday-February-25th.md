@@ -23,7 +23,7 @@
   someone who was an actual electrician, figuring out that he already liked the job and since it was a budding new industry, they might as well give him a shot
   (he was more than qualified anyways). Additionally, I stuck to fields that encouraged that kind of openness; the kind of field where someone would need help, 
   pull you aside and say "hey kid, I'm going to teach you how to fix this thing. Watch me first and then you try it." I had similar experiences in sailing. There
-  wasn't "you don't have the experience" or "you're not the expert don't touch anything". It was more "this needs to get done; let's give you a shot". 
+  wasn't "you don't have the experience" or "you're not the expert don't touch anything". It was more "this needs to get done; let's give you a shot". Coincidentally, these tend to be new fields, or fields where a large enough breakthrough is on the verge of happening, because people haven't figured out "the jobs" or "occupations" yet. That's something worth thinking about.
 
 ## Undergrad
 - I remember speaking with my parents just a weekend ago. My dad mentioned that when they met my professors in Undergrad, they were in a state of shock about me,
