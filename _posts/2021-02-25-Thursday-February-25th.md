@@ -48,5 +48,5 @@
    place that lacked so many choices, where we were dabbling in things we didn't know were even things people would just do as a tiny subset of a field for an entire
    career, I have to say it still feels weird. I still feel like an imposter. I guess you can say that like my French friend, I am, at heart, still a hacker.
    Not a scientist, not an engineer, not an artist. All of them, while being none of them.
-   
- ## And that's it
+ 
+## And that's it
