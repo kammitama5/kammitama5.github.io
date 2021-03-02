@@ -52,6 +52,7 @@ be TA-ing a Compilers course in Haskell and another CS course.
 - [LXAI](https://www.latinxinai.org/)
 - [WiML](https://wimlworkshop.org/)
 - [WINN (Women in Number Theory)](https://womeninnumbertheory.org/)
+- [WISP](https://www.wisporg.com/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 - [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
 - [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
