@@ -15,7 +15,7 @@
   access to opportunity and really good intentions, but then it is inevitable that a sort of structure or hierarchy of power forms, and some individuals get 
   substantially more opportunities out of the group than others. It brought me back to [Kim's](https://hashtagcauseascene.com/podcast/) (I've listened to a few of her podcasts in the past, and while I know
   she is controversial and I'm aware not everyone agrees with things she says and that's okay, that phrase of "prioritize the most marginalized" rings true).
-  Coincidentally, Kim was one of the first person I met when I first started in tech, at a Clojure conference, of all places, almost a decade ago.
+  Coincidentally, Kim was one of the first persons I met when I first started in tech, at a Clojure conference, of all places, almost a decade ago.
 - I'd like to talk specifically about the fact that what inevitably happens is that the intention of the group is supposed to be shared opportunities, and what
   inevitably happens is that some persons within the groups end up receiving significantly more opportunities than others, in a way that hurts the ones who are 
   not as aggressive about chasing these opportunities, or even know those opportunities exist. I've been thinking about how we can make this better.
