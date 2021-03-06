@@ -53,7 +53,7 @@
 
 ## The effects of prioritizing those most affected
 - I think that it is a special kind of person and a particular kind of empathy that an organizer must have to *notice* these kinds of inequities in power. 
-  When you are running a group or organization, especially as it scales and is particularly large, it's very difficult but it's very wortwhile to continue
+  When you are running a group or organization, especially as it scales and is particularly large, it's very difficult but it's very worthwhile to continue
   to look for those with potential, even if they don't even see it in themselves, and to train them up. Stop going for the low-hanging fruit of those who
   puff up their chests and already have experience in a way that wouldn't benefit them if they receive one more opportunity. Take a person into your group
   who you think may have the talent and potential, but doesn't have the self-confidence, and help them see it for themselves. It's easy to take someone who
