@@ -19,6 +19,17 @@
 - I'd like to talk specifically about the fact that what inevitably happens is that the intention of the group is supposed to be shared opportunities, and what
   inevitably happens is that some persons within the groups end up receiving significantly more opportunities than others, in a way that hurts the ones who are 
   not as aggressive about chasing these opportunities, or even know those opportunities exist. I've been thinking about how we can make this better.
+  
+## Imagine a Conference
+- If you are an organizer of a conference, do the regulars, who show up every year as die-hards, have as good a time as the ones for whom this is their first time?
+- I know that there is significant controversy around [this other conference](https://kammitama5.github.io/Saturday-May-27th/) (I am putting this here because I know some people rolled their eyes at the first link
+  so I'm putting this year as a neutralizer I'm also aware of on the other side lol), but this is another space where *even* as a newcomer, I equally had as 
+  good a time as when I had attended the conference not as a newcomer. So in many ways, I think they did a great job with this and in making people feel welcome
+  regardless. Things like an ahead of time "things you should know" or "things to join" may be helpful in navigation for a new-comer, or as I've seen in other
+  communities, a veteran conference-goer could be a mentor. My first tech conference, Clojure Conj 2016, did this quite well! They paired me with a veteran of
+  that community, and that person invited me out to lunch with their friends. We're still in touch, but what that did was that I met a bunch of people from the
+  first day, and funnily enough, by the last day, I had to decline because I had met new friends and wanted to spend time with them and overall had a fantastic time
+  at that conference. They prioritized people who were new as they knew the veterans already knew their way around.
 
 ## Prioritizing those most affected
 - I've left groups (I call it cleaning house) that I've felt I would have liked to be a part of first because they had good intentions, but I kept seeing the 
