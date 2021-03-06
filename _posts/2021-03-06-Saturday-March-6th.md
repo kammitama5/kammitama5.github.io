@@ -60,7 +60,9 @@
   is already a star or known brand, already known, and just continue to give them opportunities. But I'd say that we're missing out on a lot of talent by not ALSO looking for persons
   for whom that may not be as obvious, and this is part of being a *visionary* leader. It's okay to ask someone "would you like to try? I think you'd be good at this" and train them up. I'd like to say that hate or love her, [Timnit](https://en.wikipedia.org/wiki/Timnit_Gebru) is fantastic at this, and you will often see this if you interact with her in any of her groups (disclosure: she is a friend). This is also a part of why so many people are supporters of her in my opinion; she has mentored people up. In my interactions with her, she has a knack for spotting people who may be shy and have things to contribute, and putting them in a position where the group has an opportunity to listen. I was telling my advisor about this, because it blew my mind that she was able to do this with such ease.
 Typically, as someone rises in stature, they become less accessible to those on the lower ranks. I've seen this personally on film sets. It's almost like in chess,
-how as a pawn you just can't check mate the most valuable pieces on the board. 
+how as a pawn you just can't check mate the most valuable pieces on the board. People at the higher levels create a shield that obscures the concerns or knowledge 
+that flows on the lower level of organizations from those at the top. The effects can be disastrous because everything can spiral out of control, leaving the people
+at the top asking "what happened and why didn't we know about this?".
 But being able to keep in touch with what is on the ground while being on an organization level / higher up is the sign of a good leader, for all it's worth.
 - I've seen the effects of this kind of prioritization, and it truly changes the perspectives of and even the trajectory of someone who may not have believed in their
   own capacities. And these people also come with valuable, unique perspectives we may not have even considered. It's important, in a room full of people,
