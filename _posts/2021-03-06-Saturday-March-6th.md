@@ -57,8 +57,8 @@
   to look for those with potential, even if they don't even see it in themselves, and to train them up. Stop going for the low-hanging fruit of those who
   puff up their chests and already have experience in a way that wouldn't benefit them if they receive one more opportunity. Take a person into your group
   who you think may have the talent and potential, but doesn't have the self-confidence, and help them see it for themselves. It's easy to take someone who
-  is already a star or known brand, already known, and continue to give them opportunities. But I'd say that we're missing out on a lot of talent by not ALSO looking for persons
-  who for whom that may not be as obvious, and this is part of being a *visionary* leader.
+  is already a star or known brand, already known, and just continue to give them opportunities. But I'd say that we're missing out on a lot of talent by not ALSO looking for persons
+  for whom that may not be as obvious, and this is part of being a *visionary* leader. It's okay to ask someone "would you like to try? I think you'd be good at this" and train them up. I'd like to say that hate or love her, Timnit is fantastic at this, and you will often see this if you interact with her in any of her groups. In my interactions with her, she has a knack for spotting people who may be shy and have things to contribute, and putting them in a position where the group has an opportunity to listen. I was telling my advisor about this, because it blew my mind that she was able to do this with such ease. It's the sign of a good leader.
 - I've seen the effects of this kind of prioritization, and it truly changes the perspectives of and even the trajectory of someone who may not have believed in their
   own capacities. And these people also come with valuable, unique perspectives we may not have even considered. It's important, in a room full of people,
   especially a room full of outspoken, confident people, to ask the person who is quiet what they think. What is their opinion? They might (and often will) surprise you.
