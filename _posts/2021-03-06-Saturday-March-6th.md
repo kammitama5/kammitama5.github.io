@@ -30,6 +30,9 @@
   that community, and that person invited me out to lunch with their friends. We're still in touch, but what that did was that I met a bunch of people from the
   first day, and funnily enough, by the last day, I had to decline because I had met new friends and wanted to spend time with them and overall had a fantastic time
   at that conference. They prioritized people who were new as they knew the veterans already knew their way around.
+- I remember those moments as a newcomer, and how people went out of their way to make sure I felt like people were thinking of me, and involved, and I want that
+  for newcomers always. I want them to make sure they are heard, and to have a good time, too, regardless of any community they want to join. It's really important
+  to me. I've seen people I've invited to Meetups end up leading sessions and get jobs writing in those languages, and it makes me happy to connect people to opportunities. 
 
 ## Prioritizing those most affected
 - I've left groups (I call it cleaning house) that I've felt I would have liked to be a part of first because they had good intentions, but I kept seeing the 
