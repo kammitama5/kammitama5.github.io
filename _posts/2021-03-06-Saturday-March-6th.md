@@ -23,7 +23,7 @@
 ## Prioritizing those most affected
 - I've left groups (I call it cleaning house) that I've felt I would have liked to be a part of first because they had good intentions, but I kept seeing the 
   same people being held up, while others weren't given the opportunity or chance to also be given opportunities. Not everyone is as aggressive or has the same
-  levels of confidence. So it become a bit of a mini mafia, where publicly these groups are advertised as spaces that are "communities", but they are really run
+  levels of confidence. So it becomes a bit of a mini mafia, where publicly these groups are advertised as spaces that are "communities", but they are really run
   by a centralized group of people.
 - You see these in various capacities, for example, in Meetups, in Research groups promising to be collaborative, or open source, or even in so-called decentralized
   systems, where inevitably people with more compute power or stake have more influence on the outcome. One of the ways we might want to think about changing this
