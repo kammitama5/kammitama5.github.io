@@ -65,9 +65,10 @@
   
 ## These thoughts
 - These thoughts have been in my mind because I've been in these groups, and I've often left disheartened that they just couldn't see how they were leaving out
-  certain individuals, and marginalizing their points of view in favour of giving the loudest people the speaking floor yet again. They've been swimming around
+  certain individuals, and marginalizing their points of view in favour of giving the loudest people the speaking floor yet again. It's been swimming around
   in my head as to how we can do better with respect to that. I remember at [SFPC](https://sfpc.io/), one of the things they would say is if you find yourself
-  talking a lot, stop and give space to other people. In many organizations, communities and groups, we often don't do this. And then these people leave.
+  talking a lot, stop and give space to other people. In many organizations, communities and groups, we often don't do this. And then these people leave, believing
+  once again that "no one cares". I have friends of various kinds; some are very shy and only open up to some kinds of people, and others are quite assertive and well-known. Years ago, one of my mentors in theatre lighting said "not everyone is a go-getter like you". That stuck. It's something to think about and over the years I've tried to work on myself at being better about this and giving the floor to other people, but I see it painfully happen all the time. 
   It's something I've been thinking about, but I don't know what these solutions are. Maybe the convergence of groups is inevitably a centralization of power
   by a few, and there are no solutions. I'm hopeful that there are other solutions, though.
   
