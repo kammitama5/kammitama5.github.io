@@ -1,0 +1,65 @@
+## Happy Birthday to Me!
+
+## It's my birthday!
+- I'm pretty excited because it's my birthday! It's been great! I've had everything from LinkedIn messages, a Matcha tea set shipped to me! (Thank you so much!!!!)
+  a gift card, several digital cards, and a virtual party on Discord happening! It's been swell! I really appreciate all the messages, audio, vidoe, and photos and
+  warm wishes! I'm a little overwhelmed so I'm making my way through everything slowly but surely!
+  
+## Look at this!
+- My parents made a video for my for my birthday, with a title card and credits :) Omgggg I love them!!!
+
+<img src="/images/birthday21.png" width="300">
+
+## This week
+- This week, one of the things that has bothering me is the centralization within groups. I keep running into situations where a group will be formed to provide
+  access to opportunity and really good intentions, but then it is inevitable that a sort of structure or hierarchy of power forms, and some individuals get 
+  substantially more opportunities out of the group than others. It brought me back to [Kim's](https://hashtagcauseascene.com/podcast/) (I've listened to a few of her podcasts in the past, and while I know
+  she is controversial and I'm aware not everyone agrees with things she says and that's okay, that phrase of "prioritize the most marginalized" rings true).
+  Coincidentally, Kim was one of the first person I met when I first started in tech, at a Clojure conference, of all places, almost a decade ago.
+- I'd like to talk specifically about the fact that what inevitably happens is that the intention of the group is supposed to be shared opportunities, and what
+  inevitably happens is that some persons within the groups end up receiving significantly more opportunities than others, in a way that hurts the ones who are 
+  not as aggressive about chasing these opportunities, or even know those opportunities exist. I've been thinking about how we can make this better.
+
+## Prioritizing those most affected
+- I've left groups (I call it cleaning house) that I've felt I would have liked to be a part of first because they had good intentions, but I kept seeing the 
+  same people being held up, while others weren't given the opportunity or chance to also be given opportunities. Not everyone is as aggressive or has the same
+  levels of confidence. So it become a bit of a mini mafia, where publicly these groups are advertised as spaces that are "communities", but they are really run
+  by a centralized group of people.
+- You see these in various capacities, for example, in Meetups, in Research groups promising to be collaborative, or open source, or even in so-called decentralized
+  systems, where inevitably people with more compute power or stake have more influence on the outcome. One of the ways we might want to think about changing this
+  is by shuffling power. The book "Can this Elephant Curtsey on Cue" by Weinstock talks a bit about this, where she exchanges her position for that of the lowest
+  person on the totem pole for a week.
+- Another way that I've seen to be effective in a recent Meetup I've been attending regularly is that they make everyone present chapters of a book we're going
+  through. I mention this because I was one of those who came into the group telling the person leading that "I wasn't sure I was the best person to lead a session."
+  Instead of accepting this, the organizer said that he would admit me, and that maybe over time, I would feel comfortable to present. I signed up for a slot 
+  shortly after that and did actually lead a group. The environment was one that made it possible to share opportunities leading. But that meant that the organizer
+  had to give up a degree of power to let others lead.
+- I'd like to point out that this is rare; often, what happens is that you see those that would not benefit from an aggregation of more resources continue to
+  take advantage of that person's lack of confidence to lead. So how can we make this better, and what are the effects? Shuffling might indeed be a solution.
+
+## The effects of prioritizing those most affected
+- I think that it is a special kind of person and a particular kind of empathy that an organizer must have to *notice* these kinds of inequities in power. 
+  When you are running a group or organization, especially as it scales and is particularly large, it's very difficult but it's very wortwhile to continue
+  to look for those with potential, even if they don't even see it in themselves, and to train them up. Stop going for the low-hanging fruit of those who
+  puff up their chests and already have experience in a way that wouldn't benefit them if they receive one more opportunity. Take a person into your group
+  who you think may have the talent and potential, but doesn't have the self-confidence, and help them see it for themselves. It's easy to take someone who
+  is already a star or known brand, already known, and continue to give them opportunities. But I'd say that we're missing out on a lot of talent by not ALSO looking for persons
+  who for whom that may not be as obvious, and this is part of being a *visionary* leader.
+- I've seen the effects of this kind of prioritization, and it truly changes the perspectives of and even the trajectory of someone who may not have believed in their
+  own capacities. And these people also come with valuable, unique perspectives we may not have even considered. It's important, in a room full of people,
+  especially a room full of outspoken, confident people, to ask the person who is quiet what they think. What is their opinion? They might (and often will) surprise you.
+  
+## These thoughts
+- These thoughts have been in my mind because I've been in these groups, and I've often left disheartened that they just couldn't see how they were leaving out
+  certain individuals, and marginalizing their points of view in favour of giving the loudest people the speaking floor yet again. They've been swimming around
+  in my head as to how we can do better with respect to that. I remember at [SFPC](https://sfpc.io/), one of the things they would say is if you find yourself
+  talking a lot, stop and give space to other people. In many organizations, communities and groups, we often don't do this. And then these people leave.
+  It's something I've been thinking about, but I don't know what these solutions are. Maybe the convergence of groups is inevitably a centralization of power
+  by a few, and there are no solutions. I'm hopeful that there are other solutions, though.
+  
+## And that's it
+ 
+  
+  
+  
+  
