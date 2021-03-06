@@ -8,7 +8,7 @@
 ## Look at this!
 - My parents made a video for my for my birthday, with a title card and credits :) Omgggg I love them!!!
 
-<img src="/images/birthday21.png" width="300">
+<img src="/images/birthday21.png" width="500">
 
 ## This week
 - This week, one of the things that has bothering me is the centralization within groups. I keep running into situations where a group will be formed to provide
