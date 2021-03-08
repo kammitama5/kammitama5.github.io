@@ -23,7 +23,7 @@
 ## Imagine a Conference
 - If you are an organizer of a conference, do the regulars, who show up every year as die-hards, have as good a time as the ones for whom this is their first time?
 - I know that there is significant controversy around [this other conference](https://kammitama5.github.io/Saturday-May-27th/) (I am putting this here because I know some people rolled their eyes at the first link
-  so I'm putting this year as a neutralizer I'm also aware of on the other side lol), but this is another space where *even* as a newcomer, I equally had as 
+  so I'm putting this here as a neutralizer. I'm also aware of on the other side lol), but this is another space where *even* as a newcomer, I equally had as 
   good a time as when I had attended the conference not as a newcomer. So in many ways, I think they did a great job with this and in making people feel welcome
   regardless. Things like an ahead of time "things you should know" or "things to join" may be helpful in navigation for a new-comer, or as I've seen in other
   communities, a veteran conference-goer could be a mentor. My first tech conference, Clojure Conj 2016, did this quite well! They paired me with a veteran of
