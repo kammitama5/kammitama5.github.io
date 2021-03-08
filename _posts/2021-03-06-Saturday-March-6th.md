@@ -47,7 +47,7 @@
   through. I mention this because I was one of those who came into the group telling the person leading that "I wasn't sure I was the best person to lead a session."
   Instead of accepting this, the organizer said that he would admit me, and that maybe over time, I would feel comfortable to present. I signed up for a slot 
   shortly after that and did actually lead a group. The environment was one that made it possible to share opportunities leading. But that meant that the organizer
-  had to give up a degree of power to let others lead.
+  had to give up a degree of power to let others lead, and they had to give the person leading the benefit of the doubt (ie delegate responsibility and expect competence).
 - I'd like to point out that this is rare; often, what happens is that you see those that would not benefit from an aggregation of more resources continue to
   take advantage of that person's lack of confidence to lead. So how can we make this better, and what are the effects? Shuffling might indeed be a solution.
 
