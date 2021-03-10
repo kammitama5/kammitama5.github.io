@@ -11,7 +11,7 @@ permalink: /about/
 
 
 - I'm a researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love encryption, fairness (both as a metric and in terms of (access to) resources), statistics, machine learning and functional programming (I am at the intersection of the cryptography and AI/ML/fairness communities). Most recently, I've also become interested by Information Theory, courtesy of a class I'm currently auditing on [decentralized consensus protocols](http://web.stanford.edu/class/ee374/).
-- I am currently working on research at the intersection of Provable Fairness, Differential Privacy and Data. My current tools are anything from Python, R, Matlab, Haskell, Rust, LaTeX.
+- I am currently working on research at the intersection of Provable Fairness, Differential Privacy and Data. My current tools are anything from Python, R, Matlab, Haskell, Rust, LaTeX. Systems thinker.
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
 ### What's Unique about me
