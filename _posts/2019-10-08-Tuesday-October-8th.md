@@ -19,6 +19,7 @@
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2021
 - I have been invited to be a reviewier for Tapia 2021
 - A quote from myself has been featured in the Black Girls CODE the Future Coloring Book! I am truly honoured! :)
+- I've been invited to attend JP Morgan's Advancing Black Pathways in Data Science event
 
 ## 2020
 
