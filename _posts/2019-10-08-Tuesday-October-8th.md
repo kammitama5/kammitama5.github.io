@@ -20,6 +20,7 @@
 - I have been invited to be a reviewier for Tapia 2021
 - A quote from myself has been featured in the Black Girls CODE the Future Coloring Book! I am truly honoured! :)
 - I've been invited to attend JP Morgan's Advancing Black Pathways in Data Science event
+- I'm showing a pop-up book related to Maths that I made a while ago at Brown's SUMS event, for PI day :)
 
 ## 2020
 
