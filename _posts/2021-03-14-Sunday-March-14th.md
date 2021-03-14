@@ -27,7 +27,7 @@ They displayed images and video pertaining to the theme [here](https://sites.goo
 
 I took a snapshot of mine because they say that the page will be archived and saved, but I don't know if the url might change.
 
-<img src="/images/sums21_002.png" width="500">
+<img src="/images/sums21_002.png" width="800">
 
 ## This week
 - I'm mostly focusing on Cryptography and research with my advisor. I'm really enjoying both, and I'm super happy.
