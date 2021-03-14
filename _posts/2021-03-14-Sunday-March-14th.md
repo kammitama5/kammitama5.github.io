@@ -16,7 +16,7 @@
   event again next year! It was a lot of fun! Best of all, my Cryptography teacher came to see my submission, which
   was so cool! I'm super thankful and I've been having an amazing Sunday. 
   
-## Agenda
+## Faculty Speaker Agenda
 - "The (one and only) Random Graph by Persi Diaconis
 - "The Art of Maths" by Chris Budd
 - "The Art of Deception - Encountering Perception as a Creative Material" by Shiry Ginosar
