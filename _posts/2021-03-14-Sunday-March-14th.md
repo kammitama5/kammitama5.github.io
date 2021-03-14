@@ -2,6 +2,7 @@
 
 ## Happy PI Day
 - Today is Pi Day, or 3.14 or March 14th. It's also Einstein's birthday! 
+- I'm sorry I keep writing it like it's in Matlab or something :)
 - In celebration, Mathematicians all over the world have events that celebrate the day.
 - This year, I took part in [SUMS](https://sites.google.com/brown.edu/sums/home?authuser=0), which is an event put on by the Maths and Applied Maths department
   Brown University. It was so awesome!!!
