@@ -13,7 +13,7 @@
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
 - I got a grant to attend the USENIX Enigma Conference!
 - I have been accepted to the 2020-2021 class of Google’s CS Research Mentorship Program (CSRMP)! 
-- I have been accepted to the 2021 CRA-WP Grad Cohort for Women, which will be held remotely.
+- I have been accepted to the 2021 CRA-WP Grad Cohort for Women, which will be held remotely. I will be presenting a poster there.
 - I have been invited to be a reviewer for the Distributed and Private Machine Learning (DPML) workshop at ICLR 2021
 - I have been accepted to participate in the FAccT Doctoral Consortium 2021!
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2021
