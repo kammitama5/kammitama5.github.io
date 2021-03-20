@@ -13,7 +13,7 @@ and in fact, I was able to convince a BioEngineering professor who has taught th
 
 ## Strangely
 - Information Theory isn't new for me. I came from film, and was a member of SMPTE, so I'm very familiar with compression and standards. In fact, I'm a member
-(for several years) of a few groups focused on research in that area, which is very random. It's like I was a part of a community without knowing that it was a field.
+(for several years) of a few groups focused on research in that area, which is very random (and is where I heard about the class I audited, which was based in Silicon Valley). It's like I was a part of a community without knowing that it was a field.
 - Lately, a lot of this community is involved in quite a few things; one is (obviously) blockchain, and then there are others like quantum data compression and 
 genomic compression and of course, video compression. It's all fascinating stuff. I think there is this wonderful intersection that blends what I'm doing with
 that community, so it's been pretty fun, and I've definitely seen a lot of familiar faces in that area.
