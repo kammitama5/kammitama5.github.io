@@ -29,7 +29,7 @@ say, someone who hopped around various countries? I quite like that my life in m
 be honest. 
 - I'm taking a Cryptography class with a professor who I've absolutely enjoyed class with, and I plan to take more of their classes. They even gave me a paper to 
 work through some stuff, so I'm ramping up on that as well. I've been writing quite a fair amount of SageMaths, which is pretty similar in many ways to Python, but 
-is more awesome for the out of the box functions for evaluating elliptic curves and that sort of thing. I mentioned in a previous post that I also was part of a SageMaths workshop where we worked on Arithmetic Dynamic functions for the software, and I ended up contributing to a grant as a core member with mathematicians from that group. 
+is more awesome for the out of the box functions for evaluating elliptic curves and that sort of thing. I mentioned in a previous post that I also was part of a SageMaths workshop in my first semester of school (partially because I was very alone and felt really alienated, and mostly because I was curious and excited about the workshop!) where we worked on Arithmetic Dynamic functions for the software, and I ended up contributing to a grant proposal paper as a core member with mathematicians from that group. 
 
 ## Statistics
 - I've once again signed up for more R workshops, and am enjoying them a lot! I signed up for one today specifically on computationally intensive methods and hierarchical models,
