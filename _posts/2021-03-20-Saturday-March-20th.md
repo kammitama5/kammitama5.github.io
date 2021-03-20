@@ -35,6 +35,10 @@ between the encryption side of things, and statistics (unless you are focusing s
 great examples are Differential Privacy, which is data-dependent, and say, homomorphic encryption, which isn't). It's pretty rough, and I took a nap in the afternoon
 and got up just in time to see the sun set.
 
+## Generative stuff
+- I'm taking a generative workshop for fun. We've done cellular automata, and made some L-trees. I think we're doing a bit of reinforcement learning and generative
+stuff, as well. This is just a "I'm curious" class, and it's more creatively focused and unaffiliated with my school (it's in a space run by artists).
+
 ## Next semester
 - Next semester, we're supposed to be going back to campus, and I can't say I'm thrilled. I've really enjoyed my time in quarantine; it feels like I was a good girl
 and someone decided to give me a treat by telling me I didn't have to go anywhere :)
