@@ -15,7 +15,7 @@ and in fact, I was able to convince a BioEngineering professor who has taught th
 - Information Theory isn't new for me. I came from film, and was a member of SMPTE, so I'm very familiar with compression and standards. In fact, I'm a member
 (for several years) of a few groups focused on research in that area, which is very random (and is where I heard about the class I audited, which was based in Silicon Valley). It's like I was a part of a community without knowing that it was a field.
 - Lately, a lot of this community is involved in quite a few things; one is (obviously) blockchain, and then there are others like quantum data compression and 
-genomic compression and of course, video compression. It's all fascinating stuff. I think there is this wonderful intersection that blends what I'm doing with
+genomic compression and of course, video compression and streaming. It's all fascinating stuff. I think there is this wonderful intersection that blends what I'm doing with
 that community, so it's been pretty fun, and I've definitely seen a lot of familiar faces in that area.
 
 ## Privacy and Crypto 
@@ -24,7 +24,8 @@ country. I wonder if someone who has been born and grew up in one particular cou
 say, someone who hopped around various countries? I quite like that my life in my country of birth has a degree of separation from my life in the United States, to
 be honest. 
 - I'm taking a Cryptography class with a professor who I've absolutely enjoyed class with, and I plan to take more of their classes. They even gave me a paper to 
-work through some stuff, so I'm ramping up on that as well. 
+work through some stuff, so I'm ramping up on that as well. I've been writing quite a fair amount of SageMaths, which is pretty similar in many ways to Python, but 
+is more awesome for the out of the box functions for evaluating elliptic curves and that sort of thing. I mentioned in a previous post that I also was part of a SageMaths workshop where we worked on Arithmetic Dynamic functions for the software, and I ended up contributing to a grant as a core member with mathematicians from that group. 
 
 ## Statistics
 - I've once again signed up for more R workshops, and am enjoying them a lot! I signed up for one today specifically on computationally intensive methods and hierarchical models,
