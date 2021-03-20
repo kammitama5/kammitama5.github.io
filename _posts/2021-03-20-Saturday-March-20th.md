@@ -39,7 +39,7 @@ at the intersection of those fields; things like Privacy-Preserving Machine Lear
 between the encryption side of things, and statistics (unless you are focusing specifically on a mechanism that is data or statistics-focused, or one that is not;
 great examples are Differential Privacy, which is data-dependent, and say, homomorphic encryption, which isn't). It's pretty rough, and I took a nap in the afternoon
 and got up just in time to see the sun set. I can't choose, because I like manipulating data, but I'm equally into encryption and privacy. I am not as much into AI 
-for AI's sake as some of my peers (I get pretty bored in AI-only spaces), but many people working in privacy and encryption aren't necessarily into data. So I'm in this weird middle, and I can't help bouncing back and forth. Statistics doesn't quite describe it, either; encryption and privacy people who work with data are more systems people, than they are solely statistics people. It's not data analysis; it's more like distributed system analysis or something. The intuition is just very different.
+for AI's sake as some of my peers (I get pretty bored in AI-only spaces), but many people working in privacy and encryption aren't necessarily into data. So I'm in this weird middle, and I can't help bouncing back and forth. Statistics doesn't quite describe it, either; encryption and privacy people who work with data are more systems people, than they are solely statistics people. It's not data analysis; it's more like distributed systems analysis or something. The intuition is just very different.
 
 ## Generative stuff
 - I'm taking a generative workshop for fun. We've done cellular automata, and made some L-trees. I think we're doing a bit of reinforcement learning and generative
