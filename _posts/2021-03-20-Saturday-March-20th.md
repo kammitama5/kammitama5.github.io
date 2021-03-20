@@ -9,7 +9,7 @@ as well as going to a training session for a third I haven't received assignment
 - I also wrapped up a truly amazing class, where I scribed for one lesson. The class was specifically on Information Theory as it related to blockchain,
 and we looked at different protocols and their tradeoffs, among other things. We also looked at opportunities for new protocols that have not currently been
 explored, and that was fascinating. We also had a guest lecture by Bram Cohen, the inventor of BitTorrent, who is currently working on Chia. I learned a lot
-from that class, and also attended several seminars and other affiliated events with that group, and made new friends. I was genuinely surprised when people from the class were passing on opportunities, chatting and just being friendly, and I looked forward to every single class! I joked this week that if I were a Sesame Street character, the word of this week would be Ourobouros. There is a lot of references to that protocol (or derivatives of that protocol) this week.
+from that class, and also attended several seminars and other affiliated events with that group, and made new friends. I was genuinely surprised when people from the class were passing on opportunities, chatting and just being friendly, and I looked forward to every single class! I joked this week that if I were a Sesame Street character, the word of this week would be Ourobouros. There are a lot of references to that protocol (or derivatives of that protocol) this week.
 My school doesn't have a formal Information Theory department,
 and in fact, I was able to convince a BioEngineering professor who has taught the class before to teach it in Fall, so I guess that's the next step for me.
 
