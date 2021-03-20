@@ -43,7 +43,7 @@ and got up just in time to see the sun set.
 ## Generative stuff
 - I'm taking a generative workshop for fun. We've done cellular automata, and made some L-trees. I think we're doing a bit of reinforcement learning and generative
 stuff, as well. This is just a "I'm curious" class, and it's more creatively focused and unaffiliated with my school (it's in a space run by artists). Come to think
-of it, considering we learned about Merkle Trees and Reed-Solomon error correction in my blockchain class, it's pretty applicable :)
+of it, considering we learned about Merkle Trees and Reed-Solomon error correction and the Data Availability Problem in my blockchain class, it's pretty applicable :)
 
 ## Next semester
 - Next semester, we're supposed to be going back to campus, and I can't say I'm thrilled. I've really enjoyed my time in quarantine; it feels like I was a good girl
