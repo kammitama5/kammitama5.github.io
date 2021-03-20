@@ -48,6 +48,7 @@ of it, considering we learned about Merkle Trees and Reed-Solomon error correcti
 ## Next semester
 - Next semester, we're supposed to be going back to campus, and I can't say I'm thrilled. I've really enjoyed my time in quarantine; it feels like I was a good girl
 and someone decided to give me a treat by telling me I didn't have to go anywhere :)
+- I had an incredible amount of green tea ice cream and matcha, enough to think that if I travel right now, the TSA might confuse me for an insect if asked to give a blood sample.
 - I'll miss the hot meals, the power naps, and being able to take control of my time in ways you can't really do on campus. Maybe there's a way that I can plan
 so that next semester, I can limit my time on campus. I hate running into people, who then drag me all over the place "come to my office in an hour", because it means
 I can't control my time, and then I lose hours of my day that I won't regain. So I want to reclaim that, but we'll see.
