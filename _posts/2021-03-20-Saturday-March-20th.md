@@ -19,6 +19,8 @@ and in fact, I was able to convince a BioEngineering professor who has taught th
 - Lately, a lot of this community is involved in quite a few things; one is (obviously) blockchain, and then there are others like quantum data compression and 
 genomic compression and of course, video compression and streaming. It's all fascinating stuff. I think there is this wonderful intersection that blends what I'm doing with
 that community, so it's been pretty fun, and I've definitely seen a lot of familiar faces in that area.
+- I'm also working with my Google Research mentor, who has been amazing support for me! I forgot to mention that I helped review someone's dissertation this week,
+too! It is a really fascinating topic, and I'm really thankful to have been able to help!
 
 ## Privacy and Crypto 
 - I went to another event this week where we discussed Universal IDs and what that would mean for Privacy, which was interesting, especially coming from another
