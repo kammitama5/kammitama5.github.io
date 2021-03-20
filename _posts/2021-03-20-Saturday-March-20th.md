@@ -1,7 +1,8 @@
 ## A very long pause week
 
 ## This week was Pause week
-- Apparently, this week was supposed to be a week where we would be able to rest, or no new lessons would be taught, or something to that extent.
+- Apparently, this week was supposed to be a week where we would be able to rest, or no new lessons would be taught, or something to that extent. We
+still ended up covering some Quantum Cryptography stuff, so I ended up going to class anyways, because the class is awesome, and the teacher is fun and engaging!
 - I ended up doing a lot of work this week, including reviewing a Journal article, and reviewing 5 papers for two separate conferences, 
 as well as going to a training session for a third I haven't received assignments for yet.
 - I also met with several recruiters, attended several recruiting events, with some more this week, some of which are already for Summer 2022.
