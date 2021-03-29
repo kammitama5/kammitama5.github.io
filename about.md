@@ -10,7 +10,7 @@ permalink: /about/
 
 
 
-- I'm a researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love encryption, fairness (both as a metric and in terms of (access to) resources), statistics, machine learning and functional programming (I am at the intersection of the cryptography and AI/ML/fairness communities). Most recently, I've also become interested by Information Theory, courtesy of a class I audited on decentralized consensus protocols, which covered tradeoffs in several blockchain protocols, and am currently taking a workshop on file formats and digital compression.
+- I'm a researcher and aspiring [boffin](https://en.wikipedia.org/wiki/Boffin). I love encryption, fairness (both as a metric and in terms of (access to) resources), statistics, machine learning and functional programming (I am at the intersection of the cryptography and AI/ML/fairness communities). Most recently, I've also become interested by Information Theory, courtesy of a class I audited on decentralized consensus protocols, which covered tradeoffs in several blockchain protocols, and am currently taking a programming workshop on file formats, manipulating data and digital compression.
 - I am currently working on research at the intersection of Provable Fairness, Differential Privacy / Cryptography, Information Theory and Data. My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX. I am a Systems thinker.
 - Also a book junkie. Love Haskell, Hackerspaces, puzzles, making and sailing. 
 
