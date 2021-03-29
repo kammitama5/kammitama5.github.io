@@ -189,11 +189,13 @@
 - Privacy: Law, Policy, & Design (196) (SP21) (in progress)
 - Cryptography (259) (SP21) (in progress)
 
+## Kinda-sorta (Audit) (2021 Winter: done)
+- (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
+
 ## Anticipated Classes (enrolled)
 - Information Theory (CS 395)
-
-## Kinda-sorta (Audit)
-- (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
+- Fourier Transform class
+- Elementary Number Theory Class
 
 ## TODO (2020-21)
 - An Information Theory Class (CS 395) (FA 21)
