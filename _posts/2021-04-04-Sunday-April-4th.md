@@ -39,7 +39,7 @@ I don't think this is really discussed a lot, but I'd be interested to hear from
 - How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
 
 ## Synthetic CDOs
-- I was thinking today that the currency of Academia, and of the treatment that some endure, or enforce upon others, is very much like Synthetic CDOs. 
+- I was thinking today that the currency of Academia, and of the treatment that some endure, or enforce upon others, is very much like [Synthetic CDOs](https://en.wikipedia.org/wiki/Synthetic_CDO#:~:text=In%20technical%20terms%2C%20the%20synthetic,CDOs%20or%20fully%20distributed%20CDOs.). 
 It's a promise of a payout that is many times derived, that may or may not be redeemable, because it really isn't based on anything real. 
 It's a promise of a promise of a promise. We train under advisors, with the expectation, the promise, that it holds some value that will be paid off at a later
 time, that is accued over time, based on something that isn't real. The person who advised me promises that I am now worth enough that I can promise that if you
