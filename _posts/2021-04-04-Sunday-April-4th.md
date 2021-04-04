@@ -39,8 +39,10 @@ If you hang out in certain departments, or hear certain faculty talk about how o
 Your degree doesn't put you even within the same level as some of your peers, although theoretically it *should*. But it doesn't even work because the 
 structure of schools and tiers themselves have structural hierarchies, and so do departments (ie this department > other department). So what is this
 meritocracy about, and how is it defined? Is every field's work really valued similarly in terms of an admittance of being held to the highest standards of  "academic rigor"? And if we agree that they are not, how might this impact how one's work is regarded, regardless of the quality of output, the actual merit of the work?
-I don't think this is really discussed a lot, but I'd be interested to hear from others who have navigated these conflicts of identity. 
-- How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
+I don't think this is really discussed a lot, but I'd be interested to hear from others who have navigated these conflicts of identity.
+- I once asked a professor "If it's about meritocracy and academic rigour (British spelling now) is all that matters, then why are we all rushing to get into
+prestigious post-docs, or appointments at well-known institutions? Shouldn't the quality of work be *enough* if it is, in fact, a meritocracy? 
+- But anyways, back to identity; How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
 
 ## Synthetic CDOs
 - I was thinking today that the currency of Academia, and of the treatment that some endure, or enforce upon others, is very much like [Synthetic CDOs](https://en.wikipedia.org/wiki/Synthetic_CDO#:~:text=In%20technical%20terms%2C%20the%20synthetic,CDOs%20or%20fully%20distributed%20CDOs.). 
