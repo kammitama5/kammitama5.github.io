@@ -1,6 +1,6 @@
 ## Academia as Collaterized Debt Obligations
 
-## I am up again
+## I am up again (Insomnia)
 - I have had a lot of anxiety about having to go back to school, and being on campus again. I don't like large crowds, and I stick out like a sore thumb here.
 It also means I have to restock on wipes, because crowds and large numbers of people mean germs, and the possibility of getting sick, which means a loss of 
 productivity. And often, my schedule is packed, so I am committed to staying as healthy as possible in terms of not getting sick.
