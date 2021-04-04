@@ -23,7 +23,7 @@ to bully me. In high school, there was one person, and in schools I often hopped
 but it was always something that 
 someone would try to do, to push the limit. Would she sit there and take it? Can I have a safe, new target to make me forget my own insecurities, my own fears?
 Often, it would involve someone's projection of some sort of pedigree they were resentful that I had, 
-which I haven't wrapped my head around. I have no control over this, because my parents raised us this way. I remember a relative once telling me that
+which I haven't wrapped my head around. I have no control over this, because my parents raised us this way (to be intellectuals, regardless of whatever we would choose personally to pursue). I remember a relative once telling me that
 someone in my family "needed to get over that", and be brought down. I didn't say anything, but I often wonderered *why* it was important to *them*. 
 It has little bearing over their own life, so why bother; after all, we suffer the consequences of our own actions.
 I didn't realize until later on how much it might be problematic for others, but I was raised a very particular way that 
