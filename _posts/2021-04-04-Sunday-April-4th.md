@@ -38,7 +38,7 @@ How does one deal with students who you might be asked to mentor or advise, who 
 If you hang out in certain departments, or hear certain faculty talk about how other members talk over them, disrespect them, etc, it's very apparent. 
 Your degree doesn't put you even within the same level as some of your peers, although theoretically it *should*. But it doesn't even work because the 
 structure of schools and tiers themselves have structural hierarchies, and so do departments (ie this department > other department). So what is this
-meritocracy about, and how is it defined? Is every field's work really valued similarly in terms of an admittance of being held to the highest standards of  "academic rigor"?
+meritocracy about, and how is it defined? Is every field's work really valued similarly in terms of an admittance of being held to the highest standards of  "academic rigor"? And if we agree that they are not, how might this impact how one's work is regarded, regardless of the quality of output, the actual merit of the work?
 I don't think this is really discussed a lot, but I'd be interested to hear from others who have navigated these conflicts of identity. 
 - How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
 
