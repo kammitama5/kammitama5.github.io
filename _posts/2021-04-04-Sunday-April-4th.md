@@ -34,7 +34,7 @@ for free, and that perhaps they could, too, if they tried being a nice person in
 To complicate things further, someone who looks like myself in the United States has, for some groups, a narrative they are expected
 to play out within, so there is also a conflict of expectations by one group of persons, and resentment by others. In short, it's exhausting to navigate. Sometimes,
 I just want to go home. With all of this naivete about who I am and people's projections based on their expectations, how does one navigate that in Academia?
-How does one deal with students who you might be asked to mentor or advise, who blatantly disrespect you, or perhaps think that you should be knocked down a few pegs?
+How does one deal with students who you might be asked to mentor or advise, who blatantly disrespect you, or perhaps think that you should be knocked down a few pegs? Academia tells you that after your PhD you have *earned* this respect, this stature, but this isn't necessarily true in all circles.
 I don't think this is really discussed a lot, but I'd be interested to hear from others who have navigated these conflicts of identity. 
 - How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
 
