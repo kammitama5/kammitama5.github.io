@@ -41,7 +41,7 @@ structure of schools and tiers themselves have structural hierarchies, and so do
 meritocracy about, and how is it defined? Is every field's work really valued similarly in terms of an admittance of being held to the highest standards of  "academic rigor"? And if we agree that they are not, how might this impact how one's work is regarded, regardless of the quality of output, the actual merit of the work?
 I don't think this is really discussed a lot, but I'd be interested to hear from others who have navigated these conflicts of identity.
 - I once asked a professor "If it's about meritocracy and academic rigour (British spelling now) is all that matters, then why are we all rushing to get into
-prestigious post-docs, or appointments at well-known institutions? Shouldn't the quality of work be *enough* if it is, in fact, a meritocracy? 
+prestigious post-docs, or appointments at well-known institutions? Shouldn't the quality of work be *enough* if it is, in fact, a meritocracy?". 
 The person's response was to chuckle and say that they enjoyed chatting with me, and that speaking with me felt like speaking with a peer (this person is long tenured). But I'm pretty sure I'm not the only smart-ass who has asked this question before. 
 - But anyways, back to identity; How do you make a space for and balance who you are while others seem to, in ways that are tone-deaf, project onto you who they think you *should* be?
 
