@@ -17,7 +17,7 @@ with people who accept things as they are, anyways.
 - I began to think about bullying, and why people bully others. Someone on Quora described it as someone leaving a bag of leaves on one's lawn, and expecting 
 you not to do anything about it. You can either do two things; you can stand up and say "move your mess!", and they can back down, or you can say nothing,
 and they continue to get away with it, and continue to put bags of leaves on your lawn, while you continue to receive additional criticism by others about having the bully
-put leaves on your lawn, in your space, as a blatant sign of disrespect.
+put leaves on your lawn, in your space, as a blatant sign of disrespect. I've thought about this in relation to open source, too.
 - I mention this because I've never thought about it until yesterday, but I can remember few times in an Academic situation where someone has not at least *tried*
 to bully me. In high school, there was one person, and in schools I often hopped around, it was the same. I would mouth-off because I would always stand up for myself,
 but it was always something that 
