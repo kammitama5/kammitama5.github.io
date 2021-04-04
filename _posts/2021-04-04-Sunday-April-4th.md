@@ -56,7 +56,8 @@ motivation for something better, that wasn't solely based on money or prestige, 
 to work on something that is solely for a good, rather than for one's ego. And what is the line between those two things. In my world, often the line
 is blurred. You learn to self-posture and a sense of self-importance is proportional to one's ability to be taken seriously. To be heard. But what if we
 imagined other ways; something new, where people used different metrics? What if the power dynamics were different? Would the same persons be incentivized?
-Would it be easier for persons who weren't necessarily as known to collaborate with those who were? I guess once again, I don't have all the answers,
+Would it be easier for persons who weren't necessarily as known to collaborate with those who were? 
+And would an unknown's ideas have value, in the same way we ascribe many times more value, an expectation of compounded value, on someone who *is known*? I guess once again, I don't have all the answers,
 but I've just been thinking about these power dynamics, about ego and selfishness, power and arbitrage. 
 
 ## And that's it
