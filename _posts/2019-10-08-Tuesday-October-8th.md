@@ -190,6 +190,7 @@
 - Research credits (491) (SP20)(FA20)(SP21) (in progress)
 - Privacy: Law, Policy, & Design (196) (SP21) (in progress)
 - Cryptography (259) (SP21) (in progress)
+- An Information Theory Class (CS 395) (FA 21)
 
 ## Kinda-sorta (Audit) (2021 Winter: done)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
@@ -198,9 +199,9 @@
 - Information Theory (CS 395)
 - Fourier Transform class
 - Elementary Number Theory Class
+- Abstract Algebra 1 (MATH 251)
 
 ## TODO (2020-21)
-- An Information Theory Class (CS 395) (FA 21)
 - An Estimation Theory class (EE 371) (SP 22)
 - Number Theory (SP22: 255)
 - A Game Theory class (EC 138 or online) (SP21)
