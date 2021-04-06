@@ -8,6 +8,7 @@ visibility, an opportunity to learn from mentors and maintainers, and to contrib
 - Good mentorship in tech is really, really important. It can be the difference between someone being set up for success and having exponential growth, and not,
 and flunking out of tech, feeling depressed; like it was the worst decision of their life, even if they came in with joy and curiosity and love coding.
 - I want others to be able to find these notes about my journey. Maybe you've been struggling to find that first gig. Maybe you've always been curious about it.
+Maybe someone told you you'd never be good at it. Forget them; if you love it, do it! There is room for all of us, and we need your perspective and insight, too.
 - I'm going to document my journey during summer, so that it might be of use to someone. I'm still learning. After all, I started the game late, but I enjoy
 it, and I have the courage and humility to be okay with making mistakes and learning in this space. I'm a very flawed individual, as humans are, but I have a lot
 of curiosity and eagerness to learn. The Human sponge.
