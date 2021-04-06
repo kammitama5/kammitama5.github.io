@@ -20,7 +20,7 @@ as they would need to make a decision, or to give it a shot.
 
 ## I hope you're as excited as I am!
 - Tech for me and my journey into this world started with a few people who saw me curiously standing by, observing what they were doing and asking "what is that?".
-- They showed me a little bit by bit what the possibilities were, and I have forged my own path, full of ups and downs since then. I'd like someone who wants that
-for themselves, even if they're merely curious, to have that for themselves, too. Maybe you'll find some friends along the way, too, in this journey of ups and downs.
+- They showed me a little bit by bit what the possibilities were, and I have forged my own path, full of ups and downs since then. There are days of ups and downs, and technology isn't perfect. Humans aren't perfect, and they make the technology, so you know it's a hot mess all around. But opportunity; I'd like someone who wants that
+experience, that opportunity for themselves, even if they're merely curious, to have that for themselves, too. Maybe you'll find some friends along the way, too, in this journey of ups and downs. Don't give up, and be sure to have some fun along the way, find a network that supports and accepts you kindly as you are, and take care of yourself.
 
 ## And that's it
