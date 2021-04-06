@@ -1,7 +1,7 @@
 ## RLOSFEST (Open Source)
 
 ## I've been accepted to RLOS Fest. What's RLOS Fest?
-- It's Microsoft Research's Reinforcement Learning Open Source Fest. It means I'll be contributing to an open source project
+- It's Microsoft Research's Reinforcement Learning [Open Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/). It means I'll be contributing to an open source project
 this summer. I am *excited*. This is for several reasons; one is that without mentors giving me access to learn about Open Source,
 I wouldn't be where I am today. Particularly as someone from a non-traditional background, it gives you a leg up. It gives you 
 visibility, an opportunity to learn from mentors and maintainers, and to contribute to a large code base.
