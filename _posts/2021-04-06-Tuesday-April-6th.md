@@ -5,6 +5,8 @@
 this summer. I am *excited*. This is for several reasons; one is that without mentors giving me access to learn about Open Source,
 I wouldn't be where I am today. Particularly as someone from a non-traditional background, it gives you a leg up. It gives you 
 visibility, an opportunity to learn from mentors and maintainers, and to contribute to a large code base.
+- Good mentorship in tech is really, really important. It can be the difference between someone being set up for success and having exponential growth, and not,
+and flunking out of tech, feeling depressed; like it was the worst decision of their life, even if they came in with joy and curiosity and love coding.
 - I want others to be able to find these notes about my journey. Maybe you've been struggling to find that first gig. Maybe you've always been curious about it.
 - I'm going to document my journey during summer, so that it might be of use to someone. I'm still learning. After all, I started the game late, but I enjoy
 it, and I have the courage and humility to be okay with making mistakes and learning in this space. I'm a very flawed individual, as humans are, but I have a lot
