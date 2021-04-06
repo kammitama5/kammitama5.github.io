@@ -23,7 +23,9 @@
 - I'm showing a pop-up book related to Maths that I made a while ago at Brown's SUMS event, for PI day, under the theme "Math and Illusion" :)
 - I'm taking an Artificial Worldbuilding class on genetic algorithms, cellular automata and reinforcement learning through Hyperlink Academy
 - I participated (1 of 20) in the AI and Cybersecurity workshop at the Alan Turing Institute
-- I have been invited to speak on a panel at the Alcol Conference 2021
+- I have been invited to speak on a panel at the Algol Conference 2021
+- I have been accepted to be a participant at the Reinforcement Learning Open Source Festival via Microsoft Research this summer! Excited to contribute
+  to open source!!!
 
 ## 2020
 
