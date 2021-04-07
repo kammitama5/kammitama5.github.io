@@ -193,6 +193,7 @@
 - Privacy: Law, Policy, & Design (196) (SP21) (in progress)
 - Cryptography (259) (SP21) (in progress)
 - An Information Theory Class (CS 395) (FA 21)
+- Abstract Algebra 1 (MATH 251 A) (FA 21)
 
 ## Kinda-sorta (Audit) (2021 Winter: done)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
