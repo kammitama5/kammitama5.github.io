@@ -187,6 +187,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding in Scratch); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
 - Intern at Microsoft (remote)
+- Microsoft Research Reinforcement Learning Open Source Fest (remote)
 - Intern at Autodesk (remote)
 - Intern at Apple (three months) (bay area)
 - I was a manual tester/ sdet/ plans of making me a build/release engineer but I quit before then? for six months (LA)
