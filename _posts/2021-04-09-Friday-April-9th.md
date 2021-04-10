@@ -47,7 +47,7 @@ it happens. When you are an unknown, who will you turn to in order to protect yo
 I'd like to remind you that in many cases, these songs *were* recorded, and if the situation were reversed, the small, island artist would be *heavily* sued.
 I believe there's a type of moprhism in Maths for that; the one that only goes in one direction. I'm taking a class on that stuff next semester. A ring of thievery
 and lies. I don't think that's a subfield but maybe it should be.
-- Would it change your truth? If your story is never told?
+- Would it change your truth, if your story is never told?
 
 ## How do you sustain your creativity in systems that penalize innovation at the lower level?
 - When I was in high school, my dad was very afraid that my school would destroy my writing style, because he said that the way I wrote was engaging, but he was worried that our rigid educational system (thanks Colonialism!) would slowly eat at me, until there was nothing left that was mine anymore. And this happens. People
