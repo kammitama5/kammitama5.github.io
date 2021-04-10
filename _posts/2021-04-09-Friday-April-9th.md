@@ -39,7 +39,7 @@ the higher-ups were telling me I was too much of a smart-ass and needed to learn
 that hides our mediocrity. You are here to be *used*.
 
 ## This isn't new
-- I come from a region that, if you ever had the time, would give you a long list of examples of being stolen from in terms of ideas. 
+- I come from a region that, if you ever had the time, would give you a long list of examples of being stolen from in terms of ideas (and resources or capital). 
 - Imagine coming from an island of 1 million people, travelling to Europe, and hearing a song by another European artiste that had just come out that year,
 and everyone told you that the song was really catchy, even though you knew the song seven years ago as being sung by a local, unknown composer. This happened
 *a lot* when I was growing up, and even in my parents' time. Let's just say that there is a lot of eye-rolling and a lack of trust because of how frequently
