@@ -19,6 +19,8 @@ to determine if *you* are particularly doing novel work; the system is structure
 power. 
 - The system simply doesn't reward independent thinking at that level; you'll be considered the [Nick Leeson](https://en.wikipedia.org/wiki/Nick_Leeson) of PhDs, and the higher ups will probably look at your
 advisor in contempt and ask whether they are sure they have "everything under control".
+- It's funny how there is this sold version of a "comfortable rebel", a "constrained free thinker", if you will. These kinds of inconsistencies are beloved by
+institutions that follow the status quo, while giving themselves a pat on the back for fostering innovation. They are anything but, though.
 - You are promised that if you stick with it, you will have the opportunity to express your creativity. This seems really strange to me, because it means that if
 you are truly a creative person, but you lack resources, or the ability to stick out the process for whatever reasons, you may never have an opportunity in that
 very structure to see any of those creative ideas come to fruition. Unless, of course, it is stolen by someone with more power, more clout. 
