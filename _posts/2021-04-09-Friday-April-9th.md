@@ -33,7 +33,7 @@ to pair your ideas with your identity? Maybe that's part of why we see the peopl
 getting rejected. But strangely, I went to an event of large company, and they began essentially saying that their work would be in that direction, and 
 I know that they had read my proposal. At the time I thought it was funny, and had thought to myself cynically that they probably shouldn't pitch it to organization 
 X, Y or Z because they wouldn't give you funding for it. I watched
-a video a while ago by [Louis Rossmann](https://www.youtube.com/watch?v=i6fGOXWO0w4&t=1s), where he talks about how you can control your reaction when these things happen. When you get screwed, you lose if you lose
+a video a while ago by [Louis](https://www.youtube.com/watch?v=i6fGOXWO0w4&t=1s), where he talks about how you can control your reaction when these things happen. When you get screwed, you lose if you lose
 your head, if you let it get to you. I've had a history of being stolen from, on so many levels, across various fields. The funny part is that it was usually while
 the higher-ups were telling me I was too much of a smart-ass and needed to learn my place. Your place is that you are here to be pilfered from, to be a vehicle 
 that hides our mediocrity. You are here to be *used*.
