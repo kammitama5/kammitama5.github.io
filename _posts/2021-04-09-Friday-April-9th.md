@@ -15,7 +15,7 @@ kill me, but WOW.". It energized me.
 where the higher up you are, you are rewarded for "innovation". My advisor and I had a brief discussion about it this week, because it had been pointed out that
 on the lower levels of Academia, or say, being a PhD student, you are not rewarded for truly being creative. When people invest in you on this level, it is because
 you have done the things that are instructed of you. Someone you work for or with may be doing particularly novel work, but at that level, there isn't a real way
-to determine if *you* are particularly doing novel work, the system is structured so that your work is really a reflection of your obedience and loyalty to a higher
+to determine if *you* are particularly doing novel work; the system is structured so that your work is really a reflection of your obedience and loyalty to a higher
 power. 
 - The system simply doesn't reward independent thinking at that level; you'll be considered the Nick Leeson of PhDs, and the higher ups will probably look at your
 advisor in contempt and ask whether they are sure they have "everything under control".
