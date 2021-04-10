@@ -17,6 +17,8 @@ on the lower levels of Academia, or say, being a PhD student, you are not reward
 you have done the things that are instructed of you. Someone you work for or with may be doing particularly novel work, but at that level, there isn't a real way
 to determine if *you* are particularly doing novel work, the system is structured so that your work is really a reflection of your obedience and loyalty to a higher
 power. 
+- The system simply doesn't reward independent thinking at that level; you'll be considered the Nick Leeson of PhDs, and the higher ups will probably look at your
+advisor in contempt and ask whether they are sure they have "everything under control".
 - You are promised that if you stick with it, you will have the opportunity to express your creativity. This seems really strange to me, because it means that if
 you are truly a creative person, but you lack resources, or the ability to stick out the process for whatever reasons, you may never have an opportunity in that
 very structure to see any of those creative ideas come to fruition. Unless, of course, it is stolen by someone with more power, more clout. 
