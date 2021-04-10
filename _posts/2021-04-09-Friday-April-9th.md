@@ -3,7 +3,7 @@
 ## A new rabbit hole
 - I met a bunch of people today through a new space, and it made me smile, because they were all interesting.
 Meeting them reminded me of being in Los Angeles in the Arts community, where people would weave in and out, where you
-might pop in and see that the VFX Supervisor for the currently [10-time Oscar winning movie](https://en.wikipedia.org/wiki/Life_of_Pi_(film)) that year was casually taking 
+might pop in and see that the VFX Supervisor for the current [10-time Oscar winning movie](https://en.wikipedia.org/wiki/Life_of_Pi_(film)) that year was casually taking 
 a drawing class and sitting next to you, or a Mathematician doing her PhD in Topology was taking a painting class with you.
 - I left the space excited. The whole group has this energy, this momentum, like we are all sitting on the edge of something new. 
 And when I say "new", I don't mean one that is defined by the feudalistic approaches and hierarchical structures that *allow* a definition of new, but new-new.
