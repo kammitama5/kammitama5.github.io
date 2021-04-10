@@ -10,7 +10,7 @@ And when I say "new", I don't mean one that is defined by the feudalistic approa
 Everyone there was *so* refreshing to meet. I left the group and had a moment where I caught my breath and thought "wow. This is SUPER cool. My advisor *might* 
 kill me, but WOW.". It energized me. 
 
-## Innovation in Hierarchical Structures
+## Innovation in Hierarchical Structures (or Conformity "with Sprinkles")
 - One of the things that has been interesting to me about Academia is that I am seeing striking resemblances to some other industries I've been a part of,
 where the higher up you are, you are rewarded for "innovation". My advisor and I had a brief discussion about it this week, because it had been pointed out that
 on the lower levels of Academia, or say, being a PhD student, you are not rewarded for truly being creative. When people invest in you on this level, it is because
