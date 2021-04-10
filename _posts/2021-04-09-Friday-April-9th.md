@@ -49,6 +49,10 @@ I believe there's a type of moprhism in Maths for that; the one that only goes i
 and lies. I don't think that's a subfield but maybe it should be.
 
 ## How do you sustain your creativity in systems that penalize innovation at the lower level?
+- When I was in high school, my dad was very afraid that my school would destroy my writing style, because he said that the way I wrote was engaging, but he was worried that our rigid educational system (thanks Colonialism!) would slowly eat at me, until there was nothing left that was mine anymore. And this happens. People
+do grow weary, and they *do settle*. Especially if you give them just enough to be content, or you break their spirit. They give up. That song about [the Boxer](https://en.wikipedia.org/wiki/The_Boxer) comes
+to mind, and it's so powerful because in that system, they *fought*. I often imagine that the song is about so much more than that; as they were musicians. It's 
+about continuing to stay true to your identity, in spite of being *ground down*.
 - In film, there's a common saying at the lower levels; "we hired you from the neck down". I've never thought about it this way, but maybe that also means that 
 "if you have ideas, for the people at the top, your ideas are fair game, and we can profit off of them". 
 - What does that mean for sustaining oneself in such a system? I have been taking this Artificial Worldbuilding class, and we were looking at [Sandspiel](https://sandspiel.club/#),
