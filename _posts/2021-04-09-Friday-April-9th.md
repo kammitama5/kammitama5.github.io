@@ -20,7 +20,9 @@ power.
 - The system simply doesn't reward independent thinking at that level; you'll be considered the [Nick Leeson](https://en.wikipedia.org/wiki/Nick_Leeson) of PhDs, and the higher ups will probably look at your
 advisor in contempt and ask whether they are sure they have "everything under control".
 - It's funny how there is this sold version of a "comfortable rebel", a "constrained free thinker", if you will. These kinds of inconsistencies are beloved by
-institutions that follow the status quo, while giving themselves a pat on the back for fostering innovation. They are anything but, though.
+institutions that follow the status quo, while giving themselves a pat on the back for fostering innovation. They are anything but, though. Books such as Saban's 
+"The Illusion of Choice", which I read more than a decade ago, talk about this. We ascribe value in our up and coming by the degree two which they demonstrate obedience, rather than by their ability to generate their own ideas, to think freely and critically, and we suffocate them with "busy work" so that they simply
+don't have the time or the space to engage in this type of thinking. If they do, we alienate them.
 - You are promised that if you stick with it, you will have the opportunity to express your creativity. This seems really strange to me, because it means that if
 you are truly a creative person, but you lack resources, or the ability to stick out the process for whatever reasons, you may never have an opportunity in that
 very structure to see any of those creative ideas come to fruition. Unless, of course, it is stolen by someone with more power, more clout. 
