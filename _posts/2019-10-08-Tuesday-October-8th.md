@@ -27,6 +27,7 @@
 - I have been accepted to be a participant at the Reinforcement Learning Open Source Festival via Microsoft Research this summer! Excited to contribute
   to open source!!!
 - I have been invited to participate in the Environmental Enablers for AI challenges in Cybersecurity" workshop at the Alan Turing Institute
+- I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track 
 
 ## 2020
 
