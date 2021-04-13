@@ -40,7 +40,7 @@ I had no idea about the results, but figured since I didn't get pinged and just 
 ## Starting over
 - I can't help but think about how different my experiences were in this hackathon versus my first experience, where I didn't end up taking part.
 - Or in ones like BayHac or the LambdaConf one, where people were patient with me, and paired with me. I'm super grateful for that. I learned a lot,
-made new friends, and had a lot of fun.
+made new friends, and had a lot of fun. To my team, my mentors, and to the group and everyone who keeps supporting me and encouraging me to keep going; thank you so much for everything.
 
 ## Here are some photos
 
