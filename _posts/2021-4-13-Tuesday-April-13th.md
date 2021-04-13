@@ -18,7 +18,7 @@ around 2017), I had arrived and asked where the restroom might be (because I had
 at me and didn't say anything. Needless to say, I ended up very alone, and after I did the instructional pre-learning part of the hackathon (where they introduce
 the technology, tools, etc), I left and never returned.
 - But this one was different. It was definitely a very kind group, and we had a very solid and informative session where people could learn about how to analyze data.
-- The mentors were *fantastic*. Every one of them gave such incredible advice, starting with one of the most amazing Applied Statistics professors I have ever met,
+- The mentors were *fantastic*. Every one of them gave such incredible advice, starting with one of the most [amazing Applied Statistics professors I have ever met](http://web.csulb.edu/~okoroste/),
 who told us that we only had 5 minutes, so we should focus on a good story and in telling a good story. She also mentioned that we may need to supplement the
 dataset that was given to us. So our group ended up having to use an api to obtain more data. 
 - Another thing is that our group was based on the West Coast, but I am not. I think the first night, I went to sleep at 2am, but I got up to meet at 11am
