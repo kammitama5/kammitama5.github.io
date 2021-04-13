@@ -2,7 +2,7 @@
 
 ## Finding new friends
 - I remembered in LA that I used to hang out in data circles, when I wasn't hanging out with Haskell or Hacker people, so I started out hanging out with people on the West Coast again.
-- A lot the reason for this was also because I had done this Computational Social Science workshop, and had gotten back into R again, the first programming language I ever tried.
+- A lot the reason for this was also because I had done this [Computational Social Science workshop](https://kammitama5.github.io/Sunday-January-10th/), and had gotten back into R again, the first programming language I ever tried (my dad studied Economics back when it was a very rigorous Quantitative field, and is a huge Open Source advocate, so we grew up with programmes like R and Octave on a Desktop partitioned with RedHat and Windows ).
 - Soon, it was a little bit of a compulsion. I sometimes had up to 5 (yes, that's five) R workshops a week, was doing a book club, and just kept going. The community is pretty great. So these days, if I'm not hanging out in some cryptography or blockchain group, I'm usually in an R Meetup (hooray!).
 - Plus, it's functional, so it scratches that itch. I even opened an issue when I was doing my presentation for the last book club I attended, when I found some broken links in a Graph library.
 - Tonight, I also led a session on Text Mining, which was pretty anxiety-ridden, but it's such a supportive group, I can't help but feel grateful for this group, especially during COVID.
