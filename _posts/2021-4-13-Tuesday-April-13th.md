@@ -44,7 +44,7 @@ made new friends, and had a lot of fun. To my team, my mentors, and to the group
 
 ## Here are some photos
 
-<img src="/images/OCRUGHackathon21/hackathon1.png" width="500">
+<img src="/images/OCRUGHackathon21/hackathon1.png" width="700">
 
 <img src="/images/OCRUGHackathon21/hackathon2.png" width="500">
 
