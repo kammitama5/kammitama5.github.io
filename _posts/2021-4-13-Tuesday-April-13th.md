@@ -54,7 +54,5 @@ made new friends, and had a lot of fun.
 
 <img src="/images/OCRUGHackathon21/hackathon7.png" width="500">
 
-<img src="/images/OCRUGHackathon21/hackathon1.png" width="500">
-
 ## And that's it.
 
