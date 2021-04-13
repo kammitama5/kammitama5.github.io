@@ -21,6 +21,8 @@ the technology, tools, etc), I left and never returned.
 - The mentors were *fantastic*. Every one of them gave such incredible advice, starting with one of the most [amazing Applied Statistics professors I have ever met](http://web.csulb.edu/~okoroste/),
 who told us that we only had 5 minutes, so we should focus on a good story and in telling a good story. She also mentioned that we may need to supplement the
 dataset that was given to us. So our group ended up having to use an api to obtain more data. 
+- I took an Advanced Regression class with her a few weeks ago, and learned *so* much! She's awesome and has this deep, incredible knowledge, and makes
+me think that she is exactly the kind of person who would inspire me to become a professor. She's amazing!
 - Another thing is that our group was based on the West Coast, but I am not. I think the first night, I went to sleep at 2am, but I got up to meet at 11am
 on Sunday. 
 
