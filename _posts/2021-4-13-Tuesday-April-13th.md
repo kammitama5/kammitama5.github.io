@@ -6,7 +6,7 @@
 super into databases and does really crazy stuff with Excel; he's one of those people who is also always tinkering with stuff, especially if "he found
 a new open source thing" that looks interesting. These days, he is into photography stuff and editing, so we talk a bit about open source programmes for that, and he even made a greenscreen backdrop out of pvc and was asking me about lighting stuff the other day and has these weird robot cameras that work from his phone that he and my mom will randomly mention when we are chatting sometimes).
 - Anyways, back to R. Soon, it was a little bit of a compulsion. I sometimes had up to 5 (yes, that's five) R workshops a week, was doing a book club, and just kept going. The community is pretty great. So these days, if I'm not hanging out in some cryptography or blockchain group, I'm usually in an R Meetup (hooray!).
-- Plus, it's functional, so it scratches that itch. I even opened an issue when I was doing my presentation for the last book club I attended, when I found some broken links in a Graph library.
+- Plus, it's functional, so it scratches that itch. I even opened an issue when I was doing my presentation for the last book club I attended, when I found some broken links in a Graph library. I'm still much better at Python, though (ha). Don't ask me to do your coding challenges in R, please :)
 - Tonight, I also led a session on Text Mining, which was pretty anxiety-ridden, but it's such a supportive group, I can't help but feel grateful for this group, especially during COVID.
 - One of my biggest fears is that after we are back on campus, it will be difficult to meet up regularly with everyone, because most of my friends aren't local. Oh well.
 
