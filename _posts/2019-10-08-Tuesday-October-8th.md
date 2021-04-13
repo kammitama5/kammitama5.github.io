@@ -24,11 +24,12 @@
 - I'm taking an Artificial Worldbuilding class on genetic algorithms, cellular automata and reinforcement learning through Hyperlink Academy
 - I participated (1 of 20) in the AI and Cybersecurity workshop at the Alan Turing Institute
 - I have been invited to speak on a panel at the Algol Conference 2021
+- I will be participating in the Isogeny-based Cryptography Winter school 2021
 - I have been accepted to be a participant at the Reinforcement Learning Open Source Festival via Microsoft Research this summer! Excited to contribute
   to open source!!!
 - I have been invited to participate in the Environmental Enablers for AI challenges in Cybersecurity" workshop at the Alan Turing Institute
 - Our group won one of the top prizes, Best Visualization, at the OC RUG Data Hackathon! 
-- I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track 
+- I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track
 
 ## 2020
 
