@@ -30,6 +30,7 @@
 - I have been invited to participate in the Environmental Enablers for AI challenges in Cybersecurity" workshop at the Alan Turing Institute
 - Our group won one of the top prizes, Best Visualization, at the OC RUG Data Hackathon! 
 - I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track
+- I'll be attending the 4th Annual ZK-Proof workshop :)
 
 ## 2020
 
