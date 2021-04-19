@@ -32,6 +32,7 @@
 - I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track
 - I have been accepted to Block III of Gitcoin's Kernel Fellowship, and supported with a Scholarship for Women! I'm so thankful for this group!
 - I'll be attending the 4th Annual ZK-Proof workshop :)
+- I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop! :)
 
 ## 2020
 
