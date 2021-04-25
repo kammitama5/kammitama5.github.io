@@ -27,7 +27,7 @@ such as your friends, family, or sports or other activities you may enjoy outsid
 - I've thought about this a bit since she gave this amazing talk, because I think that it's especially a problem for the kind of person who would choose to pursue
 something like a doctoral degree. Or run a business. Or pursue a Hollywood career. They tend to be very driven, focus-minded, goal oriented people who are set
 on achieving this one goal, and are absolutely broken if this doesn't pan out. So I'm really happy she gave this talk.
-- It's interesting because when I think about stools, the first thing I think about is Glenn Gould. I took a class at Cornell in my last semester of Undergrad,
+- It's interesting because when I think about stools, the first thing I think about is [Glenn Gould](https://en.wikipedia.org/wiki/Glenn_Gould), which I understand is a weird thing to say, so hear me out. I took a class at Cornell in my last semester of Undergrad,
 where I learned a lot about his music, including listening to his 1955 album of Bach's Goldberg Variations. Later, I bought several books on him. He was absolutely
 fascinating because he was one of those obsessive types, and he often performed with a lopsided stool. To me, it's a great analogy for the type of personality type
 or level of commitment of certain types of people who pursue achievement of goals at certain levels in society. 
