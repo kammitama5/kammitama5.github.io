@@ -61,6 +61,7 @@ interested in, and the tech communities I've derived the most pleasure from hang
 - Many of the languages and topics I am most intrigued by in tech tend to be very specific, and persons have gotten into very heated debates about 
 the specificity of certain aspects. Years ago in our Haskell Meetup, one of the things that excited me about our local Meetup was that it was the first programming thing I had
 been to where people were having heated debates about how to solve a thing, or about the syntax. It was so engrossing. Things *mattered*.
+- These days, I've been really enjoying my professor's Maths Cryptography class. It's so engaging and it's one of those spaces where things do matter. 
 - I joined a cryptography group this week with some really awesome people, and now I'm in a Telegram group with them. And I've found myself staying up at 
 4am working through and reading things, and writing code, just because it's fun and I couldn't really imagine doing anything else with my time. But I have to 
 be wary of burnout. Many times, it's not the work, but the negativity and gaslighting by other people that burns me out.
