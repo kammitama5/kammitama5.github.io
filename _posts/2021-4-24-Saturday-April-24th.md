@@ -10,6 +10,9 @@ we should come back to complete our degree. It was so refreshing to hear and enc
 of the companies was teasing me and telling me "these companies are testing your commitment to your completing your degree", and my advisor said "they're trying to
 get you to quit". I understand that this varies from person to person, but particularly if you are from an underrepresented group and have made it this far, you
 can find yourself being pulled in multiple directions.
+- Also, for those who are not getting such opportunities, they may be less empathetic, and retaliate in ways that aren't helpful to understanding that this is a
+genuine problem you need help navigating, not an opportunity you are you using the brag. It can be very frustrating, because you may find you have these problems
+and there isn't anyone you can speak with because your peers may think you are bragging or rubbing it in their face if you ask them for help. And that's unfortunate.
 - [Dr. Morris](https://en.wikipedia.org/wiki/Meredith_Ringel_Morris) also had a 1:1 session with me, and another panel talk later on, in which she said that it is
 in fact prestigious to be asked to review for conferences. Someone had told me that I was only getting these opportunities because "no one wants to do them", which
 is not true. The environment can be cutthroat because other persons *want* these opportunities, so they try to convince you that they aren't worth much, which is a
