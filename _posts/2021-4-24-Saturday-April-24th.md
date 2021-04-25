@@ -61,8 +61,8 @@ be wary of burnout. Many times, it's not the work, but the negativity and gaslig
 
 ## Balance is still important
 - I experienced a bit of calm this week after I came to the realization that a group I was in would never acknowledge any of my achievements. Having a particularly
-strong sense of fairness (shared by my family), I wasn't bothered by it, but I was on priciple. It would always be the case that anything I achieved was never
-acknowledged, and even diminished, while the smallest of those would always be celebrated. And for the longest time it bugged me.
+strong sense of fairness (shared by my family), I wasn't bothered by it, but I was on principle. It would always be the case that anything I achieved was never
+acknowledged, and even diminished, while the smallest of those would always be celebrated. And for the longest time it bugged me. 
 - This week, I was able to find some peace on that, and it started to bother me less. My head was just in a different space. 
 - I think that that's an important lesson to learn, or rather, it was for me to learn, because those things can eat at you, and poison you. I responded mostly
 by being a smart@$$, and essentially responding by saying that I saw through the malarkey of what they were trying to do, and while they were able to get away
