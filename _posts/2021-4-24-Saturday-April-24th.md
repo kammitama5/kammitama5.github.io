@@ -15,10 +15,13 @@ genuine problem you need help navigating, not an opportunity you are using to br
 and there isn't anyone you can speak with because your peers may think you are bragging or rubbing it in their face if you ask them for help. And that's unfortunate.
 - [Dr. Morris](https://en.wikipedia.org/wiki/Meredith_Ringel_Morris) also had a 1:1 session with me, and another panel talk later on, in which she said that it is
 in fact prestigious to be asked to review for conferences. Someone had told me that I was only getting these opportunities because "no one wants to do them", which
-is not true. The environment can be cutthroat because other persons *want* these opportunities, so they try to convince you that they aren't worth much, which is a
+is not true. The environment can be cutthroat because other persons *want* these opportunities, so they try to convince you that they aren't worth much and diminish the value of results that should be celebrated. Grad school has a lot of that, so you have to learn to figure out when what someone is telling you is a 
 lie, and you have to be smart about whose advice you consider, and reason about whether the person is trying to help you or trick you. It's like you're in a 
 real world version of Prince of Persia or something; don't drink the poisonous potions or fall onto the spikes if someone convinces you there is something worth
 looking into that really leads to a death trap.
+- It's been a really strange experience for me personally because I have been in spaces where I will talk about the news and lots of people will congratulate me
+and celebrate my achievements, and in others where I only receive passive-aggressive, negative and diminishing remarks. One of my mentors laughed and told me firmly
+just a few weeks ago "they're jealous". I didn't grow up with a lot of people like that, so it was a revelation to hear her say that. I needed to hear that and realize that it wasn't me; they were projecting insecurity onto me and making me feel like things that I achieved "weren't so great" was a way that they could feel better about the fact that they did not earn (as my mentor reminds me; it's not luck..you earned this and you work very hard!) these accomplishments.
 
 ## The Legs of the stool
 - [Dr. Margo Seltzer](https://en.wikipedia.org/wiki/Margo_Seltzer) gave this amazing talk on finding balance during grad school, which she described as having
