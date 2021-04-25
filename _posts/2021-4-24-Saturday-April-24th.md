@@ -41,7 +41,11 @@ of the night with an idea or something that he processed in his sleep. I guess w
 it's very difficult to find that balance. So the "legs of a stool" analogy is fascinating.
 
 ## Friends without balance
-- I don't think I've had many friends who are balanced, to be honest. I don't think that persons I have met who have that personality type stick around.
+- I don't think I've had many friends who are balanced, to be honest. I don't think that persons I have met who have that balanced personality type stick around.
+- Often, they find this balance later on, after their achievements bring them perspective. One of my professors said that as you get older, you start to accept
+the things that you can't change, and you become more chill. I don't know about that; some people might characterize some of my (even older) friends as pretty 
+insane in terms of the lengths they got to achieve their goals, and that suits them fine because they really would probably really go nuts if they couldn't do
+the thing they do. It's a compulsion.
 - It's very common for many of my friends to be these firecracker-type, high achievers, or to be these persons who are driven by these obscure ideas that they
 talk constantly about, until it becomes obvious over time why they were so fascinated by it. I think that that is reflected in the languages that I am most 
 interested in, and the tech communities I've derived the most pleasure from hanging out within. We aren't just doing this for fun; it's part of who we are.
