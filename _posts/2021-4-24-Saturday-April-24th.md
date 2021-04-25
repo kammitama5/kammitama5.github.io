@@ -62,6 +62,10 @@ interested in, and the tech communities I've derived the most pleasure from hang
 the specificity of certain aspects. Years ago in our Haskell Meetup, one of the things that excited me about our local Meetup was that it was the first programming thing I had
 been to where people were having heated debates about how to solve a thing, or about the syntax. It was so engrossing. Things *mattered*.
 - These days, I've been really enjoying my professor's Maths Cryptography class. It's so engaging and it's one of those spaces where things do matter. 
+My professor has given us a couple opportunities to research and write "Impress Me" papers in which we can go down into a Cryptography rabbit hole, and even
+though we can technically write a couple pages or so, all of my reports have been at least 7 pages because I just find myself getting lost in the material,
+at 4am, wanting to learn more. The community is also pretty amazing, and fun, too, and they have convinced me to get a tablet, since it's the closest thing
+to doing Maths in a virtual, shareable way that isn't a blackboard.
 - I joined a cryptography group this week with some really awesome people, and now I'm in a Telegram group with them. And I've found myself staying up at 
 4am working through and reading things, and writing code, just because it's fun and I couldn't really imagine doing anything else with my time. But I have to 
 be wary of burnout. Many times, it's not the work, but the negativity and gaslighting by other people that burns me out.
