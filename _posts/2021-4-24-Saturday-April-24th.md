@@ -49,6 +49,9 @@ the thing they do. It's a compulsion. This results in conflict sometimes because
 being extremely goal-oriented and ambitious. I discovered this also within the sailing community. People on the outside think that sailing is this very fun,
 casual thing, but the people in that community are *absolutely* obsessed with sailing; it's a way of life for them that includes how they see the world. 
 And they become *very* frustrated if you hop onto their boat and don't take the craft of sailing seriously. 
+- This is also true of serious musicians or audio engineers. They take their craft seriously and you show up to practice on time, you run your cables to the 
+board neatly and safely, and you label and pack things up like a professional. They are absolutely infuriated by others who treat their craft, the thing they
+have trained in and devoted their life to, that is their way of life, as this very casual, flippant thing.
 - It's very common for many of my friends to be these firecracker-type, high achievers, or to be these persons who are driven by these obscure ideas that they
 talk constantly about, until it becomes obvious over time why they were so fascinated by it. I think that that is reflected in the languages that I am most 
 interested in, and the tech communities I've derived the most pleasure from hanging out within. We aren't just doing this for fun; it's part of who we are.
