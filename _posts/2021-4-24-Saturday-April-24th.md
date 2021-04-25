@@ -63,10 +63,12 @@ be wary of burnout. Many times, it's not the work, but the negativity and gaslig
 - I experienced a bit of calm this week after I came to the realization that a group I was in would never acknowledge any of my achievements. Having a particularly
 strong sense of fairness (shared by my family), I wasn't bothered by it, but I was on principle. It would always be the case that anything I achieved was never
 acknowledged, and even diminished, while the smallest of those would always be celebrated. And for the longest time it bugged me. 
-- This week, I was able to find some peace on that, and it started to bother me less. My head was just in a different space. 
-- I think that that's an important lesson to learn, or rather, it was for me to learn, because those things can eat at you, and poison you. I responded mostly
+- This week, I was able to find some peace on that, and it started to bother me less. My head was just in a different space. I realized that it may also be their
+way of dealing with their insecurity and a lack of ability to measure up. And that has nothing to do with me, so I should not channel my energy in taking it personally. Instead, I should focus on channelling that drive into my work, and in continuing to stand out, because long-term, that would be the most optimal investment / smarter choice.
+- I think that that's an important lesson to learn, or rather, it was for me to learn, because those things can eat at you, and poison you, especially if you only think about unfairness in a short-term capacity. Something may be immediately unfair, but over time, there may be a correction. I responded mostly
 by being a smart@$$, and essentially responding by saying that I saw through the malarkey of what they were trying to do, and while they were able to get away
-with it, they should know that I did not accept it. It also allowed me to step up this week and also stand up for something else I felt was unfair. 
+with it, they should know that I did not accept it. It also allowed me to step up this week and also stand up for something else I felt was unfair, and actually
+feel vindicated by the person's response, which was unexpected.
 - I think that maybe I will never be one of the most balanced persons just because I am one of those persons who pursues goals furiously and with everything,
 but finding some semblance of balance in another leg allowed me to channel unfairness in a productive way; through my work and in my positive relationships.
 So that's what the legs of the stool mean to me. 
