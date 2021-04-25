@@ -34,7 +34,7 @@ or level of commitment of certain types of people who pursue achievement of goal
 - I finally got into [LA LA Land](https://en.wikipedia.org/wiki/La_La_Land). It was one of the films I always wanted to see, but just never managed to attend 
 one of the screenings when I was in Los Angeles. There is a line in the movie when Gosling tells Stone, right after she has given up on her acting career, thinking
 that it will never happen for her, and receives a callback for a role she eventually gets for a movie in Paris, that if she gets the opportunity, she has to put
-her all into pursuing it. It's like the lopsided leg of the stool, but to be honest, it's all people with that personality type (which highly resonates with myself)
+her all into pursuing it (including sacrificing their budding relationship). It's like the lopsided leg of the stool, but to be honest, it's all people with that personality type (which highly resonates with myself)
 can think of doing; we don't half-@$$ anything. 
 - It reminded me of my dad, who said a few weeks ago that when he was doing Economics work in Latin America decades ago, he would sometimes get up in the middle 
 of the night with an idea or something that he processed in his sleep. I guess we are just wired that way; we become consumed by things that are our passion, and
