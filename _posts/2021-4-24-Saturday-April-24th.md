@@ -58,6 +58,9 @@ have trained in and devoted their life to, that is their way of life, as this ve
 - It's very common for many of my friends to be these firecracker-type, high achievers, or to be these persons who are driven by these obscure ideas that they
 talk constantly about, until it becomes obvious over time why they were so fascinated by it. I think that that is reflected in the languages that I am most 
 interested in, and the tech communities I've derived the most pleasure from hanging out within. We aren't just doing this for fun; it's part of who we are.
+- Many of the languages and topics I am most intrigued by in tech tend to be very specific, and persons have gotten into very heated debates about 
+the specificity of certain aspects. Years ago in our Haskell Meetup, one of the things that excited me about our local Meetup was that it was the first programming thing I had
+been to where people were having heated debates about how to solve a thing, or about the syntax. It was so engrossing. Things *mattered*.
 - I joined a cryptography group this week with some really awesome people, and now I'm in a Telegram group with them. And I've found myself staying up at 
 4am working through and reading things, and writing code, just because it's fun and I couldn't really imagine doing anything else with my time. But I have to 
 be wary of burnout. Many times, it's not the work, but the negativity and gaslighting by other people that burns me out.
