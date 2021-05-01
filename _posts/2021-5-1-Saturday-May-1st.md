@@ -38,7 +38,7 @@ it was so painful, but I grew a lot and learned a lot by just having to suck it 
 things will pan out.
 
 ## Independence
-- I worked on a team once where they said "here, work isn't assigned to you; our meetings are just to inform the team what you're working on". 
+- I worked on a team once where they said "here, work isn't assigned to you; our meetings are just to inform the team what you're working on". Wait; WAT?
 - That's very much more so like being faculty; you may have a manager, but you are expected to have your own sync meetings, write your own grants, 
 find funding, mentor students, and find your own interesting problems to perform research and publish on. All of this, with good judgment. When you 
 close your eyes and think of the kind of person who is able to do this, do you think of the average college graduate? Nah, didn't come to my mind either.
