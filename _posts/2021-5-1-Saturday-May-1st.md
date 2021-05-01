@@ -23,7 +23,7 @@ experience, particularly in the realm of just having to get stuff done. For exam
 they approved your paperwork, but you need to leave the country and come back in within the next few days; I would go this weekend, to be honest. 
 I suggest either Canada or Mexico" (okay; I guess I'm leaving the country and coming back this weekend, then...somehow) and having a kind 
 Canadian friend on a shoot I happened to be working on at the time drive me to the Mexican border overnight to just get what was needed done. 
-- My first two jobs were essentially start-ups, even though they were in technical manufacturing capacities in the film industries, but both involved a lot of 
+- My first two jobs were essentially start-ups, even though they were in technical manufacturing capacities in the film industry, but both involved a lot of 
 moving parts, wearing multiple hats, and putting out fires constantly. And I learned that customers liked to come to me because I would just get stuff done, 
 which would sometimes be a bit of a negative because I would sometimes have to disappear to have lunch. I also learned directly how my eff-ups would impact
 high-pressure and high-stake environments, and why asking necessary questions was important; for example, sending a 19mm rod-setup with the wrong offset for a
