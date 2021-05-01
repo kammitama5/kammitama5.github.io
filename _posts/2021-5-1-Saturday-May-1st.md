@@ -61,7 +61,8 @@ wanting seniors out of the process, but making you beholden to a senior (like a 
 - To be honest, my last proposal that I got funding for was one that I didn't even tell my advisor about until I had gotten a spot and funding. So that worked out lol.
 - I also got to navigate the administrative funding part, which was a trip, but is super valuable, and not something I'm sure most in my year are navigating; 
 they probably expect their advisors to do that for them. Instead, my advisor was more along the lines of "if you have any issues, I can step in". I'm already 
-pretty independent in many ways, which benefits me.
+pretty independent in many ways, which benefits me, but in many ways, it makes me unable to relate to some of my peers. "What do you mean you're waiting for your
+advisor? Just DO IT yourself what is so hard?".
 - But what about a bunch of really smart, talented junior students; how could they get their ideas funded? The current Academic system doesn't really have space
 for that. They talk about independence, but that's not really the case; you are expected to be handheld to some extent until really near the end, and then 
 hooray, you're independent when you're done! That seems pretty silly to me.
