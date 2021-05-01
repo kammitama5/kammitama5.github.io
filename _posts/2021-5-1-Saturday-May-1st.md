@@ -44,7 +44,7 @@ things will pan out.
 find funding, mentor students, and find your own interesting problems to perform research and publish on. All of this, with good judgment. When you 
 close your eyes and think of the kind of person who is able to do this, do you think of the average college graduate? Nah, didn't come to my mind either.
 - However, maybe we *should* be encouraging this; part of the current critique of college is that it operates like daycare. And that contributes to students
-getting owned by the time they graduate. But I'm just a graduate student. I think because I have worked and have life experience I tend to look a *little* 
+getting owned by the time they graduate. But I'm just a graduate student, and it's almost nap time. I think because I have worked and have life experience I tend to look a *little* 
 ahead and am fairly independent already, but I don't know *everything* about navigating the system. And often, I get frustrated comparing what I expect 
 the Academic system to do, and at the pace within which it operates, relative to the world I was in before. How does this make sense, I find myself asking.
 - I've also thought about this in terms of open source; I had a meeting this week with maintainers of this project I'll be working on over summer, and I asked
