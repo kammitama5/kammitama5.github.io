@@ -48,7 +48,7 @@ getting owned by the time they graduate. But I'm just a graduate student, and it
 ahead and am fairly independent already, but I don't know *everything* about navigating the system. And often, I get frustrated comparing what I expect 
 the Academic system to do, and at the pace within which it operates, relative to the world I was in before. How does this make sense, I find myself asking.
 - I've also thought about this in terms of open source; I had a meeting this week with maintainers of this project I'll be working on over summer, and I asked
-if students usually end up maintaining the project, because it was important to me. I'd like to be part of an open source project that I can actually be a 
+if students usually end up maintaining the project, because it was important to me and signified, in my mind, the kind of mentorship I would receive. I'd like to be part of an open source project that I can actually be a 
 maintainer on for a long period of time. I was pleasantly surprised that one of my mentors said that last year's (student) participant is the sole maintainer
 of their project. That's awesome. That's exactly the kind of mentorship I'm looking for. I want to learn more about what the differences are between the average
 open source project where this isn't the case, and these kinds of other projects where people are motivated to take initiative and say "I want to maintain this",
