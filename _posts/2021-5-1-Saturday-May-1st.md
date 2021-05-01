@@ -69,6 +69,7 @@ hooray, you're independent when you're done! That seems pretty silly to me.
 - I have one friend who is working on a project like this, but it would be really cool to see more spaces for things like this, and I think that besides the 
 typical venture capital models, things like Daos are perfect for this for juniors in an Academic program with great ideas. Decentralized, smaller communities
 that can fund good ideas, and where you can just submit proposals. And you give back to the community by those projects, which are voted on and funded.
+Also, it would give students the opportunity to see early on what their community (and not some random @$$ government grant organization) actually cares about.
 - So I'm excited by anything like that that is an alternative to this top-down nonsense garbage monster of a system. 
 - It not only shifts the power of the infrastructure, but teaches even juniors to "ask for what they want". 
 
