@@ -7,7 +7,8 @@ I've been thinking about this for quite a bit, as I've had a number of things co
 - As a PhD student or any kind of junior, the bridge to coming out on the other side as faculty means that you, as one of my mentors says,
 "go from being a student, to a colleague". So there is something between getting from A to B that has to transition or lead to that. 
 - I've thought about this, also, in the context of the way seniors perceive junior engineers, and how they often are frustrated that they aren't
-taking initiative, while laying out a route or plan that does not take this into consideration. 
+taking initiative, while laying out a route or plan that does not take this into consideration. If I need to get your approval for everything,
+then my growth with respect to this will be stagnated to some extent.
 - In another group I am in, we were talking about "learned helplessness", as some engineers become comfortable asking for help rather than trying to really
 dig into solving a problem. Someone mentioned that often, it's a coping mechanism for setting boundaries in an organization. However, for individual growth,
 it can be a hindrance. 
