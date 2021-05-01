@@ -34,7 +34,7 @@ get passive aggressive behavior telling you to piss off and that you should know
 knows this stuff now. It's also a very sexist industry (particularly on the technical side), but I won't get into that.
 - I've thought back to another faculty member who has told me, mid-conversation "you know, I like talking to you; talking with you is like talking with a peer."
 - I later thought, maybe that's because of all the messed up crap I've had to deal with and just resolve over the years; some of it was very laughable because
-it was so paintful, but I grew a lot and learned a lot by just having to suck it up and find a way to resolve things. It gives me the ability to anticipate how
+it was so painful, but I grew a lot and learned a lot by just having to suck it up and find a way to resolve things. It gives me the ability to anticipate how
 things will pan out.
 
 ## Independence
