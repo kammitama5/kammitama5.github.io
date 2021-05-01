@@ -58,7 +58,7 @@ in a way that the project signifies something they'd like to see live on and in 
 - During the CRA Grad Cohort Workshop, during a talk, I sort of hijacked the chat and spurred a lot of interest by saying that I wished there was a space for
 junior researchers to get funding; often you have to rely on seniors to help you write a grant application or some nonsense to get a grant, because that's Academia;
 wanting seniors out of the process, but making you beholden to a senior (like a child) the whole way.
-- To be honest, my last proposal that I got was one that I didn't even tell my advisor about until I had gotten a spot and funding for. So that worked out lol.
+- To be honest, my last proposal that I got funding for was one that I didn't even tell my advisor about until I had gotten a spot and funding. So that worked out lol.
 - I also got to navigate the administrative funding part, which was a trip, but is super valuable, and not something I'm sure most in my year are navigating; 
 they probably expect their advisors to do that for them. Instead, my advisor was more along the lines of "if you have any issues, I can step in". I'm already 
 pretty independent in many ways, which benefits me.
