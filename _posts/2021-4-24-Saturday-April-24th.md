@@ -48,6 +48,7 @@ it's very difficult to find that balance. So the "legs of a stool" analogy is fa
 
 ## Friends without balance
 - I don't think I've had many friends who are balanced, to be honest. I don't think that persons I have met who have that balanced personality type stick around.
+- My friends are usually high-achievers at the top of their careers, but they've worked *very* hard and have sacrificed a lot to get where they are. Good on them.
 - Often, they find this balance later on, after their achievements bring them perspective, through mentoring others in the things they are good at and have dedicated their lives towards honing. One of my professors said that as you get older, you start to accept
 the things that you can't change, and you become more chill. I don't know about that; some people might characterize some of my (even older) friends as pretty 
 insane in terms of the lengths they go to achieve their goals, and that suits them fine because they really would probably really go nuts if they couldn't do
