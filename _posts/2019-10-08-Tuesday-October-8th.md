@@ -34,8 +34,9 @@
 - I have been accepted to Block III of Gitcoin's Kernel Fellowship, and supported with a Scholarship for Women! I'm so thankful for this group!
 - I'll be attending the 4th Annual ZK-Proof workshop :)
 - I've been invited to be a DEI co-chair for ICLR 2022.
-- I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop! :)
-- I've been asked to be a reviewier for the BlackAIR summer research grant workshop
+- I've been invited as a reviewer for GHC 2021.
+- I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop 2021! :)
+- I've been asked to be a reviewier for the BlackAIR summer research grant workshop 2021
 - I'll be attending the CHIMe workshop 2021
 
 ## 2020
