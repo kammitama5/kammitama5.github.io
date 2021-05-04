@@ -24,7 +24,7 @@
 - I'm taking an Artificial Worldbuilding class on genetic algorithms, cellular automata and reinforcement learning through Hyperlink Academy
 - I participated (1 of 20) in the AI and Cybersecurity workshop at the Alan Turing Institute
 - I have been invited to speak on a panel at the Algol Conference 2021
-- I have been accepted to SICSS Howard-Mathematica's summer workshop :)
+- I have been accepted to SICSS Howard-Mathematica's summer workshop :) (I had to decline because I am at capacity this summer)
 - I will be participating in the Isogeny-based Cryptography Winter school 2021
 - I have been accepted to be a participant at the Reinforcement Learning Open Source Festival via Microsoft Research this summer! Excited to contribute
   to open source!!!
@@ -33,7 +33,10 @@
 - I've been accepted to attend TwoSigma's Mock Intervew Day for Women in STEM for their Quantitative Research track
 - I have been accepted to Block III of Gitcoin's Kernel Fellowship, and supported with a Scholarship for Women! I'm so thankful for this group!
 - I'll be attending the 4th Annual ZK-Proof workshop :)
+- I've been invited to be a DEI co-chair for ICLR 2022.
 - I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop! :)
+- I've been asked to be a reviewier for the BlackAIR summer research grant workshop
+- I'll be attending the CHIMe workshop 2021
 
 ## 2020
 
