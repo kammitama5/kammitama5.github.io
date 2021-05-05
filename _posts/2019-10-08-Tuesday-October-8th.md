@@ -38,6 +38,7 @@
 - I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop 2021! :)
 - I've been asked to be a reviewier for the BlackAIR summer research grant workshop 2021
 - I'll be attending the CHIMe workshop 2021
+- I've been chosen as 1 of 60 for the NCWIT AiC Connections Mentorship Programme and have been matched with a Facebook AI Research Advisor!
 
 ## 2020
 
