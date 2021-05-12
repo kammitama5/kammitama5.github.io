@@ -39,6 +39,7 @@
 - I've been asked to be a reviewier for the BlackAIR summer research grant workshop 2021
 - I'll be attending the CHIMe workshop 2021
 - I've been chosen as 1 of 60 for the NCWIT AiC Connections Mentorship Programme and have been matched with a Facebook AI Research Advisor!
+- I have been invited to the Alan Turing Institute's workshop on Key Themes for Informing a Research Roadmap, part 5 of their Threats and Opportunities for AI in Cyber Security, with keynote by B. Schneier.
 
 ## 2020
 
