@@ -26,6 +26,7 @@
 - I have been invited to speak on a panel at the Algol Conference 2021
 - I have been accepted to SICSS Howard-Mathematica's summer workshop :) (I had to decline because I am at capacity this summer)
 - I will be participating in the Isogeny-based Cryptography Winter school 2021
+- I am an NCWIT Change Leader Scholar 2021 
 - I have been accepted to be a participant at the Reinforcement Learning Open Source Festival via Microsoft Research this summer! Excited to contribute
   to open source!!!
 - I have been invited to participate in the Environmental Enablers for AI challenges in Cybersecurity" workshop at the Alan Turing Institute
