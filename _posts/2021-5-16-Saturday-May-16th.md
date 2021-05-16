@@ -28,7 +28,7 @@ you need to discuss? Juxtapose yourself and how you are against them and who the
 
 
 ## My conversation with Uriah
-- UB: What do you hope to get from this education? What will you teach you? How will you think for yourself in spite of education? Are you skeptical 
+- UB: What do you hope to get from this education? What will it teach you? How will you think for yourself in spite of education? Are you skeptical 
 of education? What will it teach you that you have not already learned about life?
 - Me: I want to ask you how you found the courage to pursue your own path, in spite of being labelled a troublemaker. You were seen as a savior by our own people,
 improving working conditions for the middle class. How did you find peace between spirituality as a bridge between whitewashed education that seeks to justify people
