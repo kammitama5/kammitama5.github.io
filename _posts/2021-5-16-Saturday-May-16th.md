@@ -33,7 +33,7 @@ of education? What will it teach you that you have not already learned about lif
 - Me: I want to ask you how you found the courage to pursue your own path, in spite of being labelled a troublemaker. You were seen as a savior by our own people,
 improving working conditions for the middle class. How did you find peace between spirituality as a bridge between whitewashed education that seeks to justify people
 like us as inferior? What did you see in Egypt during your time in the military? Did it give you hope, did it inform your identity?
-- Do you find it ironic that our nation's highest award is the [Trinity Cross](https://en.wikipedia.org/wiki/Trinity_Cross), which you were awarded, which is still itself shrouded in the ideology of colonialism? (Note: this award is no longer given (2005 was the last year), as you can read in the [article](https://en.wikipedia.org/wiki/Trinity_Cross), which talks about how, in our multi-ethnic, cosmopolitan country, it is seen as discriminatory, but was given to Uriah.)
+- Do you find it ironic that our nation's highest award is the [Trinity Cross](https://en.wikipedia.org/wiki/Trinity_Cross), which you were awarded, which is still itself shrouded in the ideology of colonialism? (Note: this award is no longer given (2005 was the last year), as you can read in the [article](https://en.wikipedia.org/wiki/Trinity_Cross), which talks about how, in our multi-ethnic, cosmopolitan country, it is seen as discriminatory, but was given to Uriah in 1970.)
 
 ## A lot of these are questions I ask myself
 - I didn't grow up in spaces where I saw myself as being less than, or insufficient, but I am in worlds that subconsciously try to reinforce these ideas.
