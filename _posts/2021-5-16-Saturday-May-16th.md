@@ -18,7 +18,7 @@ entrepreneurial efforts. He told our citizens to leave their small shops and ins
 his DPhil at Oxford. Butler, on the other hand, served in the military in Egypt and was always advocating for the middle class, the working class. He was inspired by Garvey, and worked in the oilfields in my country of birth, which was occupied by many foreign companies that pillaged our country for oil reserves.
 Today, I learned about the pivotal relationship between oil and the birth of cinema in Iran. However, unlike Iran, to my knowledge, pillaging our oil left us with 
 not that much. They began to move away from our country as the pipelines began to trickle.
-- In many ways, we would more easily accept one hero over another, and we have to ask why their stories were told the way they are. The highly educated, the suit-wearing, the well-spoken seems like more of an appropriate hero, and we have to ask ourselves why. 
+- In many ways, in comparing this Prime Minister with Uriah, we would more easily accept one hero over another, and we have to ask why their stories were told the way they are. The highly educated, the suit-wearing, the well-spoken seems like more of an appropriate hero, and we have to ask ourselves why. 
 - Rea was in our breakout room for a bit, and she and my breakout room-mate, Kayla, said I should write my letter / conversation, which is about 10 minutes
 of thought, in which we would talk back and forth.
 
