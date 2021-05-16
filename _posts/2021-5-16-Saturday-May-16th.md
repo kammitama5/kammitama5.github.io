@@ -7,7 +7,7 @@
 - The focus of the workshop was on archives, which is something I think about quite a bit, in the context of data and anonymization.
 
 ## One of the exercises
-- One of the exercises was to write to a famous figure. I decided to write to [Uriah Butler](https://en.wikipedia.org/wiki/Tubal_Uriah_Butler).
+- One of the exercises was to write to a famous figure, in a mock conversation, using our prompt. I decided to write to [Uriah Butler](https://en.wikipedia.org/wiki/Tubal_Uriah_Butler).
 - He was a figure that we learned about in school in my country growing up; he was seen as a hero and someone who advocated for the working class in my 
 country, and was given the nation's highest award, but in outside sources such as Wikipedia, for years he was written up as a "troublemaker".
 - He worked in the Labour Unions of the oilfields in my country, and was even termed "too unstable" by another famous Prime Minister in my country who I would describe 
