@@ -38,7 +38,7 @@ like us as inferior? What did you see in Egypt during your time in the military?
 ## A lot of these are questions I ask myself
 - I didn't grow up in spaces where I saw myself as being less than, or insufficient, but I am in worlds that subconsciously try to reinforce these ideas.
 - I often think about what I gave up to be in a space of lies. How do you keep your truth?
-- I often imagine that because Science is the discovery of the NEW, that perhaps that is why I am there. To bring my perspective, my skepticism. This is my time in Academia. Reimagining new worlds.
+- I often imagine that because Science is the discovery of the NEW, that perhaps that is why I am there. To bring my perspective, my skepticism. This is my time in Academia. Reimagining new worlds. I laughed earlier this week thinking about the fact that the first 2/3 of school is being lied, to, and the last 1/3 is telling you to be skeptical of those first 2/3, and to contribute something new. Or is it to just justify or add on to those lies? *shrug*
 - The part of me that is from my home country, and a region that fought so long to escape these very definitions, often asks what I am doing here, being brainwashed,
 once again. Are the things they teach me useful? Is there a way to obtain the statute in this society without lowering one's own identity or ancestry?
 
