@@ -4,7 +4,8 @@
 - This is my first official week of [RLOS](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/).
 - I've been set up with an Azure box, and am currently working on building a distributed pipeline, by first running an Azure script remotely testing several nodes.
 - So far, so good. Or not. I started by installing the ```azureml-sdk``` but realized that it was taking all day to install, and getting stuck, because it couldn't resolve
-my various flavours of packages on my laptop. This was fixed by just using a ```conda env``` instead. Phew.
+my various flavours of packages on my laptop. This was fixed by just using a ```conda env``` instead. Phew. For a hot minute I thought that I wouldn't be able
+to get *anything* done because installations were taking a while, and I thought back to my little 32 bit laptop that was taking all day to build a project in 2018. Alas, this was not the case! 
 
 ## Integration
 - My contribution will eventually meet with the estimators library that is being worked on by my fellow contributor. Within a month, we will meet in the middle
