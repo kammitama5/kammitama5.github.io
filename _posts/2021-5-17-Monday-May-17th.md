@@ -12,7 +12,7 @@ to get *anything* done because installations were taking a while, and I thought 
 so that our tasks will start to interact, but for now, I'm learning and getting ramped up on Azure. But right now, I'm working on a different repo, and in particular just learning Azure as best I can.
 - The mentorship is very good! I've really enjoyed meeting our MSR mentors, and they've been really patient and very helpful. They also included some really good
 resources for me to get started. They have said already that they're willing to help us "any time", although we meet regularly on Tuesdays and Thursdays in the
-morning, as my fellow contributor is based in India (she's awesome and very talented!).
+morning, as my fellow contributor is based in India (she's awesome and very talented!). We also anticipate that in the earlier part of onboarding, we will be meeting more regularly, most likely daily.
 
 ## Taking what I learned from my last Open Source Project Mentorships
 - One of the things that was immediately useful was that in GSoC, my mentors told me it was a good idea to write things down. So I've already started to make
