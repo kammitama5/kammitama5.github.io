@@ -20,8 +20,8 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I started PhD candidacy at the University of Vermont (my advisor is [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/). My focus will be on Provable Fairness, Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning and ways that privacy can work (is robust) and is verifiable (my lab focuses on provable privacy and security; privacy that works). I also TA-ed for Data Privacy coursework (Python), as well as a Programming for Engineers Matlab course (Matlab), and in Spring I'll
-be TA-ing a Compilers course in Haskell and another CS course.
+- In Fall 19, I started PhD candidacy at the University of Vermont (my advisor is [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/). My focus has been on Provable Fairness, Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning and ways that privacy can work (is robust) and is verifiable (my lab focuses on provable privacy and security; privacy that works). In Fall 2021, I will be focusing on Applied Cryptography. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), and in Spring
+be TA-ed a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
 ## More Updates...
@@ -38,7 +38,7 @@ be TA-ing a Compilers course in Haskell and another CS course.
 
 ### Other 
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
-- [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_5_14_2021a.pdf)
+- [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_5_18_2021.pdf)
 - [Gist of Things (Resume for Industry, Code Links, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_9_17_2020.pdf) (I haven't updated this one since 2019)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7)
 - [TechX Social Impact Medium Article 1 (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
