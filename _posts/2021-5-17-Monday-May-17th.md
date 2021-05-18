@@ -8,8 +8,8 @@ my various flavours of packages on my laptop. This was fixed by just using a ```
 to get *anything* done because installations were taking a while, and I thought back to my little 32 bit laptop that was taking all day to build a project in 2018. Alas, this was not the case! 
 
 ## Integration
-- My contribution will eventually meet with the estimators library that is being worked on by my fellow contributor. Within a month, we will meet in the middle
-so that our tasks will start to interact, but for now, I'm learning and getting ramped up on Azure. 
+- My contribution will eventually meet with the [estimators](https://github.com/VowpalWabbit/estimators/tree/master) library that is being worked on by my fellow contributor. Within a month, we will meet in the middle
+so that our tasks will start to interact, but for now, I'm learning and getting ramped up on Azure. But right now, I'm working on a different repo, and in particular just learning Azure as best I can.
 - The mentorship is very good! I've really enjoyed meeting our MSR mentors, and they've been really patient and very helpful. They also included some really good
 resources for me to get started. They have said already that they're willing to help us "any time", although we meet regularly on Tuesdays and Thursdays in the
 morning, as my fellow contributor is based in India (she's awesome and very talented!).
