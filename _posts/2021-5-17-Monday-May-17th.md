@@ -1,5 +1,11 @@
 ## Week One RLOS
 
+## What is RLOS
+- RLOS is short for Reinforcement Learning Open Source Fest. It's a yearly programme run by Microsoft Research (NY), in which students contribute to open source
+projects specifically involving reinforcement learning. These projects are used by researchers and engineers alike, so some of the projects are not clearly defined, which is also interesting. To take part, 12 of us had to submit a proposal and a code sample. I'm very thankful for the opportunity. 
+- It was not long ago that I was a recently laid-off worker in the technical side of filmmaking from a manufacturing shop, taking courses part-time, hearing that I had been accepted for GSoC, in 2018 (and Mozilla's Rust Reach). I honestly don't know how I would have made it through those months if I did not obtain that opportunity. It ended up changing my trajectory, giving me access to opportunities, and basically helped give me a foot in the door to a career in "tech". The following year, I also reviewed the proposal for another student who was able to participate, and also got an internship in the Bay area shortly thereafter, among other great opportunities. So open source is very near and dear to my heart.
+- Anyways, at the end of this opportunity, we have to present our projects to some people at MSR, which I don't really want to think about right now because it will give me cold feet, but I'm pretty sure that our mentors will prepare us well for this part of the project, too.
+
 ## This is my first Official week
 - This is my first official week of [RLOS](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/).
 - I've been set up with an Azure box, and am currently working on building a distributed pipeline, by first running an Azure script remotely testing several nodes.
