@@ -1,7 +1,7 @@
 ## Week One RLOS
 
 ## This is my first Official week
-- This is my first official week of RLOS.
+- This is my first official week of [RLOS](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/).
 - I've been set up with an Azure box, and am currently working on building a distributed pipeline, by first running an Azure script remotely testing several nodes.
 - So far, so good. Or not. I started by installing the ```azureml-sdk``` but realized that it was taking all day to install, and getting stuck, because it couldn't resolve
 my various flavours of packages on my laptop. This was fixed by just using a ```conda env``` instead. Phew.
@@ -17,7 +17,7 @@ morning, as my fellow contributor is based in India (she's awesome and very tale
 - One of the things that was immediately useful was that in GSoC, my mentors told me it was a good idea to write things down. So I've already started to make
 a detailed document for each day of my progress, taking snapshots and noting where I get stuck. This is also useful for writing documentation later on.
 - Am I nervous? Of course I am! Knowing I will get stuck, feel super silly, and of course, always feel like I am behind is really humbling. But if I learn something
-(I already have learned quite a bit!) I'll be happy. And I'll meet some nice people along the way, too. 
+(I already have learned quite a bit!) I'll be happy. And I'll meet some nice people along the way, too. I'm also really excited! I really feel humbled by the opportunity to continue being mentored to contribute in Open Source once again.
 
 ## I will be writing more throughout the week
 - Prepare for progress weekly about my failures, what I learned, insecurities, and all of that. Some of it initially may not be viewable because I'm dealing
