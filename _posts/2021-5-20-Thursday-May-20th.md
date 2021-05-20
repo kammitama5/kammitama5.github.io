@@ -42,7 +42,7 @@ noticed that they are really nice, and talk to you, and take the time to listen,
 - Today I have a couple things going on; one is that our first Fireside chat with A. Tudhope, a well-known Ethereum contributor, is today, for my Gitcoin Kernel Fellowship. I'm super excited! I've
 really enjoyed hanging out with my group; there is a LOT going on in that cryptospace. 
 - I'm also attending a couple recruitment events, and my mentor at [FAIR (the article is in French; sorry!)](https://fr.wikipedia.org/wiki/Facebook_Artificial_Intelligence_Research) booked a session to meet with myself and my podmates, but that won't be until next week,
-which is also the same week as my Alan Turing Institute workshop with a keynote from [B. Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier), which I'm excited about. I've enjoyed the other invited workshops
+which is also the same week as my [Alan Turing Institute](https://en.wikipedia.org/wiki/Alan_Turing_Institute) workshop with a keynote from [B. Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier), which I'm excited about. I've enjoyed the other invited workshops
 with them so much! The invited group has always been fantastic!
 - I'm also attending a Bitcoin social today, which I've attended in the past, and which has had good conversation, even though it's on another continent. I don't
 know how I'll ever get used to being in person at events after this. It's been really great to continent-hop.
