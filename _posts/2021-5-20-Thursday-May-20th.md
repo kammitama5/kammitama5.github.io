@@ -14,6 +14,8 @@ me this long-term vision about the PhD; what the upcoming road should look like,
 she mentioned that I was thinking about is a list of possible persons I would like to be a mentor for me for the next stage of my life after the PhD. I really 
 appreciated her saying that; to make a list of people with whom you have had deep conversations, or whose papers you really enjoy, and think about whether you might
 want to work with them as part of the next step. Thank you so much for putting that into perspective for me.
+- One of the stories Amal told me was about her interaction with a professor she really respected as a student, who is a giant in her field. She told him she really
+wanted to understand Category Theory to understand a problem she was working on, and he told her "don't". What he was saying is that she should give herself the freedom to reimagine different ways of solving a problem; to walk a different path. And that turned out to be successful for her work.
 - I also stayed up to watch Timnit's talk at ICLR, because I had heard so much about it but wasn't able to see it in person. The very topic has been on my mind,
 because I've seen it myself. I'm happy that she has been so open in bringing to the forefront these issues of not having work seen and being erased, because it's a real problem. So let's talk about erasure, support and publishing.
 - I often tell myself that I cannot compare myself with others (even though, by nature, I am a competitive person), because support during one's PhD is a sliding
