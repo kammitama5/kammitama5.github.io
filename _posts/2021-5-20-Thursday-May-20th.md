@@ -56,7 +56,7 @@ done.
 
 ## And what will you be doing with your Award money?
 - I forgot to mention that RLOS does give you Award money for being selected, and apparently when it was possible to do in-person things, if your project was particularly good (top 3), they'd even invite you to their offices (all-expenses paid trip kind of thing)!
-- So what am I going to do with mine? To be honest, probably just save it. After all, for me, money is freedom. I also plan on contributing to my retirement accounts, as I'll be fortunate enough to be able to do that this year. Hooray for compound interest!
+- So what am I going to do with mine? To be honest, probably just save it. After all, for me, money is freedom and I love [hodl-ing](https://www.investopedia.com/terms/h/hodl.asp#:~:text=HODL%20is%20sometimes%20explained%20as,dear%20life%22%20or%20some%20variation.) and investing; I've been doing that for more than a decade. I also plan on contributing to my retirement accounts, as I'll be fortunate enough to be able to do that this year. Hooray for compound interest!
 
 ## Fancy book!
 <img src="/images/mlopsdk.png" width="400">
