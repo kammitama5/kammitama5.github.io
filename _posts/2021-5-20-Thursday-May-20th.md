@@ -29,7 +29,7 @@ one or two more papers, and is also emotionally exhausting.
 and these things play out unconsciously in the amount of support and availability they give to their students. Amal mentioned that this is called "managing your advisor",
 and it's an important life skill in general in obtaining agency, regardless of what field you are in. 
 - Oh, It has often been asked whether I sleep, and I promise that I do! But this morning I got about 1 hour, because I was about to head to sleep and then saw I had gotten
-a student award to attend S&P Oakland, and I was super stoked about that, so I ended up just staying up and continuing to work on the project. Ha. A goal of mine 
+a student award to attend [IEEE S&P Oakland](https://www.ieee-security.org/TC/SP2021/travel_grants.html), and I was super stoked about that, so I ended up just staying up and continuing to work on the project. Ha. A goal of mine 
 is to publish in that conference one day! That would be super neat.
 
 ## Super grateful
