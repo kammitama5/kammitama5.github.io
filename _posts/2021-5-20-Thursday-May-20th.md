@@ -23,7 +23,8 @@ disparity between what happens at the end, even though we are judged by a number
 - If you secretly gawk at a student who has worked with the same advisor since their Undergrad, is continuing that work in their PhD, and has a supportive advisor
 who only has a handful of students and a lot of time to invest in them, it's a longer climb for that other student who has had to switch advisors a number of times,
 switch institutions, have their advisor dismiss them for lack of funding or some other reasons, among other things. All sorts of things can pop up if you are unlucky,
-and this can affect your access to support and productivity.
+and this can affect your access to support and productivity. That friction (let's just call it what it is; "unneeded drama") can make it more difficult to churn out
+one or two more papers, and is also emotionally exhausting.
 - Internally, professors are humans, too, and they do choose to have more of an interest in some students more than others, and in some projects more than others,
 and these things play out unconsciously in the amount of support and availability they give to their students. Amal mentioned that this is called "managing your advisor",
 and it's an important life skill in general in obtaining agency, regardless of what field you are in. 
