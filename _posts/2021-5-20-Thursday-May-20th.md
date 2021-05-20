@@ -15,7 +15,7 @@ she mentioned that I was thinking about is a list of possible persons I would li
 appreciated her saying that; to make a list of people with whom you have had deep conversations, or whose papers you really enjoy, and think about whether you might
 want to work with them as part of the next step. Thank you so much for putting that into perspective for me.
 - I also stayed up to watch Timnit's talk at ICLR, because I had heard so much about it but wasn't able to see it in person. The very topic has been on my mind,
-because I've seen it myself. I'm happy that she has been so open in bringing to the forefront these issues of not having work seen and being erased, because it's a real problem.
+because I've seen it myself. I'm happy that she has been so open in bringing to the forefront these issues of not having work seen and being erased, because it's a real problem. So let's talk about erasure, support and publishing.
 - I often tell myself that I cannot compare myself with others (even though, by nature, I am a competitive person), because support during one's PhD is a sliding
 scale. You may be a PhD student secretly depressed that your peers are churning out more papers, or at the end wondering why you didn't get as much, and part of that
 might be on you, but you really don't know about the internal issues or lack of support that plagues so many students. And those issues account for some of the 
