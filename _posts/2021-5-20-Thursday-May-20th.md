@@ -55,7 +55,7 @@ access to that, but I've scheduled things on the same days, mostly, so hopefully
 done.
 
 ## And what will you be doing with your Award money?
-- I forgot to mention that RLOS does give you Award money for being selected, and apparently when it was possible to do in-person things, if your project was particularly good (top 3), they'd even invite you to their offices!
+- I forgot to mention that RLOS does give you Award money for being selected, and apparently when it was possible to do in-person things, if your project was particularly good (top 3), they'd even invite you to their offices (all-expenses paid trip kind of thing)!
 - So what am I going to do with mine? To be honest, probably just save it. After all, for me, money is freedom. I also plan on contributing to my retirement accounts, as I'll be fortunate enough to be able to do that this year. Hooray for compound interest!
 
 ## Fancy book!
