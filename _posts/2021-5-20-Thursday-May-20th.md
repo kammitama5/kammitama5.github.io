@@ -52,6 +52,10 @@ done, so I can get used to getting to sleep at a certain time (Satire: Clearly, 
 access to that, but I've scheduled things on the same days, mostly, so hopefully that means I can have other days where I can stay home all day and get focused work
 done.
 
+## And what will you be doing with your Award money?
+- I forgot to mention that RLOS does give you Award money for being selected, and apparently when it was possible to do in-person things, if your project was particularly good (top 3), they'd even invite you to their offices!
+- So what am I going to do with mine? To be honest, probably just save it. After all, for me, money is freedom. I also plan on contributing to my retirement accounts, as I'll be fortunate enough to be able to do that this year. Hooray for compound interest!
+
 ## Fancy book!
 <img src="/images/mlopsdk.png" width="400">
 - Thank you so much for supporting me! 
