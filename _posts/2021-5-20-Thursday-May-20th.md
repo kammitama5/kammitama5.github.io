@@ -54,6 +54,7 @@ done.
 
 ## Fancy book!
 <img src="/images/mlopsdk.png" width="400">
+- Thank you so much for supporting me! 
 
 ## And that's It
 
