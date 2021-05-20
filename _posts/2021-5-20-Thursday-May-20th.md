@@ -38,6 +38,7 @@ the project in general.
 - I'm excited to also meet my other mentor at my Microsoft internship, too; she and I have been conversing, and she is also lovely. I also saw quite a few Microsofties
 yesterday at a ZK Proofs Session I attended online, which included a job fair, which was really just a bunch of us hanging out and talking about papers. I've also
 noticed that they are really nice, and talk to you, and take the time to listen, which is nice. It's a very supportive community. 
+- I'm actually going to be working on a different type of encryption that isn't ZK, but I like the ZK community; they're cool and very knowledgeable and just fun.
 - Today I have a couple things going on; one is that our first Fireside chat with A. Tudhope is today, for my Gitcoin Kernel Fellowship. I'm super excited! I've
 really enjoyed hanging out with my group; there is a LOT going on in that cryptospace. 
 - I'm also attending a couple recruitment events, and my mentor at FAIR booked a session to meet with myself and my podmates, but that won't be until next week,
