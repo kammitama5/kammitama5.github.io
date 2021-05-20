@@ -39,10 +39,10 @@ the project in general.
 yesterday at a ZK Proofs Session I attended online, which included a job fair, which was really just a bunch of us hanging out and talking about papers. I've also
 noticed that they are really nice, and talk to you, and take the time to listen, which is nice. It's a very supportive community. 
 - I'm actually going to be working on a different type of encryption that isn't ZK, but I like the ZK community; they're cool and very knowledgeable and just fun.
-- Today I have a couple things going on; one is that our first Fireside chat with A. Tudhope is today, for my Gitcoin Kernel Fellowship. I'm super excited! I've
+- Today I have a couple things going on; one is that our first Fireside chat with A. Tudhope, a well-known Ethereum contributor, is today, for my Gitcoin Kernel Fellowship. I'm super excited! I've
 really enjoyed hanging out with my group; there is a LOT going on in that cryptospace. 
 - I'm also attending a couple recruitment events, and my mentor at FAIR booked a session to meet with myself and my podmates, but that won't be until next week,
-which is also the same week as my Alan Turing Institute workshop with a keynote from B. Schneier, which I'm excited about. I've enjoyed the other invited workshops
+which is also the same week as my Alan Turing Institute workshop with a keynote from [B. Schneier](https://en.wikipedia.org/wiki/Bruce_Schneier), which I'm excited about. I've enjoyed the other invited workshops
 with them so much! The invited group has always been fantastic!
 - I'm also attending a Bitcoin social today, which I've attended in the past, and which has had good conversation, even though it's on another continent. I don't
 know how I'll ever get used to being in person at events after this. It's been really great to continent-hop.
