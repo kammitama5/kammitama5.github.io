@@ -52,5 +52,8 @@ done, so I can get used to getting to sleep at a certain time (Satire: Clearly, 
 access to that, but I've scheduled things on the same days, mostly, so hopefully that means I can have other days where I can stay home all day and get focused work
 done.
 
+## Fancy book!
+<img src="/images/mlopsdk.png" width="400">
+
 ## And that's It
 
