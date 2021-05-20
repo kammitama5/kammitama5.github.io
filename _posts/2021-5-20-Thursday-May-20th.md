@@ -33,7 +33,7 @@ a student award to attend [IEEE S&P Oakland](https://www.ieee-security.org/TC/SP
 is to publish in that conference one day! That would be super neat and is not trivial; that's what I'd like to call a "fierce" conference (you have to be "fierce" to get in).
 
 ## Super grateful
-- I'm super grateful that my mentors are so patient with me, and it's been enjoyable thus far. It makes me excited to continue working with them, and to work on
+- I'm super grateful that my MSR mentors are so patient with me, and it's been enjoyable thus far. It makes me excited to continue working with them, and to work on
 the project in general. 
 - I'm excited to also meet my other mentor at my Microsoft internship, too; she and I have been conversing, and she is also lovely. I also saw quite a few Microsofties
 yesterday at a ZK Proofs Session I attended online, which included a job fair, which was really just a bunch of us hanging out and talking about papers. I've also
