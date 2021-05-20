@@ -30,7 +30,7 @@ and these things play out unconsciously in the amount of support and availabilit
 and it's an important life skill in general in obtaining agency, regardless of what field you are in. 
 - Oh, It has often been asked whether I sleep, and I promise that I do! But this morning I got about 1 hour, because I was about to head to sleep and then saw I had gotten
 a student award to attend [IEEE S&P Oakland](https://www.ieee-security.org/TC/SP2021/travel_grants.html), and I was super stoked about that, so I ended up just staying up and continuing to work on the project. Ha. A goal of mine 
-is to publish in that conference one day! That would be super neat.
+is to publish in that conference one day! That would be super neat and is not trivial; that's what I'd like to call a "fierce" conference (you have to be "fierce" to get in).
 
 ## Super grateful
 - I'm super grateful that my mentors are so patient with me, and it's been enjoyable thus far. It makes me excited to continue working with them, and to work on
