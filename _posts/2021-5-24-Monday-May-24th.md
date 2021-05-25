@@ -13,7 +13,7 @@ added my email to the account, so I could log-in and respond to authentication v
 
 ## Other stuff happening this week
 - There is a LOT going on. I'm at [IEEE S&P](https://www.ieee-security.org/TC/SP2021/), and met the most *amazing* mentor. We had a speed-mentorship, and I thought I would meet people briefly, but
-I ended up having one of the most *thoughtful* conversations about how to navigate research, Academia, and the general PhD by one of the Session Chairs. We ended up chatting for the entire session time, and kept extending the time, and I was really just blown away by how helpful he was. Thank you so much!
+I ended up having one of the most *thoughtful* conversations about how to navigate research, Academia, and the general PhD by one of the Session Chairs. We ended up chatting for the entire session time, and kept extending the time, and I was really just blown away by how helpful he was. He started by saying that he didn't think he'd enjoy teaching, and that made me think, immediately, because I could definitely relate to that feeling of shifting and re-pivoting. I really think that a great mentor or teacher makes you inspired with that possibility; they make you think deeply and things they say resurface or resonate. Thank you so much!
 What was amazing was that he followed up by saying "I have an article for you". I have to thank him immensely, but I have been combing through the references
 of the article he sent; they're all so good!
 - Here is the [article](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f) he sent here (which he wrote)! I also 
