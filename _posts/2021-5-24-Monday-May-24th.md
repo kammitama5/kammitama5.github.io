@@ -10,6 +10,7 @@ added my email to the account, so I could log-in and respond to authentication v
 ## So on to my next task!
 - I'm super excited and will update as the week progresses, in this space.
 - It's almost tomorrow, so uh, I should get some sleep.
+- We are also pair programming on Wednesday, an offer made to both of us as something our mentor would do! So I took up the offer for this Wednesday!
 
 ## Other stuff happening this week
 - There is a LOT going on. I'm at [IEEE S&P](https://www.ieee-security.org/TC/SP2021/), and met the most *amazing* mentor. We had a speed-mentorship, and I thought I would meet people briefly, but
@@ -20,7 +21,7 @@ of the article he sent; they're all so good!
 shared it with persons in my lab (as we focus on Security and Privacy, too). But regardless of the field, it's such an in-depth, thorough, amazing article!
 Thank you so much for sharing this with me! This session was so unexpected! I went back into IEEE S&P feeling like I belonged. I enjoy the conference in general.
 - I have RLOS mentor meetings, a meeting with my advisor, a [WISP Privacy+Law Forum](https://www.privacysecurityacademy.com/) conference, an R workshop, my workshop at the Alan Turing Institute, my blockchain 
-fellowship, my NCWIT meetings, my FAIR mentorship meeting with podmates, and a meeting with the recent ICLR 2021 DEI chairs and my co-chair! We have some exciting
+fellowship (we had guest speaker, J. Franek, in the DeFi track), my NCWIT meetings, my FAIR mentorship meeting with podmates, and a meeting with the recent ICLR 2021 DEI chairs and my co-chair! We have some exciting
 things planned for 2022, and I hope it creates a positive impact! I'd like these opportunities and access to be better than they were for me when I was trying to 
 figure out whether I wanted to do grad school, and navigating how to do research at all. That kind of access could change someone's life trajectory, and this
 particular kind of position isn't about me; it's about giving back and engaging with the community, which is awesome.
