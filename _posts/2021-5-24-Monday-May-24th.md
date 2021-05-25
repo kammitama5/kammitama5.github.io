@@ -13,10 +13,10 @@ added my email to the account, so I could log-in and respond to authentication v
 
 ## Other stuff happening this week
 - There is a LOT going on. I'm at [IEEE S&P](https://www.ieee-security.org/TC/SP2021/), and met the most *amazing* mentor. We had a speed-mentorship, and I thought I would meet people briefly, but
-I ended up having one of the most *thoughtful* conversations about how to navigate research, Academia, and the general PhD by one of the Session Chairs.
+I ended up having one of the most *thoughtful* conversations about how to navigate research, Academia, and the general PhD by one of the Session Chairs. We ended up chatting for the entire session time, and kept extending the time, and I was really just blown away by how helpful he was. Thank you so much!
 What was amazing was that he followed up by saying "I have an article for you". I have to thank him immensely, but I have been combing through the references
 of the article he sent; they're all so good!
-- Here is the [article](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f) he sent here! I also 
+- Here is the [article](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f) he sent here (which he wrote)! I also 
 shared it with persons in my lab (as we focus on Security and Privacy, too). But regardless of the field, it's such an in-depth, thorough, amazing article!
 Thank you so much for sharing this with me! This session was so unexpected! I went back into IEEE S&P feeling like I belonged. I enjoy the conference in general.
 - I have RLOS mentor meetings, a meeting with my advisor, a [WISP Privacy+Law Forum](https://www.privacysecurityacademy.com/) conference, an R workshop, my workshop at the Alan Turing Institute, my blockchain 
