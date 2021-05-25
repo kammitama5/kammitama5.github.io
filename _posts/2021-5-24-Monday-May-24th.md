@@ -5,6 +5,7 @@
 - My next step is to do this with data, and test out some other config scripts. I can't wait!!!
 - I had some login issues because the account was under one of my mentors' emails (ie a Msft email), but, in the most *amazing* move, my mentor was up at uh..11pm? and 
 added my email to the account, so I could log-in and respond to authentication verification. Talk about going above and beyond! So impressive!
+- He was also super aware that I should head to sleep soon, though, and we could talk during our meeting tomorrow, after we celebrated that things worked!! Super cool!!!
 
 ## So on to my next task!
 - I'm super excited and will update as the week progresses, in this space.
