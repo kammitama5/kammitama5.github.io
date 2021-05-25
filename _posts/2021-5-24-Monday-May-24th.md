@@ -12,14 +12,14 @@ added my email to the account, so I could log-in and respond to authentication v
 - It's almost tomorrow, so uh, I should get some sleep.
 
 ## Other stuff happening this week
-- There is a LOT going on. I'm at IEEE S&P, and met the most *amazing* mentor. We had a speed-mentorship, and I thought I would meet people briefly, but
+- There is a LOT going on. I'm at [IEEE S&P](https://www.ieee-security.org/TC/SP2021/), and met the most *amazing* mentor. We had a speed-mentorship, and I thought I would meet people briefly, but
 I ended up having one of the most *thoughtful* conversations about how to navigate research, Academia, and the general PhD by one of the Session Chairs.
 What was amazing was that he followed up by saying "I have an article for you". I have to thank him immensely, but I have been combing through the references
 of the article he sent; they're all so good!
 - Here is the [article](https://medium.com/digital-diplomacy/how-to-look-for-ideas-in-computer-science-research-7a3fa6f4696f) he sent here! I also 
 shared it with persons in my lab (as we focus on Security and Privacy, too). But regardless of the field, it's such an in-depth, thorough, amazing article!
 Thank you so much for sharing this with me! This session was so unexpected! I went back into IEEE S&P feeling like I belonged. I enjoy the conference in general.
-- I have RLOS mentor meetings, a meeting with my advisor, a WISP Privacy Law conference, an R workshop, my workshop at the Alan Turing Institute, my blockchain 
+- I have RLOS mentor meetings, a meeting with my advisor, a [WISP Privacy+Law Forum](https://www.privacysecurityacademy.com/) conference, an R workshop, my workshop at the Alan Turing Institute, my blockchain 
 fellowship, my NCWIT meetings, my FAIR mentorship meeting with podmates, and a meeting with the recent ICLR 2021 DEI chairs and my co-chair! We have some exciting
 things planned for 2022, and I hope it creates a positive impact! I'd like these opportunities and access to be better than they were for me when I was trying to 
 figure out whether I wanted to do grad school, and navigating how to do research at all. That kind of access could change someone's life trajectory, and this
