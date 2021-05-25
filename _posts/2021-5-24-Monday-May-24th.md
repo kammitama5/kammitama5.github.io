@@ -21,7 +21,7 @@ of the article he sent; they're all so good!
 shared it with persons in my lab (as we focus on Security and Privacy, too). But regardless of the field, it's such an in-depth, thorough, amazing article!
 Thank you so much for sharing this with me! This session was so unexpected! I went back into IEEE S&P feeling like I belonged. I enjoy the conference in general.
 - I have RLOS mentor meetings, a meeting with my advisor, a [WISP Privacy+Law Forum](https://www.privacysecurityacademy.com/) conference, an R workshop, my workshop at the Alan Turing Institute, my blockchain 
-fellowship (we had guest speaker, J. Franek, in the DeFi track), my NCWIT meetings, my FAIR mentorship meeting with podmates, and a meeting with the recent ICLR 2021 DEI chairs and my co-chair! We have some exciting
+fellowship (we had guest speaker, J. Franek, in the DeFi track, and I attended a Governance Juntos group and met two new people, one of whom is a lighting designer, of all things(!!) and is interested in fairness, which is awesome!), my NCWIT meetings, my FAIR mentorship meeting with podmates, and a meeting with the recent ICLR 2021 DEI chairs and my co-chair! We have some exciting
 things planned for 2022, and I hope it creates a positive impact! I'd like these opportunities and access to be better than they were for me when I was trying to 
 figure out whether I wanted to do grad school, and navigating how to do research at all. That kind of access could change someone's life trajectory, and this
 particular kind of position isn't about me; it's about giving back and engaging with the community, which is awesome.
