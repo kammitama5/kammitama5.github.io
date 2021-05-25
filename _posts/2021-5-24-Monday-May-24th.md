@@ -29,7 +29,7 @@ particular kind of position isn't about me; it's about giving back and engaging 
 - Internship laptop showed up in the mail and it's *gasp* a Thinkpad!!!!!!! YESSSSSSS!!!
 - I can see my sysadmin friend from night school smile from California. He *loves* Thinkpads, and used to have a giant Kirby on his. 
 - Those times, though stressful, were a lot of fun because the people in this class were quite a bunch! You'd look around and see people in Java class
-playing chess in class, or buying ammo online (LOL). In one class, I remember that half the class was playing [Agar.io](https://en.wikipedia.org/wiki/Agar.io).
+playing chess in class, or buying ammo online (LOL. Interestingly, my machine shop class also had a bunch of people who were into guns. Reminded me of someone I wnated to take a glassblowing shop class from years ago who rolled his eyes and told me "everyone just wants to learn glassblowing now to make pipes to smoke". Yikes. Didn't know about that one!). In one class, I remember that half the class was playing [Agar.io](https://en.wikipedia.org/wiki/Agar.io).
 Looking back, it was so valuable to be exposed to that perspective; I was there long enough to get a sense of what it takes for those students to transfer (it's 
 really hard!), to gain opportunities and be taken seriously (you're in limbo as a night school student because even though you're obtaining undergrad credits,
 you don't technically qualify for undergrad opportunities, which sucks!), and how they have a bit of an individualistic streak because they also have life experience.
