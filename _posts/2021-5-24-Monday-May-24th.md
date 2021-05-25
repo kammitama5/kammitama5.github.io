@@ -25,6 +25,7 @@ fellowship (we had guest speakers, J. Franek and [S. Kulechov](https://everipedi
 things planned for 2022, and I hope it creates a positive impact! I'd like these opportunities and access to be better than they were for me when I was trying to 
 figure out whether I wanted to do grad school, and navigating how to do research at all. That kind of access could change someone's life trajectory, and this
 particular kind of position isn't about me; it's about giving back and engaging with the community, which is awesome.
+- For my blockchain fellowship, the track I chose (Security) met this week and discussed the skills we will learn in the Security track (my secondary track is Fairness / Grassroots Economics), specifically identifying risk and threat modelling, among other things. The session on Tuesday was led by C. Petty.
 
 ## Oh! I got my laptop!
 - Internship laptop showed up in the mail and it's *gasp* a Thinkpad!!!!!!! YESSSSSSS!!!
