@@ -34,7 +34,7 @@ Looking back, it was so valuable to be exposed to that perspective; I was there 
 really hard! You can get into a vortex whereby you keep taking classes and the admin says you "don't have enough credits", which is a whole other frustration I don't want to get into right now. And then transferring your credits can also be a PITA. This is part of why the statistics for transferring can be so low), to gain opportunities and be taken seriously (you're in limbo as a night school student because even though you're obtaining undergrad credits,
 you don't technically qualify for undergrad opportunities, which sucks!), and how they have a bit of an individualistic streak because they also have life experience.
 They're not the type of students who followed the straight path, so you meet some really interesting people, and they teach you things about how the system is
-set up to help them fail or succeed.
+set up to help them fail or succeed. In my case, they wouldn't let me transfer my grades out of state, so I told them to send it to me, sealed, and I sent it out of state (kind of a hack), as I've spoken about before. This kind of resourcefulness is often overlooked when we consider these kinds of students, and the hurdles they have to overcome. That's part of why I'm super happy hearing about success stories like my friend, who is now a post-doc at Brown, after overcoming *substantial* hurdles. The odds just aren't that great for many.
 
 ## Anyways
 - I should go to sleep; it's tomorrow already! I will add as things progress this week! But this is exciting and awesome and I love this all so much!!!
