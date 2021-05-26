@@ -41,7 +41,7 @@
 - I'll be attending the CHIMe workshop 2021
 - I've received a free ticket to attend WISP's Privacy+Security Conference :) I'll be taking the De-identification and EU Privacy and Law tracks.
 - I've been chosen as 1 of 60 for the NCWIT AiC Connections Mentorship Programme and have been matched with a Facebook AI Research Advisor!
-- I have been invited to the Alan Turing Institute's workshop on Key Themes for Informing a Research Roadmap, part 5 of their Threats and Opportunities for AI in Cyber Security, with keynote by B. Schneier.
+- I have been invited to the Alan Turing Institute's workshops on Key Themes for Informing a Research Roadmap (part 5) and also session 6 of their Threats and Opportunities for AI in Cyber Security, with keynote by B. Schneier (session 6).
 - I received a Student Travel Award to attend IEEE S&P Oakland 2021. I'm thrilled.
 - I've been invited to participate in Facebook's Above and Beyond Computer Science Amplified edition, for PhDs!
 
