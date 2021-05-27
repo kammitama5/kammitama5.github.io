@@ -19,7 +19,7 @@ was pretty weird. No one yelling or sighing rudely? Is this really software land
 I can do different tasks, so it's been a fair amount of juggling. I think I am mostly on top of things, but sometimes I cut it close and I have to ask for time
 "until the end of the day" to get stuff done. And for me, that usually means really near the end of the day, or really early in the morning.
 - I was also assigned another really cool opportunity; I'm one of 2 persons who will make a mini congratulatory speech about how [Dr. G. West](https://en.wikipedia.org/wiki/Gladys_West) has impacted our lives,
-for Dr. G. West, when she receives her Pioneer award on Friday. So that's pretty exciting! I found out just as I had completed the pairing and we were still working through an issue
+for Dr. G. West, when she receives her Pioneer award on Friday from NCWIT. So that's pretty exciting! I found out just as I had completed the pairing and we were still working through an issue
 and I almost fell off my chair :)
 
 ## Tomorrow
