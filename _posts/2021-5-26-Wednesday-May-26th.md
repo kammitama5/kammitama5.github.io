@@ -7,7 +7,8 @@ which was delightful and unexpected! The only thing that kind of stopped me, I t
 a lot! And I was only hungry because my shipment of ramen came in the mail today.
 - I tried out about 4 different types of ramen and found one I really like, and have been ordering them pretty regularly. We don't really have a lot of great options
 where I am, which is sad, considering there were so many where I used to live.
-- But anyways, basically the offer is on the table as much as we'd like during the course of our MSR opportunity, which is pretty awesome!
+- But anyways, basically the offer is on the table as much as we'd like during the course of our MSR opportunity, which is pretty awesome! That's pair-programming,
+not ramen, although "as much ramen as we'd like" is a pretty sweet offer, I'd bet!
 - I keep thinking someone is going to be overly cynical, roll their eyes, call me stupid, lose their patience, or throw their hands in the air but they're just
 really patient, and in fact, in our last meeting, the other student and myself got a "fantastic job" congratulatory meeting and words of encouragement. So that
 was pretty weird. No one yelling or sighing rudely? Is this really software land?
