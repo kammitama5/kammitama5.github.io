@@ -30,6 +30,7 @@ Things have been a little crazy.
 - It hasn't gotten so crazy, though, that I have lost track of what month it is. That would occasionally happen, where I would happen to wish my friend or
 relative Happy Birthday a month earlier than the actual date.
 - One good skill I have learned, which I suspect is a pretty good skill to have from a leadership standpoint, is the ability to rotate from project to project.
+- Often, as a junior (or an intern), you're put on one project and that's pretty much all you have to think about. You set up your one environment and you're all good. Not so when working on and making progress on multiple things at a time.
 - It definitely requires organization, and having spaces compartmentalized, and definitely in their own sandboxes, because the needs of each project involving 
 code has its own needs. And each person I've been working with is different. It's going to be interesting once I start working for my internship, which is a
 completely separate device, which I'm very thankful for. I've been trying to also ensure that I have already made a habit of having that time clear of outside tasks,
