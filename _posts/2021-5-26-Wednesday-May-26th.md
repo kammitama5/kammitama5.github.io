@@ -32,7 +32,7 @@ relative Happy Birthday a month earlier than the actual date.
 - One good skill I have learned, which I suspect is a pretty good skill to have from a leadership standpoint, is the ability to rotate from project to project.
 - Often, as a junior (or an intern), you're put on one project and that's pretty much all you have to think about. You set up your one environment and you're all good. Not so when working on and making progress on multiple things at a time.
 - It definitely requires organization, and having spaces compartmentalized, and definitely in their own sandboxes, because the needs of each project involving 
-code has its own needs. And each person I've been working with is different. It's going to be interesting once I start working for my internship, which is a
+code have their own needs. And each person I've been working with is different. It's going to be interesting once I start working for my internship, which is a
 completely separate device, which I'm very thankful for. I've been trying to also ensure that I have already made a habit of having that time clear of outside tasks,
 because those hours will be dedicated to my internship from next week. No outside meetings during those times (I'm still pushing for everything to be either 
 before noon or after 8pm, so I can put in solid internship time during the week in PDT). It's tough, because everyone wants to do things on a schedule that is 
