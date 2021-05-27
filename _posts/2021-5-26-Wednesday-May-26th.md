@@ -11,7 +11,7 @@ where I am, which is sad, considering there were so many where I used to live.
 not ramen, although "as much ramen as we'd like" is a pretty sweet offer, I'd bet!
 - I keep thinking someone is going to be overly cynical, roll their eyes, call me stupid, lose their patience, or throw their hands in the air but they're just
 really patient, and in fact, in our last meeting, the other student and myself got a "fantastic job" congratulatory meeting and words of encouragement. So that
-was pretty weird. No one yelling or sighing rudely? Is this really software land?
+was pretty weird. No one yelling or sighing rudely? Is this really software land? No one running to another person suddenly to give them a chest bump? I guess not.
 
 ## Suprisingly
 - I have another package that seems heavier than anything I'd purchase, and it's from Washington, and it's arriving tomorrow, and I have no idea what it is.
