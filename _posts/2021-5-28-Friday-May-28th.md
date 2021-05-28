@@ -13,6 +13,8 @@ and humble, and persistent. I was so honoured to get to speak with her today. Th
 patents and invention, which is something that has been on my mind before my first step into the United States. It's one of my dreams as an immigrant.
 It's particularly difficult for persons of my particular demographic to not just file, and be aware of the workings of the process, but to have their
 own work acknowledged. A good movie that talks about some of these systemic barriers is the movie ["Joy"](https://en.wikipedia.org/wiki/Joy_(2015_film)).
+In fact, my first semester, I wrote a paper (that was rejected) on this very topic, as it relates to AI systems and bias. But at the time, I didn't have any experience or 
+much support on how to write these kinds of papers. So I was thrilled to hear Dr. Lisa Cook talk about this.
 - For many years, Dr. Gladys West thought her work was unremarkable, even though she has been incredibly hardworking, and broke so many barriers. Her work was rediscovered
 and celebrated, and she was selected by BBC as one of the 100 Women of 2018. For many years, she was a hidden figure, but her remarkable and pioneering work has 
 fortunately been celebrated all over the world. Her contributions are invaluable.
