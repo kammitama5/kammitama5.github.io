@@ -7,6 +7,12 @@ and humble, and persistent. I was so honoured to get to speak with her today. Th
 
 <img src="/images/gladyswest.png" width="500">
 
+## Who is Dr. Gladys West
+- Her Mathematical models are integral to the development of GPS. You can read more about her [here](https://en.wikipedia.org/wiki/Gladys_West).
+- For many years, she thought her work was unremarkable, even though she has been incredibly hardworking, and broke so many barriers. Her work was rediscovered
+and celebrated, and she was selected by BBC as one of the 100 Women of 2018. For many years, she was a hidden figure, but her remarkable and pioneering work has 
+fortunately been celebrated all over the world. Her contributions are invaluable.
+
 ## What's next?
 - I have work to do for research, so I'm probably going to do that later this evening, and then work on my MSR work this weekend, too.
 - But for now, I just feel really grateful, and happy. Part of my congratulations and a bit about me, as I was introduced to Dr. Gladys as one of two 
