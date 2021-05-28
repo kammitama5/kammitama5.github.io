@@ -26,8 +26,8 @@ fortunately been celebrated all over the world. Her contributions are invaluable
 ## What's next?
 - I have work to do for research, so I'm probably going to do that later this evening, and then work on my MSR work this weekend, too.
 - But for now, I just feel really grateful, and happy. Part of my congratulations and a bit about me, as I was introduced to Dr. Gladys as one of two 
-special persons that she had to meet, was to mention that a mathematician who works in using satellite remote sensing is one who encouraged me to grad school.
-Even when I was being offered opportunities to go to work, he said adamantly, "you should still get your degree and go to grad school", and I am super thankful
+special persons that she had to meet, was to mention that a mathematician who works in using satellite remote sensing at NASA is one who encouraged me to grad school.
+Even when I was being offered opportunities to go to work in tech, he said adamantly, "you should still get your degree and go to grad school", and I am super thankful
 for that. Who could have imagined all of these opportunities and experiences along the way? I could have never; not beyond my wildest dreams.
 Dr. Gladys West is a person who viscerally expresses her gratitude and emotions, and it was so unexpected to see her so impacted by the words of congratulations.
 I'm so thankful!
