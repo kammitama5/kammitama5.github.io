@@ -7,7 +7,7 @@ and humble, and persistent. I was so honoured to get to speak with her today. Th
 
 <img src="/images/gladyswest.png" width="500">
 
-## Who is Dr. Gladys West
+## Who is Dr. Gladys West?
 - Her Mathematical models are integral to the development of GPS. You can read more about her [here](https://en.wikipedia.org/wiki/Gladys_West).
 - Dr. Lisa Cook spoke before Dr. Gladys West was interviewed, and she said "sometimes remarkable talent is hidden; it isn't celebrated". She spoke about 
 patents and invention, which is something that has been on my mind before my first step into the United States. It's one of my dreams as an immigrant.
