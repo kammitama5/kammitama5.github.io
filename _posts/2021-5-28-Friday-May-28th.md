@@ -13,7 +13,11 @@ and humble, and persistent. I was so honoured to get to speak with her today. Th
 patents and invention, which is something that has been on my mind before my first step into the United States. It's one of my dreams as an immigrant.
 It's particularly difficult for persons of my particular demographic to not just file, and be aware of the workings of the process, but to have their
 own work acknowledged. A good movie that talks about some of these systemic barriers is the movie ["Joy"](https://en.wikipedia.org/wiki/Joy_(2015_film)).
-In fact, my first semester, I wrote a paper (that was rejected) on this very topic, as it relates to AI systems and bias. But at the time, I didn't have any experience or 
+The movie [Straight Outta Compton](https://en.wikipedia.org/wiki/Straight_Outta_Compton_(film)), which years ago I swore I'd never watch, also talks about the 
+complications of some of these traditionally underrepresented communities being acknowledged for their work and their intellectual property. As it turns out,
+I ended up watching the film several times this year because the lack of acknowledgement for one's ideas and the diminishing of one's contributions is a topic
+that has resonated so deeply with me on multiple levels, as well as the knowledge or ability to advocate for visibility of one's work.
+In fact, my first semester, I wrote a paper (that was rejected) on this very topic (patents and IP), as it relates to AI systems and bias. But at the time, I didn't have any experience or 
 much support on how to write these kinds of papers. So I was thrilled to hear Dr. Lisa Cook talk about this.
 - For many years, Dr. Gladys West thought her work was unremarkable, even though she has been incredibly hardworking, and broke so many barriers. Her work was rediscovered
 and celebrated, and she was selected by BBC as one of the 100 Women of 2018. For many years, she was a hidden figure, but her remarkable and pioneering work has 
