@@ -40,10 +40,11 @@ a Compilers course in Haskell and another CS course.
 - [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
 - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/CV_PHD_resume_KM_5_26_2021.pdf)
 - [Gist of Things (Resume for Industry, Code Links, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_9_17_2020.pdf) (I haven't updated this one since 2019)
-- [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7), [link on GSoC site](https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/#projects)
+- [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7), [link on GSoC site 2018](https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/#projects)
 - [TechX Social Impact Medium Article 1 (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
 - [TechX Social Impact Medium Article 2 (Summer 2020)](https://medium.com/tech-x-social-impact/impossible-markets-and-big-dreams-my-interaction-with-the-cfo-of-impossible-foods-f0c075c241e0)
 - I have also contributed both the [ACM Carbon offsets Wiki page](https://en.wikipedia.org/wiki/Carbon_offset) and the [Project in Red/Women in AI Ethics Wiki page](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). You can find my Wiki user profile [here](https://en.wikipedia.org/wiki/User:Kammitama)
+- I also took part in Mozilla's ["Increasing Rust's Reach"](https://reach.rust-lang.org/) in 2018.
 
 ### Groups I'm in
 
