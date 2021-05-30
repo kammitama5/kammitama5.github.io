@@ -52,7 +52,7 @@ a Compilers course in Haskell and another CS course.
 - [Black in AI](https://blackinai.github.io/)
 - [LXAI](https://www.latinxinai.org/)
 - [WiML](https://wimlworkshop.org/)
-- [WINN (Women in Number Theory)](https://womeninnumbertheory.org/)
+- [WIN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [WISP](https://www.wisporg.com/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 - [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
