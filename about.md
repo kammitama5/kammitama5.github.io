@@ -44,7 +44,7 @@ a Compilers course in Haskell and another CS course.
 - [TechX Social Impact Medium Article 1 (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
 - [TechX Social Impact Medium Article 2 (Summer 2020)](https://medium.com/tech-x-social-impact/impossible-markets-and-big-dreams-my-interaction-with-the-cfo-of-impossible-foods-f0c075c241e0)
 - I have also contributed both the [ACM Carbon offsets Wiki page](https://en.wikipedia.org/wiki/Carbon_offset) and the [Project in Red/Women in AI Ethics Wiki page](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Women_in_Red/AI_Ethics#The_List). You can find my Wiki user profile [here](https://en.wikipedia.org/wiki/User:Kammitama)
-- I also took part in Mozilla's ["Increasing Rust's Reach"](https://reach.rust-lang.org/) in 2018.
+- I also took part in Mozilla's ["Increasing Rust's Reach"](https://reach.rust-lang.org/2018/participants) in 2018.
 
 ### Groups I'm in
 
