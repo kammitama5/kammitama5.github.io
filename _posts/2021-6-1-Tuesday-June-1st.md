@@ -22,7 +22,7 @@ I could get up at noon or something, start working at 6pm, and stay up until 4am
 
 ## Blockchain Fellowship
 - I met two out of three stewards this morning for my fellowship, to see how they could help (they do this with all of the fellows early on).
-- As I got into my second conversation, my steward said "if you'd like, you can spend your time learning about and writing zk proofs" and I immediately
+- As I got into my second conversation, my steward said, based on my interests and getting to know me more, "if you'd like, you can spend your time learning about and writing zk proofs" and I immediately
 lit up, so I think I'm going to do that. I'm already sorta-kinda in that community, and there may be opportunities to contribute to projects from other fellows,
 too. Finally, the group itself that I'm in is still going to do equip us with knowledge about how to audit blockchain and that sort of thing, so it would be 
 a nice complement. And it's very doable, considering I learned a bit about NIZK and that sort of thing in my secure distributed computing class (I keep getting
