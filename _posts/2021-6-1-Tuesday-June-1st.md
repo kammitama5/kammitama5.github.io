@@ -5,7 +5,7 @@
 I ended up spending Saturday and Sunday with people from my [LA hackerspace](https://032.la/), as their [flagship conference](https://www.layerone.org/)
 was this weekend. It was a LOT of fun. There were talks on reverse engineering, malware, lockpicking, packet sniffing, what bug bounty hunters and game hackers have in common, and hardware and software hacking
 contests. I ended up staying late listening to audio in their "chill" channel, which was subsequently raided by some of the group cooking and chatting
-(but not at a level that was distracting from the music), which was a pretty cool vibe. I couldn't turn my camera on at the time, but I had a great time.
+(but not at a level that was distracting from the music), which was a pretty cool vibe. I couldn't turn my camera on at the time (something something weekend lazy shower), but I had a great time.
 - There were speakers from as far as Finland, and it was just a blast. On top of the general, main talks, they had smaller talks and Q and A in Discord 
 voice channels, and a "Raise Me" channel, for those interested in careers in Infosec. I completely have to remember to donate this summer to this hackerspace!
 - Someone came in the Twitch chat and asked if they could donate, and one of the keyholders said they weren't taking donations for the event, but that the person
