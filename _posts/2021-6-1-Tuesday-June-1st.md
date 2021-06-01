@@ -15,7 +15,7 @@ have the means otherwise to attend, especially if it was in my city, or a city t
 
 ## I also got a fair amount of work done
 - Because of the talks and general shenanigans going on, I was able to code while watching the talks, pushing a bunch of code, and now I'm up watching
-old [Ghidra](https://www.youtube.com/watch?v=kx2xp7IQNSc) and [x86](https://www.youtube.com/watch?v=KrksBdWcZgQ) disassembly videos (Quite a few people were using Ghidra this weekend!). I was able to get a bit of work done towards week 3, but there is something I have questions about, which is 
+old [Ghidra](https://www.youtube.com/watch?v=kx2xp7IQNSc) and [x86](https://www.youtube.com/watch?v=KrksBdWcZgQ) disassembly videos (Quite a few people were using [Ghidra](https://en.wikipedia.org/wiki/Ghidra) this weekend!). I was able to get a bit of work done towards week 3, but there is something I have questions about, which is 
 good because our meeting is tomorrow (or may be "today" by the time I am done writing this). 
 - I *really* like writing code in the evenings and late at night, but it *destroys* my schedule during the day. Ideally, I would love a schedule where
 I could get up at noon or something, start working at 6pm, and stay up until 4am.
