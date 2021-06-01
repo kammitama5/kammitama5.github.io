@@ -25,8 +25,8 @@ I could get up at noon or something, start working at 6pm, and stay up until 4am
 - As I got into my second conversation, my steward said, based on my interests and getting to know me more, "if you'd like, you can spend your time learning about and writing zk proofs" and I immediately
 lit up, so I think I'm going to do that. I'm already sorta-kinda in that community, and there may be opportunities to contribute to projects from other fellows,
 too. Finally, the group itself that I'm in is still going to do equip us with knowledge about how to audit blockchain and that sort of thing, so it would be 
-a nice complement. And it's very doable, considering I learned a bit about NIZK and that sort of thing in my secure distributed computing class (I keep getting
-A plus-es in my encryption classes haha; that's the other one I got an A+ in).
+a nice complement. And it's very doable, considering I learned a bit about [NIZK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) and that sort of thing in my secure distributed computing class (I keep getting
+A plus-es in my encryption classes haha; that's the other one I got an A+ in). I've already decided that I'm not just going to rely on my institution to teach me everything; a lot of grad school is self-directed, even though, yes, you're essentially doing an apprenticeship (and getting paid for it).
 
 ## Internship
 - Finally, I'm starting my internship this week! I have ensured that I have a clear amount of time that lines up with my team (tentatively). 
