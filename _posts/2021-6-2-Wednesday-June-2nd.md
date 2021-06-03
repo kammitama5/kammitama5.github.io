@@ -32,7 +32,7 @@ virtual). I probably couldn't contain myself if it were on the company's campus 
 
 ## And then
 - I got word that I was accepted to [GREPSEC](https://grepsec.github.io/), which I heard about through another PhD student, on a listserve I'm on.
-- I am SO stoked, as it is not just an awesome workshop, and an opportunity to meet like-minded peers, but it's just before USENIX 2021, and as part of the
+- I am SO stoked, as it is not just an awesome workshop, and an opportunity to meet like-minded peers, but it's just before [USENIX 2021](https://www.usenix.org/conference/usenixsecurity21), and as part of the
 workshop, they give us a ticket to attend, so I'm dancing at this point, feeling doubly lucky. 
 - I stumbled upon the movie, [Chef](https://en.wikipedia.org/wiki/Chef_(2014_film)), which is another movie I swore I wasn't really interested in, but
 found I've loved it. It's all about taking chances and doing what you love, and having it pay off. The whole film is about a rollercoaster of emotions, 
