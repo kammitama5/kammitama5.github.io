@@ -22,7 +22,7 @@ It feels a bit surreal, and so magical. All those years of reading the biographi
 And everyone so far is just as you'd imagine them to be.
 - I watched a bit of Gabe's stream on Twitch, also, and he was using their OS, and it made me chuckle. So many of us learned to fiddle around and programme on
 that stuff. I used to do the IEEE Design News webinars on them at an old job, and learned a tiny bit from there, and then I started installing Wireshark, and Lisp, and 
-Haskell, and C++, and Smalltalk and Prolog. I even did a bit of my homework on there (at my old job), and one time I was doing an Euler's problem to find prime numbers while doing my day job (because I would do a handful of puzzles each day so I wouldn't die of boredom at my job) and
+Haskell, and C++, and Smalltalk and Prolog. I even did a bit of my homework on there (at my old job), and one time I was doing a Project Euler's problem to find prime numbers while doing my day job (because I would do a handful of puzzles each day so I wouldn't die of boredom at my job) and
 I didn't know that making forloops for all the primes was not the optimal solution, so I ended up having to check the numbers in batches to get my solution.
 Those were some pretty crazy times, but I was pretty determined.
 - And then I saved enough to get a $200 laptop, and would take workshops at my hackerspace, when I wasn't doing night classes. So I guess again, there are 
