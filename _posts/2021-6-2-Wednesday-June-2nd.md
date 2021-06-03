@@ -49,7 +49,7 @@ could have never imagined. And it's super (as my German friends like to say). I 
 dig in and make a small toy example of a zkproof, which I'm working on over the weekend.
 - I think back to a conversation someone had with me, when I finally admitted that I was super interested in computers, long after I had bought a couple
 Python books and was playing around with it (which my dad subsequently took from me because we borrow each other's books all the time), long after I had
-installed Elixir at work and cursed at trying to get Chocolatey to work, long after I had been attending classes and had broken up with a friend over the 
+installed Elixir at work and cursed at trying to get Chocolatey to work (I think that was when I was trying to play around with Dart. You can ask me about that time I went to the GDG Silicon Valley event at the Crit campus, and for the life of me couldn't get Android Studio to work on my machine), long after I had been attending classes and had broken up with a friend over the 
 fact that we were no longer interested in the same things, and couldn't meet in the middle about it. That person told me, upon my speaking up after years,
 finding the courage to form the words, that "it's hard". A lot of those moments are deluged with an enormous feeling of heartbreak, resigning myself to the
 fact that I'd have to do it anyways, and not wait for their approval, and that it might be a lonely path. A lot of those moments feel so far away now. 
