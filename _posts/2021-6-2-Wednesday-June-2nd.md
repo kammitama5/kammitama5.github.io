@@ -17,7 +17,7 @@ They really give a LOT to their interns; I've just gotten the sense that they re
 sitting filling out invoices at another job, as someone who was "fast" on the computer, so they put me to do that, and I was better at arithmetic and technical,
 and could handle dealing with customer troubleshooting (it was one of those places where you did a bit of everything, and sometimes people would not show up,
 so you learned. Sometimes the internet would also go down, and we figured out pretty quickly how to check and reset the router, too). And that led to lots of 
-dead time just fiddling around with the computer, and strangely, here I was, in my first week interning at the company that invented that OS. Life is strange.
+dead time just fiddling around with the computer, and strangely, here I was, in my first week interning at the company that invented that OS I would dig around on, to pass the time. Life is strange.
 It feels a bit surreal, and so magical. All those years of reading the biographies, and the books, and suddenly, I was a part of it, too. It's pretty wild.
 And everyone so far is just as you'd imagine them to be.
 - I watched a bit of Gabe's stream on Twitch, also, and he was using their OS, and it made me chuckle. So many of us learned to fiddle around and programme on
