@@ -31,7 +31,7 @@ Those were some pretty crazy times, but I was pretty determined.
 - And then I saved enough to get a $200 laptop, and would take workshops at my hackerspace, when I wasn't doing night classes. So I guess again, there are 
 so many memories that come flooding back when I think about this OS, and my start, and it feels really weird to be here right now, for summer (even though it's
 virtual). I probably couldn't contain myself if it were on the company's campus lol.
-- I wiped out during my lunch break today, and after work.
+- I wiped out during my lunch break today, and woke up about 15 mimutes before getting back to work (just enough time to make a pot of tea).
 
 ## And then
 - I got word that I was accepted to [GREPSEC](https://grepsec.github.io/), which I heard about through another PhD student, on a listserve I'm on.
