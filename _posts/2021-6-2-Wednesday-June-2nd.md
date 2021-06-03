@@ -49,7 +49,7 @@ Python books and was playing around with it (which my dad subsequently took from
 installed Elixir at work and cursed at trying to get Chocolatey to work, long after I had been attending classes and had broken up with a friend over the 
 fact that we were no longer interested in the same things, and couldn't meet in the middle about it. That person told me, upon my speaking up after years,
 finding the courage to form the words, that "it's hard". A lot of those moments are deluged with an enormous feeling of heartbreak, resigning myself to the
-fact that I'd have to do it anyways, and not wait for their approval. A lot of those moments feel so far away now. 
+fact that I'd have to do it anyways, and not wait for their approval, and that it might be a lonely path. A lot of those moments feel so far away now. 
 - And I'm glad that I keep going, and that I still find it enjoyable. It's been a long journey. This week has felt like it's been so worth it.
 
 ## And that's it.
