@@ -20,6 +20,9 @@ so you learned. Sometimes the internet would also go down, and we figured out pr
 dead time just fiddling around with the computer, and strangely, here I was, in my first week interning at the company that invented that OS I would dig around on, to pass the time. Life is strange.
 It feels a bit surreal, and so magical. All those years of reading the biographies, and the books, and suddenly, I was a part of it, too. It's pretty wild.
 And everyone so far is just as you'd imagine them to be.
+- I have to mention that that job knew that it was a matter of time, that I'd outgrown what they could offer me (both financially and skill-wise), so they
+did a LOT to ensure that I could be covered to attend classes at night (ie leave a bit early to get there on time), and even take a day off or two to attend
+a conference. Everything is a tradeoff.
 - I watched a bit of Gabe's stream on Twitch, also, and he was using their OS, and it made me chuckle. So many of us learned to fiddle around and programme on
 that stuff. I used to do the IEEE Design News webinars on them at an old job, and learned a tiny bit from there, and then I started installing Wireshark, and Lisp, and 
 Haskell, and C++, and Smalltalk and Prolog. I even did a bit of my homework on there (at my old job), and one time I was doing a Project Euler's problem to find prime numbers while doing my day job (because I would do a handful of puzzles each day so I wouldn't die of boredom at my job) and
