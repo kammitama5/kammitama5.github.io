@@ -6,7 +6,7 @@ remember the last time I had felt this happy. It's a mix of an environment where
 feel supported. 
 - I started today with my MSR mentors, and we pair-programmed, and one of the most amazing things was that after all of it, one of my mentors said "Great job!".
 That surprised me. For years it's felt like there was always a shadow over me of someone judging me, telling me that I started too late or am never going to be
-good enough, that I could be holding the space for someone else who deserves it more than I am. And it had this weird effect. It made me feel *humbled* that 
+good enough, that I could be holding the space for someone else who deserves it more than I do. And it had this weird effect. It made me feel *humbled* that 
 someone believed that I deserved to be there. They believed in me. I think very highly of both my mentors at MSR.
 - We're starting to think about the differences between designing out and building out a non-distributed versus a distributed pipeline for the models, and I'm 
 learning a lot. And they're both so humble and supportive.
