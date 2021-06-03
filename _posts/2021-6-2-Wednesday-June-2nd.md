@@ -1,7 +1,7 @@
 ## The last time
 
 ## As I was rewinding today
-- I was wrapping up today, after having a one-hour meeting for a long-term project I've been a part of with some friends, I thought to myself that I couldn't
+- I was wrapping up today, after having a one-hour meeting for a long-term project I've been a part of with some friends. I thought to myself that I couldn't
 remember the last time I had felt this happy. It's a mix of an environment where I *want* to work hard, feel positive about the things I am working on, and 
 feel supported. 
 - I started today with my MSR mentors, and we pair-programmed, and one of the most amazing things was that after all of it, one of my mentors said "Great job!".
