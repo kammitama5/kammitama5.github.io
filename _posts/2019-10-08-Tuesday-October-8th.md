@@ -43,6 +43,7 @@
 - I've been chosen as 1 of 60 for the NCWIT AiC Connections Mentorship Programme and have been matched with a Facebook AI Research Advisor!
 - I have been invited to the Alan Turing Institute's workshops on Key Themes for Informing a Research Roadmap (part 5) and also session 6 of their Threats and Opportunities for AI in Cyber Security, with keynote by B. Schneier (session 6).
 - I received a Student Travel Award to attend IEEE S&P Oakland 2021. I'm thrilled.
+- I have received a placement in the She256 Mentorship programme with a mentor who focuses on ZK Snarks, for the next 6 months! I am excited to learn all the things!
 - I've been invited to participate in Facebook's Above and Beyond Computer Science Amplified edition, for PhDs!
 - I have been chosen as 1 of 2 persons to say Congratulations and how the work and life journey of Dr. Gladys West has impacted me, to Dr. Gladys West, courtesy of NCWIT's Pioneer Award!
 - I've been accepted to GREPSEC V, which is an Early Career Workshop for graduate students in Security and Privacy. Acceptance also will provide me with a ticket to USENIX Security 2021, so I'll be attending that, too!
