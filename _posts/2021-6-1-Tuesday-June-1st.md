@@ -28,6 +28,8 @@ too. Finally, the group itself that I'm in is still going to do equip us with kn
 a nice complement. And it's very doable, considering I learned a bit about [NIZK](https://en.wikipedia.org/wiki/Non-interactive_zero-knowledge_proof) and that sort of thing in my secure distributed computing class (I keep getting
 A plus-es in my encryption classes haha; that's the other one I got an A+ in). I've already decided that I'm not just going to rely on my institution to teach me everything; a lot of grad school is self-directed, even though, yes, you're essentially doing an apprenticeship (and getting paid for it).
 
+<img src="/images/Krystal_at_Microsoft.png" width="500">
+
 ## Internship
 - Finally, I'm starting my internship this week! I have ensured that I have a clear amount of time that lines up with my team (tentatively). 
 - They sent me a super large monitor that I thought was a small dog, that I don't know would fit on my desk, but we'll see :)
