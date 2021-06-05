@@ -1,4 +1,4 @@
-## RLOS Week 3
+## RLOS Week 3 (and first day at Microsoft)
 
 ## This Weekend
 - This weekend was Memorial Day Weekend and [Indian Arrival Day](https://en.wikipedia.org/wiki/Indian_Arrival_Day) in my home country.
