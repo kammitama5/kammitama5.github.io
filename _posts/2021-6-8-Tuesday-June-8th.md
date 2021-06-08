@@ -5,6 +5,8 @@
 I had not experienced one for quite some time. It came to me in the form of backlash by a particular individual who tried to diminish the congratulatory 
 responses of the general group. Furthermore, it was from a woman. The backlash, though, felt *familiar* because it was a part of something I grew up with a lot.
 - A lot of it felt familiar, because it reminded me of an internalized self-loathing that pops up culturally from time to time.
+- My country was reeling a while ago, from the murder of a young woman who was [simply](https://trinidadexpress.com/newsextra/2-suspects-confessed-to-robbing-andrea-who-just-wanted-to-go-home/article_b8c3ca7c-6afd-11eb-b47c-9bc7441fbdda.html) trying to get [home from work](http://www.guardian.co.tt/news/police-hold-four-in-search-of-angel-andrea-6.2.1283419.86fbc6d06c).
+- I've thought about how sometimes, in some environments, just existing is a threat to someone's self-worth, and how to cope with that.
 - I'm not American, nor did I grow up in the United States, so I can't speak specifically about any movements or affiliations here, but only my own cultural
 experience growing up in my own home country. It's something I've been thinking about for a *long* while.
 
