@@ -39,7 +39,7 @@ to go out and seek and achieve the things that were important to me. But all of 
 - And decades later, let's face it; my country (as do many; I'm looking at you, United States!) has a postcolonialist illogical obsession with European (often
 British) aristocracy and hierarchy. They perpetuate these structures, look up to them. When do you plan to go backpacking in Europe?
 - A while ago, I stumbled upon a video where a contestant had to guess the language by hearing it, and once they had made a guess, they were allowed to see
-and speak with the person who had said some words. In one case, the person speaking it was a black girl from Martinique who spoke Dutch. That surprised a lot
+and speak with the person who had said some words. In one case, the person speaking it was a black girl from [Martinique](https://en.wikipedia.org/wiki/Invasion_of_Martinique_(1674)) who spoke Dutch. That surprised a lot
 of people, because it's not something you'd ordinarily expect (unless you grew up in the Caribbean and also knew that in [Curacao](https://en.wikipedia.org/wiki/Cura%C3%A7ao) they also speak Dutch, and that not all of us are Jamaican.
 
 ## From school to working
