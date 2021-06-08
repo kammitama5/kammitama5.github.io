@@ -16,7 +16,7 @@ experience growing up in my own home country. It's something I've been thinking 
 - A funny thing to experience as an immigrant is noticing how someone like yourself treats you, versus how they behave when they realize they are in the 
 company of someone who does not seem to fit in that immigrant group. It's often the case that they may "put on a show" or be on their best behavior one
 minute, and then treat you as they would in the country from which you both immigrated or have immigrant roots within (in terms of the expectations of the
-cultural structural hierarchy, etc).
+cultural structural hierarchy, etc) once the "foreigner" is no longer in sight. I guess some people in the United States would call that "code switching" of sorts.
 - A while ago, I visited Brooklyn, which is pretty populated by immigrants from my country, and I was waiting for my favourite roti shop to open, and I was
 first in line. Two guys entered, were chatting with each other, and one looked me up and down and stepped in front of me, casually. Fortunately, the lady
 at the counter, upon opening, stated flatly "she was here first, so I'll be helping her first." But it's very much a part of the kind of thing I experienced
