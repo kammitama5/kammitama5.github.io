@@ -39,7 +39,8 @@ And after all, I was only 18.
 - I think about advocacy and value today in work, in support. I've changed quite a bit from a shyer version of myself (although I was always a smart-ass; that
 hasn't changed), because I've lived with years of sometimes being fed-up, of pretending to be not as smart, not as well-spoken, not as clever, so that I can
 give way to my male counterparts. That was the world I grew up in. I've also seen a backlash to that, which has had its own levels of toxicity, too, when taken
-to extremes. And sometimes I wonder from time to time if I am stepping out of line, as I've been told sometimes. But if I don't advocate for myself, who will?
+to extremes. And sometimes I wonder from time to time if I am stepping out of line, as I've been told at times by both men and women who enable and give power to those points of view. But if I don't advocate for myself, who will? And what was the point of that all-female school of selecting "the best and brightest" if 
+we were told not to shine once we left its walls, not to continue to strive to be all the things we were told we could be?
 As I've often seen, often no one. Nothing; my voice, my work, or my value, will be heard. Being rude or out of line is better than being a ghost of who I am. 
 So it's worth a shot.
 
