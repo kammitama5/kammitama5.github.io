@@ -29,7 +29,7 @@ I'm not sure about if this is something that is also a part of growing up in the
 where it is hinted, as a woman, that you should not appear too smart, not shine too bright. And I've wrestled with that for years, and what it means for
 the valuation of one's contributions, understanding all the things I've done and all the things I want to be.
 - I've also thought about it in the context of meeting other persons from such countries, looking deliberately to see whether they perpetuate those mindsets.
-These people are, after all, the very people who have the ability to hire us, promote our work, and advocate for us. And we tend to think that a person
+These people are smart, educated, and have worked very hard in this country, but they are not without biases. These people are, after all, the very people who have the ability to hire us, promote our work, and advocate for us. And we tend to think that a person
 who has this ability to hire someone will just look at past jobs, schools, and will take us at face value, but that often isn't the case, particularly when
 intertwined with the complexity of post-colonialist societies. 
 
