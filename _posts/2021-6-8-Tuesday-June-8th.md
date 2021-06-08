@@ -18,9 +18,11 @@ company of someone who does not seem to fit in that immigrant group. It's often 
 minute, and then treat you as they would in the country from which you both immigrated or have immigrant roots within (in terms of the expectations of the
 cultural structural hierarchy, etc) once the "foreigner" is no longer in sight. I guess some people in the United States would call that "code switching" of sorts.
 - A while ago, I visited Brooklyn, which is pretty populated by immigrants from my country, and I was waiting for my favourite roti shop to open, and I was
-first in line. Two guys entered, were chatting with each other, and one looked me up and down and stepped in front of me, casually. Fortunately, the lady
+first in line. Two guys entered, were chatting with each other, and one looked me up and down (perhaps recognizing that I, too, had roots from the Caribbean) and stepped in front of me, casually. Fortunately, the lady
 at the counter, upon opening, stated flatly "she was here first, so I'll be helping her first." But it's very much a part of the kind of thing I experienced
-a lot growing up. Not in my immediate family, thankfully, but it's a big part of the culture I grew up with, and have wrestled with for years.
+a lot growing up. Not in my immediate family, thankfully, but it's a big part of the culture I grew up with, and have wrestled with for years. 
+It's often also why I find it very difficult to be lumped together solely by region or country; it doesn't account for these differences and cultural expectations
+based on gender, etc.
 - Maybe this may resonate with some, but I've had friends who grew up in cultures where it's more favourable to birth a boy instead of a girl. In fact,
 I've had quite a few international friends who, if you got to know them, would say "my parents wanted a boy". I had a strange experience years ago 
 when someone I knew invited me to meet a friend (an immigrant living and working) in Silicon Valley, and I was introduced to their family. Openly, the parent of that child turned to us
