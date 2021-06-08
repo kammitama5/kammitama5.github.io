@@ -23,10 +23,12 @@ and said about his daughter, after praising his son, "look at her; she's so stup
 I'm not sure about if this is something that is also a part of growing up in the United States, as I said, but I've lived through parts of that culture 
 where it is hinted, as a woman, that you should not appear too smart, not shine too bright. And I've wrestled with that for years, and what it means for
 the valuation of one's contributions, understanding all the things I've done and all the things I want to be.
+- I've also thought about it in the context of meeting other persons from such countries, looking deliberately to see whether they perpetuate those mindsets.
+These people are, after all, the very people who have the ability to hire us, promote our work, and advocate for us.
 
 ## From school to working
-- One of the things I wrestled with a lot was how, in my own high school, we were encouraged to be leaders, to forge our own paths. It was a special, very
-pedigreed school where we were told we could find a place in any sector of society. However, once I stepped out of that all-female environment, there was
+- One of the things I wrestled with a lot was how, in my own all-female high school, we were encouraged to be leaders, to forge our own paths. It was a special, very
+pedigreed school where we were told we could find a place in any sector of society, while wearing our prefect ties and uniforms. However, once I stepped out of that all-female environment, there was
 a different reality. At one of my first jobs, I remember kindly asking a gentleman I was working with if they could carry out the task that a superior asked
 me to relay to his staff, and the gentleman's response of turning away from me and telling his coworkers "I'm not taking orders from a woman".
 - At the time, I didn't feel any sort of rage or empowerment in the way the women in this country I currently live in speak openly. I did feel a resignation
