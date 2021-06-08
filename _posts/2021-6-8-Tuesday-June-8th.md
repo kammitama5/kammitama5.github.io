@@ -22,7 +22,7 @@ first in line. Two guys entered, were chatting with each other, and one looked m
 at the counter, upon opening, stated flatly "she was here first, so I'll be helping her first." But it's very much a part of the kind of thing I experienced
 a lot growing up. Not in my immediate family, thankfully, but it's a big part of the culture I grew up with, and have wrestled with for years.
 - Maybe this may resonate with some, but I've had friends who grew up in cultures where it's more favourable to birth a boy instead of a girl. In fact,
-I've had quite a few international friends who, if you got to know them, would say "my parents wanted a boy". I had a strange experienced years ago 
+I've had quite a few international friends who, if you got to know them, would say "my parents wanted a boy". I had a strange experience years ago 
 when someone I knew invited me to meet a friend (an immigrant living and working) in Silicon Valley, and I was introduced to their family. Openly, the parent of that child turned to us
 and said about his daughter, after praising his son, "look at her; she's so stupid". It was said in a tone of resentment, and I recognize it all too well.
 I'm not sure about if this is something that is also a part of growing up in the United States, as I said, but I've lived through parts of that culture 
