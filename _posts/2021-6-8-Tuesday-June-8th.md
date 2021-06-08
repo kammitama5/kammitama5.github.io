@@ -42,7 +42,8 @@ British) aristocracy and hierarchy. They perpetuate these structures, look up to
 and speak with the person who had said some words. In one case, the person speaking it was a black girl from [Martinique](https://en.wikipedia.org/wiki/Invasion_of_Martinique_(1674)) who spoke Dutch. That surprised a lot
 of people, because it's not something you'd ordinarily expect (unless you grew up in the Caribbean and also knew that in [Curacao](https://en.wikipedia.org/wiki/Cura%C3%A7ao) they also speak Dutch, and that not all of us are Jamaican.
 - Coincidentally, this confusion was also something I experienced in my own lab, where I suspect that because of a lack of context, I was assumed to be African-
-American well into the Spring of my first year, before by chance a labmate heard me "speak a bunch of what sounded like British".
+American well into the Spring of my first year, before by chance a labmate heard me "speak a bunch of what sounded like British". And so, the projection of who 
+I was and what societally I should expect was set upon me from the beginning. I've thought about this for a while, and what it must mean to grow up with those projections thrust upon you as someone who legitimately was born and grew up in the United States.
 
 ## From school to working
 - One of the things I wrestled with a lot was how, in my own all-female high school, we were encouraged to be leaders, to forge our own paths. It was a special, very
