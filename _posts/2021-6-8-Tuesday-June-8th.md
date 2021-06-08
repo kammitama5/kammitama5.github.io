@@ -41,6 +41,8 @@ British) aristocracy and hierarchy. They perpetuate these structures, look up to
 - A while ago, I stumbled upon a video where a contestant had to guess the language by hearing it, and once they had made a guess, they were allowed to see
 and speak with the person who had said some words. In one case, the person speaking it was a black girl from [Martinique](https://en.wikipedia.org/wiki/Invasion_of_Martinique_(1674)) who spoke Dutch. That surprised a lot
 of people, because it's not something you'd ordinarily expect (unless you grew up in the Caribbean and also knew that in [Curacao](https://en.wikipedia.org/wiki/Cura%C3%A7ao) they also speak Dutch, and that not all of us are Jamaican.
+- Coincidentally, this confusion was also something I experienced in my own lab, where I suspect that because of a lack of context, I was assumed to be African-
+American well into the Spring of my first year, before by chance a labmate heard me "speak a bunch of what sounded like British".
 
 ## From school to working
 - One of the things I wrestled with a lot was how, in my own all-female high school, we were encouraged to be leaders, to forge our own paths. It was a special, very
