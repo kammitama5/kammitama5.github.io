@@ -29,7 +29,15 @@ I'm not sure about if this is something that is also a part of growing up in the
 where it is hinted, as a woman, that you should not appear too smart, not shine too bright. And I've wrestled with that for years, and what it means for
 the valuation of one's contributions, understanding all the things I've done and all the things I want to be.
 - I've also thought about it in the context of meeting other persons from such countries, looking deliberately to see whether they perpetuate those mindsets.
-These people are, after all, the very people who have the ability to hire us, promote our work, and advocate for us.
+These people are, after all, the very people who have the ability to hire us, promote our work, and advocate for us. And we tend to think that a person
+who has this ability to hire someone will just look at past jobs, schools, and will take us at face value, but that often isn't the case, particularly when
+intertwined with the complexity of post-colonialist societies. 
+
+## Granted
+- I was fortunate in that my direct family is very aware of these things, and raised me in a way that did not diminish who I was, and encouraged me 
+to go out and seek and achieve the things that were important to me. But all of this is still enwrapped in the reality of the culture within which I exist.
+- And decades later, let's face it; my country (as do many; I'm looking at you, United States!) has a postcolonialist illogical obsession with European (often
+British) aristocracy and hierarchy. They perpetuate these structures, look up to them. When do you plan to go backpacking in Europe?
 
 ## From school to working
 - One of the things I wrestled with a lot was how, in my own all-female high school, we were encouraged to be leaders, to forge our own paths. It was a special, very
