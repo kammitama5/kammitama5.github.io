@@ -39,7 +39,7 @@ meet with me or work with me that I am only book-able either during my lunch hou
 ## Overall
 - I really like my internship! The people are super chill, *very* knowledgeable and the perfect mix of systems-mindset, research-minded / innovative and customer-focused. 
 - So I have no complaints; both RLOS and my current internship are pretty awesome!
-- 
+
 ## And that's it
 
 
