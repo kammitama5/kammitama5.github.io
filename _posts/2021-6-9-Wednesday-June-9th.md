@@ -10,6 +10,7 @@ via OneNote and through our discussions via Teams. So I'm working on those two t
 
 ## I am exhausted
 - I'm not going to lie; I'm exhausted this week. I went to sleep at 4am, to get up at 7am today, around when I made that pull request.
+- We're working off of a feature branch, and after summer, the hope is that it will be merged into master by the core maintainers (who are my mentors).
 - My response to doing that was that I was actually happy that I could get 1.5 hours of sleep and set my alarm, as I thought I'd have to work all the way
 up to the meeting at 9:30am because I was silly and tired and couldn't get my git act together (until caffeine).
 - I'm rotating through a lot of projects, a lot of people, a lot of meetings, a lot of stuff, across all the various things I'm a part of. I'm really busting my 
