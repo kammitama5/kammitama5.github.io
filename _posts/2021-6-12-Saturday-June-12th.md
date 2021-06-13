@@ -14,7 +14,7 @@ My MSR meetings are usually at 9am, but I can attend those without any problems.
 - I started working on some stuff in ZK Proofs, and a lot of it is in Rust, so I guess I've also been brushing up on Rust by working 
 on this. It's gotten even better since the last time I really spent time in Rust, which is pretty amazing. Installation is a breeze now.
 - My mentor gave me a couple papers to read, so I'm looking into that, and my first task is to replicate and understand some of the code
-used in a paper, an really understand what is going on. A Rustacean at Microsoft already eagerly self-volunteered if I need help with Rust stuff,
+used in a paper, and really understand what is going on. A Rustacean at Microsoft already eagerly self-volunteered if I need help with Rust stuff,
 and my mentor and my advisor can help me with the ZKSnark and cryptography stuff in general. So that's pretty fantastic. 
 
 ## This week
