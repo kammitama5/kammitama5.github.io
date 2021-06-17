@@ -6,6 +6,11 @@
 - Yes friends; it's been M-E-R-G-E-D.
 - I will be posting more as we meet and I work through stuff. I believe the next part involves some research and design of the infrastructure.
 - This distributed stuff is F-U-N. Parallelism for life lol.
+- Later in the week, I am focusing on diagramming some of the code (yes, I am tracing the types!), because that is useful in figuring out what a user expects,
+and how the next part should be designed. So that's cool because I get to draw things out. Completely reminded me of my friend, years ago, when I was in school,
+and I would watch him stream over Twitch (including build a compiler in 48 hours or something) when we were chatting and I told him I was "doing a stupid UML
+for class", he responded "UML? People still do that? What is this, the 90s?". He has worked exclusively for some of the top tech companies and game companies, so I had to laugh. It was my first glimpse into the disconnect between industry and what I was learning and why I should still keep open communications and ties between the two realms. C++ was the other. I still have an itch for it and hang around Discords where people write quite a lot of it, but the way I was taught wouldn't fly in industry at all. I think I probably (especially now) write some terrible C++, but at least back when I was taking class it was almost enough to get me hired as an entry level roboticist writing it for a living (with a promise of being taught Assembly, too!). A lot of the way we learned to write it (C++) felt like writing Java (the person who taught it writes a lot of Java).
+- Today, my current advisor writes language like python like they're lisp, because he likes Racket. And that really cracks me up. You can tell sometimes he wants to coerce it to be Racket. An iRacket notebook. ```raco activate iRacket```. Oh, and my MSR mentor (one of them) writes Python like it's Haskell. He seems to LOVE types, and that suits me perfectly :). At one point last week, it was really early and I wanted to ask if he was writing Haskell. As it turns out, it was just python with types.
 
 ## On another note
 - This week has been CRAZY! Not only have I been getting up at 3am (yesterday I got up at 2:30am, but today I couldn't hack it because of all the stuff
