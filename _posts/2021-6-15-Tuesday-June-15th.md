@@ -13,6 +13,7 @@ for class", he responded "UML? People still do that? What is this, the 90s?". He
 - Today, my current advisor writes python like it's lisp, because he likes Racket. And that really cracks me up. You can tell sometimes he wants to coerce it to be Racket. An iRacket notebook. ```raco activate iRacket```. Oh, and my MSR mentor (one of them) writes Python like it's Haskell. He seems to LOVE types, and that suits me perfectly :). At one point last week, it was really early and I wanted to ask if he was writing Haskell. As it turns out, it was just python with types.
 - The other professor I'll be working with in Fall says she "doesn't know Python" and then will proceed to casually write SageMaths without thinking. But they're...
 essentially pretty similar? I have to say for the thing it's supposed to do, SageMaths is pretty superior, though. It does things you *expect* it should do when you're doing Maths a lot easier. Except division. Wtf do we need 8 types of divisions or whatever? Ring division, nose division, toe division? But oh, cannot do integer. Error: Must use two noses to divide, not integers.
+- Catch me in a year extolling the superiority of SageMaths, though :)
 
 ## On another note
 - This week has been CRAZY! Not only have I been getting up at 3am (yesterday I got up at 2:30am, but today I couldn't hack it because of all the stuff
