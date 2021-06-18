@@ -48,6 +48,7 @@
 - I have been interviewed by the MacArthur Foundation for their piece of the impact of BAI!
 - I have been invited to speak at the BlackAIR Summer Grant Program, which is affiliated with Stanford University
 - I have been invited to speak at Code2040's 2021 Alumni Program!
+- I've been invited to attend Google's PhD Fellowship summit this year. I'm excited!
 - I have received a placement in the She256 Mentorship programme with a mentor who focuses on ZK Snarks, for the next 6 months! I am excited to learn all the things!
 - I've been invited to participate in Facebook's Above and Beyond Computer Science Amplified edition, for PhDs!
 - I have been chosen as 1 of 2 persons to say Congratulations and how the work and life journey of Dr. Gladys West has impacted me, to Dr. Gladys West, courtesy of NCWIT's Pioneer Award!
