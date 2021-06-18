@@ -23,7 +23,7 @@ expect you'll be on your own with respect to these sorts of activities.
 
 ## RLOS and internship
 - We started digging into what the user woud expect using the library, which was super interesting! I am perpetually astounded by how humble and knowledgeable my 
-MSR mentors are! I love working with them, and we tacked on a Monday to work together as well! So I'm really happy, and plan to chip away at this over the weekend!
+MSR mentors are! I love working with them, and we tacked on a Monday to work together as well! So I'm really happy, and plan to chip away at this over the weekend! Also, as I had said before, I won't be talking about any details regarding my internship project, so all of this stuff I'm revealing is for my open source MSR opportunity.
 I was showing them notes I took from a talk I liked, and scrolled up and apparently had no notes for the talk before that, because I had fallen asleep by accident.
 Oops.
 - At my intership, after my lunch break/ nap, I reconnected with my team and I felt really humbled by how chill everyone has been, and how competent. It's been
