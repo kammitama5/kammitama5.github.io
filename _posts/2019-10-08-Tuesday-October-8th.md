@@ -36,13 +36,18 @@
 - I'll be attending the 4th Annual ZK-Proof workshop :)
 - I've been invited to be a DEI co-chair for ICLR 2022.
 - I've been invited as a reviewer for GHC 2021.
-- I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop 2021! :)
+- I have been accepted to the Nordic Probabilistic AI (ProbAI) summer workshop 2021! I will be presenting a poster of my work there, too! :)
 - I've been asked to be a reviewier for the BlackAIR summer research grant workshop 2021
 - I'll be attending the CHIMe workshop 2021
 - I've received a free ticket to attend WISP's Privacy+Security Conference :) I'll be taking the De-identification and EU Privacy and Law tracks.
 - I've been chosen as 1 of 60 for the NCWIT AiC Connections Mentorship Programme and have been matched with a Facebook AI Research Advisor!
 - I have been invited to the Alan Turing Institute's workshops on Key Themes for Informing a Research Roadmap (part 5) and also session 6 of their Threats and Opportunities for AI in Cyber Security, with keynote by B. Schneier (session 6).
 - I received a Student Travel Award to attend IEEE S&P Oakland 2021. I'm thrilled.
+- I have been invited to be a mentor for the Career Girls AI Summer Camp 2021!
+- I have been invited to be a panelist for the Technovation AI Prize 2021
+- I have been interviewed by the MacArthur Foundation for their piece of the impact of BAI!
+- I have been invited to speak at the BlackAIR Summer Grant Program, which is affiliated with Stanford University
+- I have been invited to speak at Code2040's 2021 Alumni Program!
 - I have received a placement in the She256 Mentorship programme with a mentor who focuses on ZK Snarks, for the next 6 months! I am excited to learn all the things!
 - I've been invited to participate in Facebook's Above and Beyond Computer Science Amplified edition, for PhDs!
 - I have been chosen as 1 of 2 persons to say Congratulations and how the work and life journey of Dr. Gladys West has impacted me, to Dr. Gladys West, courtesy of NCWIT's Pioneer Award!
