@@ -1,7 +1,7 @@
 ## Reflections on the Week (RLOS, internship, crazy week, puzzles)
 
 ## This week was pretty crazy!
-- This week, I got up at 3am Monday through Friday, attended the Nordic Probabilistic AI workshop, skipped a bit near the end to attend some other meetings
+- This week, I got up at 3am Monday through Friday, attended the Nordic Probabilistic AI workshop (which ran until noon each day), skipped a bit near the end to attend some other meetings
 or take a nap, and then continued on to my internship hours from noon to 8pm each day. Yes; it is absolutely true that near the end of the week, I was very
 burned out. In fact, I used my lunch time today to take a nap, and I'm pretty sure there was snoring. There was also a time or two I started a call (not at 
 my internship; I was very awake for that time!), started taking notes and then woke up to see the presenter had ended the call. So yeah, it was rough.
