@@ -53,6 +53,8 @@
 - I've been invited to participate in Facebook's Above and Beyond Computer Science Amplified edition, for PhDs!
 - I have been chosen as 1 of 2 persons to say Congratulations and how the work and life journey of Dr. Gladys West has impacted me, to Dr. Gladys West, courtesy of NCWIT's Pioneer Award!
 - I've been accepted to GREPSEC V, which is an Early Career Workshop for graduate students in Security and Privacy. Acceptance also will provide me with a ticket to USENIX Security 2021, so I'll be attending that, too!
+- I havce been assigned a mentee via WISP's Mentor-Mentee Programme! I'm *very* happy with my match! :)
+- I'm attending USENIX Security 2021 (my first!)!!!!
 
 ## 2020
 
