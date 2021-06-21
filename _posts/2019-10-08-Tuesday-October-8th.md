@@ -55,6 +55,7 @@
 - I've been accepted to GREPSEC V, which is an Early Career Workshop for graduate students in Security and Privacy. Acceptance also will provide me with a ticket to USENIX Security 2021, so I'll be attending that, too!
 - I havce been assigned a mentee via WISP's Mentor-Mentee Programme! I'm *very* happy with my match! :)
 - I'm attending USENIX Security 2021 (my first!)!!!!
+- I'm participating in the Galois Summer School on Trustworthy Machine Learning!!! Super excited *does happy dance*
 
 ## 2020
 
