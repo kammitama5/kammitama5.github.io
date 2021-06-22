@@ -22,7 +22,7 @@ and progress thus far. All of the projects were really interesting, and there we
 One of them also used the ```Adult``` dataset, which is a dataset I know well.
 
 ## Good News! Galois Summer School
-- I received word yesterday that I was able to obtain one of 35 slots for the Galois Trustworthy Machine Learning Summer School! I'm super excited to meet
+- I received word yesterday that I was able to obtain one of 35 slots for the [Galois Trustworthy Machine Learning Summer School](https://galois.com/news/2021-galois-summer-school-for-trustworthy-machine-learning-artificial-intelligence-and-data-science/)! I'm super excited to meet
 other researchers at Galois and learn more about the kind of work they do! It's like a dream come true! Super cool!!!! I'm excited to see the other participants,
 and to make friends! Essentially, these will probably be my peers in the field, and I expect that I may already know a couple of them (I'm guessing at least one).
 
