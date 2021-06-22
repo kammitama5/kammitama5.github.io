@@ -38,7 +38,7 @@ focusing on ZKProofs (I know for a fact that he has done some ZKRollup work).
 ## Other events
 - I have a couple other recruiting events coming up (via Fb and Google; I also got an invitation to the Google PhD Summit this year! So I'll be attending and probably blog a bit about that when I attend), so I'm juggling that, as well as my ICLR 2022 meeting duties, which my co-chair and myself usually 
 schedule once a week, and I still have the coursework from the workshop to finish up (due in mid-August). But things are a lot better than last week, 
-and I got a "this is great" from my internship mentor yesterday, which was such a relief and made me happy. So chipping away on that as well this week.
+and I got a "this is great" from my internship mentor yesterday, which was such a relief and made me happy. My mentor is amazing!!! She makes me SO happy! So chipping away on that work as well this week.
 
 ## And that's it
 
