@@ -21,6 +21,10 @@ who hate them :) Being annoying is so much fun haha (puts on troll hat). I am al
 and progress thus far. All of the projects were really interesting, and there were even ones on fairness and privacy-preserving algorithms, which was cool.
 One of them also used the ```Adult``` dataset, which is a dataset I know well.
 
+## RLOS progression goals
+- Alexey and Chen and myself are going to continue to work this week; we spent some time on Monday working and collaborating using VS Code Collaboration Tools,
+which was my first time using that. It was pretty fun! I enjoyed it a lot! It's very easy to get lost working together in that space, and we ended up going over and at the end, I was thanked for my hard work. It was really awesome and a lot of fun, and easy to get into the zone working in that way, even remotely.
+
 ## Good News! Galois Summer School
 - I received word yesterday that I was able to obtain one of 35 slots for the [Galois Trustworthy Machine Learning Summer School](https://galois.com/news/2021-galois-summer-school-for-trustworthy-machine-learning-artificial-intelligence-and-data-science/)! I'm super excited to meet
 other researchers at Galois and learn more about the kind of work they do! It's like a dream come true! Super cool!!!! I'm excited to see the other participants,
