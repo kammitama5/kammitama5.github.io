@@ -2,8 +2,8 @@
 
 ## RLOS midpoint
 - Yes; it's that time for the mid-point presentation.
-- Here are my slides for today's event with MSR mentors! You know if given the chance, I ironically added a word cloud haha. Just to get on the nerves of people
-who hate them :)
+- Here are my slides for today's event with MSR mentors! You know if given the chance, I ironically will add a word cloud haha. Just to get on the nerves of people
+who hate them :) Being annoying is so much fun haha (puts on troll hat).
 
 <img src="/images/vowpalmid1.png" width="600">
 
