@@ -4,17 +4,17 @@
 - Yes; it's that time for the mid-point presentation.
 - Here are my slides for today's event with MSR mentors! 
 
-<img src="/images/OCRUGHackathon21/vowpalmid1.png" width="700">
+<img src="/images/vowpalmid1.png" width="600">
 
-<img src="/images/OCRUGHackathon21/vowpalmid2.png" width="700">
+<img src="/images/vowpalmid2.png" width="600">
 
-<img src="/images/OCRUGHackathon21/vowpalmid3.png" width="700">
+<img src="/images/vowpalmid3.png" width="600">
 
-<img src="/images/OCRUGHackathon21/vowpalmid4.png" width="700">
+<img src="/images/vowpalmid4.png" width="600">
 
-<img src="/images/OCRUGHackathon21/vowpalmid5.png" width="700">
+<img src="/images/vowpalmid5.png" width="600">
 
-<img src="/images/OCRUGHackathon21/vowpalmid6.png" width="700">
+<img src="/images/vowpalmid6.png" width="600">
 
 - We met today for a sync, and each of us did a dry-run of our slides. We then had five minutes to present to the larger RLOS group about our project
 and progress thus far. All of the projects were really interesting, and there were even ones on fairness and privacy-preserving algorithms, which was cool.
