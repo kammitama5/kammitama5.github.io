@@ -2,19 +2,20 @@
 
 ## RLOS midpoint
 - Yes; it's that time for the mid-point presentation.
-- Here are my slides for today's event with MSR mentors! 
+- Here are my slides for today's event with MSR mentors! You know if given the chance, I ironically added a word cloud haha. Just to get on the nerves of people
+who hate them :)
 
-<img src="/images/vowpalmid1.png" width="600">
+<img src="/images/vowpalmid1.png" width="500">
 
-<img src="/images/vowpalmid2.png" width="600">
+<img src="/images/vowpalmid2.png" width="500">
 
-<img src="/images/vowpalmid3.png" width="600">
+<img src="/images/vowpalmid3.png" width="500">
 
-<img src="/images/vowpalmid4.png" width="600">
+<img src="/images/vowpalmid4.png" width="500">
 
-<img src="/images/vowpalmid5.png" width="600">
+<img src="/images/vowpalmid5.png" width="500">
 
-<img src="/images/vowpalmid6.png" width="600">
+<img src="/images/vowpalmid6.png" width="500">
 
 - We met today for a sync, and each of us did a dry-run of our slides. We then had five minutes to present to the larger RLOS group about our project
 and progress thus far. All of the projects were really interesting, and there were even ones on fairness and privacy-preserving algorithms, which was cool.
