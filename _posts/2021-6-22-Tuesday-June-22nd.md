@@ -3,7 +3,7 @@
 ## RLOS midpoint
 - Yes; it's that time for the mid-point presentation.
 - Here are my slides for today's event with MSR mentors! You know if given the chance, I ironically will add a word cloud haha. Just to get on the nerves of people
-who hate them :) Being annoying is so much fun haha (puts on troll hat).
+who hate them :) Being annoying is so much fun haha (puts on troll hat). I am also SUPER excited to be able to put rabbits in my slides <3. This one is a [Vowpalwabbit](https://en.wikipedia.org/wiki/Vowpal_Wabbit), but close enough :)
 
 <img src="/images/vowpalmid1.png" width="600">
 
