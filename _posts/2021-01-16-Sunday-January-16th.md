@@ -61,6 +61,10 @@
 - Thank you so much! I enjoyed meeting all the incredibly smart, collaborative and humble people from your company :)
 <img src="/images/jsc.png" width="500">
 
+## Look at this! It's customized for the Symposium! Amazing!!
+<img src="/images/jssymposium21.png" width="500">
+
+
   
 ## And that's it
   
