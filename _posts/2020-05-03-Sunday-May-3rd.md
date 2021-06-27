@@ -137,6 +137,11 @@ Love Movement Show
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding). [Patrick Hanenberger](http://www.patrickhanenberger.com/about)'s Worldbuilding workshop left a huge impression on me (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator. I also learned Rhino, which is still my go-to software for mock-ups. Took a gazillion of [Todd](https://www.thecanadianencyclopedia.ca/en/article/todd-cherniawsky)'s classes. Learned about [Renderman](https://en.wikipedia.org/wiki/Pixar_RenderMan). Got first taste of scripting in Rhino+Modo class from [Cadjunkie](http://www.cadjunkie.com/); took at least 3 of his classes. I also took a couple classes by the amazing [Jordu Schell](https://en.wikipedia.org/wiki/Jordu_Schell)). (LA)
+
+<img src="/images/ebell1.png" width="600">
+<img src="/images/ebell3.png" width="600">
+<img src="/images/ebell6.png" width="600">
+
 - David Simon Sculpting studio (he's awesome and runs a workshop once a year in Rome. One of the things that impressed me a lot was that he was not only an artist (with a precision and depth of technical knowledge and resourcefulness), but he was a mentor with a lot of philosophical guidance and kindness. A lot of art+tech people enjoy his classes! He gave me one of the best pieces of advice, ever, which is that as long as you invest in yourself, you will be okay. I still follow this advice!) (LA)
 - I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer. His life advice left a huge impression on me; very wise guy.
 - Gnomon (took one sculpting class there) (LA)
