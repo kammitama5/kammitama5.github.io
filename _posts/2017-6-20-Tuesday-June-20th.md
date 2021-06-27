@@ -36,3 +36,6 @@ Sure thing!
 ![popup2](/images/popup2.png)
 
 ![popup3](/images/popup3.png)
+
+## If you'd like to read more about my path
+- Please head on over to [this post](https://kammitama5.github.io/Sunday-May-3rd/). There are more CAD drawings there, too! :) (at one point, I thought I wanted to be an architect or Art Director, so I took a bunch of hand drafting and CAD classes, as well as machining, welding, and made models, and got into programming through parametric modelling, which is very mathematical, through programmes such as Modo and Rhino.
