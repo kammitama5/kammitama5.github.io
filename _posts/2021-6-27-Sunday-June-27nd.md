@@ -18,7 +18,8 @@ pretty terrible. But I digress.
 this evening. This one is definitely code-based, so maybe when it's done, I can do a high-level overview and show some chunks of code on the blog (after all,
 unlike my internship, it's open-source work). But right now, I'm just writing tests because we're doing some TDD stuff, and trying to get stuff to work.
 I'm using VSCode apparently, which I don't have a lot of experience using; I used to think that VSCode was that thing you didn't want to mistake for Visual Studio
-when you were writing C++, because in class we used Visual Studio for C++ programming.
+when you were writing C++, because in class we used Visual Studio for C++ programming. I also remember that Visual Studio was *huge* and I used to pray to the 
+memory gods on my machine that I had enough space to install it!
 - I'm also continuing to work on research with my advisor, working on some of the assignments the Fb people gave us to do, and working on my ZK project (my mentor
 and I met this week and I have a library to start working from, as well as a couple papers).
 - Oh, and I'm judging a contest this week, too! So in short, this week is a lot of prep work, but the week itself isn't *so* bad.
