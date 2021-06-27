@@ -24,14 +24,14 @@ memory gods on my machine that I had enough space to install it!
 and I met this week and I have a library to start working from, as well as a couple papers).
 - Oh, and I'm judging a contest this week, too! So in short, this week is a lot of prep work, but the week itself isn't *so* bad.
 - Yeah, and I really need to catch up this week on the ICLR work. A lot of juggling, but we're making progress, and it's an exciting programme! I hope it 
-- can help a lot of people! That's my biggest hope. I see some of these programmes that exist now and I often wished I knew about them when I was working and 
-- going to school, you know? It would have made *so* much of a difference! Or even just the mentorship and knowing that it *was possible* for me to do research
-- and attend grad school. I always remember that my first response, when Ranjit said during POPL that I would be a great fit, was to say "I don't have the money
-- for that, and I am *not* taking out student loans, sorry!". I thought he was just talking from a point of privilege, even though he had been *so* kind* to me
-- and I'm super grateful for that! His next words were "no no no; look around you; 70 percent of the people here are on a student stipend", and he explained how
-- it worked. And that was super appealing to me. Something clicked and I said "okay, this makes sense; let's do it!". I mean, maybe you might still say "this sounds 
-- like a scam" (hahahaha; oh you bet part of "working me" was thinking that lol. I wondered when the MLM stuff was going to come out!), but the option and access to
-- the information should STILL be available, and I'd still argue that right now it isn't, and that's tragic. If any of a couple things hadn't worked out (eg. I hadn't
+can help a lot of people! That's my biggest hope. I see some of these programmes that exist now and I often wished I knew about them when I was working and 
+going to school, you know? It would have made *so* much of a difference! Or even just the mentorship and knowing that it *was possible* for me to do research
+and attend grad school. I always remember that my first response, when Ranjit said during POPL that I would be a great fit, was to say "I don't have the money
+for that, and I am *not* taking out student loans, sorry!". I thought he was just talking from a point of privilege, even though he had been *so* kind* to me
+and I'm super grateful for that! His next words were "no no no; look around you; 70 percent of the people here are on a student stipend", and he explained how
+it worked. And that was super appealing to me. Something clicked and I said "okay, this makes sense; let's do it!". I mean, maybe you might still say "this sounds 
+like a scam" (hahahaha; oh you bet part of "working me" was thinking that lol. I wondered when the MLM stuff was going to come out!), but the option and access to
+the information should STILL be available, and I'd still argue that right now it isn't, and that's tragic. If any of a couple things hadn't worked out (eg. I hadn't
 been chosen as a student volunteer (even though I was going to night school and working at the time), Ranjit hadn't been the student volunteer Professor at POPL, 
 POPL hadn't happened to have been in Los Angeles that year, my work didn't allow me to attend), I might not be where I am today. Think about that.
 Because I'm into the whole NASA space stuff, I think about multiverses a lot, and what that means in terms of randomness and opportunity. And how that ties into
