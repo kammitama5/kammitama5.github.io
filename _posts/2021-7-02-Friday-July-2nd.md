@@ -5,7 +5,7 @@
 that they could tell I was "putting in a lot of hours". And it was true; this Thursday I woke up to my lights still being on, as I realized that
 I had, in fact, never gotten up to turn them off, because I had casually fallen asleep on myself while working on a task.
 - I can't say that this week was *spectacularly* busy, but looking back, there was *one* thing I failed to do these last couple of days, and that
-was take time off for myself. I ended up spending my weekend with a friend and did a lot of walking (and my feet suffered; I'm not even kidding..they're currently
+was take time off for myself. I ended up spending a day of my weekend (usually reserved for rest) with a friend and did a lot of walking (and my feet suffered; I'm not even kidding..they're currently
 still a bit swollen; I also broke out in hives, apparently, too), and then felt stressed out for the rest of the week that I was *behind*. 
 - And then apologizing and feeling badly for that one group that I usually have work together on, but was behind for. And getting up at 4am to complete
 another task (that one turned out just fine; apparently I *can* write some bug-free code without ever running it! Yay me!)
