@@ -14,7 +14,7 @@ another task (that one turned out just fine; apparently I *can* write some bug-f
 - I plan to take my usual time to rest during this long weekend. After all, theoretically I do have an extra day. And this time it's definitely
 important because I don't want to burn out. On the other hand, I managed to get some [bolani](https://en.wikipedia.org/wiki/Bolani) shipped all the way from California to Vermont, because I was up
 at midnight one night asking myself if by chance Vermont had bolani, which is something I ate reguarly in California, because there was a vendor at 
-my local farmer's market. And I found a version of something I consume a lot in my home country, too! (it's a drink) So two wins as far as I'm concerned.
+my local farmer's market. And I found a version of something I consume a lot in my home country, too! (it's a [drink](https://en.wikipedia.org/wiki/Malta_(soft_drink)) that's very popular in the Caribbean) So two wins as far as I'm concerned.
 
 ## So what's up
 - I have some coding stuff to work on for three projects (two of them are not extensive), and my assignment to do. 
