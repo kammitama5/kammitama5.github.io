@@ -37,7 +37,7 @@ I will get to that when I can (probably by latest end of this upcoming weekend).
 - This took up a lot of my time this weekend. And it's still not resolved. Oh well. I guess some days are like that. 
 - The debacle with my school also still is up in the air, but I won't go into that. Thoughts have simmered in my mind about my future with respect to this.
 - They sure do go out of their way to promote the heck out of every other local person. Just not us; the outsiders. It is what it is, I guess. And I don't
-care, but I do want my award. At this point, it's gotten a bit ridiculous, and embarrassing, and frustrating..all ito one. I wish they'd just get it together.
+care, but I do want my award. At this point, it's gotten a bit ridiculous, and embarrassing, and frustrating..all into one. I wish they'd just get it together.
 - I feel less frustrated about this these days; I've realized that I just have to take from it what I can, and find the other things elsewhere. Just as there
 is a limit I can give in terms of energy, there is a limit in terms of what the institution can give me. That is its own failings, not mine, and I can't
 take it personally. And to you who has an awesome institution rooting for you, supporting you all the way, with the paved path in colourful candy crush candies,
