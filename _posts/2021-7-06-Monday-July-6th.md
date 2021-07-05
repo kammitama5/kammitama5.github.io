@@ -29,7 +29,7 @@ in my head. But oh man, industry; why you *be* that way? Get it together.
 - Something as simple as "vision". Where are we going? I'm beginning to think that my parents are right; it may be a talent that is in short supply.
 
 ## I'm on a break
-- I'm actually reviewing a thing and took a break to write a post. Because why not. I usually do a couple read-throughs, which mean I take a bit longer,
+- I'm actually reviewing a thing and took a break to write a post. Because why not. I usually do a couple read-throughs, which means I take a bit longer,
 but I know it takes a lot to write these, so I want to give feedback. I have another pending to look at, as well (I'm sorry! I'm only one human!)
 I will get to that when I can (probably by latest end of this upcoming weekend).
 
