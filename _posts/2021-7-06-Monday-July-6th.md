@@ -45,6 +45,9 @@ That's a metaphor for my time and my energy and value of work. Miss me with that
 is a limit I can give in terms of energy, there is a limit in terms of what the institution can give me. That is its own failings, not mine, and I can't
 take it personally. And to you who has an awesome institution rooting for you, supporting you all the way, with the paved path in colourful candy crush candies,
 good for you. Send me good energy, please. Give me the patience...
+- That reminds me; when I lived in LA, I used to joke that my motto was "lower your expectations". I have to remember a bit of that, while setting my external sights higher. It's the only way in some organizations. Your sanity...it's important. Reminded me of a movie I was working on (my first feature!); there was an
+electric / lighting person (who is still a good friend of mine!) who I discovered was reading an Adorno book at the back of the truck. If you know anything about 
+working on set, that's quite strange. As it turns out, he went back for his Master's at Berkeley. He didn't let who he was (or what others saw his capacity to be at the time) limit where he saw himself and what he wanted to be. Good on him!
 
 ## Moving on
 - I'm doing a cryptography workshop and it's pretty awesome. It's spread out over a long-ish period of time (until September-ish?), and it ties into some
