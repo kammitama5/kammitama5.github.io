@@ -26,6 +26,7 @@ give me less exposure to a toxic work environment and crap management? Which one
 in my head. But oh man, industry; why you *be* that way? Get it together.
 - I think about the times people have asked me why I chose grad school, and sometimes I think the right answer was really "bad management".
 - But that exists everywhere; I've seen it in academia, too. And it's *so* painful for me. I've been in boardrooms since I was a child. 
+- Something as simple as "vision". Where are we going? I'm beginning to think that my parents are right; it may be a talent that is in short supply.
 
 ## I'm on a break
 - I'm actually reviewing a thing and took a break to write a post. Because why not. I usually do a couple read-throughs, which mean I take a bit longer,
