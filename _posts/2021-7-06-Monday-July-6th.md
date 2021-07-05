@@ -12,7 +12,7 @@ particular; what I mean to say is that wherever I go, they have to give me space
 by bringing me on, that's part of who I am, but if they give me the room to do my work *and* to do that, it will augment their organization (or I could
 just lead my own and that wouldn't be a problem really). Because if there is a company that wants to psycho-control my time, it's probably not going to
 work out. There's just too much going on at any given time in my life. And it doesn't look like it's going to end any time soon.
-- My parents and I have conversations on the weekend, and one of the things he said is important in any organization is respect. You respect what I have
+- My parents and I have conversations over the weekend, and one of the things they said is important in any organization is respect. You respect what I have
 to bring to the table, and that you have faith that I can carry out what you need me to do. It's so hard to find, though. Many organizations hire you 
 or tell you "you're the one" and then micromanage you, like you're really a cog. So where's the respect? That may work for a while, but the worker will
 resent you, and that's not a sustainable pipeline for workers anyways.
