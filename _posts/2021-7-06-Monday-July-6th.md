@@ -56,7 +56,8 @@ workshop, too, so that's a little trippy!
 but some of the other stuff I definitely need to go slower on. Fortunately, there is code for each part.
 
 ## As for my internship
-- So far, so good! And that's about all you'll get from me on that :) Fooled you! :)
+- So far, so good! And that's about all you'll get from me on that :) Fooled you! :) I will say that it's one of the most competent
+teams I've ever worked on. It's *so* true! Everyone on this team knows their stuff, and it's been a joy, quite frankly. I've learned a lot and am thankful for my experience this summer on this team! Everyone is as sharp as a tack, and they absolutely support you and put you up to the task.
 
 ## Toy project
 - I also spent some time on my toy project this weekend. It was nice because it was just a "me" project, although I have a mentor through two blockchain
