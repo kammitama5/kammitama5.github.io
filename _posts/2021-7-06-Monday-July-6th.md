@@ -41,7 +41,7 @@ care, but I do want my award. At this point, it's gotten a bit ridiculous, and e
 - Also, I *hate* when people tell me "it's going to be okay". I've done freelance for *most* of my life, and when it comes to money, it's *never* "going
 to be okay". People get *divorced* over money, partnerships break up in companies! Money is a serious thing. I am fine, but I don't ever joke about money.
 That's a metaphor for my time and my energy and value of work. Miss me with that nonsense.
-- I feel less frustrated about this these days; I've realized that I just have to take from it what I can, and find the other things elsewhere. Just as there
+- I feel less frustrated about this (the inability of the institution to measure up) these days; I've realized that I just have to take from it what I can, and find the other things elsewhere. Just as there
 is a limit I can give in terms of energy, there is a limit in terms of what the institution can give me. That is its own failings, not mine, and I can't
 take it personally. And to you who has an awesome institution rooting for you, supporting you all the way, with the paved path in colourful candy crush candies,
 good for you. Send me good energy, please. Give me the patience...
