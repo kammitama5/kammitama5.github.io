@@ -29,7 +29,12 @@ falling asleep watching all the videos on [Numbats](https://en.wikipedia.org/wik
 - Someone asked me this week where I want to end up. I have zero idea, to be honest. 
 - One of the difficult problems is that even if you fall in love with a group, things change; someone may leave, etc. Some of the best times in teams
 I've remembered also felt bittersweet because nothing is forever. Nothing is guaranteed. But that's also a positive, because some great times may also 
-be in store; the beginning of a new journey. 
+be in store; the beginning of a new journey.
+- I learned to accept this especially while sailing. I used to say that regardless of what was happening on land, I could leave it behind once we pushed off.
+- And I had some amazing times sailing and racing SoCal; in fact, I saw that some of the group went to Emerald Bay this week (grumble grumble so jealous it's so
+beautiful there!). But they knew it wouldn't be forever, and one of my best mentors in that group, Jeannea, was very proud that things were working out for me
+and that I was moving on to the next stage in my life. Very Good Will Hunting, if you've ever seen one of the last scenes of the movie and conversation between
+Affleck and Damon.
 
 ## Mentorship
 - I was in a mentorship for a blockchain group I'm in today, and I thought about how freely my mentor was transferring knowledge to me; knowledge that he spent
