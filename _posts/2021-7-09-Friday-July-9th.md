@@ -23,7 +23,7 @@ it and it should hopefully work. I also have some test cases to write. Our forma
 Again, this is weekend-work, not this evening work, as I am already winding down for today. This is pretty much my only break this evening, so I am
 absolutely going to take it and everything will have to wait; sorry! And the evening goes so quickly, too!
 - I ended up also attending the socials at MSR this week, too, and learned what a Numbat was, and I have to tell you, I'm in love. I think I ended up
-falling asleep watching all the videos on Numbats at 2:30am. They've stolen my heart with their really long anteater-esque tongue :)
+falling asleep watching all the videos on [Numbats](https://en.wikipedia.org/wiki/Numbat) at 2:30am. They've stolen my heart with their really long anteater-esque tongue :)
 
 ## Someone asked me this week
 - Someone asked me this week where I want to end up. I have zero idea, to be honest. 
