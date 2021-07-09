@@ -1,6 +1,6 @@
 ## Those PhD students and RLOS week 8?
 
-## I'm going to Black Hat and PETS and Usenix!
+## I'm going to Black Hat and PETS and Usenix Security!
 - Today, I found out I got a ticket to attend BlackHat, via a scholarship! How cool is that? 
 - I'm so excited! Years ago, I applied as a student taking night classes and working full-time, 
 and of course was denied, and remarked to myself that "some PhD student must have gotten it", and I
