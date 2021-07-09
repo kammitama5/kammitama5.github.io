@@ -56,6 +56,7 @@
 - I havce been assigned a mentee via WISP's Mentor-Mentee Programme! I'm *very* happy with my match! :)
 - I'm attending USENIX Security 2021 (my first!)!!!!
 - I'm participating in the Galois Summer School on Trustworthy Machine Learning!!! Super excited *does happy dance*
+- I got a scholarship via WISP and Black Hat to attend Black Hat USA's briefing! (it's been my dream for a decade to attend this conference!)
 
 ## 2020
 
