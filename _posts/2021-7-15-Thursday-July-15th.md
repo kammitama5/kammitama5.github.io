@@ -37,6 +37,9 @@ want you to consider what they knew could be a competitive field, so they would 
 And that's really slimy and gross.
 - The last person I heard saying that was a professor at my school who I later found out wasn't even a pure Mathematician; they did Applied Maths. So I dropped
 that class like a hot potato; it wasn't worth putting up with that energy for an entire semester lol.
+- It's people who aren't even experts in the thing blocking access to information. Now what is *that* all about? Many of my friends aren't like this. If you
+bring up some interesting Lemma or something like that, they'll light up and gladly tell you about it, recommend three books, and draw a bunch of diagrams on a 
+blackboard. And they'll be *excited* to have someone else to talk to, to share their thoughts on these topics.
 - I think if you've taken even upper level classes in high school Maths you begin to understand the breadth of the field. So way to paint a field with a broad brush lol. I think that that attitude
 really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends, and as two recently said "you i.e. anyone can learn it, just as every other
 mathematican has." I'm not quite sure what it is about Mathematics in particular that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross. I'm beginning to think it's insecurity, in the same way those camera bros would try to get you to not even try to shoot because for them it meant
