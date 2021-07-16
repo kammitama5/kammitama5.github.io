@@ -32,6 +32,9 @@ heard the story about the person I had met with my last name. It never happens! 
 time. I left feeling grateful, like they were my guardian angels. Coincidentally, when I was looking for their place, I wasn't sure,
 and saw one of them pull out from a garage. So maybe they are my PhD guardians, after all.
 - What's silly is that I've been hearing a lot of Computer Science people talk about "Maths being hard". First of all, "Maths" is a large, broad field.
+What are you even saying when you say "it's" hard? It's just reminds me of some those dirtbag camera dudes in film who would say that because they didn't
+want you to consider what they knew could be a competitive field, so they would try to get you to think it's hard, doubt your ability, and not even try it.
+And that's really slimy and gross.
 - I think if you've taken even upper level classes in high school Maths you begin to understand this. So way to paint a field with a broad brush lol. I think that that attitude
 really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends, and as two recently said "you can learn it, just as every other
 mathematican has." I'm not quite sure what it is about Mathematics that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross.
