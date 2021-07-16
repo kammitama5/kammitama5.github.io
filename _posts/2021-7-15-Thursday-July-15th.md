@@ -70,7 +70,8 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 and for many of those kids, theatre was a refuge. They were teased outside of that space, bullied, harassed, and being in theatre meant being in a space
 for geeks and outcasts. And for some of us, we never found contentment, and it was too bad. I remember in undergrad hearing of a friend who took his life,
 tired of pretending. He couldn't go on. It was heartbreaking. Teased and harrassed and not quite fitting in, and deciding it wasn't worth it. We remember and cherish him. A particular friend of mine celebrates his life every single year, and we all talk about how he lit up spaces
-he was in, and how much he meant to us.
+he was in, and how much he meant to us. He was colourful and special. I heard he showed up to prom in an olive-green tuxedo, which makes me smile. He was just
+himself, and that's how we loved him. But not all places or spaces make people comfortable being themselves. Keeping secrets for years is an emotional burden.
 - It's interesting that in undergrad, I was the outcast among the theatre kids, in the same way that I find it odd when
 techies treat others like outcasts; for many of us, these spaces and hobbies were things that bound us together, even as outcasts. 
 - And so, I'm sensitive to groups and outcasts, or loners, because I've felt that for years and years, even growing up. And years later,
