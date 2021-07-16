@@ -27,7 +27,7 @@ also for the PETS at PETS part, where people will be showing their virtual pets!
 - I also found out, unexpectedly, through PETS, that there is someone with my family name who has worked in the field at some very
 well-known and prestigious organizations known for that kind of work. We ended up connecting through another contact at PETS I was introduced to during an AMA. 
 It's almost like the universe was telling me that I should go ahead, and keep going. And that felt wonderful. Even my Cryptography professor said "wow!" when they
-heard the story about the person I had met with my last name. It never happens! I've only ever met such people in Europe (there's a library with my last name!).
+heard the story about the person I had met with my last name. It never happens! I've only ever met such people in Europe (there's a [library](https://www.kcl.ac.uk/visit/maughan-library) with my last name!).
 - I also ended up hanging out with two of my professors at their place, and I got to meet their very cool dog, and just had a wonderful
 time. I left feeling grateful, like they were my guardian angels. Coincidentally, when I was looking for their place, I wasn't sure,
 and saw one of them pull out from a garage. So maybe they are my PhD guardians, after all.
