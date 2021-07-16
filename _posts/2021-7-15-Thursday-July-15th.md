@@ -71,9 +71,9 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 
 <img src="/images/giftss/giftss3.png" width="100">
 
-## Hanging out before the rush :)
+## Hanging out before the rush :) I made a friend with the booth next to mine! 
 
-<img src="/images/giftss/giftss4.png" width="400">
+<img src="/images/giftss/giftss4.png" width="500">
 
 ## Being yourself
 - One of my very near and dear friends discovered more about themselves, and I felt happy for them. I grew up around a lot of theatre kids,
