@@ -31,7 +31,8 @@ heard the story about the person I had met with my last name. It never happens! 
 - I also ended up hanging out with two of my professors at their place, and I got to meet their very cool dog, and just had a wonderful
 time. I left feeling grateful, like they were my guardian angels. Coincidentally, when I was looking for their place, I wasn't sure,
 and saw one of them pull out from a garage. So maybe they are my PhD guardians, after all.
-- What's awesome is that I've been hearing a lot of Computer Science people talk about "Maths being hard". I think that that attitude
+- What's silly is that I've been hearing a lot of Computer Science people talk about "Maths being hard". First of all, "Maths" is a large, broad field.
+- I think if you've taken even upper level classes in high school Maths you begin to understand this. So way to paint a field with a broad brush lol. I think that that attitude
 really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends, and as two recently said "you can learn it, just as every other
 mathematican has." I'm not quite sure what it is about Mathematics that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross.
 I tend to stay away from people with those views, in any case. I think if someone is interested, give them the tools. If they decide it's not for them
