@@ -20,7 +20,7 @@ and soon there was quite a comfortable group of us, and I made a bunch of friend
 - There were so many people there just like me, and everyone was interesting and fun, and smart, and kind. We stood around talking about lockpicking,
 languages, what we were interested in, and it was wonderful. It made me smile.
 - I was also able to make quite a lot of the talks, but I didn't end up doing the virtual escape room (although I've done that before!). I'm excited 
-also for the PETS part, where people will be showing their virtual pets! :) Awesome!
+also for the PETS at PETS part, where people will be showing their virtual pets! :) Awesome!
 - The people there were all wonderful, and it was quite unexpected to be attending my first PETS, and to have met so many people! I made so many new friends!
 
 ## Cryptography
