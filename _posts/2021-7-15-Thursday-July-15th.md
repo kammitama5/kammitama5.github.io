@@ -97,5 +97,6 @@ for a long time, even reading and self-studying while working full-time. Even wh
 reflection. I've been alone, but I've never felt lonely. I feel happy with who I am by myself, and for those I love, we can sit in silence and enjoy each other's
 company. I've felt like I've gotten to do so much during quarantine; I wrote a language, met a bunch of people, drew and painted, and have continued to engage in
 self-study. It has made me contemplate what I want for my future, based on who I am. But who really knows?
+- Like a new sailing expedition, the journey is out there. I can't wait.
 
 ## Anyways, I guess that's it
