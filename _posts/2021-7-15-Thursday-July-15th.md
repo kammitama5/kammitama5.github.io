@@ -42,7 +42,7 @@ really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends
 mathematican has." I'm not quite sure what it is about Mathematics in particular that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross. I'm beginning to think it's insecurity, in the same way those camera bros would try to get you to not even try to shoot because for them it meant
 less competition. I think back to those times and realize now that it's not that any of those people were any brighter or more talented, but they were super
 pushy and aggressive about it, and some would go out of their way to diminish and demoralize you so you'd quit. In fact, some of them weren't that bright at all.
-I tend to stay away from people with those views, in any case. I think if someone is interested, give them the tools. If they decide it's not for them
+I tend to stay away from toxic people with those views that actively discourage people for no reason, in any case. I think if someone is interested, give them the tools. If they decide it's not for them
 or they want to do something else, then that's fine, too. Perhaps they'll take something from that field into the space they're going. And that's really cool.
 - I've also been taking part in this workshop (we're on week 2 now), and it's been awesome. A lot of my peers are based in Europe, but I've been
 waking up at 4am to attend some of the lectures. I also found out that my guardian angel professor ended up recommending me for another workshop
