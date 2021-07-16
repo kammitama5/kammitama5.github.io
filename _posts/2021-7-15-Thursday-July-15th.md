@@ -67,8 +67,11 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 
 ## Being yourself
 - One of my very near and dear friends discovered more about themselves, and I felt happy for them. I grew up around a lot of theatre kids,
-and for many of those kids, theatre was a refuge. They were teased outside of that space, bullied, harassed, and being in theatre was a space
-for geeks and outcasts. It's interesting that in undergrad, I was the outcast among the theatre kids, in the same way that I find it odd when
+and for many of those kids, theatre was a refuge. They were teased outside of that space, bullied, harassed, and being in theatre meant being in a space
+for geeks and outcasts. And for some of us, we never found contentment, and it was too bad. I remember in undergrad hearing of a friend who took his life,
+tired of pretending. He could't go on. It was heartbreaking. A friend of mine celebrates his life every single year, and we talk about how he lit up spaces
+he was in, and how much he meant to us.
+- It's interesting that in undergrad, I was the outcast among the theatre kids, in the same way that I find it odd when
 techies treat others like outcasts; for many of us, these spaces and hobbies were things that bound us together, even as outcasts. 
 - And so, I'm sensitive to groups and outcasts, or loners, because I've felt that for years and years, even growing up. And years later,
 I've had many of my friends tell me in private that they're thankful that I didn't treat them as an outcast. There's a peace and happiness in being
