@@ -9,7 +9,7 @@ But, I've just been trying to do the best I can with my time and energy. This is
 it has been actively acknowledged, though. I've felt like my entire life, I've put in long hours, and it was expected, or even
 taken for granted that everyone should do that. I remember years ago, a relative
 told me when I graduated undergrad that I would have to learn how to not be working these long hours anymore. Well that never happened.
-I took classes and worked freelance gigs while working full-time the entire time. Fortunately, my work ethic has ended up workimg to my
+I took classes and worked freelance gigs while working full-time the entire time. Fortunately, my work ethic has ended up working to my
 advantage; when I needed help crossing the border to get a new stamp in my visa in San Diego, it was someone from a freelance gig who helped me,
 and if it weren't for taking classes, I wouldn't have acquired all these skills that led me to my current path.
 
