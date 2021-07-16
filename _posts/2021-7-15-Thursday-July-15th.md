@@ -93,7 +93,7 @@ able to be yourself, a contentment in being who you are.
 to socialize. And I thought back about when I was in Los Angeles, and why sailing felt so natural to me; it is a very solitary endeavour. You have to be
 comfortable with solitude, or your own thoughts. In the mornings before work, I would read books, and use my highlighters; at the time, I was reading books
 on electronics and learning the resistor codes, or about buildings and craftsmanship (I still love construction shows). So in many ways, I've been an academic
-for a long time, even reading and self-studying while working full-time. And being in academic, although there is collaboration, involves a lot of solitude and
+for a long time, even reading and self-studying while working full-time. Even while working, it wasnt enough, and I felt myself going back to school and taking night classes, and ordering hundreds and hundreds of books. My parents would still buy us books every Holiday season. Being an academic, although there is collaboration, involves a lot of solitude and
 reflection. I've been alone, but I've never felt lonely. I feel happy with who I am by myself, and for those I love, we can sit in silence and enjoy each other's
 company. I've felt like I've gotten to do so much during quarantine; I wrote a language, met a bunch of people, drew and painted, and have continued to engage in
 self-study. It has made me contemplate what I want for my future, based on who I am. But who really knows?
