@@ -46,7 +46,7 @@ I tend to stay away from toxic people with those views that actively discourage 
 or they want to do something else, then that's fine, too. Perhaps they'll take something from that field into the space they're going. And that's really cool.
 - I've also been taking part in this workshop (we're on week 2 now), and it's been awesome. A lot of my peers are based in Europe, but I've been
 waking up at 4am to attend some of the lectures. I also found out that my guardian angel professor ended up recommending me for another workshop
-related to the topic, which I was surprised and so grateful for when they mentioned it.
+related to the topic, which I was surprised and so grateful for when they mentioned it. And it looks like the direction I'm going to go for the rest of my PhD, too.
 
 ## Puzzles
 - I took part in a Puzzle Hunt this past weekend. It was pretty awesome! Most of our team ended up not showing up, but myself and another person
