@@ -37,9 +37,11 @@ want you to consider what they knew could be a competitive field, so they would 
 And that's really slimy and gross.
 - The last person I heard saying that was a professor at my school who I later found out wasn't even a pure Mathematician; they did Applied Maths. So I dropped
 that class like a hot potato; it wasn't worth putting up with that energy for an entire semester lol.
-- I think if you've taken even upper level classes in high school Maths you begin to understand this. So way to paint a field with a broad brush lol. I think that that attitude
-really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends, and as two recently said "you can learn it, just as every other
-mathematican has." I'm not quite sure what it is about Mathematics that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross.
+- I think if you've taken even upper level classes in high school Maths you begin to understand the breadth of the field. So way to paint a field with a broad brush lol. I think that that attitude
+really is just silly gatekeeping. I have a *lot* of (pure) mathematician friends, and as two recently said "you i.e. anyone can learn it, just as every other
+mathematican has." I'm not quite sure what it is about Mathematics in particular that some Computer Science people seem to get off on, but the gatekeeping is a bit weird and gross. I'm beginning to think it's insecurity, in the same way those camera bros would try to get you to not even try to shoot because for them it meant
+less competition. I think back to those times and realize now that it's not that any of those people were any brighter or more talented, but they were super
+pushy and aggressive about it, and some would go out of their way to diminish and demoralize you so you'd quit. In fact, some of them weren't that bright at all.
 I tend to stay away from people with those views, in any case. I think if someone is interested, give them the tools. If they decide it's not for them
 or they want to do something else, then that's fine, too. Perhaps they'll take something from that field into the space they're going. And that's really cool.
 - I've also been taking part in this workshop (we're on week 2 now), and it's been awesome. A lot of my peers are based in Europe, but I've been
