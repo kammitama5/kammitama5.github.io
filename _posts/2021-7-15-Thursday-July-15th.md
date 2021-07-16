@@ -14,7 +14,7 @@ advantage; when I needed help crossing the border to get a new stamp in my visa 
 and if it weren't for taking classes, I wouldn't have acquired all these skills that led me to my current path.
 
 ## PETS
-- Anyways, this week I attended my first PETS, and got to be on a Happy Hour panel / AMA and made a few friends! It was a bit slow
+- Anyways, this week I attended my first [PETS](https://petsymposium.org/2021/program.php), and got to be on a Happy Hour panel / AMA and made a few friends! It was a bit slow
 at the beginning in my panel, so I made an announcement that it was my first PETS and I'd be happy to chat with anyone for whom this was the same,
 and soon there was quite a comfortable group of us, and I made a bunch of friends. That was so unexpected!
 - There were so many people there just like me, and everyone was interesting and fun, and smart, and kind. We stood around talking about lockpicking,
