@@ -60,11 +60,18 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 - I saw this book in my mailbox, and there was a scratch card where, if you saw a QR code, it meant you won a prize! 
 - And so I did; a pair of headphones! Thank you so much!!!
 
+## I won headphones
 <img src="/images/giftss/giftss1.png" width="300">
+
+## Also this book came in the Mail. Thank you so much!
 
 <img src="/images/giftss/giftss2.png" width="600">
 
+## Panel at PETS
+
 <img src="/images/giftss/giftss3.png" width="100">
+
+## Hanging out before the rush :)
 
 <img src="/images/giftss/giftss4.png" width="400">
 
