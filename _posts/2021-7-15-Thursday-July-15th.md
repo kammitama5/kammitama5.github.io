@@ -71,7 +71,7 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 
 <img src="/images/giftss/giftss3.png" width="100">
 
-## Hanging out before the rush :) I made a friend with the booth next to mine! 
+## Hanging out before the rush :) I made a friend with the person in the booth next to mine! 
 
 <img src="/images/giftss/giftss4.png" width="500">
 
