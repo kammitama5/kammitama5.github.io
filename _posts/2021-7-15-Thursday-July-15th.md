@@ -53,7 +53,7 @@ ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it s
 
 <img src="/images/giftss/giftss2.png" width="400">
 
-<img src="/images/giftss/giftss3.png" width="400">
+<img src="/images/giftss/giftss3.png" width="200">
 
 <img src="/images/giftss/giftss4.png" width="400">
 
