@@ -51,7 +51,7 @@ related to the topic, which I was surprised and so grateful for when they mentio
 ## Puzzles
 - I took part in a Puzzle Hunt this past weekend. It was pretty awesome! Most of our team ended up not showing up, but myself and another person
 ended up knocking out many of the puzzles on Saturday and Sunday. I enjoyed it so much I signed up for another one this weekend!
-- I also signed up for a CTF, too, in two weeks from now :). Now I have to work at a place with a puzzlehunt culture, now!
+- I also signed up for a CTF, too, in two weeks from now :). Now I have to work at a place with a puzzlehunt culture! The list of requirements is growing :)
 
 ## I won a gift!
 - I saw this book in my mailbox, and there was a scratch card where, if you saw a QR code, it meant you won a prize! 
