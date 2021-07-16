@@ -2,8 +2,8 @@
 
 ## This week was fantastic
 - It's week 9 of RLOS, and things are moving along, although I am *tired*. Even my intern manager said that they saw when I was up 
-really late, and someone joked that I need to log off teams if I'm working late. It's totally a joke though; my team
-has really awesome and decent hours, and during the holiday or weekend, no one is on, which is nice; great work-life balance.
+really late, and someone joked that I need to look like I'm logged off if I'm working late. It's totally a joke though; my team
+has really awesome and decent hours, and during the holiday or weekend, no one is on, which is nice; great work-life balance and super competent.
 - As for me, though; I tend to put in a lot of hours.
 But, I've just been trying to do the best I can with my time and energy. This is honestly the first team I've been on where
 it has been actively acknowledged, though. I've felt like my entire life, I've put in long hours, and it was expected, or even
