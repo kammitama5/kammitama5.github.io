@@ -34,6 +34,8 @@ discouraged by the process. I no longer feel like applying is pissing in the win
 - Coincidentally, the thing that gave me access was something I did out of spite. But that's a story for another time lol. I did enjoy
 being asked that question, and saying to my mentor "yeah, I applied out of spite." That happened again recently and I also got into
 that opportunity, too, which is funny. Both were really unexpected.
+- But this journey started out of spite. I realized that I would never learn to weld where I was working, and decide out of spite I
+would take classes in welding anyways. And the dots can be connected to where I am today.
 
 ## This week was not very busy
 - This week wasn't exceptionally busy, but I had a few very big events in terms of the general work I am doing. So for example,
