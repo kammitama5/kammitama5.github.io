@@ -20,6 +20,13 @@ organizers and the panelists, I made 5 new friends. And we're all going through 
 - I think I almost welled up when he said "you know a bunch of us and have connections here now". It made me feel like there were 
 more people going out of their way to encourage and support me. I had a really good chat with him about my path and my direction,
 and I just felt super grateful after chatting. 
+- I don't feel special or anything; MSR has for years been one of those places that I've deterministically been rejected from, to
+the point that when I was doing CSRMP with my mentor at Google Research, I told her I would never work there because I always get
+rejected from them. But somehow, the tide has turned a bit and now I have friends there now. It feels a bit surreal. I used to 
+imagine that only people from fancy schools wearing lab coats sitting around drinking tea with their pinky fingers out worked there.
+But having met a lot of people there, and hearing their paths and seeing that they are people, too, made me think differently.
+- It's a strange thing, but even if I continue to get rejected now, I feel like I still feel encouraged to keep going and not become
+discouraged by the process.
 
 ## This week was not very busy
 - This week wasn't exceptionally busy, but I had a few very big events in terms of the general work I am doing. So for example,
