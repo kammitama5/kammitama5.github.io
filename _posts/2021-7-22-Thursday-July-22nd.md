@@ -1,7 +1,7 @@
 ## RLOS Week 10 Checkpoint 2, Puzzles, and a new mentor
 
 ## It's Week 10
-- We had our checkpoint 2 today, and I was the first speaker! I was not nervous because I was tired.
+- We had our checkpoint 2 today, and I was the first speaker! I was not nervous because I was tired, but I've been told I did an amazing job.
 - I've been less busy this week, but very tired. I got to the point of going out during the day to get a maple-coffee smoothie
 at a nearby place (and I do not drink coffee; I'm a tea person, thank you colonialism!).
 - I got up at 3am to attend a session related to work I am doing for my thesis (foundational work),
