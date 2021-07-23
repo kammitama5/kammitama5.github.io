@@ -31,6 +31,9 @@ Hearing that they, too, experienced disappointment, rejection and struggles, and
 a non-traditional path, and the creativity that brings to the research practice, is relieving. 
 - It's a strange thing, but even if I continue to get rejected now, I feel like I still feel encouraged to keep going and not become
 discouraged by the process. I no longer feel like applying is pissing in the wind lol.
+- Coincidentally, the thing that gave me access was something I did out of spite. But that's a story for another time lol. I did enjoy
+being asked that question, and saying to my mentor "yeah, I applied out of spite." That happened again recently and I also got into
+that opportunity, too, which is funny. Both were really unexpected.
 
 ## This week was not very busy
 - This week wasn't exceptionally busy, but I had a few very big events in terms of the general work I am doing. So for example,
