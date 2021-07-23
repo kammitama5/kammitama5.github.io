@@ -51,18 +51,18 @@ seems to align. And that's really cool. I even found one researcher I would like
 So it feels like a pretty straight path now. I'm thankful I was given the space to figure this out, and am excited to see the road ahead.
 
 ## Here are my checkpoint 2 slides!
-<img src="/images/MSRCpoint2/msr1.png" width="700">
+<img src="/images/MSRCpoint2/msr1.png" width="500">
 
-<img src="/images/MSRCpoint2/msr2.png" width="700">
+<img src="/images/MSRCpoint2/msr2.png" width="500">
 
-<img src="/images/MSRCpoint2/msr3.png" width="700">
+<img src="/images/MSRCpoint2/msr3.png" width="500">
 
-<img src="/images/MSRCpoint2/msr4.png" width="700">
+<img src="/images/MSRCpoint2/msr4.png" width="500">
 
-<img src="/images/MSRCpoint2/msr5.png" width="700">
+<img src="/images/MSRCpoint2/msr5.png" width="500">
 
-<img src="/images/MSRCpoint2/msr6.png" width="700">
+<img src="/images/MSRCpoint2/msr6.png" width="500">
 
-<img src="/images/MSRCpoint2/msr7.png" width="700">
+<img src="/images/MSRCpoint2/msr7.png" width="500">
 
 ## And that's it
