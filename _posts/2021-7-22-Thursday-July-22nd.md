@@ -30,7 +30,7 @@ Having met a lot of people there, and hearing their paths and seeing that they a
 Hearing that they, too, experienced disappointment, rejection and struggles, and that they appreciate the perspective of coming from
 a non-traditional path, and the creativity that brings to the research practice, is relieving. 
 - It's a strange thing, but even if I continue to get rejected now, I feel like I still feel encouraged to keep going and not become
-discouraged by the process.
+discouraged by the process. I no longer feel like applying is pissing in the wind lol.
 
 ## This week was not very busy
 - This week wasn't exceptionally busy, but I had a few very big events in terms of the general work I am doing. So for example,
