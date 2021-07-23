@@ -24,7 +24,11 @@ and I just felt super grateful after chatting.
 the point that when I was doing CSRMP with my mentor at Google Research, I told her I would never work there because I always get
 rejected from them. But somehow, the tide has turned a bit and now I have friends there now. It feels a bit surreal. I used to 
 imagine that only people from fancy schools wearing lab coats sitting around drinking tea with their pinky fingers out worked there.
-But having met a lot of people there, and hearing their paths and seeing that they are people, too, made me think differently.
+And they would all use really big words to talk about things, and write tomes in LaTeX. Now I know that they have strange hobbies just
+like I do, and I could imagine myself fitting in socially with those people, which is unexpected.
+Having met a lot of people there, and hearing their paths and seeing that they are people, too, made me think differently.
+Hearing that they, too, experienced disappointment, rejection and struggles, and that they appreciate the perspective of coming from
+a non-traditional path, and the creativity that brings to the research practice, is relieving. 
 - It's a strange thing, but even if I continue to get rejected now, I feel like I still feel encouraged to keep going and not become
 discouraged by the process.
 
