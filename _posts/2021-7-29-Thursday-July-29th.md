@@ -35,6 +35,8 @@ first puzzle (this has been the case for most of the teams I've joined strangely
 - I hung out with my Cryptography prof and had a great time, and it has built me up a lot. Part of it is just having that sort of postive role model, like someone
 holding your hand and nudging you along. And that's been really great for me. I really feel like these are my people, and that I can remain in this community for
 a long time. It seems to combine everything I'm interested in, strangely.
+- That space can be everything from the human aspect, to machine learning and data, to language, to formal verification and yes, there are people who write Haskell
+in that space, too! So far, I really like the theoretical stuff, combined with a little bit of the systems prototyping stuff, but we'll see how it goes. 
 - I joined an algorithm group that meets for an hour on Sundays (for black engineers, to study the thing I hate studying that I mentioned in lieu of puzzles. I don't know why I always imagine when someone sends me HR or leetcode that I'm a court jester doing tricks to the amusement of that entity).
 - I got into a recruiting event and completed another, which still has a research day next week (where people from the company will present posters)
 
