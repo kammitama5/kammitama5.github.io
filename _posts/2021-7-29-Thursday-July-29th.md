@@ -8,7 +8,7 @@ and simulator for this coding camp where we are split into teams and work on pro
 too. Bear in mind I'm also doing RLOS and interning, so I can only listen in while working, and stuff like that, and my time is limited, but I've still been able
 to participate because they start a lot earlier than work and on days where I don't have to do RLOS work, etc, which is nice.
 - The talks were *amazing* and I was able to catch up with people I knew from the general cryptography community, too. 
-- I was supposed to meet with my mentor today online but he was working in a virtual booth so we just ended up hanging out there, on Gather Town, instead.
+- I was supposed to meet with my zk mentor today online but he was working in a virtual booth so we just ended up hanging out there, on Gather Town, instead.
 What's funny is that people know me by name now! That's so wild! I also made a new friend, who is working on work related to oblivious transfer and Tor and she
 is amazing!
 
