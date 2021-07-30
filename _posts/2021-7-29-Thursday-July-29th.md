@@ -34,7 +34,7 @@ first puzzle (this has been the case for most of the teams I've joined strangely
 - I started week 1 of a book club focused on Statistics using R (once a week)
 - I hung out with my Cryptography prof and had a great time, and it has built me up a lot. Part of it is just having that sort of postive role model, like someone
 holding your hand and nudging you along. And that's been really great for me.
-- I joined an algorithm group that meets for an hour on Sundays (for black engineers, to study the thing I hate studying that I mentioned in lieu of puzzles)
+- I joined an algorithm group that meets for an hour on Sundays (for black engineers, to study the thing I hate studying that I mentioned in lieu of puzzles. I don't know why I always imagine when someone sends me HR or leetcode that I'm a court jester doing tricks to the amusement of that entity).
 - I got into a recruiting event and completed another, which still has a research day next week (where people from the company will present posters)
 
 ## Wrap up
