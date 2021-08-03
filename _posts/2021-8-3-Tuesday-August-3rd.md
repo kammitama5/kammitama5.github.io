@@ -25,6 +25,7 @@ family. So that might be my next big plan. Okay, not going to lie, I miss the fo
 ## Here are my slides
 - I also did a 3 minute and 26 second demo. I'm thinking they may upload the videos and all that. I have officially given my first final project talk at MSR.
 - From Smol wonts to big brain Science dreams. :)
+- Oh snap one of the slides is revealing the things I didn't say openly on this blog before. Welp. 
 
 <img src="/images/rlosfinal/rlosfinal1.png" width="600">
 
