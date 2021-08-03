@@ -26,26 +26,26 @@ family. So that might be my next big plan. Okay, not going to lie, I miss the fo
 
 <img src="/images/rlosfinal/rlosfinal1.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal2.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal3.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal4.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal5.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal6.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal7.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal8.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal9.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal10.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal11.png" width="600">
 
-<img src="/images/rlosfinal/rlosfinal1.png" width="600">
+<img src="/images/rlosfinal/rlosfinal12.png" width="600">
 
 ## And that's it!
