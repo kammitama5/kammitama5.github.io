@@ -23,6 +23,8 @@ family. So that might be my next big plan. Okay, not going to lie, I miss the fo
 - I'd really like a day that is schedule-obligation-free. That would be really nice.
 
 ## Here are my slides
+- I also did a 3 minute and 26 second demo. I'm thinking they may upload the videos and all that. I have officially given my first final project talk at MSR.
+- From Smol wonts to big brain Science dreams. :)
 
 <img src="/images/rlosfinal/rlosfinal1.png" width="600">
 
@@ -47,5 +49,9 @@ family. So that might be my next big plan. Okay, not going to lie, I miss the fo
 <img src="/images/rlosfinal/rlosfinal11.png" width="600">
 
 <img src="/images/rlosfinal/rlosfinal12.png" width="600">
+
+## Oh
+- I got a heated blanket! It's one of the best purchases (don't tell the washer and dryer); I can't wait to try it out over winter. 
+- Now if only I can get a heated bubble for winter that just makes me feel like I'm indoors constantly during winter!
 
 ## And that's it!
