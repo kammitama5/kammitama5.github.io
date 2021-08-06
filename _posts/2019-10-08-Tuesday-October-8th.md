@@ -61,6 +61,7 @@
 - I've been invited to be a reviewier for AFCI at NeurIPS!
 - I've successfully completed RLOSFest, and gave my final presentation on August 3rd!
 - I will be speaking on a podcast with S. Hanselman
+- I received a scholarship from Google to attend this year's GHC Conference!
 
 ## 2020
 
