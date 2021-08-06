@@ -57,6 +57,10 @@
 - I'm attending USENIX Security 2021 (my first!)!!!!
 - I'm participating in the Galois Summer School on Trustworthy Machine Learning!!! Super excited *does happy dance*
 - I got a scholarship via WISP and Black Hat to attend Black Hat USA's briefing! (it's been my dream for a decade to attend this conference!)
+- I've been invited to attend Bloomberg's Decoded Recruiting Event!
+- I've been invited to be a reviewier for AFCI at NeurIPS!
+- I've successfully completed RLOSFest, and gave my final presentation on August 3rd!
+- I will be speaking on a podcast with S. Hanselman
 
 ## 2020
 
