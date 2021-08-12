@@ -53,7 +53,7 @@ and making sure things are okay will take up some of my time. My co-committee pe
 and is smart and thoughtful about the process, which has helped me grow and learn as well, and I'm grateful for that. So many people carve out research careers that seems to put themselves at the centre, and she really is the kind of person to take others with her, and that's been a beautiful thing to witness. She really cares about the community.
 
 ## Anyways, that's it for now
-- I'm attending a Q&A Cryptography workshop, and getting up at 3 tomorrow for another one. I'm so excited! :)
+- I'm attending a Q&A Cryptography workshop, and getting up at 3AM tomorrow for another one. I'm so excited! :)
 
 
 
