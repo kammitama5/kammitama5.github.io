@@ -26,8 +26,8 @@ three weeks, I will have to prepare exercises in R or by hand for the group to w
 - People from the group said that my summary was very thorough, but I really just enjoyed going through the chapter, and the group is great! 
 
 ## Cryptography
-- I've been attending a Cryptography workshop all summer that relates to my new field and a proposal I recently wrote, and I'm giving a talk within
-SFPC in a week, affiliated to another class I'm taking on the love of Mathematics, which includes people from a range of fields. 
+- I've been attending a Cryptography workshop all summer (I originally found the workshop while I was taking the Cryptography class, and my advisor agreed that it looked solid, while we were reproducing code from a paper together. She also knows some of the workshop organizers, and I had contacted them long before registration was even open to find out if I could participate) that relates to my new field and a proposal I recently wrote, and I'm giving a talk within
+SFPC in a week, affiliated with another class I'm taking on the love of Mathematics, which includes people from a range of fields. 
 It (my talk) will be pretty basic, as I'm learning, but I'm very excited about the topic, and it's really been for me a field where I think I've 
 found home. And it's convinced me to even consider staying in Academia because it's research, and as such probably won't be super applied / engineering any time soon, which is nice. As such, people who are in the area legitimately just love the field. I love the people and I'm enjoying the work a lot, and have met a whirlwind of people. There are not a lot of people who look like me, but there are a lot of women, and they are rockstars who have solid technical chops, and zero ego. Four of us sat in an office hours session for 2 hours and just went through material together, asking questions, noting resources and just having a great time.
 I can see these people as future collaborators. The discipline has enough "rigour" (or rather, the kind I'm looking for) to hold my interest, also.
