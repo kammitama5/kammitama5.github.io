@@ -6,7 +6,7 @@
 - I quite like this new layout, to be honest, because you can easily preview and commit simultaneously, which is nice.
 
 ## Broadening launch
-- It's our first time, so I hope participants find it useful, and we're also happy for feedback, too! 
+- It's our [first time](https://blog.iclr.cc/2021/08/10/broadening-our-call-for-participation-to-iclr-2022/), so I hope participants find it useful, and we're also happy for feedback, too! Please join us!
 - There definitely seems to be a need; we currently have approximately 300 people on the Slack group! We also have a very asynchronous setup with office hours
 and opportunities for mentorship, but mainly allowing researchers to advocate for themselves and find support for the skills they need in a way that is not the typical top-down solution.
 - The larger goal is that this can be continued, and that we can have a more diverse group of applicants to ICLR. I'd also like to point out as we mentioned,
