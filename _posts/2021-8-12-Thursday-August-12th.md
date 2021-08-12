@@ -18,6 +18,7 @@ you find a home in this research community. And even if you don't, we hope you m
 ## I got a scholarship from Google!
 - I got a scholarship from Google to attend the Grace Hopper Conference! I've applied for years, so I'm really happy. It is really something to be chipping
 away at something for years and years and finally make headway. It's worth it to achieve something you've set out to do for years.
+- Oh, and the MSR award is finally processed! Hooray!
 
 ## Book Club
 - I've been working with an R book club group (8 or 9 of us) on chapters of the book, Open Statistics, and this week I had to do a 15 minute summary. In about
