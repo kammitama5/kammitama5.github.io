@@ -49,7 +49,7 @@ talks at USENIX, which I received a free ticket for through GREPSEC.
 ## So that sounds like a lot
 - It hasn't been super-duper busy, but maybe I have done a lot over the past week. I have a lot more time on my calendar, but checking in on the Broadening Slack
 and making sure things are okay will take up some of my time. My co-committee peer is so passionate and has done so much great work; she really has a good heart,
-and is smart and thoughtful about the process, which has helped me grow and learn as well, and I'm grateful for that.
+and is smart and thoughtful about the process, which has helped me grow and learn as well, and I'm grateful for that. So many people carve out research careers that seems to put themselves at the centre, and she really is the kind of person to take others with her, and that's been a beautiful thing to witness. She really cares about the community.
 
 ## Anyways, that's it for now
 - I'm attending a Q&A Cryptography workshop, and getting up at 3 tomorrow for another one. I'm so excited! :)
