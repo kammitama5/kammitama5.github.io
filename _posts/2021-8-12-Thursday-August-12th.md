@@ -31,7 +31,7 @@ SFPC in a week, affiliated to another class I'm taking on the love of Mathematic
 It (my talk) will be pretty basic, as I'm learning, but I'm very excited about the topic, and it's really been for me a field where I think I've 
 found home. And it's convinced me to even consider staying in Academia. I love the people and I'm enjoying the work a lot, and have met a whirlwind of people.
 - My advisor at my University has already introduced me to so many people, and it's made me contemplate who I might want to continue a postdoc with, or even
-consider focusing on an additional Pure Maths Master's degree in the future (although both of my advisors don't think I'll need it). It's been a fantastic summer
+consider focusing on an additional Pure Maths Master's degree in the future (although both of my advisors don't think I'll need it, but my school has a small number of senior professors (one of my advisors is one of the most senior in our department), and a small number of Pure Maths classes in favour of Stats / Data Science classes (which is a shame, so I've been getting a lot of the Pure stuff from seminars and private tutoring from my mentors and advisor)). It's been a fantastic summer
 and I've loved every session of this workshop! I've made so many new friends!
 - I also fiddled around in Sage and almost got the memory on my laptop to almost run out because I picked a horrible prime. Oops.
 - I also had a great discussion with quite a few people, and it's been surprising how many people know who I am already. I'm still pretty new to the community.
