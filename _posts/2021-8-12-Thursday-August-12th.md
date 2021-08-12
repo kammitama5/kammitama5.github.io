@@ -2,7 +2,7 @@
 
 ## I had planned to post earlier
 - So I had planned to post earlier, but a couple things happened. For one, GH was not allowing me to make a new post, because parts of it were down.
-- I was going to do a role-play idea between a PhD liberal arts student and a CS PhD student, kind of in a Socratic method but tongue-in-cheek (particularly with respect to assumptions each has of the other), but well, maybe another time. 
+- I was going to do a role-play guest-post idea between a PhD liberal arts student and a CS PhD student, kind of in a Socratic method but tongue-in-cheek (particularly with respect to assumptions each has of the other), but well, maybe another time. 
 - I quite like this new layout, to be honest, because you can easily preview and commit simultaneously, which is nice.
 
 ## Broadening launch
