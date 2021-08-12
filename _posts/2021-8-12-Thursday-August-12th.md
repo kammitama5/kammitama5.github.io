@@ -35,8 +35,8 @@ consider focusing on an additional Pure Maths Master's degree in the future (alt
 and I've loved every session of this workshop! I've made so many new friends! I definitely want to focus on Cryptography for the rest of my career.
 - My entire life, as I've walked past buildings, I've always been calculating whether the numbers are prime numbers (I found one today on the way to grab caffeine: 173), and what they're divisible by, so it's nice
 to be in a group of people who do the same :) My whole family is the same but I've often felt like a weirdo for being like this, or noticing that the time is a 
-Pythagorean triplet.
-- I also fiddled around in Sage and almost got the memory on my laptop to almost run out because I picked a horrible prime. Oops.
+Pythagorean triplet. I feel complete and happy.
+- I also fiddled around in Sage and almost got the memory on my laptop to almost run out because I picked a horrible prime and the function was written with @ss complexity. Oops.
 - I also had a great discussion with quite a few people, and it's been surprising how many people know who I am already. I'm still pretty new to the community.
 
 ## Algorithms group
