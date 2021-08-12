@@ -7,6 +7,8 @@
 
 ## Broadening launch
 - It's our first time, so I hope participants find it useful, and we're also happy for feedback, too! 
+- There definitely seems to be a need; we currently have approximately 300 people on the Slack group! We also have a very asynchronous setup with office hours
+and opportunities for mentorship, but mainly allowing researchers to advocate for themselves and find support for the skills they need in a way that is not the typical top-down solution.
 - The larger goal is that this can be continued, and that we can have a more diverse group of applicants to ICLR. I'd also like to point out as we mentioned,
 that "diverse" also very much ties into those who have never published before, too. We want all of your perspectives and creativity in solving problems, and hope
 you find a home in this research community. And even if you don't, we hope you make new friends :)
