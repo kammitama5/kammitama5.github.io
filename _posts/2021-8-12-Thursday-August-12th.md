@@ -1,0 +1,69 @@
+## Broadening Launch, Usenix, SOUPS, Decoding, Book Club, First Cryptography talk!
+
+## I had planned to post earlier
+- So I had planned to post earlier, but a couple things happened. For one, GH was not allowing me to make a new post, because parts of it were down.
+- I was going to do a role-play idea between a PhD liberal arts student and a CS PhD student, kind of in a Socratic method, but well, maybe another time. 
+- I quite like this new layout, to be honest, because you can easily preview and commit simultaneously, which is nice.
+
+## Broadening launch
+- It's our first time, so I hope participants find it useful, and we're also happy for feedback, too! 
+- The larger goal is that this can be continued, and that we can have a more diverse group of applicants to ICLR. I'd also like to point out as we mentioned,
+that "diverse" also very much ties into those who have never published before, too. We want all of your perspectives and creativity in solving problems, and hope
+you find a home in this research community. And even if you don't, we hope you make new friends :)
+
+## Bloomberg Decoded
+- I was invited to the Bloomberg Decoded event this week, so I was involved in participating in that, as well as a few other recruiting events. 
+- I've enjoyed it thus far, and they also have a puzzles culture, which is nice. 
+
+## I got a scholarship from Google!
+- I got a scholarship from Google to attend the Grace Hopper Conference! I've applied for years, so I'm really happy. It is really something to be chipping
+away at something for years and years and finally make headway. It's worth it to achieve something you've set out to do for years.
+
+## Book Club
+- I've been working with an R book club group (8 or 9 of us) on chapters of the book, Open Statistics, and this week I had to do a 15 minute summary. In about
+three weeks, I will have to prepare exercises in R or by hand for the group to work on for about 45 minutes to an hour.
+- People from the group said that my summary was very thorough, but I really just enjoyed going through the chapter, and the group is great! 
+
+## Cryptography
+- I've been attending a Cryptography workshop all summer that relates to my new field and a proposal I recently wrote, and I'm giving a talk within
+SFPC in a week, affiliated to another class I'm taking on the love of Mathematics, which includes people from a range of fields. 
+It (my talk) will be pretty basic, as I'm learning, but I'm very excited about the topic, and it's really been for me a field where I think I've 
+found home. And it's convinced me to even consider staying in Academia. I love the people and I'm enjoying the work a lot, and have met a whirlwind of people.
+- My advisor at my University has already introduced me to so many people, and it's made me contemplate who I might want to continue a postdoc with, or even
+consider focusing on an additional Pure Maths Master's degree in the future (although both of my advisors don't think I'll need it). It's been a fantastic summer
+and I've loved every session of this workshop! I've made so many new friends!
+- I also fiddled around in Sage and almost got the memory on my laptop to almost run out because I picked a horrible prime. Oops.
+- I also had a great discussion with quite a few people, and it's been surprising how many people know who I am already. I'm still pretty new to the community.
+
+## Algorithms group
+- I've also been taking part in this Black software engineers algorithms group, where we've been going through algo expert. That's been fun, and it's usually
+just an hour or two on a Sunday, so very relaxing. We did stacks and queues last weekend.
+
+## USENIX and SOUPS
+- I attended SOUPS and attended the speed-mentoring session on Tuesday, and got great advice about a postdoc and career advice, and also have been attending the
+talks at USENIX, which I received a free ticket for through GREPSEC.
+
+## I'm doing a podcast!
+- I'll be on a podcast, which will be recorded at the end of the month! So that's pretty exciting :)
+
+## So that sounds like a lot
+- It hasn't been super-duper busy, but maybe I have done a lot over the past week. I have a lot more time on my calendar, but checking in on the Broadening Slack
+and making sure things are okay will take up some of my time. My co-committee peer is so passionate and has done so much great work; she really has a good heart,
+and is smart and thoughtful about the process, which has helped me grow and learn as well, and I'm grateful for that.
+
+## Anyways, that's it for now
+- I'm attending a Q&A Cryptography workshop, and getting up at 3 tomorrow for another one. I'm so excited! :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
