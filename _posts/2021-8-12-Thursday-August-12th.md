@@ -22,6 +22,9 @@ you find a home in this research community. And even if you don't, we hope you m
 away at something for years and years and finally make headway. It's worth it to achieve something you've set out to do for years.
 - Oh, and the MSR award is finally processed! Hooray!
 
+## Internship
+- As was leaked in my slides from my last post (that I presented to the MSR lab), I received a return offer and an offer for full-time to join the team if I'd like after my PhD. So hooray!
+
 ## Book Club
 - I've been working with an R book club group (8 or 9 of us) on chapters of the book, Open Statistics, and this week I had to do a 15 minute summary. In about
 three weeks, I will have to prepare exercises in R or by hand for the group to work on for about 45 minutes to an hour.
