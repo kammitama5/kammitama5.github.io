@@ -63,6 +63,7 @@ and is smart and thoughtful about the process, which has helped me grow and lear
 
 ## Anyways, that's it for now
 - I'm attending a Q&A Cryptography workshop, and getting up at 3AM tomorrow for another one. I'm so excited! :)
+- Edit: It ended up being amazingly fun! It literally felt like we were at a bar at a conference hanging out at 3am! I *love* these people and this group!
 
 
 
