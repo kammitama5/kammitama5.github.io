@@ -31,7 +31,7 @@ I'm getting up to speed on, via my advisor, who is in Pure Mathematics. And I'm 
 <img src="/images/crypto21/crypto3.png" width="600">
 
 ## Settled around 185
-<img src="/images/crypto21/crypto10.png" width="600">
+<img src="/images/crypto21/crypto10.png" width="500">
 
 ## But then, this one student hacked it!
 <img src="/images/crypto21/crypto4.png" width="700">
