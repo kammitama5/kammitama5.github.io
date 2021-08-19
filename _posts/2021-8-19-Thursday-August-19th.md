@@ -49,7 +49,7 @@ I'm getting up to speed on, via my advisor, who is in Pure Mathematics. And I'm 
 
 ## Social
 - I also learned if you go to the website and turn off JavaScript, you'll find an Easter egg!
-<img src="/images/crypto21/crypto11.png" width="500">
+<img src="/images/crypto21/crypto11.png" width="700">
 
 ## It's been great fun!
 - I think I've really found home here, and I love the field and the community. I also ran into my ZK mentor, and other professors and postdocs who I have met
