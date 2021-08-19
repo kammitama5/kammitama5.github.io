@@ -47,6 +47,10 @@ I'm getting up to speed on, via my advisor, who is in Pure Mathematics. And I'm 
 ## And we ended with a series of corny cryptographer jokes!
 <img src="/images/crypto21/crypto8.png" width="500">
 
+## Social
+- I also learned if you go to the website and turn off JavaScript, you'll find an Easter egg!
+<img src="/images/crypto21/crypto11.png" width="500">
+
 ## It's been great fun!
 - I think I've really found home here, and I love the field and the community. I also ran into my ZK mentor, and other professors and postdocs who I have met
 along the way, who I would definitely consider doing a postdoc with in the future. I even ran into one of the speakers, who I had met last year! So it's been
