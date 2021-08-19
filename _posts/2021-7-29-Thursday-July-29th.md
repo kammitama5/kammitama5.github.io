@@ -57,6 +57,10 @@ see how that goes. Someone has already reached out to me for that, but I'm looki
 ## Anyways, that's all I have for now
 - Oh yeah, I got my amazing wireless headphones!! Thank you so so much Dataiku! <3
 
+## Update
+- Check out the photo and projects [here](https://www.initc3.org/events/2021-07-25-ic3-blockchain-summer-camp)
+<img src="/images/crypto21/campic.png" width="500">
+
 ## And that's it
 
 
