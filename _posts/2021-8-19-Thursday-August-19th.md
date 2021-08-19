@@ -13,7 +13,8 @@ I'm getting up to speed on, via my advisor, who is in Pure Mathematics. And I'm 
 
 ## The hack
 - A bunch of us were hugely into the crossword puzzle, which was available until Wednesday.
-- I got up to the 13th place! I'm proud of that, considering how many crazy smart people were participating.
+- I got up to the 13th place! I'm proud of that, considering how many crazy smart people were participating. At my highest score, I got around 184 out of 196.
+- So the highest *honest* score one could achieve is 196, and after that, you are ranked based on your number of incorrect guesses!
 - I later got bumped down to about 20th once people started getting really competitive and hacking the board or using automated solvers and stuff like that.
 - What do you expect; there are lots of cryptographers here.
 
