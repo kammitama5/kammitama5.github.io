@@ -68,4 +68,7 @@ of programme are.
 - If my syntax is not quite right, it's because I'm multi-tasking; sorry! There's still a lot going on, although I'm winding down. I currently am in 2 meetings
 simulataneously. Can't do that in person :)
 
+## Here is a great talk
+- By an amazing Mathematician, [Dr. Nira Chamberlain](https://en.wikipedia.org/wiki/Nira_Chamberlain). Thank you so much for the [recommendation](https://www.bbc.co.uk/sounds/play/w3ct2h25), Corecursive Slack <3.
+
 ## And that's it!
