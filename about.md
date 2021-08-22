@@ -20,7 +20,7 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I started PhD candidacy at the University of Vermont (my advisor is [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/). My focus has been on Provable Fairness, Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning and ways that privacy can work (is robust) and is verifiable (my lab focuses on provable privacy and security; privacy that works). In Fall 2021, I will be focusing on Applied Cryptography. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
+- In Fall 19, I started PhD candidacy at the University of Vermont (my advisor is [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/). My focus has been on Provable Fairness, Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning and ways that privacy can work (is robust) and is verifiable (my lab focuses on provable privacy and security; privacy that works). In Fall 2021, I will be focusing on Cryptography. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
 a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
