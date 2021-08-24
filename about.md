@@ -67,4 +67,4 @@ a Compilers course in Haskell and another CS course.
 
 ### Contact me
 - We may have met. [Have we met?](https://kammitama5.github.io/Sunday-May-3rd/)
-- Contact: [krystal.maughan@gmail.com](mailto:email@domain.com)
+
