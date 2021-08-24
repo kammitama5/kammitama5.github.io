@@ -50,7 +50,7 @@ is the most important thing to me; if that ever changes, that will be another to
 - I am always at odds with the impression or mold, because sometimes it feels like bad medicine; it is fed to me, but I know deep down that it isn't true. And I hold fast
 to those bits of myself, afraid that I will lose it in this place. The part that is honest, sincere, and wants the best for other people. Is it compatible with this place?
 - In many ways, you don't make your own path through Academia; it directs you, based on a number of parameters. There are some that you do have control over, but there
-are others that you do, but everyone pretends that they are 100 percent self made, and that is folly. In that sense, there is a disconnect from reality.
+are others that you don't, but everyone pretends that they are 100 percent self made, and that is folly. In that sense, there is a disconnect from reality.
 - "I am here because I earned it". Everyone who has made it *wants* to believe that. The alternative is too scary to think about. What if there are others who *were*
 better who didn't make it. What does that say about them? What does it say about me? I find those conversations intriguing, but often people who have succeeded in
 this system neglect to talk about these things. We avoid real conversations. Does anyone real converations in Academia?
