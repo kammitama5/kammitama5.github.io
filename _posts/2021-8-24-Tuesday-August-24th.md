@@ -53,7 +53,7 @@ to those bits of myself, afraid that I will lose it in this place. The part that
 are others that you don't, but everyone pretends that they are 100 percent self made, and that is folly. In that sense, there is a disconnect from reality.
 - "I am here because I earned it". Everyone who has made it *wants* to believe that. The alternative is too scary to think about. What if there are others who *were*
 better who didn't make it. What does that say about them? What does it say about me? I find those conversations intriguing, but often people who have succeeded in
-this system neglect to talk about these things. We avoid real conversations. Does anyone have real converations in Academia?
+this system neglect to talk about these things. We avoid real conversations. Does anyone have real converations in Academia? Sometimes when a professor is speaking, I reimagine them as a proud bird just shaking and showing off its feathers. 
 - And what of those who did not make it through? Do those who have keep in touch and still have discussions and engage with them, too? Or are they seen as the carcasses of
 the Colosseum games known as Academia? 
 
