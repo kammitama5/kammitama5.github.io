@@ -38,7 +38,9 @@ This is usually the kind of thing a student (and not a professor) will say, beca
 in a way that can be quite embarrassing, not to mention rude and unprofessional (yes, even for you of "royal scholarly ilk", much to my amusement). That (the statement inferring that because an institution is ranked lower it cannot contribute good
 work to a field) doesn't
 even make sense, of course, but that mindset is a result of such a system. What it also seems to signify is that to some individuals, who should be academic peers, you are 
-seen as "less than". So how, then, if the goal is to contribute to a field, can judgment be "meritocratic and fair". Seems pretty bonkers to me. But I digress.
+seen as "less than". So how, then, if the goal is to contribute to a field, can judgment be "meritocratic and fair". Seems pretty bonkers to me. 
+What is *also* scary is that some of these students will go on to become faculty at these "lesser than" institutions, with their biases about
+what kind of work is produced. Are they even suitable to be the kind of people to inspire good work (or trust in the students for mentorship) at these institutions? Scary to think about. But I digress.
 - You are instructed if you are less than to "jump through more hoops", which I find simultaneously hilarious and humiliating. What is the point of granting an
 opportunity to engage with a field of study if you are not truly given a seat at the table? I want to change this, because I find it hypocritical and incestuous.
 - To me, going to a lesser known school just means playing the game on "hard-mode", which I'm always up for. If you achieve a high score on easy, it's not as cool :)
