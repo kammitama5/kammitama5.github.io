@@ -28,7 +28,7 @@ additional master's in Pure Mathematics, but I love the topic, and it relates to
 
 ## Status
 - A lot of academia feels like a molding into a persona; in many ways, it is based on what the structure decides you will be, and how much you acknowledge or
-acquiesce. In many ways, there is an impression of who you think you are, and what you think you will become, and that it working either with or against what it thinks
+acquiesce. In many ways, there is an impression of who you think you are, and what you think you will become, and that it is working either with or against what it thinks
 or determines you should be.
 - "You are from a lesser school; therefore I hope that you have accepted this inferiority", which has always seemed silly to me because in my mind, the point of 
 a PhD and research is to become part of a specific community that holds your interest, in which you can produce work, regardless of your institution. However,
