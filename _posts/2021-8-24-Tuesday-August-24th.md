@@ -33,7 +33,7 @@ a PhD and research is to become part of a specific community that holds your int
 the very institutions that hold our ability to be rewarded for our work, and essentially act as gatekeepers, have such parochial views. And it's reflected in
 the ways even our peers *see us*. I've been asked at least twice since I've started my degree if "my school is a place where they hand anyone a PhD". 
 This is usually the kind of thing a student (and not a professor) will say, because students have not yet learned the art of diplomacy, so they are awkwardly honest (often
-in a way that can be quite embarrassing, to my amusement). That (the statement inferring that because an institution is ranked lower it cannot contribute good
+in a way that can be quite embarrassing, not to mention rude and unprofessional (yes, even for you of "royal scholarly ilk", much to my amusement). That (the statement inferring that because an institution is ranked lower it cannot contribute good
 work to a field) doesn't
 even make sense, of course, but that mindset is a result of such a system. What it also seems to signify is that to some individuals, who should be academic peers, you are 
 seen as "less than". So how, then, if the goal is to contribute to a field, can judgment be "meritocratic and fair". Seems pretty bonkers to me. But I digress.
