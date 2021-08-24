@@ -1,6 +1,6 @@
 ## Apathy : It's not right but it's ok
 
-
+## Apathy
 - I've found myself this week experiencing profound apathy. In particular, things that aren't important to me are purged and I simply don't think
 much about them anymore. I found myself talking with some people online, and realizing it wasn't going anywhere, so I just marked the conversation thread as spam
 and unsubbed (lol). And this has seemed to be a common thread for me lately; sometimes I will disagree with someone and in my head, think "this is going nowhere",
