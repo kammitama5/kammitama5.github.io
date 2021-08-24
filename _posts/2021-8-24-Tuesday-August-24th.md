@@ -20,7 +20,7 @@ a very hectic summer.
 - I've started on the exercises this week for my cryptography summer school, and on working on a review and some work for a Maths Stats book club I'm in. It's been very 
 soothing for me. I've found myself in a space of constant meditation, where time stretches endlessly, often until the early hours of the morning.
 I'm apparently back on a schedule where I can't get to sleep before 3am again, but I can also get a lot of reading and work done.
-- For our workshop, we're working on some exercises that is very familiar, as we covered two-thirds of the subject in cryptography class. I even wrote some Sage code
+- For our workshop, we're working on some exercises that are very familiar, as we covered two-thirds of the subject in cryptography class. I even wrote some Sage code
 for it yesterday! I'm waiting until the end of the month to purchase this book I've been set on getting; I can hardly wait. It's on elliptic curves.
 I have quite a few, but I want to learn everything about elliptic curves. This will probably happen during a postdoc, or when I choose to pursue an 
 additional master's in Pure Mathematics, but I love the topic, and it relates to the research I'm currently doing.
