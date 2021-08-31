@@ -62,6 +62,7 @@
 - I've successfully completed RLOSFest, and gave my final presentation on August 3rd!
 - I will be speaking on a podcast with S. Hanselman
 - I received a scholarship from Google to attend this year's GHC Conference!
+- I've been accepted to JP Morgan's Advancing Black Pathways in AI & Quantitative Modeling Summit
 
 ## 2020
 
