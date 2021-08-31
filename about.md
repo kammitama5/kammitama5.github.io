@@ -13,7 +13,7 @@ permalink: /about/
 - I'm a researcher, aspiring [boffin](https://en.wikipedia.org/wiki/Boffin), [mango](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/mango1.png) and cocoa picker. 
 - I am currently working on cryptography research, specifically on post-quantum isogeny graph cryptography, advised by two professors; one in Pure Mathematics and the other in Computer Science. In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI. 
 - Currently, I am taking coursework in a mini-Master's type format for a foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community since [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD.
-- My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker.
+- My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker. It would be amazing to defend my thesis by iPad.
 - Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing. 
 
 ### What's Unique about me
