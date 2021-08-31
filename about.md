@@ -11,8 +11,8 @@ permalink: /about/
 
 
 - I'm a researcher, aspiring [boffin](https://en.wikipedia.org/wiki/Boffin), [mango](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/mango1.png) and cocoa picker. 
-- I am currently working on cryptography research, specifically on post-quantum isogeny graph cryptography, advised by two professors; one in Pure Mathematics and the other in Computer Science. In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI. 
-- Currently, I am taking coursework in a mini-Master's type format for a foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community since [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD.
+- I am currently working on cryptography research, specifically on [post-quantum supersingular isogeny graph cryptography](https://en.wikipedia.org/wiki/Supersingular_isogeny_graph), advised by two professors; one in Pure Mathematics and the other in Computer Science. In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI. 
+- Currently, I am taking coursework in a mini-Master's type format for a foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community since [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD, wherever there are opportunities to do so.
 - My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker. It would be amazing to defend my thesis by iPad.
 - Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing. 
 
@@ -22,7 +22,7 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- I began focusing on Isogeny-based Cryptography research in Winter 2021. I absolutely love it, and I am working on progress with my two advisors (I also attended a summer workshop on Isogeny Based Cryptography in 2021). In the past, I have done research on Provable Fairness and Differential Privacy, too. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
+- I began focusing on [Supersingular Isogeny graph Cryptography](https://en.wikipedia.org/wiki/Supersingular_isogeny_graph) research in Winter 2021. I absolutely love it, and I am working on progress with my two advisors (I also attended a summer workshop on Isogeny Based Cryptography in 2021). In the past, I have done research on Provable Fairness and Differential Privacy, too. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
 a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
