@@ -26,6 +26,9 @@ permalink: /about/
 a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
+## How Pure Maths research can be different from Computer Science aka where are your ten papers?
+- In my experience, compared to my previous research focus, this topic takes a bit more time to produce a paper. I am okay with that.
+
 ## More Updates...
 - You can see a bit of my so far (quite busy) life in a blog post [here](https://kammitama5.github.io/Tuesday-October-8th/).
   There is still much time in the year to go! I love working hard and pushing myself, while helping others to reach their fullest potential!
