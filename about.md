@@ -10,8 +10,10 @@ permalink: /about/
 
 
 
-- I'm a researcher, aspiring [boffin](https://en.wikipedia.org/wiki/Boffin), [mango](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/mango1.png) and cocoa picker. I love encryption, fairness (both as a metric and in terms of (access to) resources), statistics, machine learning and functional programming (I am at the intersection of the cryptography and AI/ML/fairness communities). Most recently, I've also become interested by Information Theory, courtesy of a class I audited on decentralized consensus protocols (Stanford Winter 2021), which covered tradeoffs in several blockchain protocols, and am currently taking a programming workshop on file formats, manipulating data and digital compression (Spring 2021). I'm also taking an Information Theory Course (Fall 2021), which I was instrumental in having offered, as our school does not have an Information Theory department.
-- I am currently working on cryptography research, straddling the Pure Mathematics and Computer Science departments. In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI. My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker.
+- I'm a researcher, aspiring [boffin](https://en.wikipedia.org/wiki/Boffin), [mango](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/mango1.png) and cocoa picker. 
+- I am currently working on cryptography research, specifically on post-quantum isogeny graph cryptography, advised by two professors; one in Pure Mathematics and the other in Computer Science. In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI. 
+- Currently, I am taking coursework in a mini-Master's type format for a foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community since [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD.
+- My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker.
 - Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing. 
 
 ### What's Unique about me
@@ -20,7 +22,7 @@ permalink: /about/
 - I see programming as a tool. I believe that coming from a different perspective is important in solving new problems in computer science, and I enjoy collaborating with people who are from various backgounds in research.
 
 ### Update (as of 2019)
-- In Fall 19, I started PhD candidacy at the University of Vermont (my advisor is [Dr. Joseph P. Near](http://www.uvm.edu/~jnear/). My focus has been on Provable Fairness, Data Privacy (specifically [Differential Privacy](https://en.wikipedia.org/wiki/Differential_privacy)) and Machine Learning and ways that privacy can work (is robust) and is verifiable (my lab focuses on provable privacy and security; privacy that works). In Fall 2021, I will be focusing on Cryptography. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
+- I began focusing on Isogeny-based Cryptography research in Winter 2021. I absolutely love it, and I am working on progress with my two advisors (I also attended a summer workshop on Isogeny Based Cryptography in 2021). In the past, I have done research on Provable Fairness and Differential Privacy, too. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
 a Compilers course in Haskell and another CS course.
 - I'm open to Summer and Winter Research Internships, particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
 
@@ -37,9 +39,8 @@ a Compilers course in Haskell and another CS course.
 [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California -> Vermont
 
 ### Other 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
+- [Google Scholar: Maths papers take longer to produce but stay tuned on my progress here!](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
 - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Krystal_Maughan_CV_8_31_2021.pdf)
-- [Gist of Things (Resume for Industry, Code Links, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/PHD_resume_KM_9_17_2020.pdf) (I haven't updated this one since 2019)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7), [link on GSoC site 2018](https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/#projects)
 - [TechX Social Impact Medium Article 1 (Summer 2020)](https://medium.com/tech-x-social-impact/ready-start-exploring-the-virtual-healthcare-multiverse-8011bda1fe1c)
 - [TechX Social Impact Medium Article 2 (Summer 2020)](https://medium.com/tech-x-social-impact/impossible-markets-and-big-dreams-my-interaction-with-the-cfo-of-impossible-foods-f0c075c241e0)
