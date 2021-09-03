@@ -7,7 +7,8 @@ paper, with my advisors. I am still a Computer Science major, but a lot of the w
 of a Maths PhD student. No, it's not PL type theory stuff, which, considering I know type theorists in Maths, has always been a bit strange when CS PL people call themselves "type theorists"
 without coming from Maths at the graduate level, or "mathematicians" because they write Haskell (??), but it's probably my fault for thinking this way because I'm terrified of overclaiming in general and being called out
 for overclaiming. I've never been one to have that kind of overconfidence, and I see it as academically dishonest. In particular, what if you say that you're a
-mathematician and end up in a room with [Peter Scholze](https://en.wikipedia.org/wiki/Peter_Scholze) or something? Yikes! 
+mathematician and end up in a room with [Peter Scholze](https://en.wikipedia.org/wiki/Peter_Scholze) or something? Yikes!
+- To verify my questions about whether I am in Maths or CS, I always ask myself (1) where do they publish? Although there is overlap, there are very specific places each chooses to publish. Also, if it's a conference, (2) who is speaking? I've been funded both through Number Theory grants (for conferences) and Computer Science, and there are definitely differences between the two spaces, although there is some overlap. Here's another hint: I seldom see slides at Maths conferences (lol). Lots of iPads (during quarantine) and otherwise blackboards and chalk.
 - These people aren't stupid, and just like any other field, they know each other's work. I'm new, and I ask questions, and I listen. For now, I am here to learn, and that's okay. In general, the ones I've met don't go around tooting their own horn, either,
 about it. They will listen to your claiming that you are "an expert", and slowly ask you questions, naively, until you back yourself into a corner. Then it's your own fault
 but hey, it's an opportunity to learn. And it's all in good fun; they're all very nice people.
@@ -25,7 +26,7 @@ had that before in the space I was previously working in. They already see you, 
 So I've started reading up on that on my own, before the notes are posted. We typically have sort of seminar sessions, and it's been fantastic.
 - It was also one of the things that has convinced me that I've found my group. I really love working with the people in this field. I know I'm pretty new, but
 it seems to combine the communities I've already been a part of for years, and things I'm interested in. So that's pretty awesome!
-- I also have extraordinary mentorship; in fact, one of my advisors is taking me to a conference at which they are speaking, which is a first for me! How exciting
+- I also have extraordinary mentorship; in fact, one of my advisors is taking me to a number theory conference at which they are speaking, which is a first for me! How exciting
 is that!? Just years ago, I was attending similar conferences, by myself, and although there was a little trepidation that someone in Computer Science was there,
 I made a lot of friends (some of whom are now postdocs or tenure-track professors! During the pandemic, I saw some of my friends defend their dissertations on iPads, which they would
 ordinarily do on blackboards with chalk!). And now, I can be part of that community, advised by someone who is known in the field. That's super cool and quite frankly,
