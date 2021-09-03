@@ -49,7 +49,8 @@ typically reserved for only the blessed students of certain prestigious advisors
 - Within the first two days, there is this very strong sense of collaboration, friendliness, and feeling that "we're here to succeed together". And I really like that.
 - It feels a lot more like trying to push the frontiers of the field *together*, and maybe that's why Maths papers have ten authors :)
 - Coincidentally, some professors I've worked with in the past (although I believe it was Applied, not Pure Maths) have also asked if I'd be interested in writing
-a proposal with them again. So that's super cool, too!
+a proposal with them again. So that's super cool, too! In my first semester, feeling like I didn't belong and being acutely reminded that "you didn't start coding out of your mother's womb", I bounced and went to a SageMaths workshop I got funding for, and that led to writing an NSF proposal with a bunch of Maths professors.
+We didn't end up getting it, but I really enjoyed working with them, and we may be working on another. It was one of the best experiences I had that semester.
 - This is the first time I've ever had a professor have a class on TeX-ing (pronounced "tech-ing"). I don't know why, but it can seem like this super pretentious
 thing that the Academic community has about whether you "can hack it", if you sort of just come in knowing how to do it, as though it's something that if you belonged
 in grad school, you'd "just know how to do". In Dr. Tse's class, I think he was the *first* to provide a nice template, and also correct my work (for his class notes).
