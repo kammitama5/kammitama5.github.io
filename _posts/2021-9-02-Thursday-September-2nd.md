@@ -16,6 +16,8 @@ So I'm learning how to do that. One of the things that it definitely requires, w
 felt that in my past work, there was a lot more pressure to constantly be churning out papers; people would ask "where are your papers?", as though you should have
 ten or twelve in your first year. As it turns out, I'm not interested in that hamster-wheel *at all*. I really like that this crowd takes time to accumulate knowledge, and write
 a paper or two. And it's really allowed me the time to focus on foundational knowledge.
+- One thing to note is that most of the community is located outside of the United States, though. So basically, I'd have to consider what I'd like to do afterwards, bearing in mind that a lot of the community is in Europe, etc. One of the friendliest persons I've met in this community literally lives in China! They
+also have a hybrid CS / Maths background, but they kick a lot more butt than I do. I'm super grateful that they were so nice to me almost immediately in this community, though!
 
 ## Summer school
 - I've been involved in this summer school related to my field of research, and this week one of the things we are covering is Kummer Arithmetic, which is interesting.
