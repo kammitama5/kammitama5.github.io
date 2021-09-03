@@ -89,7 +89,7 @@ feed yourself and take care of yourself first. So that makes sense.
 be fun to see her briefly in Vermont :)
 
 ## Book Club
-- Oh, I was taking part in a book club in R on the book, Open Statistics, and gave a 15 minute overview of chapter 4, and led chapter 7's exercises. We're 
+- Oh, I was taking part in a book club in R (haha pirate reference!) on the book, Open Statistics, and gave a 15 minute overview of chapter 4, and led chapter 7's exercises. We're 
 wrapping up the last chapter this upcoming week, but I ended up not really using R and just using a calculator for the bulk of my exercises. That book club
 has been a lot of fun! 
 
