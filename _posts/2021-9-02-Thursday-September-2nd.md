@@ -42,7 +42,7 @@ of not quite feeling like I fit as a CS major. I mean, I do like coding, but I d
 - But there is a lot of hierarchy (in CS) in terms of (1) fields and types of research people think you should be "eligible" to do, and (2) who you can work with. This is *very*
 different (from my limited experience) in my community (perhaps not all parts of this field, but certainly the one I'm in currently). People don't care what school you're from. I think being a part of this community and others, like the general number theory community,
 has been some of my first experiences where people have just said "we're writing a thing; would you like to join us?". In the usual CS research world, it's been very hush-hush,
-typically reserved for only the blessed students of certain prestigious advisors, from certain schools garbage garbage nonsense it needs to stop or your field will die and become homogenous and inbred.
+typically reserved for only the blessed students of certain prestigious advisors, from certain schools garbage garbage nonsense it needs to stop or your field will die and become homogenous and inbred. And people get off on this feeling of superiority, that is literally driven by others being structurally *excluded* from access, which has *nothing* to do with meritocracy. But I'm not here to go on a rant, but just do my part through certain programmes to try to make it a bit better for the next group of people coming in. But to be honest, my first priority is *my* community that currently supports me. I can't fix everything.
 
 ## Differences in Culture
 - One of the things I've been super annoying about (ha!) is that the culture is *so* different in Pure Maths, at least in my field, versus Computer Science.
