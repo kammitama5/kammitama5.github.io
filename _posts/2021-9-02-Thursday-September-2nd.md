@@ -38,9 +38,9 @@ of this stuff on my own, I stumbled upon a mathematician's blog, who as it turns
 or will never be able to learn something. That seems to be quite a common thread in this field, and with this community, which is awesome. In fact, on my first day,
 I met someone who used to be a CS major (actually, I met two people; one at the summer camp and another who is at my school), and they told me they related to my experience
 of not quite feeling like I fit as a CS major. I mean, I do like coding, but I don't like the culture of some Computer Science communities. And that's been frustrating to me.
-- Even in terms of the research community, there's a lot of gatekeeping, which is silly, because everyone (by definition) in research is learning and discovering new things.
-- But there is a lot of hierarchy in terms of (1) fields and types of research people think you should be "eligible" to do, and (2) who you can work with. This is *very*
-different (from my limited experience) in my community. People don't care what school you're from. I think being a part of this community and others, like the general number theory community,
+- Even in terms of the CS research community, there's a lot of gatekeeping, which is silly, because everyone (by definition) in research is learning and discovering new things.
+- But there is a lot of hierarchy (in CS) in terms of (1) fields and types of research people think you should be "eligible" to do, and (2) who you can work with. This is *very*
+different (from my limited experience) in my community (perhaps not all parts of this field, but certainly the one I'm in currently). People don't care what school you're from. I think being a part of this community and others, like the general number theory community,
 has been some of my first experiences where people have just said "we're writing a thing; would you like to join us?". In the usual CS research world, it's been very hush-hush,
 typically reserved for only the blessed students of certain prestigious advisors, from certain schools garbage garbage nonsense it needs to stop or your field will die and become homogenous and inbred.
 
