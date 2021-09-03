@@ -66,6 +66,10 @@ where I could fit. I've met so many people across the world, experts and rising 
 - But maybe I'm just honeymoon-ing. I've been a part of the Number Theory community since around 2018, but specifically the isogenies community only since earlier this year
 (although I've been interested in and asked about isogenies since 2017).
 
+## A pirate obsession
+- Are you obsessed with pirates and sailing? Well, you may very well be an isogenist! As it turns out, this community is *very* obsessed with pirates, the sea,
+and other such things. Helms a lee!
+
 ## Google PhD Summit
 - I was invited to the Google PhD summit. It was sort of overlapping with my classes, so I couldn't attend everything, but one of my questions was asked first,
 and answered by Jeff, and I got some swag in the mail today!
