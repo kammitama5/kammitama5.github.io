@@ -68,7 +68,7 @@ where I could fit. I've met so many people across the world, experts and rising 
 
 ## A pirate obsession
 - Are you obsessed with pirates and sailing? Well, you may very well be an isogenist! As it turns out, this community is *very* obsessed with pirates, the sea,
-and other such things. Helms a lee!
+and other such things. I can't stop laughing; it's SO much fun! Helms a lee!
 
 ## Google PhD Summit
 - I was invited to the Google PhD summit. It was sort of overlapping with my classes, so I couldn't attend everything, but one of my questions was asked first,
