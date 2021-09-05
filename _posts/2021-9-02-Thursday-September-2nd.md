@@ -1,4 +1,4 @@
-## The start of a Fall semester
+## The start of a Fall semester (and PhD summit)
 
 ## This week was the beginning of Fall semester
 - It's a bit weird being on campus again, but I think I'm in a lot more control than the last time I was here, in terms of not having to TA anymore, and knowing
