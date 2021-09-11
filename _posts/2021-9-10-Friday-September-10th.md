@@ -46,7 +46,8 @@ have to put in more time, and to practice more. And that's it; no excuses about 
 - So, that's kind of the way I plan on approaching things; just put in the work, pretty much. Same as a lot of things. Consider that I've done this *many* times in my life, and succeeded. Usually, it starts with my working from the bottom rung up. I did this in undergrad, having zero experience in the thing I decided I wanted to focus on, and getting literally to the top of the class. I've done this many times in my life. I did plan on going to office hours to 
 find out how to set myself up for proper habits, but ended up getting out so much more from meeting my professor, including thinking about what futher study 
 and research would look like for me. And that's awesome. The truth is, coming from a system where we really didn't *get* to enjoy Maths; it was something that 
-we would just grind through, this feels like some of the first times that I can actually *enjoy* doing it. And that's pretty cool!
+we would just grind through, this feels like some of the first times that I can actually *enjoy* doing it. And that's pretty cool! That will be my goal; to keep
+the joy, which is a step up from the way I had been trained to think about it growing up (rather than, as a means to an end).
 
 ## Summer school
 - This week, we had some *amazing* workshops at our summer school. I ended up skipping two classes and then dropping a course to attend the summer school lectures.
