@@ -33,9 +33,10 @@ grad school, many students can see you as competition that they need to eliminat
 I went to a TA during office hours, because I'm the sort of person who wants to understand things thoroughly, and they legitimately told me that "people who come
 to office hours are at the bottom of the class". This person is in PhD school. This is awful. I want my TA to root for me, not have disdain and an inherent lack
 of faith in my ability to succeed and to grasp concepts. After that, I pretty much silently lost respect for that person.
-- Fortunately, a semester later, I had the courage to ask what my advisor what he thought, and he said that he disagreed with the TA, and that he's personally
+- Fortunately, a semester later, I had the courage to ask my advisor what he thought, and he said that he disagreed with the TA, and that he's personally
 found that students who come often to his office hours just want to engage with the material more; they want to understand it more deeply, and there are often
-some of the strongest students. Good Professor!
+some of the strongest students. Good Professor! That was also the semester I went to office hours profusely and ended up getting an A+ in a class, so....I'm just 
+one statistical data point.
 - It's very interesting, because everyone in my high school, regardless of major, had to do (1) Maths (2) Science, even if it was Integrated Science, as opposed to
 Physics, Biology and Chemistry, or Additional and Further Mathematics. However, when I arrived in the United States, it was the first time I had heard comments 
 like "I'm doing this (subject) because I suck at Maths". In my home country, it's something that a lot of us would grind through, regardless of whether we liked
@@ -73,7 +74,10 @@ that!
 
 ## Swag from internship
 - We got customized swag this year, based on the design the interns voted on. It finally arrived!
+
 <img src="/images/secondweekswag21/msftswag.png" width="300">
+
+## There is some more stuff on the way, too!
 <img src="/images/secondweekswag21/msftswag1.png" width="300">
 
 ## Finally
