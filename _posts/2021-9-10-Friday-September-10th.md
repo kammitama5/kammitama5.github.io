@@ -43,7 +43,7 @@ it or not. So culturally, it's different in that way. I've heard that the way we
 too (but I can't say for certain). It's not something that is assumed to have a limit (certainly at the lower level) based on "talent" or "ability", although there
 are, of course, people who pick up things more quickly and enjoy it, as in every field. But it's expected that if you don't immediately "get it", that you just
 have to put in more time, and to practice more. And that's it; no excuses about that, and no judgments based on an assumption of "innate ability".
-- So, that's kind of the way I plan on approaching things; just put in the work, pretty much. Same as a lot of things. I did plan on going to office hours to 
+- So, that's kind of the way I plan on approaching things; just put in the work, pretty much. Same as a lot of things. Consider that I've done this *many* times in my life, and succeeded. Usually, it starts with my working from the bottom rung up. I did this in undergrad, having zero experience in the thing I decided I wanted to focus on, and getting literally to the top of the class. I've done this many times in my life. I did plan on going to office hours to 
 find out how to set myself up for proper habits, but ended up getting out so much more from meeting my professor, including thinking about what futher study 
 and research would look like for me. And that's awesome. The truth is, coming from a system where we really didn't *get* to enjoy Maths; it was something that 
 we would just grind through, this feels like some of the first times that I can actually *enjoy* doing it. And that's pretty cool!
