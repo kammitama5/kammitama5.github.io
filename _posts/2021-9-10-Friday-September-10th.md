@@ -52,7 +52,7 @@ the joy, which is a step up from the way I had been trained to think about it gr
 
 ## Summer school
 - This week, we had some *amazing* workshops at our summer school. I ended up skipping two classes and then dropping a course to attend the summer school lectures.
-- They were specifically (this week) on Kummer varieties and Cantor's algorithm, as well as higher genera, attacks and tradeoffs. I have to say, I was completely
+- They were specifically (this week) on Kummer varieties and Cantor's algorithm, polarization, theta functions, as well as higher genera, attacks and tradeoffs. I have to say, I was completely
 *riveted* by the lectures! One of them was 3 hours long, and I left feeling *pumped*!. A lot are based in Europe, so I attend at 3 or 4 in the morning, but it's
 really been a joy for me. I'm typing this and my laptop is chugging because I have a bunch of tabs open with papers to read open!
 - Omg..and then someone in our workshop posted a Kummer varieties meme! This has been such a fun space for me, with really friendly, down-to-earth people. 
