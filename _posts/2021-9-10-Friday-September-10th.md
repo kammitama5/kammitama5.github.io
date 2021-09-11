@@ -59,6 +59,9 @@ really been a joy for me. I'm typing this and my laptop is chugging because I ha
 - What's also *super* cool is that I was reading up on Kummer spaces, and as it turns out, a good friend of mine did her PhD on that (she's now a lecturer).
 So that was a pleasant coincidence! We met at a random number theory conference, I think, in 2018-ish?
 
+## An Isogenies Meme
+<img src="/images/secondweekswag21/meme.png" width="300">
+
 ## Seminar
 - My school is having a Combinatorics seminar next week, and one of the first persons I ever met who was nice to me (ie a student; yes, of course they're a Pure
 Maths student) when I first started school is giving a talk! I signed up for their mailing list immediately, and hope to attend as much of the seminars as I can.
