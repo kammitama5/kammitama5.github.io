@@ -55,7 +55,9 @@ the joy, which is a step up from the way I had been trained to think about it gr
 - They were specifically (this week) on Kummer varieties and Cantor's algorithm, polarization, theta functions, as well as higher genera, attacks and tradeoffs. I have to say, I was completely
 *riveted* by the lectures! One of them was 3 hours long, and I left feeling *pumped*!. A lot are based in Europe, so I attend at 3 or 4 in the morning, but it's
 really been a joy for me. I'm typing this and my laptop is chugging because I have a bunch of tabs open with papers to read open!
-- Omg..and then someone in our workshop posted a Kummer varieties meme! This has been such a fun space for me, with really friendly, down-to-earth people. 
+- Omg..and then someone in our workshop posted a Kummer varieties meme! This has been such a fun space for me, with really friendly, down-to-earth people.
+- What's also *super* cool is that I was reading up on Kummer spaces, and as it turns out, a good friend of mine did her PhD on that (she's now a lecturer).
+So that was a pleasant coincidence! We met at a random number theory conference, I think, in 2018-ish?
 
 ## Seminar
 - My school is having a Combinatorics seminar next week, and one of the first persons I ever met who was nice to me (ie a student; yes, of course they're a Pure
