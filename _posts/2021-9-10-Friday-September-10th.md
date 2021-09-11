@@ -33,6 +33,9 @@ grad school, many students can see you as competition that they need to eliminat
 I went to a TA during office hours, because I'm the sort of person who wants to understand things thoroughly, and they legitimately told me that "people who come
 to office hours are at the bottom of the class". This person is in PhD school. This is awful. I want my TA to root for me, not have disdain and an inherent lack
 of faith in my ability to succeed and to grasp concepts. After that, I pretty much silently lost respect for that person.
+- Fortunately, a semester later, I had the courage to ask what my advisor what he thought, and he said that he disagreed with the TA, and that he's personally
+found that students who come often to his office hours just want to engage with the material more; they want to understand it more deeply, and there are often
+some of the strongest students. Good Professor!
 - It's very interesting, because everyone in my high school, regardless of major, had to do (1) Maths (2) Science, even if it was Integrated Science, as opposed to
 Physics, Biology and Chemistry, or Additional and Further Mathematics. However, when I arrived in the United States, it was the first time I had heard comments 
 like "I'm doing this (subject) because I suck at Maths". In my home country, it's something that a lot of us would grind through, regardless of whether we liked
