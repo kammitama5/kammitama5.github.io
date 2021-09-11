@@ -59,7 +59,7 @@ really been a joy for me. I'm typing this and my laptop is chugging because I ha
 - What's also *super* cool is that I was reading up on Kummer spaces, and as it turns out, a good friend of mine did her PhD on that (she's now a lecturer).
 So that was a pleasant coincidence! We met at a random number theory conference, I think, in 2018-ish?
 
-## An Isogenies Meme
+## An Isogenies Meme (courtesy of Krijn)
 <img src="/images/secondweekswag21/meme.png" width="300">
 
 ## Seminar
