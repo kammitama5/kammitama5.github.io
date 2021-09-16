@@ -63,6 +63,8 @@
 - I will be speaking on a podcast with S. Hanselman
 - I received a scholarship from Google to attend this year's GHC Conference!
 - I've been accepted to JP Morgan's Advancing Black Pathways in AI & Quantitative Modeling Summit
+- I've been invited to (and will attend) Fb's Virtual Vivid in Research event 
+- I have been funded to attend the Upstate Number Theory Conference 2021!
 
 ## 2020
 
