@@ -15,7 +15,7 @@ out mid-afternoon, and have to get up later in the evening to get started on wor
 
 ## Notes and more notes
 - I've kept an *extensive* collection of notes throughout the isogenies workshop, including pdfs, some of which are downloaded, and others which have direct links, and
-a giant Google doc that has about 104 pages worth of notes (I'm not kidding; I just counted). I also have a fair amount of Sage code (over 100 lines), too. I'm still working through some
+a giant Google doc that has about 104 pages worth of notes (I'm not kidding; I just counted). I also have a fair amount of Sage code (over 150 lines), too. I'm still working through some
 of the exercises, and there is enough to keep me busy, but I am really energized by this community. It's awesome. This week, I also saw some [Magma code](http://magma.maths.usyd.edu.au/magma/),
 which, as my advisor said, even though it doesn't look too different, is *annoying* to go back and forth between. So it looks like I'll stick with Sage for now.
 - Next week there's a super awesome TWO hour long talk that three isogenists are giving, but I'll miss a bit of it because I happened to book a massage during then.
