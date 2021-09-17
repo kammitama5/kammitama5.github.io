@@ -1,7 +1,7 @@
 ## The week of leaderboards
 
 ## This week was a week of leaderboards
-- I attended [CHES](https://ches.iacr.org/) this week, for bits of time, as the conference basically started at 2am and ended around 5am-ish. I mostly attended the post-quantum talks,
+- I attended [CHES](https://ches.iacr.org/) this week, for bits of time, as the conference basically started at 2am and ended around 5am-ish. I mostly attended the post-quantum cryptography talks,
 the Test of Time award talk and the AMA with Tanja. I've met Tanja before, both in our sessions for our summer school, and there were lots of other familiar faces
 from our community too. In fact, one of the persons who led the Rump session was just, 2 hours before, hosting a Q&A with us, where he noted that the 4 of us who
 dropped in at 3am to attend were "the most hardcore group of isogenists". That was quite kind of him! It *is* true that there is a general group of us that attends
