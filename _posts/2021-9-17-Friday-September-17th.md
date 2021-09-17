@@ -38,6 +38,7 @@ probably quite a few years ago! And I think they gained over 200 new members for
 <img src="/images/theweekofhacking21/leader2.png" width="200">
 
 - The vulnerabilities were super fun to find! Some entailed ciphers, which are sort of my favourite thing to crack (okay, maybe not "sort of").
+- I was silly and accidentally added the salted hash to a decoded password, which was funny when I realized my mistake!
 
 <img src="/images/theweekofhacking21/leader3.png" width="500">
 
