@@ -7,7 +7,7 @@ from our community too. In fact, one of the persons who led the Rump session was
 dropped in at 3am to attend were "the most hardcore group of isogenists". That was quite kind of him! It *is* true that there is a general group of us that attends
 more or less all of the sessions. And then, there are others, who are specifically interested in things that tie in directly with what they are researching, 
 such as torsion point attacks and that sort of thing. So it's been interesting attending most of the sessions and seeing who pops in, and who is a regular.
-- I have to say, though, that *most* are in Europe, and I am using *dying* going to class just a few hours later. This week in particular, I happened to attend
+- I have to say, though, that *most* are in Europe, and I am usually *dying* going to class just a few hours later. This week in particular, I happened to attend
 either CHES or the isogeny workshops (or both!) at 3 or 4 in the morning, get up at 7 or 8 and head to class for 10am. And it's fine, but I definitely just wipe
 out mid-afternoon, and have to get up later in the evening to get started on work. So it's wrecked a bit of my "normal" schedule (if ever I had one!).
 - This upcoming week is our last week. It's so sad! I've enjoyed it SO much! I'm an isogenist to the core now :(
