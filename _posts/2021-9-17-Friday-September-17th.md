@@ -20,7 +20,7 @@ of the exercises, and there is enough to keep me busy, but I am really energized
 which, as my advisor said, even though it doesn't look too different, is *annoying* to go back and forth between. So it looks like I'll stick with Sage for now.
 - Next week there's a super awesome TWO hour long talk that three isogenists are giving, but I'll miss a bit of it because I happened to book a massage during then.
 Crazy, huh? What timing lol. I am going to be able to make some of it, though, and I'm super excited, as I've already read some of the work from one of the authors
-presenting. In fact, it was one of the *first* papers I had read on the topic (I had also attended SPACE, and saw them give a talk at that conference, which is uncanny)!
+presenting. In fact, it was one of the *first* papers I had read on the topic (I had also attended [SPACE](http://cse.iitkgp.ac.in/conf/SPACE2021/), and saw them give a talk at that conference, which is uncanny)!
 
 ## Lisp
 - I attended a Lisp talk related to [ChiaLisp](https://chialisp.com/), and Bram was there, along with another individual named Richard. That was pretty cool, because it ended with people
