@@ -230,38 +230,19 @@
 - Secure Distributed Computation (395) (FA20)
 - Research credits (491) (SP20)(FA20)(SP21) (in progress)
 - Privacy: Law, Policy, & Design (196) (SP21) (in progress)
-- Cryptography (259) (SP21) (in progress)
-- An Information Theory Class (CS 395) (FA 21)
-- Abstract Algebra 1 (MATH 251 A) (FA 21)
+- Matheamtical Cryptography (259) (SP21) (in progress)
+- Abstract Algebra 3 (MATH 395 B) (FA 21) (in progress)
+- Abstract Algebra 1 (MATH 251 A) (FA 21) (in progress)
 
 ## Kinda-sorta (Audit) (2021 Winter: done)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
 
-## Anticipated Classes (enrolled)
-- Information Theory (CS 395)
-- Fourier Transform class
-- Elementary Number Theory Class
-- Abstract Algebra 1 (MATH 251)
+## Wish list of Classes (ie TODO)
+- Number theory
+- Random Graphs
+- Algebra (Fields)
 
-## TODO (2020-21)
-- An Estimation Theory class (EE 371) (SP 22)
-- Number Theory (SP22: 255)
-- A Game Theory class (EC 138 or online) (SP21)
-- Deep Learning (SP22)
-- Reliability of Engineering Systems (FA21)
-- Reinforcememt Learning (FA21)
-- Algorithms (SP22)
-- Foundations of Quantitative Reasoning (FA21)
-- Intro to Numerical Analysis (237) (FA21)
-- A prototyping class (eg Integrated Product Development (395) 
-
-## Classes I plan to take (in order of importance)...somewhere between 2020 and 2022...(ie not enrolled yet)
-- Reliability of Engineering Systems
-- Computational Physics
-- Compilers
-- Evolutionary Robotics
-
-## I think this means I'm not doing *too* badly in my first semester
+## I think this means I'm not doing *too* badly
 
 - I keep pushing myself, though. It's been fun. I've really been enjoying research, my classes, and being a PhD student.
   I can't imagine really doing anything else right now. 
