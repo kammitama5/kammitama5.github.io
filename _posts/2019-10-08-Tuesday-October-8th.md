@@ -65,6 +65,7 @@
 - I've been accepted to JP Morgan's Advancing Black Pathways in AI & Quantitative Modeling Summit
 - I've been invited to (and will attend) Fb's Virtual Vivid in Research event for PhD students
 - I have been funded to attend the Upstate Number Theory Conference 2021!
+- The episode I did on [Hanselminutes](https://hanselminutes.com/807/finding-your-path-to-technology-with-krystal-maughan) came out! :)
 
 ## 2020
 
