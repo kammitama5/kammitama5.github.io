@@ -54,11 +54,13 @@ a Compilers course in Haskell and another CS course.
 
 ### Groups I'm in
 
+- [Association for Women in Mathematics (AWM)](https://ebus.awm-math.org/)
+- [The International Association for Cryptologic Research (IACR)](https://iacr.org/)
+- [WIN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [NCWIT](https://www.facebook.com/groups/AspirationsAward/)
 - [Black in AI](https://blackinai.github.io/)
 - [LXAI](https://www.latinxinai.org/)
 - [WiML](https://wimlworkshop.org/)
-- [WIN (Women in Number Theory)](https://womeninnumbertheory.org/)
 - [WISP](https://www.wisporg.com/)
 - [She256](https://she256.org/)
 - [Gitcoin's Kernel: Fellowship Block III](https://gitcoin.co/blog/announcing-kernel/)
