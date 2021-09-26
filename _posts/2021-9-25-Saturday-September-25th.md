@@ -35,7 +35,7 @@ as well as see my professor give a talk!
 group state transfer, zero forcing sets and persistent homology, while learning about k-covers in set theory and Sidon sets.
 
 ## I forgot to mention
-- I joined an Extremal Graph Theory group. Yeahhhhh. Or rather, I was invited. We meet before my Abstract Algebra class, and then have more discussions
+- I joined an [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory) group. Yeahhhhh. Or rather, I was invited. We meet before my Abstract Algebra class, and then have more discussions
 on Wednesdays. So it looks like now I'm this Combinatorics/Graph Theory/ Number theory mathematical cryptography researcher now haha. Nice!
 
 ## Reading an article
