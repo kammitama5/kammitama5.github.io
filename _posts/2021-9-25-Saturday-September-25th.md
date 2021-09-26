@@ -41,6 +41,9 @@ group state transfer, zero forcing sets and persistent homology, while learning 
 - I joined an [Extremal Graph Theory](https://en.wikipedia.org/wiki/Extremal_graph_theory) group. Yeahhhhh. Or rather, I was invited. We meet before my Abstract Algebra class, and then have more discussions
 on Wednesdays. So it looks like now I'm this Combinatorics/Graph Theory/ Number theory mathematical cryptography researcher now haha. Nice!
 
+## Also next week
+- Next week we're having a week of Post-quantum talks. It's going to be super-exciting! :)
+
 ## Reading an article
 - I was reading an [article](https://www.nytimes.com/2019/02/18/us/edray-goins-black-mathematicians.html) that resonated a bit with my past. In it, someone commented that:
 "As someone who has a PhD in mathematics, I have seen that the senior members of the community bend over backwards to help their favorite students,
