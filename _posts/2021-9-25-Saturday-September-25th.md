@@ -14,7 +14,7 @@ problems. As I had noted, someone in [Quora](https://www.quora.com/How-hard-is-i
 know its secrets, but I'm open to having my mind changed on that discussion. There seems to be some inherent pride in that, when in many countries in
 the world, students learn to do Mathematics without ascribing an ego or talent to a capacity to do it. You learn if you put in the work, and you solve problems
 by sticking with them, turning them inside out and not willing to give up. 
-What often is described as "a lack of capacity", as it turns out, is often a failure by the very institution to prepare students properly, as noted by another
+What often is described as "a lack of capacity", as it turns out, is often a failure by the *very institutions* to prepare students *properly*, as noted by another
 Quora commentor. 100 percent on that. And that *can be fixed* if professor and student are dedicated to resolve this.
 I also think it's a dangerous idea to push this idea of being this magical thing that is bestowed on a select few, when it is used actively to exclude
 others. Because the truth is that it is a skill needed in some capacity in many disciplines, and by actively discouraging others at various levels,
