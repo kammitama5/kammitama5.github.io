@@ -8,7 +8,8 @@ of examples, including the distribution and graph representation, and the concep
 - Later in the week, I attended 2 Number Theory talks; one on a generalization of "Elkie's Theorem" and the other on "Computing cusp forms over function fields".
 - I also got to meet some other people in the department, some of whom apparently remembered me from around the department, which was really cool.
 - I also had two study group sessions; both were fun, and it's become much of a habit, where we meet and work through different ways of approaching
-problems. As I had noted, someone in [Quora](https://www.quora.com/How-hard-is-it-to-major-in-math-What-is-the-intelligence-IQ-cutoff-to-do-well) repeated what I had said in a post, which is that you just need to be able to stick with a problem.
+problems. As I had noted, someone in [Quora](https://www.quora.com/How-hard-is-it-to-major-in-math-What-is-the-intelligence-IQ-cutoff-to-do-well) repeated what I had said in a post, which is that you just need to be able to stick with a problem (in particular, look at Gross's answer, in which he says that 
+"What has struck me is that math students are willing to commit to the grind, arguably more than CS students.").
 - I'm beginning to think that it really is sort of an American culture thing to associate Mathematics as wizardry, for which one either can or cannot
 know its secrets, but I'm open to having my mind changed on that discussion. There seems to be some inherent pride in that, when in many countries in
 the world, students learn to do Mathematics without ascribing an ego or talent to a capacity to do it. You learn if you put in the work, and you solve problems
