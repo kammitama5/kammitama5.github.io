@@ -30,6 +30,9 @@ You see, anyone who has a real reputation would never resort to this kind of act
 power than they do. You can usually tell because this sort of experience is an opportunity to help someone up, rather than push them down. At the time, I thought back to 
 the dissonace of my experience, where before grad school, the filter was "you can only do research if you are in a PhD programme", and how this also, proved to
 not be true. It was merely a filter.
+- Many times, these filters are never an issue unless those who benefit from them cease to, or are filtered out. I saw such a post this week on a social media
+platform, whereby someone who would typically be on the top tier of a field saw the unfairness of the current system, through one of their PhD students who was
+producing their first first-author paper, with good work. You are otherwise asked to accept the status quo as is.
 
 ## So why do I mention this?
 - Going back to Mathematics and my own research community, I see all of this and I realize that these are remnants of an era where there was an unquestioned hierarchy
