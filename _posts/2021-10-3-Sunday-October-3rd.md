@@ -26,7 +26,7 @@ But of course, at this stage, we both know that I am being taken for a walk, and
 This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. Unfortunately, the culture was so stale
 that I might have seen a few vultures circling.
 Firstly, I'm sorry if you're throwing up 
-already by the audacity of the senior researcher's move, but let me explain; it's what people who have positions of power and not much else do to assert power. 
+already by the audacity of the senior researcher's move, but let me explain; it's what people who have positions of power and not much else *do* to *assert power*. 
 You see, anyone who has a real reputation would never resort to this kind of action; they have nothing to prove, especially to someone with less
 power than they do. You can usually tell because this sort of experience is an opportunity to help someone up, rather than push them down. At the time, I thought back to 
 the dissonace of my experience, where before grad school, the filter was "you can only do research if you are in a PhD programme", and how this also, proved to
