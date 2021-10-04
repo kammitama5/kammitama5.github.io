@@ -6,7 +6,7 @@
 in our spare time we dreamt it, had a secret love affair with it. Maybe we didn't think we could do Maths, but we could hmm..learn Haskell?
 - Maybe doing a little data analysis could scratch that probability itch?
 - My dad and I had a discussion about "filters" as he called it, when he was growing up, and how those changed over time. You see, he grew up in a fairly oil-rich
-area of my country, and his father was one of the first non-white families to live in that area. Over time, he grew to see spaces that he could not take his 
+area of my country, and his father was head of one of the first non-white families to live in that area. Over time, he grew to see spaces that he could not take his 
 own friends become places that were for everyone. 
 - And it's true; my dad mentioned that when he was growing up, banking in my home country was a job, but at the managerial level, roles were reserved for the children
 of certain families, often the children of expats. Today, that is not the case; many of those structures have dissipated (although some still exist).
