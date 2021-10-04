@@ -21,8 +21,10 @@ a minute oligarchy that is hardly relevant in this age).
 because I had dared to take "an AI class". I call these filters that
 seek to maintain the structure in place; those that tell you (who has stepped out of line) to *know your place*. Often, these are illogical, almost absurd, but have been maintained by "useful idiots"
 who do not question its existence. I had a similar experience this summer when I asked about research at a lab and I was told that "it wasn't for me", and that I should
-try "after I completed my PhD". The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). I'm sorry if you're throwing up 
-already by the audacity of this move, but it's what people who have positions of power and not much else do to assert power. 
+try "after I completed my PhD". The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). 
+This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. 
+Firstly, I'm sorry if you're throwing up 
+already by the audacity of the senior researcher's move, but let me explain; it's what people who have positions of power and not much else do to assert power. 
 You see, anyone who has a real reputation would never resort to this kind of action; they have nothing to prove, especially to someone with less
 power than they do. You can usually tell because this sort of experience is an opportunity to help someone up, rather than push them down. At the time, I thought back to 
 the dissonace of my experience, where before grad school, the filter was "you can only do research if you are in a PhD programme", and how this also, proved to
