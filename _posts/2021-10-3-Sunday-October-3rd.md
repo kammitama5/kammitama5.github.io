@@ -23,7 +23,7 @@ seek to maintain the structure in place; those that tell you (who has stepped ou
 who do not question its existence. I had a similar experience this summer when I asked about research at a lab and I was told that "it wasn't for me", and that I should
 try "after I completed my PhD" (which is circular logic, because an Academic would be looking for a position *in Academia*, and not at such a place by then.
 But of course, at this stage, we both know that I am being taken for a walk, and that any or all reasons are merely empty attempts at pleasantries). The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). 
-This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. Unfortunately, the culture was so stale
+This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from (and a handful of others with less publications than I, who, as a recruiter and others had mentioned "networked"), almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. Unfortunately, the culture was so stale
 that I might have seen a few vultures circling.
 Firstly, I'm sorry if you're throwing up 
 already by the audacity of the senior researcher's move, but let me explain; it's what people who have positions of power and not much else *do* to *assert power*. 
