@@ -22,7 +22,8 @@ because I had dared to take "an AI class". I call these filters that
 seek to maintain the structure in place; those that tell you (who has stepped out of line) to *know your place*. Often, these are illogical, almost absurd, but have been maintained by "useful idiots"
 who do not question its existence. I had a similar experience this summer when I asked about research at a lab and I was told that "it wasn't for me", and that I should
 try "after I completed my PhD". The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). 
-This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. 
+This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. Unfortunately, the culture was so stale
+that I might have seen a few vultures circling.
 Firstly, I'm sorry if you're throwing up 
 already by the audacity of the senior researcher's move, but let me explain; it's what people who have positions of power and not much else do to assert power. 
 You see, anyone who has a real reputation would never resort to this kind of action; they have nothing to prove, especially to someone with less
