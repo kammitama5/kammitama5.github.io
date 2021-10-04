@@ -21,7 +21,7 @@ a minute oligarchy that is hardly relevant in this age).
 because I had dared to take "an AI class". I call these filters that
 seek to maintain the structure in place; those that tell you (who has stepped out of line) to *know your place*. Often, these are illogical, almost absurd, but have been maintained by "useful idiots"
 who do not question its existence. I had a similar experience this summer when I asked about research at a lab and I was told that "it wasn't for me", and that I should
-try "after I completed my PhD". The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). 
+try "after I completed my PhD" (which is circular logic, because an Academic would be looking for a position *in Academia*, and not at such a place by then. The researcher also gave me a copy of their thesis, as an example of what I should aspire to (lol). 
 This was also after I had seen a showcase in which many of the mentors were alumni of the very schools the interns were from, almost perpetuating research incest. I left early, with a well of disappointment at the bottom of my stomach, because I had idolized this lab for many years. Unfortunately, the culture was so stale
 that I might have seen a few vultures circling.
 Firstly, I'm sorry if you're throwing up 
