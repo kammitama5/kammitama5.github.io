@@ -66,6 +66,8 @@
 - I've been invited to (and will attend) Fb's Virtual Vivid in Research event for PhD students
 - I have been funded to attend the Upstate Number Theory Conference 2021!
 - The episode I did on [Hanselminutes](https://hanselminutes.com/807/finding-your-path-to-technology-with-krystal-maughan) came out! :)
+- The article on [MacArthur Foundation's Commitment to Diversification in AI](https://www.macfound.org/press/grantee-stories/strengthening-ai-diversity) came out, and I'm quoted in it :)
+- I will be participating in community-driven-crypto, a joint seminar for participants in cryptography, privacy and security.
 
 ## 2020
 
