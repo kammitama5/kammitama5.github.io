@@ -48,7 +48,7 @@ unexpected.
 until the 21st (wonk wonk). But, we did spend time today talking about triangle-free graphs and chromatic numbers and [Brooks' Theorem](https://en.wikipedia.org/wiki/Brooks%27_theorem). We usually spend our time thinking about
 how they (critical graphs) can be coloured. [Triangle-free graphs](https://en.wikipedia.org/wiki/Triangle-free_graph) are super interesting! I also learned a little bit about [Mycielski's graph](https://en.wikipedia.org/wiki/Mycielskian)
 and the [Hadwiger-Nelson problem](https://en.wikipedia.org/wiki/Hadwiger%E2%80%93Nelson_problem). I also got linked to a 98 page paper on Minimum Saturated Graphs that I might dig into if I stay up tonight.
-I think I'm attending a Turan numbers talk this week, as well. 
+I think I'm attending a Rainbow numbers talk this week, as well. Edit: I attended a talk on De Bruijn cycles, which spoke about some information theoretic properties, as well as a talk on Rainbow colours, where I learned about [Schur colouring](https://en.wikipedia.org/wiki/Schur%27s_theorem). The latter was kind of intimidating in that I was in a breakout room with three Maths professors trying to find the Rainbow sets for our given equation, but it was very well worth it! 
 
 ## Hacker stuff and Cryptography stuff
 - I started participating (via an invitation) in a cryptography seminar that focuses on impact, spearheaded by some people at Brown and John Hopkins. We just
