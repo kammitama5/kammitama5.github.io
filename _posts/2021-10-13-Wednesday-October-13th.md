@@ -62,7 +62,8 @@ especially the after-dark session. On Sunday, I think I stayed up until 6am, and
 running. A part of me really misses that group of people, because it was so much fun and it really felt like a family of dorks (in a good way), which was nice
 because it was so much of a fit, a place of glorious misfits who are perpetually curious; it's a space where I can be myself. Things got really wild at 4am when people started singing "Don't stop believing"
 and dancing in sequin cowls, and it was bittersweet having had such a great time virtually, but knowing that after the sun rose, it would be over soon. It made
-me also miss DEF CON; I need to make it back out there again sometime.
+me also miss DEF CON; I need to make it back out there again sometime. Oh, I also found out that I won the raffle at ShellCon! So I got a wireless Sonos speaker!
+How cool is that? Coincidentally, this is at least the second thing I've won at a hacker conference; the other was a free pass for AppSec. I usually have pretty good odds at raffle-y things in general.
 - I signed up for this Wireshark event this week for fun, too. It sounds silly, but it's a great way for me to unwind and meet like-minded people at the end of
 the week. So I'm looking forward to that, too. It's funny how even though I'm on the East Coast, a lot of my social events have been on the West Coast. Life is 
 weird.
