@@ -70,6 +70,7 @@
 - I have been invited to be a reviewer for the AFCR (Accountability, Fairness, Causality and Robustness) conference at NeurIPS
 - I have been invited to be a reviewer for the Black in AI workshop at NeurIPS
 - I will be participating in community-driven-crypto, a joint seminar for participants in cryptography, privacy and security.
+- I have been chosen as a mentee for the LXAI mentorship program at NeurIPS 2021!
 
 ## 2020
 
