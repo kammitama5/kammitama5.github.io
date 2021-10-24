@@ -10,7 +10,7 @@ thinking about some problems in common with some of the work I'm focusing on, an
 "feels like it could be blown open any minute", because it's true. She gave a talk on post-quantum cryptography, and three interesting open problems,
 one of which involved work that myself and some of her other students are working on, and at least another of the three that I also know one of 
 her other students is working on, too. It was really well received!
-- I also got to hang out with two of the PhD Maths students from our school; we found this tiny Pizzeria place near the conf location
+- I also got to hang out with two PhD Maths students from our school; we found this tiny Pizzeria place near the conf location
 that had the BEST food. I was SO happy, especially considering just last week, I had unfortunately bought some soup from a location in my state and it was so
 bland that I dumped it into a cooking pan, added seasoning, and then retried consuming it.
 
