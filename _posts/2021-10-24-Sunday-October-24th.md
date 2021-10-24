@@ -19,6 +19,8 @@ bland that I dumped it into a cooking pan, added seasoning, and then retried con
 been in this community for a long time! It's been since about 2017 or 2018, to be honest. Everyone was so nice! 
 
 ## Who told you Number Theory confs don't have computers?
+- An Apple II! Reminded me of being at [CHM in Mountain View!](https://www.computerhistory.org/babbage/) 
+
 <img src="/images/unt2021/unt1.png" width="500">
 
 ## Some Olivier models I took photos of
