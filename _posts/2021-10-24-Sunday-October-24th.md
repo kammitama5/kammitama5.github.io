@@ -71,7 +71,7 @@ but I am now at a "more advanced" level, in a field that some persons may dub to
 say that my first degree prepared me even better to think critically and deeply about these issues, and for that, I'm super grateful.
 - Years ago (2012?), last week, I saw that I had been reading Emerson's "Self-Reliance". I made a pledge to myself to never lose that part of myself
 while doing science that cares about these kinds of questions. I think that they are particularly important for fields like Privacy, Cryptography,
-etc because they are built upon an inherent trust by people, that we (people who make those technologies) have our best interest at heart. 
+etc because they are built upon an inherent trust by people, that we (people who make those technologies) have their best interest at heart. 
 This is something in undergrad I came across again and again; if I am asking you to do an interview with me, the person might trust that I will show
 them in a good light, or that I will tell their story in a way that is faithful. But it isn't guaranteed. I might have a malicious intent, or an agenda.
 
