@@ -22,6 +22,7 @@ been in this community for a long time! It's been since about 2017 or 2018, to b
 <img src="/images/unt2021/unt1.png" width="500">
 
 ## Some Olivier models I took photos of
+- You can read about it [here](https://www.union.edu/mathematics/olivier-models)
 <img src="/images/unt2021/unt2.png" width="400">
 
 <img src="/images/unt2021/unt3.png" width="400">
