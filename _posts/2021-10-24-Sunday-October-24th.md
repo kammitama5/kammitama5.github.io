@@ -39,7 +39,7 @@ been in this community for a long time! It's been since about 2017 or 2018, to b
 Theory conference at Cornell. It must have been either 2018 or 2019, but it was before grad school. I wrote a really long
 letter stating why I really wanted to attend, and was granted funding. Apparently, he remembered me! And he was happy to hear
 all that I had been doing, and that I was still involved in the Number Theory community. How cool is that!? My advisor said that was such a wonderful
-story, and that I already knew people in this community!
+story, and that I already knew people in this community! Omg yes!
 
 <img src="/images/unt2021/unt6.png" width="400">
 
