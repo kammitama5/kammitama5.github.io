@@ -13,6 +13,9 @@ her other students is working on, too. It was really well received!
 - I also got to hang out with two PhD Maths students from our school (Anton and Rick); we found this tiny Pizzeria place near the conf location
 that had the BEST food. I was SO happy, especially considering just last week, I had unfortunately bought some soup from a location in my state and it was so
 bland that I dumped it into a cooking pan, added seasoning, and then retried consuming it.
+- It was a fun group! In one of the contributed talks, the author said that "we realize we aren't any closer to solving the problem, but instead,
+we have now made a big old mess of the problem. So what do we do? We give it a name!" and with that, the entire room erupted in laughter. It was a good,
+fun time!
 
 ## One of the coolest surprises
 - One of the coolest surprises was seeing a professor from years ago, who is at Cornell, who apparently remembered me! It reminded me that I've
