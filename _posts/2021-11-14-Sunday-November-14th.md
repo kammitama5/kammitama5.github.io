@@ -74,7 +74,7 @@ I've been making excuses for not getting other tasks done, but making time at al
 researcher friend once told me "I too like useless things". And I've committed to working through a Real Algebra book during Christmas break.
 I get to pick classes for next semester this week, too! I am so gloriously happy!
 - My time so far has been so enjoyable, I've seriously been considering going back to do a Master's in Pure Mathematics somewhere afterwards, but
-everyone else around me says that's a big unnecessary. However, right now, if I can delay dealing with the curse of bad recruiters, then how is that
+everyone else around me says that's a bit unnecessary. However, right now, if I can delay dealing with the curse of bad recruiters, then how is that
 a bad thing? Perhaps the right opportunity might convince me otherwise.
 
 ## Anyways
