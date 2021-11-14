@@ -1,6 +1,8 @@
 ## The Maths Commune and Other Thoughts
 
+
 ## I had a really unfortunate incident
+
 - For those of you who know me, I'm often incredibly busy. There are lots of people I just may never have the ability to grant a response
 (even though I try, and I'm sorry! I might find time to do this over break). This recruiting season has been really hectic for me, and it led to my deciding
 not to pursue some really great opportunities. I'm going to be a bit more specific and explain what I mean by that; what I'm saying is that
