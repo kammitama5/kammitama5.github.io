@@ -96,7 +96,7 @@ a bad thing? Perhaps the right opportunity might convince me otherwise.
 ## Anyways
 - I have a bunch of work to do, and I have the goal of finishing it so that I can do more Abstract Algebra (haha).
 - Oh, I ended up signing up for classes next semester. So far, I'm taking Fields and Ring Theory, Probabilistic Graph Theory and Elliptic Curves. 
-I am ecstatic. I don't think I've ever been so happy ever in grad school, or in life! I can't wait! Grad school is ah-mazing! *does a fancy dance*
+I am ecstatic. Oh, and I'm sitting in on a Number Theory course, and I've even been offered that I can sit in on a Topology course, too, because they're all so nice! I don't think I've ever been so happy ever in grad school, or in life! I can't wait! Grad school is ah-mazing! *does a fancy dance*
 
 ## And that's it
 
