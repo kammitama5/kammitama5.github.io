@@ -48,9 +48,11 @@ leave with a cross-pollination of ideas and inspiration, regardless of what inst
 as an upper bound?", as though he was working out the question in his head while speaking with me, that I shook my head and said "I don't know I don't know".
 And he repeated it, and I finally thought for a bit and said "that makes sense", and understood what he was saying, as he explained his thought process to the rest of our group, too. I realized afterwards that I had been so used to not being asked and valued as someone whose 
 technical expertise *mattered*, that I was in shock that these students *did value* my intelligence, and what I had to contribute. Could you imagine if
-there was I giant space like that, where people could expect that you, too, could contribute, without first wanting to find out "which school are you from"
+there was a giant space like that, where people could expect that you, too, could contribute, without first wanting to find out "which school are you from"
 or "what major are you?". I've unexpectedly found that, and in my deepest of dreams I wished everyone could experience that. After years of being a 
-technical person in filmmaking, and being constantly nudged aside or ignored by recruiters at booths at tradeshows. To be seen.
+technical person in filmmaking, and being constantly nudged aside or ignored by recruiters at booths at tradeshows. Or overhearing that "she isn't serious" because I didn't start programming when I was 10. Or being used as a prop so someone could get an ego trip because "she probably doesn't know anything, or isn't technical at all.". To be seen. As one of my Pure Maths professors says; she likes persons with enthusiasm because they tend to be the persons who push through problems
+and eventually get very good at it. Imagine giving people the *opportunity* to succeed and achieve their goals. Imagine that in space where everyone is treated
+with *dignity* and *respect*, and given an opportunity to fail, learn, and improve and "git good".
 - There are some places that kind of do this for Computer Science, but eventually, they either become clouded by the issue of rank and prestige, and
 I'm not sure how to make sure to democratize those kinds of issues. So it becomes a mark of privilege to say you "got in" or whatever, which I think
 is a bit silly. I've enjoyed my time in grad school this past year so much just because it's been a bunch of people who just really find joy in Pure
