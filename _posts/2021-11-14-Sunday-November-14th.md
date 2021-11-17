@@ -53,6 +53,13 @@ or "what major are you?". I've unexpectedly found that, and in my deepest of dre
 technical person in filmmaking, and being constantly nudged aside or ignored by recruiters at booths at tradeshows. Or overhearing that "she isn't serious" because I didn't start programming when I was 10. Or being used as a prop so someone could get an ego trip because "she probably doesn't know anything, or isn't technical at all.". To be seen. As one of my Pure Maths professors says; she likes persons with enthusiasm because they tend to be the persons who push through problems
 and eventually get very good at them. Imagine giving people the *opportunity* to succeed and achieve their goals. Imagine that in space where everyone is treated
 with *dignity* and *respect*, and given an opportunity to fail, learn, and improve and "git good".
+- One of the wonderful things that I've enjoyed about working with Mathematicians, and working with chalk and blackboards, is that they really do work
+away at a problem, and push its limits, in a length of time that (unfortunately) many Computer Science persons might have long given up on. They can sit
+with a question for hours, or come back in weeks, or change their entire thoughts about the contraints of a problem with one new detail. And I think that
+that's lovely. If anything, in the same way that I really think languages like Haskell or C++ help you to spend time on and invest in learning,
+I really am enjoying that you have to sit with and wrestle with problems in this space and take the time to think deeply. You have to be patient.
+Sometimes in my workshops, there will just be silence, and everyone is just looking, thinking about the problem. There is no need to speak, or to give 
+up in frustration. Just to think. I think especially today, spaces and opportunities like that are super important.
 - There are some places that kind of do this for Computer Science, but eventually, they either become clouded by the issue of rank and prestige, and
 I'm not sure how to make sure to democratize those kinds of issues. So it becomes a mark of privilege to say you "got in" or whatever, which I think
 is a bit silly. I've enjoyed my time in grad school this past year so much just because it's been a bunch of people who just really find joy in Pure
