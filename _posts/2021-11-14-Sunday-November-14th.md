@@ -44,7 +44,7 @@ for a space away from a lot of this nonsense of rank, prestige, financial judgme
 or anything like that, too.
 - I like the format of Mars College, as well, which is to have persons talk about problems, or work together in groups and teach each other. So persons
 leave with a cross-pollination of ideas and inspiration, regardless of what institutions (or not) they came from.
-- This week, I was so in shock that one of the PhD Mathematics students, in my extremal graph theory seminar, turned to me and said "isn't it n choose h
+- This week, I was so in shock that one of the PhD Mathematics students, in my extremal graph theory seminar, turned to me and said "isn't it ```n choose h```
 as an upper bound?", as though he was working out the question in his head while speaking with me, that I shook my head and said "I don't know I don't know".
 And he repeated it, and I finally thought for a bit and said "that makes sense", and understood what he was saying, as he explained his thought process to the rest of our group, too. I realized afterwards that I had been so used to not being asked and valued as someone whose 
 technical expertise *mattered*, that I was in shock that these students *did value* my intelligence, and what I had to contribute. Could you imagine if
