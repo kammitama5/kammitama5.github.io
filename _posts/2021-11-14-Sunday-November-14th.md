@@ -39,7 +39,7 @@ culture of the pure Mathematicians, and strangely realize I've hung out with a l
 kind of this need for a space where persons can think deeply and make friendships and take a break from everything. There are spaces like MSRI
 and ICERM that exist for this, but there is a need for funding and that can be super-competitive, and it's still within the bounds of Academia.
 So it would be really cool to have a space where people built polytopes (like the [hexayurts of Mars College](https://mars.college/gallery/hexayurt/)),
-where they are blackboards everywhere and people could just do proofs and things like that. But I'm not about to start a cult, I swear. I'm just looking
+where there are blackboards everywhere and people could just do proofs and things like that. But I'm not about to start a cult, I swear. I'm just looking
 for a space away from a lot of this nonsense of rank, prestige, financial judgment as moral judgment. And there would be no oglibation to do research
 or anything like that, too.
 - I like the format of Mars College, as well, which is to have persons talk about problems, or work together in groups and teach each other. So persons
