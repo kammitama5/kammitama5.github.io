@@ -3,6 +3,8 @@
 ## Some grad students have books
 - Some grad students have a space for books they are reading or have read or recommend along the way of study. Here are a list of ones on my radar,
 either that I'm currently making my way through, will in the very near future, or will during my research for foundational knowledge.
+Okay, let me be more honest; at the time of my writing this, these are all on my bed or on my working desk, meaning that I've fallen asleep
+while reading them, gotten up again to work through them, rinse, repeat. But I'm determined to get through *every single one*.
 - I thought about sorting them, or putting them in order of "more undergraduate-y" or "definitely graduate", but I decided not to do this.
 I don't think it matters; it's more of a "some of these are helpful, depending on what your needs are" kind of space.
 - Make of it what you will *shrug*.
