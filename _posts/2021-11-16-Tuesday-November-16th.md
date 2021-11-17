@@ -11,7 +11,7 @@ I don't think it matters; it's more of a "some of these are helpful, depending o
 
 ## Books
 - "Prime Numbers: A Computational Perspective" by Crandall, R. and Pomerance C.
-- "Rational Points on Ellpitic Curves" by Silverman J. and Tate J.
+- "Rational Points on Elliptic Curves" by Silverman J. and Tate J.
 - "How to Solve It" by Polya G.
 - "Topological Graph Theory" by Gross J. and Tucker T.
 - "Contemporary Abstract Algebra" by Gallian J.
