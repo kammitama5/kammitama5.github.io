@@ -22,6 +22,7 @@ either that I'm currently making my way through, will in the very near future, o
 
 ## Papers
 - I'm not that great at keeping track right now, but I do have a github repo with these.
+- Perhaps after I've completed everything, I'll make this public.
 
 ## For Future
 - It would be nice to look back or add to over the years references that were useful to me, so why not start now.
