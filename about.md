@@ -71,7 +71,7 @@ a Compilers course in Haskell and another CS course.
 - [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
 ### Books I'm currently reading
-- [Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
+- [What I'm reading: Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
 
 ## Awesome other things I used to enjoy!
 - [Women's Sailing Association of Santa Monica Bay](https://wsasmb.org/): I was a member and raced in WOW-WAH twice (once on MyTime3 and another on Harmony).
