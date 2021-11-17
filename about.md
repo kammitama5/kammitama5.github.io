@@ -70,6 +70,9 @@ a Compilers course in Haskell and another CS course.
 - [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
 - [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
+### Books I'm currently reading
+- [Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
+
 ## Awesome other things I used to enjoy!
 - [Women's Sailing Association of Santa Monica Bay](https://wsasmb.org/): I was a member and raced in WOW-WAH twice (once on MyTime3 and another on Harmony).
 - Hanging out at [Del Rey Yacht Club](https://www.kcrw.com/news/shows/greater-la/off-to-the-sailboat-races-with-a-nearly-all-female-crew/a-ride-along-with-women-sailboat-racers-in-marina-del-rey): learn about the fact that they started because of exclusion from other yacht clubs! I sometimes raced in a boat there called Mexican Divorce.
