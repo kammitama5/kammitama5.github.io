@@ -44,6 +44,13 @@ for a space away from a lot of this nonsense of rank, prestige, financial judgme
 or anything like that, too.
 - I like the format of Mars College, as well, which is to have persons talk about problems, or work together in groups and teach each other. So persons
 leave with a cross-pollination of ideas and inspiration, regardless of what institutions (or not) they came from.
+- This week, I was so in shock that one of the PhD Mathematics students, in my extremal graph theory seminar, turned to me and said "isn't it n choose h
+as an upper bound?", as though he was working out the question in his head while speaking with me, that I shook my head and said "I don't know I don't know".
+And he repeated it, and I finally thought for a bit and said "that makes sense", and understood what he was saying, as he explained his thought process to the rest of our group, too. I realized afterwards that I had been so used to not being asked and valued as someone whose 
+technical expertise *mattered*, that I was in shock that these students *did value* my intelligence, and what I had to contribute. Could you imagine if
+there was I giant space like that, where people could expect that you, too, could contribute, without first wanting to find out "which school are you from"
+or "what major are you?". I've unexpectedly found that, and in my deepest of dreams I wished everyone could experience that. After years of being a 
+technical person in filmmaking, and being constantly nudged aside or ignored by recruiters at booths at tradeshows. To be seen.
 - There are some places that kind of do this for Computer Science, but eventually, they either become clouded by the issue of rank and prestige, and
 I'm not sure how to make sure to democratize those kinds of issues. So it becomes a mark of privilege to say you "got in" or whatever, which I think
 is a bit silly. I've enjoyed my time in grad school this past year so much just because it's been a bunch of people who just really find joy in Pure
@@ -79,6 +86,8 @@ a bad thing? Perhaps the right opportunity might convince me otherwise.
 
 ## Anyways
 - I have a bunch of work to do, and I have the goal of finishing it so that I can do more Abstract Algebra (haha).
+- Oh, I ended up signing up for classes next semester. So far, I'm taking Fields and Ring Theory, Probabilistic Graph Theory and Elliptic Curves. 
+I am ecstatic. I don't think I've ever been so happy ever in grad school, or in life! I can't wait! Grad school is ah-mazing! *does a fancy dance*
 
 ## And that's it
 
