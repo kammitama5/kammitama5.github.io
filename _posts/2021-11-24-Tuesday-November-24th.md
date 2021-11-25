@@ -28,6 +28,10 @@ and their definition of "diverse perspectives" that simultaneously seeks to deny
 but that discussion is for another time.
 - You celebrate your identity, and your heritage, but I must mute mine.
 - Furthermore, if I lost that, my reliance on validation would come directly from the acceptance of an outside entity. That is dangerous and unhealthy.
+- Late last week, I went to a restaurant specifically because they have virgin pina coladas (I like coconut because from island), and a gentleman sitting at the bar
+struck up a conversation with me. I was only there for a few minutes to pay for and leave with my drink. Within a few minutes, it was clear that he wanted to engage in a d!ck measuring contest for some reason, which unsettled me. He said that "well,
+things are pretty hard where you're from and that's why you're here, right?". An immediate need to show dominance. What was funny is that he kept ordering things while I was there, like "what the heck, I'll order a lobster too!", and in retrospect, it was simultaneously hilarious and pathetic with a wave of desperation (notice me notice me), like something out of a movie, and I really hope when I left he could pay for his bill. I explained that no; our country is an oil country, but we didn't have the initial thing I wanted to study; it was a burgeoning field, but I didn't feel compelled to go down that path anymore. And certainly, I wouldn't be here, in this particular state, to look
+for riches (lol). This incensed him, so he immediately ordered a martini on top of everything (what the heck why not!) It's an interesting example of how there was an immediate need to devalue what I came from, to validate an insecurity of his own. A missed opportunity to make a level-headed connection. Oh well.
 
 ## The Tracks
 - When I was in Undergrad, I listened a LOT to the music of local musicians. I still do. I used to hang around and sometimes work for calypsonian tents,
