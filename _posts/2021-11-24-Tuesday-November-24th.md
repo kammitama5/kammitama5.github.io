@@ -13,7 +13,7 @@ media seemed clueless. Interestingly, talk radio is one of those things that see
 you a lot about what is in the air in America. I started listening to black media recently (I joked the other day that by the time I have 
 completed my time at this predominantly-white institution, I will be wearing a dang Dashiki to protect myself emotionally and spiritually from this place LOL); 
 in particular, 
-black speaker I was listening to this week said something to the extent of how we go to institutions
+a black speaker I was listening to this week said something to the extent of how we go to institutions
 and organizations that hate our very being there, and treat us like trash and that our education starts at home; our homes should define our values (which I agree with). 
 Something about that resonated with me (besides the fact that it's true). It says something deeper about the fact that there are so many broken homes,
 and what that means for what "education" at these institutions can provide (and where it falls short). I grew up in a very wholesome home with two highly educated parents
