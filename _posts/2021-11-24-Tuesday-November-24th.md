@@ -26,7 +26,7 @@ and I'm not saying that in a "I see race everywhere" kind of way, but I initiall
 that "those things don't matter" is an affront to that existence and my heritage. This ties into some larger issues I have systemically with institutions
 and their definition of "diverse perspectives" that simultaneously seeks to deny certain types of diversity (as though they have less value while uplifting others as ideal),
 but that discussion is for another time.
-- You celebrate your identity, and your heritage, but I must mute mine.
+- You celebrate your identity, and your heritage, but I must mute mine (how colonialist).
 - Furthermore, if I lost that, my reliance on validation would come directly from the acceptance of an outside entity. That is dangerous and unhealthy.
 - Late last week, I went to a restaurant specifically because they have virgin pina coladas (I like coconut because from island. Hilariously, when I first moved to LA, one of the cashiers at the Von's next to where I lived in Burbank used to refer to me as "the coconut girl" because I would buy lots of fresh coconuts), and a gentleman sitting at the bar
 struck up a conversation with me. I was only there for a few minutes to pay for and leave with my drink. Within a few minutes, it was clear that he wanted to engage in a d!ck measuring contest for some reason, which unsettled me. He said that "well,
