@@ -24,7 +24,7 @@ and an attempt to brainwash and detach me from my identity. You see, if I forget
 lose my connection to my community and what makes me unique. A lot of my purpose since I've arrived in the United States has been so inextricably tied to that;
 and I'm not saying that in a "I see race everywhere" kind of way, but I initially came to the United States to tell "our" stories. So the mere insinuation
 that "those things don't matter" is an affront to that existence and my heritage. This ties into some larger issues I have systemically with institutions
-and their definition of "diverse perspectives" that simultaneously seeks to deny certain types of diversity,
+and their definition of "diverse perspectives" that simultaneously seeks to deny certain types of diversity (as though they have less value while uplifting others as ideal),
 but that discussion is for another time.
 - Furthermore, if I lost that, my reliance on validation would come directly from the acceptance of an outside entity. That is dangerous and unhealthy.
 
