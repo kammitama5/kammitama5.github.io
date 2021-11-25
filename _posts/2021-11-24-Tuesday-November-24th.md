@@ -26,6 +26,7 @@ and I'm not saying that in a "I see race everywhere" kind of way, but I initiall
 that "those things don't matter" is an affront to that existence and my heritage. This ties into some larger issues I have systemically with institutions
 and their definition of "diverse perspectives" that simultaneously seeks to deny certain types of diversity (as though they have less value while uplifting others as ideal),
 but that discussion is for another time.
+- You celebrate your identity, and your heritage, but I must mute mine.
 - Furthermore, if I lost that, my reliance on validation would come directly from the acceptance of an outside entity. That is dangerous and unhealthy.
 
 ## The Tracks
