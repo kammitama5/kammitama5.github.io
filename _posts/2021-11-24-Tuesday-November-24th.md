@@ -21,7 +21,7 @@ who have been together forever, so I don't take *anyone* trying to redefine my v
 - I remember a while ago, someone at my school tried to manipulate me into thinking that I cared too much about those things. Of course, she was not black,
 but benefitted not only from specific privileges (I am using the word as per its definition, not as a colloquialism of today) because of direct nepotism and ties of academic power within our institution. Looking back, it was a way of gaslighting
 and an attempt to brainwash and detach me from my identity. You see, if I forget about certain parts that make me who I am, I lose my sense of self. I also
-lose my connection to my community and what makes me unique. A lot of my purpose since I've arrived in the United States has been so inextricably tied to that;
+lose my connection to my community and what makes me unique; all the good things that you value about me are disentangled with the things that make me myself, including this part of myself. A lot of my purpose since I've arrived in the United States has been so inextricably tied to that;
 and I'm not saying that in a "I see race everywhere" kind of way, but I initially came to the United States to tell "our" stories. So the mere insinuation
 that "those things don't matter" is an affront to that existence and my heritage. This ties into some larger issues I have systemically with institutions
 and their definition of "diverse perspectives" that simultaneously seeks to deny certain types of diversity (as though they have less value while uplifting others as ideal),
