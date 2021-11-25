@@ -36,7 +36,8 @@ Besides the fact that it's musically brilliant, and contains a lot of instrument
 - He was creating a new artform, and talks about keeping the family together, raising children properly, and even quotes Proverbs in some of the songs.
 One of the songs, Play On, in particular, talks about what it means to do one's work in spite of outside validation. One of the lines he says is, 
 "if you are a true (steel-)pan player, there will be no need for green paper", meaning that one should not need to seek out the support and validation of the United States.
-For a lot of our local musicians, or many foreign artists, there is this struggle between what it means to be successful, and if that means that one
+- He also says "don't be carried away by applause they give you", which I've always interpreted to mean to be mindful of one's ego. It's brilliant.
+- For a lot of our local musicians, or many foreign artists, there is this struggle between what it means to be successful, and if that means that one
 should achieve a level of validation from countries like the United States. 
 - I also thought about this in the context of Netflix's popular show, "Squid Game". I think it's fantastic that a show was able to achieve so much
 success outside of the traditional studio system, and I remember having a similar conversation with my friend, who has worked in the system for years,
