@@ -70,6 +70,7 @@ and I'm doing fine, but I've been thinking more deeply about how a community can
 in terms of our values, knowledge and our stories. How does that affect our vision of the future, plans for the future.
 To have the means to go out and do the things you want to do, and educate yourself in a way that is powerful to your mind and not traumatic and 
 makes you feel like trash for the sake of getting a piece of paper.
+- And creating your own "thing" comes from understanding that your own has value, loving your own and being able to cultivate a community around it.
 
 ## This week
 - I'm mostly working through stuff, resting, and I've already been asked to do a podcast and work on a review for something else. so I'm pretty busy.
