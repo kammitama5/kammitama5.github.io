@@ -72,6 +72,9 @@
 - I will be participating in community-driven-crypto, a joint seminar for participants in cryptography, privacy and security.
 - I am giving a talk on Isogenies at the CSRMP alumni Research showcase! (yay isogenies!!!!)
 - I have been chosen as a mentee for the LXAI mentorship program at NeurIPS 2021!
+- I am doing a podcast with Corecursive
+- I was invited to a recruiting event and tech talk (1 of 14 persons chosen) for Hudson River Trading (HRT)
+- I have accepted a Summer Research Internship for summer 2022 and am SUPER excited about it!!!!
 
 ## 2020
 
@@ -171,7 +174,7 @@
 - A reading of our work from the Dark Matters Zine will be on  Montez Press Radio in 2021 (previous guests have been S. Browne) [ December ]
 - I have been accepted to the Jane Street PhD Symposium and will be presenting the research I've been working on in a 10 to 15 minute presentation in January. Stoked! [ December ]
 - I am doing a YT interview, "Tech Girl Thursdays" [ December ]
-- I am diong an interview on our research for OM TBD [ December ]
+- I am doing an interview on our research for OM TBD [ December ]
 
 
 ## 2019
