@@ -26,6 +26,7 @@ I don't think it matters; it's more of a "some of these are helpful, depending o
 - "Real Analysis" by Cummings J.
 - "Abstract Algebra" by Dummit D. and Foote R. (fun fact; they taught at my University while they wrote this)
 - "Abstract Algebra" by Hernstein, I. N.
+- "Proofs From the Book" by M. Aigner, G.M. Ziegler and K. Hofmann : thank you Cole and Tyler :)
 
 ## Papers
 - I'm not that great at keeping track right now, but I do have a github repo with these.
