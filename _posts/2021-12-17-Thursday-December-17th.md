@@ -1,4 +1,4 @@
-## My First WCNT!
+## My First WCNT
 
 ## I attended my first WCNT!
 - What is WCNT? It's the West Coat Number Theory conference traditionally, which is virtual this year, and referred to as
