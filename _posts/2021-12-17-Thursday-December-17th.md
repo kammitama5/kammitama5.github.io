@@ -50,6 +50,6 @@ collaborate, but it isn't really common. I think it would be cool if there were 
 
 ## Anyways
 - I have a social to attend, and then I'm going to catch a nap and catch my flight (hopefully..fingers crossed).
-- Pretty pictures to come!
+- Pretty pictures to come (I promise)!
 
 ## And that's it
