@@ -5,9 +5,9 @@
 
 ## I attended my first WCNT
 - What is WCNT? It's the West Coat Number Theory conference traditionally, which is virtual this year, and referred to as
-"Problems in Number Theory" this year. You can find the schedule.
+"Problems in Number Theory" this year. You can find the schedule [here](https://westcoastnumbertheory.org/2021-schedule-of-talks/).
 - And what is so special about this conference? Well, in a recent Number Theory conference, 80 percent of persons an organizer spoke with said that
-persons said their first Maths talk had been at this very conference. How cool is that!?
+persons said their first Maths talk had been at this very conference. How cool is that?
 - I didn't know what to expect, but essentially, there is an entire breakdown, including that "every idea deserves 15 minutes." So everyone who signs up
 gets an opportunity to present 15 minutes of a problem or work they find interesting. It's also a really friendly, collaborative space.
 - As they put it, "Everyone is welcome" and "Strive for excellence, not perfection". Your talk is not meant to be some super polished work; it's a place
