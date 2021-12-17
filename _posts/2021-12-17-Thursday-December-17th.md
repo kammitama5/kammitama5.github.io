@@ -32,7 +32,7 @@ gets the same 15 minutes, which is interesting!
 ## Problem Sessions
 - There are motivated problem sessions, which interestingly, over the years have been collected and have resulted in persons coming back in the future
 to present their work from some of these problems, which is pretty cool! So that's one thing that's super interesting in comparison to a lot of the CS
-conferences; there seems to be a lot more brainstorming, without a need for unfinished work, and researchers willing to meet and collaborate, which has
+conferences; there seems to be a lot more brainstorming, without a need for finished work, and researchers willing to meet and collaborate, which has
 been really great for me. 
 - In the past, as a new-ish (I say ish because I've started my PhD a few years now) PhD student who didn't have research experience before, CS groups can
 unfortunately feel a bit cliquey, so if you aren't a known entity in research, you can find that it feels like everyone around you seems to be collaborating
