@@ -51,6 +51,12 @@ In Maths, I've had dozens of persons reach out and ask if I'd be okay with worki
 my PhD this unexpectedly happened!), research, etc. I've been asked by a really nice guy in CS who does programming languages research before grad school to 
 collaborate, but it isn't really common. I think it would be cool if there were more opportunities like this across the board in CS. 
 
+## Socials / Happy Hour
+- I learned a few random things:
+   - there is a Fibonacci lake (in Maryland)!
+   - [Goormaghtigh conjecture](https://en.wikipedia.org/wiki/Goormaghtigh_conjecture) (this one was tough to spell)
+   - The work of [Helaman Ferguson](https://en.wikipedia.org/wiki/Helaman_Ferguson), a sculptor who uses Maths who developed the [PSLQ algorithm](https://en.wikipedia.org/wiki/PSLQ_algorithm).
+
 ## Anyways
 - I have a social to attend, and then I'm going to catch a nap and catch my flight (hopefully..fingers crossed).
 - Pretty pictures to come (I promise)!
