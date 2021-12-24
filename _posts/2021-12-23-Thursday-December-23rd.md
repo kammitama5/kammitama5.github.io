@@ -18,8 +18,7 @@ to his videos. Years ago, I was a [NASA Aerospace scholar](https://www.jpl.nasa.
 for space. Since Physics was one of my favourite subjects in school, I enjoy learning about that stuff. I also trend towards liking to work at companies where
 they either build things, or that sort of knowledge about the world (physical things, materials, industry) is useful. And that makes sense because I grew up
 in a country that has several natural resources like oil and natural gas, and inherently know some things about those industries. I've also worked on shows
-both in theatre and film in which we worked "load in and strike", which meant I had to work out of a lift or hammer pulling apart sets with the crew, and taking
-down lights. We even figured out one time how to make a pulley system to hoist pizza slices!
+both in theatre and film in which we worked "load in and strike", which meant I had to work out of a lift or use tools like a hammer or adjustable wrench for taking down lights and pulling apart sets with the crew. We even figured out one time how to make a pulley system to hoist pizza slices up and down the lift!
 - These days, I've been reading a lot about real estate in general, in terms of pricing based on location and construction / materials as a hobby. I just enjoy it, I guess.
 
 ## Pretty pictures: A story
