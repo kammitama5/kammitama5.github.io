@@ -30,7 +30,7 @@ I might try the videos once I get back and make them a morning routine thing dur
   - compact sets
   - Heine-Borel Theorem
   - [A Pedagogical History of Compactness](https://arxiv.org/pdf/1006.4131.pdf) which talks about compactness, the Intermediate Value Function and Bolzano, Heine, Borel, Lebesgue, Weierstrass, Cantor’s work, Poincare, Hausdorff and Dedekind
-  - Frechet’s definition of sequential compactness, Cousin’s Theorem)
+  - Frechet’s definition of sequential compactness, Cousin’s Theorem
   - [Cousin’s Theorem](https://en.wikipedia.org/wiki/Cousin%27s_theorem)
 
 Note: (I’d like to spend some time going over this chapter*)
