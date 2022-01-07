@@ -5,7 +5,7 @@
 - It's crazy here; I ended up pretty much cancelling all my meetings. Sorry! It's just really hard to plan focused stuff here, although I did 
 end up getting my hair done and getting health checkups here. It's so nice to go to your regular people for that kind of stuff!
 - I don't think most of my friends here know what I do, but that's okay. I grew up in Theatre and the Arts (everyone here does, to some extent), and went to school with a bunch of 
-people who do that for a living here (are on radio, work in tv, paint, play musical instruments, dj, etc), which is pretty refreshing! I get to see
+people who do that for a living here (are on radio, work in tv, paint, play musical instruments, dj, teaching Arts at the local university etc), which is pretty refreshing! I get to see
 shows for free every year and hear about what they're working on, which is cool! So a lot of musicians, actors and that sort of vibe, or starting small
 businesses, working freelance, and that sort of thing. It's a nice break!
 A smaller economy also means that people do *lots* of things, so being skilled at one thing or working a job in one capacity doesn't define you in the way
