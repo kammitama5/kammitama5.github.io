@@ -17,6 +17,7 @@ or two to hang out. You don't take it personally, and later on you'll probably g
 how they met some person along the way you both know and that derailed their plan or something, but it's a story. It's kind of a thing you get used to I think.
 - I've also been doing yoga with my parents in the morning, which has been really fun. It's been a while, although I used to do that and pilates pretty regularly.
 I might try the videos once I get back and make them a morning routine thing during my semester.
+- My Algebra 2 class was annoyingly cancelled; it makes me sad because our Pure Maths department has the most awesome classes that I don't think some students realize the value of until they graduate (it's easy to go for shiny hype classes), so anyways; now I'm doing Algebra 4 (Rings, Galois Theory, Topology), Elliptic Curves and Random Probabilistic Graphs, and sitting in on Number Theory I think. I also laughed at the "horseshoe maths" [video](https://www.youtube.com/watch?v=j4hW7AwETZA) this week.
 
 ## Notes from This week's Real Analysis
 - I've been working on Chapters 5 and 6, which are on Topology and Continuity. These notes are in progress.
