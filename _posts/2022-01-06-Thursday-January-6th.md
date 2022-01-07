@@ -15,6 +15,8 @@ but I understand the tradeoffs of each environment.
 really planned on doing that then, is probably going to disappoint you because things just come up. Also, people may (or not) show up, or someone might bring a friend
 or two to hang out. You don't take it personally, and later on you'll probably get into an hour long conversation with them about
 how they met some person along the way you both know and that derailed their plan or something, but it's a story. It's kind of a thing you get used to I think.
+- I've also been doing yoga with my parents in the morning, which has been really fun. It's been a while, although I used to do that and pilates pretty regularly.
+I might try the videos once I get back and make them a morning routine thing during my semester.
 
 ## Notes from This week's Real Analysis
 - I've been working on Chapters 5 and 6, which are on Topology and Continuity. These notes are in progress.
