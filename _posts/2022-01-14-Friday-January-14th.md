@@ -3,7 +3,7 @@
 ## It's always heartbreaking
 - There's something about this place that just resonates with me, and I am split in half every time I have to leave. It's like your heart and head are split
 in two. The people who keep me grounded are here. One of my friends, who I've known since 2002, said that he recognized that my family and certain people
-in my life keep me grounded. That's always been really important to me, and why I can't spend too long without going back.
+in my life keep me grounded; that was what was real to me. That's always been really important to me, and why I can't spend too long without going back.
 But for now, I have things to do, and goals I would like to achieve, so off I go in a few hours.
 
 ## Here are some things I did this week!
