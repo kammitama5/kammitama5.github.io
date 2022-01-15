@@ -54,7 +54,7 @@ But for now, I have things to do, and goals I would like to achieve, so off I go
 ## A random building that looks like a boat
 <img src="/images/christmas22small/small10.png" width="400">
 
-## One of my cousins has a Sharpei. I'm in love!
+## One of my cousins has a Shar Pei. I'm in love!
 <img src="/images/christmas22small/small11.png" width="300">
 
 ## One of my neighbours has an amusement park, apparently!
