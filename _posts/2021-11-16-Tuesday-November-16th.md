@@ -31,6 +31,7 @@ I don't think it matters; it's more of a "some of these are helpful, depending o
 - "Guesstimation: Solving the World's Problems on the Back of a Cocktail Napkin" by L. Weinstein and J. Adam
 - "Lebesgue Integration on Euclidean Space" by F. Jones
 - "Function Theory of One Complex Variable" by R. Greene and S. Krantz
+- "Commutative Algebra: With a View Toward Algebraic Geometry" by D. Eisenbud
 
 ## Papers
 - I'm not that great at keeping track right now, but I do have a github repo with these.
