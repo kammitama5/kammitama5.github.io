@@ -44,7 +44,7 @@ a Compilers course in Haskell and another CS course.
 [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California -> Vermont
 
 ### Other 
-- [Shorter Gist of Professional Things: CV focused in mathematical cryptography](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Crypto_Krystal_Maughan_CV_1_16_2022.pdf)
+- [Shorter Gist of Professional Things: CV focused in mathematical cryptography](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Crypto_Krystal_Maughan_CV_1_17_2022.pdf)
 <!--- just - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Krystal_Maughan_CV_9_21_2021.pdf) --->
 - [Google Scholar: Maths papers take longer to produce but stay tuned on my progress here!](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7), [link on GSoC site 2018](https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/#projects)
