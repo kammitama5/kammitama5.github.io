@@ -8,6 +8,9 @@
 - PhDs do that, I guess, so maybe I should too?
 - If you find this confusing, please check out my most up to date CV in the Other section of the [About](https://kammitama5.github.io/about/) page.
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
+  
+## 2022
+- I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2022
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
@@ -241,13 +244,17 @@
 - Research credits (491) (SP20)(FA20)
 - Secure Distributed Computation (395) (FA20)
 - Research credits (491) (SP20)(FA20)(SP21) (in progress)
-- Privacy: Law, Policy, & Design (196) (SP21) (in progress)
-- Matheamtical Cryptography (259) (SP21) (in progress)
-- Abstract Algebra 3 (MATH 395 B) (FA 21) (in progress)
-- Abstract Algebra 1 (MATH 251 A) (FA 21) (in progress)
+- Privacy: Law, Policy, & Design (196) (SP21) (completed)
+- Matheamtical Cryptography (259) (SP21) (completed)
+- Abstract Algebra 3 (MATH 395 B) (FA 21) (completed)
+- Abstract Algebra 1 (MATH 251 A) (FA 21) (completed)
+- Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (in progress)
+- Abstract Algebra 4: Special Topics: Elliptic Curves and Modular Forms (MATH 395C) (SP 22) (in progress)
+- Random Probabilistic Graphs (MATH 373A) (SP 22) (in progress)
 
 ## Kinda-sorta (Audit) (2021 Winter: done)
-- (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (374) (SP21)
+- (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (EE 374) (SP21)
+- Number Theory (MATH 255A) (SP 22)
 
 ## Wish list of Classes (ie TODO)
 - Number theory
