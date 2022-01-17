@@ -257,9 +257,14 @@
 - Number Theory (MATH 255A) (SP 22)
 
 ## Wish list of Classes (ie TODO)
-- Number theory
-- Random Graphs
-- Algebra (Fields)
+- Number theory (done)
+- Random Graphs (done)
+- Algebra (Fields) (done)
+- Real Analysis
+- Measure Theory
+- Combinatorics
+- Graph Theory
+- More Abstract Algebra :)
 
 ## I think this means I'm not doing *too* badly
 
