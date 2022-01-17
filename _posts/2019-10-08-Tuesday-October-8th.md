@@ -245,7 +245,7 @@
 - Secure Distributed Computation (395) (FA20)
 - Research credits (491) (SP20)(FA20)(SP21) (in progress)
 - Privacy: Law, Policy, & Design (196) (SP21) (completed)
-- Matheamtical Cryptography (259) (SP21) (completed)
+- Mathematical Cryptography (259) (SP21) (completed)
 - Abstract Algebra 3 (MATH 395 B) (FA 21) (completed)
 - Abstract Algebra 1 (MATH 251 A) (FA 21) (completed)
 - Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (in progress)
