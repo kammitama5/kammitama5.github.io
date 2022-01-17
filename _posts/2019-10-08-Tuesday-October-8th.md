@@ -241,7 +241,7 @@
 - Data Privacy (295B) (FA19)
 - Human Computer Interaction (228) (FA19)
 - Machine Learning (in Python) (254) (SP20)
-- Research credits (491) (SP20)(FA20)
+- Research credits (491) (SP20)(FA20)(FA21)(SP21)(FA21)
 - Secure Distributed Computation (395) (FA20)
 - Research credits (491) (SP20)(FA20)(SP21) (in progress)
 - Privacy: Law, Policy, & Design (196) (SP21) (completed)
