@@ -15,7 +15,8 @@ planning a trip with me then. So there are things to look forward to on multiple
 - As it turns out, the subject was someone we both knew, who had won multiple awards, but there was a dearth of information on the subject matter.
 - Part of this lack of information was because in my country, especially in the Arts, there is a lack of archival processes. This is interesting because
 when I first graduated high school, I worked on a local soap opera and met a producer from the show who asked me to work on a gig where I organized archives
-(newspaper articles, etc) for the Trinidad Theatre Workshop's big move to a new space.
+(newspaper articles, etc) for the [Trinidad Theatre Workshop's](https://en.wikipedia.org/wiki/Trinidad_Theatre_Workshop) big move to a new space. My friend was surprised when I told him this, and that I had done such important work, interestingly, because doctoral scholars have visited to study the place, and 
+it was co-founded by a [Nobel Prize winner](https://en.wikipedia.org/wiki/Derek_Walcott).
 - When I first started my PhD, I began thinking about databases, and so for this particular problem, one of the issues is that even in our local libraries,
 the database system and information retrieval is quite poor (not to mention, there is a general lack of data). My dad likes to say that we collect data 
 or information, but we don't do anything with it, and that part of this issue stems from the colonial legacy whereby countries in our region obtained 
