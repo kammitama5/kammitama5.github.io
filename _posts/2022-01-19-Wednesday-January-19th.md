@@ -42,7 +42,7 @@ a lot. My dad basically spent his entire career doing this for developing econom
 video recording and editing technology, which is funny because it means he has a bunch of questions for me about all kinds of random stuff). I remember he once 
 told me that they were doing research on whether certain emerging agricultural industries were competitive economically, as well as tradeoffs between modes of
 transportation. Apparently, my country once had trains that were meant for the European population, but when they left, they abandoned the infrastructure. We use
-primarily cars and smaller buses now, but there has been unpublished research (I've been told by my dad) comparing the two systems and determining which was more
+primarily cars and smaller buses now (but they don't go to all parts of the country because they need to make money so some places are inaccessible), but there has been unpublished research (I've been told by my dad) comparing the two systems and determining which was more
 efficient and that sort of thing.
 
 ## My high school
