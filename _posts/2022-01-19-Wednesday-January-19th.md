@@ -3,7 +3,8 @@
 ## I started Spring semester this week
 - So far, it's been amazing. I'm in love with all of my classes! I've already sat in on a Number Theory class and attended my first 
 Random, Probabilistic Graphs class. I stayed up last night going over notes for our first class, reading about [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory), and adding books
-to my wishlist that I'd like to buy over time. 
+to my wishlist that I'd like to buy over time. I will definitely be writing a lot of proofs this semester, learning some probability and learning things
+about integers, too.
 - This semester, there are familiar classmates, and even a study group already forming for Real Analysis. So I'm stoked. 
 - A part of me is still a little heartbroken from having left, but I get to go back again for Christmas (fingers crossed), and my friends are already
 planning a trip with me then. So there are things to look forward to on multiple fronts.
