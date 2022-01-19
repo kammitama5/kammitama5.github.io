@@ -1,8 +1,8 @@
 ## Dreams of Yesteryear and Today; the start of a new semester
 
 ## I started Spring semester this week
-- So far, it's been amazing. I'm in love with all of my classes! I've already sat in on a Number Theory class and attended my first 
-Random, Probabilistic Graphs class. I stayed up last night going over notes for our first class, reading about [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory), and adding books
+- So far, it's been amazing. I'm in love with all of my classes! I've already sat in on a Number Theory class, attended my first 
+Random, Probabilistic Graphs class and my Algebra IV class on Rings and Module Theory, which has been exhilarating. I'm waiting to attend my Elliptic Curves class, which is in an hour. I stayed up last night going over notes for our first class, reading about [Ramsey Theory](https://en.wikipedia.org/wiki/Ramsey_theory), and adding books
 to my wishlist that I'd like to buy over time. I will definitely be writing a lot of proofs this semester, learning some probability and learning things
 about integers, too.
 - This semester, there are familiar classmates, and even a study group already forming for Real Analysis. So I'm stoked. 
