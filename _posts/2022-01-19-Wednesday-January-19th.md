@@ -38,8 +38,12 @@ The really interesting intersection is my own; people who have had an exposure t
 And I was lucky because someone in my high school (a professor, perhaps) had the insight to let a handful of us pursue both Science and Art classes.
 - But this isn't about the Arts; it's about people who are technical and can contribute to a domain-specific area, understanding what the people who use
 those tools *need* rather than designing an out of the box piece of software that doesn't consider what they truly *need*. I've been thinking about that
-a lot. My dad basically spent his entire career doing this (he's a huge database and data person, and is also super into open source; these days he's into
-video recording and editing technology, which is funny because it means he has a bunch of questions for me about all kinds of random stuff).
+a lot. My dad basically spent his entire career doing this for developing economies (he's a huge database and data person, and is also super into open source; these days he's into
+video recording and editing technology, which is funny because it means he has a bunch of questions for me about all kinds of random stuff). I remember he once 
+told me that they were doing research on whether certain emerging agricultural industries were competitive economically, as well as tradeoffs between modes of
+transportation. Apparently, my country once had trains that were meant for the European population, but when they left, they abandoned the infrastructure. We use
+primarily cars and smaller buses now, but there has been unpublished research (I've been told by my dad) comparing the two systems and determining which was more
+efficient and that sort of thing.
 
 ## My high school
 - The school is responsible for educating several engineers, doctors, lawyers, leaders in the Arts and educators.
