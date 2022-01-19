@@ -42,7 +42,7 @@ video recording and editing technology, which is funny because it means he has a
 been involved in all of these. I was also in both the Christian club and the Indian Cultural Club, too, I think, and even made a drawing of Mother Lakshmi
 one year for our yearly exhibit.
 
-<img src="/images/christmas22small/naps2022.png" width="700">
+<img src="/images/christmas22small/naps2022.png" width="400">
 
 ## This week
 - I have a couple meetings but still feel a bit out of place. I'm still grappling with being back. The food from home is helping.
