@@ -41,7 +41,7 @@ video recording and editing technology, which is funny because it means he has a
 ## My high school
 - The school is responsible for educating several engineers, doctors, lawyers, leaders in the Arts and educators.
 - It also offered squash, netball, football, tennis, gymnastics, badminton, theatre, singing, swimming, and the eco-Activist's club. I might have, at some point
-been involved in all of these. I was also in both the Christian club and the Indian Cultural Club, too, I think, and even made a drawing of Mother Lakshmi
+been involved in all of these. There was also a steelpan group (I played drums for those briefly) and a Classical Ensemble (my brother played cello for that). I was also in both the Christian club and the Indian Cultural Club, too, I think, and even made a drawing of Mother Lakshmi
 one year for our yearly exhibit.
 
 <img src="/images/christmas22small/naps2022.png" width="400">
