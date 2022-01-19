@@ -23,7 +23,9 @@ or information, but we don't do anything with it, and that part of this issue st
 independence, but we at the local level were taught to be admininstrators and delegate to a higher power, which means that we have had to unlearn systematically
 how to designate and begin to redesign our own systems.
 - So anyways, I left with my friend fairly frustrated, because the persons at the libraries basically told us that even though this library was specifically
-for local heritage information, it couldn't be of much help and that we should "use Google" within the library (again; the delegation to an outside entity).
+for local heritage information, it couldn't be of much help and that we should "use Google" within the library (again; the delegation to an outside entity). I kid
+you not; we were literally sitting with our phones, in a library, Googling things and trying to navigate their database that struggled to make a connection between the person's first and last name, or where they primarily worked (and every single person who has been trained in lighting designer knew this individual, or had
+been trained by them or someone who trained with them in some capacity).
 And I began to think about knowledge discovery systems, because even the information and databases that we do have locally don't find structure or meaning
 between the entities of the data that *do* exist within the databases. So that's something I think that would really be of value locally.
 - Furthermore, there's a real divide between the technical and the Arts in my country, which is something I've always struggled with. The intersection of 
