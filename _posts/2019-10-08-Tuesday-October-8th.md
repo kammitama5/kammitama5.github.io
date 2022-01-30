@@ -77,9 +77,10 @@
 - I have been accepted as an NCWIT Collegiate Award Finalist based on my isogenies proposal and my profile!
 - I have been chosen as a mentee for the LXAI mentorship program at NeurIPS 2021!
 - I am doing a podcast with Corecursive that airs in 2022!
+- I have been invited to review a Haskell pedogogical book. I'm grateful for the opportunity!
 - I am giving a talk at Brown (on Privacy and Fairness) for their Fair February seminar in 2022!
 - I was invited to a recruiting event and tech talk (1 of 14 persons chosen) for Hudson River Trading (HRT)
-- I have accepted a Summer Research Internship for summer 2022 and am SUPER excited about it!!!!
+- I have accepted a Summer Research Internship for summer 2022 (1 of 10) and am SUPER excited about it!!!!
 
 ## 2020
 
