@@ -50,7 +50,7 @@ cool memory that I could add to having a great time in grad school. I left reall
 
 ## Here are notes about some things I learned this week
 
-- In Algebra class, we learned about UFDs, PIDs and the Axiom of Choice, as well as the Chinse Remainder Theorem (Ring Theory).
+- In Algebra class, we learned about UFDs, PIDs and the Axiom of Choice, as well as the Chinese Remainder Theorem (Ring Theory).
 - In Random Probabilistic Graphs class we covered Tournaments, Hamiltonian Graphs / Paths, Variance and Covariance. I also generated some random graphs
 with isolated vertices in code for an assignment (we covered both the Gilbert and Erdos-Renyi variety of Random Graphs).
 - In Elliptic Curves, I learned about the first elliptic curve in Nature from Anton. See more [here](https://www.lmfdb.org/EllipticCurve/Q/11/a/3).
