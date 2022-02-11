@@ -193,6 +193,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 
 ## Wall Street
 - Stay tuned :)
+- I've also been invited to formal recruiting events at: Goldman Sachs, JP Morgan, Capital One, WorldQuant, Two Sigma, HRT, Jane Street, etc (various)
 
 ## Tech
 - I volunteered to help teach a class for around 10 children between 9 and 13 each weekend for a year basics of robotics (building robots and coding in Scratch); the founder was an astrophysicist from Caltech who worked at Rolling Robots.(LA)
