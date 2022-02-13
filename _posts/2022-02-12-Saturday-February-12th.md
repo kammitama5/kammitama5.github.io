@@ -35,7 +35,7 @@ and they gave us food vouchers. I haven't used mine yet.
 - I saw a talk at the Number Theory seminar involving Number fields via Malle's Conjecture and Cohen-Lenstra-Martinet / behavior of class groups (virtually)
 - I saw a talk by a faculty member on topological data analysis / persistent homology, which involved cohomology, sheaves and mapping data 
 into barcode decompositions.
-- I also saw a PhD Pure Maths student (Michael) give a talk a talk on circle arrangements and finding the upper and lower bounds for the number of combinations.
+- I also saw a PhD Pure Maths student (Michael) give a talk on circle arrangements and finding the upper and lower bounds for the number of combinations.
 He related it to binary encoding, and showed that with tighter bounds we can deal with multiplicities of arrangements. I really liked that he used animation
 and knot theory to think about the problem, as well as the idea of a [permutahedron](https://en.wikipedia.org/wiki/Permutohedron).
 
