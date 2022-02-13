@@ -37,7 +37,7 @@ and they gave us food vouchers. I haven't used mine yet.
 into barcode decompositions.
 - I also saw a PhD Pure Maths student (Michael) give a talk on circle arrangements and finding the upper and lower bounds for the number of combinations.
 He related it to binary encoding, and showed that with tighter bounds we can deal with multiplicities of arrangements. I really liked that he used animation
-and knot theory to think about the problem, as well as the idea of a [permutahedron](https://en.wikipedia.org/wiki/Permutohedron).
+and knot theory to think about the problem, as well as the idea of a [permutohedron](https://en.wikipedia.org/wiki/Permutohedron).
 
 ## Other
 - I gave the talk at Brown, which went well, and had some board meetings to attend. I was able to stick to yoga during the week, thankfully.
