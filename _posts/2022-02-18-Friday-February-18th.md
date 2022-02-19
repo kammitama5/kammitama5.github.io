@@ -16,7 +16,7 @@ to negligence, and the commentary was that someone should have been held account
 an electricity outage that lasted for a significant amount of time this week, too. I was asking what outrage and discontent was locally,
 and my dad calmly said "I know what that is; it's disappointment." He told me that decades ago, about the time of his generation being 
 young adults (teens, early 20s), when the British left, there was a sense in the air of all the things they could be, in terms of invention,
-infrastructure, etc without British rule. And a lot of this has to do with the fact that not only were things like the Civil Rights Movements
+infrastructure, etc without British rule. And a lot of this has to do with the fact that not only were pivotal events like the Civil Rights Movements
 and the Black Power movement in the air, and a spiralling of countries that declared to be separated from British rule, but there was this great
 hope for the future of what each nation *could become*. After all, many of these Empires did pillage and plunder our region. 
 - However, there was so much more to independence; there is the undoing of brainwashing, an ability to attain self-reliance that is financial, economic,
