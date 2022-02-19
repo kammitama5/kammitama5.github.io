@@ -49,7 +49,7 @@ have found a group who embodies these kinds of values that I aspire to long-term
 - I saw a Category Theory talk by Liam that included functors, Diagrams, Colimits and the Fiber Product.
 - In Algebra, we covered functors, sheaves, Bordism Category, manifolds, Brouwer's Fixed point theorem, natural transformations,
 adjunctions, functorial, single homology, contravariant functor, forgetful and free functor, limits and colimits (to continue), terminal objects
-and review of ideals (ACC, Radical Ideals) and Chinese Remainder Theorem as well as proof of UFDs.
+and review of ideals ([ACC](https://en.wikipedia.org/wiki/Ascending_chain_condition), Radical Ideals) and Chinese Remainder Theorem as well as proof of UFDs.
 - In Elliptic Curves we covered Isogenies: characteristic, algebraic closures, discriminants, torsion points, branch and ramified vs unramified points,
 roots of unity and ramification index, ramifications of isomorphisms. I am also meeting next week to talk about torsion attacks.
 - In Number Theory we spoke about Bounded Primes and Congruence.
@@ -66,7 +66,7 @@ who is a Number Theorist as part of our study group sessions!
 
 ## Swag
 - I was invited to an event by Jane Street a week ago, and they sent me swag in the mail.
-- Trading cards and a t-shirt.
+- Trading cards and a t-shirt. I really like that the trading cards say that this is a company that cares about your mind.
 
 <img src="/images/CatJS/cat1.png" width="400">
 
