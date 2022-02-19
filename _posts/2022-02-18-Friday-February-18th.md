@@ -32,7 +32,7 @@ Often, when I write these things, I am relating these broader thoughts to organi
 - I had a conversation with someone this week (possibly also my parents) where I said that one thing I have noticed in the Pure Maths department is that
 the grad students are not afraid to ask for clarification in the middle of a talk, if something doesn't quite make sense to them, or something was missed.
 I have noticed this in other groups I had joined in the past, too, with grad students from schools like Brown and Princeton; they speak up.
-I am not going to lie; when I first thrown into a group in the middle of these students, it was very intimidating. But part of your training as a researcher
+I am not going to lie; when I was first thrown into a group in the middle of these students, it was very intimidating. I did not speak for that entire session and watched as they passed words back and forth like a hockey puck. But part of your training as a researcher
 is not to be a follower who does not think critically about problems; it is to be a leader. And on many levels, your advisor *cannot* provide this for you.
 In fact, if they try too hard, they can end up doing the opposite; coddling you and not giving you the opportunity to bounce back and to be resilient.
 I have watched the movie "King Richard" quite a few times, and one of the scenes I really liked is one in which Sampras's coach asks Venus and Serena
