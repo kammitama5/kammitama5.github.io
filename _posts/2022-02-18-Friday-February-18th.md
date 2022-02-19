@@ -46,7 +46,7 @@ have found a group who embodies these kinds of values that I aspire to long-term
 
 ## This week
 - I sat in on a Combinatorics Seminar on Probabilistic Graphs and Katz Centrality by Hunter.
-- I saw a Category Theory talk by Liam that included functors, Diagrams, Colimits and the Fiber Product.
+- I saw a Category Theory talk by Liam that included functors, Diagrams, Colimits and the [Fiber Product](https://en.wikipedia.org/wiki/Pullback_(category_theory)).
 - In Algebra, we covered functors, sheaves, Bordism Category, manifolds, Brouwer's Fixed point theorem, natural transformations,
 adjunctions, functorial, single homology, contravariant functor, forgetful and free functor, limits and colimits (to continue), terminal objects
 and review of ideals ([ACC](https://en.wikipedia.org/wiki/Ascending_chain_condition), Radical Ideals) and Chinese Remainder Theorem as well as proof of UFDs.
