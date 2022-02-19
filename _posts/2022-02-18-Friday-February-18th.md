@@ -26,6 +26,12 @@ making them dependent on a system that seeks out government handouts and makes p
 many of our banks foreign-owned (i.e. from Canada, etc). And what about our local stock index; what does it mean if we stagnate and make it near impossible
 for persons to grow local businesses? And so, the business wealth remains
 within a few circles where those few can seek out personal loans, or tap into generational wealth and leverage this wealth. 
+- My dad said when he was pretty young in the workforce locally, they would send their best and brightest locally to exchange programmes at some
+of the top universities in the world. So they would have exchange programmes for local persons working in Development, Agriculture, Law, etc to 
+study at Cambridge, Harvard, etc, through semester or year-long exchange programmes with our local Universities. The intent was that we, as a 
+newly independent country, would take knowledge from those institutions and implement and innovate visionary programmes locally when they returned.
+So there was this cross-pollination of ideas, an excitement for building a new nation, a new region without having to designate everything to a 
+higher power that quite frankly, didn't care much about our region (besides for the exploitation of our local resources).
 - One of the final things my dad said was that we had a lack of leadership in terms of visionary leaders. He said that Singapore had attained their
 independence within years of our having independence, but that they had a visionary leader, [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew). Proper leadership makes a difference.
 Often, when I write these things, I am relating these broader thoughts to organizations I deal with day to day. 
