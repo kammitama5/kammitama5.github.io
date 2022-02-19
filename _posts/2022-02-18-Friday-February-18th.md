@@ -22,7 +22,7 @@ hope for the future of what each nation *could become*. After all, many of these
 - However, there was so much more to independence; there is the undoing of brainwashing, an ability to attain self-reliance that is financial, economic,
 and fostering self-worth and values to build this new future. And within that generation, it didn't really happen. One of the things I have thought about
 lately is how *archaic* our banking systems are in my home country. How many artists and small business owners I know have struggled to obtain funding,
-making them dependent on a system that seeks out government handouts for funding in the Arts and in local Business? Why are so
+making them dependent on a system that seeks out government handouts and makes persons dependent on government funding for funding in the Arts and in local Business? Why are so
 many of our banks foreign-owned (i.e. from Canada, etc). And what about our local stock index; what does it mean if we stagnate and make it near impossible
 for persons to grow local businesses? And so, the business wealth remains
 within a few circles who can provide personal loans or tap into generational wealth. 
