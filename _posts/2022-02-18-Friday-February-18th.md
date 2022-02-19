@@ -25,7 +25,7 @@ lately is how *archaic* our banking systems are in my home country. How many art
 making them dependent on a system that seeks out government handouts and makes persons dependent on government funding for funding in the Arts and in local Business? Why are so
 many of our banks foreign-owned (i.e. from Canada, etc). And what about our local stock index; what does it mean if we stagnate and make it near impossible
 for persons to grow local businesses? And so, the business wealth remains
-within a few circles who can provide personal loans or tap into generational wealth. 
+within a few circles where those few can seek out personal loans, or tap into generational wealth and leverage this wealth. 
 - One of the final things my dad said was that we had a lack of leadership in terms of visionary leaders. He said that Singapore had attained their
 independence within years of our having independence, but that they had a visionary leader, [Lee Kuan Yew](https://en.wikipedia.org/wiki/Lee_Kuan_Yew). Proper leadership makes a difference.
 Often, when I write these things, I am relating these broader thoughts to organizations I deal with day to day. 
