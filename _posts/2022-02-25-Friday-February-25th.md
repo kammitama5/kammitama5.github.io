@@ -65,6 +65,7 @@ Picard modular forms and notes on the [adelic ring](https://en.wikipedia.org/wik
 - I saw an awesome talk on Quantum ML at LXAI at AAAI (which made me think I had an hour more than I actually did, which made me late).
 - I saw a really interesting talk on [Knot Theory and AI](https://www.youtube.com/watch?v=UPCI1-ZvwOg).
 - I was invited to review for a conference and connected with two mentors at Msft, who I'll meet next week!
+- I am on a [website](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/#!alumni)!
 - It might be someone's birthday very soon :)
 
 ## I should go to bed, so that's it.
