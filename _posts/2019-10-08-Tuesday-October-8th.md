@@ -12,6 +12,7 @@
 ## 2022
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2022
 - I reviewed a Haskell book!
+- I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel.
 - I have been invited to be a reviewier for the Tapia Conference 2022.
 - I was invited to and participated in Jane Street's Preview Program, in which we played Trading Games / learned about Game Shows in a mathematical way. I loved it!
 - I have been invited to virtually participate in the Arizona Winter School in Number Theory. Our group has been assigned a mentor, as part of our
