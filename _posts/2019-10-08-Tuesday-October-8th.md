@@ -15,6 +15,7 @@
 - I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel.
 - I have been invited to be a reviewier for the Tapia Conference 2022.
 - I was invited to and participated in Jane Street's Preview Program, in which we played Trading Games / learned about Game Shows in a mathematical way. I loved it!
+- I have been invited to virtually participate in the BIRS workshop on Algebraic Methods in Coding Theory and Communications.
 - I have been invited to virtually participate in the Arizona Winter School in Number Theory. Our group has been assigned a mentor, as part of our
 study group.
 - I will be on the MSR RLOS website of [alumni](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/#!alumni).
