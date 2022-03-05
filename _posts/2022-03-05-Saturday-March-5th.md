@@ -26,7 +26,7 @@ of these things have helped me to contextualize the limits of my own knowledge; 
 those who have a real skill and talent for these areas, and they have helped me to determine what I do and do not have the temperament to do for hours
 on end. So I don't think it's in vain, and surprisingly, a lot of these skills come in handy at the most random times, and often surprise me because
 I realize that this is a unique perspective. I have always wondered why when someone is considered "non-traditional", there is so much focus on the way they are
-"deficient" in the thing, rather than ways in which their other skills might make them even more valuable. This person comes with X, imagine how powerful they
+"deficient" in the thing, rather than ways in which their other skills might make them even more valuable. This person comes with Y, imagine how powerful they
 would be if I could teach them X; they would now know X *and* Y and maybe *I* as their mentor could learn a bit of Y, too (which would me, in turn, even more
 valuable, too).
 - I do think it's more important to put yourself in a space where you can grow, feel challenged, and are satisfied / fulfilled with this choice (unless
