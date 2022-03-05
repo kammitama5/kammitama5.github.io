@@ -41,14 +41,14 @@ so I am pacing myself.
 - In Probabilistic Graphs, we covered Poisson for Branching Processes (Galton-Watson), but I wasn't there because I had an appointment. 
 Super nice people (at least 2 people!) offered to provide me with notes for the class, and when I received notes, 
 I typically write them out as though I actually sat in class in my notebook and go through them.
-- I spent a LOT of time in Tensor Products; I was in an appointment's lobby studying them. I want to continue over break and go through some of the proofs.
+- I spent a LOT of time on Tensor Products; I was in an appointment's lobby studying them. I want to continue over break and go through some of the proofs.
 - I worked on research with my advisor in her office! (fancy times!) and didn't have to walk home in the cold!
 - In Algebra, we spent pretty much the entire week on Properties and general proofs of Adjunctions, Tensor Products, Exact Sequences, and Tensor Product 
 construction, etc.
 - In Elliptic curves we are about to start the dual-isogeny, but spent most of this week focusing on (invariant) differentials, Frobenius, and holomorphism
 as it pertains to elliptic curves and isogenies, proofs, etc.
 - I went to a really interesting Combinatorics talk on Minimum Square tiling, which led to state diagrams, which was interesting. I also noticed the T. Tao
-made a blog post on Tiling and Group Actions this week.
+made a blog post on [Tiling and Group Actions](https://terrytao.wordpress.com/2022/03/03/measurable-tilings-by-abelian-group-actions/) this week.
 - I also went to a really fascinating talk on Modularity and the Drinfeld Setting.
 - I signed up (and got into) a workshop on Coding Theory and Algebraic Geometry that I'm excited about, attended the Community-Driven Crypto seminar 
 (which was super interesting and was on [Cointelpro](https://en.wikipedia.org/wiki/COINTELPRO)) and 
