@@ -13,7 +13,8 @@ you don't find yourself falling into a similar situation moving forward.
 They mentioned that they had done all these things, focused for such a long time, and then something came up that meant that they couldn't
 do they thing they had invested in for so long anymore. And it prompts one to ask the question, "what was the point?". Grad school and its
 immediate aftermath set themselves up nicely to be a reckoning, an existential questioning of who one really is, and why they even bothered going down
-particular rabbit holes (psst..it's for the journey!).
+particular rabbit holes (psst..it's for the journey!). Growing up, I always loved the first law of Thermodynamics; that of the Conservation of Energy.
+Nothing is wasted.
 It doesn't help that for all of the years, only a fraction of students will actually obtain professorship. So what, then, is it all worth?
 - I tend to be a lot more optimistic about this; I have picked up a bunch of random skills throughout my life (a small sliver include 
 sculpting, 3D modelling, wire repair, operating pallet jacks and lift gates, billing / invoicing systems, audio engineering knowledge, construction 
