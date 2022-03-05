@@ -18,14 +18,17 @@ It doesn't help that for all of the years, only a fraction of students will actu
 - I tend to be a lot more optimistic about this; I have picked up a bunch of random skills throughout my life (a small sliver include 
 sculpting, 3D modelling, wire repair, operating pallet jacks and lift gates, billing / invoicing systems, audio engineering knowledge, construction 
 knowledge for low-income housing, oil painting mixing knowledge, architectural building modelling, CAD, econometrics, sending spacecraft into space
-for a mission-knowledge, simple machining, woodworking, troubleshooting film and video cameras, loading and shooting with small format,
+for a mission-knowledge, simple machining, woodworking, welding, troubleshooting film and video cameras, loading and shooting with small format,
 medium format and large format cameras, programming lighting boards, chairing meetings, sorting gobos (I did this during a month-long "internship" for a few days),
 trying to hit up a random stranger to carry furniture in their car while it is pouring in New York City, rotoscoping / compositing in Nuke (I did this for a month), etc). 
 I often laugh at how random many of my experiences have been, and how useless some of my skills are (particularly because some involve proprietary knowlege). But a lot
 of these things have helped me to contextualize the limits of my own knowledge; what I do and do not know. They've also helped me to appreciate 
 those who have a real skill and talent for these areas, and they have helped me to determine what I do and do not have the temperament to do for hours
 on end. So I don't think it's in vain, and surprisingly, a lot of these skills come in handy at the most random times, and often surprise me because
-I realize that this is a unique perspective. 
+I realize that this is a unique perspective. I have always wondered why when someone is considered "non-traditional", there is so much focus on the way they are
+"deficient" in the thing, rather than ways in which their other skills might make them even more valuable. This person comes with X, imagine how powerful they
+would be if I could teach them X; they would now know X *and* Y and maybe *I* as their mentor could learn a bit of Y, too (which would me, in turn, even more
+valuable, too).
 - I do think it's more important to put yourself in a space where you can grow, feel challenged, and are satisfied / fulfilled with this choice (unless
 that isn't your goal), at least in the general space within which I operate. If you aren't quite getting this, maybe it's time to re-evaluate and not feel
 too badly about switching. I remember the first rejection letter I had received when I switched research topics. Strangely, I was okay with it, because I was
