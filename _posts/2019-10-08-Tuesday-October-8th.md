@@ -12,7 +12,7 @@
 ## 2022
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2022
 - I reviewed a Haskell book!
-- I will be on an upcoming episode of Corecursive! :)
+- I will be on an upcoming episode of Corecursive! (x2) :)
 - I will be giving a talk at the "Math for Math's Sake" Meetup, giving a lightning talk on isogenies.
 - I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel.
 - I have been invited to be a reviewier for the Tapia Conference 2022.
@@ -21,6 +21,7 @@
 - I have been invited to virtually participate in the Arizona Winter School in Number Theory. Our group has been assigned a mentor, as part of our
 study group.
 - I will be on the MSR RLOS website of [alumni](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/#!alumni).
+- I have been chosen as a BlackComputeHER Fellow (2022-2023). I am honoured!
 - I have been assigned two mentors for Microsoft's Tech Resilience Programme.
 
 ## 2021
