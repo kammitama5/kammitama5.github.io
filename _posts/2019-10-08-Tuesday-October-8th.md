@@ -14,7 +14,7 @@
 - I reviewed a Haskell book!
 - I will be on an upcoming episode of Corecursive! (x2) :)
 - I will be giving a talk at the "Math for Math's Sake" Meetup, giving a lightning talk on isogenies.
-- I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel.
+- I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel. I will also be a panelist for their Alumni panel!
 - I have been invited to be a reviewier for the Tapia Conference 2022.
 - I was invited to and participated in Jane Street's Preview Program, in which we played Trading Games / learned about Game Shows in a mathematical way. I loved it!
 - I have been invited to virtually participate in the BIRS workshop on Algebraic Methods in Coding Theory and Communications.
