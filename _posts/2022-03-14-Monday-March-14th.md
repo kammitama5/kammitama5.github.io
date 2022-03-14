@@ -8,7 +8,7 @@ other who is a freshman and considering grad school (both are amazingly motivate
 tend to take the time (and have the courage) to reach out tend to become these superstars (even if I am just privileged to meet them early on), 
 which might be a result of their initiative, diligence and commitment. It's inspiring so whenever I have the time, I'm always happy to chat.
 - I think by Wednesday I was so exhausted I actually took a day off! Yeah...during Spring break, if you can believe that one.
-- I was also gifted the sickest mic! Being an audiophile, I immediately thought it looked like the SM57, which is a mic commonly used; it's like the Varicam
+- I was also gifted the sickest mic! Being an audiophile, I immediately thought it looked like the SM58, which is a mic commonly used; it's like the Varicam
 of microphones (if one had to equate it to a work-horse camera).
 - I also bid on papers for a workshop, attended a conference virtually, and read a bunch of research papers, got into a [Fellowship](https://blackcomputeher.org/fellows-program/) and worked on a proposal.
 - Hmm... that doesn't sound like a "Break" at all I guess. I liked that I was able to do all of this on my own terms, and now I am trashed because I stayed up until
@@ -46,7 +46,7 @@ you know what, I may not have blocks yet, but I can do yoga today.
 - My internship sent me the softest frosted blanket. It's hands down the classiest swag I've gotten so far, I think. 
 - I feel like I actually have to be a grown-up for this internship, apparently :)
 
-## I told you it looks like an SM57!
+## I told you it looks like an SM58!
 <img src="/images/birthdayweek2022/mic.png" width="300">
 
 - It's not, though. Sorry about that. I get to keep it because I'm doing another one in two weeks, too!
