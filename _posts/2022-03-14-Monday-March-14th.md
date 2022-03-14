@@ -11,7 +11,7 @@ which might be a result of their initiative, diligence and commitment. It's insp
 - I was also gifted the sickest mic! Being an audiophile, I immediately thought it looked like the SM57, which is a mic commonly used; it's like the Varicam
 of microphones (if one had to equate it to a work-horse camera).
 - I also bid on papers for a workshop, attended a conference virtually, and read a bunch of research papers, got into a [Fellowship](https://blackcomputeher.org/fellows-program/) and worked on a proposal.
-- Hmm... that doesn't like a "Break" at all I guess. I liked that I was able to do all of this on my own terms, and now I am trashed because I stayed up until
+- Hmm... that doesn't sound like a "Break" at all I guess. I liked that I was able to do all of this on my own terms, and now I am trashed because I stayed up until
 3am each morning and am trying to get back on a 7:30am schedule again. A girl can dream but so it's painful right now. I tend to speak in shorter sentences and my sense
 of humour tends to have an extra dose of wit and dryness when I am lacking sleep. I'm sorry.
 
