@@ -23,6 +23,9 @@ study group.
 - I will be on the MSR RLOS website of [alumni](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/#!alumni).
 - I have been chosen as a BlackComputeHER Fellow (2022-2023). I am honoured!
 - I have been assigned two mentors for Microsoft's Tech Resilience Programme.
+- I have been assigned mentor from NCWIT's AiC Program!
+- I will be attending Discrete Maths Days with some awesome Combinatorics people this year in person!
+- I will be attending the Roots of Unity workshop, assigned to the Arithemtic Geometry group (with full funding!)
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
