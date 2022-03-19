@@ -47,5 +47,14 @@ of Abelian varieties. Would like to read up more on the Mordell Conjecture by Fa
 - We have a date for the ICLR summer workshop! Yayy! I'm super excited! It seems like a lot of great work has come out of the community!
 - Yay to more of that!
 
+## Birthday Wine!
+- My friend convinced me to buy a bottle of wine, and to leave my space (which is a tall order if you know me!)
+- I got a bottle of Pinot Grigio that supposedly has a luscious aftertaste. As I was walking home with my bottle, the air was crisp, and people were milling about, as it's Accepted Students weekend, and it made me feel bittersweet because 
+I'm happy for my friend, but I'm going to miss him when he leaves. However, my journey here is not forever, too, so this is how things
+are in life, I guess. And we can drink to our continued successes and to good times, and for the serendepity of having crossed paths. I
+feel so grateful.
+
+<img src="/images/birthdaywine22.png" width="250">
+
 ## I'm pretty tired
 - So that's it!
