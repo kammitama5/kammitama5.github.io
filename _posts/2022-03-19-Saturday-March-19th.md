@@ -1,4 +1,4 @@
-## Another Maths Conference
+## Another Maths Conference (SUMS)
 
 ## I attended SUMS today!
 - It was awesome! I had to miss the isogenies talk to hang out with Maths friends, but I think everything is recorded anyways (they were recording), so it should hopefully be out
