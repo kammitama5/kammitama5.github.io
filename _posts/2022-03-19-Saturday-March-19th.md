@@ -73,6 +73,7 @@ but I didn't really have the time to process that one. It seems like an awesome 
 - I had a lot of fun and there were some smart people in that group! I will definitely plan on attending next year, and hope that they can have
 a virtual event, but if not, I guess I'll have to plan to go up there at some point! I seem to have a growing number of friends there, so it may
 definitely be worth it!
+- I loved Tanya's statement that "In good puzzles, nothing is random.". There is something really elegant about that that I love!
 
 ## And that's all.
 
