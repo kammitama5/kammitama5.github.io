@@ -24,7 +24,7 @@ some other cuge in the right coset H. He defines a coset solver where an arbitra
 a maneuver length of 15. He then creates this bit array and sets the corresponding bit in the array based on solved / not solved. For each of the 16
 moves, we get 10 positions and we repeat this 4 times. We then solve the remaining positions individually using the two-phase algorithm in less
 than 20 moves.
-- Rockiki talks about 20 moves in this [paper](https://tomas.rokicki.com/rubik20.pdf). Kociemba also showed symmetry reduction in the Rubik's cube
+- Rokicki talks about 20 moves in this [paper](https://tomas.rokicki.com/rubik20.pdf). Kociemba also showed symmetry reduction in the Rubik's cube
 and the runtime cost for each phase. Someone mentioned someting about megaminx being similar but with a dodecahedron shape, and that sounds kind of scary lol.
 - D. Katz gave a talk on Minimally Clued Latin Square Puzzles where a Latin Square is an ```n x n``` arrangement of numbers 1 through N such that no row
 or column contains any repeats. Critical sets are important in Latin Squares, and in the UK, there are these puzzles that are similar called Futoshiki 
