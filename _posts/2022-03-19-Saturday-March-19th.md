@@ -33,7 +33,7 @@ and back-circulent lattice squares, but at this point I had to get ready to have
 - Tanya K. gave an amazing talk (my favourite!) on Maths and Puzzle Hunts. I especially love Puzzle Hunts because during my last
 internship, I was involved in and thoroughly loved the puzzle culture (because I love solving puzzles!). She initially had a list of sequences
 that included things like factorials, tribonacci numbers, narcissistic numbers, lucas numbers, etc. In each sequence, X had a position.
-We noticed that the ```X``` for each sequence was planed in a particular position, and that the length of each sequence was the length of the type
+We noticed that the ```X``` for each sequence was placed in a particular position, and that the length of each sequence was the length of the type
 of sequence. So we figured out that this led us to the missing letters, which gave us the word that was our final solution.
 I have completed puzzles like this one, which are pretty typical of the Puzzle Hunt, especially at my last internship! 
 - Next, we looked at [this](https://www.bookspace.world/round/sci-ficisco/) puzzle. She told us about word searches in general,
