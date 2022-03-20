@@ -38,7 +38,7 @@ of sequence. So we figured out that this led us to the missing letters, which ga
 I have completed puzzles like this one, which are pretty typical of the Puzzle Hunt, especially at my last internship! 
 - Next, we looked at [this](https://www.bookspace.world/round/sci-ficisco/) puzzle. She told us about word searches in general,
 but this one was trickier. Typically, in puzzle hunts I have completed, once one finds all the words, the remaining letters will spell out
-a clue that leads to the solution, but this was not the case. This was apparently something called a Fractal Wordsearch, where there are layers.
+a clue that leads to the solution, but this was not the case. This was apparently something called a [Fractal Wordsearch](https://www.youtube.com/watch?v=37SimgPfxdw), where there are layers.
 Pretty wild and interesting stuff! That's all I'll say about that one.
 - Next, P. Winkler went through a slew of puzzles! We first spoke about how an algorithm is a recipe. And about potential functions.
 - So what is a potential function? He joked and said that it "sounds like something if you treat it right will become a function". Nay.
