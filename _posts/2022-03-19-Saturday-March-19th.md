@@ -11,16 +11,16 @@ there soon!
 - For this post, I will not reveal any solutions (except a lot of hints for one, but I won't spell out the answer), but things that we spoke about.
 - I heard about [MoMath](https://momath.org/upcoming-events/) in NYC through this conference. Since I'm interning in NYC this summer, 
 I am excited to visit this museum!!! From one puzzle internship to the next! How cool!?
-- One of the speakers is involved in [mathematical puzzles](https://momath.org/civicrm/?page=CiviCRM&q=civicrm/event/info&reset=1&id=1620) that you can sign up to through this organization, which you can sign up for!
+- One of the speakers is involved in [mathematical puzzles](https://momath.org/civicrm/?page=CiviCRM&q=civicrm/event/info&reset=1&id=1620) that you can sign up to do through this organization, which you can sign up for!
 - What do you know!? Tomorrow is Sunday, so that means...dun dun...a new puzzle!!!!
 
 ## Speakers and Puzzles
 - These are notes; they may not be entirely accurate; sorry! These are just my personal notes, for my enjoyment.
 - Our first keynote was from H. Kociemba, who spoke about solving a Rubik's cube in 20 moves or less.
 - He used a two-phase algorithm. He used a pruning table to find an optimal solution. The pruning table cuts the search tree to find a solution
-that is O(distance to be solved). He has python [code](https://github.com/hkociemba/RubiksCube-TwophaseSolver) online for it, too. He uses the God number, 20 and find the subgroup H and cosets.
+that is O(distance to be solved). He has python [code](https://github.com/hkociemba/RubiksCube-TwophaseSolver) online for it, too. He uses the God number, 20 and finds the subgroup H and cosets.
 He says that in 2005, Rokicki showed that the phase one solution of the two-phase phase algorithm for a cube position p is a complete solution for
-some other cuge in the right coset H. He defines a coset solver where an arbitrary position is chosen and phase one is applied to position p up to
+some other cube in the right coset H. He defines a coset solver where an arbitrary position is chosen and phase one is applied to position p up to
 a maneuver length of 15. He then creates this bit array and sets the corresponding bit in the array based on solved / not solved. For each of the 16
 moves, we get 10 positions and we repeat this 4 times. We then solve the remaining positions individually using the two-phase algorithm in less
 than 20 moves.
