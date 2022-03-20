@@ -66,7 +66,7 @@ or vertically) and onto the next grid point in line, provide that the point is u
 far above the X-axis?
 - Seven: The first day of class, a teacher divides a zoom room into a number of breakout rooms (k). On the next day, she divides the class differently,
 this time into ```k+1``` rooms (such that none are empty). Show that there are at least two kids that are in smaller groups on the second day than on
-the first day. This is a potential function proof.
+the first day. (Hint: This is a potential function proof.)
 - Kind of eight: He had a whole bunch of puzzle slides, which he briefly powered through after giving the talk, and there was one on stacks of chips,
 but I didn't really have the time to process that one. It seems like an awesome book and I was signed up for the puzzles almost immediately.
 
