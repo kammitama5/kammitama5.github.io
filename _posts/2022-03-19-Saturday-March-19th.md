@@ -5,7 +5,7 @@
 there soon!
 - I thought about putting this closer to the end of the week, but it's way too much so it should be its own post. This year's theme was Maths Puzzles.
 - If you recall, I attended last year, and submitted an artpiece related to Mathematics, which was fun!
-- I'd love to attend in person one day (that's the dream, far in another dimension, in the post-Covid universe.
+- I'd love to attend in person one day (that's the dream, far in another dimension, in the post-Covid universe).
 
 ## Notes
 - For this post, I will not reveal any solutions (except a lot of hints for one, but I won't spell out the answer), but things that we spoke about.
