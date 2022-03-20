@@ -15,7 +15,8 @@ I am excited to visit this museum!!! From one puzzle internship to the next! How
 - What do you know!? Tomorrow is Sunday, so that means...dun dun...a new puzzle!!!!
 
 ## Speakers and Puzzles
-- These are notes; they may not be entirely accurate; sorry! These are just my personal notes, for my enjoyment.
+- These are notes; they may not be entirely accurate; sorry! These are just my personal notes, for my enjoyment. I also do know the solutions to these,
+but putting them here would be spoilers.
 - Our first keynote was from H. Kociemba, who spoke about solving a Rubik's cube in 20 moves or less.
 - He used a two-phase algorithm. He used a pruning table to find an optimal solution. The pruning table cuts the search tree to find a solution
 that is O(distance to be solved). He has python [code](https://github.com/hkociemba/RubiksCube-TwophaseSolver) online for it, too. He uses the God number, 20 and finds the subgroup H and cosets.
@@ -57,7 +58,7 @@ re-insert it into the big stack in the same place as before. Will this result in
 having any segments cross? What are your assumptions for this?
 - Five: You start a world with a single bacterium at the origin of an infinite plane grid. When it divides, its successors move one vertex north and one
 vertex east, so that they now occupy points ```(0,1)``` and ```(1,0)```. The bacteria continues to divide, always with one successor north and the other
-to the east, provided both of these points are unoccupied. How long does it take to clear the chess board. I realize that this is a difficult problem
+to the east, provided both of these points are unoccupied. How long does it take to clear the chess board? I realize that this is a difficult problem
 to visualize, but if these kinds of problems interest you, definitely check out and subscribe to the weekly puzzles! I believe he said he may be publishing
 a book of all of them, and I would definitely plan on purchasing one if that is the case (it may also be made free online, too).
 - Six: Each grid on the XY plane on or below the X axis is occupied by a peg. At any time, a peg can jump over a neighbouring peg (diagonally, horizontally
