@@ -11,7 +11,7 @@
   
 ## 2022
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2022
-- I reviewed a Haskell book!
+- I reviewed a Haskell book and a Haskell article!
 - I will be on an upcoming episode of Corecursive! (x2: New Year's episode, April Fool's episode) :)
 - I will be giving a talk at the "Math for Math's Sake" Meetup, giving a lightning talk on isogenies.
 - I will be giving an Isogenies talk (and a bit of context for my research) for CSRMP's Alumni Research panel. I will also be a panelist for their Alumni panel!
@@ -25,7 +25,8 @@ study group.
 - I have been assigned two mentors for Microsoft's Tech Resilience Programme.
 - I have been assigned mentor from NCWIT's AiC Program!
 - I will be attending Discrete Maths Days with some awesome Combinatorics people this year in person!
-- I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full funding!).
+- I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!).
+- I will be attending the PCMI IAS/Park City Maths Institute Summer Graduate school on Computation Number Theory (with full-funding)!
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
