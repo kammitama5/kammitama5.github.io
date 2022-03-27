@@ -85,11 +85,11 @@ Perhaps most of your friends are software engineers? At this point, I know a num
 and aren't in software. It's a very attainable goal in software (the timeline is shorter, it's easier to switch from another field), but it isn't the only way. 
 Some friends make more than software engineers, too! Some are retired already, in my age group. Some have private chefs; I don't think I've 
 met software engineers who regularly have this, btw. Some will never buy a house because they aren't interested / it isn't a goal for them.
-Software eng is not a career that is associated with getting to know power structures at the highest level unless you "manager up", and that has its
-tradeoffs. Being clear about what goals you want to accomplish (is being a role-model important, is power and fame important? Is having a family important)
+Software eng is not a career that is associated with getting to know power structures at the highest level unless you "manager up" (nor is it associated with the traditional kind of charisma or charm associated with historical leadership figures), and that has its
+tradeoffs. Being clear about what goals you want to accomplish (is being a role-model important, is power and fame important? Is having a family important, is legacy important?)
 is a better metre of prospective happiness than "this makes a lot of money", even though, yes, it *can* be a start, particularly for those who do not
 come from a background of privilege. I have also met several persons who *did* come from privilege who *loathed* software engineering or would never
-consider it, because prestige and having access to power at the highest levels of society runs deep in their family name and heritage, and that is where they seek validation.
+consider it, because prestige and having access to power at the highest levels of society runs deep in their family name and heritage, and that is where they seek validation. Some have traded wealth to pursue neither, or for careers with access to power and fame, but with less monetary gains because this is where they find happiness and validation. To each his own.
 Do what you love, or find a way to do it. If you change your mind, that's fine, too. One of the things I'd really like to do moving forward in my 
 career is not be caught up in such a bubble where I can only see the perspectives of people within my field. I would lose my mind because I loathe
 insular circle-jerking. Life is fun when people along the way can challenge the way you think, or engage in meaningful discussions with you.
