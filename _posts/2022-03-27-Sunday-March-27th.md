@@ -46,9 +46,11 @@ So I got more! I also got a bunch of teas because well, tea-person (waves).
 
 ## I got into another graduate Pure Maths summer school!!
 - I am so excited! It's the Park City summer [school](https://www.ias.edu/pcmi/2022-graduate-summer-school-course-descriptions) focused on Computational Number Theory. There are isogenies and crypto lectures and 
-in total, it will be around 300 of us! I received full funding, too! How awesome!? And on top of that, my advisor will be there, too!
+in total, it will be around 300 of us total attending (undergrads, graduate, etc)! I received full funding, too! How awesome!? And on top of that, my advisor will be there, too!
 I couldn't be happier!
-- It's been a dream for me of attending, too! I don't know why, but it feels like this particular community has been so welcoming, and I love it!
+- It's been a dream of mine to attend, too! I don't know why, but it feels like this particular community has been so welcoming, and I love it!
+- My parents say that all I talk about is Pure Mathematics; I seem to be sailing on a cloud of happiness in this space. I know that I have a lot to learn,
+but I'm really happy here! This past weekend, they said I sound like I am on a high every time I talk about it!
 - The parts where we use computers are also more my kind of jam, too. I really like doing things with numbers moreso than building applications.
 It took me SO long to figure this out when I started learning computer things because that was the advice I was given by most; "learn to build
 the applications and do the web things", and I was like "no, I want to just work on small puzzles all day". As it turns out, you can do this!
