@@ -79,9 +79,9 @@ on it. I generally love writing proposals and grant things and do them on my own
 myself I don't know coding things really well, because quite frankly I enjoy solving puzzles more than building applications. I started going back
 into doing CodeWars (but haven't posted my solutions like I used to in the github repo), and I'm still pretty up there in terms of ranking (currently
 in the top ```.3%``` (point three percent) of all users on the platform), even though I haven't been there in a while. Solving puzzles is an itch I have to scratch, but I don't
-think I'd be happy building say, a web application or whatever. And that was part of my consideration for grad school. I much more enjoy what I'm
+think I'd be happy building say, a web application or whatever. And yes, you do solve problems when you build applications, but it's a different kind of problem-solving, I think. And whatever it is (let's call it Bob?), I don't enjoy it (Bob) that much. I like working on smaller concept things for long periods of time, where my time is uninterrupted. I don't even mind writing on boards or on paper for most of the time, and writing up the solutions in LaTeX. And that was part of my consideration for grad school. I much more enjoy what I'm
 doing more, because it's more along the lines of the solving puzzles in the way I like than in other capacities I may have liked less (and been 
-unhappy about, even though yes, I know those jobs pay well, too).
+unhappy about, even though yes, I know those application jobs pay well, too).
 - Very funny observation: someone pointed out that they only know software engineers who own houses, and I laughed. That's completely not true.
 Perhaps most of your friends are software engineers? At this point, I know a number of persons across fields who own houses (some more than one!)
 and aren't in software. It's a very attainable goal in software (the timeline is shorter, it's easier to switch from another field), but it isn't the only way. 
