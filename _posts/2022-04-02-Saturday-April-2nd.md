@@ -80,7 +80,7 @@ it's been a LONG time coming. Ten, twenty years before any recognition. I guess 
 they were always in conflict with Dimanche Gras, which is a staple of our Carnival celebrations at home), but because of how many analogies I have been
 able to draw between the two worlds. It feels effortness to exist in Academia; the two worlds seem so similar, but I can be more of myself in this one.
 I am understood more here.
-- By the way, Academia isn't less crazy. There are a similar number of weirdos, politics, drama, but I haven't met a guy who walked into a place with
+- By the way, Academia isn't less crazy. There are similar numbers of weirdos, politics, drama, but I haven't met a guy who walked into a place with
 blood running down his leg (yet), or someone showing up for lunch on a set, laying a bunch of orange safety cones, cursing people out, and then leaving after
 lunch and taking their cones. I think people have to be a bit more discreet about their alcohol and coke habits here compared to entertainment. Do it
 after hours lol.
