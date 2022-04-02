@@ -16,7 +16,7 @@ properly a Pure Maths grad student, so I am shielded from some aspects of their 
 - I did get a little taste of it this week because we're going to a conference this month (a group of us) and our funding has to be separate
 because although I'm super involved with their group, I am not properly a student in their group, so my funding situation is a different department.
 So it's very circuitous, but this is the life. And to be honest, it's a small inconvenience for one of the best spaces I've been in, in a long time.
-- And just as those purusing careers in film (or Academia), it is difficult to make a dent in the world. Things are unfair in both worlds, and some come in
+- And just as those pursuing careers in film (or Academia), it is difficult to make a dent in the world. Things are unfair in both worlds, and some come in
 with advantages others don't. For example, I knew persons who came in with substantial access to funding, to start off by producing their own
 film (of course that they could put themselves in), and others who could barely afford a head shot, and had to work for whatever they could get.
 Similarly, there are some schools with staff working at the Oscars and those staff will recruit interns so those students have their initial experience on their resume as having worked at the Oscars (a huge deal); I have friends who have had this privilege.
@@ -24,7 +24,7 @@ Eventually, you can (just as in Academia), ask yourself if you even have a chanc
 comparisons continue; even within my friends who attended those institutions, some went on to success (I have friends who have obtained Emmy awards
 who are alumni of that school), and others who are still struggling. So there are so many similarities in those paths, and similarly, the same issues
 of underrepresentation in certain perspectives, because just like in Academia, many "breaks" are obtained by people who see "a bit of themselves in you".
-I was fortunate to obtain a mentor in the first 14 days of arriving (four of use were hand-picked: one still does the Oscars or has his own firm by now, another is a consultant at one of the top companies for consulting after doing an MBA at an Ivy, etc, but we all started out in lighting and I was the only female / non-white person of the group), who really looked after me and is still a mentor today, but for some, they never
+I was fortunate to obtain a mentor in the first 14 days of arriving (four of us were hand-picked: one still does the Oscars or has his own firm by now, another is a consultant at one of the top companies for consulting after doing an MBA at an Ivy, etc, but we all started out in lighting and I was the only female / non-white person of the group), who really looked after me and is still a mentor today, but for some, they never
 have the opportunity. As my friend also reminded me when I returned to Trinidad, a lot of my family is known in the Arts as well, so I had certain
 privileges. Even then, I think it's more worthwhile for the person who wants it more; create a space for them rather than the person for whom it was
 a shoe in (although they can both coexist, but they should learn from each other's paths). They both bring interesting perspectives to the table.
