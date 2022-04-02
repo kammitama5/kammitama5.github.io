@@ -72,7 +72,7 @@ I read. I do now and it makes me incredibly happy.
 ## However
 - One of the things I did learn from that world was about paths. A friend of mine this week really liked what I said when we were discussing this concept
 of being an intellectual and generating ideas. I said that that immediately reminded me of the film industry, where most persons think that to have a 
-career,they need to suck up to execs at big studios (ha..this can be related to some large tech research companies, too, I guess). But the truth is that
+career,they need to suck up to execs at big studios (ha..this can be related to some large tech research companies, too, I guess. The truth is that if you have something they can't ignore, they'll kiss up to *you*). But the truth is that
 for most, a career is built by slogging in smaller, no-nothing films, and as people move up and get bigger and bigger breaks, they take people they like
 working with along. So say, in 10 years, with a handful of lucky breaks, you end up getting your union card and working on large movies. Of course, there
 are other things involved, like the roster and such nonsense like that, which has some element of luck to it, but my point still stands. What matters most
