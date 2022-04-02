@@ -50,6 +50,9 @@ a lot of abusive behavior because of this. When qualifications can't be checked 
 up this insecurity (especially having to work next to a black, competent female crew member) in a number of ways, including hazing. And these people
 skip from gig to gig, even though everyone knows they are incompetent. I breathe a sigh of relief every time I realize that this is less possible in 
 my current space; the bar is higher than a breathing test.
+- There is something about Hollywood and working in that space that makes you replay failures over and over in your head, even when you are considered
+"successful". It's a very dangerous place to be in if you are a perfectionist and an A-type personality. So naturally, people like that gravitate there,
+as do persons who seek validation. Oh wait...the same might be said for Academia haha.
 - A friend of mine
 who attended Berkeley got me into reading philosophy books in-between takes on the back of our electrician's truck. He fluctuates between doing comedy
 and tech, but was properly frustrated by that aspect of that world. It's a tradeoff that I was very happy to leave behind, and in a way I never fit
