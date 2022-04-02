@@ -53,6 +53,11 @@ my current space; the bar is higher than a breathing test.
 - There is something about Hollywood and working in that space that makes you replay failures over and over in your head, even when you are considered
 "successful". It's a very dangerous place to be in if you are a perfectionist and an A-type personality. So naturally, people like that gravitate there,
 as do persons who seek validation. Oh wait...the same might be said for Academia haha.
+- Just like Academia, in film it's an accomplishment to even just still *be there*. A friend of mine was celebrating this week that he finally obtained
+his permanent residency (and as an extraordinary alien!), but he has had to claw his way through, and a part of me deep down wants him to make it.
+But I know that there is also a bit of luck involved, too. I'm excited to see what's next for him, now that he has more freedom and that he's *still there*. It's true, though; you can go to any crew sheet from 5 years ago and look up people who were on there, and look them up on LinkedIn and it is 
+pretty much a given that persons are either still plugging along or at least half have left the biz entirely (the states they go to are pretty wild, too.
+Like, okay, the person who did sound for this now lives in Iowa and works at Staples as a general manager? Okay then.)
 - A friend of mine
 who attended Berkeley got me into reading philosophy books in-between takes on the back of our electrician's truck. He fluctuates between doing comedy
 and tech, but was properly frustrated by that aspect of that world. It's a tradeoff that I was very happy to leave behind, and in a way I never fit
