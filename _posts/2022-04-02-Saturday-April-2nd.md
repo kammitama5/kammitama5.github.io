@@ -43,7 +43,7 @@ would try to find a reason to underpay people for that job, and the market is su
 people would just walk away and go to another place that pays more competitively, especially as their skills grow. Good thing I didn't mention that I was interviewing and 
 eventually worked at that very place lol.) and outside of my occasional rantings about academia,
 I seem pretty happy. Not to say there isn't pain (there is in every field in which you are making
-your way), but it makes sense the most. 
+your way, especially in very competitive ones like the fields I have been in; all of the fields I have been in have been *very* cutthroat, which is why I think software engineering as a career is less appealing to me), but it makes sense the most. 
 - When I was in film, I was often frustrated by how anti-intellectual everything was; I was an oddball in that sense. It is an occupation
 where you can literally be working on a crew next to someone who has a questionable background and not know it, and I experienced
 a lot of abusive behavior because of this. When qualifications can't be checked and people can fudge things to get the job (ie money to pay rent), people try to make
