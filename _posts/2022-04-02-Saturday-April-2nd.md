@@ -106,6 +106,11 @@ too many mathematicians.
 - Combinatorics: Last vertex visited on a random walk: cover tours, random cover tours, etc
 - Math Grad seminar: a talk inspired by R. Bell's Etale Fundamental Group. Also mentioned [The Freshman's Dream](https://en.wikipedia.org/wiki/Freshman%27s_dream)
 
+## Other Things
+- I am musing about next semester; there was originally a plan of not taking classes at all, but I might just sign up for Complex Analysis and a Graduate
+Combinatorics class on Spectral Graph Theory. But this is not confirmed yet. I have until the 11th, which is when I sign up for classes (or not).
+- I get to hang out with my mentor from CSRMP this week! Hooray!
+
 ## Things
 - I actually had to give up a summer school this week, and I was super sad about it and moped for a day or two, but hopefully I can look at the notes and attend another time.
 - I'm still able to attend the other one, thankfully!
