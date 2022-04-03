@@ -4,14 +4,14 @@
 - So I wanted to post for April Fool's but decided to skip it, although one of my Maths profs says he has typically been known to include "solutions" links for
 April Fool's that rickroll his students. 
 - I ended my day by hanging out with some Math friends, at all places, a bar
-in downtown burlington. Very interesting is the fact that every time I've hung out with people here, they've been grateful because they know I like
+in downtown Burlington. Very interesting is the fact that every time I've hung out with people here, they've been grateful because they know I like
 to work and rarely come out. But it was fun and I got to settle in with a glass of wine, knowing I was planning on sleeping in anyways.
 - Also very funny that on the way out with one of my Maths friends, he asked if I was going home to hit the books and I casually responded "yeah most
 likely" and he laughed. That would pretty much still be me, even with a glass of wine in me.
 - I have a couple things in the works and had to get into some summer planning stuff this week, ended a mentorship, started another one and had a
 conversation with a cryptography peer that ended up being one of the highlights for me this week. My friend is finishing up their degree, so it's
 great to hear that perspective. Honestly, as I've told my peers at school, I find myself not quite in tune with what is going on at my own
-institution, since apparently I'm involved in a lot more gropus outside (with the exception of the Pure Maths grad group, but even then I'm not
+institution, since apparently I'm involved in a lot more groups outside (with the exception of the Pure Maths grad group, but even then I'm not
 properly a Pure Maths grad student, so I am shielded from some aspects of their lives at our institution eg. internal bureaucracy, etc).
 - I did get a little taste of it this week because we're going to a conference this month (a group of us) and our funding has to be separate
 because although I'm super involved with their group, I am not properly a student in their group, so my funding situation is a different department.
