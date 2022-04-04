@@ -63,7 +63,7 @@ pretty much a given that persons are either still plugging along or at least hal
 Like, okay, the person who did sound for this now lives in Iowa and works at Staples as a general manager? Okay then.)
 - A friend of mine
 who attended Berkeley got me into reading philosophy books in-between takes on the back of our electrician's truck. He fluctuates between doing comedy
-and tech (which is why I don't believe in putting people into singular boxes; you can live "between" two groups / passions), but was properly frustrated by that aspect of that world. He's always trying to reconcile his love for comedy with the frustration of how unintellectual the sausage factory of the fim industry is. It's a tradeoff that I was very happy to leave behind, and in a way I never fit
+and tech (which is why I don't believe in putting people into singular boxes; you can live "between" two groups / passions), but was properly frustrated by that aspect of that world. He's always trying to reconcile his love for comedy with the frustration of how unintellectual the sausage factory of the film industry is. It's a tradeoff that I was very happy to leave behind, and in a way I never fit
 because I am an intellectual, and being an intellectual is very lonely in that world. I used to read books in the morning on Architecture, Automotive
 Lighting and Electricial Codes (the resistor codes), in a Ralph's grocery store across the street from where I worked, at the seating at a Jamba Juice.
 It was an escape for me from a life of anti-intellectualism or rather, pseudo-intellectualism, but I would never have anyone to talk to about the things
