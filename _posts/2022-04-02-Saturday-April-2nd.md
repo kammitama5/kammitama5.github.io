@@ -55,7 +55,7 @@ my current space; the bar is higher than a breathing test.
 as do persons who seek validation. Oh wait...the same might be said for Academia haha. 
 - Btw, no one really goes from hauling cables and repairing fixtures
 to like, doing a PhD in computer science and stuff, so I'm definitely one of those random stories people in that world go wtf at occasionally, and I always laugh about it ("yeah, what ever happened to her? I don't see her on sets anymore"). Most of the persons I know didn't spend as much time in that world; they quickly did IT or whatever (web dev, etc), while I was still slogging around, learning the technical filmmaking craft. One of my friends said the other day that there was NO
-one like me and nor will there ever be in that world, and they miss how kick@$$ I was. But now we know why (shrug).
+one like me and nor will there ever be in that world, and they miss how kick@$$ I was (in my mind, I had reached my limit for learning / growing in that world). But now we know why (shrug).
 - Just like Academia, in film it's an accomplishment to even just still *be there*. A friend of mine was celebrating this week that he finally obtained
 his permanent residency (and as an extraordinary alien!), but he has had to claw his way through, and a part of me deep down wants him to make it.
 But I know that there is also a bit of luck involved, too. I'm excited to see what's next for him, now that he has more freedom and that he's *still there*. It's true, though; you can go to any crew sheet from 5 years ago and look up people who were on there, and look them up on LinkedIn and it is 
