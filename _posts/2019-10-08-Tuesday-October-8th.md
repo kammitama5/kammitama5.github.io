@@ -268,10 +268,14 @@ study group.
 - Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (in progress)
 - Abstract Algebra 4: Special Topics: Elliptic Curves and Modular Forms (MATH 395C) (SP 22) (in progress)
 - Random Probabilistic Graphs (MATH 373A) (SP 22) (in progress)
+- Complex Analysis (MATH 247) (FA 22) (upcoming)
+- Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (upcoming)
 
 ## Kinda-sorta (Audit) (2021 Winter: done)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (EE 374) (SP21)
 - Number Theory (MATH 255A) (SP 22)
+- Fundamentals of Mathematics (MATH 52) (SP 22)
+- Topology (Seminar, self-study w/ research credits) (FA 222)
 
 ## Wish list of Classes (ie TODO)
 - Number theory (done)
