@@ -253,7 +253,7 @@ study group.
 - Compilers class (202) (SP20)
 - Advanced Web Design class (142) (SP20)
 
-## Current Classes (completed)
+## Current Classes (either completed or in-progress)
 - Software Verification (295A) (FA19)
 - Data Privacy (295B) (FA19)
 - Human Computer Interaction (228) (FA19)
@@ -271,7 +271,7 @@ study group.
 - Complex Analysis (MATH 247) (FA 22) (upcoming)
 - Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (upcoming)
 
-## Kinda-sorta (Audit) (2021 Winter: done)
+## Kinda-sorta (Audit)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (EE 374) (SP21)
 - Number Theory (MATH 255A) (SP 22)
 - Fundamentals of Mathematics (MATH 52) (SP 22)
@@ -285,6 +285,7 @@ study group.
 - Measure Theory
 - Combinatorics
 - Graph Theory
+- Algebraic Topology
 - More Abstract Algebra :)
 
 ## I think this means I'm not doing *too* badly
