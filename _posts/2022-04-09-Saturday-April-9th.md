@@ -60,7 +60,7 @@ They call things out in private, which is a hilarious thing to experience. It gi
 ## Stuff
 - Number Theory: Legendre Symbol
 - Random Probabilistic Graphs: Bond Percolation, Dual Graphs, an evil puzzle to trick us from a naughty professor :) (coincidentally going to conference
-in a few weeks with this naughty professor :)
+in a few weeks with this naughty professor) :)
 - Algebra IV: Groebner Basis example, went over quiz question on Tensor Products, Elimination Theorem, Groebner basis examples in Sage
 - Combinatorics Seminar: Skeletal Parking functions, cycling and Dyck paths
 - Math Grad Seminar: I had surgery (I have stitches and felt wiped out!) and didn't end up going :( But I rested in the afternoon and attended the conference and a seminar virtually
