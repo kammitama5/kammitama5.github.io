@@ -31,6 +31,9 @@ is that it turned me off even more. I don't think that person understood that mo
 not merely company name or prestige. I really like what I am doing now because it's a nice, small space. I can focus and be left alone to do
 actual work and build up my network. I may not be a first pick as much for grants and talks because it's less hyped, but I'm okay with it.
 I feel like I intellectually gave up a diet of chocolate and ice cream for fruits, and that's okay.
+- Have you ever been on a ride to see the cycle of a thing that succeeded? I have in my lifetime, many times over. I've been in the midst of communities
+that "blew up", which were corrupted by corporate interests or attention, and while it is nice to see persons being acknowledged for their work,
+there is always a tradeoff. Something about the original community is always *lost*, no matter how much we plan for it not to *every single time*.
 - That reminded me of a post I saw on reddit this week, where someone commented "if we could get over back patting and overhyping ourselves", and 
 remarked that software eng probably has the highest concentration of persons who "think they are smart". Perhaps that is the difference between
 traditional engineering and software engineering (some engineers don't call software engineering real engineering lol). Many engineers who are not
