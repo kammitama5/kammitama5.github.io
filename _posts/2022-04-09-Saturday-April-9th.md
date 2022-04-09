@@ -28,7 +28,9 @@ Thankfully, there are still some great persons helming their own institutions to
 understand how difficult it is to push for an idea that is critical of "things we make for world peace, inc". Someone even told me that I should
 "jump on board to this team now", as though that is what would drive me; the prestige of being affiliated with the company and that team. The truth
 is that it turned me off even more. I don't think that person understood that most researchers who have been around the block follow people and projects, 
-not merely company name or prestige.
+not merely company name or prestige. I really like what I am doing now because it's a nice, small space. I can focus and be left alone to do
+actual work and build up my network. I may not be a first pick as much for grants and talks because it's less hyped, but I'm okay with it.
+I feel like I intellectually gave up a diet of chocolate and ice cream for fruits, and that's okay.
 - That reminded me of a post I saw on reddit this week, where someone commented "if we could get over back patting and overhyping ourselves", and 
 remarked that software eng probably has the highest concentration of persons who "think they are smart". Perhaps that is the difference between
 traditional engineering and software engineering (some engineers don't call software engineering real engineering lol). Many engineers who are not
