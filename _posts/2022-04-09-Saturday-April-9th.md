@@ -51,7 +51,7 @@ changed, too; I began seeing less persons willing to be openly critical of the t
 Academia or industry or have worked both, and students like myself, and it's been a space where we can speak honestly about our experiences. It's been
 quite refreshing for me, but I won't comment on specifics out of respect for the space.
 - I went to a negotiation seminar this week from a friend who is finishing up her defense and was job-negotiating (I say this because they are the type
-of rockstar who really doesn't have to "job-hunt"; jobs come to them. In fact, in Academia, this can very much be the case; jobs aren't really advertised.
+of rockstar who really doesn't have to "job-hunt"; jobs come to them). In fact, in Academia, this can very much be the case; jobs aren't really advertised.
 A person you may have collaborated with or know might move to or start a lab or research institution, and invite you as someone they want to work with,
 who they think has value to add to the organization. As such, persons tend to even know *before* it is announced when someone moves, because of these
 networks. And I kid you not, the networks are some of the *best* aspects of this space. You think people don't know, but they know. Oh boy, do they know.
