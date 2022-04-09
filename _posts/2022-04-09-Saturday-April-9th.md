@@ -39,7 +39,7 @@ another note about the relative "safeness" of this career path. But I am not a s
 to roll my eyes now at the seeming lack of realization of how much selection bias is on that channel and prestige worker-bee lobbying.
 - I guess that every field has that kind of space. When IMDB forums used to be a thing (I think they were mostly removed because of trolling, but
 were pretty fun to read back in the day), you probably wouldn't regularly see top director on there, but you would find many no-names arguing over
-how deep and intellectual they were, and how director was the greatest of all time. I know someone who would deliberately troll some of the more
+how deep and intellectual they were, and how the director was the greatest of all time. I know someone who would deliberately troll some of the more
 popular megabuster ones, and boy did they stir up a lot of butthurt on there. 
 - I've felt like I've also seen this trajectory of sycophancy in events like I/O. I could be wrong, but in 2016, when I first attended, it was a place where I could
 see what people had built with various technologies using their hardware or software, and as the years progressed, it became entirely more corporate,
@@ -50,7 +50,7 @@ changed, too; I began seeing less persons willing to be openly critical of the t
 - I'm attending a conference this weekend, the BlackComputeHER conference! It's been fantastic! I've met *so* many of my peers who are researchers in
 Academia or industry or have worked both, and students like myself, and it's been a space where we can speak honestly about our experiences. It's been
 quite refreshing for me, but I won't comment on specifics out of respect for the space.
-- I went to a negotiation seminar this week from a friend who is finishing up her defense and was job-negotiating (I see this because they are the type
+- I went to a negotiation seminar this week from a friend who is finishing up her defense and was job-negotiating (I say this because they are the type
 of rockstar who really doesn't have to "job-hunt"; jobs come to them. In fact, in Academia, this can very much be the case; jobs aren't really advertised.
 A person you may have collaborated with or know might move to or start a lab or research institution, and invite you as someone they want to work with,
 who they think has value to add to the organization. As such, persons tend to even know *before* it is announced when someone moves, because of these
