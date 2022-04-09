@@ -22,7 +22,7 @@ was one of lauding all the "new innovations", but I remember sitting next to him
 themselves could have just hired their own internal shill to publish an article.
 - I sometimes think similarly about AI Ethics and fairness; I've had several tech companies contact me because they're starting up or hiring for these
 kind of internal organizations, and immediately I develop an upthrust feeling of nausea. In fact, it has helped me to realize more than ever why I would
-want to distance myself from that whole space. I can see it moving in the direction of my previous chunk of thinking; moving from a space where persons
+want to distance myself professionally from that whole space. Fairness and ethics are part of my community discussion; I (or most of us) don't need a corporate job to validate *our* concerns as a community about harmful effects. And most of us will still be talking about it long after these corporate interests have moved on. I can see it moving in the direction of my previous chunk of thinking; moving from a space where persons
 can critically talk about the harms of technology, to a space where companies are lauded for their adherence to AI ethics (but who keeps this in check?).
 Thankfully, there are still some great persons helming their own institutions to do this kind of work; if you have been in tech for a bit, you can 
 understand how difficult it is to push for an idea that is critical of "things we make for world peace, inc". Someone even told me that I should
