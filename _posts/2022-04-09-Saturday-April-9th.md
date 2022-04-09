@@ -68,7 +68,8 @@ in a few weeks with this naughty professor) :)
 - Spoke with professor about classes for Fall 2022
 
 ## Other stuff
-- I Found a [Buchberger paper](https://arxiv.org/pdf/2109.02806.pdf) I wanted to read from a tweet.
+- I Found a [Buchberger paper](https://arxiv.org/pdf/2109.02806.pdf) I wanted to read from a tweet. I made a joke about unique Groebner bases and NFTs
+this week in class, and I am disturbed to know it might actually be a thing.
 - I have a proposal to complete with a deadline coming up.
 - I have some paperwork stuff to complete, and a review.
 - I missed a morning lecture that is recorded so I can catch up on that and do the in-class assignment for that.
