@@ -34,6 +34,9 @@ I feel like I intellectually gave up a diet of chocolate and ice cream for fruit
 - Have you ever been on a ride to see the cycle of a thing that succeeded? I have in my lifetime, many times over. I've been in the midst of communities
 that "blew up", which were corrupted by corporate interests or attention, and while it is nice to see persons being acknowledged for their work,
 there is always a tradeoff. Something about the original community is always *lost*, no matter how much we plan for it not to *every single time*.
+It's also funny how only a sliver of the original community, or sometimes not even the original creators, receive the credit they deserve. All of
+a sudden, the community also starts asking "who are these people", and bemoans how easily they become spokespersons for and receive credit for decades
+of work they did not do. I've seen the cycle many times in my life, in music, the Arts, etc.
 - That reminded me of a post I saw on reddit this week, where someone commented "if we could get over back patting and overhyping ourselves", and 
 remarked that software eng probably has the highest concentration of persons who "think they are smart". Perhaps that is the difference between
 traditional engineering and software engineering (some engineers don't call software engineering real engineering lol). Many engineers who are not
