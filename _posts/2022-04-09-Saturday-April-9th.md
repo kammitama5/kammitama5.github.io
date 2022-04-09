@@ -64,7 +64,7 @@ networks. And I kid you not, the networks are some of the *best* aspects of this
 They call things out in private, which is a hilarious thing to experience. It gives me so much optimism about this space.
 
 ## Stuff
-- Number Theory: Legendre Symbol
+- Number Theory: Legendre Symbol, quadratic reciprocity
 - Random Probabilistic Graphs: Bond Percolation, Dual Graphs, an evil puzzle to trick us from a naughty professor :) (coincidentally going to conference
 in a few weeks with this naughty professor) :)
 - Algebra IV: Groebner Basis example, went over quiz question on Tensor Products, Elimination Theorem, Groebner basis examples in Sage
