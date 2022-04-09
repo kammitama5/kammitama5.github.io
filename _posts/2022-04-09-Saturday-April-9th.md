@@ -36,7 +36,7 @@ that "blew up", which were corrupted by corporate interests or attention, and wh
 there is always a tradeoff. Something about the original community is always *lost*, no matter how much we plan for it not to *every single time*.
 It's also funny how only a sliver of the original community, or sometimes not even the original creators, receive the credit they deserve. All of
 a sudden, the community also starts asking "who are these people", and bemoans how easily they become spokespersons for and receive credit for decades
-of work they did not do. I've seen the cycle many times in my life, in music, the Arts, etc. And I've seen childhood sweethearts and marriages become broken up because of the success of a thing.
+of work they did not do. I've seen the cycle many times in my life, in music, the Arts, etc. And I've seen childhood sweethearts and marriages become broken up because of the success of a thing. I am always poking around eclectic, new communities, and I've seen them become consumed and washed out.
 - That reminded me of a post I saw on reddit this week, where someone commented "if we could get over back patting and overhyping ourselves", and 
 remarked that software eng probably has the highest concentration of persons who "think they are smart". Perhaps that is the difference between
 traditional engineering and software engineering (some engineers don't call software engineering real engineering lol). Many engineers who are not
