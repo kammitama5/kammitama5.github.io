@@ -1,4 +1,4 @@
-## A Tiring week
+## BlackComputeHER, a Tiring week, and Consumption
 
 ## This week was draining for me
 - It was one of those administrative weeks that sucks up your time because as we all know, in Academia, one does not just *do the task*. Often,
