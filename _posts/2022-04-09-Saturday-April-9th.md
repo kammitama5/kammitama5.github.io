@@ -52,10 +52,14 @@ see what people had built with various technologies using their hardware or soft
 and I enjoyed those aspects less. I don't want to be sold things; I enjoyed seeing what people built with them. And as such, the audience for the events
 changed, too; I began seeing less persons willing to be openly critical of the tooling and systems, and more fanboys.
 
-## Anyways
+## BlackComputeHER22
 - I'm attending a conference this weekend, the BlackComputeHER conference! It's been fantastic! I've met *so* many of my peers who are researchers in
 Academia or industry or have worked both, and students like myself, and it's been a space where we can speak honestly about our experiences. It's been
 quite refreshing for me, but I won't comment on specifics out of respect for the space.
+
+<img src="/images/blkcompute22.png" width="400">
+
+## Negotiation and Community
 - I went to a negotiation seminar this week from a friend who is finishing up her defense and was job-negotiating (I say this because they are the type
 of rockstar who really doesn't have to "job-hunt"; jobs come to them). In fact, in Academia, this can very much be the case; jobs aren't really advertised.
 A person you may have collaborated with or know might move to or start a lab or research institution, and invite you as someone they want to work with,
