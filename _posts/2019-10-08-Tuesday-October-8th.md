@@ -24,7 +24,7 @@ study group.
 - I have been chosen as a BlackComputeHER Fellow (2022-2023). I am honoured!
 - I have been assigned two mentors for Microsoft's Tech Resilience Programme.
 - I have been assigned a Facebook Research mentor from NCWIT's AiC Program!
-- I have been invited to AsanaLaunch's Technical Prep Series.
+- I have been invited to Asana's AsanaLaunch Technical Prep Series.
 - I will be attending Discrete Maths Days with some awesome Combinatorics people this year in person!
 - I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!).
 - I will be attending the PCMI IAS/Park City Maths Institute Summer Graduate school on Computation Number Theory (with full-funding)!
