@@ -17,7 +17,7 @@ have to be aware of employee happiness or dissatisfaction, productivity, while k
 this week on a podcast who said that what many persons refer to as businesses are in fact side hustles, because they don't have employees
 (besides the person who claims they run a business),
 and a real business is scalable. Regardless of whether or not you agree, I think the idea of scalability of managing is super interesting. Many
-engineers who manager up in tech can barely manage a single employee (*laughs in agile*).
+engineers who "manage(r)-up" in tech can barely manage a single employee (*laughs in agile*).
 - This week I learned a bit about the Research Scientist recruitment process (for full-time) at one industrial lab from a mentor (who is also
 a manager at a different FAANG and manages several teams: so scalability came up again and by definition their bar for hiring must be high for things
 to work). If there was ever a way
