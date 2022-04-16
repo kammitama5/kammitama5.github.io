@@ -44,13 +44,13 @@ rough.
 - Number Theory: Continued Fractions
 - Elliptic Curves: Lattices, Eisenstein Series, beginning Modular Forms soon!
 - Combinatorics Seminar: Higher Categorical Associahedra, Parenthesization of words (bracketing), 2-associahedra, Loday Assoiahedron, 
-creating fans from polytopes, Fukaya categories and braid arrangements
+creating fans from polytopes, [Fukaya categories](https://en.wikipedia.org/wiki/Fukaya_category) and braid arrangements
 - Math Grad Seminar: I heard it was a talk on Matroids but I ended up burning out and went home to nap instead.
 - Went to the end of a seminar on Cayley Graphs
 - Went to a weekly probability seminar I attend on Moments and Conditional Dependence.
 - Went to a Grad Symposium on the ABC Conjecture. Surprisingly, I saw some elliptic curves stuff in there, and was able to follow along! Yay!
 
-## One of my Maths friends gave me an origami gift!
+## One of my Pure Maths friends gave me an origami gift!
 - It folds on itself three times. 
 
 <img src="/images/sphincter22.png" width="200">
