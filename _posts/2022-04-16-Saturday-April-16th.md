@@ -43,7 +43,7 @@ rough.
 - Random Prob Graphs: Lovasz Local Lemma (started working on homework for this tonight)
 - Number Theory: Continued Fractions
 - Elliptic Curves: Lattices, Eisenstein Series, beginning Modular Forms soon!
-- Combinatorics Seminar: Higher Categorical Associahedra, Parenthesization of words (bracketing), 2-associahedra, Loday Assoiahedron, 
+- Combinatorics Seminar: Higher Categorical Associahedra, Parenthesization of words (bracketing), 2-associahedra, Loday Associahedron, 
 creating fans from polytopes, [Fukaya categories](https://en.wikipedia.org/wiki/Fukaya_category) and braid arrangements
 - Math Grad Seminar: I heard it was a talk on Matroids but I ended up burning out and went home to nap instead.
 - Went to the end of a seminar on Cayley Graphs
