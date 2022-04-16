@@ -56,6 +56,6 @@ creating fans from polytopes, Fukaya categories and braid arrangements
 <img src="/images/sphincter22.png" width="200">
 
 - I also learned that apparently elliptic curves are the "cesspool of Maths". So I am studying post-quantum safe endomorphic cesspool encryption.
-Nice! 
+Nice! I literally couldn't be happier :)
 
 ## And that's it!
