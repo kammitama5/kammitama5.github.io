@@ -38,16 +38,16 @@ rough.
 - Yoga saved my neck this week; I would have tipped over easily this week and crashed and burned if I didn't stick to practising during the week.
 - I am going to a conference next weekend (yes, it's a Pure Maths one)! I will try to post a photo or two of my time there. It should be very fun!!
 
-## Stuff
+## Stuff we covered this week:
 - Algebra: Primary Decomposition, Colon Ideals
 - Random Prob Graphs: Lovasz Local Lemma (started working on homework for this tonight)
 - Number Theory: Continued Fractions
 - Elliptic Curves: Lattices, Eisenstein Series, beginning Modular Forms soon!
 - Combinatorics Seminar: Higher Categorical Associahedra, Parenthesization of words (bracketing), 2-associahedra, Loday Hassoiahedron, 
 creating fans from polytopes, Fukaya categories and braid arrangements
-- Math Grad Seminar: I heard it was a talk on Matroids but I ended up burning out and went home to nap instead
+- Math Grad Seminar: I heard it was a talk on Matroids but I ended up burning out and went home to nap instead.
 - Went to the end of a seminar on Cayley Graphs
-- Went to a weekly probability seminar I attend on Moments
+- Went to a weekly probability seminar I attend on Moments and Conditional Dependence.
 - Went to a Grad Symposium on the ABC Conjecture. Surprisingly, I saw some elliptic curves stuff in there, and was able to follow along! Yay!
 
 ## One of my Maths friends gave me an origami gift!
