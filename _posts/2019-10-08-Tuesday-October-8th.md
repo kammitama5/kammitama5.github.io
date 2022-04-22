@@ -28,6 +28,7 @@ study group.
 - I will be attending Discrete Maths Days with some awesome Combinatorics people this year in person!
 - I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!).
 - I will be attending the PCMI IAS/Park City Maths Institute Summer Graduate school on Computation Number Theory (with full-funding)!
+- Check out our opening remarks at ICLR's conference this year (virtual), as well as the workshop ware hosting for first-time submitters and others traditionally underrepresented in research!
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
