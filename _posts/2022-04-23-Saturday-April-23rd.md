@@ -12,7 +12,8 @@ carry back.
 - On our trip down, we saw goats for sale and pondered buying a Combinatorial goat for our lab and naming him Catalan. We also ate deep dish
 pizza on the first night and both nights we stayed up pretty much close to midnight. We were supposed to make it down to the lake, but didn't
 get around to that, but we found this awesome place downtown to chat. In the middle of that, I was somehow convinced to join a Category Theory
-course, which is hilarious. So I went home on the night we checked in and emailed a professor about joining that (lol). The whole ride down
+course, which is hilarious (something like "you like Category Theory, right? Do you want to hang out with us to do that?" so now I'm literally the 
+cliche of the student who goes to grad school and is learning Category Theory. So I went home on the night we checked in and emailed a professor about joining that (lol). The whole ride down
 went so quickly (it was about 5 hours long) chatting, and the view was beautiful.
 
 ## Talks (not all included here, very abridged notes)
