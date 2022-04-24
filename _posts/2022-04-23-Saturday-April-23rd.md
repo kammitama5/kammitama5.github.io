@@ -4,7 +4,10 @@
 - I'm currently just about to head to sleep after a conference at Colgate University, which actually isn't in Colgate,
 but I'm staying not in either towns, but instead in [Cazenovia](https://en.wikipedia.org/wiki/Cazenovia_(village),_New_York).
 - Not only did I attend a Number Theory conf in person this year, but also a Combinatorics / Graph Theory conference,
-and it was pretty awesome!
+and it was pretty awesome! I made friends with a Combinatorialist in UMass Amherst (grad student) and a Topologist Prof in New York,
+we ended up hiking and then walking downtown, having Pho (if I get the photo I'll post it; it's pretty hilarious because it's a group
+of about ten of us eating Pho on park benches) and then getting coffee / tea afterwards. I ended up buying some coconut lavender tea to 
+carry back.
 
 ## Talks (not all included here, very abridged notes)
 - saw a talk on Descents for cones of a real hyperplane arrangement by M. Aguiar. Showed the monoid of
