@@ -271,12 +271,13 @@ study group.
 - Random Probabilistic Graphs (MATH 373A) (SP 22) (in progress)
 - Complex Analysis (MATH 247) (FA 22) (upcoming)
 - Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (upcoming)
+- Independent Study: Category Theory (FA 22) (upcoming)
 
 ## Kinda-sorta (Audit, sitting in on, sometimes scribing for, doing arbitrary assignments in)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (EE 374) (SP21)
 - Number Theory (MATH 255A) (SP 22)
 - Fundamentals of Mathematics (MATH 52) (SP 22)
-- Topology (Seminar, self-study w/ research credits) (FA 22)
+- Topology (Seminar, self-study) (FA 22)
 - Algebraic Differential Equations (FA 22)
 
 ## Wish list of Classes (ie TODO)
