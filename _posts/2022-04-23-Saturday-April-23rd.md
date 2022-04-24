@@ -9,6 +9,9 @@ who attended CalTech for his PhD),
 we ended up hiking and then walking downtown, having Pho (if I get the photo I'll post it; it's pretty hilarious because it's a group
 of about ten of us eating Pho on park benches) and then getting coffee / tea afterwards. I ended up buying some coconut lavender tea to 
 carry back.
+- On our trip down, we saw goats for sale and pondered buying a Combinatorial goat for our lab and naming him Catalan. We also ate deep dish
+pizza on the first night and both nights we stayed up pretty much close to midnight. We were supposed to make it down to the lake, but didn't
+get around to that, but we found this awesome place downtown to chat.
 
 ## Talks (not all included here, very abridged notes)
 - saw a talk on Descents for cones of a real hyperplane arrangement by M. Aguiar. Showed the monoid of
