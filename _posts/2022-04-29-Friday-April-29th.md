@@ -38,7 +38,7 @@ Still, in these brief moments, they remind me that even
 as a loner, I am not alone in this space.
 
 ## I went to a social this evening
-- We had a grad school mixer tonight, and there was an organizer who mentioned that in our school, so many of us exist in silos as grad
+- We had a BIPOC grad school mixer tonight (and I almost go but a friend of mine convinced me, and then I realized I couldn't un-RSVP because it was too late, and then I realized another one of my friends was going, and then I had a good time!), and there was an organizer who mentioned that in our school, so many of us exist in silos as grad
 students, even within our own labs, and that he sought to make this better. And I thought about that our ICLR initiative and the workshop, and how in our own way,
 we sought to do that for first time and underrepresented researchers, too. In a way, I had come full-circle trying to find this outside
 of my institution, trying to create those spaces there, and then finding that there were, in fact, people at my own institution who
