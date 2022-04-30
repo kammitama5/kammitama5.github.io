@@ -9,7 +9,9 @@ and there would be someone writing things down in [Hansard](https://en.wikipedia
 - To be honest, if I could describe this week, I would have to say it would be like escaping to Narnia and coming back.
 It felt like I entered this portal outside of my school where I was in this completely different space but not a lot of people knew
 what I was up to, as I've discussed that I am a ghost at my institution. I read the biography
-of a mathematician who said that she had been in spaces that expected her to be small, and there is a lot of that expectation here, but
+of a mathematician who said that she had been in spaces that expected her to be small, and there is a lot of that expectation here (perhaps that is
+why I really like the first Harry Potter movie so much; in many ways it is about someone who has been taught to be small in one world,
+while realizing who he really is in another, where he belongs, and that rite of passage), but
 I cannot be. I have never been, so I have to fulfill that need outside in spaces where I can. Occasionally, those spaces collide,
 and it's always a little embarrassing for me, but there isn't really anything I can do about it. How did Peter Parker do it?
 So it was like hiding a secret that was certainly not a secret if you knew. Something I worked tirelessly towards, returned to bed
