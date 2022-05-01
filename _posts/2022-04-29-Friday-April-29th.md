@@ -65,6 +65,10 @@ and to have experienced the high of joy when everyone had presented their work; 
 
 <img src="/images/iclr2022pics/four22.png" width="400">
 
+- We got it to be part of the main conference, too; a first!
+
+<img src="/images/iclr2022pics/six22.png" width="600">
+
 - Can someone with a voice so small make a difference? The answer is yes.
 
 <img src="/images/iclr2022pics/five22.png" width="600">
