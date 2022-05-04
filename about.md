@@ -15,7 +15,7 @@ permalink: /about/
 - Currently, I am taking coursework in a mini-Master's type format for a solid foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community [since](https://kammitama5.github.io/images/msrismall/msri.png) [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD, wherever there are opportunities to do so.
 - My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker. It would be amazing to defend my thesis by iPad but I may end up having to TeX it.
 - My grad school Pure Maths peers have described me as having "[Hermione](https://en.wikipedia.org/wiki/Hermione_Granger#:~:text=the%20summer%20break.-,Personality,%2C%20the%20%22Dark%20Lord%22.) energy", which I'll gladly accept.
-- Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing. 
+- Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing.
 
 ### What's Unique about me
 - I have the unique perspective of being an immigrant (and green card holder), having been through many pipelines of school, having work experience and having lived in locations and groups where my representation was quite scarce (both in terms of knowledge, having work experience and demographics). My career has been in a breadth of typically niche, proprietary knowledge/ technologies (which is a nice way of saying I know a lot about things that are absolutely useless but I have great stories!).
