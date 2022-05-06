@@ -9,6 +9,9 @@
 - I'm doing a podcast this upcoming week, taking part in a research documentary, and have to follow up on some other tasks.
 - This week was amazing! I ended up hanging out with Maths friends to get Jamaican patties, going to a grad school barbecue and sitting
 with Pure Maths friends and talking about graph-coloring problems around a table (inevitably!) and basically just having a great time!
+- I also ended up doing really well in at least one of my classes unexpectedly! I kept doing proofs and was planning on doing more this weekend, too! I want to keep doing them and getting really good at them! I enjoy it so much! I'm excited to take more of these classes
+next semester! I'm also going to a concert this weekend! I will post pics of some of the fancy VIP stuff I get (I got a ticket and am going
+with some Math grad students!)
 - I also started connecting more with summer people and plans, and I'm ecstatic. It's going to be a lot of fun!
 
 ## Things this week
