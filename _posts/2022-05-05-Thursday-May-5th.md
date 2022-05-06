@@ -6,7 +6,7 @@
 - During the [CSRMP](https://research.google/outreach/csrmp/recipients/) timeline, I also relayed my progress with my mentor for this specific project (I ws a CSRMP fellow in Spring 2021, while taking mathematical cryptography). My mentor suggested the [template](https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d) [CHI paper](https://arxiv.org/abs/1901.01920) as a good fit for
 this paper based on the topic.
 - Unfortunately, I am not really interested in pursuing this work anymore (I would prefer to not pursue research in fairness and privacy at the moment (maybe I just care about accountability moreso than citations and I'm foolish for doing so; I also feel more at home with the Pure Maths / Mathematical cryptography community in general), in favour of mathematical cryptography research, which is my true love and I'm very happy pursuing a career in!), so I thought I'd include slides I gave to the 2021 class in the hope that it might be helpful to someone pursuing this work. These are not all of my slides (some refer to specific cases we looked at in class, etc); some are confidential (you can see that one of the slide numbers goes up to 54).
-- The central idea was that the way "accuracy" is advertised is deceptive (as defined by law) to users and therefore can be deemed unfair.
+- The central idea was that the way "accuracy" is advertised is deceptive (as defined by law) to users and therefore can be deemed unfair. I'm also generally happy to briefly chat about it if you need any more information. Thanks!
 
 <img src="/images/PrivacyLawtalk/pl1.png" width="500">
 
