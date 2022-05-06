@@ -1,6 +1,6 @@
 ## Last week of classes and An Amazing week!
 
-## Once again, I am busy
+## Once again, I am busy!
 - But great news! My research proposal was accepted and I get an award for it, and get at least one publication out of it. Hooray!!!
 - I also gave a Math talk! Look at such a nice compliment from an attendee!
 
@@ -11,11 +11,12 @@
 with Pure Maths friends and talking about graph-coloring problems around a table (inevitably!) and basically just having a great time!
 - I also ended up doing really well in at least one of my classes unexpectedly! I kept doing proofs and was planning on doing more this weekend, too! I want to keep doing them and getting really good at them! I enjoy it so much! I'm excited to take more of these classes
 next semester! I'm also going to a concert this weekend! I will post pics of some of the fancy VIP stuff I get (I got a ticket and am going
-with some Math grad students!)
+with some Math grad students!). I've really felt like I've found my groove with this group and this department and want to continue with
+this community; I'm so happy with everything right now because of this Pure Maths group!
 - I also started connecting more with summer people and plans, and I'm ecstatic. It's going to be a lot of fun!
 
 ## Things this week
-- Ellliptic Curves: Moduli spaces, Fundamental Domain cont’d, Katz Mazur, Cartier Divisors, Gamma-5 problem, Scholie’s Theorem
+- Elliptic Curves: Moduli spaces, Fundamental Domain cont’d, Katz Mazur, Cartier Divisors, Gamma-5 problem, Scholie’s Theorem
 - Number Theory: Pause Week: My prof said that Silverman would win in a maths between Yoda vs Silverman
 - Algebra IV: Nakayama’s Lemma, Cayley-Hamilton Theorem, Adjugate Matrices, Kronecker delta, Summary of class and plan for Barbecue (!!). 
 - Other things we spoke about to learn on own (Smith-Normal Form), Fundamental Theorem of Modules over PIDs, Rational Canonical Form, 
