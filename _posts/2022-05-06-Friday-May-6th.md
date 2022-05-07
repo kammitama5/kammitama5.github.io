@@ -65,7 +65,7 @@ post about, but this will be my first internship of this type, and I'm super int
 - Number Theory: Pause Week: My prof said that Silverman would win in a match between Yoda vs Silverman for May 4th (I gave a talk and got to insert Star Wars references!)
 - Algebra IV: Nakayama’s Lemma, Cayley-Hamilton Theorem, Adjugate Matrices, Kronecker delta, Summary of class and plan for Barbecue (!!). 
 - Other things we spoke about to learn on own (Smith-Normal Form), Fundamental Theorem of Modules over PIDs, Rational Canonical Form, 
-Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal Ideals Theorem, Homological Algebra / Derived Functors
+Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal Ideals Theorem, Homological Algebra / Derived Functors, 
 [Algebraic Geometry in the Time of Covid](https://www.youtube.com/channel/UCy3u23mZE4TyW88yr6JLx9A),
 [Dynkin Diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram), Lie Theory
 - Random Prob Graphs: finishing up last assignments, Ramsey Numbers K(n,n) graphs, Harris-KFG, 
