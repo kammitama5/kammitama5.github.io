@@ -24,8 +24,8 @@ things I hadn't learned about (in my country, at least, when I attended, proofs 
 I would have learned to love them, I am sure, because they also tie in nicely with logic and the humanities in clarity of writing, I think!
 Recall when I was in LA, a vfx supervisor saw the way I wrote, (which I learned because my dad is a stickler for clarity in writing, would
 give us essays to write and reflect when we were naughty growing up, and would ask us to look at and review econometric proposals. He is also
-notorious for disagreeing with the answer chosen for assignments and writing really long letters that I would bring to class the next
-day when he thought that the answer was not clear and that the book was written badly lol. He can give a good screed on that sort of thing
+notorious for disagreeing with the answer chosen for assignments and writing really long letters (for the teacher) that I would bring to class the next
+day when he thought that the answer was not clear and that the book was written badly lol. I was in the Principal's office a lot growing up, but that was because my parents were very involved in raising me, and had choice words for things they thought were not done properly. Coincidentally, I've noticed a common thread of people who are my PhD peers; they typically come from families with more than one parent (immigrant / non-immigrant ie regardless of our differences, I keep hearing "my parents" in conversations in Academia). That's interesting because it might legitimately be a struggle for someone who did not have that but wants to attend grad school; maybe there are things we can do better about that. Anyways, my dad can give a good screed on that sort of thing
 and is really well read and taught Master's students for a while, and would hire them if they did well enough in his class) and told me
 I would probably be a good programmer, which amused me because I have family members who are very good ones (ie did Math + CS Olympiads and stuff
 growing up)); I'm beginning
