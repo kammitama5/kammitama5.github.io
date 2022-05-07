@@ -36,7 +36,7 @@ shocked at her scores constantly! Then again, this also goes back to what a lot 
 culturally, but that's a post for another day!). 
 - I put proofs down for a while as a thing that was weird and that I would probably never get and focused on machine learning (we did a fair amount of linear algebra, integration, differentiation in high school, and I did stats in O and A levels), but I realize now that maybe it wasn't (the information) being relayed
 to me in a way that was helpful (ie through a CS class). It was wrapped in a layer of something I was grappling with, and it was also something (underneath that layer) I was grappling with. And semesters are too short for all of that. So I just felt stupid, and some of the students (also in another adjacent lab that shared a lab with us; this is why I distinguish and say *Pure* Maths in speaking about my experiences) were quite awful to me
-and I even begged to find a way to have my own space, and I had one female friend who was graduating who helped me that semester (another brilliant person who legitimately gave up an opportunity
+and I even begged to find a way to have my own space, and I had one female friend who was graduating who helped me that semester (another brilliant person who loves Plant Biology and legitimately gave up an opportunity
 to interview at a brilliant lab most researchers would kill to work (or hear from at all) for because she wanted to have a certain quality of life).
 She was my only friend that semester and I began to think about either dropping out or switching to another university.
 - The first person who really helped me begin to understand is a good friend of mine (who is 
