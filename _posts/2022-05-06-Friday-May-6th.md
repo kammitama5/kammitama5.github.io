@@ -41,7 +41,7 @@ to interview at a brilliant lab most researchers would kill to work (or hear fro
 She was my only friend that semester and I began to think about either dropping out or switching to another university.
 - The first person who really helped me begin to understand is a good friend of mine (who is 
 legitimately a genius and incredibly witty and just fun and I'm going to miss him but Rust needs him! I look forward to hearing people
-talk about him in the future as a great succees, and my smiling and thinking that I knew him back when..); he happened
+talk about him in the future as a great success, and my smiling and thinking that I knew him back when..); he happened
 to be TA-ing a class I was doing. Sometimes just having someone who is rooting for you and correcting your work is the first step (which is what I needed to get good
 at this stuff; show me where I took a wrong turn, don't laugh at me and say I'm stupid for not just getting it 100% on the first day). And that 
 is apparently how the whole Pure Maths department is; many of them also teach and see Maths as a thing that is beautiful so they will sit with you,
