@@ -30,8 +30,8 @@ and is really well read and taught Master's students for a while, and would hire
 - So anyways, the vfx guy told me
 I would probably be a good programmer, which amused me because I have family members who are very good ones (ie did Math + CS Olympiads and stuff
 growing up)); I'm beginning
-to think that it is because, as I wrote in an application for a workshop I am attending this summer, our Mathematics curriculum is geared towards
-making engineers and not Mathematicians; Mathematics isn't taught for the love of Mathematics (bear in mind, one of my best friends loved the subject growing up, and
+to think that our lack of proofs in our curriculum is because, as I wrote in an application for a workshop I am attending this summer, our Mathematics curriculum is geared towards
+making engineers and not Mathematicians (Maths as a tool rather for its own sake, although quite a few of guys did end up becoming Maths professors and Maths educators; I know at least 1 in Canada, 1 in the UK, 1 in NY and a couple at home); Mathematics isn't taught for the love of Mathematics (bear in mind, one of my best friends loved the subject growing up, and
 now has a PhD in Philosophy and kicks everyone's butt on the planet in Wordle; she's literally a genius in Wordle and everyone (even herself) is 
 shocked at her scores constantly! Then again, this also goes back to what a lot of us internalized growing up about our intellectual ability
 culturally, but that's a post for another day!). 
