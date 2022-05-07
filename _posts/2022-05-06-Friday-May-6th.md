@@ -47,7 +47,8 @@ at this stuff; show me where I took a wrong turn, don't laugh at me and say I'm 
 is apparently how the whole Pure Maths department is; many of them also teach and see Maths as a thing that is beautiful so they will sit with you,
 as long as you have the curiosity and want to put in the work, and teach you everything. It's been the best part of my grad experience; well, that
 and seeing them argue passionately over Pure Maths things :) This week, we were on a bus and two of them started debating about topology lol.
-So, there's nowhere else to go but up, right?
+So, there's nowhere else to go but up, right? My point is, especially for grad school, the whole point is to fill in gaps. If there is a skill that
+one thinks might benefit what they want to do, fail over and over again until you get it. Who cares what other people think. The point is to gain the skill and get good at it.
 - Bear in mind that my Pure Maths peers also care less about grades
 and I wanted to get better (which means I wanted more practice),
 so there is also probably a reason for this message (certainly not because of any constraint on their ability, because they're really smart and 
