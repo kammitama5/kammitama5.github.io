@@ -72,7 +72,7 @@ Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal I
 - Went to a Math meetup: Mercator projection, [the goat problem](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/), 
 Archimedes’ Hat Box Theorem, Slow Diverging Series, etc
 - Rigorous Statistics (based in Japan and California): Convergence in Random Variables, estimators and asymptotic theory
-- Graphs, Networks and ML (randomly learning with some Californian friends for fun every couple of weeks): Granovetter, Zachary's Karate Club example (pretty hilarious explanation) and cuts, Making of a Null model and expectation of edges between nodes for multigraphs, Louvain Modularity and Modularity gain, Super nodes, Label Propagation, Triadic closure, NOCD, Lovain for disjoint communities vs overlapping communities.
+- Graphs, Networks and ML (randomly learning with some Californian friends for fun every couple of weeks): Granovetter, Zachary's Karate Club example (pretty hilarious explanation) and cuts, Making of a Null model and expectation of edges between nodes for multigraphs, Louvain Modularity and Modularity gain, Super nodes, Label Propagation, Triadic closure, NOCD, AGM (Community Affiliation Graph Model), Lovain for disjoint communities vs overlapping communities.
 
 ## Favourite quotes this week (by one of my favourite people in the whole world here!)
 - “I’m sorry; Elliptic curves are female in french, so the big ones are mamas not papas!”
