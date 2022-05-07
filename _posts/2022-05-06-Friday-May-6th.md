@@ -13,7 +13,50 @@ with Pure Maths friends and talking about graph-coloring problems around a table
 next semester! I'm also going to a concert this weekend! I will post pics of some of the fancy VIP stuff I get (I got a ticket and am going
 with some Math grad students!). I've really felt like I've found my groove with this group and this department and want to continue with
 this community; I'm so happy with everything right now because of this Pure Maths group!
-- I also started connecting more with summer people and plans, and I'm ecstatic. It's going to be a lot of fun!
+
+<img src="/images/algebraaa22/al4.png" width="400">
+
+- This was a shocker and completely, in my opinion, because of the culture of the Pure Maths department (and to be honest,
+I still have a long way to go, but I'm learning, and everyone has been super patient with me, and I'm grateful!) ; between the awesome professors and
+the students, who really work with you to get better, I really feel like they have my back. 
+And I'm also going to be honest; writing proofs when I first came in to grad school was super frustrating, because I was grappling with a lot of
+things I hadn't learned about (in my country, at least, when I attended, proofs weren't really a thing we spent any time on (if we did,
+I would have learned to love them, I am sure, because they also tie in nicely with logic and the humanities in clarity of writing, I think!
+Recall when I was in LA, a vfx supervisor saw the way I wrote, (which I learned because my dad is a stickler for clarity in writing, would
+give us essays to write and reflect when we were naughty growing up, and would ask us to look at and review econometric proposals. He is also
+notorious for disagreeing with the answer chosen for assignments and writing really long letters that I would bring to class the next
+day when he thought that the answer was not clear and that the book was written badly lol. He can give a good screed on that sort of thing
+and is really well read and taught Master's students for a while, and would hire them if they did well enough in his class) and told me
+I would probably be a good programmer, which amused me because I have family members who are very good ones (ie did Math + CS Olympiads and stuff
+growing up)); I'm beginning
+to think that it is because, as I wrote in an application for a workshop I am attending this summer, our Mathematics curriculum is geared towards
+making engineers and not Mathematicians; Mathematics isn't taught for the love of Mathematics (bear in mind, one of my best friends loved the subject growing up, and
+now has a PhD in Philosophy and kicks everyone's butt on the planet in Wordle; she's literally a genius in Wordle and everyone (even herself) is 
+shocked at her scores constantly! Then again, this also goes back to what a lot of us internalized growing up about our intellectual ability
+culturally, but that's a post for another day!). 
+- I put proofs down for a while as a thing that was weird and that I would probably never get and focused on machine learning (we did a fair amount of linear algebra, integration, differentiation in high school, and I did stats in O and A levels), but I realize now that maybe it wasn't (the information) being relayed
+to me in a way that was helpful (ie through a CS class). It was wrapped in a layer of something I was grappling with, and it was also something (underneath that layer) I was grappling with. And semesters are too short for all of that. So I just felt stupid, and some of the students (also in another adjacent lab that shared a lab with us) were quite awful to me
+and I even begged to find a way to have my own space, and I had one female friend who was graduating who helped me that semester (another brilliant person who legitimately gave up an opportunity
+to interview at a brilliant lab most researchers would kill to work (or hear from at all) for because she wanted to have a certain quality of life).
+She was my only friend that semester and I began to think about either dropping out or switching to another university.
+- The first person who really helped me begin to understand is a good friend of mine (who is 
+legitimately a genius and incredibly witty and just fun and I'm going to miss him but Rust needs him! I look forward to hearing people
+talk about him in the future as a great succees, and my smiling and thinking that I knew him back when..); he happened
+to be TA-ing a class I was doing. Sometimes just having someone who is rooting for you and correcting your work (which is what I need to get good
+at this stuff; show me where I took a wrong turn, don't laugh at me and say I'm stupid for not just getting it 100% on the first day). And that 
+is apparently how the whole Pure Maths department is; many of them also teach and see Maths as a thing that is beautiful so they will sit with you,
+as long as you have the curiosity and want to put in the work, and teach you everything. It's been the best part of my grad experience; well, that
+and seeing them argue passionately over Pure Maths things :) This week, we were on a bus and two of them started debating about topology lol.
+So, there's nowhere else to go but up, right?
+- Bear in mind that my Pure Maths peers also care less about grades
+and I wanted to get better (which means I wanted more practice),
+so there is also probably a reason for this message (certainly not because of any constraint on their ability, because they're really smart and 
+fun and talk about graphs and topology and Abstract Algebra all day with you! Most of all, out of all the departments I've been in, they seem to be the most normal in terms of having a supportive, collaborative, "I'm not just waving my d!ck at you because I know a thing"-culture. They are legitimately
+funny, clever and most of all, humble, and in my mind, whatever I can do to help them as my peers, I'm always happy to do so. I'm actually excited to go back to class with them in Fall, even though
+quite a few of them are graduating this semester, which makes me a bit sad!). It's been an incredible semester!
+
+- I also started connecting more with summer people and plans, and I'm ecstatic. It's going to be a lot of fun! As usual, there is a lot I can't
+post about, but this will be my first internship of this type, and I'm super intrigued!
 
 ## Things this week
 - Elliptic Curves: Moduli spaces, Fundamental Domain cont’d, Katz Mazur, Cartier Divisors, Gamma-5 problem, Scholie’s Theorem
