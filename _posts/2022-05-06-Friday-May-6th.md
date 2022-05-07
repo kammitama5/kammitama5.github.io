@@ -22,11 +22,12 @@ the students, who really work with you to get better, I really feel like they ha
 And I'm also going to be honest; writing proofs when I first came in to grad school was super frustrating, because I was grappling with a lot of
 things I hadn't learned about (in my country, at least, when I attended, proofs weren't really a thing we spent any time on (if we did,
 I would have learned to love them, I am sure, because they also tie in nicely with logic and the humanities in clarity of writing, I think!
-Recall when I was in LA, a vfx supervisor saw the way I wrote, (which I learned because my dad is a stickler for clarity in writing, would
+Recall when I was in LA, a vfx supervisor saw the way I wrote and made a wry comment that I might make a very good programmer (I write the way I do because because my dad is a stickler for clarity in writing, would
 give us essays to write and reflect when we were naughty growing up, and would ask us to look at and review econometric proposals. He is also
 notorious for disagreeing with the answer chosen for assignments and writing really long letters (for the teacher) that I would bring to class the next
 day when he thought that the answer was not clear and that the book was written badly lol. I was in the Principal's office a lot growing up, but that was because my parents were very involved in raising me, and had choice words for things they thought were not done properly. Coincidentally, I've noticed a common thread of people who are my PhD peers; they typically come from families with more than one parent (immigrant / non-immigrant ie regardless of our differences, I keep hearing "my parents" in conversations in Academia). That's interesting because it might legitimately be a struggle for someone who did not have that but wants to attend grad school; maybe there are things we can do better about that (especially since most of us aren't teaching 100% students with both parents). Anyways, my dad can give a good screed on that sort of thing
-and is really well read and taught Master's students for a while, and would hire them if they did well enough in his class) and told me
+and is really well read and taught Master's students for a while, and would hire them if they did well enough in his class). 
+- So anyways, the vfx guy told me
 I would probably be a good programmer, which amused me because I have family members who are very good ones (ie did Math + CS Olympiads and stuff
 growing up)); I'm beginning
 to think that it is because, as I wrote in an application for a workshop I am attending this summer, our Mathematics curriculum is geared towards
