@@ -71,7 +71,7 @@ Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal I
 - Random Prob Graphs: finishing up last assignments, Ramsey Numbers K(n,n) graphs, Harris-KFG, 
 - Went to a Math meetup: Mercator projection, [the goat problem](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/), 
 Archimedes’ Hat Box Theorem, Slow Diverging Series, etc
-Rigorous Statistics: Convergence in Random Variables, estimators and asymptotic theory
+- Rigorous Statistics: Convergence in Random Variables, estimators and asymptotic theory
 
 ## And that's it!
 
