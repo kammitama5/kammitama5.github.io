@@ -62,7 +62,7 @@ post about, but this will be my first internship of this type, and I'm super int
 
 ## Things this week
 - Elliptic Curves: Moduli spaces, Fundamental Domain cont’d, Katz Mazur, Cartier Divisors, Gamma-5 problem, Scholie’s Theorem
-- Number Theory: Pause Week: My prof said that Silverman would win in a maths between Yoda vs Silverman
+- Number Theory: Pause Week: My prof said that Silverman would win in a match between Yoda vs Silverman for May 4th (I gave a talk and got to insert Star Wars references!)
 - Algebra IV: Nakayama’s Lemma, Cayley-Hamilton Theorem, Adjugate Matrices, Kronecker delta, Summary of class and plan for Barbecue (!!). 
 - Other things we spoke about to learn on own (Smith-Normal Form), Fundamental Theorem of Modules over PIDs, Rational Canonical Form, 
 Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal Ideals Theorem, Homological Algebra / Derived Functors
