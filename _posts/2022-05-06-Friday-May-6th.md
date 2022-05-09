@@ -78,6 +78,13 @@ Archimedes’ Hat Box Theorem, Slow Diverging Series, etc
 - “I’m sorry; Elliptic curves are female in french, so the big ones are mamas not papas!”
 - “It can tell you by having the baby elliptic curve hom into the mama elliptic curve”
 
+## Oh, Weird Al
+- My prof gave myself and two other students tickets to a show she couldn't go to, and it ended up being VIP tickets, and I ended up getting an autograph.
+- I took it in good spirit, and it was a fun show, but autographs are funny / awkward (??) for me, considering I used to work in entertainment. I mostly feel happy for entertainers these days,
+as a lot of people I know in that sector lost income in 2020 and 2021 so I know they're hustling to make it back this year, as things re-open slowly. Knowing how the sausage works, I know it's a pyramid, in that many people are just getting by on those shows, travelling long hours, being away from family, but hopefully they are treated well and the union (for those who aren't contract workers) took care of them. Things are a lot different from pre-pandemic days with respect to that, and a lot of sectors didn't make it (and there were some structural issues with that industry before, too).
+
+<img src="/images/algebraaa22/weirdal.png" width="400">
+
 ## And that's it!
 
 
