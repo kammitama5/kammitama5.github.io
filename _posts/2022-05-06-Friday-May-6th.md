@@ -68,7 +68,7 @@ post about, but this will be my first internship of this type, and I'm super int
 Jordan Canonical Form, Dimension Theory, Krull Dimensions, Krull’s Principal Ideals Theorem, Homological Algebra / Derived Functors, 
 [Algebraic Geometry in the Time of Covid](https://www.youtube.com/channel/UCy3u23mZE4TyW88yr6JLx9A),
 [Dynkin Diagrams](https://en.wikipedia.org/wiki/Dynkin_diagram), Lie Theory
-- Random Prob Graphs: finishing up last assignments, Ramsey Numbers K(n,n) graphs, Harris-KFG, 
+- Random Prob Graphs: finishing up last assignments, Ramsey Numbers K(n,n) graphs, Harris-[FKG](https://en.wikipedia.org/wiki/FKG_inequality), 
 - Went to a Math meetup: Mercator projection, [the goat problem](https://www.quantamagazine.org/after-centuries-a-seemingly-simple-math-problem-gets-an-exact-solution-20201209/), 
 Archimedes’ Hat Box Theorem, Slow Diverging Series, etc
 - Rigorous Statistics (based in Japan and California): Convergence in Random Variables, estimators and asymptotic theory
