@@ -57,7 +57,7 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  and I went out for ice-cream with a friend.
  - I had a conversation this week about how I *love* hearing about these inventions that aren't quite in the spotlight anymore. I think to do research,
  you should understand the genealogy of your field. So for programming languages, learn about COBOL, Algol, [Sisal](https://en.wikipedia.org/wiki/SISAL), Lisp, etc. Attend [HOPL](https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)).
- One of the things I have enjoyed about the Pure Mathematics field that I was not quite getting from ML (that's Machine Learning, not Meta-Learning) was that
+ One of the things I have enjoyed about the Pure Mathematics field that I was not quite getting from ML (that's Machine Learning, not Meta-Learning or [Meta Language](https://en.wikipedia.org/wiki/ML_(programming_language))) was that
  they regularly look at papers with good ideas and do not just focus on recent work. They work on problems that are a century old, that are interesting.
  I think that's cool.
  - As a researcher, one of the earliest things I learned was from a professor
