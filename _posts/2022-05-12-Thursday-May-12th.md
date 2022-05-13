@@ -53,7 +53,7 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
 - The way we are approaching this is that our paper will be developed online, in an open way. Typically, research papers are treated like IP, which can be
 really intentionally exclusionary (I've experienced a lot of that in the research community!). Groups in research are really secretive about not showing
 anything, and I wish we could rethink some of this. It creates this hyper-competitive, toxic culture where we optimize for solving only certain *types* of problems, which is also at the detriment of just doing more interesting research and thinking of problems with different perspectives. And we like open source.
-People only publish them when they have been on arxiv, or as specified in some way by a conference (eg. linking to open code for review). But the three of us will be working on the project
+Typically, in academia, persons will only publish papers when they have been on arxiv, or as specified in some way by a conference (eg. linking to open code for review), and are less likely in general to even mention that they are speaking about their work openly otherwise. But the three of us will be working on the project
 openly, so anyone can see our progress. I think this is an awesome approach to publishing, and I'm excited, although it's also a bit terrifying.
 - We do have other documents that are more casual, but this is a great, collaborative, open-source way to working.
 - This will be my fist time; like most academics, I have mostly published with the intention of submitting to a journal or a conference, but to be honest,
