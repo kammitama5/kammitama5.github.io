@@ -49,6 +49,13 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  definitely ways that I think and operate that I do have to be flexible about and unlearn, but I am excited to do this. I am committed to running away
  and joining the circus...to follow my dreams. There might be anti-canonical-bespoke unicorns!
  
+## Open Source Publishing
+- The way we are approaching this is that our paper will be developed online, in an open way. Typically, papers are treated like IP, which can be
+really intentionally exclusionary (I've experienced a lot of that in the research community!). But the three of us will be working on the project
+openly, so anyone can see our progress. I think this is an awesome approach to publishing, and I'm excited, although it's also a bit terrifying.
+- This also makes sense because we're simultaneously working on code in another repo, that we can easily link to in github issues and work back
+and forth. 
+ 
 ## I have never been happier
  - I had an amazing week! I met my research friends, I made friends with a group of over 80 people, I received Kudos from my ICLR group of newly-minted
  researchers (who I am quite excited to see as regularly as I can, as well as their progress in research), I participated in an interview, a podcast,
