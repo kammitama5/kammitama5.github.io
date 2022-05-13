@@ -66,8 +66,8 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  the inventions or research that are the most influential, that we miss that there are so many great inventions or ideas in research papers considered
  to be not as influential, or in inventions that were "failures". And part of the joy of doing research is getting to (re-)discover those things, to revive
  beautiful ideas, regardless of their era. Maybe some of these ideas were revolutionary, but were just not proposed at the right time; the world was not quite ready to listen. Perhaps *this* is the 
- right time, and *you* are that person to re-introduce this generation to those perspectives and ideas. So anyways, I used to hang around the Computer
- History Museum quite a bit when I lived on the West Coast, and I love so much hearing about ideas from the history of Computing. I think it's awesome.
+ right time, and *you* are that person to re-introduce this generation to those perspectives and ideas. So anyways, I used to hang around the [Computer
+ History Museum](https://en.wikipedia.org/wiki/Computer_History_Museum) [quite a bit when I lived on the West Coast](https://kammitama5.github.io/Thursday-May-18th/), and I love so much hearing about ideas from the history of Computing. I think it's awesome.
  When you look at the gaps in time between important inventions, it's mind-blowing to see how creative and different the ideas were, and how persons tried to think about these problems that had not been solved yet.
  - So on we go. [Helms-Alee](https://en.wikipedia.org/wiki/Lee_helm)!
  
