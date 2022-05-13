@@ -16,7 +16,7 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
 
 <img src="/images/algebraaa22/mathposter.png" width="500">
 
-- One of the boards we used for our collaborative session at MSRI, entitled "How to Build a Career in Math": Made with the best of intentions.
+- One of the boards we used for our collaborative session at MSRI, entitled "How to Build a Career in Math": Made with the best of intentions (and yes, there were quite a few Analysis Mathematicians there).
 
 ## Why did this happen?
 - I've been hanging around a bunch of different persons at various stages in their careers, and I've begun to realize that:
