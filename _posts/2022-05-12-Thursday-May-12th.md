@@ -50,9 +50,12 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  and joining the circus...to follow my dreams. There might be anti-canonical-bespoke unicorns!
  
 ## Open Source Publishing
-- The way we are approaching this is that our paper will be developed online, in an open way. Typically, papers are treated like IP, which can be
-really intentionally exclusionary (I've experienced a lot of that in the research community!). But the three of us will be working on the project
+- The way we are approaching this is that our paper will be developed online, in an open way. Typically, research papers are treated like IP, which can be
+really intentionally exclusionary (I've experienced a lot of that in the research community!). Groups in research are really secretive about not showing
+anything, and I wish we could rethink some of this.
+People only publish them when they have been on arxiv, or as specified in some way by a conference (eg. linking to open code for review). But the three of us will be working on the project
 openly, so anyone can see our progress. I think this is an awesome approach to publishing, and I'm excited, although it's also a bit terrifying.
+- We do have other documents that are more casual, but this is a great, collaborative, open-source way to working.
 - This also makes sense because we're simultaneously working on code in another repo, that we can easily link to in github issues and work back
 and forth. 
  
