@@ -30,6 +30,7 @@ study group.
 - I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!).
 - I was invited to the PCMI IAS/Park City Maths Institute Summer Graduate school on Computation Number Theory (with full-funding)!
 - Our paper is being featured in the Montreal AI Ethics Institute (MAIEI) newsletter!
+- They really liked the mess we made of ICLR 2022, and asked us to do it again, and we said yes to Part Deux in 2023!
 - Check out our opening remarks at ICLR's conference this year (virtual), as well as the workshop ware hosting for first-time submitters and others traditionally underrepresented in research!
 
 ## 2021
