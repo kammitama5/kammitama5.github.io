@@ -24,7 +24,7 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
   - I can find a way to do research that isn't at the mercy of the traditional academic system
   - As much as I've been learning *how* do to research, I can rethink *why* I do research and *how* to publish and *who* to publish with (sorry I ended with a preposition, English professor!)
   
- ## Enter Pirate Researchers
+## Enter Pirate Researchers
  - In spaces like Mathematics, Crypto, the Social Sciences, etc, it's very typical to find collaborators in the most unlikely places. A friend of mine
  had said that he wasn't sure he cared for Academia, was rejected by some of the most immediate academic structures, went off to his community and worked
  for a bit in that doing research, and came back to those very institutions falling all over themselves to hire him. So he made his own way, and was able to renegotiate
