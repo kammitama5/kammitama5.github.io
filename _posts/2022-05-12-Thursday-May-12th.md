@@ -56,7 +56,11 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  speak about his inventions (such as [ZigZag](https://en.wikipedia.org/wiki/ZigZag_(software)) and [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)), and about how he fondly remembered [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
  and I went out for ice-cream with a friend.
  - I had a conversation this week about how I *love* hearing about these inventions that aren't quite in the spotlight anymore. I think to do research,
- you should understand the genealogy of your field. So for programming languages, learn about COBOL, Algol, Sisal, Lisp, etc. Attend [HOPL](https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)). As a researcher, one of the earliest things I learned was from a professor
+ you should understand the genealogy of your field. So for programming languages, learn about COBOL, Algol, Sisal, Lisp, etc. Attend [HOPL](https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)).
+ One of the things I have enjoyed about the Pure Mathematics field that I was not quite getting from ML (that's Machine Learning, not Meta-Learning) was that
+ they regularly look at papers with good ideas and do not just focus on recent work. They work on problems that are a century old, that are interesting.
+ I think that's cool.
+ - As a researcher, one of the earliest things I learned was from a professor
  who has such a depth of understanding of the history of his field that he reguarly came up with ideas that were mind-blowing, which he confessed were
  thinking deeply about paradigms of the past that other researchers had lost an interest in (or did not know about). We focus so much on the new,
  the inventions or research that are the most influential, that we miss that there are so many great inventions or ideas in research papers considered
