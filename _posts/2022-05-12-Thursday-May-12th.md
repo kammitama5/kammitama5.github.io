@@ -49,7 +49,7 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  definitely ways that I think and operate that I do have to be flexible about and unlearn, but I am excited to do this. I am committed to running away
  and joining the circus...to follow my dreams. There might be anti-canonical-bespoke unicorns!
  
- ## I have never been happier
+## I have never been happier
  - I had an amazing week! I met my research friends, I made friends with a group of over 80 people, I received Kudos from my ICLR group of newly-minted
  researchers (who I am quite excited to see as regularly as I can, as well as their progress in research), I participated in an interview, a podcast,
  went out for pizza with Pure Maths friends and heard the table erupt into talking about sheaves and cohomology, I saw pioneer [Ted Nelson](https://www.fourmilab.ch/autofile/e5/?chapter=chapter2_64) at Stanford
@@ -57,5 +57,5 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  and I went out for ice-cream with a friend.
  - So on we go. [Helms-Alee](https://en.wikipedia.org/wiki/Lee_helm)!
  
- ## And that's it.
+## And that's it.
  
