@@ -53,8 +53,17 @@ the equivalent of joining a pirate band of researchers. And it's just as fun as 
  - I had an amazing week! I met my research friends, I made friends with a group of over 80 people, I received Kudos from my ICLR group of newly-minted
  researchers (who I am quite excited to see as regularly as I can, as well as their progress in research), I participated in an interview, a podcast,
  went out for pizza with Pure Maths friends and heard the table erupt into talking about sheaves and cohomology, I saw pioneer [Ted Nelson](https://www.fourmilab.ch/autofile/e5/?chapter=chapter2_64) at Stanford
- speak about his inventions (such as [ZigZag](https://en.wikipedia.org/wiki/ZigZag_(software)) and Xanadu), and about how he fondly remembered [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
+ speak about his inventions (such as [ZigZag](https://en.wikipedia.org/wiki/ZigZag_(software)) and [Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)), and about how he fondly remembered [Doug Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart)
  and I went out for ice-cream with a friend.
+ - I had a conversation this week about how I *love* hearing about these inventions that aren't quite in the spotlight anymore. I think to do research,
+ you should understand the genealogy of your field. So for programming languages, learn about COBOL, Algol, Sisal, Lisp, etc. Attend [HOPL](https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)). As a researcher, one of the earliest things I learned was from a professor
+ who has such a depth of understanding of the history of his field that he reguarly came up with ideas that were mind-blowing, which he confessed were
+ thinking deeply about paradigms of the past that other researchers had lost an interest in (or did not know about). We focus so much on the new,
+ the inventions or research that are the most influential, that we miss that there are so many great inventions or ideas in research papers considered
+ to be not as influential, or in inventions that were "failures". And part of the joy of doing research is getting to discover those things, to revive
+ beautiful ideas, regardless of their era. Maybe some of these ideas were revolutionary, but were just proposed at the right time. Perhaps this is the 
+ right time, and you are that person to re-introduce this generation to those perspectives and ideas. So anyways, I used to hang around the Computer
+ History Museum quite a bit when I lived on the West Coast, and I love so much hearing about ideas from the history of Computing. I think it's awesome.
  - So on we go. [Helms-Alee](https://en.wikipedia.org/wiki/Lee_helm)!
  
 ## And that's it.
