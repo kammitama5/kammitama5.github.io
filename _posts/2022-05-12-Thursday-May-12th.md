@@ -56,7 +56,9 @@ anything, and I wish we could rethink some of this.
 People only publish them when they have been on arxiv, or as specified in some way by a conference (eg. linking to open code for review). But the three of us will be working on the project
 openly, so anyone can see our progress. I think this is an awesome approach to publishing, and I'm excited, although it's also a bit terrifying.
 - We do have other documents that are more casual, but this is a great, collaborative, open-source way to working.
-- This also makes sense because we're simultaneously working on code in another repo, that we can easily link to in github issues and work back
+- This will be my fist time; like most academics, I have mostly published with the intention of submitting to a journal or a conference, but to be honest,
+I really don't care that much anymore about that; I like collaborating, doing research and solving hard problems, and writing papers. So this is an experiment for me.
+- Logistically, this also makes sense because we're simultaneously working on code in another repo(s), that we can easily link to in github issues and work back
 and forth. 
  
 ## I have never been happier
