@@ -3,7 +3,7 @@
 ## Yes, it's that time!
 - It's this day because of Mathematician [Maryam Mirzakhani](https://en.wikipedia.org/wiki/Maryam_Mirzakhani), a [Fields Medalist](https://en.wikipedia.org/wiki/Fields_Medal).
 - I have not been always been given the privilege to study Mathematics at the graduate level, but even before I did, I knew of her because of having
-read about her, and seen her impact in places like [MSRI](https://www.msri.org/web/cms), which I still agree (will fight anyone who disagrees on?) is the Maths utopia (at least) of the West Coast).
+read about her, and seen her impact in places like [MSRI](https://www.msri.org/web/cms), which I still agree (will fight anyone who disagrees on?) is the Maths utopia (at least) of the West Coast.
 - Outside of the Programming Languages Research Academic community (which is quite wonderful and supportive), MSRI was one of the first grad school, 
 academic communities to also welcome me with open arms. So it's little wonder that I ended back there today, in a virtual seminar celebrating the day,
 and also attending a session on "How to do Research". I met a bunch of Mathematicians, including ones who do interesting things like Quantum Algebra,
