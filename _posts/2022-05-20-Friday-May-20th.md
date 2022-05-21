@@ -48,7 +48,7 @@ and I also spent part of the evening writing with a group in New York City, whic
 - I also caught up with a New York researcher mentor and friend (she's amazing and I love her insights!), had some other logistics meetings for some organizational stuff, and attended an audio "sesh" for
 our open-source summer intern group on Discord.
 - One of the compliments I got from my mentor this week was that I think like a mathematician in terms of my ability to accept abstraction. I am 
-very pleased by this! The second was that I (apparently) work very hard. These were two compliments / abilities I did not know about myself, so I'm grateful. I'm so grateful for all of the support and this week has been fulfilling and therapeutic for me.
+very pleased by this! The second was that I (apparently) work very hard. These were two compliments / abilities I did not know about myself, so I'm grateful. I'm also filling in gaps in my knowledge, and learning about some *really* cool stuff!! I'm excited just thinking about it! I'm so grateful for all of the support and this week has been fulfilling and therapeutic for me.
 - It's been a mind-blowingly fun week, and I can't imagine how the time passed by so quickly.
 
 ## Upcoming
