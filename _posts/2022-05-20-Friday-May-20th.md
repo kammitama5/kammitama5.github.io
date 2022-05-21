@@ -30,7 +30,7 @@ he says "get back to work". It's been a riot, but so productive! Today he asked 
 first time I've ever heard that from a mentor in a research collaboration, which is coincidentally on the project I feel crazy happy about in terms of the progress I am making and the project as a whole. And I am insanely happy about this project. I'm so energized by it!
 
 ## Other things I did this week
-- I had a blast doing research, but I also went to see a dance show by Mark Morris, who was one of the last choreography groups that I had a desire 
+- I had a blast doing research, but I also went to see a dance show by [Mark Morris](https://en.wikipedia.org/wiki/Mark_Morris_(choreographer)), which was one of the last choreography groups that I had a desire 
 to really see in person. Other groups I have seen are [Stephen Petronio](https://en.wikipedia.org/wiki/Stephen_Petronio) (at Cornell) and [Alvin Ailey](https://en.wikipedia.org/wiki/Alvin_Ailey) (in Los Angeles at the LA Opera years ago).
 When I was in Los Angeles, a friend of mine who works in theatre in my home country notoriously said "just go (to see Alvin Ailey); think about the consequences later".
 I did not regret doing that! I remember one of the dancers showing us how to do "flat back", in the pre-show engagement activities at the LA Opera.
