@@ -27,7 +27,7 @@ workshops or presentations, they can iterate over their results and benefit from
 and it's really been an amazing experience for me. We have had fun bouncing ideas and discussions back and forth, even though we are quite geographically
 apart, and I legitimately feel energized. We were even joking a few days ago that our mentor "makes us work so hard" and wanted an emoji of him where
 he says "get back to work". It's been a riot, but so productive! Today he asked me "are you happy and is there anything you need from me" and it's the
-first time I've ever heard that from a mentor in a research. And I am insanely happy about this project. I'm so energized by it!
+first time I've ever heard that from a mentor in a research collaboration, which is coincidentally on the project I feel crazy happy about in terms of the progress I am making and the project as a whole. And I am insanely happy about this project. I'm so energized by it!
 
 ## Other things I did this week
 - I had a blast doing research, but I also went to see a dance show by Mark Morris, who was one of the last choreography groups that I had a desire 
