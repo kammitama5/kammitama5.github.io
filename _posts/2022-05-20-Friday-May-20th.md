@@ -38,7 +38,7 @@ back then, it was also a place regularly where attendees would see Gustavo Dudam
 I used to spend about once a month at either Mark Taper or LA Opera in Los Angeles, and attended a few rehearsals and that sort of thing, so it's been
 nice to see a show or two again.
 - I went to a couple talks; one on ARPAnet and flaws in the internet protocol by John Day, one Information Theory talk
-by Dennis Abts on Dataflow and tensor streaming processor (TSP),
+by Dennis Abts on Dataflow and tensor streaming processor ([TSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34926.pdf)),
 where I even ran into a Haskell friend from Silicon Valley (the talk was "at Stanford").
 - I also went to two Number Theory talks; one on Graphs and the Frankl-Rodl Theorem and the container theorem for triangle-free subgraphs of G(n,p)
 by N. Morrison and the other by J. Sahasranbudhe, who apparently one of my profs knows! We got to chat a bit, and when I told him about the probabilistic
