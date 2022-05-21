@@ -40,7 +40,7 @@ nice to see a show or two again.
 - I went to a couple talks; one on ARPAnet and flaws in the internet protocol by John Day, one Information Theory talk
 by Dennis Abts on Dataflow and tensor streaming processor ([TSP](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/34926.pdf)),
 where I even ran into a Haskell friend from Silicon Valley (the talk was "at Stanford").
-- I also went to two Number Theory talks; one on Graphs and the Frankl-Rodl Theorem and the container theorem for triangle-free subgraphs of G(n,p)
+- I also went to two Number Theory talks; one on Graphs and the [Frankl-Rodl](https://en.wikipedia.org/wiki/Frankl%E2%80%93R%C3%B6dl_graph#:~:text=In%20graph%20theory%20and%20computational,the%20distance%20between%20adjacent%20vertices.) Theorem and the [container theorem](https://en.wikipedia.org/wiki/Container_method) for triangle-free subgraphs of G(n,p)
 by N. Morrison and the other by J. Sahasranbudhe, who apparently one of my profs knows! We got to chat a bit, and when I told him about the probabilistic
 random graphs class I took last semester, he responded that it was "totally his jam". Pretty amazing!
 - I had lunch with one of my Pure Maths besties and he gave me an amazing chair, which my back is thankful for every day, since he is moving,
