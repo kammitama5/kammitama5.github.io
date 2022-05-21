@@ -33,7 +33,8 @@ first time I've ever heard that from a mentor in a research collaboration, which
 - I had a blast doing research, but I also went to see a dance show by [Mark Morris](https://en.wikipedia.org/wiki/Mark_Morris_(choreographer)), which was one of the last choreography groups that I had a desire 
 to really see in person. Other groups I have seen are [Stephen Petronio](https://en.wikipedia.org/wiki/Stephen_Petronio) (at Cornell) and [Alvin Ailey](https://en.wikipedia.org/wiki/Alvin_Ailey) (in Los Angeles at the LA Opera years ago).
 When I was in Los Angeles, a friend of mine who works in theatre in my home country notoriously said "just go (to see Alvin Ailey); think about the consequences later".
-I did not regret doing that! I remember one of the dancers showing us how to do "flat back", in the pre-show engagement activities at the LA Opera.
+I did not regret doing that! I remember one of the dancers showing us how to do "flat back", in the pre-show engagement activities at the LA Opera;
+back then, it was also a place regularly where attendees would see Gustavo Dudamel or [Placido Domingo](https://www.laopera.org/about-us/artists-2/cast-members/placido-domingo/).
 I used to spend about once a month at either Mark Taper or LA Opera in Los Angeles, and attended a few rehearsals and that sort of thing, so it's been
 nice to see a show or two again.
 - I went to a couple talks; one on ARPAnet and flaws in the internet protocol by John Day, one Information Theory talk
