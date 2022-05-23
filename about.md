@@ -45,7 +45,7 @@ a Compilers course in Haskell and another CS course.
 [Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California -> Vermont
 
 ### Other 
-- CV Provided upon request.
+- [My CV](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 <!--- - [Shorter Gist of Professional Things: CV focused in mathematical cryptography](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Crypto_Krystal_Maughan_CV_5_3_2022e.pdf) --->
 <!--- just - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Krystal_Maughan_CV_9_21_2021.pdf) --->
 - [Google Scholar: Maths papers take longer to produce but stay tuned on my progress here!](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
