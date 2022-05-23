@@ -54,7 +54,7 @@ very pleased by this! The second was that I (apparently) work very hard. These w
 ## Upcoming
 - I'm going to be travelling in a bit, and am excited (and nervous) for that, but I also have to catch up on things and get stuff in order to
 leave in the next couple weeks. My thoughts are scattered about some of these things, but I'm also really excited for some events coming up,
-and for my summer internship, as well as for the paper we're working on for my other project. Oh yes, and I have been keeping up with yoga!
+and for my summer research internship, as well as for the paper we're working on for my other project. Oh yes, and I have been keeping up with yoga!
 
 ## And that's about it!
 
