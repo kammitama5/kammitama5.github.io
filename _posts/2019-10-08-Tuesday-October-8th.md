@@ -24,7 +24,7 @@ study group.
 - I have been chosen as a BlackComputeHER Fellow (2022-2023). I am honoured!
 - I have been assigned two mentors for Microsoft's Tech Resilience Programme.
 - I received a Grant to attend PEPR (Privacy Engineering Practice and Respect) at S&P Oakland!
-- I get a mention about our project in a writeup by our mentor in the B!tMEX Research blog! How cool! 
+- I get a mention about our project in a writeup by our mentor in the B!tMEX Research blog (for Summer of B!tc0in! How cool! 
 - I have been assigned a Facebook Research mentor from NCWIT's AiC Program!
 - I have been invited to Asana's AsanaLaunch Technical Prep Series.
 - My research proposal for Summer of Bitc0in has been accepted; research ahoy on my first Bitc0in paper!
