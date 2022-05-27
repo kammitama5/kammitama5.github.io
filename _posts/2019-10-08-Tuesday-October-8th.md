@@ -29,7 +29,7 @@ study group.
 - I have been invited to Asana's AsanaLaunch Technical Prep Series.
 - My research proposal for Summer of Bitc0in has been accepted; research ahoy on my first Bitc0in paper!
 - I will be attending Discrete Maths Days with some awesome Combinatorics people this year in person!
-- I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!).
+- I will be attending the Roots of Unity workshop, assigned to the Arithmetic Geometry group (with full-funding!). I will also be attending the AWM Research Symposium that will follow up to June 19th!
 - I was invited to the PCMI IAS/Park City Maths Institute Summer Graduate school on Computation Number Theory (with full-funding)!
 - Our paper is being featured in the Montreal AI Ethics Institute (MAIEI) newsletter!
 - They really liked the mess we made of ICLR 2022, and asked us to do it again, and we said yes to Part Deux in 2023!
