@@ -41,7 +41,7 @@ of next (ha). Honestly, I haven't thought that much about it at all. My thoughts
 So that was interesting to think about, and to hear from the market that my skillset is very much in demand (which is pretty awesome).
 
 ## Stuff from this week
-- I went to a stats book club this week in which we went over Hypthesis testing, Pearson's Chi-Squared test, Simple vs
+- I went to a stats book club this week in which we went over Hypothesis testing, Pearson's Chi-Squared test, Simple vs
 Composite Hypotheses, Student's Distribution, Power of Test (1 - \beta), Mendelian randomization vs Clinical (funnily
 enough, a childhood friend just did her disseratation on this; she just graduated from Oxford in epidemiology).
 Asymptotically correct test, Type I vs Type II.
