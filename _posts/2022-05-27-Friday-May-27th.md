@@ -44,7 +44,8 @@ I would make a choice, I think. I'm more interested in that and how interesting 
 
 ## Stuff from this week
 - I went to a stats book club this week in which we went over Hypothesis testing, Pearson's Chi-Squared test, Simple vs
-Composite Hypotheses, Student's Distribution, Power of Test (1 - \beta), Mendelian randomization vs Clinical (funnily
+Composite Hypotheses, Student's Distribution, Power of Test, ( <img src="https://render.githubusercontent.com/render/math?math=1-\beta"> ),
+Mendelian randomization vs Clinical (funnily
 enough, a childhood friend just did her disseratation on this; she just graduated from Oxford in epidemiology).
 Asymptotically correct test, Type I vs Type II.
 - I went to a zero-knowledge book club where we learned about GKR, verifier and boolean hypercube domains, proving
