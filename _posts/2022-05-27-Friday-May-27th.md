@@ -36,7 +36,7 @@ stumbled upon an idea that we are now *dying* to try, and played around with it 
 that even though it was a long day, we sometimes get into fun mischief that makes the meeting time incredibly fun!
 - I was also invited to two events already in the place of my internship (including at one place / institution I've wanted to attend forever), 
 received awesome swag (!!) from my internship (I will make a post about this but there is a lot I can't talk about specifically),
-attended a book club, a few talks, and had a conversation with a company about my plans about graduation and what I was thinking
+attended a book club, a few talks, and had a conversation with a company about my plans after graduation and what I was thinking
 of next (ha). Honestly, I haven't thought that much about it at all. My thoughts that day stopped at "I'll have oatmeal for breakfast".
 So that was interesting to think about, and to hear from the market that my skillset is very much in demand (which is pretty awesome).
 
