@@ -34,7 +34,7 @@ Research Symposium!!! How cool is that!?
 and worked on a wrap-up blogpost with my co-organizer partner in crime from ICLR (smile). I burst out laughing because we sort of 
 stumbled upon an idea that we are now *dying* to try, and played around with it last night. It will be executed!! She's so creative
 that even though it was a long day, we sometimes get into fun mischief that makes the meeting time incredibly fun!
-- I was also invited to three events already in the city I'm moving to (including at one place / institution I've wanted to attend forever), 
+- I was also invited to four (and counting!) events already in the city I'm moving to (including at one place / institution I've wanted to attend forever), 
 received awesome swag (!!) (I will make a post about this but there is a lot I can't talk about specifically),
 attended a book club, a few talks, and had a conversation with a company about my plans after graduation and what I was thinking
 of next (ha). Honestly, I haven't thought that much about it at all. My thoughts that day stopped at "I'll have oatmeal for breakfast".
