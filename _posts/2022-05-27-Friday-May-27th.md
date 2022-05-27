@@ -34,13 +34,16 @@ Research Symposium!!! How cool is that!?
 and worked on a wrap-up blogpost with my co-organizer partner in crime from ICLR (smile). I burst out laughing because we sort of 
 stumbled upon an idea that we are now *dying* to try, and played around with it last night. It will be executed!! She's so creative
 that even though it was a long day, we sometimes get into fun mischief that makes the meeting time incredibly fun!
-- I was also invited to two events already in the city of my internship (including at one place / institution I've wanted to attend forever), 
-received awesome swag (!!) from my internship (I will make a post about this but there is a lot I can't talk about specifically),
+- I was also invited to two events already in the city I'm moving to (including at one place / institution I've wanted to attend forever), 
+received awesome swag (!!) (I will make a post about this but there is a lot I can't talk about specifically),
 attended a book club, a few talks, and had a conversation with a company about my plans after graduation and what I was thinking
 of next (ha). Honestly, I haven't thought that much about it at all. My thoughts that day stopped at "I'll have oatmeal for breakfast".
 So that was interesting to think about, and to hear from the market that my skillset is very much in demand (which is pretty awesome).
 Honestly, as I had mentioned, I'm more interested in building solid relationships, and based on those relationships,
 I would make a choice, I think. I'm more interested in that and how interesting the problems are than the prestige of a company or whatever.
+- I will say that the skills I pick up this summer will be *very* important in doing good work on my current research project; they're very
+much complementary. I'm hoping to 
+improve on these skills so I get better and have a better intuition for how to problem-solve in this domain.
 
 ## Stuff from this week
 - I went to a stats book club this week in which we went over Hypothesis testing, Pearson's Chi-Squared test, Simple vs
