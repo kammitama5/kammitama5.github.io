@@ -14,7 +14,7 @@ be of great help for us to build on moving forward. So I've been making my way t
 I realized that I absolutely *love* doing this stuff; I could do it forever! How can I make this my career!? 
 - My mentor said that the result already makes a really great theoretical paper, which is amazing!! It honestly hasn't felt like
 work, but I have spent entire days realizing that it was late at night and that I had spent most of the day working on research.
-I believe this week one morning at 3am this week I also had a 90s - 2000s latin rock music sing along to unwind.
+I believe this week one morning at 3am I also had a 90s - 2000s latin rock music sing along to unwind.
 - Finally, we had a group meeting! So I finally got to meet the other student with whom I am working, who is a graduate student
 (finishing up) with a lot of knowledge, but with so much humility and just a superbly fun disposition, 
 and just is an awesomely fun person to work with! I really could not be happier! He described our group as "the dream team", which
@@ -22,12 +22,12 @@ was shocking and made me simultaneously really happy! We're excited for our prog
 really amazing.
 
 ## Other things
-- I received a grant to attend Oakland this year via a workshop my WiCyS mentor told me about, and received my ticket to attend
+- I received a grant to attend Oakland virtually this year via a workshop my WiCyS mentor told me about, and received my ticket to attend
 the AWM Research Symposium after the Roots of Unity workshop, which I had received a spot for in the Arithmetic Geometry group
 and was granted a virtual ticket to attend GHC this year (which is great because I'm doing a butt load of Maths classes this Fall
 because I just want to do Pure Mathematics forever and live until I am 200 so I can just keep taking Pure Mathematics classes
 because they're awesome!!). 
-I am *so* stoked!!! One of the mathematicians I've been dying to meet *forever* is giving a topology talk at the AWM
+I am *so* stoked!!! One of the mathematicians I've been dying to meet *forever* is giving a topology talk on Covers at the AWM
 Research Symposium!!! How cool is that!?
 - I also heard from my BlackComputeHer mentor, who is *amazing*, wrapped up a mentorship with my NCWIT mentor at Facebook research
 (who is seriously the coolest cat ever! He's so level-headed but fun), 
