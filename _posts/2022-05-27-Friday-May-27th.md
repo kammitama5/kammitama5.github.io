@@ -57,6 +57,10 @@ multiprover interactive proof, probabilistically checkable proof), and are going
 that turn interactive proofs into snarks next, as well as information theoretic work, IOPs vs MIPs, transformation
 into snarks, snarks vs interactive proofs. It's a pretty solid group but it's my first time attending. I look forward
 to learning more.
+- I attended a couple talks "at Stanford" again, including one by Fei-Fei on vision and models, and learned a bit about traditional
+cognitive models and the work of Irving Biederman, JJ Gibson, RSVP (Rapid Serial Visual Perception), Cognitive models in Geon Theory,
+Objects composed of geometric shapes, Brooks and Binford  and Fischler and Elschlager (springs and cobjects), moving from
+hand-designed models to hand-designed features but learned models. 
 - I also attended and led a seminar, and my internet dropped out for two minutes, but the group was so awesome that
 I came back in seamlessly, and they were so patient and engaged in our conversation. So that's awesome. Next week we
 have another session on protocols in-depth, but I am not the deputy, which I was this week, so I don't have to go all-out
