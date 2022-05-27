@@ -19,7 +19,8 @@ I believe this week one morning at 3am I also had a 90s - 2000s latin rock music
 (finishing up) with a lot of knowledge, but with so much humility and just a superbly fun disposition, 
 and just is an awesomely fun person to work with! I really could not be happier! He described our group as "the dream team", which
 was shocking and made me simultaneously really happy! We're excited for our progress and the energy towards the project has been
-really amazing.
+really amazing. Honestly, as I had mentioned, I'm more interested in building solid relationships, and based on those relationships,
+I would make a choice, I think. I'm more interested in that and how interesting the problems are than the prestige of a company or whatever.
 
 ## Other things
 - I received a grant to attend Oakland virtually this year via a workshop my WiCyS mentor told me about, and received my ticket to attend
