@@ -68,7 +68,7 @@ have another session on protocols in-depth, but I am not the deputy, which I was
 and make a slideshow and stuff like I did this week. However, you know me..if given the chance.... :)
 
 ## Coming up
-- I'm travelling next week! I have a bunch of people who have already spoken to me about catching up (or meeting because I've been speaking with them *forever* and they live out there; it's already a bit overwhelming. I also need to possibly pack some extra
+- I'm travelling next week! I have a bunch of people who have already spoken to me about catching up (or meeting because I've been speaking with them *forever* and they live out there); it's already a bit overwhelming. I also need to possibly pack some extra
 podcast stuff because I might end up doing a podcast out there (hi sirens!).
 I'm going to try to do what I can while I am there, but I don't know much about how things are going to pan out, and my work comes first.
 -  I also found out that next year I'm doing some *crazy* travel, which is kind of scary but
