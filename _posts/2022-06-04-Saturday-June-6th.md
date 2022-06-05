@@ -18,7 +18,7 @@ That summer, I moved to 6 different locations in three months; I lived in the Br
 suitcases along the whole way, and at one point travelling for two hours each way via bus and train to work. Some of those people worked at Radio
 City Hall and on Broadway back then. I haven't kept in touch really, because of how many times I've moved since then. But sometimes a friend of 
 a friend of a friend tells them about me "she's doing great".
-I was a LOT more "fresh off the boat" back then. Many immigrants have these kinds of stories. It's wonderful to be in a city of immigrants again, too.
+I was a LOT more "fresh off the boat" back then. Many immigrants have these kinds of stories. Struggling. Starting over. Surviving. Thriving. It's wonderful to be in a city of immigrants again, too.
 Hearing about how they are so inspired by the city, the possibilities to achieve your dreams no matter how big; they have so much love for this place.
 - Interestingly, just like most of the places I have lived, this is in sort of the "Arts district", in what used to be a centre
 of vaudeville. I've been having a lot of fun and if I could, I feel like I could jump out of my skin with excitement! I feel like I could burst.
