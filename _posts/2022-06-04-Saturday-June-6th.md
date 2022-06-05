@@ -9,7 +9,7 @@ had both and was "artsy" / had character. It reminded me of years ago when we we
 the Tenderloin on a mattress, and walked around the city drawing on sketchpads. We learned so much and had so much fun and I feel grateful
 for the opportunity to explore this summer, too! The last time I was here for a summer was more than a decade ago! It has changed
 SO much back then. I giggled remembering how back then, the train I was on, the only one I knew to take back to my friend's house, where I was 
-staying, suddenly turned into an express train. I had gotten directions by writing on a piece of paper and only had a Sprint flip-phone back then
+staying, suddenly turned into an express train. I had gotten very specific directions by writing on a piece of paper and only had a Sprint flip-phone back then
 (and there was definitely no wifi in the Subway back then!).
 I burst into tears in the middle of the subway station, as I was by myself, as we (the passengers) all shuffled over to try to figure
 out where we had to go, and a gentleman looked at me and said "excuse me, miss. Why are you crying?" (he looked annoyed at my open display of weakness in the city lol, but I realized that he was really sympathetic) and I told him I was lost and he helped 
