@@ -37,7 +37,7 @@ for the first time, that my life would be like this so many years later? It feel
 - The two of us who are working with our mentor are also going to write a blog post, or rather, a series of blog posts as well about it!
 - Both an article about a publication we wrote and a podcast I was in came out this week, too!
 - And throughout it, I spent my time this week on long days of working, plugging away, pushing up code as I could, and cleaning my apartment.
-- I went to a cool talk on cryptocurrency and ransomeware by K. Nershi and one half of the Diffie-Hellman showed up to our meeting, which was 
+- I went to a cool talk on cryptocurrency and ransomware by K. Nershi and one half of the Diffie-Hellman showed up to our meeting, which was 
 kind of a trip! I also went to a cryptography talk and attended a zero-knowledge book-club where the author went through the GKR protocol some more
 and then I also attended a talk on Physics-aware Neural Networks, where the speaker P. McMahon, spoke about using a circuit with say, a transistor,
 and using it to classify a digit with 87% accuracy. They also spoke about physical systems that have memory, which was super interesting!
