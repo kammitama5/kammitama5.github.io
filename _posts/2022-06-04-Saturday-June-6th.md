@@ -12,7 +12,7 @@ SO much back then. I giggled remembering how back then, the train I was on, the 
 staying, suddenly turned into an express train. I had gotten directions by writing on a piece of paper and only had a Sprint flip-phone back then
 (and there was definitely no wifi in the Subway back then!).
 I burst into tears in the middle of the subway station, as I was by myself, as we (the passengers) all shuffled over to try to figure
-out where we had to go, and a gentleman looked at me and said "excuse me, miss. Why are you crying?" and I told him I was lost and he helped 
+out where we had to go, and a gentleman looked at me and said "excuse me, miss. Why are you crying?" (he looked annoyed at my open display of weakness in the city lol, but I realized that he was really sympathetic) and I told him I was lost and he helped 
 me figure out where I had to go. I grew SO much that summer, conquered my fear of navigating the city, and I expect to do the same again this summer, too.
 That summer, I moved to 6 different locations in three months; I lived in the Bronx, the Upper East Side, The Hamptons, Queens, and two places in Brooklyn, dragging two
 suitcases along the whole way, and at one point travelling for two hours each way via bus and train to work. Some of those people worked at Radio
