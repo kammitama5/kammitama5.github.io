@@ -162,7 +162,7 @@ but it really does exemplify all the things I felt this week!
 in it, but oh well lol. Also, this was when one of the persons from my workshop ordered beignets for everyone, and we ended up 
 salsa dancing! This was at Gray's, on their salsa dancing night! 
 
-<img src="/images/rootsofunity/roots28.png" width="400">
+<img src="/images/rootsofunity/roots29.png" width="400">
 
 - The inside of Gray's is beautiful! And everyone was so nice! They even have discounts for students!
 
