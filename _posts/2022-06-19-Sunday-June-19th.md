@@ -21,7 +21,7 @@ based on how our new mentor saw certain topics could be understood. My mentors i
 who was actually supposed to be a floating mentor, but said in her heart she had a special place for Arithmetic Geometry, so she gave us a mini talk on
 the heights of elliptic curves and how they are measured / what they represent.
 - On the last day of the workshop, we also presented what we learned, what the paper was about, and about our experience. Each group had 30 minutes,
-but since we split our groups into 2, we had 15 minutesfor our group to present. It was amazing! It was, quite frankly, one of the highlights 
+but since we split our groups into 2, we had 15 minutes for our group to present. It was amazing! It was, quite frankly, one of the highlights 
 of my entire time of grad school thus far. And when I said that I was actually a Computer Science PhD student, but that I loved Pure Mathematics,
 the group of participants and mentors cheered for me. It has been one of the best spaces in Mathematics I have ever experienced, and I left with so
 many great experiences, so many great friendships, and a new community of peers. 
