@@ -40,7 +40,7 @@ too! I haven't laughed so hard, and had so much fun in a long time.
 "does anyone want to go get boba?" and have someone take me up on the offer *ever single time*! Finally, every night, we had a movie night; the first
 night we watched "Turning Red" and then the second night, we watched "Encanto". I heard that the last night, the night I flew out, they watched
 "Cruella", which is funny because that is the exact movie I watched on the plane back.
-- My favourite talk was that of Marissa, who not only gave an engaging, creative, bold and wonderful talk on Covers and Curves, but also gave thoughts
+- My favourite keynote talk was that of Marissa's, who not only gave an engaging, creative, bold and wonderful talk on Covers and Curves, but also gave thoughts
 on what it means to be a mathematician working in a space that was not originally created for people like herself, and how it has not always been
 the best space for her. I remember hearing about Marissa, and being SO inspired by her, and thinking that if there was one person I wanted to meet
 in that space, it would be her. And so, it was wonderful that even on the first day, she sat right next to me, and smiling said "you're an island girl!"
