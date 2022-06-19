@@ -27,7 +27,12 @@ the group of participants and mentors cheered for me. It has been one of the bes
 many great experiences, so many great friendships, and a new community of peers. 
 
 ## The Research Symposium
-- I attended some Analysis talks by accident, but got roped in and stayed, until I decided to check out the Cryptography talks. I also attended
+- I attended some Analysis talks by accident, but got roped in and stayed, until I decided to check out the Cryptography talks. 
+- The cryptography talks were very familiar to me, in terms of the backgroun and foundation, and I met some people I knew! I also learned 
+about some awesome error-correction codes work, and made new friends there, too. I also attended a very interesting talk on optics (specifically
+for things like lights with reflectors and lenses) and 
+geometric spherical meshes modelled as optimal transport cost functions. 
+- I also attended
 the keynotes, the ice-cream social, went out for dinner each evening with our group, and on the last night I was there, we had dinner and ended 
 up salsa dancing! Apparently, one of the grad students had just found out she had received a raise, and so she treated the entire table to beignets,
 too! I haven't laughed so hard, and had so much fun in a long time.
