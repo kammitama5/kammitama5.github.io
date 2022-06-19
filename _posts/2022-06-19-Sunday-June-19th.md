@@ -52,6 +52,10 @@ in fact, use the space with a new private account, and chat with my new friends 
 - This has been one of the most AMAZING of my entire grad school experiences. I'm still a bit confused as to "why me", because there are so many
 brilliant young mathematicians out in the world, but I'm so thankful and happy that "yes me", and that the organizers saw something in me that they
 thought was valuable in being a participant of this lovely workshop, and in this community.
+- One of the organizers even told me "thank you for helping to shape this space", and I received a lot more guidance on how to navigate my experience
+during my programme. Each day, we had Professional Development sessions, where we learned about how to navigate things like service, and other things
+I should have learned and was, quite frankly struggling with, relative to my peers who weren't in traditionally underrepresented groups. I was SO
+thankful for this. From the bottom of my heart.
 - So I left Minneapolis in a rideshare blasting reggaeton, feeling thankful, much braver in advocating for myself, and feeling like yes, I not only
 can be a mathematician, but there is a community that makes me hopeful for the future that my experiences in Mathematics will be better, and more joyful,
 like it was for me this past week.
