@@ -28,7 +28,7 @@ many great experiences, so many great friendships, and a new community of peers.
 
 ## The Research Symposium
 - I attended some Analysis talks by accident, but got roped in and stayed, until I decided to check out the Cryptography talks. 
-- The cryptography talks were very familiar to me, in terms of the backgroun and foundation, and I met some people I knew! I also learned 
+- The cryptography talks were very familiar to me, in terms of the background and foundation, and I met some people I knew! I also learned 
 about some awesome error-correction codes work, and made new friends there, too. I also attended a very interesting talk on optics (specifically
 for things like lights with reflectors and lenses) and 
 geometric spherical meshes modelled as optimal transport cost functions. 
