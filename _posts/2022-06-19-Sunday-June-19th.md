@@ -107,7 +107,7 @@ Cohen-Lenstra.
 <img src="/images/rootsofunity/roots12.png" width="400">
 
 - Olivia drew this for herself as part of her notes, but we loved it so much, that it became a section she presented in our final presentation.
-- So our theme became a journey of walking through understanding how the heuristic is calculated, starting from an ellpitic curve.
+- So our theme became a journey of walking through understanding how the heuristic is calculated, starting from an elliptic curve.
 
 <img src="/images/rootsofunity/roots13.png" width="400">
 
