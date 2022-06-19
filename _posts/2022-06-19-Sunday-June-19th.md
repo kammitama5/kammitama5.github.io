@@ -141,6 +141,9 @@ Such an amazing, caring, smart and lovely group! I'm going to miss them!
 
 <img src="/images/rootsofunity/roots22.png" width="400">
 
+- Also view from my room! I woke up to this view every morning of the Research Symposium. On the last day, times were kind of rough. We partied 
+a little too hard the evening before, and then I did laundry at 2am :)
+
 <img src="/images/rootsofunity/roots23.png" width="400">
 
 - Another thing I remembered from Combo seminar! Dynkin diagrams! Was excited to see them. This is from one of the keynotes at the
