@@ -12,13 +12,13 @@ so realizing that I was now back living the student-dorm life, I found a soft se
 - I was placed in the Arithmetic Geometry group! We had two papers to choose from, and fortunately, the six of us evenly split into our preferred
 paper-groups. My paper was [this one](https://arxiv.org/pdf/1602.01431.pdf), along with two other lovely ladies. It was interesting
 because the paper is a mix of Arithmetic Geometry and Arithmetic Statistics, which I found to be absolutely fascinating,
-and something that might be worth considering for a postdoc or future research. By the end of my PhD, I shoudld pretty much
+and something that might be worth considering for a postdoc or future research. By the end of my PhD, I should pretty much
 have some of the kind of background to engage with the field, but we'll see. Everyone in the conference
 was incredibly friendly, and soon, for every single break, I had a group of friends walking together, eating lunch together, having dinner together,
 talking about our own experiences in Academia, and what we had a passion for in Pure Mathematics. 
 - We also had assigned group mentors, and on some afternoons, our mentors would swap, so that we could get perspectives and new opportunities to learn
 based on how our new mentor saw certain topics could be understood. My mentors included Adriana, Allechar, Lori, and a special guest appearance by Michelle,
-who was actually supposed to be a floating mentor, but said in her heart she had a special place for Arithmetic Geometry, so he gave us a mini talk on
+who was actually supposed to be a floating mentor, but said in her heart she had a special place for Arithmetic Geometry, so she gave us a mini talk on
 the heights of elliptic curves and how they are measured / what they represent.
 - On the last day of the workshop, we also presented what we learned, what the paper was about, and about our experience. Each group had 30 minutes,
 but since we split our groups into 2, we had 15 minutesfor our group to present. It was amazing! It was, quite frankly, one of the highlights 
