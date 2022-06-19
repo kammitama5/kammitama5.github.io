@@ -10,7 +10,10 @@ so realizing that I was now back living the student-dorm life, I found a soft se
 
 ## Groups
 - I was placed in the Arithmetic Geometry group! We had two papers to choose from, and fortunately, the six of us evenly split into our preferred
-paper-groups. My paper was [this one](https://arxiv.org/pdf/1602.01431.pdf), along with two other lovely ladies. Everyone in the conference
+paper-groups. My paper was [this one](https://arxiv.org/pdf/1602.01431.pdf), along with two other lovely ladies. It was interesting
+because the paper is a mix of Arithmetic Geometry and Arithmetic Statistics, which I found to be absolutely fascinating,
+and something that might be worth considering for a postdoc or future research. By the end of my PhD, I shoudld pretty much
+have some of the kind of background to engage with the field, but we'll see. Everyone in the conference
 was incredibly friendly, and soon, for every single break, I had a group of friends walking together, eating lunch together, having dinner together,
 talking about our own experiences in Academia, and what we had a passion for in Pure Mathematics. 
 - We also had assigned group mentors, and on some afternoons, our mentors would swap, so that we could get perspectives and new opportunities to learn
