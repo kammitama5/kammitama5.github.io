@@ -127,6 +127,10 @@ we would just order a bunch of stuff, eat, have a great time and then realize th
 
 <img src="/images/rootsofunity/roots17.png" width="400">
 
+- For the symposium, we moved to a fancier dorm! This was my view from the bedroom. I had issues with lowering the blinds because I never learned 
+how to do that growing up, and I texted our group and immediately someone from our group showed up and helped me! It was like this all the time.
+Such an amazing, caring, smart and lovely group! I'm going to miss them!
+
 <img src="/images/rootsofunity/roots18.png" width="400">
 
 <img src="/images/rootsofunity/roots19.png" width="400">
