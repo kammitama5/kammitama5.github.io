@@ -34,6 +34,8 @@ study group.
 - Our paper is being featured in the Montreal AI Ethics Institute (MAIEI) newsletter!
 - They really liked the mess we made of ICLR 2022, and asked us to do it again, and we said yes to Part Deux in 2023!
 - Check out our opening remarks at ICLR's conference this year (virtual), as well as the workshop ware hosting for first-time submitters and others traditionally underrepresented in research!
+- I have been accepted to EC22's Algorithmic Game Theory Mentorship Program at EC22!
+- I have received a scholarship to attend the Tapia Conference (flight, registration, hotel for 3 days)!
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
