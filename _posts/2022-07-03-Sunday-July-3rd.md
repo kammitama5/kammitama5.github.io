@@ -22,8 +22,8 @@ Game Theory basics; his background means that he knows quite a bit about this, a
 is finishing up his Master's at the moment and is super into crypto), and has published that, and it's a good read!
 I also plan to eventually do a write-up, which will probably be a Medium post or something like that, and will link to that, but that will probably be
 later in July or in August.
-Tomorrow I am also participating in a meditation session after putting in some work on a
-project.
+Tomorrow I am also participating in a group meditation session after putting in some work on a
+project. My mind is starting to vacillate again, having so much to juggle in my head, that it will be good for me.
 - Good news, too! I have also been accepted to Tapia to present work on some isogeny-based cryptography work I am working on, attend their doctoral 
 consortium, and I have received a scholarship that will get me there (flight, hotel, etc). I am super thankful, and will definitely post about my 
 experience there. It will be my first in-person poster session, as I have mostly presented during quarantine, which meant that I was either in 
