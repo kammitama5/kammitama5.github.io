@@ -54,7 +54,8 @@ bus arrives at the stop. You optimize everything to get more done. So I've been 
 
 <img src="/images/weekfourrooftopnyc22/rooftop2.png" width="400">
 
-- A view of the city from the rooftop.
+- A view of the city from the rooftop. The view is pretty much 270 degrees (so you can see all around except for a tiny area, like a catwalk runway design,
+essentially).
 
 <img src="/images/weekfourrooftopnyc22/rooftop4.png" width="400">
 
