@@ -43,7 +43,7 @@ Anyways, I'm super thankful for that as well, and we shall see how it goes.
 - Our group is pretty close-knit, so we definitely had fun walking together, and we usually travel together and that sort of thing. It's been nice
 meeting so many people, and having so many new friends.
 - I am supposed to reconnect with three more friends this upcoming week, too, so there's that, too. It's been an incredibly busy time for me, but
-I have been doing the NYC thing where you fit in as much as you can, optimally (a packing/compact spaces problem). One of the most incredible things
+I have been doing the NYC thing where you fit in as much as you can, optimally (a bin packing/compact spaces problem). One of the most incredible things
 I remember is seeing that drivers here who have dropoffs will time their dropoff so that they can accomplish it in the space of time between which a
 bus arrives at the stop. You optimize everything to get more done. So I've been noticing my schedule is like that these days, also.
 
