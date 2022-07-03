@@ -36,7 +36,7 @@ research project (specifically on modelling computational game theory with some 
 a lot, but some of it has also reminded me of how much I really enjoyed the Random graphs class I took last semester, and how much I am also excited
 for the follow-up class this semester on Spectral Graph Theory. I am also sitting in on a workshop (one-day) on Computational Randomness Theory tomorrow, too.
 I found the workshop and emailed the organizers or something, so it turned out to be a great-timing you registered-just-in-time kind of thing. 
-And guess what; they even have talks on Expander graphs, which is a thing in isogeny-based cryptography, too. So stoked!
+And guess what; they even have talks on [Expander graphs](https://en.wikipedia.org/wiki/Expander_graph), which is a thing in isogeny-based cryptography, too. So stoked!
 Anyways, I'm super thankful for that as well, and we shall see how it goes. 
 
 ## This week has been very fun!
