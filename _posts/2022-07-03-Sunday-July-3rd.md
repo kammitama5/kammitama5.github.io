@@ -13,7 +13,7 @@ has been really helpful in some of the work I am doing for my research project (
 to that, sorry! I have a firm boundary on this stuff and if you ask me I will not answer. They are 
 pretty cool about us working on other projects as long as they don't directly conflict and we get our work done, which is nice, as researchers,
 it is inevitable that some of us are also working on other projects, presenting at conferences, still working with our advisors outside of our work hours,  giving talks, etc. So it is very much a research
-lab, and they are very reasonable, which is great.). So today, I am mostly working on that project, since it's my "day off", chatting with my parents, and reading a paper that was
+lab, and they are very reasonable, which is great.). So today, I am mostly working on that (non-work) project, since it's my "day off", chatting with my parents, and reading a paper that was
 presented during one of the workshop tutorials that I think lines up very nicely with our work (I was also able to speak briefly with one of the authors,
 which was really nice! He also gave me some interesting places to look for information, too, and seemed to think the work we were doing
 was super interesting!). The other student I am working with who is doing his Master's also
