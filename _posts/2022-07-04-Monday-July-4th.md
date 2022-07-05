@@ -24,7 +24,8 @@ attended and am receiving a matched mentor for; I am really looking forward to t
 stuff and see him light up; after all, he worked in econometrics and taught at the Master's level for several years and also studied in the UK. Sometimes when we are
 talking he will just say "look at X", which will take me to an interesting reference that is quite relevant.
 - So I used some of the information I learned today to start a draft on what our paper might look like, even though I know our mentor has thoughts on that, too.
-At this point, he pretty much has most of the paper drafted out in his head.
+At this point, he pretty much has most of the paper drafted out in his head, and we already have quite a few results (we are pretty close to a paper). Our intent is not to present these at a conference, or anything, but the work really just needs to be done; there are a lot of problems
+that should be explored with respect to this. Interestingly, someone had said something similarly at another workshop I attended.
 - I also got around to reading 4 papers that I had planned to get into, which were pretty useful, too.
 
 ## Crash
