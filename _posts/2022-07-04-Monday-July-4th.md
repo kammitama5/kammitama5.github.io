@@ -39,7 +39,8 @@ does seem a lot quieter than you would expect, which is nice for me.
 - So, it's midpoint for my project, and so I had to do the cat-herding thing where I had to get all my paperwork and code and 
 everything all in one place. It was a fair amount of work, because for one, my original progress document is about 56 pages long
 now. It is a mix of mathematical notation, notes, plans, comments from my mentor, etc. So that had to be cleaned up in a new document.
-- Our mentor has also been talking about our work, and we even were mentioned in a research post, too. So it's been kind of an ideal
+- Our mentor has also been talking about our work, and we even were mentioned in a research post, too, for a major cryptocurrency research
+space. So it's been kind of an ideal
 situation for someone who isn't fully in this community yet. Today, as I was looking at the workshop, though, I couldn't help but
 think how much I loved the mathematical community. They are literally my people, and I love that there is a space where I can use
 some computational skills, but don't necessarily have to sit at a desk and spin up code each day (phew). I think that this and the
