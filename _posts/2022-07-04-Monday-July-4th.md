@@ -36,6 +36,11 @@ for an hour.
 - So, it's midpoint for my project, and so I had to do the cat-herding thing where I had to get all my paperwork and code and 
 everything all in one place. It was a fair amount of work, because for one, my original progress document is about 56 pages long
 now. It is a mix of mathematical notation, notes, plans, comments from my mentor, etc. So that had to be cleaned up in a new document.
+- Our mentor has also been talking about our work, and we even were mentioned in a research post, too. So it's been kind of an ideal
+situation for someone who isn't fully in this community yet. Today, as I was looking at the workshop, though, I couldn't help but
+think how much I loved the mathematical community. They are literally my people, and I love that there is a space where I can use
+some computational skills, but don't necessarily have to sit at a desk and spin up code each day (phew). I think that this and the
+theory / proofs work is kind of the sweet spot for me.
 - I also have plans to write a blog post with another one of the students, and had attended seminars based on readings we had to do
 on SegWit, P2P, Mining and other such topics. In the first seminar, I was dubbed the "deputy", which means I had to lead the discussion.
 I had forgotten I had made slides for those, so I had to drag those out, too, and include them in my progress.
