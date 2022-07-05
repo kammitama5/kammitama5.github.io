@@ -11,7 +11,7 @@ our problem. We have a discord group where we have been posting papers and artic
 more timid about that stuff).
 There have been persons who have done research on our system, but the person who really accurately can model and knows about this best
 is my mentor; he has been one of the core persons working on these problems, along with a mix of engineers, even though he has also has 
-a research background. So it's really a unique opportunity. 
+a research background / did the Academic route / publishes. So it's really a unique opportunity. 
 - We have looked at a number of mechanisms along the way, too, both mathematical, game-theory related, and random processes related. It's been
 kind of a wild ride.
 - He has also been really great in dedicating time when he can, because there is a lot of interest in the work he is doing, from both
