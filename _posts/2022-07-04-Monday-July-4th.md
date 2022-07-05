@@ -32,7 +32,8 @@ that should be explored with respect to this. Interestingly, someone had said so
 - So by around late afternoon, I was not only very hungry because I hadn't eaten all day, but also, not getting any sleep was
 beginning to take its toll on me. So In took a nap in between doing laundry (45 minute nap between washer cycle, and 45 minute
 nap between dryer cycle). This ended up being a good thing, because I was able to attend a meditation session with a friend
-for an hour.
+for an hour. So that was my July 4th; not terribly exciting, I know. I'm still in NYC, so there are definitely fireworks, although it
+does seem a lot quieter than you would expect, which is nice for me.
 
 ## Midpoint
 - So, it's midpoint for my project, and so I had to do the cat-herding thing where I had to get all my paperwork and code and 
