@@ -2,7 +2,7 @@
 
 ## Today is July 4th
 - I didn't get to sleep until after 1am, and got up around 3:30am to attend the [workshop on Total Search Problems](https://sites.google.com/view/total-search-workshop/),
-which is super relevant to some work I am doing for my non-work project. Specifically, on congestion games and Pure Nash Equilibria and TFNP.
+which is super relevant to some work I am doing for my non-work project. Specifically, on congestion games and Pure NE (Nash Equilibria) and TFNP.
 It was a small group of us, based in Paris (no more than say, 25 in our Zoom room, although there were persons physically at the workshop in a room), attended by professors at various UK institutions, but all of the talks were
 very interesting, and I took copious notes. One paper in particular was very relevant to my proof, which is fantastic, involving bounds
 for delay utility functions. Our problem is very specific, though, so none of these resources really cover what our paper will 100%.
