@@ -10,7 +10,7 @@ There has been a person who recently gave a talk (with a publication in May) who
 our problem. There was also another individual who pointed us to a paper where they analyzed some of the constraints of the system, but it isn't quite what we are looking for with respect to this paper, but I still have to keep track of these recourses for background and will definitely cite them. We have a discord group where we have been posting papers and articles, and my mentor likes the social media thing (I'm a bit
 more timid about that stuff).
 There have been persons who have done research on our system, but the person who really accurately can model and knows about this best
-is my mentor; he has been one of the core persons working on these problems, along with a mix of engineers, even though he has also has 
+is my mentor; he has been one of the core persons working on these problems for about four years now, along with a mix of engineers, even though he has also has 
 a research background / did the Academic route / publishes. So it's really a unique opportunity. 
 - We have looked at a number of mechanisms along the way, too, both mathematical, game-theory related, and random processes related. It's been
 kind of a wild ride.
