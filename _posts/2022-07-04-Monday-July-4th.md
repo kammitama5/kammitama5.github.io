@@ -47,6 +47,8 @@ on SegWit, P2P, Mining and other such topics. In the first seminar, I was dubbed
 I had forgotten I had made slides for those, so I had to drag those out, too, and include them in my progress.
 - I also have several arbitrary notebooks with random bits of code, including some I hadn't committed yet, and we even used Wolfram in one session
 to talk about asymmetric random walks with drift. 
+- Also, I am literally only blogging about these things because we were told to do so, but I can't do this sort of thing regularly because I have
+to focus on the actual project, etc.
 
 ## All in All
 - It's really been a unique experience; definitely not one that I could have imagined I could find in Academia. It's been a nice balance
