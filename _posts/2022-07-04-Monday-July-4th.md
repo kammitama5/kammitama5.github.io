@@ -40,7 +40,8 @@ now. It is a mix of mathematical notation, notes, plans, comments from my mentor
 situation for someone who isn't fully in this community yet. Today, as I was looking at the workshop, though, I couldn't help but
 think how much I loved the mathematical community. They are literally my people, and I love that there is a space where I can use
 some computational skills, but don't necessarily have to sit at a desk and spin up code each day (phew). I think that this and the
-theory / proofs work is kind of the sweet spot for me.
+theory / proofs work is kind of the sweet spot for me, but in particular, I just really like theoretical research with a smidgen of coding
+(like, broken code that barely works but okay I guess kind of thing).
 - I also have plans to write a blog post with another one of the students, and had attended seminars based on readings we had to do
 on SegWit, P2P, Mining and other such topics. In the first seminar, I was dubbed the "deputy", which means I had to lead the discussion.
 I had forgotten I had made slides for those, so I had to drag those out, too, and include them in my progress.
