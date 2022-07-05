@@ -6,8 +6,8 @@ which is super relevant to some work I am doing for my non-work project. Specifi
 It was a small group of us, based in Paris (no more than say, 25 in our Zoom room, although there were persons physically at the workshop in a room), attended by professors at various UK institutions, but all of the talks were
 very interesting, and I took copious notes. One paper in particular was very relevant to my proof, which is fantastic, involving bounds
 for delay utility functions. Our problem is very specific, though, so none of these resources really cover what our paper will 100%.
-There has been a person who did look at and improve upon some of the bounds of some of the work we looked at, but it's still not quite
-our problem. We have a discord group where we have been posting papers and articles, and my mentor likes the social media thing (I'm a bit
+There has been a person who recently gave a talk (with a publication in May) who did look at and improve upon some of the bounds of some of the work we looked at, but it's still not quite
+our problem. There was also another individual who pointed us to a paper where they analyzed some of the constraints of the system, but it isn't quite what we are looking for with respect to this paper, but I still have to keep track of these recourses for background and will definitely cite them. We have a discord group where we have been posting papers and articles, and my mentor likes the social media thing (I'm a bit
 more timid about that stuff).
 There have been persons who have done research on our system, but the person who really accurately can model and knows about this best
 is my mentor; he has been one of the core persons working on these problems, along with a mix of engineers, even though he has also has 
