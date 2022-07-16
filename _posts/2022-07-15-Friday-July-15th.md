@@ -67,9 +67,9 @@ The guy behind the counter told me that these had a dash of alcohol in them, tho
 
 <img src="/images/weekfivesushinyc22/five16.png" width="200">
 
-- I learned that this is a "flotea"; in this case, it's taro tea with boba at the base, and taro ice cream on top, with a ginger snap stuck in.
+- I learned that this is a "floatea"; in this case, it's taro tea with boba at the base, and taro ice cream on top, with a ginger snap stuck in.
 When I first got mine, it started melting immediately, I spilled a tiny bit, and a guy smiled and told me "you gotta be fast!". Almost immediately,
-his female friend told him he needed a napkin to wipe his entire face because he had flotea all over his face, which is hilarious. NYC is a lot of fun
+his female friend told him he needed a napkin to wipe his entire face because he had floatea all over his face, which is hilarious. NYC is a lot of fun
 during the summer.
 
 <img src="/images/weekfivesushinyc22/five17.png" width="200">
