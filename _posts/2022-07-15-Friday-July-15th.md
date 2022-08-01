@@ -34,7 +34,7 @@ find that support in the appropriate community for what you need.
 - New York city is foodie town. I have not yet made it to Brooklyn, but I absolutely must at some point. That's a goal. I mean, the food that 
 I am seeking is not the *healthiest*, but it's food from home, so yes, I will eat that.
 
-## Something a bit different: 18 reasons to do an internship in NYC.
+## Something a bit different: 19 reasons to do an internship in NYC.
 
 - Okay, this is really an excuse to talk about food. I'm going to do some run downs of some food.
 
@@ -109,7 +109,11 @@ basically like family.
 
 <img src="/images/weekfivesushinyc22/lucrecia3.png" width="200">
 
-- a pot of mussels being taught to eat the European way with a long-time friend!
+- a pot of mussels; being taught to eat the European way with a long-time friend!
+
+<img src="/images/weekfivesushinyc22/pastry.png" width="200">
+
+- These are Petits Choux with red bean ice cream, green tea and vanilla ice cream!
 
 ## This summer
 - This summer has made me realize a few things. I can be authentic here; I feel free here. I can be myself here, and it's been such a relief, a weight off of my
