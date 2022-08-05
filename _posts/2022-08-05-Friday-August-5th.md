@@ -72,7 +72,6 @@ not inscrutable through cost function optimization. Initially, our model was bas
 using Min-Cost Flow.
 
 In a congestion game, our Affine Bounded Delay Function is typically defined as:
-text
 
 $$\begin{aligned}
 d_{r}(k) = a_{r} \cdot k + b_{r} 
