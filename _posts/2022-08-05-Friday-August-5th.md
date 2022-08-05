@@ -99,7 +99,7 @@ in probability distributions, standard mean, etc (eg. T-test, Z-test, Wasserstei
 ## Personal Reflections
 - This project was atypical in that it was the only research project this summer.
 I also learned after being accepted that I was the only participant from the United States.
-- My project started out as a proposal, and upon selection,
+- My project started out as a [proposal](https://docs.google.com/document/d/1W7dm-HKm3j53AQV5lomYLD0LhfwEExGfxn_wAeDN5Ls/edit?usp=sharing), and upon selection,
 we looked into different methodologies for defining the expected behaviour of the Lightning Network
 through a strategy, which gave a natural direction towards being modelled as a game. 
 As such, evaluation for my project was quite different. 
