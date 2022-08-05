@@ -73,11 +73,8 @@ using Min-Cost Flow.
 
 In a congestion game, our Affine Bounded Delay Function is typically defined as:
 
-$$\begin{aligned}
-d_{r}(k) = a_{r} \cdot k + b_{r} 
-; 
- a_{r}, b_{r} \in Z_{\geq 0}
-\end{aligned}$$
+
+<img src="/images/SoB_/latex.png" width="400">
 
 And we know that:
 In every congestion game, with affine delay functions, the price of anarchy for
