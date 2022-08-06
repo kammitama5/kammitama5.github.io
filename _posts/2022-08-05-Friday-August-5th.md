@@ -55,7 +55,7 @@ or drift over time, favouring one individual over the other. This represents a s
 In our Lightning Network, we can extend these to both parties having satoshi, with latency and
 constraints which affect our liquidity on the network.
 In our lightning network, we have a drain in our network, so in actuality our probability of hitting
-capacity looks like a random walk with some drift over time (this represents an asymmetric random walk). In our work, we have so far found that
+capacity looks like a random walk with some drift over time (this represents an [asymmetric random walk](https://math.stackexchange.com/questions/36774/do-asymmetric-random-walks-also-return-to-the-origin-infinitely)). In our work, we have so far found that
 [deMoivre’s Martingale](https://math.stackexchange.com/questions/384507/de-moivres-martingale-and-stopping-times) is a close (but not ideal)
 representation of our drain over time.
 
@@ -68,7 +68,7 @@ as channels can go from a state of saturation to having liquidity.
 ## Congestion Games
 We can model our drain as a congestion game. In a congestion game, we have a ([Brouwer’s](https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem)) fixed point which represents
 Pure Nash Equilibria, where for individuals in our game, we have an envy-free equilibrium which is usually
-not inscrutable through cost function optimization. Initially, our model was based on Braess’s Paradox,
+not inscrutable through cost function optimization. Initially, our model was based on [Braess’s Paradox](https://en.wikipedia.org/wiki/Braess%27s_paradox),
 using Min-Cost Flow.
 
 In a congestion game, our Affine Bounded Delay Function is typically defined as:
