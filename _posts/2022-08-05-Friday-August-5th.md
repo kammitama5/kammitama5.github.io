@@ -82,6 +82,10 @@ the pure Nash equilibria is at most 5/2 or 2.5. Do these constraints apply to ou
 of our Lightning Network? And what does this mean for the Price of Anarchy and what is the
 extent of selfish routing on the Lightning Network?
 
+## What we achieved
+- We were able to determine that these were the best strategies to describe the behavior of the Lightning Network.
+- We produced preliminary results and began a sketching out the paper.
+
 ## Further Work
 We continue to identify strategies that refine our problem, using simulations that were generated to show a constrained bound on our problem and the effects of latency.
 Specifically:
