@@ -44,7 +44,7 @@ I have two individuals who share 1 satoshi between them. This is a [zero-sum gam
 in which at each turn, one individual can pay the other, but at any given time,
 only one individual has the satoshi. We can assume that an individual has equal
 likelihood of having a turn at paying the other individual, and that we have no latency
-or drift over time, favouring one individual over the other.
+or drift over time, favouring one individual over the other. This represents a symmetric random walk.
 
 <img src="/images/SoB_/satoshi.png" width="800">
 
@@ -55,7 +55,7 @@ or drift over time, favouring one individual over the other.
 In our Lightning Network, we can extend these to both parties having satoshi, with latency and
 constraints which affect our liquidity on the network.
 In our lightning network, we have a drain in our network, so in actuality our probability of hitting
-capacity looks like a random walk with some drift over time. In our work, we have so far found that
+capacity looks like a random walk with some drift over time (this represents an asymmetric random walk). In our work, we have so far found that
 [deMoivre’s Martingale](https://math.stackexchange.com/questions/384507/de-moivres-martingale-and-stopping-times) is a close (but not ideal)
 representation of our drain over time.
 
