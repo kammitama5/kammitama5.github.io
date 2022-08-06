@@ -34,7 +34,7 @@ find that support in the appropriate community for what you need.
 - New York city is foodie town. I have not yet made it to Brooklyn, but I absolutely must at some point. That's a goal. I mean, the food that 
 I am seeking is not the *healthiest*, but it's food from home, so yes, I will eat that.
 
-## Something a bit different: 19 reasons to do an internship in NYC.
+## Something a bit different: 22 reasons to do an internship in NYC.
 
 - Okay, this is really an excuse to talk about food. I'm going to do some run downs of some food.
 
@@ -74,7 +74,7 @@ during the summer.
 
 <img src="/images/weekfivesushinyc22/five17.png" width="200">
 
-- Oh, this was a taro souffle. It's so good! They also serve it with red bean ice cream!
+- Oh, this was a purple yam souffle. It's so good! They also serve it with red bean ice cream!
 
 
 <img src="/images/weekfivesushinyc22/five20.png" width="200">
@@ -114,6 +114,18 @@ basically like family.
 <img src="/images/weekfivesushinyc22/pastry.png" width="200">
 
 - These are Petits Choux with red bean ice cream, green tea and vanilla ice cream!
+
+<img src="/images/weekfivesushinyc22/cambodian.png" width="400">
+
+- A group of us went out for Chinese food in Chinatown. A mix of broccoli beef, garlic chicken, pork, mapo tofu, eggplant and mushroom, sweet and sour shrimp, etc. I took this before two more dishes arrived, too! We were so full afterwards!
+
+<img src="/images/weekfivesushinyc22/kunfutea.png" width="100">
+
+- But we still made it to Kung Fu Tea! In Chinatown. This is the Taro Slush with mango popping boba.
+
+<img src="/images/weekfivesushinyc22/mochidonuts.png" width="200">
+
+- These are mochi donuts. One is a Matcha one, and the other is the Onyx donut, which has chocolate!
 
 ## This summer
 - This summer has made me realize a few things. I can be authentic here; I feel free here. I can be myself here, and it's been such a relief, a weight off of my
