@@ -105,7 +105,7 @@ basically like family.
 
 <img src="/images/weekfivesushinyc22/lucrecia2.png" width="200">
 
-- panna cotta best shared with a friend!
+- panna cotta best shared with a friend! This is from a vegan restaurant, Coletta.
 
 <img src="/images/weekfivesushinyc22/lucrecia3.png" width="200">
 
@@ -113,7 +113,7 @@ basically like family.
 
 <img src="/images/weekfivesushinyc22/pastry.png" width="200">
 
-- These are Petits Choux with red bean ice cream, green tea and vanilla ice cream!
+- These are Petits Choux with red bean ice cream, green tea and vanilla ice cream! I regularly frequent this tea place!
 
 <img src="/images/weekfivesushinyc22/cambodian.png" width="400">
 
