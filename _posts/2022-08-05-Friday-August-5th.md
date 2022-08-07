@@ -79,7 +79,7 @@ In a congestion game, our Affine Bounded Delay Function is typically defined as:
 
 And we know that:
 In every congestion game, with affine delay functions, the price of anarchy for
-the pure Nash equilibria is at most 5/2 or 2.5. Do these constraints apply to our assumptions
+the pure Nash equilibria is at most `5/2` or `2.5`. Do these constraints apply to our assumptions
 of our Lightning Network? And what does this mean for the Price of Anarchy and what is the
 extent of selfish routing on the Lightning Network?
 
