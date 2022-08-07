@@ -44,7 +44,7 @@ I have two individuals who share 1 satoshi between them. This is a [zero-sum gam
 in which at each turn, one individual can pay the other, but at any given time,
 only one individual has the satoshi. We can assume that an individual has equal
 likelihood of having a turn at paying the other individual, and that we have no latency
-or drift over time, favouring one individual over the other. This represents a symmetric random walk and we can represent expectation this as a normal distribution.
+or drift over time, favouring one individual over the other. This represents a symmetric random walk and we can represent our probability expectation for this as a normal distribution.
 
 <img src="/images/SoB_/satoshi.png" width="800">
 
