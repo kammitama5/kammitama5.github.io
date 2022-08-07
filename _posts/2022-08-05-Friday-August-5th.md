@@ -55,7 +55,7 @@ or drift over time, favouring one individual over the other. This represents a s
 In our Lightning Network, we can extend these to both parties having satoshi, with latency and
 constraints which affect our liquidity on the network.
 In our lightning network, we have a drain in our network, so in actuality our probability of hitting
-capacity looks like a random walk with some drift over time (this represents an [asymmetric random walk](https://math.stackexchange.com/questions/36774/do-asymmetric-random-walks-also-return-to-the-origin-infinitely) where we have some expectation of left-skewed-ness in our probability, so we refer to this as a clipped asymmetric random walk). In our work, we have so far found that
+capacity looks like a random walk with some drift over time (this represents an [asymmetric random walk](https://math.stackexchange.com/questions/36774/do-asymmetric-random-walks-also-return-to-the-origin-infinitely) where we have some expectation of left-skewed-ness in our probability, so we refer to this as a clipped or geometrically constrained asymmetric random walk). In our work, we have so far found that
 [deMoivre’s Martingale](https://math.stackexchange.com/questions/384507/de-moivres-martingale-and-stopping-times) is a close (but not ideal)
 representation of our drain over time.
 
