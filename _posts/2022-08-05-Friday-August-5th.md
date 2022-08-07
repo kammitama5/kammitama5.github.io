@@ -64,7 +64,7 @@ our representation looks something like conditional cases that depend on whether
 we have reached our threshold of a capacity bound or not, based on a starting position for our random walk.
 So we find a probability of reaching this threshold.
 We also notice that even when we hit capacity, this is not the end of our random walk,
-as channels can go from a state of saturation to having liquidity.
+as channels can go from a state of saturation to having liquidity again (so our random walk does not necessarily end).
 
 ## Congestion Games
 We can model our drain as a congestion game. In a congestion game, we have a ([Brouwer’s](https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem)) fixed point which represents
