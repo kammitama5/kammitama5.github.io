@@ -4,7 +4,7 @@ This summer, I worked with a [research scientist](https://scholar.google.it/cita
 on strategies to answer the question “How does the Price of Anarchy 
 translate to network congestion given the particular limitations of the Lightning Network?”
 as part of the [Summer of Bitcoin](https://www.summerofbitcoin.org/) programme. Coincidentally, I had originally been planning to work on a project 
-involving ledgers and hash functions in a more protocol coding-centric role, 
+involving ledgers and merkle trees in a more protocol coding-centric role, 
 but ended up attending a learning session and hearing about the Lightning Network,
 as well as the fact that it was a research project, which immediately piqued my interest.
 
