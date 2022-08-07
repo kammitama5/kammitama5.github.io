@@ -61,7 +61,8 @@ representation of our drain over time.
 
 In actuality, 
 our representation looks something like conditional cases that depend on whether
-we have reached a capacity bound or not, based on a starting position for our random walk.
+we have reached our threshold of a capacity bound or not, based on a starting position for our random walk.
+So we find a probability of reaching this threshold.
 We also notice that even when we hit capacity, this is not the end of our random walk,
 as channels can go from a state of saturation to having liquidity.
 
