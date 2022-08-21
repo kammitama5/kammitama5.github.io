@@ -280,7 +280,7 @@ study group.
 - Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (in progress)
 - Abstract Algebra 4: Special Topics: Elliptic Curves and Modular Forms (MATH 395C) (SP 22) (in progress)
 - Random Probabilistic Graphs (MATH 373A) (SP 22) (in progress)
-- Complex Analysis (MATH 247) (FA 22) (upcoming)
+- Combinatorial Graph Theory (FA 22) (upcoming)
 - Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (upcoming)
 - Independent Study: Category Theory (FA 22) (upcoming)
 
@@ -290,6 +290,7 @@ study group.
 - Fundamentals of Mathematics (MATH 52) (SP 22)
 - Topology (Seminar, self-study) (FA 22)
 - Algebraic Differential Equations (FA 22)
+- Model Theory (through the Arizona Prelim Winter School)
 
 ## Wish list of Classes (ie TODO)
 - Number theory (done)
@@ -297,8 +298,8 @@ study group.
 - Algebra (Fields) (done)
 - Real Analysis
 - Measure Theory
-- Combinatorics
-- Graph Theory
+- Combinatorics (done: doing research in now)
+- Graph Theory (done: doing research in now)
 - Algebraic Topology
 - More Abstract Algebra :)
 
