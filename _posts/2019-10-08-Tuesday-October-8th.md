@@ -39,8 +39,8 @@ study group.
 - I will be giving a talk at Basis.AI. 
 - I completed a Spotlight interview as 1 of 11 BlackComputeHer fellows for 2022-2023!
 - I received word that I received a spot in 2023's Preliminary Arizona Winter School in the "Introduction to Model Theory with Applications" course!
-- I received word that my talk on PoA based on work we did this summer was accepted so I will be presenting that at our school's CS Research day!
-- I will be giving a total of four talks in August, and a 45-minute talk and a poster presentation in September! Busy times!
+- I received word that my talk on PoA based on work we did this summer was accepted so I will be presenting that at our school's CS Research day mid-SSeptember!
+- I will be giving a total of four talks in August, submitting a paper and slides for a 45-minute talk and a poster presentation in September! Busy times!
 
 ## 2021
 - I (apparently?) won a Best Poster award at the Mediterranean Machine Learning Summer (held in Winter) School. Specifically, it's in the Brilliant Idea Category!! So cool! I know, I'm shocked too! :) I'd love to continue to earn more "Brilliant idea" awards! :)
