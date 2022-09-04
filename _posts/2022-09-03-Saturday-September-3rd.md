@@ -54,7 +54,8 @@ author describes what they are, or the properties they have. I'm learning to get
 - I gave a couple talks this summer at various institutions, which was awesome, and it made me realize that another thing that was valuable to
 consider about my future is a place that would give the freedom to do that sort of thing. I'm contacted quite a bit by various organizations,
 and so there are a lot of things in my orbit at any given time. It would have to be a unique organization that would give the space for that.
-In many organizations, the expectation is that your association is with their brand, not necessarily that you are a brand onto yourself.
+In many organizations, the expectation is that your association is with their brand 
+(and that that is what gives you your value / identity (??)), not necessarily that you are a brand onto yourself.
 And that is highly problematic for a person like myself, and is something that I ran into for some of my other internships.
 - On the last day, another intern unexpectedly told me "you know, you're really inspiring. You asked so many questions, too. I really liked that."
 That was surprising, and wonderful, but some of these questions are simply my trying to probe for the next direction of where I want to be, where
