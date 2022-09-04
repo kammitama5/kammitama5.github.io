@@ -114,7 +114,7 @@ most interesting things I've done so far, and that's a good feeling.
 
 <img src="/images/NYCsumma22_/one11.png" width="500">
 
-- On my way to give a talk at Columbia
+- On my way to give a talk at Columbia and to meet an MIT researcher friend.
 
 <img src="/images/NYCsumma22_/one12.png" width="500">
 
