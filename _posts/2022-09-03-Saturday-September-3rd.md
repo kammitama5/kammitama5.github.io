@@ -35,7 +35,11 @@ My mind had already shifted to my next task. I need to understand this; this is 
 I had heard it quite frequently throughout the summer; "You seem to really like Academia", to the point that one of my mentors even spoke about
 wanting to go back (If you ever read this, I'm sorry for my bad influence!). Groups of people would congregate by me with a smile. "I want to hear
 more about what you were talking about the other day" someone would say. Someone else would get really excited and mention that that was something
-that they loved during their PhD. Maybe I was a bad influence. When I get excited or am passionate about things, I am brimming. I've felt that 
+that they loved during their PhD. Maybe I was a bad influence. I joked that someone could not take my space when I was gone, and they responded,
+"your not coming back." I responded "that's mean. How could you say that?" and they responded "I meant that you're going to end up in Academia".
+I told my mentor about it, and I asked why someone would say such a thing, and they responded "because it's obvious." I realize now that they 
+acted out of wisdom and love for where my heart really was.
+- When I get excited or am passionate about things, I am brimming. I've felt that 
 so much with my interaction with the Pure Maths world.
 Really? Academia? Me?
 Do I? 
