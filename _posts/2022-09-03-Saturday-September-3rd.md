@@ -57,7 +57,7 @@ and so there are a lot of things in my orbit at any given time. It would have to
 In many organizations, the expectation is that your association is with their brand 
 (and that that is what gives you your value / identity (??)), not necessarily that you are a brand onto yourself.
 And that is highly problematic for a person like myself, and is something that I ran into for some of my other internships.
-- On the last day, another intern unexpectedly told me "you know, you're really inspiring. You asked so many questions, too. I really liked that."
+- On the last day, another intern unexpectedly told me "you know, you really impressed me." She hesitated, pondered and then added, "You're really... inspiring. You asked so many questions, too. I really liked that.".
 That was surprising, and wonderful, but some of these questions are simply my trying to probe for the next direction of where I want to be, where
 I see myself going, based on the responses I receive. And I'm still working that out.
 
@@ -151,4 +151,4 @@ some upcoming things before the year ends, and will definitely post about them.
 
 
 
-## And that's it
+## And that's it.
