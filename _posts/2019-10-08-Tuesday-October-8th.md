@@ -35,8 +35,9 @@ study group.
 - They really liked the mess we made of ICLR 2022, and asked us to do it again, and we said yes to Part Deux in 2023!
 - Check out our opening remarks at ICLR's conference this year (virtual), as well as the workshop ware hosting for first-time submitters and others traditionally underrepresented in research!
 - I have been accepted to EC22's Algorithmic Game Theory Mentorship Program at EC22!
-- I have received a scholarship to attend the Tapia Conference (flight, registration, hotel for 3 days)! I will be presenting a poster on our isogenies work there and attending the Doctoral Consortium, where I will be giving a 45 minute talk on Isogenies!; please say hi! This will be my first in-person poster conference so I am kind of nervous but excited!!! (since most of this has been remote because of COVID). It means a lot to me; I am STOKED!
+- I have received a scholarship (courtesy BNY Mellon) to attend the Tapia Conference (flight, registration, hotel for 3 days)! I will be presenting a poster on our isogenies work there and attending the Doctoral Consortium, where I will be giving a 45 minute talk on Isogenies!; please say hi! This will be my first in-person poster conference so I am kind of nervous but excited!!! (since most of this has been remote because of COVID). It means a lot to me; I am STOKED!
 - I will be giving a talk at Basis.AI. 
+- I received a complimenatary registration to attend EAAMO22 virtually! 
 - I've been invited to be a reviewer for the Causality workshop at NeurIPS.
 - I completed a Spotlight interview as 1 of 11 BlackComputeHer fellows for 2022-2023!
 - I received word that I received a spot in 2023's Preliminary Arizona Winter School in the "Introduction to Model Theory with Applications" course!
