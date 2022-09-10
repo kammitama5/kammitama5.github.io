@@ -101,4 +101,6 @@ was so wonderful.
 
 <img src="/images/tapia22small/tapia20.png" width="300">
 
+<img src="/images/tapia22small/tapia21.png" width="300">
+
 ## And that's it!
