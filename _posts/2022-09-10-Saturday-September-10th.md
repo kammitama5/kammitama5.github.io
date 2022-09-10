@@ -19,7 +19,7 @@ And then one of the founders immediately afterwards gave a talk where they menti
 more people like myself who know a bit of the Maths and Computer Science in Cryptography, too! So how cool is that!? So it was just a coincidence
 that we were interested in the same things / background.
 And so it was, that the whole experience was pretty wild, fun, and wonderful.
-- On Friday, I went to Silver Springs (yes, a different state) to get Caribbean food. In D.C. there was just this vibe of black people helping other
+- On Friday, I went to Silver Spring (yes, a different state; I visited VA, MD and D.C all in a few days!) to get Caribbean food. In D.C. there was just this vibe of black people helping other
 black people, so even in the hotel, the staff would reach out to me personally and I made a bunch of friends with the staff; they were looking out for me.
 So I pretty much knew a lot of people there by the time I left. In the airport, one of the ladies even offered me an extra crepe; they just really 
 look out for you in D.C. in a way I haven't experienced in a long time.
