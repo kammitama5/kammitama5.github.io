@@ -11,7 +11,7 @@ permalink: /about/
 
 
 - I'm a researcher, aspiring [boffin](https://en.wikipedia.org/wiki/Boffin), [mango](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/mango1.png) and cocoa picker. 
-- [Here is my CV / Curriculum Vitae](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Anon_Crypto_Krystal_Maughan_CV_9_13_2022.pdf).
+- [Here is my CV / Curriculum Vitae](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Anon_Crypto_Krystal_Maughan_CV_9_17_2022.pdf).
 - I am currently working on mathematical cryptography research, specifically on [post-quantum supersingular isogeny-based cryptography](https://en.wikipedia.org/wiki/Supersingular_isogeny_graph), advised by two professors; one in Pure Mathematics and the other in Computer Science (while being held hostage by the Pure Maths department at my University, much to my delight!). In the past, I've also done research at the intersection of Provable Fairness, Differential Privacy / Trustworthy AI (having produced 3.5 papers, 2 of which we presented at peer-reviewed workshops). 
 - Currently, I am taking coursework in a mini-Master's type format for a solid foundation on Elliptic Curves, Abstract Algebra and Isogenies, but I have been a part of the Number Theory community [since](https://kammitama5.github.io/images/msrismall/msri.png) [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an isogenies researcher and to continue research in this direction after my PhD, wherever there are opportunities to do so.
 - My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker. It would be amazing to defend my thesis by iPad but I may end up having to TeX it.
@@ -47,7 +47,7 @@ a Compilers course in Haskell and another CS course.
 
 ### Other 
 <!--- - [My CV](https://www.youtube.com/watch?v=dQw4w9WgXcQ). --->
-- [CV: Shorter Gist of Professional Things: CV focused in mathematical cryptography](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Anon_Crypto_Krystal_Maughan_CV_9_13_2022.pdf)
+- [CV: Shorter Gist of Professional Things: CV focused in mathematical cryptography](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Anon_Crypto_Krystal_Maughan_CV_9_17_2022.pdf)
 <!--- just - [Gist of Professional Things (CV, Research, Academia, etc)](https://github.com/kammitama5/kammitama5.github.io/blob/master/images/Krystal_Maughan_CV_9_21_2021.pdf) --->
 - [Google Scholar: Maths papers take longer to produce but stay tuned on my progress here!](https://scholar.google.com/citations?hl=en&user=dhxYKqAAAAAJ)
 - [Link to Google Summer of Code 2018 blog post and contributions](https://medium.com/@krystal.maughan/breaking-the-space-time-barrier-with-haskell-time-traveling-and-debugging-in-codeworld-a-google-e87894dd43d7), [link on GSoC site 2018](https://summerofcode.withgoogle.com/archive/2018/organizations/5391116769689600/#projects)
