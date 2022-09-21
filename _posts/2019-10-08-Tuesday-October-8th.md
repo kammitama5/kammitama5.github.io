@@ -44,6 +44,7 @@ study group.
 - I have been invited to the EAAMO Doctoral Consortium
 - I received word that my talk on PoA based on work we did this summer was accepted so I will be presenting that at our school's CS Research day mid-September!
 - I will be giving a total of four talks in August, submitting a paper and slides for a 45-minute talk and a poster presentation in September! Busy times!
+- I have been invited to present a poster at EAAMO as part of their Doctoral Consortium.
 - I will be attending Meta's United Scholars Program for PhD Researchers 2022 at their HQ! I am honoured!
 
 ## 2021
