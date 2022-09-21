@@ -41,10 +41,11 @@ study group.
 - I've been invited to be a reviewer for the Causality workshop at NeurIPS.
 - I completed a Spotlight interview as 1 of 11 BlackComputeHer fellows for 2022-2023!
 - I received word that I received a spot in 2023's Preliminary Arizona Winter School in the "Introduction to Model Theory with Applications" course!
-- I have been invited to the EAAMO Doctoral Consortium
+- I have been invited to the EAAMO Doctoral Consortium.
+- I have been invited to present a poster at EAAMO as part of their Doctoral Consortium.
 - I received word that my talk on PoA based on work we did this summer was accepted so I will be presenting that at our school's CS Research day mid-September!
 - I will be giving a total of four talks in August, submitting a paper and slides for a 45-minute talk and a poster presentation in September! Busy times!
-- I have been invited to present a poster at EAAMO as part of their Doctoral Consortium.
+- I have been featured as 1 of 3 scholars in [PLMW Perspectives](https://2022.splashcon.org/track/splash-2022-PLMW#PLMW-Perspectives)! I will be featured for SPLASHCON's PLMW via video, too! Since PLMW was my path to grad school, I am honoured!
 - I will be attending Meta's United Scholars Program for PhD Researchers 2022 at their HQ! I am honoured!
 
 ## 2021
