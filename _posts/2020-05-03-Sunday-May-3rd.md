@@ -206,7 +206,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - IPAM (UCLA, LA)
 
 ## Wall Street
-- Stay tuned :)
+- I spent a summer on Wall Street. Business casual is so hard for me I need my [hoodie and flip flops](https://www.youtube.com/watch?v=JKOa1Je-3Gw) and backpack.
 - I've also been invited to formal recruiting events at: Goldman Sachs, JP Morgan, Capital One, WorldQuant, Two Sigma, HRT, Jane Street, etc (various)
 
 ## Tech
