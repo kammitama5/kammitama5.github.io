@@ -51,6 +51,7 @@ I used to do this for a living; building these and threading the film for each p
 <img src="/images/doiknowyou/jpl.png" width="300">
 
 - A huge mentor for me when I lived in LA; he encouraged me to go to grad school.
+- He used to tell me about [Christoffel symbols](https://en.wikipedia.org/wiki/Christoffel_symbols) on a napkin, but I only learned what they really are four years into grad school in a Diff Alg class.
 
 ## NASA?
 
