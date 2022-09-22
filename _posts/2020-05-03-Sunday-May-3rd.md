@@ -123,6 +123,13 @@ Love Movement Show
 - Worked as a lighting tech for the [Fringe Festival](https://en.wikipedia.org/wiki/Fringe_theatre) in NYC (same summer as the Film Centre/SPF gig). Our show had a mime and was called "Love is in the Air"
 - Ithaca College; worked as a lighting tech for Fires, Dancing at Lughnasa, The Shape of Things and Violet.
 
+<img src="/images/lightplot.png" width="300">
+
+- This is for a play I did which included T. Hedren at Barnsdall Theatre, which is a cool location because it was also next to the famous [Hollyhock house](https://en.wikipedia.org/wiki/Hollyhock_House). T's daughter, M. Griffith, came to our play. We didn't end up using this specific
+design because we didn't have the time or the budget. My roommate at the time once told a cinematographer that I spent my time at home drawing tonnes of these. I was very dedicated to my craft. You use templates for certain instruments; the most common are the fresnels
+and Source-4s, and for backlighting, parcans. For parcans, you can determine the diameter by dividing by 8, so like, a parcan-64 is 8 diameters, etc.
+
+
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
 - I worked on putting together hundreds of fluorescent lamps over Thanksgiving break for my [friend's](https://www.forbes.com/sites/felicitycarter/2018/03/03/artist-heather-carson-on-sculpted-light/#4520cdb521f7) fine art lighting installation (LA) for the show Light Sensitive.
 - I also attended the [DLFLA meetings in LA](http://www.dlfla.org/calendar.html), which were focused on architectural lighting design and lighting product design. The meetings would usually culminate in an Awards exhibit for the best lighting fixture designs (typically held at GAM).
@@ -153,6 +160,11 @@ Because of that, I took classes at Pasadena City College in Architecture, where 
 
 - This is not made one by one, by rather a series of generated points, thickened with a pipe tool, and constrained within a geometry (in this case, a hollowed out cube). This was the beginning (via [Somewhere Something](http://www.somewheresomething.com/) and learning about the work of and meeting [Marc Fornes](https://theverymany.com/)) of learning about node-based and generative art and architecture through programming in [Rhino with Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D) in [2014](http://2014.acadia.org/workshops.html). You can also ask me about that one time I had a conversation with [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer)) about a [book](https://www.lenfisherscience.com/books/the-perfect-swarm-the-science-of-complexity-in-everyday-life/) I was reading at the time on Robotic Swarms.
 - Rhino which is the CAD program used in a lot of this, is based on [NURBS](https://en.wikipedia.org/wiki/Non-uniform_rational_B-spline) and uses [Bezier curves](https://www.youtube.com/watch?v=aVwxzDHniEw). I still use Rhino for modelling because it is the programme I am most comfortable with, and I love the beauty of being able to make topology using parametric modelling. I like the precision and control.
+
+<img src="/images/3dmodel.png" width="300">
+
+- This is from an actual key-chain that I took a pair of calipers and tried to model in Rhino. I never finished the whole thing, but Rhino
+is still my jam because of its precision.
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
