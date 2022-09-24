@@ -15,7 +15,7 @@ of work to read. Especially for someone starting out and learning to acquire the
 is a lot of work to read through. They had read it before and were explaining a bit of the high-level information about it. Then they said 
 something about how they "think they've skated in my area" and at first I thought it was hilarious that I didn't even know they skated.
 Then, the next few words gripped me. "I don't think you can learn to skate unless
-you love falling.". They said it in the typical Maths-student humour-kind of way, but it really resonated with me.
+you love falling." They said it in the typical Maths-student humour-kind of way, but it really resonated with me.
 - A professor was telling me recently about people who like the idea of a thing more than the actual thing. And going back to what my friend 
 was telling me, I think it would be really difficult to endure the process of falling over and over again if you didn't really enjoy and love
 the process of doing a thing; if you were in it for the glory of or for the idea of it.
@@ -44,7 +44,7 @@ to live between both worlds.
 ## Grounding
 - A Pure Maths friend and I were walking home from campus and he was telling me that Mathematics is essentially from agriculture. I had never thought
 about it before until it was pointed out; we have trees, roots, stalks, sheaves. It's fascinating. I have really felt that interacting with 
-the Pure Maths students has given me grounding and a sense of where I want to be in that is true to who I am. It's refreshing.
+the Pure Maths students has given me grounding and a sense of where I want to be in a wat that is true to who I am. It's refreshing.
 - I'm working on my writing. It's very interesting that in a lot of Computer Science spaces, I have felt like there is an expectation of ego; there
 is a need to show that you know. My experience so far in Pure Mathematics has been the opposite; you accept that you don't, and the impossibility that
 you cannot know *everything*, but you can ask a question with curiosity, and try to use the tools that exist in the field to try to solve it. And maybe
