@@ -46,6 +46,8 @@ to live between both worlds.
 - A Pure Maths friend and I were walking home from campus and he was telling me that Mathematics is essentially from agriculture. I had never thought
 about it before until it was pointed out; we have trees, roots, stalks, sheaves. It's fascinating. I have really felt that interacting with 
 the Pure Maths students has given me grounding and a sense of where I want to be in a way that is true to who I am. It's refreshing.
+- There is also a sense of constantly being "uncomfortable", and pushing for more, which I really like, and feels more in line with the work ethic
+I grew up with.
 - I'm working on my writing. It's very interesting that in a lot of Computer Science spaces, I have felt like there is an expectation of ego; there
 is a need to show that you know. My experience so far in Pure Mathematics has been the opposite; you accept that you don't, and the impossibility that
 you cannot know *everything*, but you can ask a question with curiosity, and try to use the tools that exist in the field to try to solve it. And maybe
