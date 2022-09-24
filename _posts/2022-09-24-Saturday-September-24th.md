@@ -77,6 +77,8 @@ is some time, thankfully).
 - Saw a talk on Primitive Euleurian Polynomials. I missed the first five minutes because I was trying to book a flight and the page crashed lol.
 I needed to book that particular flight to work around my schedule and not miss class. Fortunately, it worked out in the end.
 - Our Category Theory seminar is basically drawing diagrams and arguing about things, which is hilarious and fun.
+- I attended the Quantum Computing book club; we covered Hadamard matrices, Tensor Products and the Bloch sphere, which was interesting because
+when I look at Matrices right now I can't un-see spectral graphs stuff.
 - Amazing sessions covering vector bundles, sections, Christoffel symbols (finally! A mentor at NASA had mentioned this to me years ago and 
 I had a very very vague idea of what they might be based on application, but it was covered in context this week!) and we even learned Einstein Notation!
 - I drew a lot of Graphs (I am taking two Graph Theory classes and a Category Theory independent study class). The class is helpful as both prep
