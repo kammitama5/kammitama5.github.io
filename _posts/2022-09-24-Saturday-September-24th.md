@@ -22,7 +22,8 @@ the process of doing a thing; if you were in it for the glory of or for the idea
 - I saw "Whiplash" this week; it was one of the movies that has evaded me for a while, because I was caught up in the "Birdman" hype for that
 Academy Awards season; they were really pushing the latter movie that year in all the screener events. Since I literally took drumming lessons
 for a couple years in high school, and competed in music growing up (until my parents pulled me out because one of my parents had asked the choirmaster 
-if I was at a place we were competing, and they responded that they "weren't sure; they *think* they saw me", and that apparently was the wrong answer lol)
+if I was at a place we were competing, and they responded that they "weren't sure; they *think* they saw me", and that apparently was the wrong answer lol.
+In hindsight, it was a great lesson about respecting one's value or contribution to a group, and I am grateful for their decision.)
 , so much of it is familiar and hilarious. My parents still regularly are involved in music, and I have a lot of friends in that world,
 so some things just made me laugh. Funnily, my dad went to a show recently and said he saw a guitarist with a custom guitar that was so strange
 and eccentric, and he got home and told my mom about it, and she laughed and casually said "oh, that's K's friend", to which he responded,
