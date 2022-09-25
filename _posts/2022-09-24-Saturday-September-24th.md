@@ -49,7 +49,10 @@ the Pure Maths students has given me grounding and a sense of where I want to be
 - There is also a sense of constantly being "uncomfortable", and pushing for more, which I really like, and feels more in line with the work ethic
 I grew up with.
 - I'm working on my writing. It's very interesting that in a lot of Computer Science spaces, I have felt like there is an expectation of ego; there
-is a need to show that you know. My experience so far in Pure Mathematics has been the opposite; you accept that you don't, and the impossibility that
+is a need to show that you know. It's interesting because a professor this week told me "I will someone credit if they can convince me in a way that
+convinces me they know what they are talking about", in the way they write things up. It's interesting because that places a lot less pressure on this
+idea of "finding *the way*", "the answer", and more about the thinking on getting to the way and in proving the way / explaining it.
+My experience so far in Pure Mathematics has been the opposite; you accept that you don't, and the impossibility that
 you cannot know *everything*, but you can ask a question with curiosity, and try to use the tools that exist in the field to try to solve it. And maybe
 you can't do that by yourself, and you need people who also have other tools who can help. And then you do, and you write a paper about it. And it
 can take years. 
