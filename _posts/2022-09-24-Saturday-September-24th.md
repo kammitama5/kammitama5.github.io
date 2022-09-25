@@ -15,7 +15,7 @@ of work to read. Especially for someone starting out and learning to acquire the
 is a lot of work to read through. They had read it before and were explaining a bit of the high-level information about it. Then they said 
 something about how they "think they've skated in my area" and at first I thought it was hilarious that I didn't even know they skated.
 Then, the next few words gripped me. "I don't think you can learn to skate unless
-you love falling." They said it in the typical Maths-student humour-kind of way, but it really resonated with me.
+you love falling." They said it in the typical Maths-student humour-kind of way (if you don't know what this is, I would say it's kind of a matter-of-factness with a hint of cheekiness), but it really resonated with me.
 - A professor was telling me recently about people who like the idea of a thing more than the actual thing. And going back to what my friend 
 was telling me, I think it would be really difficult to endure the process of falling over and over again if you didn't really enjoy and love
 the process of doing a thing; if you were in it for the glory of or for the idea of it.
