@@ -45,7 +45,7 @@ to live between both worlds.
 ## Grounding
 - A Pure Maths friend and I were walking home from campus and he was telling me that Mathematics is essentially from agriculture. I had never thought
 about it before until it was pointed out; we have trees, roots, stalks, sheaves. He noted that when we learned about ramification in elliptic curves,
-the latin comes from "branch". It's fascinating. I have really felt that interacting with 
+the latin comes from "branch"; the word ramificare means "to form branches,". It's fascinating. I have really felt that interacting with 
 the Pure Maths students has given me grounding and a sense of where I want to be in a way that is true to who I am. It's refreshing.
 - There is also a sense of constantly being "uncomfortable", and pushing for more, which I really like, and feels more in line with the work ethic
 I grew up with.
