@@ -80,7 +80,7 @@ is some time, thankfully).
 <img src="/images/SummerB22/summerb2.png" width="500">
 
 ## Things we learned about this week
-- I saw a talk on the Langlands Program (learned about adeles, which I didn't know about before.).
+- I saw a talk on the Langlands Program (learned about adeles, which I didn't know about before; that may be because I have heard the word "adelic" but not "adele".).
 - Saw a talk on Primitive Euleurian Polynomials. I missed the first five minutes because I was trying to book a flight and the page crashed lol.
 I needed to book that particular flight to work around my schedule and not miss class. Fortunately, it worked out in the end.
 - Our Category Theory seminar is basically drawing diagrams and arguing about things, which is hilarious and fun.
