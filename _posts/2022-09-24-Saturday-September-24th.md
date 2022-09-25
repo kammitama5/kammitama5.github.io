@@ -57,7 +57,7 @@ you cannot know *everything*, but you can ask a question with curiosity, and try
 you can't do that by yourself, and you need people who also have other tools who can help. And then you do, and you write a paper about it. And it
 can take years. 
 - I had a slight moment of panic when one of the professors I am doing research with told me that it's okay if some weeks I come in and I don't have
-anything to show. That's such an alien thing (or at least, it has felt like that) in Computer Science. Everything is so results-focused. I think
+anything to show. That's such an alien thing (or at least, it has felt like that) in Computer Science, where everything seems so results-focused. I think
 I enjoy the Pure Maths style a lot more. Of course, one of the tradeoffs is that there is a time-limit to one's grad school time, but in my head,
 when I imagined grad school, it is closer to what I had in my head. I really don't enjoy the constant churning out of results, specifically in
 some areas of Computer Science. And I do not want to work in a place that feels like a "research mill".
