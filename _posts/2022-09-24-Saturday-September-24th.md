@@ -32,7 +32,9 @@ and eccentric, and he got home and told my mom about it, and she laughed and cas
 But especially the part about nothing being
 more harmful than "good job". Especially in grad school, we are often our own enemy. We overwork ourselves, we feel guilty for taking breaks,
 because we self-strive for excellence. And then there is the competition of peers. As I asked someone this week, "how can I have a home in
-Computer Science when I have always felt like these people are competitors rather than supporters?". I've still been thinking about this, 
+Computer Science when I have always felt like these people are competitors / adversarial rather than supporters / collaborators?". 
+An interest in befriending myself has been out of understanding that I have something that is of value to *them* rather than for 
+the sake of seeing me as an authentic member of their community and as a long-term investment. I've still been thinking about this, 
 although I have had one or two experiences in Pure Mathematics, too (there is gatekeeping in that field as well). I feel like being tossed
 between Computer Science and Mathematics, what I notice is that in Computer Science, there is elitism and competition, and in Pure Maths,
 there is a subtle sense of a lack of respect if you do not act like you are dedicating yourself wholly to being a mathematician. 
