@@ -48,7 +48,7 @@ study group.
 - I received word that my talk on PoA based on work we did this summer was accepted so I will be presenting that at our school's CS Research day mid-September! I tied for 2nd place at this competition! Great team work!
 - I will be giving a total of four talks in August, submitting a paper and slides for a 45-minute talk and a poster presentation in September! Busy times!
 - I have been featured as 1 of 3 scholars in [PLMW Perspectives](https://2022.splashcon.org/track/splash-2022-PLMW#PLMW-Perspectives)! I will be featured for SPLASHCON's PLMW via video, too! Since PLMW was my path to grad school, I am honoured!
-- I was invited to (and attended) Scale AI's, BNY Mellon's event on Bots & Biases and Unity Technology's recruiting events
+- I was invited to (and attended) Scale AI's, BNY Mellon's event on Bots & Biases, Palo Alto Networks' Rock Your Resume event and Unity Technology's recruiting events
 - I was invited to Adobe's Experience Research Day Track (Emerging Devices)
 - I gave a talk on the bitcoin research project at CSRMP's Alumni talks.
 - I attended Meta's United Scholars Program for PhD Researchers 2022 at their HQ! I am honoured!
