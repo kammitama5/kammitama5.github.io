@@ -51,6 +51,7 @@ study group.
 - I was invited to (and attended) Scale AI's, BNY Mellon's event on Bots & Biases, Palo Alto Networks' Rock Your Resume event and Unity Technology's recruiting events
 - I was invited to Adobe's Experience Research Day Track (Emerging Devices)
 - I gave a talk on the bitcoin research project at CSRMP's Alumni talks.
+- I was accepted to WIN6! I will be in the Machine Learning and Arithmetic group, led by Lauter and Newton (2023)!
 - I attended Meta's United Scholars Program for PhD Researchers 2022 at their HQ! I am honoured!
 
 ## 2021
