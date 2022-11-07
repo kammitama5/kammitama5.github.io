@@ -68,6 +68,7 @@ a Compilers course in Haskell and another CS course.
 - [WISP](https://www.wisporg.com/)
 - [She256](https://she256.org/)
 - [Gitcoin's Kernel: Fellowship Block III](https://gitcoin.co/blog/announcing-kernel/)
+- [WiCyS](https://www.wicys.org/)
 - [Women Techmakers](https://www.womentechmakers.com/)
 - [Black Women in Computing PhD Students](http://blackwomenincomputing.org/)
 - [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
