@@ -16,6 +16,7 @@ permalink: /about/
 - Currently, I am taking coursework in a mini-Master's type format for a solid foundation on Elliptic Curves, Abstract Algebra, Graph Theory and Isogenies, but I have been a part of the Number Theory community [since](https://kammitama5.github.io/images/msrismall/msri.png) [2018](https://www.msri.org/ckeditor_assets/pictures/1197/content_IMG_2239-edited.jpg). My intent is to become an mathematical / theoretical CS researcher and to continue research in this direction after my PhD, wherever there are opportunities to do so.
 - My current tools are anything from Python, R, Matlab, SageMaths, Haskell, Rust, LaTeX, a calculator, mechanical pencils and paper. I am a Systems thinker. It would be amazing to defend my thesis by iPad but I may end up having to TeX it.
 - My grad school Pure Maths peers have described me as having "[Hermione](https://en.wikipedia.org/wiki/Hermione_Granger#:~:text=the%20summer%20break.-,Personality,%2C%20the%20%22Dark%20Lord%22.) energy", which I'll gladly accept.
+- I also recently joined Mastodon. You can find me [here](kammitama@mathstodon.xyz). I joined the Maths one because that's mostly what I've been hanging out around these days. Also, I found this particular one while looking up something in Combinatorics, and figured it would be a good fit for me.
 - Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing.
 
 ### What's Unique about me
