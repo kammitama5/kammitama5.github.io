@@ -128,7 +128,7 @@ Love Movement Show
 
 - This is for a play I did which included T. Hedren at Barnsdall Theatre, which is a cool location because it was also next to the famous [Hollyhock house](https://en.wikipedia.org/wiki/Hollyhock_House). T's daughter, M. Griffith, came to our play. We didn't end up using this specific
 design because we didn't have the time or the budget. My roommate at the time once told a cinematographer that I spent my time at home drawing tonnes of these. I was very dedicated to my craft. You use templates for certain instruments; the most common are the fresnels
-and Source-4s, and for backlighting, parcans. For parcans, you can determine the diameter by dividing by 8, so like, a parcan-64 is 8 diameters, etc.
+and Source-4s, and for backlighting, parcans. For parcans, you can determine the diameter by dividing by 8, so like, a parcan-64 is 8" in diameter, a parcan 56 is 7" in diameter, etc. At one time, I knew gel colours by heart, based on their Manufacturer number, and owned a bunch of swatches. I was also gifted a pair of gaffer's glasses one year.
 
 
 ## Art (Sculpture, Painting, Drawing, Digital, 3D Modelling, CAD, beginnings of programming...)
@@ -204,9 +204,10 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Cornell Number Theory Conference 2019 (Ithaca, NY)
 - ICERM (Providence, RI)
 - IPAM (UCLA, LA)
+- BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that year!
 
 ## Wall Street
-- I spent a summer on Wall Street. Business casual is so hard for me I need my [hoodie and flip flops](https://www.youtube.com/watch?v=JKOa1Je-3Gw) and backpack.
+- I spent a summer on Wall Street. Business casual is so hard for me I need my [hoodie and flip flops](https://www.youtube.com/watch?v=JKOa1Je-3Gw) and backpack. I worked in a Research department that was separate from the trading area of the company, so in a way I was distanced from a lot of that world.
 - I've also been invited to formal recruiting events at: Goldman Sachs, JP Morgan, Capital One, WorldQuant, Two Sigma, HRT, Jane Street, etc (various)
 
 ## Tech
