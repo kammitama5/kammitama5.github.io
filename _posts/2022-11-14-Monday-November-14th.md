@@ -100,7 +100,7 @@ electricity class where we made flip-flop circuits and that sort of thing).
 this has been some of the most rewarding time I've had during grad school. I've been super enjoying everything!
 - I'm going on some trips next semester (one of which has been a dream even before grad school!!! Yes, it's a Pure Maths Research facility!!), 
 so I'll try to post about that, too! :) I feel really lucky and am excited about the upcoming semester!
-- There were parts of pursuing a thing that are milestones; when you feel like you're hitting a wall, and a door is opened. Hearing that I had
+- There are parts of pursuing a thing that are milestones; when you feel like you're hitting a wall, and a door is opened. Hearing that I had
 obtained this specific opportunity was so validating to me. It is a place where research mathematicians go! I can be one too!
 - PS: yes, the subject / header for this post is a double entendre relating to graphs (cuts..get it? *laughs*).
 
