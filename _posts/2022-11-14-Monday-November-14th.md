@@ -79,6 +79,8 @@ All of those experiences put a fire in him to work hard at the thing he was dest
 Still, it wasn't enough; he eventually went on to run his own company and to hire other artists. Regret minimization.
 - He would tell us to learn to see colour, and composition more, and stop copying
 digital images, which is often a crutch for many students. I think about that today, especially in my own journey this semester. 
+Think for yourself; learn more about who you really are. Don't just follow the crowd. I definitely think that this has been a lot easier
+for me to do in the group I'm currently a part of.
 - It hasn't been easy, but it's been really rewarding. As a professor told me "you always look like you're having the best time!".
 - To me, Pure Mathematics is not unlike art; in many ways, it's creative, while operating within the constraint of tools you use to
 solve problems. And I find that to be beautiful. And like art, there's a steep learning curve to get really good; there is talent,
