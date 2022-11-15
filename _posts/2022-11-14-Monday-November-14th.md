@@ -59,7 +59,7 @@ And they would often get an eyeroll; every semester there would be the new, naiv
 they were so awesome and talented, until they got owned and realized how far they really had to go. Then they either didn't come back
 because they were so convinced of their own brilliance (lol) or they would buckle down to hone their craft. 
 One who considers the journey a lifelong pursuit understands that something that looks "great" today, in five years, can look subpar.
-- Also, you can't really (or rather, it isn't advisable) to have a long-term career based on a "schtick".
+- Also, you can't really (or rather, it isn't advisable to) have a long-term career based on a "schtick".
 - And you begin to understand that every "great artist" is literally a person standing on the shoulder of giants; work that took their
 breath away has made them push harder to be better, and you see the influences of the people that they like in their work. I would argue
 that it's a similar thing with something like elegant code, music, writing, or Pure Mathematics.
