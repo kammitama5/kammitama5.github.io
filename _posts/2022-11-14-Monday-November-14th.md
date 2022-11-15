@@ -90,6 +90,10 @@ that reminds me of how War Kong Wai or Gregory Crewdson might reveal a narrative
 - There's something that's also beautiful about Pure Mathematics to me that is like art or filmmaking; the passing on of
 a story. In a lecture, you start with an idea and extract parts, like an exploded view in a 3D CAD programme. And at the end, you put
 it back together, having taken a journey together. I think that's really neat.
+- I took a class at a night school once where the students looked at each other, shocked, when the professor came in and said "Do you see
+these things in front of you? Take them apart." At the end, we put them back together. For some students, this was the first time they had
+imagined doing such a thing, but it sparked something in them that made them continue to follow this path every semester (it was a low voltage
+electricity class where we made flip-flop circuits and that sort of thing).
 
 ## Anyways
 - I'm still going to keep going here from time to time, but I've just been really busy. I've been having a lot of fun and to be honest,
