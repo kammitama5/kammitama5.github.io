@@ -38,6 +38,8 @@ I don't think it matters; it's more of a "some of these are helpful, depending o
 - "Fundamentals of Mathematics, Vol. 1: Foundations of Mathematics: The Real Number System and Algebra" by H. Behnke, F. Bachmann, K. Fladt, W. Suss, H. Kunle, S.H.Gould
 - "An Introduction to Abstract Harmonic Analysis" by L. Loomis
 - "A Course in Computational Algebraic Number Theory" by H. Cohen
+- "Visual Differential Geometry and Forms" by T. Needham (while sitting in on a Diff Alg class that uses notes from the prof)
+- "Matroid Theory" by Oxley (self-study over winter break 2022-2023)
 
 ## Papers
 - I'm not that great at keeping track right now, but I do have a github repo with these.
