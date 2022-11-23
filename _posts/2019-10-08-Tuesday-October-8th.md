@@ -56,7 +56,8 @@ study group.
 - I was invited to Adobe's Experience Research Day Track (Emerging Devices).
 - I'm giving a talk at LearnTeachCode / WomenWhoCode's Lightning talks on SageMath / Pure Math computation on Graph Theory :)
 - I gave a talk on the bitcoin research project at CSRMP's Alumni talks.
-- I was accepted to WIN6! I will be in the Machine Learning and Arithmetic group, led by Lauter and Newton (2023)!
+- I was accepted (with funding!) to WIN6! I will be in the Machine Learning and Arithmetic group, led by Lauter and Newton (2023) in Banff, Canada (at BIRS! I am over the moon excited!!
+- I have been accepted (with funding!) to IPAM's Machine Assisted Proofs workshop next year! I am stoked!!!
 - I attended Meta's United Scholars Program for PhD Researchers 2022 at their HQ! I am honoured!
 
 ## 2021
