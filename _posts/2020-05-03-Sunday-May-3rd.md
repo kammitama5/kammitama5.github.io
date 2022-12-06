@@ -211,7 +211,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Simons Institute (Error-correcting codes workshop) (bay area; Berkeley, CA)
 - Cornell Number Theory Conference 2019 (Ithaca, NY)
 - ICERM (Providence, RI)
-- IPAM (UCLA, LA)
+- IPAM; Machine Assisted Proofs workshop with T. Tao and friends! (UCLA, LA)
 - BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that year!
 
 ## Wall Street
