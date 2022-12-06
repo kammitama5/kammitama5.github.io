@@ -161,6 +161,10 @@ enjoy long-pose more than shorter poses for life drawing, and sketch from time t
 
 <img src="/images1/anders.png" width="200">
 
+- I also spent some time learning woodworking and machining. This is one of the first things I ever made out of wood. I began learning programming because the place next to this woodshop in my hackerspace was making robots out of acrylic. This place was a community woodshop, in that you could pay in and once you took the safety class, you could make whatever you wanted. I think there was also blacksmithing. The entire makerspace, which included a place I also drew on Tuesday/Thursdays from time to time (costume night) and a machine shop where I made mobile sculptures, was eventually bought by some famous tennis players and turned into a school.
+
+<img src="/images1/woodworking.png" width="200">
+
 <img src="/images/doiknowyou/procedural.png" width="400">
 
 - This is not made one by one, by rather a series of generated points, thickened with a pipe tool, and constrained within a geometry (in this case, a hollowed out cube). This was the beginning (via [Somewhere Something](http://www.somewheresomething.com/) and learning about the work of and meeting [Marc Fornes](https://theverymany.com/)) of learning about node-based and generative art and architecture through programming in [Rhino with Grasshopper](https://en.wikipedia.org/wiki/Grasshopper_3D) in [2014](http://2014.acadia.org/workshops.html). You can also ask me about that one time I had a conversation with [Will Wright](https://en.wikipedia.org/wiki/Will_Wright_(game_designer)) about a [book](https://www.lenfisherscience.com/books/the-perfect-swarm-the-science-of-complexity-in-everyday-life/) I was reading at the time on Robotic Swarms.
