@@ -156,6 +156,10 @@ Because of that, I took classes at Pasadena City College in Architecture, where 
 - I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer. His life advice left a huge impression on me; very wise guy.
 - Gnomon (took one sculpting class there) (LA)
 - I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
+- I drew a *lot* when I was in the art scene; pretty much daily, or painted, both traditionally and digitally. I still do 
+enjoy long-pose more than shorter poses for life drawing, and sketch from time to time. I'm still a bit snobby when it comes to digital artists today who don't spend enough time life-drawing; every artist I've looked up to has stressed how important it is to be life-drawing *constantly*. I'm also obsessed with negative space and form, which I guess corresponds to my obsession with algebraic mathematics today.
+
+<img src="/images1/anders.png" width="200">
 
 <img src="/images/doiknowyou/procedural.png" width="400">
 
