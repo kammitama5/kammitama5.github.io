@@ -174,6 +174,20 @@ enjoy long-pose more than shorter poses for life drawing, and sketch from time t
 
 - This is from an actual key-chain that I took a pair of calipers and tried to model in Rhino. I never finished the whole thing, but Rhino
 is still my jam because of its precision.
+- As I had mentioned, I worked primarily as an electronics technician, so I have a background in understanding how current and voltage works, using
+multimeters and troubleshooting with hardware. So it makes sense that my first inroad into tech was via robotics. I spent a lot of time making robots,
+playing around with breadboards, etc. 
+
+<img src="/images1/robotcharlie1.png" width="300">
+
+- In one class, we (our team of 3) beat out all the other robots because instead of using a 4-wheel design, we modelled a design that would take
+advantage of drag and gear-ratio. Our alignment was a bit off, so it did veer to the left, but it easily surpassed the other robots. I programmed
+this in C, Atticus did the mechanical design, and our third member did the electrical engineering. We called it "Bad@$$ mofo 2 aka Charlie".
+
+<img src="/images1/robotbreadboard1.png" width="300">
+
+- As part of the architectural robot-making, we would prototype a lot with breadboards (hardware), while doing node-based programming (software).
+I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've soldered from components on from scratch via Matt's workshop), Seed, etc
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
