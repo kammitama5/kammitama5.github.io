@@ -192,7 +192,7 @@ I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've s
 <img src="/images1/4barlinkage1.png" width="300">
 <img src="/images1/4barlinkage2.png" width="300">
 
-- (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks.
+- (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks. I also did a mock physical prototype with metal rods and basic MIG welds.
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
