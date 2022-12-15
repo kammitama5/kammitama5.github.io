@@ -180,14 +180,19 @@ playing around with breadboards, etc.
 
 <img src="/images1/robotcharlie1.png" width="300">
 
-- In one class, we (our team of 3) beat out all the other robots because instead of using a 4-wheel design, we modelled a design that would take
+- (Above) In one class, we (our team of 3) beat out all the other robots because instead of using a 4-wheel design, we modelled a design that would take
 advantage of drag and gear-ratio. Our alignment was a bit off, so it did veer to the left, but it easily surpassed the other robots. I programmed
 this in C, Atticus did the mechanical design, and our third member did the electrical engineering. We called it "Bad@$$ mofo 2 aka Charlie".
 
 <img src="/images1/robotbreadboard1.png" width="300">
 
-- As part of the architectural robot-making, we would prototype a lot with breadboards (hardware), while doing node-based programming (software).
+- (Above) As part of the architectural robot-making, we would prototype a lot with breadboards (hardware), while doing node-based programming (software).
 I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've soldered from components on from scratch via Matt's workshop), Seed, etc
+
+<img src="/images1/4barlinkage1.png" width="300">
+<img src="/images1/4barlinkage2.png" width="300">
+
+- (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks.
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
