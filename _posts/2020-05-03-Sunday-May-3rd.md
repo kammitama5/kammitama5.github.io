@@ -30,7 +30,7 @@ I used to do this for a living; building these and threading the film for each p
 
 <img src="/images/doiknowyou/universalgirl.png" width="300">
 
-- My first and only experience as an extra for a short film on the Universal lot.
+- My first and only experience as an extra for a short film on the Universal lot. This was for a friend's short, and I confused much of the crew, who ordinarily worked on the show "Bones", because they were used to seeing me in t-shirts and shorts and working on technical things. A common question that day was "Oh I know you..but..why are you in a skirt?" :) There was a rain tower that day, and I did get soaked with fake rain, too.
 
 
 
