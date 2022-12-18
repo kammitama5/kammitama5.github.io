@@ -235,7 +235,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Cornell Number Theory Conference 2019 (Ithaca, NY)
 - ICERM (Providence, RI)
 - IPAM; Machine Assisted Proofs workshop with T. Tao and friends! (UCLA, LA)
-- BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that year!
+- BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that first year for Women In Numbers!
 
 ## Wall Street
 - I spent a summer on Wall Street. Business casual is so hard for me I need my [hoodie and flip flops](https://www.youtube.com/watch?v=JKOa1Je-3Gw) and backpack. I worked in a Research department that was separate from the trading area of the company, so in a way I was distanced from a lot of that world.
@@ -267,10 +267,11 @@ I'm really thankful that no one judged me during this time of learning; they wer
 ## Ethics and Identity
 - Code 2040 (Summer 2020; online)
 - Lighthouse3 Data+Ethics mentorship (Summer 2020; online)
-- "Dark Matters Workshop", [School for Poetic Computation](https://en.wikipedia.org/wiki/School_for_Poetic_Computation) (Summer 2020; online)
+- "Dark Matters Workshop", [School for Poetic Computation](https://en.wikipedia.org/wiki/School_for_Poetic_Computation) (Summer 2020; online). 
+I also took their Cocoon "(Re-)Learning to Love Mathematics", which was an AMAZING class! I was just stepping foot into the isogenies world and leaped into Pure Mathematics after that. No turning back now (uh-oh).
 
 ## Sailing
-- I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group. Maybe we sailed to Catalina Island or to Newport beach together? (CA)
+- I was part of a Sailing Meetup, but ditched it to join the Women Sailing Group of Santa Monica Bay. Loved that group (I raced and day-sailed pretty much weekly; I raced on "My Time III" for WOW-WAH, Wendy's boat, and on Mexican Divorce. Maybe we sailed to Catalina Island or to Newport beach together? (CA)
 
 ## What about you?
 - What does your life look like? Has it been as windy?
