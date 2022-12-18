@@ -14,9 +14,9 @@ rather than later.
   - I began to shut myself away from some other things that were toxic and prevented me from doing my work, with the help of my Pure Maths advisors, so 
   I was able to spend more time on work. The particular advice was "you need to protect / shield yourself for a while from this stuff". Great advice.
   - While I came back from my summer internship and was immediately thrown into the Fall semester, I finally came to the realization that I hadn't met
-  anyone senior who particularly impressed me, and that helped me to focus on the fact that I was more dedicated to what I was currently doing.
+  anyone senior who particularly impressed me in research-industry land, and that helped me to focus on the fact that I was more dedicated to what I was currently doing.
   In particular, perhaps my calibration has been that so much of my interaction with persons in research in industry is navigating people with 
-  huge egos who think they're the "best", and I find that to be exhausting. The students for the schools they hand-pick for these opportunities
+  huge egos who think they're the "best", and I find that to be exhausting. The students from the schools they hand-pick for these opportunities
   also augment this mindset (something something amplifying bias and choosing a "Mini-me" version of yourself, yes, you..senior researcher), 
   and the whole thing ends up feeling like a giant circle jerk. The image I always think
   about is a giant rooster puffing its chest over and over.
