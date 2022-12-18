@@ -69,6 +69,7 @@ The guy who taught is the dude who did the [2Pac Hologram](https://www.washingto
 
 - A lot of this stuff was compounded with the fact that Previs (think ESP Vision software or this other company, D3) was being introduced from the
   touring industry into film. In this software, you could design about 85% of the lighting and projection mapping just using a CAD model and programme cues as opposed to just having a static model (in Vectorworks and Renderworks) and programming from scratch at the venue. So it saved time. The Lighting designer, Benoit Richard was teaching classes at the union on this at the time, and that sort of simulation technology made me interested in exploring 3D modelling/ vfx; my knowledge of rendering (outside of editing in Final Cut Pro and simple titles) was pretty limited at the time. I also visited PRG to get a run-down of their Virtuoso MBox, which had a similar system, but integrated internally to their systems for projection mapping.
+- I've met a lot of celebrities and high-profile people, and it was a wild ride, around 2013, I had begun to lose interest. Something drew me into the world of computers and tech, and I hadn't looked back since.
 
 
 ## Institutions (in order of attendance)
@@ -139,7 +140,8 @@ and Source-4s, and for backlighting, parcans. For parcans, you can determine the
 - [Dr. Sketchy's](https://en.wikipedia.org/wiki/Dr_Sketchy%27s_Anti-Art_School) (took part in their 26 hour long marathons of live drawing (anti-art school); anyone remember [Turkish Delights](https://patch.com/california/eaglerock/ev--turkish-delights-drawing-event-7624c043) themed drawing as well (belly dancers, hookah, music)? Put on by the artists at [Titmouse](https://en.wikipedia.org/wiki/Titmouse,_Inc.)) (LA)
 - Bob Kato's workshops (did those before I realized I didn't enjoy costume drawing as much) (LA)
 - I was also part of the Los Feliz Drawing Club. That was pretty fun, and they had heard of the [place I am from, which is kind of rare in LA.](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) (LA)
-- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum). [Robh Ruppel](https://en.wikipedia.org/wiki/Robh_Ruppel)'s workshop left a huge impression on me (LA)
+- Concept Design Academy (took a bunch of digital painting classes there and Visual Communication and workshops, which involved a trip to the Tank Museum). [Robh Ruppel](https://en.wikipedia.org/wiki/Robh_Ruppel)'s workshop left a huge impression on me (LA). I also met the amazing [Glen Orbik](https://en.wikipedia.org/wiki/Glen_Orbik),
+who unfortunately, years later found out had passed away, and often drew at 3Kicks, which was next door. I LOVED his work and he was such a nice guy! 
 - I took a workshop with [Sam Michlap](https://riseoftheguardians.fandom.com/wiki/Samuel_Michlap) at [Gallery Nucleus](https://www.gallerynucleus.com/events?type=workshops), where he critiqued my work and gave us tips on composition and colour.
 - I took a few workshops on painting, colour and composition with [Bill Perkins](https://www.gallerynucleus.com/event/296). When you complete his workshops, he gives you an array of hats to pick from, and I got one from NCIS (not the show; the real organization).
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding). [Patrick Hanenberger](http://www.patrickhanenberger.com/about)'s Worldbuilding workshop left a huge impression on me (LA)
@@ -156,6 +158,8 @@ Because of that, I took classes at Pasadena City College in Architecture, where 
 - I also took a couple workshops with Spiderzero, who works for [Del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro). He was also originally a web programmer. His life advice left a huge impression on me; very wise guy.
 - Gnomon (took one sculpting class there) (LA)
 - I also attended a Duralene workshop at Carter Sexton in Noho (LA). Duralene is this awesome material that you can layer texture onto. I may have also taken a super sculpey class there (I forget).
+- Highlights for me was seeing [Leyendeckers](https://en.wikipedia.org/wiki/J._C._Leyendecker) in the flesh at Pepperdine; sometimes you can see an image digitally but you don't get a sense of the 
+texture of the strokes and thickness on the paint until you see it in person! It took my breath away!
 - (Below) I drew a *lot* when I was in the art scene; pretty much daily, or painted, both traditionally and digitally. I still do 
 enjoy long-pose more than shorter poses for life drawing, and sketch from time to time. I'm still a bit snobby when it comes to digital artists today who don't spend enough time life-drawing; every artist I've looked up to has stressed how important it is to be life-drawing *constantly*. I'm also obsessed with negative space and form, which I guess corresponds to my obsession with algebraic mathematics today. This space eventually folded, but everyone passed through, from vfx for famous movies, to mathematicians at Princeton, Disney and Dreamworks artists, etc.
 
