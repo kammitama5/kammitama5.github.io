@@ -43,7 +43,7 @@ I used to do this for a living; building these and threading the film for each p
 
 <img src="/images/doiknowyou/notmyemmy.png" width="300">
 
-- Photos from a shoot I was on; not my Emmy!
+- Photos from a shoot I was on; not my Emmy! I worked in an R&D shop that had also won a bunch of technical ones, and an Oscar!
 
 ## JPL?
 
