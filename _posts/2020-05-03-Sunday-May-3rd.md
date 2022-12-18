@@ -219,7 +219,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Queerious Labs (SF)
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday; I volunteered at the first ever Hackaday Superconference in SF (LA, SF)
-- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF). I was also part of the first cohort of Project Alloy's Grants (for Strange Loop attendance).
+- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF). I was also part of the first cohort of Project Alloy's Grants (for Strange Loop attendance), which is where I first met [Star](https://en.wikipedia.org/wiki/Star_Simpson), who is such an inspiration! Love her!
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
