@@ -74,9 +74,17 @@ you will realize that it's a game at some point (hopefully), because you *will* 
 is not given the same rigour of judgment by these very people. Also human nature dictates that we more readily give credibility to those who are more
 like ourselves (social class, upbringing, comes from academic background, etc), so there's that too. There is literally research on whose work
 groups of persons will cite or promote, who they see as "experts" regardless of background, based on homogeneity.
-These people talk about wanting "broader participation"
-and they do these things either wittingly or unwittingly, and it super sucks and very wtf!
-And then, you come to the realization that this is, in fact, just a game of gatekeeping,
+- These people talk about wanting "broader participation"
+and they do these things either wittingly or unwittingly, and it super sucks and is very wtf! If you spend your time waiting for them to give you
+the credibility based on your hard work, you may be waiting forever. You should just keep going in spite of them. 
+The truth is, as a mentor of mine told me, you don't really gain early credibility in Academia unless it is given / lent to you by someone
+senior. And since this is more common for some individuals than others, nothing you do will be enough initially until it is lent to you 
+(see Hardy and Ramanujan as a textbook example, or go watch ["The Man Who Knew Infinity"](https://en.wikipedia.org/wiki/The_Man_Who_Knew_Infinity)). 
+So let it go and keep working.
+- It *is* unfair, but this is the game. Just as in Hollywood, where someone with parents who worked in the industry can learn the ropes 
+and navigating the system earlier, it may be the case that you might ask yourself why, no matter how hard you work, things aren't "sticking".
+Don't do this to yourself. Just keep your head down and focus on what you're doing, and stick with it if you enjoy it.
+- Because eventually, rationality hits you, and you come to the realization that all of this was, in fact, just a game of gatekeeping,
 harbouring institutional power in a shoddy attempt of delegitmization that is both arbitrary as it is ridiculous. Don't pay attention to it;
 it is honestly a waste of your time. And if you are a professor or senior researcher,
 call that stuff out; this is where you have the power to make a difference! 
