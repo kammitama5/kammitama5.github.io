@@ -21,7 +21,7 @@ rather than later.
   and the whole thing ends up feeling like a giant circle jerk. The image I always think
   about is a giant rooster puffing its chest over and over.
   I think very highly of the people I'm currently doing work with, so
-  I'm not really impressed by people strutting around because they got a free hoddie, a fat salary, and associate themselves in research with a 
+  I'm not really impressed by people strutting around because they got a free hoodie, a fat salary, and associate themselves in research with a 
   company email domain; I'm impressed by a legitimate desire to mentor early-career researchers, to share knowledge, guidance and academic rigour;
   people who are open about and enjoy conversing with and working with others who ask interesting questions. And the truth is, those kinds of things
   can come from *anywhere*, so it's not like only people at X schools (who are most likely to be homogenous-thinking and ask the same *kinds* of questions
