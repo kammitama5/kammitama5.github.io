@@ -96,12 +96,14 @@ that does not have the courage to fight you fairly but rather makes weak attempt
 unless you have navigated the space before, how would you know? And often, the people who play these kinds of games are backed by institutional power.
 I really think they should do better, but that's one of the things that since I'm not quite there yet, I need to file away as "awful practices you don't 
 need to repeat / perpetuate when you have institutional power".
-- And no, I won't read your thesis in the hope that you'll "pick me". Ugh. I need to take a shower now.
+- And no, I won't read your thesis in the hope that you'll "pick me". Ugh. I need to take a shower now. My vision for this space is so much more optimistic than this individually-focused narcissism of a couple research-industry individuals who have fallen in love with their own reflection because 
+of a title and a pay cheque. Whenever I think of the professors I've looked up to, like my PL mentor, I think about how much more they care about investing into early-career researchers, providing guidance, than about making everything all about them. They build you up. And the others fall *so short* in comparison; they couldn't light the candle to some of these mentors.
 
 ## So what's new?
 - I'm really excited about a couple things in the New Year. Two big ones involve the opportunity to interact with and do research with Mathematicians
 and be mentored by them in my field. I'm SO happy and excited for the opportunities. And..I get to catch up with some people who really had my back
-pre-grad school, which is SUPER DOPE!!
+pre-grad school (one is an amazing female sound engineer, and the rest are Pure Mathematicians, which is hilarious...how did I not connect the dots before!?), which is SUPER DOPE!! Another friend of mine is also doing a postdoc at one of the workshop institutions, so I may very well run into her,
+too! And I may even also meet one of my professors' postdoc mentors, too! (another Mathematician).
 - I'm making my way through a Graph Theory book this break, that has around 684 pages and that I carried in my backpack through 3 airports, through
 customs and home. What I love about home is that (besides the occasional barking and crying of dogs begging me to play with them), it's pretty quiet.
 That's an incredible privilege I'm really happy to have. 
