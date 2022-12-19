@@ -102,7 +102,7 @@ of a title and a pay cheque. Whenever I think of the professors I've looked up t
 ## So what's new?
 - I'm really excited about a couple things in the New Year. Two big ones involve the opportunity to interact with and do research with Mathematicians
 and be mentored by them in my field. I'm SO happy and excited for the opportunities. And..I get to catch up with some people who really had my back
-pre-grad school (one is an amazing female sound engineer, and the rest are Pure Mathematicians, which is hilarious...how did I not connect the dots before!?), which is SUPER DOPE!! Another friend of mine is also doing a postdoc at one of the workshop institutions, so I may very well run into her,
+pre-grad school (one is an amazing female sound engineer, and the rest are Pure Mathematicians, which is hilarious...how did I not connect the dots before!?), which is SUPER DOPE!! Another friend of mine is also doing a postdoc at one of the workshop institutions (doing HoTT DiffAlg work; I went to her defense and learned a teeny bit about sections and fibers!), so I may very well run into her,
 too! And I may even also meet one of my professors' postdoc mentors, too! (another Mathematician).
 - I'm making my way through a Graph Theory book this break, that has around 684 pages and that I carried in my backpack through 3 airports, through
 customs and home. What I love about home is that (besides the occasional barking and crying of dogs begging me to play with them), it's pretty quiet.
