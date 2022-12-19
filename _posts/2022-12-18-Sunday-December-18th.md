@@ -99,6 +99,21 @@ need to repeat / perpetuate when you have institutional power".
 - And no, I won't read your thesis in the hope that you'll "pick me". Ugh. I need to take a shower now. My vision for this space is so much more optimistic than this individually-focused narcissism of a couple research-industry individuals who have fallen in love with their own reflection because 
 of a title and a pay cheque. Whenever I think of the professors I've looked up to, like my PL mentor, I think about how much more they care about investing into early-career researchers, providing guidance, than about making everything all about themselves, as though I should just be a grovelling, fawning fan of their awesomeness (lol). Instead, mentors like my PL mentor and Pure Mathematics professors build you up. And the others fall *so short* in comparison; they couldn't hold a candle to some of these mentors.
 
+## Before Grad school
+- I was interning at a place in Silicon Valley, and I ran into a well-known researcher and engineer at fancy company in the Valley who showed up
+at an event in Mountain View, and I asked him, in the midst of all the other students asking if they *had* to get a PhD to do machine learning,
+(on the other hand) 
+*why* I should want to work for the company at which they worked. At the time, he began pitching me that they had all this extra computational 
+power, facilities, etc, and years later, he remembered our conversation when I was well into my PhD. I still feel the way I felt when I met him;
+there is just something missing for me that I've gotten in the highs of my life in grad school with the Pure Maths students and the workshops I have
+attended and the mentors that I've met that I've *never* been able to find so far in industry. And I just don't know what to do with that feeling.
+And like an insane person, every time a company has woo-ed me (it is flattering!), I feel compelled to give them the time of day. But again, as 
+my mom says, "you don't owe them anything".
+The feeling of my best times at Grad school: It's like that feeling that Perri Knize spoke about in the book, "Grand Obsession"; 
+from the time the author heard the perfect pitch on their perfect
+piano, they couldn't get that out of their head. I've walked home with wet socks on cold, dreary days with my Pure Maths friends, having barely
+eaten all day, and I've just felt *so happy*. My heart did not desire much else.
+
 ## So what's new?
 - I'm really excited about a couple things in the New Year. Two big ones involve the opportunity to interact with and do research with Mathematicians
 and be mentored by them in my field. I'm SO happy and excited for the opportunities. And..I get to catch up with some people who really had my back
