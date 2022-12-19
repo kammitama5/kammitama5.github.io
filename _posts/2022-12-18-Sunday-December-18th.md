@@ -97,7 +97,7 @@ unless you have navigated the space before, how would you know? And often, the p
 I really think they should do better, but that's one of the things that since I'm not quite there yet, I need to file away as "awful practices you don't 
 need to repeat / perpetuate when you have institutional power".
 - And no, I won't read your thesis in the hope that you'll "pick me". Ugh. I need to take a shower now. My vision for this space is so much more optimistic than this individually-focused narcissism of a couple research-industry individuals who have fallen in love with their own reflection because 
-of a title and a pay cheque. Whenever I think of the professors I've looked up to, like my PL mentor, I think about how much more they care about investing into early-career researchers, providing guidance, than about making everything all about them. They build you up. And the others fall *so short* in comparison; they couldn't light the candle to some of these mentors.
+of a title and a pay cheque. Whenever I think of the professors I've looked up to, like my PL mentor, I think about how much more they care about investing into early-career researchers, providing guidance, than about making everything all about them. They build you up. And the others fall *so short* in comparison; they couldn't hold a candle to some of these mentors.
 
 ## So what's new?
 - I'm really excited about a couple things in the New Year. Two big ones involve the opportunity to interact with and do research with Mathematicians
