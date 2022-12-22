@@ -235,6 +235,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Simons Institute (Error-correcting codes workshop) (bay area; Berkeley, CA)
 - Cornell Number Theory Conference 2019 (Ithaca, NY)
 - ICERM (Providence, RI)
+- AWS (Arizona Winter School). Nothing to do with that Cloud thing, but moreso Model Theory and Arithmetic Geometry :)
 - IPAM; Machine Assisted Proofs workshop with T. Tao and friends! (UCLA, LA)
 - BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that first year for Women In Numbers!
 
