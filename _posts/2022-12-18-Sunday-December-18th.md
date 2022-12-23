@@ -24,7 +24,7 @@ rather than later.
   the things he had made during his time at the company. He was literally bragging for the entire time and of course, he was in a position of power because he got to write up how terrible of a candidate I was or whatever (maybe there should be more than one interviewer in these things). In the last 5 minutes, he asked me if 
   I had any questions for him, and I just sat there and said "nope" and hung up before he did. The entire time I sat there thinking "wow, what a 
   blowhard. I guess this is the lot they hire." and about how much homework I had to do, or sleep I could have been catching up on instead. 
-  I guess I wasn't "technical enough" and completely "not a culture fit" (I'm saying this tongue-in-cheek, of course).
+  I guess I wasn't "technical enough" and completely "not a culture fit" (I'm saying this tongue-in-cheek, of course; I had an offer the next day from another company sitting in my inbox, in any case).
   - I think very highly of the people I'm currently doing work with, so
   I'm not really impressed by people strutting around because they got a free hoodie, a fat salary, and associate themselves in research with a 
   company email domain; I'm impressed by a legitimate desire to mentor early-career researchers, to share knowledge, guidance and academic rigour;
