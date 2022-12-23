@@ -20,7 +20,12 @@ rather than later.
   also augment this mindset (something something amplifying bias and choosing a "Mini-me" version of yourself, yes, you..senior researcher), 
   and the whole thing ends up feeling like a giant circle jerk. The image I always think
   about is a giant rooster puffing its chest over and over.
-  I think very highly of the people I'm currently doing work with, so
+  - I was once rejected from an internship opportunity in which the interviewer spent the *entire* time talking about how great he was, and all
+  the things he had made during his time at the company. He was literally bragging for the entire time about how great he was. In the last 5 minutes, he asked me if 
+  I had any questions for him, and I just sat there and said "nope" and hung up before he did. The entire time I sat there thinking "wow, what a 
+  blowhard. I guess this is the lot they hire." and about how much homework I had to do, or sleep I could have been catching up on instead. 
+  I guess I wasn't "technical enough" and completely "not a culture fit" (I'm saying this tongue-in-cheek, of course).
+  - I think very highly of the people I'm currently doing work with, so
   I'm not really impressed by people strutting around because they got a free hoodie, a fat salary, and associate themselves in research with a 
   company email domain; I'm impressed by a legitimate desire to mentor early-career researchers, to share knowledge, guidance and academic rigour;
   people who are open about and enjoy conversing with and working with others who ask interesting questions. And the truth is, those kinds of things
@@ -121,7 +126,7 @@ pre-grad school (one is an amazing female sound engineer, and the rest are Pure 
 too! And I may even also meet one of my professors' postdoc mentors, too! (another Mathematician).
 - I'm making my way through a Graph Theory book this break, that has around 684 pages and that I carried in my backpack through 3 airports, through
 customs and home. What I love about home is that (besides the occasional barking and crying of dogs begging me to play with them), it's pretty quiet.
-That's an incredible privilege I'm really happy to have. 
+That's an incredible privilege I'm really happy to have.
 
 ## Anyways
 - Have a Happy Holiday Season! And all the best for the New Year! If I don't get back to the people I'm supposed to be getting back to for months
