@@ -21,7 +21,7 @@ rather than later.
   and the whole thing ends up feeling like a giant circle jerk. The image I always think
   about is a giant rooster puffing its chest over and over.
   - I was once rejected from an internship opportunity in which the interviewer spent the *entire* time talking about how great he was, and all
-  the things he had made during his time at the company. He was literally bragging for the entire time about how great he was. In the last 5 minutes, he asked me if 
+  the things he had made during his time at the company. He was literally bragging for the entire time and of course, he was in a position of power because he got to write up how terrible of a candidate I was or whatever (maybe there should be more than one interviewer in these things). In the last 5 minutes, he asked me if 
   I had any questions for him, and I just sat there and said "nope" and hung up before he did. The entire time I sat there thinking "wow, what a 
   blowhard. I guess this is the lot they hire." and about how much homework I had to do, or sleep I could have been catching up on instead. 
   I guess I wasn't "technical enough" and completely "not a culture fit" (I'm saying this tongue-in-cheek, of course).
