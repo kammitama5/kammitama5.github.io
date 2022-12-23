@@ -135,6 +135,9 @@ of the reason, quite frankly. In the past, I had noticed that when I prioritized
 with me. And so, I needed to be a lot more selfish, which is pretty much what I did this past semester. And I found it to be a lot more memorable
 than any other semester!
 
+## Edit
+- Since I've written this post (maybe it's just coincidence?) I've gotten a TONNE of recruitment emails. Again, I'm probably not going to be venturing in that direction unless it's a unique opportunity in 2023, or related to my current area of research. Thank you for your time and interest!
+
 ## And That's it.
 
 
