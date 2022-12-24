@@ -136,7 +136,7 @@ with me. And so, I needed to be a lot more selfish, which is pretty much what I 
 than any other semester!
 
 ## Edit
-- Since I've written this post (maybe it's just coincidence?) I've gotten a TONNE of recruitment emails. Again, I'm probably not going to be venturing in that direction unless it's a unique opportunity in 2023, or related to my current area of research. Thank you for your time and interest!
+- Since I've written this post (maybe it's just coincidence?) I've gotten a TONNE of recruitment emails. Again, I'm probably not going to be venturing in that direction unless it's a unique opportunity in 2023 (because right now if you ask me, I'm going to say I hate working in industry, but if the right opportunity or right people came along, maybe I'd change my mind?), or related to my current area of research. Thank you for your time and interest!
 
 ## And That's it.
 
