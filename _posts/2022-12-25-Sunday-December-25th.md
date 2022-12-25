@@ -8,7 +8,7 @@ for Spring).
 (which should be in the next seven days or so), I can dig into the meat of the book. I started the book, to read concurrently, but it 
 does take a lot longer to dig through, as it's a lot denser to take in.
 - I've also listed the papers I read this week related to that. The corrections are also really funny; my Notes app kept trying to correct
-"Gammoids" to be "Gammons", so if you see weird stuff like that, please ignore it :)
+"Gammoids" to be "Gammons" (apparently my OS is secretly an entity based in the UK with strong feelings on Brexit), so if you see weird stuff like that, please ignore it :)
 - This week:
   - matroids and bases
   - Dependent vs Independent Sets (some recap from class)
