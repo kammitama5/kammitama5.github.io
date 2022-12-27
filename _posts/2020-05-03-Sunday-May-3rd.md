@@ -215,10 +215,12 @@ I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've s
 I'm really thankful that no one judged me during this time of learning; they were all really supportive and tried to work with my OS so I could follow along and get as much out of workshops as possible. I enjoyed everything; it was a lot of fun and I was just exploring at the time, so I didn't mind anything. 
 
 ## Hackerspaces (Maker/hacker scene)
-- Null Space Labs (LA)
-- Queerious Labs (SF)
+- Null Space Labs (LA), where everyone was super kind, and I enjoyed learning about radare, rendering, flipping pinball machines and other tomfoolery.
+- Queerious Labs (SF), where I learned some Agda and Category Theory!
 - 23B (I've been to Sparklecon a few times) (Fullerton, CA)
 - Hackaday; I volunteered at the first ever Hackaday Superconference in SF (LA, SF)
+- I also volunteered for LayerOne and won a ticket to attend AppSec via a raffle!
+- I've attended DEFCON and used to attend some of the OWASP monthly meetings all the way in Costa Mesa, run by the dude who wrote the Hacker Playbook. I was also one of 25 students given the opportunity to attend Black Hat in 2020, courtesy of WISP, from quite a competitive pool (a dream of mine to attend)!
 - I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe (Surface Mounted components using ball grid arrays and stencils and that sort of thing, where you use wave soldering machines to bake your board)!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF). I was also part of the first cohort of Project Alloy's Grants (for Strange Loop attendance), which is where I first met [Star](https://en.wikipedia.org/wiki/Star_Simpson), who is such an inspiration! Love her!
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
