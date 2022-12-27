@@ -177,11 +177,11 @@ enjoy long-pose more than shorter poses for life drawing, and sketch from time t
 
 <img src="/images/3dmodel.png" width="300">
 
-- This is from an actual key-chain that I took a pair of calipers and tried to model in Rhino. I never finished the whole thing, but Rhino
+- (Above) This is from an actual key-chain that I took a pair of calipers and tried to model in Rhino. I never finished the whole thing, but Rhino
 is still my jam because of its precision.
 - As I had mentioned, I worked primarily as an electronics technician, so I have a background in understanding how current and voltage works, using
 multimeters and troubleshooting with hardware. So it makes sense that my first inroad into tech was via robotics. I spent a lot of time making robots,
-playing around with breadboards, etc. 
+playing around with breadboards, etc. I also took classes at night school on low-voltage electronics (because it was easy since I spent my job working on high-voltage R&D stuff), and the professor really wanted me to get certification as I had a "knack" (aka was spending 8+ hours a day on, had screwdrivers and a multimetre on my work desk, etc) for that stuff. I also learned a bit about solar panels at the time, as he was encouraging students at the time to get their certification in that, too (they would hire you as an apprentice right out of night school!).
 
 <img src="/images1/robotcharlie1.png" width="300">
 
@@ -197,7 +197,7 @@ I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've s
 <img src="/images1/4barlinkage1.png" width="300">
 <img src="/images1/4barlinkage2.png" width="300">
 
-- (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks. I also did a mock physical prototype with metal rods and basic MIG welds.
+- (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks. I also did a mock physical prototype with metal rods and basic MIG welds (I had access to those from the welding shop; I also literally worked next to a machine shop / in the same building; yes, it was sometimes really loud).
 
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
