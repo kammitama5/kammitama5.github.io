@@ -199,6 +199,10 @@ I've used all kinds of boards, from Arduino, Raspberry Pi, ESP8266 (which I've s
 
 - (Above) A 4-bar linkage system I 3D printed! It does work, too, but it's tiny. We also had to make a BOM for it, and exploded views, etc. Used Solidworks. I also did a mock physical prototype with metal rods and basic MIG welds (I had access to those from the welding shop; I also literally worked next to a machine shop / in the same building; yes, it was sometimes really loud).
 
+- (Below) One of the first mill classes I took. My desire was originally to learn to weld, but I got sucked into learning some machine shop classes, then CAD, then robotics, etc. We would get a schematic and make these to spec; if they were nice, we *might* get an example piece, but you were supposed to just look at the schematic and figure it out. The measurements would have to be within a tolerance to pass (so our prof played the part of machine-shop inspector). All of those markings on the schematic are typical, because you would have to measure the angles, how much tolerance and what size drill you would need (not too large or you would not be able to make a couple passes to get it just right). Be sure to clean up your metal shavings at the end. Be a professional; this is a shared space.
+
+<img src="/images1/machineshop.png" width="300">
+
 ## Art Makerspaces (Maker/hacker scene)
 - Community Woodshop (LA);  took 2 classes there (cutting boards and bowls or something?) (LA)
 - Somewhere something (took a bunch of architecture-3D-node-programming classes there). Learned about generative art and started programming interest here (LA)
