@@ -237,7 +237,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - ICERM (Providence, RI)
 - AWS (Arizona Winter School). Nothing to do with that Cloud thing, but moreso Model Theory and Arithmetic Geometry :)
 - IPAM; Machine Assisted Proofs workshop with T. Tao and friends! (UCLA, LA)
-- BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that first year for Women In Numbers!
+- BIRS (Banff, Canada); it was always my dream to eventually make it here, as it's by invitation only, and 2023 was that first year for WIN!
 
 ## Wall Street
 - I spent a summer on Wall Street. Business casual is so hard for me I need my [hoodie and flip flops](https://www.youtube.com/watch?v=JKOa1Je-3Gw) and backpack. I worked in a Research department that was separate from the trading area of the company, so in a way I was distanced from a lot of that world.
