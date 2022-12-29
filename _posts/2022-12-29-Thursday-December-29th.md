@@ -58,8 +58,7 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
 
 ## Quantum
 - I joined a Quantum book club, since that actually relates to my thesis. It's a good group! I did not have time to read 
-[this on Polyadic Quantum Classifiers](https://arxiv.org/pdf/2007.14044.pdf)
-paper, but someone mentioned it in the group. We just started and we're going on to chapter 2, which is a lot of notation, operations, etc. The group
+[this paper on Polyadic Quantum Classifiers](https://arxiv.org/pdf/2007.14044.pdf), but someone mentioned it in the group. We just started and we're going on to chapter 2, which is a lot of notation, operations, etc. The group
 seems to be a mix of persons with Physics backgrounds, Pure Mathematics backgrounds, and Computer Science, which as you know is heaven for me, because
 they're nice and we have to agree upon and cross-pollinate in terms of a shared "language" between us for understanding the material. So that's cool.
 The pacing is great since they only meet every two weeks, but are pretty active on Discord otherwise, so I still have time to get my main focus on Matroids
