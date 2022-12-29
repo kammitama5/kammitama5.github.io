@@ -38,6 +38,9 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
   - Error-correcting codes (the weight enumerator, calculating errors in F_2 example, how it relates to Tutte polynomials)
   - Some Knot theory (ambient isotopic)
   - Coefficients of Tutte Polynomial
+  - Catalan Matroid and Bases, Dyck paths, Gröbner basis relation (see Lec 38)
+  - Calculating Capo’s theorem using Up steps and bounces (coroll: Proof of Catalan matroid and its dual are isomorphic (using up steps and bounces))
+  - Matroid Polytopes (finally!)
 
 ### Note: Maybe Look at again
 - Lecture 18: Geometric lattices and coatomic property proof.
