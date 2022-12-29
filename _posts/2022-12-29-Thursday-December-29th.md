@@ -40,10 +40,11 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
   - Coefficients of Tutte Polynomial
   - Catalan Matroid and Bases, Dyck paths, Gröbner basis relation (see Lec 38)
   - Calculating Capo’s theorem using Up steps and bounces (coroll: Proof of Catalan matroid and its dual are isomorphic (using up steps and bounces))
-  - Matroid Polytopes (finally!)
+  - Matroid Polytopes (finally!). Think of them as a bunch of linear inequalities.
   - Defining the Convex hull and polytopes
   - Creating an octahedron by using R^3
   - Facet descriptions
+  - Introduction of Linear Programming as related to Polytopes
 
 ### Note: Maybe Look at again
 - Lecture 18: Geometric lattices and coatomic property proof.
