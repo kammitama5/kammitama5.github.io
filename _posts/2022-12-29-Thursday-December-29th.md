@@ -44,7 +44,7 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
   - Defining the Convex hull and polytopes
   - Creating an octahedron by using R^3
   - Facet descriptions
-  - Introduction of Linear Programming as related to Polytopes
+  - Introduction of Linear Programming as related to Polytopes (Simplex algo and ellipsoid methods: I've used these computationally!)
 
 ### Note: Maybe Look at again
 - Lecture 18: Geometric lattices and coatomic property proof.
