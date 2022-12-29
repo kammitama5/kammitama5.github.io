@@ -31,9 +31,12 @@ won't use it much, except to read, as I'm pretty busy.
 a Compilers course in Haskell and another CS course.
 - I have been forbidden from taking any more classes (for now) by "some professor(s)" who do Algebraic Graph Theory research :) In terms of coursework, I've taken Post-Quantum Mathematical Cryptography (Maths department), Data Privacy (CS), Secure and Distributed Computation (CS), Machine Learning (CS), Abstract Algebra I: Group Theory (Maths) and Abstract Algebra III : Groups, Fields, some Ring and Galois Theory (Maths: focused on preparing Maths PhD students for Quals), Abstract Algebra IV A: Ring and Module Theory (Maths), along with a Random Probabilistic Graphs class (Maths), Algebra IV C: Elliptic Curves and Modular Forms (Maths), and sat in on an Elementary Number Theory course (Maths). I also have taken Combinatorical Graph Theory (Maths), Spectral Graph Theory (Maths), Category Theory, and self-learning (Set Point) Topology (Maths), Matroids (Maths), while sitting in on the Theory of Algebraic Differential Equations and a Matroids and Polytopes class because why not. I'm also learning a bit of Model Theory, too, because sometimes Pure Maths professors reach out to me to learn things because of my enthusiasm and passion for the subject! Basically, if there is "Abstract anything", you will find me there.
 - Some other things along the way I am learning (not for research) are Real Analysis, Ramsey Theory, HDX and Expander Graphs, and Extremal Graph Theory, through my awesome professors in my Pure Maths department who have been quite patient with me!
-- I'm open to Summer and Winter *Research* Internships (I cannot currently accept non-research internships; sorry!), particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :)
+- Q: I am a recruiter / person (??) and I have an opportunity. 
+  - A: I'm a bit crestfallen by my time in industry during my PhD, and exhausted (but I don't regret it). Specifically, my experiences weren't really great, particularly the capacity and degree of mentorship; coincidentally, I decided to pursue grad school because I found a lack of quality mentorship in the direction I was headed before grad school, too (in industry), and have strong thoughts on this topic wrt the tech industry, hierarchy and promotion aka "levels") and at this time am punting to just do a postdoc somehow after I complete my PhD or become a cab driver and continue to work on research (as someone who spent a fair amount of time in a high-risk, high reward space, interesting problems and good collaborators motivate me most), but maybe there is a research opportunity or collaboration that might bring us both joy; I'm open to that.
+<!--- - I'm open to Summer and Winter *Research* Internships (I cannot currently accept non-research internships; sorry!), particularly as they relate to my topics of research, or Haskell in general, and I'll get back to you, even though it takes a while because I'm often really busy! :) --->
 
 ## How Pure Maths research can be different from Computer Science aka where are your ten papers?
+
 - In my experience, compared to my previous research focus, this topic takes a bit more time to produce a paper. I am okay with that. I am still a Computer Science PhD student...I think...(for now). Please stop asking me if "I'm sure". You're not helping :)
 
 ## More Updates...
@@ -79,7 +82,7 @@ a Compilers course in Haskell and another CS course.
 
 ### Books I'm currently reading
 - [What I'm reading: Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
-- Current favourite shows: Industry, Suits, Billions (I'm seeing a trend).
+- Current favourite shows: Silent Witness, Industry, Suits, Billions (I'm seeing a trend).
 
 ## Awesome other things I used to enjoy!
 - [Women's Sailing Association of Santa Monica Bay](https://wsasmb.org/): I was a member and raced in WOW-WAH twice (once on MyTime3 and another on Harmony).
