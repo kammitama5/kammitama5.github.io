@@ -45,6 +45,8 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
   - Creating an octahedron by using R^3
   - Facet descriptions
   - Introduction of Linear Programming as related to Polytopes (Simplex algo and ellipsoid methods: I've used these computationally!)
+  - Weak and Strong Duality Theorem
+  - Primal and Dual example where the Dual Polyhedra was unbounded (See Lecture 40)
 
 ### Note: Maybe Look at again
 - Lecture 18: Geometric lattices and coatomic property proof.
