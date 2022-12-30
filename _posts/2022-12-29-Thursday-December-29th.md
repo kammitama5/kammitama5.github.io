@@ -48,6 +48,7 @@ were really interesting! I'm hoping to continue digging through the Oxley book o
   - Weak and Strong Duality Theorem
   - Primal and Dual example where the Dual Polyhedra was unbounded (See Lecture 40)
   - Cyclic flats and lattices, systems of mirrors (e_i - e_j)
+  - Coxeter groups
 
 ### Note: Maybe Look at again
 - Lecture 18: Geometric lattices and coatomic property proof.
