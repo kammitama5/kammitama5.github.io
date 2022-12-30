@@ -14,7 +14,7 @@ on to being a founder (yes, like "I live in SV and I got seed-funding" founder),
 But that coincidence this week was very unexpected!
 
 ## Topics
-- I basically made my way through videos 15 through 43 this week (they're each an hour long or so, and there is an off-by-one error in the indexing). Powering through. I stayed up until 4am to 5am on some mornings, because the lectures
+- I basically made my way through videos 15 through 43 this week (they're each an hour long or so, and there is an off-by-one error in the indexing). Powered through this week, and also read a couple relevant papers. I stayed up until 4am to 5am on some mornings, because the lectures
 were really interesting! I'm hoping to continue digging through the Oxley book on Saturday.
   - Lattices, Flats, Posets of Flats
   - Fano matroid
