@@ -23,7 +23,7 @@ know this before this Christmas season, btw. Both mom and dad told me about this
 And even then, when she worked in one briefly, they had her in jobs that required acute mathematical ability, particularly when 
 there was a customer rush. She later quit when
 she realized how stupid the rules of the banks were regarding management, and shortly thereafter, the Black Power movement took place,
-which resulted in the banks changing their policies). Anyways, it's nice to be in a place where I can be myself, where I am
+which resulted in the banks changing their policies. I mean, imagine this happening in a predominantly black country, too? Wth.). Anyways, it's nice to be in a place where I can be myself, where I am
 assumed to be intelligent, and laugh heartily about macabre things without getting stares. It reminds me that I fit here.
 
 ## Anyways
