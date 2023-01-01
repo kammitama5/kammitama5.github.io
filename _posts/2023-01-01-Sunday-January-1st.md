@@ -19,7 +19,7 @@ and will talk your ears off about stats and databases, and my mom
 just generally, in terms of mathematical puzzles; she's really good at them and totally unapologetic about it!
 - Interestingly, there was a time in my home country where they would not hire women in managerial positions at the banks (they were for mostly
 white expat men, and the programme apparently was literally called "Boys in Training", which makes me want to throw up in my mouth. I did not
-know this before this Christmas season, btw. Both mom and dad told me about this.).
+know this before this Christmas season, btw. Both mom and dad told me about this, as they've been together forever practically (like, since high school), so my dad knows a fair amount about the kind of stuff she had to put up with early on, and vice versa).
 And even then, when she worked in one briefly, they had her in jobs that required acute mathematical ability, particularly when 
 there was a customer rush. She later quit when
 she realized how stupid the rules of the banks were regarding management, and shortly thereafter, the Black Power movement took place,
