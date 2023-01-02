@@ -2,7 +2,7 @@
 
 ## A very fun Chapter!
 - Duality
-  - Dual of matroid: cobases, cocircuits, cohyperplanes, coindependent sets, cospanning sets, collops in relation to M or E(M) (where E is the ground set), and its dual, M*.
+  - Dual of matroid: cobases, cocircuits, cohyperplanes, coindependent sets, cospanning sets, coloops in relation to M or E(M) (where E is the ground set), and its dual, M*.
   - Example of M being isomorphic to vs equal to its dual
   - Self-dual (Body and Welsh) (1971). 
   - Note that the class of simple matroids is not closed under duality, meaning that for a simple matroid M, its dual M* may not be simple. 
