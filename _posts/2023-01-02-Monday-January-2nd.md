@@ -4,7 +4,7 @@
 - Duality
   - Dual of matroid: cobases, cocircuits, cohyperplanes, coindependent sets, cospanning sets, coloops in relation to M or E(M) (where E is the ground set), and its dual, M*.
   - Example of M being isomorphic to vs equal to its dual
-  - Self-dual (Body and Welsh) (1971). 
+  - Self-dual (Bondy and Welsh) (1971). 
   - Note that the class of simple matroids is not closed under duality, meaning that for a simple matroid M, its dual M* may not be simple. 
   - r* we call the “c-rank” function of M. 
   - A clutter is collection of sets none of which is a proper subset of another; If we have A, a clutter of subsets of a set S, we call A’ the complementary clutter of A. They are also known as [Sperner families](http://matroidunion.org/?p=1445).
@@ -22,7 +22,7 @@
   - Gammoids!!!!! Cotransversal matroids. We shall see more (Mason 1972a). A matroid is a strict ganoid iff its dual matroid is transversal. The dual of an F-representable matroid is F-representable, so every strict gammoid is representable.
 
 ## Notes
-- Omg this Notes app is horrible. It keeps changing my text :(. I might just use another doc or something next time.
+- Omg this Notes app is horrible. It keeps changing my text :(. I might just use another doc or something next time. Omg it's so baaad.
 - Apparently there is a [Matroids.org](http://matroidunion.org/?p=1445): I was looking for more info on blockers and clutters.
 - Apparently a "fair amount" of Shamir Secret sharing work has included ports of matroid (specifically of rank 3, but I’m not sure why rank 3 in particular;
 does this have to do with paving, since paving is a matroid less than rank two? Or the r-spike property (so that the matroid is self-dual), or both?).
