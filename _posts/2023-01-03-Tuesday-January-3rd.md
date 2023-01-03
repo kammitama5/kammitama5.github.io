@@ -15,7 +15,7 @@ Minors
   - This is also pretty neat! Every minor of a matroid M can be written in the form M/I\I*, where I and I* are independent and codependent, respectively, in M. (Lemma 3.3.2)
   - The last section talks about the properties of flats
 
-## Spikes (dissertation by W. Zu)
+## Spikes (dissertation by W. Zu. See readings section for link)
 - For n \geq 3, a matroid M is called a n-spike with tip p if it satisfies three conditions:
   - the ground set is the union of n lines, L1, L2,...Ln, all having three points and passing through a common point p.
   - for all k in {1,2,...n-1}, the union of any k of L1, L2, ... Ln has rank k + 1
@@ -27,6 +27,10 @@ Minors
 - Lemma (1.3.1) Suppose that M is a 2-minimally, 2-cominimally 3-connected matroid, and that for some element x of E(M), the matroid M/x has
 four triangles sharing a common element y. Then M is a spike.
 - (1.6) Ding, Oporowski, Oxley and Vertigan proved. For every integer n > 2, there is an integer N(n) such that every 3-connected matroid with at least N(n) elements has a minor isomorphic to U_{n,n+2}, U_{2,n+2}, M(K_{3,n}), M*(K_{3,n}), the cycle matroid of a wheel with n spokes, the whirl of rank n, or an n-spike. Zu calls this "unavoidable matroids".
+- The Fano and non-Fano matroids are 3-spikes.
+- Oxley showed that all rank-n, 3 connected binary matroids without a 4-wheel minor can be obtained from a binary n-spike by deleting at most two elements.
+Oxley, Vertigan and Whittle used spikes and one other class of matroids to show that, for all q \geq 7, there is no fixed bound on the number of inequivalent GF(q)-representations of a 3-connected matroid, thereby disproving a conjecture of Kahn.
+- Wu showed that spikes, like wheels and whirls, can be characterized in terms of a natural extremal connectivity condition.
 
 ## Notes
 - I’ve done simple edge and contraction deletion in the past, but it definitely does get trickier with more complex graphs. This chapter was about what happens (in terms of properties, classes, etc) when we use operations of contraction and deletion in our matroid, and what that means for minors of the matroid (ie. another such matroid denoted by N that is obtained from M after these operations). Do the properties hold for the entire structure or are there constraints based on loop vs coloop, etc. This comes from looking at what happens when we delete columns, as we would in an associated matrix. We also look at gammoids and their properties.
