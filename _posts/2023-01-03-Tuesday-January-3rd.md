@@ -21,12 +21,12 @@ Minors
   - for all k in {1,2,...n-1}, the union of any k of L1, L2, ... Ln has rank k + 1
   - r(L1 \cup L2 \cup ... \cup Ln) = n.
 - M \ p is called a spike without tip. The paper refers to spikes without tips as spikes.
-- If C is a circuit and C^{*} is a cocircuit of a matroid M, then |C \cap C*| \neq 1. The last property of matroids is orthogonality.
+- If C is a circuit and C' is a cocircuit of a matroid M, then |C \cap C'| \neq 1. The last property of matroids is orthogonality.
 - U_{3,6} is a spike.
 - The paper mentions Tutte's Wheels an Whirls Theorem a bunch of times.
 - Lemma (1.3.1) Suppose that M is a 2-minimally, 2-cominimally 3-connected matroid, and that for some element x of E(M), the matroid M/x has
 four triangles sharing a common element y. Then M is a spike.
-- (1.6) Ding, Oporowski, Oxley and Vertigan proved. For every integer n > 2, there is an integer N(n) such that every 3-connected matroid with at least N(n) elements has a minor isomorphic to U_{n,n+2}, U_{2,n+2}, M(K_{3,n}), M*(K_{3,n}), the cycle matroid of a wheel with n spokes, the whirl of rank n, or an n-spike. Zu calls this "unavoidable matroids".
+- (1.6) Ding, Oporowski, Oxley and Vertigan proved. For every integer n > 2, there is an integer N(n) such that every 3-connected matroid with at least N(n) elements has a minor isomorphic to U_{n,n+2}, U_{2,n+2}, M(K_{3,n}), M'(K_{3,n}), the cycle matroid of a wheel with n spokes, the whirl of rank n, or an n-spike. Zu calls this "unavoidable matroids".
 - The Fano and non-Fano matroids are 3-spikes.
 - Oxley showed that all rank-n, 3 connected binary matroids without a 4-wheel minor can be obtained from a binary n-spike by deleting at most two elements.
 Oxley, Vertigan and Whittle used spikes and one other class of matroids to show that, for all q \geq 7, there is no fixed bound on the number of inequivalent GF(q)-representations of a 3-connected matroid, thereby disproving a conjecture of Kahn.
