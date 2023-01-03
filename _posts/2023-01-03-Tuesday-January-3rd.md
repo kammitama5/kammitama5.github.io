@@ -13,7 +13,7 @@ Minors
   - The class of gammoids is closed under minors and under duality.
   - The Scum Theorem! (Higgs in Crapo and Rota 1970). Let N be a minor of a matroid M. Then there is a subset Z of E(M) - E(N) such that M/Z and N have the same rank, and N is a restriction of M/Z. Moreover, if N has no loops, then Z can be chosen to be a flat of M. Oxley says that “this theorem is very useful for it enables us to view the formation of a minor N as a two-stage process: a contraction to get the rank right followed by a deletion to remove the remaining elements not in N….”.
   - This is also pretty neat! Every minor of a matroid M can be written in the form M/I\I*, where I and I* are independent and codependent, respectively, in M. (Lemma 3.3.2)
-  - The last section talks about the properties of flats
+  - The last section talks about the properties of flats. A rank-1 flat is a point and a rank-2 flat is a line (see the paper by Geelen and Nelson). This will be probably be discussed more in later chapters of Oxley.
 
 ## Spikes (dissertation by W. Zu. See readings section for link)
 - For n \geq 3, a matroid M is called a n-spike with tip p if it satisfies three conditions:
