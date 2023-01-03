@@ -33,6 +33,9 @@ Oxley, Vertigan and Whittle used spikes and one other class of matroids to show 
 - Wu showed that spikes, like wheels and whirls, can be characterized in terms of a natural extremal connectivity condition.
 - Note: Federico did go through weak equivalence in his lectures. (pg 44): Two diagonals are distinct if they are not weakly equivalent. Two elements of an n-spike are conjugate if they lie on the same line L_i and neither of them is the tip.
 
+## Matroids Denser than a Clique
+- This paper is very interesting, coming with some knowledge of Arithmetic Statistics from Roots of Unity workshop on Arithmetic Geometry / elliptic curves stuff. They use the Growth Rate Theorem and a theorem by Kung. Kung's theorem bounds the number of points in a matroid in U(l) (see 2.1) and the Growth Rate Theorem says that any matroid in U(l) with sufficiently large 'linear' density has a large clique as a minor. 
+
 ## Notes
 - I’ve done simple edge and contraction deletion in the past, but it definitely does get trickier with more complex graphs. This chapter was about what happens (in terms of properties, classes, etc) when we use operations of contraction and deletion in our matroid, and what that means for minors of the matroid (ie. another such matroid denoted by N that is obtained from M after these operations). Do the properties hold for the entire structure or are there constraints based on loop vs coloop, etc. This comes from looking at what happens when we delete columns, as we would in an associated matrix. We also look at gammoids and their properties.
 - I’ve been interested in the definition of spike. There is a good definition [here](http://matroidunion.org/?p=2394). The post distinguishes specifically tipless spikes. Since the chapter is short, I do want to spend some time having a stronger intuition for spikes, so that will be some of the evening's reading.
