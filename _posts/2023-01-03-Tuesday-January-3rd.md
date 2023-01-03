@@ -21,6 +21,7 @@ Minors
   - for all k in {1,2,...n-1}, the union of any k of L1, L2, ... Ln has rank k + 1
   - r(L1 \cup L2 \cup ... \cup Ln) = n.
 - M \ p is called a spike without tip. The paper refers to spikes without tips as spikes.
+- If C is a circuit and C* is a cocircuit of a matroid M, then |C \cap C*| \neq 1. The last property of matroids is orthogonality.
 
 ## Notes
 - I’ve done simple edge and contraction deletion in the past, but it definitely does get trickier with more complex graphs. This chapter was about what happens (in terms of properties, classes, etc) when we use operations of contraction and deletion in our matroid, and what that means for minors of the matroid (ie. another such matroid denoted by N that is obtained from M after these operations). Do the properties hold for the entire structure or are there constraints based on loop vs coloop, etc. This comes from looking at what happens when we delete columns, as we would in an associated matrix. We also look at gammoids and their properties.
