@@ -40,6 +40,7 @@ Oxley, Vertigan and Whittle used spikes and one other class of matroids to show 
 I think that this is what geeks do, in any case. I find it very fulfilling, and I still have a lot of time to spend with friends and family.
 Yesterday, I got to walk the dogs in a offshore-oil-worker fire-retardant outfit, which was super rad. One of the dogs (aka the trickster) had an excessive amount
 of energy and kept playing with its water bucket, continually tipping it over and throwing water everywhere and playing with the empty bucket. What a handful; a night dog, with a similar schedule to the one I keep (at least I don't spend my time tipping over buckets of water meant for drinking).
+- What is really nice about Wu (above) is that it follows Oxley's notation (who was Wu's advisor).
 
 ## Readings
 - An exhaustive thesis on spikes by W. Zu via their dissertation: [link](https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=7770&context=gradschool_disstheses)
