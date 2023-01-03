@@ -62,5 +62,8 @@ of energy and kept playing with its water bucket, continually tipping it over an
 - Murty, U.S.R, "Extremally critically connected matroids" (1974)
 - Oxley J.G., "On Matroid Connectivity" (1981)
 - Ding G., Oporowski B., Oxley J.G., Vertigan D., "Unavoidable minors of large 3-connected binary matroids" (1997)
+- Geelen J., Kung J.P.S., Whittle G., "Growth rates of minor-closed classes of matroids) (2009)
+- Nelson P., van Zwam S.H.M. "Matroids representable over fields with a common subfield"
+- Nelson P., "Exponentially Dense Matroids" (His PhD thesis, 2011).
 
 ## Hopefully Chapter 4 soon...
