@@ -44,7 +44,7 @@ of energy and kept playing with its water bucket, continually tipping it over an
 
 ## Readings
 - An exhaustive thesis on spikes by W. Zu via their dissertation: [link](https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=7770&context=gradschool_disstheses)
-- Geelen, J. And Nelson, P., “Matroids Denser than a Clique”, [link](https://www.math.uwaterloo.ca/~apnelson/supergraphic.pdf)
+- Geelen, J. And Nelson, P., “Matroids Denser than a Clique”, [link](https://www.math.uwaterloo.ca/~apnelson/supergraphic.pdf). This paper seems very Arithmetic-Statistics-y.
 
 ### Other Interesting sources from Wu's paper
 - Murty, U.S.R, "Extremally critically connected matroids" (1974)
