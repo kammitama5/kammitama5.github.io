@@ -46,4 +46,9 @@ of energy and kept playing with its water bucket, continually tipping it over an
 - An exhaustive thesis on spikes by W. Zu via their dissertation: [link](https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=7770&context=gradschool_disstheses)
 - Geelen, J. And Nelson, P., “Matroids Denser than a Clique”, [link](https://www.math.uwaterloo.ca/~apnelson/supergraphic.pdf)
 
+## Other Interesting sources from Wu's paper
+- Murty, U.S.R, "Extremally critically connected matroids" (1974)
+- Oxley J.G., "On Matroid Connectivity" (1981)
+- Ding G., Oporowski B., Oxley J.G., Vertigan D., "Unavoidable minors of large 3-connected binary matroids" (1997)
+
 ## Hopefully Chapter 4 soon...
