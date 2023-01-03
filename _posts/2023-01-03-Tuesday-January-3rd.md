@@ -21,7 +21,7 @@ Minors
   - for all k in {1,2,...n-1}, the union of any k of L1, L2, ... Ln has rank k + 1
   - r(L1 \cup L2 \cup ... \cup Ln) = n.
 - M \ p is called a spike without tip. The paper refers to spikes without tips as spikes.
-- If C is a circuit and C* is a cocircuit of a matroid M, then |C \cap C*| \neq 1. The last property of matroids is orthogonality.
+- If C is a circuit and C^{*} is a cocircuit of a matroid M, then |C \cap C*| \neq 1. The last property of matroids is orthogonality.
 - U_{3,6} is a spike.
 - The paper mentions Tutte's Wheels an Whirls Theorem a bunch of times.
 - Lemma (1.3.1) Suppose that M is a 2-minimally, 2-cominimally 3-connected matroid, and that for some element x of E(M), the matroid M/x has
