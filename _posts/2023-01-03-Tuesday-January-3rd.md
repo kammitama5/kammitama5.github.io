@@ -12,7 +12,7 @@ Minors
   - Every transversal matroid is a gammoid (this proof is done using bipartition and a directed graph. See 3.2.10). 
   - The class of gammoids is closed under minors and under duality.
   - The Scum Theorem! (Higgs in Crapo and Rota 1970). Let N be a minor of a matroid M. Then there is a subset Z of E(M) - E(N) such that M/Z and N have the same rank, and N is a restriction of M/Z. Moreover, if N has no loops, then Z can be chosen to be a flat of M. Oxley says that “this theorem is very useful for it enables us to view the formation of a minor N as a two-stage process: a contraction to get the rank right followed by a deletion to remove the remaining elements not in N….”.
-  - This is also pretty neat! Every minor of a matroid M can be written in the form M/I\I*, where I and I* are independent and codependent, respectively, in M. (Lemma 3.3.2)
+  - This is also pretty neat! Every minor of a matroid M can be written in the form M/I\I', where I and I' are independent and codependent, respectively, in M. (Lemma 3.3.2)
   - The last section talks about the properties of flats. A rank-1 flat is a point and a rank-2 flat is a line (see the paper by Geelen and Nelson). This will be probably be discussed more in later chapters of Oxley.
 
 ## Spikes (dissertation by W. Zu. See readings section for link)
@@ -53,6 +53,7 @@ I think that this is what geeks do, in any case. I find it very fulfilling, and 
 Yesterday, I got to walk the dogs in a offshore-oil-worker fire-retardant outfit, which was super rad. One of the dogs (aka the trickster) had an excessive amount
 of energy and kept playing with its water bucket, continually tipping it over and throwing water everywhere and playing with the empty bucket. What a handful; a night dog, with a similar schedule to the one I keep (at least I don't spend my time tipping over buckets of water meant for drinking).
 - What is really nice about Wu (above) is that it follows Oxley's notation (who was Wu's advisor).
+- I had to end up replacing some of the asterisks with prime notation because the rendering is jacked on this site, and I'm not going to import LaTeX for now because this is just a series of notes for myself. I might consider just rendering this in Overleaf and just uploading the image or something at some point, too. That is a consideration (and something I've done in the past).
 
 ## Readings
 - An exhaustive thesis on spikes by W. Zu via their dissertation: [link](https://digitalcommons.lsu.edu/cgi/viewcontent.cgi?article=7770&context=gradschool_disstheses)
