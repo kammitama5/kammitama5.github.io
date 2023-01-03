@@ -31,6 +31,7 @@ four triangles sharing a common element y. Then M is a spike.
 - Oxley showed that all rank-n, 3 connected binary matroids without a 4-wheel minor can be obtained from a binary n-spike by deleting at most two elements.
 Oxley, Vertigan and Whittle used spikes and one other class of matroids to show that, for all q \geq 7, there is no fixed bound on the number of inequivalent GF(q)-representations of a 3-connected matroid, thereby disproving a conjecture of Kahn.
 - Wu showed that spikes, like wheels and whirls, can be characterized in terms of a natural extremal connectivity condition.
+- Note: Federico did go through weak equivalence in his lectures. (pg 44): Two diagonals are distinct if they are not weakly equivalent. Two elements of an n-spike are conjugate if they lie on the same line L_i and neither of them is the tip.
 
 ## Notes
 - I’ve done simple edge and contraction deletion in the past, but it definitely does get trickier with more complex graphs. This chapter was about what happens (in terms of properties, classes, etc) when we use operations of contraction and deletion in our matroid, and what that means for minors of the matroid (ie. another such matroid denoted by N that is obtained from M after these operations). Do the properties hold for the entire structure or are there constraints based on loop vs coloop, etc. This comes from looking at what happens when we delete columns, as we would in an associated matrix. We also look at gammoids and their properties.
