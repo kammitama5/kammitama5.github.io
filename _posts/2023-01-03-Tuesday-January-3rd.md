@@ -33,7 +33,7 @@ Oxley, Vertigan and Whittle used spikes and one other class of matroids to show 
 - Wu showed that spikes, like wheels and whirls, can be characterized in terms of a natural extremal connectivity condition.
 - Note: Federico did go through weak equivalence in his lectures. (pg 44): Two diagonals are distinct if they are not weakly equivalent. Two elements of an n-spike are conjugate if they lie on the same line L_i and neither of them is the tip.
 
-## Matroids Denser than a Clique
+## Matroids Denser than a Clique (Geelen and Nelson)
 - This paper is very interesting, coming with some knowledge of Arithmetic Statistics from Roots of Unity workshop on Arithmetic Geometry / elliptic curves stuff and a teeny bit of extremal graph theory knowledge. Anyways, the paper uses the Growth Rate Theorem and a theorem by Kung. Kung's theorem bounds the number of points in a matroid in U(l) (see 2.1) and the Growth Rate Theorem says that any matroid in U(l) with sufficiently large 'linear' density has a large clique as a minor.
 - They also draw on the Erdös-Stone Theorem and Tutte's Linking Theorem (Geelen, Gerards and Whittle).
 - Tutte's Linking Theorem (as denoted in Thm 2.4). If M is a matroid and X, Y \subset E(M) are disjoint, then M has a minor N with ground set X \cup Y so that N | X = M | X, N | Y = M | Y and \lambda_{N}(X) = \kappa_{M}(X, Y).
