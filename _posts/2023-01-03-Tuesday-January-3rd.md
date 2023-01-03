@@ -15,6 +15,13 @@ Minors
   - This is also pretty neat! Every minor of a matroid M can be written in the form M/I\I*, where I and I* are independent and codependent, respectively, in M. (Lemma 3.3.2)
   - The last section talks about the properties of flats
 
+## Spikes (dissertation by W. Zu)
+- For n \geq 3, a matroid M is called a n-spike with tip p if it satisfies three conditions:
+  - the ground set is the union of n lines, L1, L2,...Ln, all having three points and passing through a common point p.
+  - for all k in {1,2,...n-1}, the union of any k of L1, L2, ... Ln has rank k + 1
+  - r(L1 \cup L2 \cup ... \cup Ln) = n.
+- M \ p is called a spike without tip. The paper refers to spikes without tips as spikes.
+
 ## Notes
 - I’ve done simple edge and contraction deletion in the past, but it definitely does get trickier with more complex graphs. This chapter was about what happens (in terms of properties, classes, etc) when we use operations of contraction and deletion in our matroid, and what that means for minors of the matroid (ie. another such matroid denoted by N that is obtained from M after these operations). Do the properties hold for the entire structure or are there constraints based on loop vs coloop, etc. This comes from looking at what happens when we delete columns, as we would in an associated matrix. We also look at gammoids and their properties.
 - I’ve been interested in the definition of spike. There is a good definition [here](http://matroidunion.org/?p=2394). The post distinguishes specifically tipless spikes. Since the chapter is short, I do want to spend some time having a stronger intuition for spikes, so that will be some of the evening's reading.
