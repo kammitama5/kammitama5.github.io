@@ -14,8 +14,6 @@
   - (Lehman, 1964): Let e be an element of a connected matroid M, and C_e be the set of circuits of M containing e. Then the circuits of M not containing e are the minimal sets of the form ```(C_1 \cup C_2) - \bigcap{C:C \in C_e and C \subset C_1 \cup C_2}```
   - Let u and v be distinct vertices in a 2-connected loop less graph G. Then ```|E(G)|``` cannot exceed the product of the length of a longest (u,v) path and the size of a largest bond separating u from v.
   - The polygon-matroid of a graph G is binary.
-  - Let D be a dendroid of N. For each a \in D we can find a chain f_a of N st. ```||f_a||``` is the atom J(D, a) of M(N). We refer to the set of chains f_a, one for each a \in D, as a dendroid-basis of N. Its weight is the product \Pi_{a \in D} f_a (a).
-  - Let ```B={f_a | a \in D}``` be a dendroid-basis of N of weight w. Let K be any non-zero chain of N. Then wK can be expressed as a linear combination of members of B, with multipliers in R.
 
 ## Tutte’s Lectures on Matroids
 - I do want to do another read of this, probably tonight, since this chapter was also pretty short, although a bit dense. Some of it was recap from
@@ -33,6 +31,8 @@ Federico's lectures.
     - No proper subset of U meets the edge-set of every polygon of G.
 - Dendroids of P(G) (our polygon-matroid) are the complements in E(G) of the edge sets of the principal forest of G.
 - Cells and atoms, dendroids and corresponding dendroid basis
+- Let D be a dendroid of N. For each a \in D we can find a chain f_a of N st. ```||f_a||``` is the atom J(D, a) of M(N). We refer to the set of chains f_a, one for each a \in D, as a dendroid-basis of N. Its weight is the product \Pi_{a \in D} f_a (a).
+- Let ```B={f_a | a \in D}``` be a dendroid-basis of N of weight w. Let K be any non-zero chain of N. Then wK can be expressed as a linear combination of members of B, with multipliers in R.
 - Bond-matroid of a graph
 - Two subsets S and T of a finite set E are called orthogonal if ```|S \cap T| neq 1```.
 - Note that Tutte makes a distinction between a reduction and a contraction (ctr: see 3.1): By deleting the isolated vertices, if any, of G ctr S we obtain from it the reduced contraction G x S = (G ctr S) \cdot S of G to S.
