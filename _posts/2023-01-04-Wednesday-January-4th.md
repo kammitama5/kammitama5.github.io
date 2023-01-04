@@ -1,4 +1,4 @@
-## Matroids Chapter 5: Connectivity
+## Matroids Chapter 4 & 5 : Connectivity and Graphic Matroids
 
 ## Connectivity notes
 - Connectivity
@@ -38,10 +38,38 @@ Federico's lectures.
 - Note that Tutte makes a distinction between a reduction and a contraction (ctr: see 3.1): By deleting the isolated vertices, if any, of G ctr S we obtain from it the reduced contraction G x S = (G ctr S) \cdot S of G to S.
 - Every minor of a minor of N is a minor of N. 
 
+## Graphic Matroids
+- Graphic Matroids
+ - Whitney’s 2-Isomorphism Theorem is the main takeaway from this chapter.
+ - To prove: every graphic matroid is representable over every field and that every graphic matroid is regular.
+ - Let A be a (0, \pm 1)-matrix in which every column has at most one 1 and one -1. Then A is totally uni modular.
+ - The r-spoked wheel example is fantastic and reminds me of the C_n chromatic polynomials we did in class, or some kind of symmetric function. Anyways: For r \geq 2, let W_r denote the r-spoked wheel graph. The edges b_1, b_2, …, b_r are its spokes, the vertex h is its hub, and the cycle with edge set ```{a_1, a_2, …a_r}``` is its rim. Let ```{b_1, b_2, …, b_r}``` be the distinguishable basis of M(W_r) and orient all these edges away from the hub. Thus, orienting the rim clockwise, we obtain the representation for M(W_r), where, if F has characteristic two, all negative entries change sign. Now, let r be even and reverse the orientation on each of b_2, b_4, …b_r and each of a_2, a_4, …, a_r. Then, we obtain the same representation except that all the negative entries have their sign changed.
+ - 5.2.1 is a really neat proof! This is that of the geometric dual of the planar graph G using planar embeddings of G.
+ - Prop 5.2.3: Let G and H be graphs without isolated vertices s.t. G is an abstract dual of H, and M(H) is connected. Then there are planar embeddings of G and H s.t. each is the geometric dual of the other. 
+ - Wagner’s variant of Kuratowski’s Theorem (which we know well now!): A graph is planar iff it has no minor isomorphic to K5 or K3,3 (aka the troublemaker graphs)
+ - In the section on Whitney’s 2-Iso Theorem, they mention vertex cleaving, which is the reverse of the previously defined vertex identification (i.e. vertex identification: Let v and v’ be vertices of distinct components of G. We modify G by identifying v and v’ as a new vertex \overline{v}. The diagram (5.8) shows pretty well the differences between vertex identification and vertex cleaving. I think of cleaving like taking a cleaver to.
+ - They identify the Whitney twist aka twisting, which makes sense (it’s a twist!). G_1 and G_2 are called pieces of the twisting.
+ - The 2-isomorphic Graph is shown as a sequence of operations and is due to Whitney’s 1933 paper. Theorem: Let G and H be graphs having no isolated vertices. Then M(G) and M(H) are isomorphic iff G and H are 2-isomorphic.
+ - For the proof of 5.3.2, Oxley says “First note that if J is a loop less block, a hyperplane of M(J) can only be connected if the complementary cocircuit is a vertex bond. Moreover, if M(J) has exactly ```|V(J)|``` connected hyperplanes, then, up to relabelling, M(J) determines the mod-2 vertex-edge incidence matrix of J, and so uniquely determines J.
+ - Generalised cycle: for k \geq 2, a connected graph G is called a generalised cycle with parts G_1, G_2, …, G_k if the following conditions hold:
+    - Each G_1 is a connected subgraph of G having a non-empty edge set, and, if k = 2, both G_1 and G_2 have at least three vertices
+    - The edge sets of G_1, G_2, …, G_k partition the edge set of G, and each G_i shares exactly two vertices, its contact vertices, with \bigcup_{j \neq i} G_j.
+    - If each G_i is replaced by an edge joining its contact vertices, the resulting graph is a cycle.
+ - Proof 5.3.1: Proof of Whitney’s 2-Isomorphic Theorem is pretty sick! I almost feel like I”m in a Topology class or something. It’s wicked. Using stereographic projection, go figure.
+ - Series parallel networks sounds like electrical engineering stuff to me! The graph-theoretic operations of series and parallel extension generalise immediately to matroids. Oh good. Bixby Stan-ned Kuratowski, clearly.
+ - Wonk wonk no commute. That is wrong. How can you even have a result?
+ - Wagner (1937) showed that one can also characterise planar graphs in terms of excluded parallel minors. 
+ - Lemma 5.4.8: Let G be a planar graph and H be an abstract dual of G. Then, corresponding to every series extension G’ of G, there is a parallel extension H’ of H which is an abstract dual of G’. Moreover, every parallel extension of H is an abstract dual of some series extension of G.
+ - (Dirac 1952, Ádám 1957, Duffin 1965): A graph G with at least one edge is a series-parallel network iff G is a block having no subgraph that is a subdivision of K4.
+
+
 ## Notes
 - Oh sweet! I found some NIST files on Tutte’s Matroids Lectures while looking up more on bonds. See page 5 for this of the lectures [link](https://nvlpubs.nist.gov/nistpubs/jres/69B/jresv69Bn1-2p1_A1b.pdf)
 - This particular paper is very, very interesting! It is definitely on my list as a paper that deserves several readings. And the proofs and definitions are not too difficult to follow. It would be nice to go over the definitions again and prove them myself at some point, even though this is not the goal of the time I have at the moment reading this.
+- So I added the following chapter because I realized the following one on Representable Matroids is super long, and 5 was short.
 
 ## Readings
 - Tutte’s Lectures : [link](https://nvlpubs.nist.gov/nistpubs/jres/69B/jresv69Bn1-2p1_A1b.pdf)
+- Cook et al (1998). So it looks like a Combinatorics journal. Good luck with that.
+
 
