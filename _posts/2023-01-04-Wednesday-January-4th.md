@@ -1,6 +1,6 @@
 ## Matroids Chapter 4 & 5 : Connectivity and Graphic Matroids
 
-## Connectivity notes
+## Connectivity notes (Chapter 4)
 - Connectivity
   - Let G_1, G_2 and G_3 be three graphs who have 1, 2, and 3 components respectively (see 4.2). We see that M(G_1) \cong M(G_2) \cong M(G_3). A matroid is M is connected iff for every pair of distinct elements of E(M), there is a circuit containing both. The connected components of the matroids M(G_1), M(G_2) and M(G_3) are isomorphic to M(G_{3,1}), M(G_{3,2}) and M(G_{3,3}). In general, a Block is a connected graph whose cycle matroid is connected. Clearly, a loop less graph is a block iff it is connected and has no cut vertices. By prop 4.1.1., a block with at least 3 vertices is 2-connected. A block of a graph is a subgraph that is a block and is maximal with this property (this reminds me a lot of components and block decomposition from Graph Theory I).
   - If we have a connected loop less graph G with more than 2 vertices and G is 2-connected, it means that for every set of edges (for every vertex of G) meeting at v is a bond.
@@ -38,7 +38,7 @@ Federico's lectures.
 - Note that Tutte makes a distinction between a reduction and a contraction (ctr: see 3.1): By deleting the isolated vertices, if any, of G ctr S we obtain from it the reduced contraction G x S = (G ctr S) \cdot S of G to S.
 - Every minor of a minor of N is a minor of N. 
 
-## Graphic Matroids
+## Graphic Matroids (Chapter 5)
 - Graphic Matroids
  - Whitney’s 2-Isomorphism Theorem is the main takeaway from this chapter.
  - To prove: every graphic matroid is representable over every field and that every graphic matroid is regular.
@@ -66,7 +66,7 @@ Federico's lectures.
 ## Notes
 - Oh sweet! I found some NIST files on Tutte’s Matroids Lectures while looking up more on bonds. See page 5 for this of the lectures [link](https://nvlpubs.nist.gov/nistpubs/jres/69B/jresv69Bn1-2p1_A1b.pdf)
 - This particular paper is very, very interesting! It is definitely on my list as a paper that deserves several readings. And the proofs and definitions are not too difficult to follow. It would be nice to go over the definitions again and prove them myself at some point, even though this is not the goal of the time I have at the moment reading this.
-- So I added the following chapter because I realized the following one on Representable Matroids is super long, and 5 was short.
+- So I added the following chapter because I realized the following one on Representable Matroids is super long, and 5 was short. Chapter 5 was a very interesting read!
 
 ## Readings
 - Tutte’s Lectures : [link](https://nvlpubs.nist.gov/nistpubs/jres/69B/jresv69Bn1-2p1_A1b.pdf)
