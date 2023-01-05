@@ -17,7 +17,7 @@ Representable Matroids
 - Modularity of Lattices: Coroll 6.1.9: L(PG(r - 1, q) is a lattice that looks the same upside down as it does right side up. A geometric lattice with this property is an example of a modular lattice, an arbitrary lattice L being modular if it satisfies the Jordan-Dedekind chain condition, and \forall x,y \in L, h(x) + h(y) = h(x \vee y) + h(x \wedge y). 
 - Note: Rank vs number of flats in each rank diagram (Fig 6.2) for L(PG(r - 1,q))
 - F is a field, then the non-Papps matroid is not F-representable (Federico did discuss this: the 6.1.11) The proof is via Hughes and Piper (1973).
-- Matroid reconstruction (which seems really interesting), will be discussed in Chat 15.
+- Matroid reconstruction (which seems really interesting), will be discussed in Chapter 15.
 - The non-Desargues matroid.
 - The chapter also recommends Ingleton (1971) for matroids representable over division rings.
 - Affine Geometries (class of symmetric matroids): Let n be an integer exceeding -2. The affine geometry AG(n, F) is obtained from PG(n, F) by deleting all the points of a hyperplane of the latter.
@@ -45,7 +45,7 @@ Representable Matroids
 - This was a neat find! Apparently the non-Desargues matroid is involved in secret sharing schemes? 
 - So this is a long chapter; it's about 100 pages long. I am splitting it up into 2 sets of notes based on 50 pages each. I also will add some of the
 notes on the papers I listed below, probably in (b) as well. It's a very enjoyable chapter in that it's pretty algebraic. I really enjoyed the 
-tie-in to abelianness of properties (hello Algebra I!).
+tie-in to abelianness of properties (hello Algebra I!). Once again, excuse the typos.
 
 ## Readings
 - Dembrowski (1968)
@@ -55,7 +55,7 @@ tie-in to abelianness of properties (hello Algebra I!).
 ## Other
 - We started back doing an hourly walk in the early AM, and today was very busy for me. I try to keep going until I tap out, because I'm just going 
 I tend to keep going and going for all hours (also why I'm a huge fan of listening to music generally, especially progressive house (or classical) and that sort of thing
-because I need something to "empty" my brain at the end of the day, and that seems to do the trick).
+because I need something to "empty" my brain at the end of the day, and that seems to do the trick). I also tend to watch streamers occasionally late at night to unwind (Fortnite, League, etc).
 - Anyways, mornings are trash for me, in general.
 
 ## Part B...to be done.
