@@ -53,7 +53,7 @@ tie-in to abelianness of properties (hello Algebra I!). Once again, excuse the t
 - This seems like a tough paper: Hochstättler W. And Kromberg S., “A Pseduoconfiguration of Points without Adjoint” (1995): [link](https://www.math.ucdavis.edu/~deloera/MISC/LA-BIBLIO/trunk/Hochstatler.pdf)
 
 ## Other
-- We started back doing an hourly walk in the early AM, and today was very busy for me. I try to keep going until I tap out, because I'm just going 
+- We started back doing an hourly walk in the early AM, and today was very busy for me. I try to keep going until I tap out, because once I'm just going 
 I tend to keep going and going for all hours (also why I'm a huge fan of listening to music generally, especially progressive house (or classical) and that sort of thing
 because I need something to "empty" my brain at the end of the day, and that seems to do the trick). I also tend to watch streamers occasionally late at night to unwind (Fortnite, League, etc).
 - Anyways, mornings are trash for me, in general.
