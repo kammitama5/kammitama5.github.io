@@ -50,7 +50,7 @@ tie-in to abelianness of properties (hello Algebra I!). Once again, excuse the t
 ## Readings
 - Dembrowski (1968)
 - Martí-Farré, J., Padró, C., “On Secret Sharing Schemes, Matroids and Polymatroids” (2007). [link](https://iacr.org/archive/tcc2007/43920273/43920273.pdf)
-- This seems like a tough paper: Hochstättler W. And Kromberg S., “A Pseduoconfiguration of Points without Adjoint” (1995): [link](https://www.math.ucdavis.edu/~deloera/MISC/LA-BIBLIO/trunk/Hochstatler.pdf)
+- This seems like a paper that requires focus. I originally thought it might be tough, but after reading the chapter, it's totally doable!: Hochstättler W. And Kromberg S., “A Pseudoconfiguration of Points without Adjoint” (1995): [link](https://www.math.ucdavis.edu/~deloera/MISC/LA-BIBLIO/trunk/Hochstatler.pdf)
 
 ## Other
 - We started back doing an hourly walk in the early AM, and today was very busy for me. I try to keep going until I tap out, because once I'm just going 
