@@ -1,7 +1,7 @@
 ## Week 3: Chapter 6(b): Representability
 
 ## Starting from Rota's Conjecture
-We start from pg 196, The 6.5.9
+We start from pg 196, Theorem 6.5.9
 - Rota’s conjecture: For all prime powers q, the set of excluded minors for GF(q)-representability is finite.
 - We use spikes (following Geelen and Whittle) to ask what happens when the converse of Rota’s conjecture holds.
 - Lemma 6.5.13: Let r be an integer exceeding three and F be a field. Let M be a rank-r spike with legs ```{t, x_1, y_1}, {t, x_2, y_2}, {t, x_2, y_r}``` and let N = M \ t. Then M is F-representable iff N is F-representable.
