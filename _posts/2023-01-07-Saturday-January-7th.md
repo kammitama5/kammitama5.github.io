@@ -80,4 +80,4 @@ Notes
 ## Readings (from before)
 - Hirschfeld J.W.P, (1997): survey paper, “Complete Arcs”: [link](https://www.sciencedirect.com/science/article/pii/S0012365X96003305)
 - Martí-Farré, J., Padró, C., “On Secret Sharing Schemes, Matroids and Polymatroids” (2007). [link](https://iacr.org/archive/tcc2007/43920273/43920273.pdf)
-- This seems like a tough paper: Hochstättler W. And Kromberg S., “A Pseduoconfiguration of Points without Adjoint” (1995): [link](https://www.math.ucdavis.edu/~deloera/MISC/LA-BIBLIO/trunk/Hochstatler.pdf) 
+- Hochstättler W. And Kromberg S., “A Pseduoconfiguration of Points without Adjoint” (1995): [link](https://www.math.ucdavis.edu/~deloera/MISC/LA-BIBLIO/trunk/Hochstatler.pdf) 
