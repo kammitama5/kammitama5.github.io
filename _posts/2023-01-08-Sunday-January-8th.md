@@ -81,7 +81,7 @@ as I can. I definitely can see it as a book I have forever on my shelf (nope, no
 - Also, We finally got to Tutte’s Wheels and Whirls Theorem, which explained some questions I had about rank 3 business. The chapter did begin by saying that we address the question specifically on when n, for the property of our n-connectedness on graphs, is 3.
 
 ## Readings (I'm going to do this evening..and a video!)
-- For brush up on fans, Macaulay has a nice section [link](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.18/share/doc/Macaulay2/Matroids/html/_flats.html)
+- For brush up on fans (matroids; no photos of feet here), Macaulay has a nice section [link](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.18/share/doc/Macaulay2/Matroids/html/_flats.html)
 - I found a nice write-up by Prideaux that might be helpful (2016) [link](https://core.ac.uk/download/pdf/45830556.pdf)
 - Paper by Young P. And Edmonds J. on “Matroid Designs” (1972): [link](https://nvlpubs.nist.gov/nistpubs/jres/77B/jresv77Bn1-2p15_A1b.pdf)
 - For Wheels and Whirls, Coullard C. And Oxley J., “Wheels-and-Whirls Theorem” [link](https://www.math.lsu.edu/~oxley/co_92.pdf)
