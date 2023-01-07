@@ -3,7 +3,7 @@
 ## Pre-Note
 - These are a bit simpler, because a lot of the content is just in the book and maybe it’s just me, but I really needed to go over this quite a few times, and still think I would benefit from going it over again. The past chapters felt a bit more like going for a jog around a neighbourhood park (doable but you might be out of breath afterwards), and this felt like being asked to jog up a mountain (whaat? I’m that out of shape? I thought I was going to die doing this)
 - A highlight and something to look forward to in this chapter is MATH DRAMA.
-- Wheels and Whirls makese sense to discuss in the chapter on higher connectivity, because the theorem deals with what happens when edges are contracted or deleted. You can see in the reading section, a paper by Coullard and Oxley that talks a bit about this.
+- "Wheels and Whirls" (the theorem) makes sense to discuss in the chapter on higher connectivity, because the theorem deals with what happens when edges are contracted or deleted. You can see in the reading section, a paper by Coullard and Oxley that talks a bit about this.
 - Next is binary matroids. Do these have something to do with field arithmetic or…I guess I’ll find out..soon.
 - My notes keep capitalizing i, in say, s_i, which is super annoying, so sorry for typos! (go buy the book if you want precision; these are just first pass notes
 before my class).
