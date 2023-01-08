@@ -80,12 +80,15 @@ as I can. I definitely can see it as a book I have forever on my shelf (nope, no
 - Finally, there are a lot of proofs that use case-analysis in this chapter (e.g. prove that X is exactly Y, so it’s not Y - 1, or Y + 1). This also lengthens the chapter.
 - Also, We finally got to Tutte’s Wheels and Whirls Theorem, which explained some questions I had about rank 3 business. The chapter did begin by saying that we address the question specifically on when n, for the property of our n-connectedness on graphs, is 3.
 
-## Readings (I'm going to do this evening..and a video!)
+## Readings (read today..and a video!)
 - For brush up on fans (matroids; no photos of feet here), Macaulay has a nice section [link](http://www2.macaulay2.com/Macaulay2/doc/Macaulay2-1.18/share/doc/Macaulay2/Matroids/html/_flats.html)
 - I found a nice write-up by Prideaux that might be helpful (2016) [link](https://core.ac.uk/download/pdf/45830556.pdf)
 - Paper by Young P. And Edmonds J. on “Matroid Designs” (1972): [link](https://nvlpubs.nist.gov/nistpubs/jres/77B/jresv77Bn1-2p15_A1b.pdf)
 - For Wheels and Whirls, Coullard C. And Oxley J., “Wheels-and-Whirls Theorem” [link](https://www.math.lsu.edu/~oxley/co_92.pdf)
 - MatU has a talk by Semple C that might be worth checking out [post link](http://matroidunion.org/?p=3902)
 - Actual video for that talk is [here](https://www.youtube.com/watch?v=26wiEaqEi9U). Hilarious that I already sub to this channel on YT!
+- I also found two papers from reading the Coullard and Oxley one:
+    - Seymour, P.D. "Decomposition of Regular Matroids", [link](https://core.ac.uk/download/pdf/81976372.pdf)
+    - Tutte, W.T., "Connectivity in Matroids", [link](https://www.cambridge.org/core/journals/canadian-journal-of-mathematics/article/connectivity-in-matroids/601A9AE33C13044EA370223AD9D951F0#)
 
 
