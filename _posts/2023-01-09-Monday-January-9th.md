@@ -14,7 +14,7 @@
 - Theorem 9.1.1: If e is an element of an independent set I of a matroid M, then M has a cocircuit C’ s.t. ```C’ \cap I = {e}```.
 - For a matroid M, these statements are equivalent:
     - M is binary
-    - If C is a circuit and C’ is a cocircuit, then ```{C \cap C’|``` is even.
+    - If C is a circuit and C’ is a cocircuit, then ```{C \cap C’}``` is even.
     - If C_1 and C_2 are distinct circuits, then C_1 \triangle C_2 contains a circuit.
     - If C_1 and C_2 are circuits, then C_1 \triangle C_2 is a disjoint union of circuits.
     - The symmetric difference of any set (1) is either empty (2) contains a circuit
