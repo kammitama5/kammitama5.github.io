@@ -52,3 +52,4 @@ Two things that seem to be unsolved (but I did not check in to whether they stil
 ## Readings
 - Tutte W. T. “An Algorithm for Determining Whether a Given Binary Matroid is Graphic [link](https://www.ams.org/journals/proc/1960-011-06/S0002-9939-1960-0117173-5/S0002-9939-1960-0117173-5.pdf)
 - Qu Z. “On Tutte’s Algorithm for Recognising Binary Graphic Matroids”, [link](https://h3turing.vmhost.psu.edu/mspapers/sources/zhaoxia-qu.pdf)
+- Bonus paper I found in the bib of the Tutte paper: Tutte, W. T. "A class of Abelian Groups"
