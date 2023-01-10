@@ -1,7 +1,7 @@
 ## Week 4: Chapter 10 (Excluded Minor Theorems)
 
 ## Pre-Notes
-- In this chapter, they prove the ternary matroid result. Interestingly, I found out today that we’re using a mix of Oxley, Schrijver and some others for our class, and the chapter starts by mentioning the Schrijver book, which focus on bridging the gap to show the relationship between things like polytopes, linear programming and convex optimisation.
+- In this chapter, they prove the ternary matroid result. Interestingly, I found out today that we’re using a mix of Oxley, Schrijver and some others for our class, and the chapter starts by mentioning the Schrijver book, which focuses on bridging the gap to show the relationship between things like polytopes, linear programming and convex optimisation.
 - I’m probably just going to make it through the Truemper paper tonight. The Truemper paper is pretty easy to find. The Ingleton one was paywalled for me.
 I might check back to see if it's just an institutional thing, but it didn't look so, which kind of sucked (wonk wonk) as I'd like to read it!
 
@@ -34,7 +34,7 @@ I might check back to see if it's just an institutional thing, but it didn't loo
 - A matroid is singable iff it is regular.
 - A matroid is transversal iff all of its series minors are transversal (proof due to Piff (1972).
 - Finally… These statements are equivalent for a matroid M:
-    - M is a graphic ganoid
+    - M is a graphic gammoid
     - M is a regular gammoid
     - M is a binary gammoid
     - M has no minor isomorphic to ```U_{2, 4} or M(K_4)```
@@ -43,5 +43,5 @@ I might check back to see if it's just an institutional thing, but it didn't loo
 - I noticed hilariously that the book not only has notation, but a whole section called “Some interesting matroids”. Something about this feels like I am taking an origami class.
 
 ## Readings
-- Truemper K., “A Decomposition Theory for Matroids. VII. Analysis of Minimal Violation Matrices” (1992)
+- Truemper K., “A Decomposition Theory for Matroids. VII. Analysis of Minimal Violation Matrices” (1992) (complete)
 - Singleton, A.W. (1977), “Transversal Matroids and Related Structures”
