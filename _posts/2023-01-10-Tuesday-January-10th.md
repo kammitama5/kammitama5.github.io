@@ -44,4 +44,4 @@ I might check back to see if it's just an institutional thing, but it didn't loo
 
 ## Readings
 - Truemper K., “A Decomposition Theory for Matroids. VII. Analysis of Minimal Violation Matrices” (1992) (complete)
-- Singleton, A.W. (1977), “Transversal Matroids and Related Structures”
+- Ingleton, A.W. (1977), “Transversal Matroids and Related Structures”
