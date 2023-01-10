@@ -12,7 +12,7 @@ I might check back to see if it's just an institutional thing, but it didn't loo
 - If D is a matrix, then ```D#``` is the matrix obtained from replacing every non-zero entry by a one from D. Then we let Y be a (0,1) matrix. A signing of Y is a real matrix Z having every entry in {0, 1, -1} s.t. Z# = Y. So every signing of Y can be obtained from Y by changing some of its entries from 1 to -1.
 - For a (0,1) matrix ```[I_r|X]```:
     - X has no totally uni modular signing
-    - When viewed over GF(2), the matrix ```[I_r|X]``` can be transformed into ```[I_3|X_F]``` or ```[I_4|X^{T}_{F}] by a sequence of (1) deleting rows or columns (2) permuting rows or columns (3) pivoting.
+    - When viewed over GF(2), the matrix ```[I_r|X]``` can be transformed into ```[I_3|X_F]``` or ```[I_4|X^{T}_{F}]``` by a sequence of (1) deleting rows or columns (2) permuting rows or columns (3) pivoting.
 - We demonstrate a proof of the above lemma by using a simple bipartite graph associated with a (0,1) matrix X. The following lemma proves that G has properties s.t. when two distinct vertices from the same vertex class are deleted, a disconnected graph results. This tells us that G is either a path or a cycle. Proof by contradiction.
 - Lemma (10.1.6): Let D be an n x n matrix ```[d_{ij}]``` with entries in {0, 1, -1}. If ```G(D#)``` is a cycle, then D is totally unimodular iff the number of negative entries in D is congruent to n modulo 2.
 - The idea for the proof is that if we permute rows and columns, we can transform ```D -> D_1```. We expect that after we permute, our submatrix ```D’``` has a determinant in {0, 1, -1}, which tells us that D is unimodular.
