@@ -56,7 +56,7 @@ as graphs (say G_1 and G_2) and then I can think about their tensor products and
 knows how long I can use this analogy. I can totally see how Quantum Graph Theory is a thing, though!
 - I'm also not going to lie; this is the first chapter I thought you know, this could be a thing I could write in say, Haskell, and describe operations over, as the types are Vectors. And then I could check if my answers are correct based on the operations. Because the operations seem very mappable.
 So like, for different types of mappings, the constraint would be something like, the matrix has to be the same size, or whatever. And this mapping could
-be a type of product, e.g. Kronecker or whatever.
+be a type of product, e.g. Kronecker or whatever. And one could easily check things like congruency, or ```isHermitian``` or something.
 
 ## Readings
 - Bonin J., De Mier A., Noy M., (2002), “Lattice Path Matroids: Enumerative Aspects and Tutte Polynomials”, [link](https://arxiv.org/pdf/math/0211188.pdf) or [link](https://web.mat.upc.edu/marc.noy/uploads/2013/05/LP-matroids.pdf)
