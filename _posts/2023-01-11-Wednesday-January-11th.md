@@ -49,7 +49,7 @@ resources tomorrow during the day.
 
 ## Other
 - Went to the Quantum group today. We are on chapter 2! We were talking about Tensor Products today and math3ma has a great blog post on tensor products! [link](https://www.math3ma.com/blog/the-tensor-product-demystified).
-- We also spoke about Quantum Mechanics and L2 norms and the complex conjugate that behaves like a norm of the function. We decided upon working on the exercises that our off-weeks should be used for study on our Discord. We’re working out sharing and collaborative working with the group for our formal meetings, because with all this tensor operation stuff and bra ket notation, we kind of need to draw matrices.
+- We also spoke about Quantum Mechanics and L2 norms and the complex conjugate that behaves like a norm of the function. We decided upon working on the exercises that our off-weeks should be used for study on our Discord. We’re working out document-sharing (and collaboratively working) with the group for our formal meetings, because with all this tensor operation stuff and bra ket notation, we kind of need to draw matrices.
 - What was really wild about the first time I read chapter 2 on my own was how much it reminded me of Spectral class! When they talk about matrices, I imagine them
 as graphs (say G_1 and G_2) and then I can think about their tensor products and that sort of thing. There is even spectral decomposition. But who
 knows how long I can use this analogy. I can totally see how Quantum Graph Theory is a thing, though!
