@@ -54,6 +54,7 @@ talking about if this is the same as dot product or if this notation is the same
 - What was really wild about the first time I read chapter 2 on my own was how much it reminded me of Spectral class! When they talk about matrices, I imagine them
 as graphs (say G_1 and G_2) and then I can think about their tensor products and that sort of thing. There is even spectral decomposition. But who
 knows how long I can use this analogy. I can totally see how Quantum Graph Theory is a thing, though!
+- I'm also not going to lie; this is the first chapter I thought you know, this could be a thing I could write in say, Haskell, and describe operations over, as the types are Vectors. And then I could check if my answers are correct based on the operations. Because the operations seem very mappable.
 
 ## Readings
 - Bonin J., De Mier A., Noy M., (2002), “Lattice Path Matroids: Enumerative Aspects and Tutte Polynomials”, [link](https://arxiv.org/pdf/math/0211188.pdf) or [link](https://web.mat.upc.edu/marc.noy/uploads/2013/05/LP-matroids.pdf)
