@@ -30,11 +30,15 @@ undergrad; that is, they also have attended undergrad there, or in a handful of 
 in Pure Maths who are from the other coast, or all over the country (and who are internationals from continents like Asia and Africa), and even though I did not immediately pick this up, I almost immediately found
 a better fit with them. I would argue that having a mix of students is key to challenging assumptions of students who have only exposed themselves
 to a limited world view, a limited expectation of what navigating ambiguity and solving a problem looks like.
+- Everything about the structure of the institution, and how classes are taught, and how research is encouraged, I often think, must feel *familiar* to 
+someone from this region, in a way that someone who isn't will have to navigate and initially struggle. And so, it makes sense that persons at this place often stay within
+this region, and set roots down here, whether they continue in academia or they do not.
 - This chapter (12) covered Seymour’s Splitter Theorem. It’s a fairly shorter chapter; I read it in a doctor’s office today, while waiting for a health check-up, if that helps any. Interestingly, that particular office is very comfortable for reading and the consistent hum of the air conditioning unit is such that it’s very easy to focus. Not sure why that is, but here we are. I vowed to take a nap and read it again in the evening, though.
 - I also got through some of the papers from yesterday in the wee hours of the morning this morning. They were super interesting! 
 
 ## Today
 - Seymour’s Splitter Theorem is a generalisation of Tutte’s Wheels and Whirls Theorem. The Wheels and Whirls Theorem determines when we can find some element in a 3 connected matroid M to delete or contract in order to preserve 3 connectedness. The Splitter Theorem considers when such an element removal is possible that will not only preserve 3 connectedness, but will also maintain the presence of an isomorphic copy of some specified minor of M. 
 - I will actually not be covering this chapter today here, although I did go over it on my own. I just wanted to write my thoughts today, and will continue with notes as usual on chapter 13 tomorrow!
+- One neat thing I did find is while ago that I forgot to mention is that the Appendix has a whole glossary of graphs, which is super helpful!
 
 ## And that's it.
