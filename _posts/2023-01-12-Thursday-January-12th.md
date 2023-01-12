@@ -26,7 +26,7 @@ is today).
 - I struggle with this a LOT in my current institution. It has been my experience that many of the students in grad school are filtered up from 
 undergrad; that is, they also have attended undergrad there, or in a handful of the states nearby. So in many ways, for an advisor (or fellow student peers), they might feel
 "familiar" in a way that it is easy to discount the ability and potential of someone who is not. Interestingly, there is a fair mix of grad students
-in Pure Maths who are from the other coast, or all over the country, and even though I did not immediately pick this up, I almost immediately found
+in Pure Maths who are from the other coast, or all over the country (and who are internationals from continents like Asia and Africa), and even though I did not immediately pick this up, I almost immediately found
 a better fit with them. I would argue that having a mix of students is key to challenging assumptions of students who have only exposed themselves
 to a limited world view, a limited expectation of what navigating ambiguity and solving a problem looks like.
 - This chapter (12) covered Seymour’s Splitter Theorem. It’s a fairly shorter chapter; I read it in a doctor’s office today, while waiting for a health check-up, if that helps any. Interestingly, that particular office is very comfortable for reading and the consistent hum of the air conditioning unit is such that it’s very easy to focus. Not sure why that is, but here we are. I vowed to take a nap and read it again in the evening, though.
