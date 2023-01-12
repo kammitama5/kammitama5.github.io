@@ -33,6 +33,9 @@ to a limited world view, a limited expectation of what navigating ambiguity and 
 - Everything about the structure of the institution, and how classes are taught, and how research is encouraged, I often think, must feel *familiar* to 
 someone from this region, in a way that someone who isn't will have to navigate and initially struggle. And so, it makes sense that persons at this place often stay within
 this region, and set roots down here, whether they continue in academia or they do not.
+- I was also thinking recently about differences in advising. I really like the kind that feels more like a conversation, where the student can sort of graze through a field of information, rather one that is too "top-down". If the student has the right mindset (i.e. that the whole point of this is so that
+they can engage in research independently), they can experience a much deeper understanding of the field and with more drive for a problem at hand 
+rather than being assigned one. But that also takes a degree of trust from an advisor, and a degree of maturity on the part of the student, and well, time.
 - This chapter (12) covered Seymour’s Splitter Theorem. It’s a fairly shorter chapter; I read it in a doctor’s office today, while waiting for a health check-up, if that helps any. Interestingly, that particular office is very comfortable for reading and the consistent hum of the air conditioning unit is such that it’s very easy to focus. Not sure why that is, but here we are. I vowed to take a nap and read it again in the evening, though.
 - I also got through some of the papers from yesterday in the wee hours of the morning this morning. They were super interesting! 
 
