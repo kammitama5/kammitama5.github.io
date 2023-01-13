@@ -38,9 +38,25 @@
     - A branch decomposition of a metric M on a finite ground set E is a cubic tree s.t. E labels a set of the leaves of T (were no leaf has more than 1 label, but there may be unlabelled leaves).
 
 ## Summary Three
+- On internally 4-connected non-regular binary matroids
+    - The paper’s goal is to prove that for every internally 4 connected non regular binary matroid other than ```F_7 and F*_7```, there is a minor of one of the following ```K_5, K*_5, N_10, T_12 \ e and T_12 / e```. They also prove two other theorems: one related to Tutte’s characterization of graphic matroids and a conjecture by Dharmatilake on excluded minors for the class of binary matroids with branch width of at most 3.
+    - Great! They use Oxley’s notation.
+    - They start by stating that Seymour’s Decomposition Theorem for regular matroids implies that an internally 4 connected regular matroid that is not graphic or cogxaphic is isomorphic to R_10.
+    - A number of propositions set us up for the proof. Then proof by contradiction.
+    - Kingan discovered that the matroid ```T_12``` was a splitter for the class of binary matroids with no ```M(K_{3,3}) or M*(K_{3,3})``` minor. It is also self-dual and Tutte 4 connected.
+    - Even more, Kingan showed that T_12 has a transitive automorphism group. There is a unique single element contraction of T_12, (denoted ```T_12 / e```) and ```T_12 / e and T_12 \ e``` are duals of each other and both are internally 4 connected.
+    - Theorem 2.1 by way of Kingan says that ```M(K_5), T_12 / e``` and ```T_12``` are the only 3 connected binary matroids with an M(K_5) minor that have no ```M(K_{3,3}) or M*(K_{3,3})``` minor.
+    - 1 joins, 2 joins, 6 joins, M joins: A 1 join in a graph G is a partition (X, Y) of V(G) s.t. the set of all edges with one end in X and the other end in Y induced a complete bipartite graph. A rank 2 join in G is a 2 join, a 6 join, or an M join.
+    - Blocking sequences: used to determine the excluded minors for the class of GF(4) representable matroids.
+    - Def (3.3) Let ```N = M[X \cup Y, B]``` be a minor of M and let (X, Y) be an exact 3 separation of N. A sequence ```v_1, v_2, …, v_p``` of elements in ```E(M)\X \cup Y``` is a blocking sequence for (X,) wrt be if:
+    - (A) ```(X, Y \cup {v_1})``` is not a 3 separation of ```M[X \cup Y \cup {v_1}, B]```
+    - (B) ```(X \cup {v_i}, Y \cup {v_i + 1})``` is not a 3 separation of ```M[X \cup Y \cup {v_i, {v_i + 1}}, B]``` for all ```i \in {1, 2, …, p - 1}```.
+    - (c) ```(X \cup {v_p}, Y)``` is not a 3 separation of ```M[X \cup Y \cup {v_p}, B]```
+    - (d) no proper subsequence of ```v_1, v_2, …, v_p``` satisfies (a), (b), and (c)
 
 
 ## Notes
-- First pass of 2 papers ```(1/ 12/ 2023)```
-- Second pass ```(1 / 13/ 2023)```
+- First pass of 2 papers ```(1/ 12/ 2023)``` : added first pass of Summary 1 and Summary 2
+- Second pass ```(1 / 13/ 2023)```: added first pass of Summary 3
+- Third pass TBD
 
