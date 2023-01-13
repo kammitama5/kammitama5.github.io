@@ -19,7 +19,7 @@
     - 3.4 Defines what happens when we apply contraction, truncation and reduction (we can think of these operations as mappings between ```F and F’``` etc). Since the set fancy F of flats of a matroid M includes E and is closed under intersections, fancy F may be viewed as a lattice, ordered by inclusion. Such a lattice is called a matroid lattice, or geometric lattice. M-points, simple points, simple flats, \alpha inflation and deflation are defined. Showing that there are isomorphisms between lattices : if M is a PMD whose points have cardinality \alpha, then there exists an \alpha deflation of ```M’``` of M s.t. ```M’``` is simple, and the lattices of M and ```M’``` are isomorphic.
     - Ohhh…a trivioid is a trivial matroid. LOL. They define and prove a bunch of things about it.
 
-## Summary Two
+## Summary Two 
 - Bridging Separations in Matroids
     - We start with defining a k-separation of a matroid, and identify what an M-bridge is. Logic tells us that we should expect that our upper bound on a minor minimal bridge would not be larger than N. However, there are instances where this is not the case, specifically, instances in which one can construct arbitrarily large minor-minimal bridges. The paper talks about a class of matroids representable over a fixed finite field and demonstrates that a minor-minimal bridge is bounded in size.
     - R_10 or R_12 are 3-connected regular matroids that are neither graphic nor cographic. So this can tell us via a process of elimination if we find certain properties of a 3-connected matroid what our matroid is.
