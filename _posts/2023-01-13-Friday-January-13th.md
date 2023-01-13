@@ -20,9 +20,26 @@
     - Ohhh…a trivioid is a trivial matroid. LOL. They define and prove a bunch of things about it.
 
 ## Summary Two
-
+- Bridging Separations in Matroids
+    - We start with defining a k-separation of a matroid, and identify what an M-bridge is. Logic tells us that we should expect that our upper bound on a minor minimal bridge would not be larger than N. However, there are instances where this is not the case, specifically, instances in which one can construct arbitrarily large minor-minimal bridges. The paper talks about a class of matroids representable over a fixed finite field and demonstrates that a minor-minimal bridge is bounded in size.
+    - R_10 or R_12 are 3-connected regular matroids that are neither graphic nor cographic. So this can tell us via a process of elimination if we find certain properties of a 3-connected matroid what our matroid is.
+    - If there exists a k separation (Y_1, Y_2) of M where X_1 \subset Y_1 and X_2 \subset Y_2, then we say that the k separation (X_1, X_2) of N is induced in M. If (X_1, X_2) is not induced in M, we say that M bridges the k separation (X_1, X_2) in N.
+    - Theorem 1.1: For any finite field F and integer k there exists an integer n s.t. if (X_1, X_2) is an exact k separation in an F representable matroid N and M is a minor minimal F representable matroid that bridges the k separation (X_1, X_2) in N, then ```|E(M)| \leq |E(N)| + n```.
+    - We can sometimes expect this n to be large.
+    - The theorem extends to exact 2 separation and exact k separation with branch width n.
+    - How does this affect rank? Tutte’s Linking Theorem. We can use Tutte’s Linking Theorem as a generalisation of Menger’s Theorem.
+    - For our blocking sequence: Let N be a minor of a matroid M and let X = E(N). Then there exists a coin dependent set S and an independent set T s.t. N = M\S/T.
+    - We can see that if there is a blocking sequence for (X_1, X_2) then M bridges (X_1, X_2).
+    - An element e is in the guts of (X_1, X_2) if ```e \in cl_M(X_1 - {e}) and e \in cl_M(X_2 = {e})```.
+    - An element e is in the coguts of (X_1, X_2) if e \in ```cl*_M(X_1 - {e})``` and ```e \in cl*_M(X_2 - {e})```. Equivalently, e is the coughs of ```(X_1, X_2)``` if ```e \notin cl_M(X_1 - {e})``` and ```e \notin cl_M(X_2 - {e})```.
+    - Section 6 shows that there is no analogue of Theorems 1.2 and 1.3 for 3 separations.
+    - The claim in 6 uses non singularity to show a contradiction in the proof.
+    - We define a tree as cubic if all its vertices have degree 1 or 3, where the degree 1 vertices are called leaves.
+    - A branch decomposition of a metric M on a finite ground set E is a cubic tree s.t. E labels a set of the leaves of T (were no leaf has more than 1 label, but there may be unlabelled leaves).
 
 ## Summary Three
 
 
-## Anything else?
+## Notes
+- First pass of 2 papers ```(1/ 12/ 2023)```
+- Second pass ```(1 / 13/ 2023)```
