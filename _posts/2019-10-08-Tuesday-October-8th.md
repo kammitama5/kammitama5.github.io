@@ -13,6 +13,7 @@
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ. I'm also going to be attending the Machine Assisted Proofs workshop
 at UCLA, and WIN6 in Banff, Canada! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
+- I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) research work over summer!
 
   
 ## 2022
