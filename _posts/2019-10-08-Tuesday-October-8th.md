@@ -222,7 +222,7 @@ study group.
 - I will be on a panel for a cross-institution PhD event [ November ]
 - I will be speaking at Amazon Science with my advisor [ December ]
 - I will be interning at Microsoft next summer ie 2021 [ October ]
-- My artwork and writing was accepted to the First Resistance AI Workshop at NeurIPS (I will be presenting a poster!) [ October ]
+- My artwork and writing was accepted to the First [Resistance AI Workshop](https://drive.google.com/file/d/16Eut1YckKGdvvEBP5noLzByLC_tIIZKC/view?usp=sharing) at NeurIPS (I will be presenting a poster!) [ October ]
 - Our paper was accepted as a poster for AFCI (Algorithmic Fairness through the lens of Causality and Interpretability) at NeurIPS (congrats Miss Ivy! :) [ October ]
 - I am giving a talk for some students at Morgan State University, in conjunction with EGG [ November ]
 - I was accepted to the Winter Institute in Computational Social Science hosted by the University of Arizona (WICSS), which will be held in Jan 2021 [ November ]
