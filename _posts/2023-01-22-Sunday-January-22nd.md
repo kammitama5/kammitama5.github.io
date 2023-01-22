@@ -29,7 +29,7 @@ how miserable the weather was, I started sobbing. Oh well.
 feel at home. Being home reminded me of how strangely British everything is, and how not where I'm doing grad school is, which is funny.
 - We also have a bit of that "tell you off" politely legacy from the British, which is highly amusing, and part of why I love British movies so much.
 - This is a difficult thing for many Americans to undertand, but it's true, and each island is different, in that some are more Dutch, French, etc.
-So this really does mean that they know more about colonial country far away than the US. I got into an argument with a Writing professor in Undergrad
+So this really does mean that they know more about some colonial country far away than the US (what's going on, media, laws, etc). I got into an argument with a Writing professor in Undergrad
 about this, because he was an american hippie and he just didn't understand that everything and everyone didn't revolve around US history. Good times.
 - I'm going to miss getting up early to walk with my parents in the morning, eating breakfast (and meals in general) together, watching British
 murder mysteries together, and hanging out with the dogs and hearing them play in the mornings, but I guess I'm back to finish off what I started
