@@ -84,6 +84,7 @@ a Compilers course in Haskell and another CS course.
 ### Books I'm currently reading
 - [What I'm reading: Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
 - Current favourite shows: Silent Witness, Industry, Suits, Billions (I'm seeing a trend).
+- Thanks to my parents: Silent Witness, Inspector Morse, Midsomer Murders, Wycliffe, New Tricks, Vera, Miss Marple...(basically any British (Medical) Detective show) etc. 
 
 ## Awesome other things I used to enjoy!
 - [Women's Sailing Association of Santa Monica Bay](https://wsasmb.org/): I was a member and raced in WOW-WAH twice (once on MyTime3 and another on Harmony).
