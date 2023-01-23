@@ -15,7 +15,7 @@
 
 - I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
 
-I used to do this for a living; building these and threading the film for each package. Here is a photo of me after building one. This is a 16mm camera. I got my first job in LA because apparently I was the only person who knew how to thread these, and didn't just BS their way through the interview (I was also a tester of students on this camera in college). They told me I got the job the next day and I started the next Monday.
+I used to do this for a living; building these and threading the film for each package (my favourite camera was the A-minima, which is this strange French camera that has a very eccentric threading pattern where you need to flip the magazine). Here is a photo of me after building one. This is a 16mm camera. I got my first job in LA because apparently I was the only person who knew how to thread these, and didn't just BS their way through the interview (I was also a tester of students on this camera in college). They told me I got the job the next day and I started the next Monday.
 
 <img src="/images/doiknowyou/aaton.png" width="400">
 
@@ -225,7 +225,7 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - Hackaday; I volunteered at the first ever Hackaday Superconference in SF (LA, SF)
 - I also volunteered for LayerOne and won a ticket to attend AppSec via a raffle!
 - I've attended DEFCON and used to attend some of the OWASP monthly meetings all the way in Costa Mesa, run by the dude who wrote the [Hacker Playbook](https://www.goodreads.com/author/show/12463.Peter_Kim). I was also one of 25 students given the opportunity to attend Black Hat in 2021, courtesy of WISP, from quite a competitive pool (a dream of mine to attend)!
-- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe (Surface Mounted components using ball grid arrays and stencils and that sort of thing, where you use wave soldering machines to bake your board)!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF). I was also part of the first cohort of Project Alloy's Grants (for Strange Loop attendance), which is where I first met [Star](https://en.wikipedia.org/wiki/Star_Simpson), who is such an inspiration! Love her!
+- I did a couple of [Matt's PCB workshops](https://www.meetup.com/One-Day-Design-a-Professional-Level-Circuit-Board-Workshop) where we made fidget spinners and did PCB soldering (with those tiny components that blow away if you breathe (Surface Mounted components using ball grid arrays and stencils and that sort of thing, where you use wave soldering machines and reflow to bake your board)!); first in SupplyFrame's SF office, the second in Autodesk's workshop at Pier 9 (SF). I was also part of the first cohort of Project Alloy's Grants (for Strange Loop attendance), which is where I first met [Star](https://en.wikipedia.org/wiki/Star_Simpson), who is such an inspiration! Love her!
 
 ## Random Medical/ Doctors Without Borders Study Abroad? (Science?)
 - I spent seven weeks of Summer in Undergrad in Bwiam, the Gambia, by route of Adelphi University, Morocco, Senegal and then
@@ -237,9 +237,10 @@ I'm really thankful that no one judged me during this time of learning; they wer
 - A group photo. A lot of these people are now doctors or medical practicioners. What am I doing with my life again?
   
 ## Maths 
-- MSRI (Derived Algebraic Geometry workshop for women) (bay area; Berkeley, CA)
+- MSRI (Derived Algebraic Geometry workshop for women and other workshops) (bay area; Berkeley, CA)
 - Simons Institute (Error-correcting codes workshop) (bay area; Berkeley, CA)
-- Cornell Number Theory Conference 2019 (Ithaca, NY)
+- My first Upstate Number Theory Conference 2019 at Cornell (Ithaca, NY) and later just Upstate Number Theory Conference
+- Discrete Math Days (DMD); attended with Math friends
 - ICERM (Providence, RI)
 - AWS (Arizona Winter School). Nothing to do with that Cloud thing, but moreso Model Theory and Arithmetic Geometry :)
 - IPAM; Machine Assisted Proofs workshop with T. Tao and friends! (UCLA, LA)
