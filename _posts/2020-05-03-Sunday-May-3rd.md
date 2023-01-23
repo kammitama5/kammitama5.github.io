@@ -15,7 +15,7 @@
 
 - I did a music video on this lot once; I threw away all my tickets from the lots (LOL!). But..I also threw away all my Googs visitor passes/ tech company passes, too when I moved.
 
-I used to do this for a living; building these and threading the film for each package (my favourite camera was the A-minima, which is this strange French camera that has a very eccentric threading pattern where you need to flip the magazine). Here is a photo of me after building one. This is a 16mm camera. I got my first job in LA because apparently I was the only person who knew how to thread these, and didn't just BS their way through the interview (I was also a tester of students on this camera in college). They told me I got the job the next day and I started the next Monday.
+I used to do this for a living; building these and threading the film for each package (my favourite camera was the A-minima, which is this strange French camera that has a very eccentric threading pattern where you need to flip the magazine). Here is a photo of me after building one of the cameras I prepped for my birthday. This is a 16mm camera. I got my first job in LA because apparently I was the only person who knew how to thread these, and didn't just BS their way through the interview (I was also a tester of students on this camera in college). They told me I got the job the next day and I started the next Monday.
 
 <img src="/images/doiknowyou/aaton.png" width="400">
 
