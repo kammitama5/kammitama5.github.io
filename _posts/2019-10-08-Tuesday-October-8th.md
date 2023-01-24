@@ -14,7 +14,8 @@
 at UCLA, and WIN6 in Banff, Canada! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) research work over summer!
-
+- I am attending the Two Sigma Quant Talks today by invitation.
+- The ICLR Tiny Papers Tracked has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers).
   
 ## 2022
 - I have been invited to be a reviewer for the Practical ML for Developing Countries Workshop (PML4DC) at ICLR 2022
