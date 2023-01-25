@@ -11,10 +11,10 @@
   
 ## 2023
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ. I'm also going to be attending the Machine Assisted Proofs workshop
-at UCLA, and WIN6 in Banff, Canada! I'm tremendously excited for all of these opportunities!
+at UCLA, and WIN6 in Banff, Canada (assigned to the Arithmetic Geometry / Arithmetic Stats research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
-- I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) research work over summer!
-- I am attending the Two Sigma Quant Talks today by invitation.
+- I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
+- I am attending the Two Sigma Quant Talks (1/24) by invitation.
 - The ICLR Tiny Papers Track has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers).
   
 ## 2022
@@ -291,22 +291,22 @@ study group.
 - Advanced Web Design class (142) (SP20)
 
 ## Current Classes (either completed or in-progress)
-- Software Verification (295A) (FA19)
-- Data Privacy (295B) (FA19)
-- Human Computer Interaction (228) (FA19)
-- Machine Learning (in Python) (254) (SP20)
+- Software Verification (295A) (FA19) (completed)
+- Data Privacy (295B) (FA19) (completed)
+- Human Computer Interaction (228) (FA19) (completed)
+- Machine Learning (in Python) (254) (SP20) (completed)
 - Research credits (491) (SP20)(FA20)(FA21)(SP21)(FA21)(FA22) (in-progress)
-- Secure Distributed Computation (395) (FA20)
+- Secure Distributed Computation (395) (FA20) (completed)
 - Privacy: Law, Policy, & Design (196) (SP21) (completed)
 - Mathematical Cryptography (259) (SP21) (completed)
 - Abstract Algebra 3 (MATH 395 B) (FA 21) (completed)
 - Abstract Algebra 1 (MATH 251 A) (FA 21) (completed)
-- Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (in progress)
-- Abstract Algebra 4: Special Topics: Elliptic Curves and Modular Forms (MATH 395C) (SP 22) (in progress)
-- Random Probabilistic Graphs (MATH 373A) (SP 22) (in progress)
-- Combinatorial Graph Theory (FA 22) (upcoming)
-- Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (upcoming)
-- Independent Study: Category Theory (FA 22) (upcoming)
+- Abstract ALgebra 4: Ring and Module Theory (MATH 395A) (SP 22) (completed)
+- Abstract Algebra 4: Special Topics: Elliptic Curves and Modular Forms (MATH 395C) (SP 22) (completed)
+- Random Probabilistic Graphs (MATH 373A) (SP 22) (completed)
+- Combinatorial Graph Theory (FA 22) (completed)
+- Graduate Graph Combinatorics (MATH 395B) (Spectral Graph Theory) (FA 22) (completed)
+- Independent Study: Category Theory (FA 22) (completed)
 
 ## Kinda-sorta (Audit, sitting in on, sometimes scribing for, doing arbitrary assignments in)
 - (Audit via Stanford) Internet Scale Consensus in the Blockchain Era (EE 374) (SP21)
@@ -315,6 +315,7 @@ study group.
 - Topology (Seminar, self-study) (FA 22)
 - Algebraic Differential Equations (FA 22)
 - Model Theory (through the Arizona Prelim Winter School)
+- Matroids and Polytopes (SP23) (current audit)
 
 ## Wish list of Classes (ie TODO)
 - Number theory (done)
@@ -326,6 +327,11 @@ study group.
 - Graph Theory (done: doing research in now)
 - Algebraic Topology
 - More Abstract Algebra :)
+
+## Quals topics
+- Elliptic Curves (Math)
+- Graph Theory (Math)
+- Privacy (Differential, Secure Computation) (CS)
 
 ## I think this means I'm not doing *too* badly
 
