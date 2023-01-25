@@ -11,7 +11,7 @@
   
 ## 2023
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ. I'm also going to be attending the Machine Assisted Proofs workshop
-at UCLA, and WIN6 in Banff, Canada (assigned to the Arithmetic Geometry / Arithmetic Stats research group)! I'm tremendously excited for all of these opportunities!
+at IPAM, and the research workshop at WIN6 in Banff, Canada (assigned to the Arithmetic Geometry / Arithmetic Stats research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
 - I am attending the Two Sigma Quant Talks (1/24) by invitation.
