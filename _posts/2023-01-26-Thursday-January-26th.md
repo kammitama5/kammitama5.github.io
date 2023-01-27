@@ -7,6 +7,10 @@
   - reviewing a lengthy book (hopefully the publication will be soon, as this had started since 2022).
 - I am using the Ziegler book, which is quite readable, and was not as pricey as the other book.
 
+## Other
+- I'm up to season 3 in Midsomer Murders! I'm almost at 4; it's so good! I used to buy the DVDs for my mom at the Border's bookstore on Sunset and Vine years ago, along with Poirot and Columbo and Miss Marple. Too bad that place is no more; used to hang out there all the time (and the place next door sold boba! I think it was called Zen Zoo Tea or something; apparently there's a location in Paris?).
+- One of the things that might be neat is to find a way to take the Polytope points in the book and reproduce them using some other software. I might look into that for fun (it would be nice if it's something like Sage, since I'm mostly digging my hands into that these days for elliptic curves stuff).
+
 ## Notes Chapter 0
 - This seemed more like a shorter one, where they introduced the idea of what a polytope is, and some formal definitions.
   - A V-polytope is the convex hull of a finite set of points in some ```R^d```.
