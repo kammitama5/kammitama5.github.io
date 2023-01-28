@@ -32,6 +32,19 @@
   - My fren’ the permutahedron! It is a zonotope!
 
 ## Notes Chapter 1
+- A cone is defined as a nonempty set of vectors ```C \subset R^d``` that with any finite set of vectors also contains all their linear combinations with nonnegative coefficients.
+- The vector sum (or Minkowski sum) of two sets ```P, Q \subset R^d``` is defined to be ```P + Q := {x + y : x \in P, y \in Q}```.
+- We have four statements:
+    - Every intersection of a polytope with an affine subspace is a polytope.
+    - Every intersection of a polytope with a polyhedron is a polytope.
+    - The Minkowski sum of two polytopes is a polytope.
+    - Every projection of a polytope is a polytope.
+- Fourier Motzkin Elimination: in the book, they refer to it as projecting one dimension at a time, but it is using an elimination of a set of variables from a set of relations by solving systems of linear inequalities. There is a proof for cones using forward and backwards direction proofs. (See section 1.3)
+- We also have this double description method, which is the dual to the method of Fourier Motzkin elimination (paper is by Motzkin, Raffia, Thompson and Thrall, and another by Dantzig and Eaves).
+- Farkas Lemma: apparently many different versions can be transformed into the same thing (so it’s like a giant Transformer Optimus Prime Lemma thing). Some of the ways we can do this involve (1) theorems of the alternative (2) transposition theorems (3) duality theorems (4) good characterisations (if a system has a solution, this generalises to a solution vector that proves this (5) certificates for validity (6) separation theorems.
 
+## Papers might be interested in
+- Dantzig G., “Fourier Motzkin Elimination and Its Dual”, 1972, [link](https://apps.dtic.mil/sti/pdfs/AD0750674.pdf)
+- Great, the original Farkas’ Lemma is in German? It’s called “Theorie Der einfachen Ungleichungen” (1901).
 
 ## To be continued...
