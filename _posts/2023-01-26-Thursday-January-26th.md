@@ -44,7 +44,7 @@
 - Farkas Lemma: apparently many different versions can be transformed into the same thing (so it’s like a giant Transformer Optimus Prime Lemma thing). Some of the ways we can do this involve (1) theorems of the alternative (2) transposition theorems (3) duality theorems (4) good characterisations (if a system has a solution, this generalises to a solution vector that proves this (5) certificates for validity (6) separation theorems.
 
 ## Papers might be interested in
-- Dantzig G., “Fourier Motzkin Elimination and Its Dual”, 1972, [link](https://apps.dtic.mil/sti/pdfs/AD0750674.pdf)
+- Dantzig G., “Fourier Motzkin Elimination and Its Dual”, 1972, [link]([https://apps.dtic.mil/sti/pdfs/AD0750674.pdf](https://www.sciencedirect.com/science/article/pii/0097316573900046))
 - Great, the original Farkas’ Lemma is in German? It’s called “Theorie Der einfachen Ungleichungen” (1901).
 
 ## To be continued...
