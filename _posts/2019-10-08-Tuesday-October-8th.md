@@ -10,7 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
-- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ. I'm also going to be attending the Machine Assisted Proofs workshop
+- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assiged to the "Point Counting and Applications" group (by J. Pila). I'm also going to be attending the Machine Assisted Proofs workshop
 at IPAM, and the research workshop at WIN6 in Banff, Canada (assigned to the Arithmetic Geometry / Arithmetic Stats research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
