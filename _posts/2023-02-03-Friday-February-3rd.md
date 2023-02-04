@@ -16,7 +16,10 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Great; they describe Zero patterns.
 
 ## Zero Patterns
-- 
+- If each monomial additively can be written as the product of two monomials of degree at most ```d_1, d_2``` in in ```d_1 + d_2 \choose d_1``` ways, we can use this to say something about initial inequality ```||f + g|| \leq ||f|| + ||g||```.
+- Oh no..they use realizable in this paper. At least one mathematician is annoyed!
+- Anyways, we have a mapping that represents this natural homomorphism from ```\phi_F : Z \rightarrow F``` for some values ```x = (x_1, ..., x_m)```. We use this to map ```\psi_F```, which is our ring homomorphism that applies ```\phi_F``` to each coefficient. We define a reliasable relationship with respect to the tuple relationship defined.
+- Proof by contradiction!
 
 ## How does this help us find the Number of Representable Matroids?
 - 
