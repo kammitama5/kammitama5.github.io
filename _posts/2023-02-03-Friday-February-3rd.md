@@ -36,5 +36,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - I'm having a really great time in grad school, even though today was very cold! (something like negative ninteen degrees)
 - I am excited for many things this year!
 - Paper [link](https://arxiv.org/pdf/1605.04288.pdf)
+- Rónyai, Babai and Ganapathy paper "On the Number of Zero-Patterns Of a Sequence of Polynomials" [link](https://www.ams.org/journals/jams/2001-14-03/S0894-0347-01-00367-8/S0894-0347-01-00367-8.pdf)
+- Mayhew, Newman, Welsh and Whittle paper "On the asymptotic proportion of connected matroids", [link](https://www.sciencedirect.com/science/article/pii/S0195669811000254)
 
 ## That's it.
