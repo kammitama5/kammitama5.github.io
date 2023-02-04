@@ -26,7 +26,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Proof by contradiction!
 - The Rónyai, Babai and Ganapathy paper has a clearer defintion of zero-patterns on polynomials over a field F.
   - Apparently one can distinguish between large and small zero-patterns (see Thm 4.1). They find a bound on these.
-  - The span programs section was very interesting (Karchmer and Wigderson). Is this something I've read about before? Probably not, but I found a [link](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/KW93/proc.pdf) and apparently it has relationships to complexity and cryptography (raised arms emoji!) 
+  - The span programs section was very interesting (Karchmer and Wigderson). Is this something I've read about before? Probably not, but I found a [link](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/KW93/proc.pdf) and apparently it has relationships to complexity and cryptography (raised arms emoji!). Come to think of it, I may do a writeup / notes of this paper next. 
 
 ## How does this help us find the Number of Representable Matroids?
 - We use our proof to bound the rank of representable matroids on n for each r. They do this by first stating the theorem and checking for ```r \leq 1```, which is "obvious". This next part might have something to do with the matrix determinants we were talking about near the end of class.
