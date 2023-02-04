@@ -27,7 +27,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Finally, what about nonbasis of a rank r matroid? This holds as the property tends to 1 as ```n \rightarrow \infty```.
 
 ## Conjecture is then proven
-
+- This is a nice, short, but dense paper! I would love to dig in more to Grassmannians; Taylor did speak a bit about this in one of his classes, but it also recently popped up in a reading group I'm in, too! (totally different application!)
 
 ## Other Fun Things
 - I have a Pure Maths desk! We also have a blackboard that is amazing!
