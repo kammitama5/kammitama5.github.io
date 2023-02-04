@@ -1,0 +1,32 @@
+## More Matroid Theory
+
+## Almost All Matroids are Non-representable
+Nelson (2017)
+- My professor mentions this as the paper that talks about how Matroids are asymptotically non-representable.
+The paper’s abstract says that the proof shows that as n tends to infinity, the proportion of n-element matroids that are representable tends to zero.
+- Note: apparently Oxley doesn’t like realisable, which is sometimes used by the Matroid and Polytopes community instead of representable, but the distinction is made sometimes because of representation theory.
+- Nelson defines matroids according to (AB3) and by rank (where B denotes Basis, I independent sets and C circuits according to the axioms by Oxley).
+- Mentions the relationship between linear dependence and matroids, as defined by Whitney.
+- What does representable mean? For a field F, a matroid M = (E, B) of rank r is F-representable if there is a matrix ```A \in F^{[r] \times E}``` s.t. B (our basis) = ```({B \in E \choose r}: A[E] is nonsingular}```.
+- At this point, I’m thinking nonsingular? uh-oh, why are elliptic curves showing up in this paper? Is this a bad dream? I have been dreaming about elliptic curves after all these days.
+- Big question: what is the asymptotic proportion of representable matroids among all matroids? This sounds like a probabilistic question to me? Sort of like the rank of elliptic curves Arithmetic Statistics questions. I am interested to see how they proved this.
+- Knuth uses some of the stuff we learned today in class to talk about the ground set having at least X. Originally, the conjecture was claimed by Brylawski and Kelly, and later by Mayhew et al. They probably did have a hunch that almost all weren’t representable, but how do we prove this?
+- We start by a general bound. A very mathematician thing to do, and then maybe constrain this bound? Yes, as it turns out, they then prove that this is the best bound possible.
+- They use zero-patterns: a system of integer polynomials that are allowed to be mapped to any field (see Rónyai et al, who gave a bound for each field).
+- Great; they describe Zero patterns.
+
+## Zero Patterns
+- 
+
+## How does this help us find the Number of Representable Matroids?
+- 
+
+## Conjecture is then proven
+
+
+## Other Fun Things
+- I have a Pure Maths desk! We also have a blackboard that is amazing!
+- I'm having a really great time in grad school, even though today was very cold!
+- I am excited for many things this year!
+
+## That's it.
