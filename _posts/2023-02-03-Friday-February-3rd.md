@@ -17,6 +17,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - They use zero-patterns: a system of integer polynomials that are allowed to be mapped to any field (see Rónyai et al, who gave a bound for each field).
 - Great; they describe Zero patterns.
   - For Rónyai et al; they state that their methods are motivated by: (1) the "branching program" model in computing (yuck computers lol), (2) a lower bound in the span program model for computing Boolean functions (3) Alon's paper which gives a nearly tight Ramsey bound for matrices whose entries are defined by zero-patterns of a sequence of polynomials. Bonus: the paper has open questions! (strangely, very common in a lot of papers I've been reading lately!)
+- Mayhew, Newman, Welsh and Whittle paper describe the property as "...most matroids are not coordinatizable over any field (or even any division ring)" (writing this out because apparently unlike CS, Math people don't really like when you do the "et al" thing, as their names are alphabetical on papers, which means that some people will never be "cited regularly" with the "et al" methods of CS).
 
 ## Zero Patterns
 - If each monomial additively can be written as the product of two monomials of degree at most ```d_1, d_2``` in in ```d_1 + d_2 \choose d_1``` ways, we can use this to say something about initial inequality ```||f + g|| \leq ||f|| + ||g||```.
@@ -25,7 +26,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Proof by contradiction!
 - The Rónyai, Babai and Ganapathy paper has a clearer defintion of zero-patterns on polynomials over a field F.
   - Apparently one can distinguish between large and small zero-patterns (see Thm 4.1). They find a bound on these.
-  - The span programs section was very interesting (Karchmer and Wigderson). Is this something I've read about before? Probably not, but I found a [link](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/KW93/proc.pdf) and apparently it has relationships to complexity and cryptography (raised arms emoji!)
+  - The span programs section was very interesting (Karchmer and Wigderson). Is this something I've read about before? Probably not, but I found a [link](https://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/KW93/proc.pdf) and apparently it has relationships to complexity and cryptography (raised arms emoji!) 
 
 ## How does this help us find the Number of Representable Matroids?
 - We use our proof to bound the rank of representable matroids on n for each r. They do this by first stating the theorem and checking for ```r \leq 1```, which is "obvious". This next part might have something to do with the matrix determinants we were talking about near the end of class.
