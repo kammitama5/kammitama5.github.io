@@ -1,7 +1,9 @@
 ## More Matroid Theory
 
 ## Almost All Matroids are Non-representable
-Nelson (2017)
+Nelson (2017). This is a very first pass on this paper. I'm interested to see how I feel about this paper later on in the semester! 
+I'm learning a LOT. I've even recently gone over some past lectures, and am surprised by some of the things that are a lot clearer now, compared
+to the first time I made a pass over them. I love that the group is pretty solid, pretty patient, respectful, and kind. I'm super grateful for that in my grad school experience this year!
 - My professor mentions this as the paper that talks about how Matroids are asymptotically non-representable.
 The paper’s abstract says that the proof shows that as n tends to infinity, the proportion of n-element matroids that are representable tends to zero.
 - Note: apparently Oxley doesn’t like realisable, which is sometimes used by the Matroid and Polytopes community instead of representable, but the distinction is made sometimes because of representation theory.
@@ -31,7 +33,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 
 ## Other Fun Things
 - I have a Pure Maths desk! We also have a blackboard that is amazing!
-- I'm having a really great time in grad school, even though today was very cold!
+- I'm having a really great time in grad school, even though today was very cold! (something like negative ninteen degrees)
 - I am excited for many things this year!
 
 ## That's it.
