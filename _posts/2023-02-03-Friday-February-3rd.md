@@ -24,7 +24,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Anyways, we have a mapping that represents this natural homomorphism from ```\phi_F : Z \rightarrow F``` for some values ```x = (x_1, ..., x_m)```. We use this to map ```\psi_F```, which is our ring homomorphism that applies ```\phi_F``` to each coefficient. We define a reliasable relationship with respect to the tuple relationship defined.
 - Proof by contradiction!
 - The Rónyai, Babai and Ganapathy paper has a clearer defintion of zero-patterns on polynomials over a field F.
-- Apparently one can distinguish between large and small zero-patterns (see Thm 4.1).
+  - Apparently one can distinguish between large and small zero-patterns (see Thm 4.1). They find a bound on these.
 
 ## How does this help us find the Number of Representable Matroids?
 - We use our proof to bound the rank of representable matroids on n for each r. They do this by first stating the theorem and checking for ```r \leq 1```, which is "obvious". This next part might have something to do with the matrix determinants we were talking about near the end of class.
