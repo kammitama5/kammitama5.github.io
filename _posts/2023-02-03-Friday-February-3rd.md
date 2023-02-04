@@ -16,6 +16,7 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - We start by a general bound. A very mathematician thing to do, and then maybe constrain this bound? Yes, as it turns out, they then prove that this is the best bound possible.
 - They use zero-patterns: a system of integer polynomials that are allowed to be mapped to any field (see Rónyai et al, who gave a bound for each field).
 - Great; they describe Zero patterns.
+  - They state that their methods are motivated by: (1) the "branching program" model in computing (yuck computers lol), (2) a lower bound in the span program model for computing Boolean functions (3) Alon's paper which gives a nearly tight Ramsey bound for matrices whose entries are defined by zero-patterns of a sequence of polynomials. Bonus: the paper has open questions! (strangely, very common in a lot of papers I've been reading lately!)
 
 ## Zero Patterns
 - If each monomial additively can be written as the product of two monomials of degree at most ```d_1, d_2``` in in ```d_1 + d_2 \choose d_1``` ways, we can use this to say something about initial inequality ```||f + g|| \leq ||f|| + ||g||```.
