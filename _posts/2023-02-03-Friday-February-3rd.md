@@ -22,7 +22,9 @@ The paper’s abstract says that the proof shows that as n tends to infinity, th
 - Proof by contradiction!
 
 ## How does this help us find the Number of Representable Matroids?
-- 
+- We use our proof to bound the rank of representable matroids on n for each r. They do this by first stating the theorem and checking for ```r \leq 1```, which is "obvious". This next part might have something to do with the matrix determinants we were talking about near the end of class.
+- The upper bound improves on that of Alon for the number of C-representable matroids of a small given rank.
+- Finally, what about nonbasis of a rank r matroid? This holds as the property tends to 1 as ```n \rightarrow \infty```.
 
 ## Conjecture is then proven
 
