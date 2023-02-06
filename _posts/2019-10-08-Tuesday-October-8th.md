@@ -16,6 +16,7 @@ at IPAM, and the research workshop at WIN6 in Banff, Canada (assigned to the Ari
 - I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
 - I attended the Two Sigma Quant Talks (1/24) by invitation.
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
+- I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 - The ICLR Tiny Papers Track has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers).
   
 ## 2022
