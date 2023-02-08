@@ -10,13 +10,15 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
-- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assiged to the "Point Counting and Applications" group (by J. Pila). I'm also going to be attending the Machine Assisted Proofs workshop
+- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila). I'm also going to be attending the Machine Assisted Proofs workshop
 at IPAM, and the research workshop at WIN6 in Banff, Canada (assigned to the Arithmetic Geometry / Arithmetic Stats research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
 - I attended the Two Sigma Quant Talks (1/24) by invitation.
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
+(This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
+- Continuing with Quantum Computing Book club (2022-2023)! There may also be an opportunity to do some Quantum Formalism with the group, too.
 - The ICLR Tiny Papers Track has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers).
   
 ## 2022
