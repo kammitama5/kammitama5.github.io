@@ -43,6 +43,21 @@ I don't think it matters; it's more of a "some of these are helpful, depending o
 - "Quantum Information and Quantum Compression" (with a book club)
 - "Matroid Theory" by Oxley (self-study over winter break 2022-2023)
 
+## Wish List (will move above once I get them)
+- Eisenbud D., Harris J., "3264 and All That: A Second Course in Algebraic Geometry"
+- Liu, Q., "Algebraic Geometry and Arithmetic Curves"
+- Silverman J., "Rational Points on Elliptic Curves"
+- Silverman J., "Advanced Topics in the Arithmetic of Elliptic Curves"
+- Halmos P., "Lectures on Ergodic Theory"
+- Hidary J., "Quantum Computing: An Applied Approach"
+- Arora S., Barak B., "Computational Complexity: A Modern Approach"
+- Sipser "Introduction to the Theory of Computation"
+- Franceschini M., Ferrari G., "LDPC Coded Modulations"
+- Hall B., "Quantum Theory for Mathematicians"
+- Neubauer A., Freudenberger J., "Coding Theory: Algorithms, Architectures and Applications"
+- Gross B.H., Mazur B., "Arithmetic on Elliptic Curves with Complex Multiplication"
+- Cassels J.W.S. "Lectures on Elliptic Curves"
+
 ## Papers
 - I'm not that great at keeping track right now, but I do have a github repo with these.
 - Perhaps after I've completed everything, I'll make this public.
