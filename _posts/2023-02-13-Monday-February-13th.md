@@ -50,6 +50,9 @@ What if there is an entire group of people who have been doing the manual versio
 we will be punished, was a remark (lol).
 - Imo, it seems like the future means that PL people might have to learn a lot more Mathematics. They will have to work with proofs more, 
 and rely on these people a lot more to understand how they work with these things to just build better ones.
+Another thing that was brought up was how these things have changed the way mathematicians themselves work. Mathematics is very solitary,
+as they (mathematicians) tend to work alone, in solitude, and these tools have changed that. There was a network diagram that showed this,
+which was fascinating.
 - John spoke about the Newell-Simon and Gelerntner-human AI and Davis, Gilmore Wang Prawitz machine oriented approaches and work from the 70s.
 - Also that of Robinson's resolution, Knuth-Bendix, Boyer-Moore, Shostak and Nelson-Oppen, and how there was a lot of plateau after Wang
 (1960) and interactive theorem proving. He also showed this article on AP Morse from 67 from Bledsoe and Gilbert, and spoke about SAMV.
