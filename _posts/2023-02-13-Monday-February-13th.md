@@ -44,7 +44,10 @@ that seemed to be questioned; things were just assumed to be done using type the
 set theory? An audience member (named Steven) mentioned he was working on something else that was more analagous to algebra and the way
 we reason about proofs in Mathematics, and it didn't have types, because we didn't *need* types. Incredible. 
 - But what then does that mean for institutions that have been funding this particular way of thinking about proof assistants? That was 
-also something that came up.
+also something that came up. As it turns out, some Mathematicians don't necessarily care for the PL-way of theorem proving. Looking back at the way I started my journey, it had me thinking a *lot* about the things people told me were "the way" back then, and how type theory and 
+denotational semantics were the things you *had* to learn, because "that's how things are done" in that world. What if there is another way?
+What if there is an entire group of people who have been doing the manual version for centuries saying these tools aren't built the way we want, for us. Incredible. I loved the diagram of Babel; we're building a giant Babel tower of Mathematics with these libraries for which 
+we will be punished, was a remark (lol).
 - John spoke about the Newell-Simon and Gelerntner-human AI and Davis, Gilmore Wang Prawitz machine oriented approaches and work from the 70s.
 - Also that of Robinson's resolution, Knuth-Bendix, Boyer-Moore, Shostak and Nelson-Oppen, and how there was a lot of plateau after Wang
 (1960) and interactive theorem proving. He also showed this article on AP Morse from 67 from Bledsoe and Gilbert, and spoke about SAMV.
