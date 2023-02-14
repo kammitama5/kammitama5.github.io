@@ -38,11 +38,13 @@ as these libraries scale / more people use them.
 - I LOVED John's talk on the history of HOL. He started with a case study of the isoperimetric theorem. He spoke about how AI-style
 automation because of large libraries being fodder for ML. I've knocked around the PL community for years, but I've NEVER heard someone
 talk about proof assistants in this way. It was MIND bending! Then I realized that Mathematicians are doing so many incredible things
-with these things and thinking about them quite differently!
+with these things and thinking about them quite differently! 
 - One of the things that was brought up was is type theory even necessarily the answer? Interestingly, in PL this was less of a thing
 that seemed to be questioned; things were just assumed to be done using type theory. A group of people believe not; maybe it can be
 set theory? An audience member (named Steven) mentioned he was working on someting else that was more analagous to algebra and the way
-we reason about proofs in Mathematics, and it didn't have types, because we didn't *need* types. Incredible.
+we reason about proofs in Mathematics, and it didn't have types, because we didn't *need* types. Incredible. 
+- But what then does that mean for institutions that have been funding this particular way of thinking about proof assistants? That was 
+also something that came up.
 - John spoke about the Newell-Simon and Gelerntner-human AI and Davis, Gilmore Wang Prawitz machine oriented approaches and work from the 70s.
 - Also that of Robinson's resolution, Knuth-Bendix, Boyer-Moore, Shostak and Nelson-Oppen, and how there was a lot of plateau after Wang
 (1960) and interactive theorem proving. He also showed this article on AP Morse from 67 from Bledsoe and Gilbert, and spoke about SAMV.
