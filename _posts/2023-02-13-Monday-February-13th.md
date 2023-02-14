@@ -74,6 +74,7 @@ fascinating; apparently it's difficult to learn with a vanilla neural net.
 - Anyways, for Transformers, they penalize weights for triangles.
 - After that, there was a cool reception (photos below) and a couple of us ended up having dinner and chatting together and 
 I noted [two](https://arxiv.org/pdf/2102.11818.pdf) [papers](https://algo2.iti.kit.edu/download/SAT_Comp_2020.pdf).
+- The best part is that after things didn't work out initially the way I expected at the start of my degree (in terms of topics I thought I would do), as it turns out, I have the perfect background for understanding the content in this conference. There's a mix of Pure Maths, CS proof theorem stuff, and machine learning. Incredible. I thought it might have been a mistake that I was accepted and funded, but now, I'm sure that the organizers definitely knew what they were doing / looking for. I'm grateful for the opportunity; this community is amazing!
 
 ## Reception Photos
 
