@@ -28,7 +28,7 @@ elaboration. Then we have the core formalization, which lead to the kernel verif
 was always something about Agda to me that doesn't feel at all the way a mathematician would write a proof when I was learning a bit of it
 in my first year, but rather like how someone imagined a mathematician would formalize one, and it's interesting
 that the "gap" was acknowledged (almost like the way they write proofs is more intuitive, and the way we were learning felt more
-"mechanized" imo?). After this talk, my mind was blown. He did a great job of explaining "Math brain" vs "Computer Science brain". How one
+"formulaic" imo?). After this talk, my mind was blown. He did a great job of explaining "Math brain" vs "Computer Science brain". How one
 fills in gaps of assumptions , context and that sort of thing. Another great thing he mentioned was the problem of interoperability. 
 Mathematicians use slight variations of proofs based on the context, but this is kind of a difficult thing to do in a formal proof assistant.
 So what happens in the software is that one ends up having a version for X proof, then another for Y proof, and that sort of thing, which
