@@ -48,6 +48,8 @@ also something that came up. As it turns out, some Mathematicians don't necessar
 denotational semantics were the things you *had* to learn, because "that's how things are done" in that world. What if there is another way?
 What if there is an entire group of people who have been doing the manual version for centuries saying these tools aren't built the way we want, for us. Incredible. I loved the diagram of Babel; we're building a giant Babel tower of Mathematics with these libraries for which 
 we will be punished, was a remark (lol).
+- Imo, it seems like the future means that PL people might have to learn a lot more Mathematics. They will have to work with proofs more, 
+and rely on these people a lot more to understand how they work with these things to just build better ones.
 - John spoke about the Newell-Simon and Gelerntner-human AI and Davis, Gilmore Wang Prawitz machine oriented approaches and work from the 70s.
 - Also that of Robinson's resolution, Knuth-Bendix, Boyer-Moore, Shostak and Nelson-Oppen, and how there was a lot of plateau after Wang
 (1960) and interactive theorem proving. He also showed this article on AP Morse from 67 from Bledsoe and Gilbert, and spoke about SAMV.
