@@ -1,0 +1,91 @@
+## At the Conference of my Dreams
+
+## It's only Day one
+- It's only been the first day, but I can't even go to sleep! I'm just super excited, met so many great people, and am having a blast.
+- I've gotten so many hugs and laughed so much, and I've barely been here for a day.
+- I already connected with two friends who work in movies, and I have two Mathematician friends to meet, too. The whole thing has
+just been insanely rewarding. Everyone is warm, friendly, and surprisingly everyone is already close. So it's just been lovely.
+I really love that they in particular make a point to introduce all the junior researchers; I wish more conferences did that! We each
+have a turn for a few minutes to come up and talk about our area of research!
+- Somehow, I ended up hanging out until around 9pm with a bunch of jetlagged Mathematicians, with a salad that is way too big to eat that
+I ended up packing away. And apparently a lot of people knew my Maths advisor, which is hilarious!
+
+## Day One
+- Saw a talk by Adam on Liquid Tensor on the verification of liquid vector spaces (Clausen-Scholze). Some of the things that came up were
+that open documentation could be better and the weight of holes. How does one search for theorems?
+- A Mathematician wearing rainbow shoes made the statement that Doing Category Theory is like wading through treacle, which is the best
+phrase I've heard yet about CT.
+- Benedikt gave a talk on Univalent Functions and Unimath. How do we reason about sameness. The equivalence principle. Looking at 
+Voevodsky's univalent foundations for groups, categories.
+- the transport principle according to Martin Löf and indiscernibility of identicals. Coq of course. What tools that are used are 
+not formally verified. Mentioned tools like [Homotopy.io](https://homotopy.io/) and [Globular](https://github.com/jamievicary/globular).
+Also [Symmetry book](https://github.com/UniMath/SymmetryBook).
+- how do univalent functions allow us to build spaces to extend to other spaces (in the case of say, 1-groupoids or 2-groupoids)?
+- Also mention of Cubical Type Theory.
+- Talk by Andrej was super interesting in identifying the difference between how Mathematicians think about proofs and how computer proof
+people tend to make software for them; there is a disconnect. We start from vernacular, which is the language we use to talk about a proof, which is translated via
+elaboration. Then we have the core formalization, which lead to the kernel verification processs. I really liked this talk because there 
+was always something about Agda to me that doesn't feel at all the way a mathematician would write a proof when I was learning a bit of it
+in my first year, but rather like how someone imagined a mathematician would formalize one, and it's interesting
+that the "gap" was acknowledged (almost like the way they write proofs is more intuitive, and the way we were learning felt more
+"mechanized" imo?. After this talk, my mind was blown. He did a great job of explaining "Math brain" vs "Computer Science brain". How one
+fills in gaps of assumptions , context and that sort of thing. Another great thing he mentioned was the problem of interoperability. 
+Mathematicians use slight variations of proofs based on the context, but this is kind of a difficult thing to do in a formal proof assistant.
+So what happens in the software is that one ends up having a version for X proof, then another for Y proof, and that sort of thing, which
+I found interesting.
+- So then, how or why do these "mistmatches" of pieces fit together? That was a question that was asked for us to think about, especially
+as these libraries scale / more people use them.
+- I LOVED John's talk on the history of HOL. He started with a case study of the isoperimetric theorem. He spoke about how AI-style
+automation because of large libraries being fodder for ML. I've knocked around the PL community for years, but I've NEVER heard someone
+talk about proof assistants in this way. It was MIND bending! Then I realized that Mathematicians are doing so many incredible things
+with these things and thinking about them quite differently!
+- John spoke about the Newell-Simon and Gelerntner-human AI and Davis, Gilmore Wang Prawitz machine oriented approaches and work from the 70s.
+- Also that of Robinson's resolution, Knuth-Bendix, Boyer-Moore, Shostak and Nelson-Oppen, and how there was a lot of plateau after Wang
+(1960) and interactive theorem proving. He also showed this article on AP Morse from 67 from Bledsoe and Gilbert, and spoke about SAMV.
+- One of the key points he made was that sometimes flashy or exciting theorems aren't as *useful* as less showy ones that are the work 
+horses of libraries. Then he spoke about how he deconstructed the Isoperimetric Theorem, which blew my mind because I thought that only
+a mathematician could think of theorem proving in this way! It was incredible!
+He used this example of Steiner's hinge argument so basically to formalize Osserman's proof he used an integral based formula for length,
+an integral based formula for area and a proof by Wirtinger and antiderivatives. Until that time, I had never imagined proving things like
+differential geometry. However, I had been taking a lot of graph theory classes and sometimes wondered since say, some libraries are so 
+Category-Theory centric, how they would work for things like graphs or matroids. Something as simple as isomorphism and equivalence have 
+very specific meanings in graph theory, and so "canonical isomorphism" was coined apparently.
+- One of the the other things he mentioned was that when does a bunch of updates to this software, how does backward compatibility work if
+you have a bunch of theorems that are dependent on specific definitions? I loved this talk!
+- Anyways, Geordie gave a talk on what the working mathematician can expect from deep learning? It's inevitably going to affect our field,
+and not just for students cheating on exams (lol). But how does it not work? The example of low symbolic content for parity bits was
+fascinating; apparently it's difficult to learn with a vanilla neural net.
+- He mentioned [Alex's paper](https://arxiv.org/pdf/2104.14516.pdf) on triangle-free graphs using transformers. 
+- I've done tiny scripts for this in for Sage, using naughty-geng, so super interesting! I even gave a talk on it at a meetup!
+- Anyways, for Transformers, they penalize weights for triangles.
+- After that, there was a cool reception (photos below) and a couple of us ended up having dinner and chatting together and 
+I noted [two](https://arxiv.org/pdf/2102.11818.pdf) [papers](https://algo2.iti.kit.edu/download/SAT_Comp_2020.pdf).
+
+## Reception Photos
+
+<img src="/images1/IPAM231/ipam1.png" width="300">
+
+<img src="/images1/IPAM231/ipam2.png" width="300">
+
+<img src="/images1/IPAM231/ipam3.png" width="300">
+
+<img src="/images1/IPAM231/ipam4.png" width="300">
+
+## Okay one last thing!
+- They apparently have the flags of the different countries of participants at the workshop! Because I attended,
+there is LITERALLY a flag from my country there! It warmed my HEART! It means so much to me, that they care. I love these people!!!
+
+<img src="/images1/IPAM231/ipam6.png" width="300">
+
+## Time for bed!
+
+
+
+
+
+
+
+
+
+
+
