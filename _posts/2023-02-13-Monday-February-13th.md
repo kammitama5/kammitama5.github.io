@@ -24,7 +24,7 @@ Also [Symmetry book](https://github.com/UniMath/SymmetryBook).
 - Also mention of Cubical Type Theory (hi Bob).
 - Talk by Andrej was super interesting in identifying the difference between how Mathematicians think about proofs and how computer proof
 people tend to make software for them; there is a disconnect. We start from vernacular, which is the language we use to talk about a proof, which is translated via
-elaboration. Then we have the core formalization, which lead to the kernel verification processs. I really liked this talk because there 
+elaboration. Then we have the core formalization, which lead to the kernel verification process. I really liked this talk because there 
 was always something about Agda to me that doesn't feel at all the way a mathematician would write a proof when I was learning a bit of it
 in my first year, but rather like how someone imagined a mathematician would formalize one, and it's interesting
 that the "gap" was acknowledged (almost like the way they write proofs is more intuitive, and the way we were learning felt more
@@ -46,7 +46,8 @@ we reason about proofs in Mathematics, and it didn't have types, because we didn
 - Interestingly, just last week a PhD Maths student in my lab enquired about a functional programming language and literally the first 
 question he asked was "Do I need to know type theory to use it?". They are a combinatorialist. I completely understand why they 
 would see having to learn that as a meh because they just want to use something that is analagous as say, a tablet has been for them
-in giving lectures something like the way they would write on a board with chalk.
+in giving lectures something like the way they would write on a board with chalk. In PL, a thing I would hear quite often is that they 
+think of themselves as mathematicians, but in mathematics, I learned that mathematicians call this more along the lines of logicians.
 - But what then does that mean for institutions that have been funding this particular way of thinking about proof assistants? That was 
 also something that came up. As it turns out, some Mathematicians don't necessarily care for the PL-way of theorem proving. Looking back at the way I started my journey, it had me thinking a *lot* about the things people told me were "the way" back then, and how type theory and 
 denotational semantics were the things you *had* to learn, because "that's how things are done" in that world. What if there is another way?
