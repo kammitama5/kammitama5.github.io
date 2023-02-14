@@ -52,7 +52,7 @@ also something that came up. As it turns out, some Mathematicians don't necessar
 denotational semantics were the things you *had* to learn, because "that's how things are done" in that world. What if there is another way?
 What if there is an entire group of people who have been doing the manual version for centuries saying these tools aren't built the way we want, for us. Incredible. I loved the diagram of Babel; we're building a giant Babel tower of Mathematics with these libraries for which 
 we will be punished, was a remark (lol).
-- Imo, it seems like the future means that PL people might have to learn a lot more Mathematics. They will have to work with proofs more, 
+- Imo, it seems like the future means that PL people might have to learn a lot more Mathematics. I say this because one of the ways a proof was solved was first by using an analagous proof, which meant that the person writing the theorem in the assistant had to *find* and be knowledgeable of other similar ways of proving a concept and not rely on modular blocks for theorem proving that assistants currently have / use. So it was as though they were using a sketch of a solving a proof, which is *just* the way a traditional mathematician thinks about solving a proof. And they (PL people) will have to work with proofs more, 
 and rely on these people a lot more to understand how they work with these things to just build better ones.
 Another thing that was brought up was how these things have changed the way mathematicians themselves work. Mathematics is very solitary,
 as they (mathematicians) tend to work alone, in solitude, and these tools have changed that. There was a network diagram that showed this,
