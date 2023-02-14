@@ -21,14 +21,14 @@ Voevodsky's univalent foundations for groups, categories.
 not formally verified. Mentioned tools like [Homotopy.io](https://homotopy.io/) and [Globular](https://github.com/jamievicary/globular).
 Also [Symmetry book](https://github.com/UniMath/SymmetryBook).
 - how do univalent functions allow us to build spaces to extend to other spaces (in the case of say, 1-groupoids or 2-groupoids)?
-- Also mention of Cubical Type Theory.
+- Also mention of Cubical Type Theory (hi Bob).
 - Talk by Andrej was super interesting in identifying the difference between how Mathematicians think about proofs and how computer proof
 people tend to make software for them; there is a disconnect. We start from vernacular, which is the language we use to talk about a proof, which is translated via
 elaboration. Then we have the core formalization, which lead to the kernel verification processs. I really liked this talk because there 
 was always something about Agda to me that doesn't feel at all the way a mathematician would write a proof when I was learning a bit of it
 in my first year, but rather like how someone imagined a mathematician would formalize one, and it's interesting
 that the "gap" was acknowledged (almost like the way they write proofs is more intuitive, and the way we were learning felt more
-"mechanized" imo?. After this talk, my mind was blown. He did a great job of explaining "Math brain" vs "Computer Science brain". How one
+"mechanized" imo?). After this talk, my mind was blown. He did a great job of explaining "Math brain" vs "Computer Science brain". How one
 fills in gaps of assumptions , context and that sort of thing. Another great thing he mentioned was the problem of interoperability. 
 Mathematicians use slight variations of proofs based on the context, but this is kind of a difficult thing to do in a formal proof assistant.
 So what happens in the software is that one ends up having a version for X proof, then another for Y proof, and that sort of thing, which
@@ -41,7 +41,7 @@ talk about proof assistants in this way. It was MIND bending! Then I realized th
 with these things and thinking about them quite differently! 
 - One of the things that was brought up was is type theory even necessarily the answer? Interestingly, in PL this was less of a thing
 that seemed to be questioned; things were just assumed to be done using type theory. A group of people believe not; maybe it can be
-set theory? An audience member (named Steven) mentioned he was working on someting else that was more analagous to algebra and the way
+set theory? An audience member (named Steven) mentioned he was working on something else that was more analagous to algebra and the way
 we reason about proofs in Mathematics, and it didn't have types, because we didn't *need* types. Incredible. 
 - But what then does that mean for institutions that have been funding this particular way of thinking about proof assistants? That was 
 also something that came up.
@@ -80,6 +80,7 @@ I noted [two](https://arxiv.org/pdf/2102.11818.pdf) [papers](https://algo2.iti.k
 ## Okay one last thing!
 - They apparently have the flags of the different countries of participants at the workshop! Because I attended,
 there is LITERALLY a flag from my country there! It warmed my HEART! It means so much to me, that they care. I love these people!!!
+My heart is here.
 
 <img src="/images1/IPAM231/ipam6.png" width="300">
 
