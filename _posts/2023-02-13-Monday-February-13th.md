@@ -43,6 +43,10 @@ with these things and thinking about them quite differently!
 that seemed to be questioned; things were just assumed to be done using type theory. A group of people believe not; maybe it can be
 set theory? An audience member (named Steven) mentioned he was working on something else that was more analagous to algebra and the way
 we reason about proofs in Mathematics, and it didn't have types, because we didn't *need* types. Incredible. 
+- Interestingly, just last week a PhD Maths student in my lab enquired about a functional programming language and literally the first 
+question he asked was "Do I need to know type theory to use it?". They are a combinatorialist. I completely understand why they 
+would see having to learn that as a meh because they just want to use something that is analagous as say, a tablet has been for them
+in giving lectures something like the way they would write on a board with chalk.
 - But what then does that mean for institutions that have been funding this particular way of thinking about proof assistants? That was 
 also something that came up. As it turns out, some Mathematicians don't necessarily care for the PL-way of theorem proving. Looking back at the way I started my journey, it had me thinking a *lot* about the things people told me were "the way" back then, and how type theory and 
 denotational semantics were the things you *had* to learn, because "that's how things are done" in that world. What if there is another way?
