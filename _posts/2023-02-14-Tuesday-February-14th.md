@@ -24,7 +24,8 @@ cafeteria was still open (they have a Veggie Grill!). As it turns out, I didn't 
 an Algebraic Topologist and does Homotopy Type Theory and is doing their postdoc there. And I met another Homotopy Type Theorist, and then
 another, and we ended up hanging out in their office and then going out to eat Indian food together. So now I know two more Algebraic
 Topologists apparently now. And I got to see what the postdoc life looks like at UCLA, which looks amazeballs. They have blackboards
-and their own office, with a view.
+and their own office, with a view. And hilariously a conversation started about whether Analysis would exist without Zorn's Lemma.
+It was just a lot of fun today!
 
 ## Here are some photos
 <img src="/images1/IPAM232/ipam22.png" width="300">
