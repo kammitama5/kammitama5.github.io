@@ -16,7 +16,7 @@ absolutely blew my mind was verification of plots. Having published a few ML pap
 I haven't thought deeply about, but it's absolutely true; plots have issues, and in particular, as she calls it, "faithful plotting is hard".
 An example is when the sampling is wrong, so that the plot is not correct. She showed several examples. She mentioned this paper by 
 [Melquiond](https://arxiv.org/pdf/2108.03974.pdf).
-- That was followed by an exception talk by Patrick, in which he showed readable proofs, making the distinction between formal verification,
+- That was followed by an exceptional talk by Patrick, in which he showed readable proofs, making the distinction between formal verification,
 where the proof does not have to be readable, and the way we communicate ideas in Mathematics via readable proofs. He then gave a demo
 of a prototype using Lean in which a proof is generated using a variable degree of specificity. It was really exciting. I think that this
 is a great example of a tool that is made with the Mathematics community, and just for it, without their input. I really liked that he said
