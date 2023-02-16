@@ -68,6 +68,7 @@ a Compilers course in Haskell and another CS course.
 - [Association for Women in Mathematics (AWM)](https://ebus.awm-math.org/)
 - [The International Association for Cryptologic Research (IACR)](https://iacr.org/)
 - [WIN (Women in Number Theory)](https://womeninnumbertheory.org/)
+- [Women in Cryptography](https://hackmd.io/@RUWdi86MSmCiqoMLxEzsKQ/S11cD-U1i)
 - [NCWIT](https://www.facebook.com/groups/AspirationsAward/)
 - [Black in AI](https://blackinai.github.io/)
 - [LXAI](https://www.latinxinai.org/)
