@@ -56,7 +56,7 @@ and I was bombarded!
 
 - Lunch with my other Mathematician friend who writes software and designs functional languages with strong types!
 
-<img src="/images1/IPAM233/ipam34.png" width="400">
+<img src="/images1/IPAM233/ipam34.png" width="300">
 
 - A snapshot of the demo by Patrick. I highly recommend watching his [talk](https://www.youtube.com/watch?v=tp_h3vzkObo&t=1515s).
 Also, thanks to Kevin for the link! :)
