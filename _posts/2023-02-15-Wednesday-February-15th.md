@@ -24,6 +24,7 @@ that we should let the reader choose the degree to which they want to understand
 scripts readable is hopeless and counter-productive in general".
 - In the afternoon, we took a group photo, and I had lunch with a mathematician friend who works in software and programming language design.
 We then were able to see a talk by Tony on using large language models for auto-formalization, which is work being done by the N2Formal team.
+What was interesting was how formalization was done, particularly the [Draft Sketch Prove paper](https://arxiv.org/pdf/2210.12283.pdf).
 Finally, there was a panel with Emily, Sophie and Akshay, moderated by Jordan, who I just realized is the same professor who [broke down the
 Mathematics scenes in movies](https://www.youtube.com/watch?v=oejBbQx-Sqo) (okay, that is random that I had that bookmarked).
 - Finally, we had introductions, and I did mine. I was very nervous, but it went incredibly well, and we all felt supported. What was even
