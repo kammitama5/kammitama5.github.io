@@ -33,8 +33,8 @@ at first thought her brief silence might have been disapproving (what is my dear
 all caps, when I asked if she would help and support me in doing this. By the end of the day, I was incredibly happy.
 - Finally, I wrapped the day off chatting with a new friend, an undergrad who was about to embark on his PhD career. I had nostalgia instantly 
 about one of my last interactions in San Francicso, where a friend who completed their PhD had reached out to me, and we had randomly met
-on the way out of a 400-person Twilio tech conference featuring a Mackelmore concert (yes, very strange, but very Bay-area tech-scene). His
-last words to me he knew that some of these systems weren't made for people like us, but that he was rooting for me. And I was immediately
+on the way out of a 400-person Twilio tech conference featuring a Mackelmore concert (yes, very strange, but very Bay-area tech-scene and yes, there was a point in which he body-surfed over the crowd apparently, and I was the only one who seemed to not know any lyrics to these songs). His
+last words to me were that he knew that some of these systems weren't made for people like us, but that he was rooting for me. And I was immediately
 propelled back to staring at this excited soon-to-be PhD student in front of me, feeling the same for him, and wishing the same for his
 journey. It was an incredible day.
 - Oh, and then I went out for tacos and met my long-time friend's pets again, after four years of not seeing them, and they recognized me
