@@ -62,7 +62,7 @@ chose to invite, so you can't give yourself zero credit; you're there to learn f
 responded quite favourably and passionately when any of us engaged with them! It was clear they were all SO passionate about teaching
 and research, and it was invigorating, electrifying. It made you want to be better and to pursue excellence.
 - I remember when a fellow Mathematics PhD student told me last semester "but you are a Mathematician". I feel more calibrated to being
-aligned to that path than I do Computer Science (I don't feel like a Computer Science person *at all*, but I don't call myself one; I'm happy with "honorary" or "Computational Number Theorist",
+aligned to that path than I do Computer Science (I don't feel like a Computer Science person *at all*, but I don't call myself a Mathematician; I'm happy with "honorary" or "Computational Number Theorist",
 or "Mathematical Cryptographer", or "budding Research Scientist", or "Budding Academic". This week, though, there were SO many people
 like myself, that it was both amazing and beautiful. Andrej, whose advisor strangely I met at LambdaConf years ago, said it best when
 he said that he has both brains; he switches between thinking like a Mathematician and a Computer Scientist. I can live with that.
