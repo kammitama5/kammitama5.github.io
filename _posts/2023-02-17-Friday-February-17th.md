@@ -20,7 +20,8 @@ to my thesis. This week was certainly "up there" in terms of highs during grad s
 ## The last talks today
 - We had a handful of talks on the last day; the first by Petra, although Laura was also there to answer questions (or decline to answer
 a particular question lol, which made us laugh). It was on the Vampire prover, and Automation of Induction in Saturation. It was relieving
-to hear that other mathematicians did not know what skolemization was; people who are highly regarded in their field, and teach other students.
+to hear that other mathematicians did not know what skolemization was; people who are highly regarded in their field, and teach other students. Someone literally turned to that highly esteemed researcher and said "don't worry, it's a logic term". Yes, it is. For years,
+I thought it was a Mathematics thing, and that not knowing it meant I was terrible at Mathematics.
 - When I was starting to learn some PL stuff, some people made me 
 feel badly about not knowing some things, as though it meant I was "bad at Maths". They held it over me and I was very isolated; they bragged
 that they knew things to try to put themselves above me; I was the low hanging fruit to pick on.
