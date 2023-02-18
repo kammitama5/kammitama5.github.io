@@ -33,7 +33,7 @@ I think in retrospect. They'd want more people to share the love they have for t
 - As it turns out, over time I realized what they meant
 was not that they were doing Mathematics, but rather, they are working in logic, and that when they said Mathematics, they often meant
 Category Theory, which is a branch of Mathematics I was barely learning about through badly-written Haskell books which just confused me
-because they're not about Category Theory; they're abstractions of bits of things from that. And some people (especially CS professors, who don't have to do as much teaching as Pure Maths
+because they're not about Category Theory; they're abstractions of bits of things from that. I mean, I remember feeling like these people were acting like they had solved the Riemann Hypothesis with Perfectoid Spaces with a compiler and type theory. And some people (especially CS professors, who don't have to do as much teaching as Pure Maths
 grad students before becoming professors) can just be not great at teaching (that's literally not how they get hired). So generally,
 CS people teach less. And there is a shortage (because of the demand in industry). I'm not trying to bag on CS, but just point out that
 all of these things compounded were systemic inadequacies that I ascribed to myself when I was starting grad school.
