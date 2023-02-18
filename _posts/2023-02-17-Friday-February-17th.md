@@ -6,7 +6,9 @@ it was one of those pivotal moments for me as a grad student. Everyone I met was
 sense of humour. How could one not be inspired in this place? We lived, breathed and spoke about Mathematics all day, and it was amazing!
 - I still have super imposter syndrome about being funded, but my goodness did this week have a deep impact on me, and was just so encouraging.
 I felt like I was dreaming; years ago, I would have never imagined I would have been able to be part of this community, and it felt like
-I had been waiting for something like even before grad school, when I was fumbling around trying to figure out, what's next.
+I had been waiting for something like this even before grad school, when I was fumbling around trying to figure out, what's next, taking
+classes on my own and writing long emails to try to convince Maths research institutes to fund me to attend their workshops, while trying
+to read people's Maths blogs while working a day job.
 - Being given the opportunity to be part of this event in a way validated a bit of my constant frustration of every sleight or insinuation
 that I didn't belong in grad school, in STEM, or in a space for Mathematics or Computer Science. I was here because I belonged, and no one
 could take that away from me. And it was something I could celebrate this week, and I received so much encouragement, it makes my heart soar.
@@ -23,7 +25,7 @@ to hear that other mathematicians did not know what skolemization was; people wh
 feel badly about not knowing some things, as though it meant I was "bad at Maths". They held it over me and I was very isolated; they bragged
 that they knew things to try to put themselves above me; I was the low hanging fruit to pick on.
 - Some parts of Computer Science in particular I have experienced can have this culture where someone has to make you feel badly about
-themselves to make themselves feel better about some insecurity, and when you are new you can wonder if it's you. As it turns out, a lot of people
+yourself to make themselves feel better about some insecurity, and when you are new you can wonder if it's you. As it turns out, a lot of people
 really were winging it on the "I know Category Theory and PL" stuff. No one who really knows that stuff would go out of their way
 to make someone feel stupid or look bad in front of a bunch of people, in any case. They'd want to share resources that helped them,
 I think in retrospect. They'd want more people to share the love they have for the field.
