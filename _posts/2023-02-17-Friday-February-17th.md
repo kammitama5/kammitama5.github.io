@@ -69,7 +69,7 @@ he said that he has both brains; he switches between thinking like a Mathematici
 - I had dinner and lunch a few times with Jonathan's student, Rahul, who was just super impressive and has such a bright future ahead!
 I really enjoyed chatting with him and his intellectual curiosity; everyone was like this this past week!
 and I also had lunch with Jordan (as I mentioned in the previous post).
-I also had dinner with Geordie, and was naive enough on the first night to mentioned casually that he should come to my university
+I also had dinner with Geordie, and was naive enough on the first night to mention casually that he should come to my university
 to give a talk, to which he said he definitely should, but all of this was when I was naive about how decorated he was, which was 
 hilarious. In retrospect, it worked out to my advantage, because by then I had built a relationship that was based on friendly
 casual conversations rather than one based on some preconceived notion of who he was based on his profile.
