@@ -91,11 +91,13 @@ just called food lol.
 
 <img src="/images1/MAP2023photo/mphoto5.png" width="300">
 
-- From Heather's talk. Yes; yes they do.
+- Geordie giving a talk! I enjoyed every single talk at this workshop!
+
 
 <img src="/images1/MAP2023photo/mphoto3.png" width="400">
 
-- Geordie giving a talk! I enjoyed every single talk at this workshop!
+- From Heather's talk. Yes; yes they do.
+
 
 <img src="/images1/MAP2023photo/mphoto6.png" width="300">
 
