@@ -57,6 +57,10 @@ journey, which means I have had the "benefit" of not thinking of myself as one, 
 out of it, so it's almost as though you didn't know who you were speaking with unless you knew who they were. And because I am pretty
 naive, it took me a day or two to figure out why some of my junior researcher peers were whispering among themselves and quietly 
 freaking out at some of their experiences this week :)
+- My favourite quote from a junior researcher about themselves was "X is a star, and I am like the dust". It reminded me of how far one can feel from someone who is at the top of your field, but the event was also deliberately set up to support the junior researchers they 
+chose to invite, so you can't give yourself zero credit; you're there to learn from all these excellent people around you! And they all
+responded quite favourably and passionately when any of us engaged with them! It was clear they were all SO passionate about teaching
+and research, and it was invigorating, electrifying. It made you want to be better and to pursue excellence.
 - I remember when a fellow Mathematics PhD student told me last semester "but you are a Mathematician". I feel more calibrated to being
 aligned to that path than I do Computer Science (I don't feel like a Computer Science person *at all*, but I don't call myself one; I'm happy with "honorary" or "Computational Number Theorist",
 or "Mathematical Cryptographer", or "budding Research Scientist", or "Budding Academic". This week, though, there were SO many people
