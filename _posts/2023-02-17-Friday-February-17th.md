@@ -44,7 +44,7 @@ Silverman, I'm just getting better at the *tiny* sliver at the thing I want to b
 Analysis, or Predicate Logic, but that's okay; I'm not spending 5 years doing a PhD in that. I wished I had known that earlier, because 
 the toxicity of people trying to put me down, especially in my first year of my PhD, really took a hit on my self-confidence. Thankfully,
 it's gotten better since then, and I've stuck it out, anyways. And continuing along has made me realize that if I have a continued desire
-to do this, and I put in the work, I *can* do it, peoples opinions be darned. Maybe they had hoped I would get frustrated and just drop
+to do this, and I put in the work, I *can* do it, people's opinions be darned. Maybe they had hoped I would get frustrated and just drop
 out, so they could validate their expectations of me.
 - I've often been asked how I find things, but it's my superpower. I've learned to do more with less. But it isn't something that
 we calibrate for in grad school admissions; someone who is creative and resourceful. But those are powerful qualities for budding 
