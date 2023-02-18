@@ -28,6 +28,11 @@ and their own office, with a view. And hilariously a conversation started about 
 It was just a lot of fun today!
 
 ## Here are some photos
+
+<img src="/images1/IPAM232/ipam21.png" width="300">
+
+- With some Homotopy Type Theory friends: Morgan, Josh and Hood!
+
 <img src="/images1/IPAM232/ipam22.png" width="300">
 
 <img src="/images1/IPAM232/ipam23.png" width="300">
