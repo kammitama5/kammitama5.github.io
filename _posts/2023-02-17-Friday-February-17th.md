@@ -4,7 +4,7 @@
 - I was so incredibly happy this week, didn't sleep for more than four hours each day, and felt super grateful for this week. I felt like
 it was one of those pivotal moments for me as a grad student. Everyone I met was incredibly kind, super brilliant, and had an incredible
 sense of humour. How could one not be inspired in this place? We lived, breathed and spoke about Mathematics all day, and it was amazing!
-- I still have super imposter syndrome about being funded, but my goodness did this week have a deep impact on me, and was just so encouraging.
+- I still have super imposter syndrome about being funded, but my goodness did this week have a deep impact on me, and was just so encouraging. There is no way you could be in that room, be around all that energy and be part of that event, and not want to just be an Academic working at the intersection of Mathematics and Computer Science for the rest of your life afterwards!
 I felt like I was dreaming; years ago, I would have never imagined I would have been able to be part of this community, and it felt like
 I had been waiting for something like this even before grad school, when I was fumbling around trying to figure out, what's next, taking
 classes on my own and writing long emails to try to convince Maths research institutes to fund me to attend their workshops, while trying
