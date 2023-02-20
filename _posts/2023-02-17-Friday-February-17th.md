@@ -67,7 +67,7 @@ and research, and it was invigorating, electrifying. It made you want to be bett
 - I remember when a fellow Mathematics PhD student told me last semester "but you are a Mathematician". I feel more calibrated to being
 aligned to that path than I do Computer Science (I don't feel like a Computer Science person *at all*, but I don't call myself a Mathematician; I'm happy with "honorary" or "Computational Number Theorist",
 or "Mathematical Cryptographer", or "budding Research Scientist", or "Budding Academic". This week, though, there were SO many people
-like myself, that it was both amazing and beautiful. Andrej, whose advisor strangely I met at LambdaConf years ago, said it best when
+like myself, that it was both amazing and beautiful. Andrej, whose advisor strangely I met at LambdaConf years ago (the first Turing award winner I met, who was teaching a session on lambda calculus and denotational semantics), said it best when
 he said that he has both brains; he switches between thinking like a Mathematician and a Computer Scientist. I can live with that.
 - I had dinner and lunch a few times with Jonathan's student, Rahul, who was just super impressive and has such a bright future ahead!
 I really enjoyed chatting with him and his intellectual curiosity; everyone was like this this past week!
