@@ -332,10 +332,10 @@ study group.
 - Algebraic Topology
 - More Abstract Algebra :)
 
-## Quals topics
-- Elliptic Curves (Math)
-- Graph Theory (Math)
-- Privacy (Differential, Secure Computation) (CS)
+## Quals topics (yes; a CS student sitting three Maths quals!)
+- Elliptic Curves (Maths)
+- Graph Theory (Maths)
+- Quantum Computing and Mathematical Cryptography (Maths)
 
 ## I think this means I'm not doing *too* badly
 
