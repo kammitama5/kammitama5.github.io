@@ -51,6 +51,7 @@ for the evening, but people had gone on 7 mile hikes and stuff, and were pretty 
 - Finally, we ended up going to a bar and Taylor bought me a glass of red port wine. By the time I realized it was after midnight, I stumbled home,
 because I was used to getting up at 4 to work out in the mornings (the gyms in the hotel are amazing!). Then I ended up chatting with my roommate, Meng,
 until 2am, so I got about 2 hours of sleep, from a full day of getting up at 4 all the way to 2am the following day. But it was an exceptional birthday.
+- My feet hurt, though; as it turns out, I need to get better shoes, so I spent the last day resting them.
 
 ## Dinner
 - The final evening, there was also a dinner!
