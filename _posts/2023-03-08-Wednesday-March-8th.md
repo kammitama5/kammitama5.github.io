@@ -28,8 +28,8 @@ or the end of the day), we would write all of them together, as a summary for th
 
 ## Things I learned
 - So I made notes on a private repo and have the notes and my own notebook from the conference talks, but I also learned how fun professional mathematicians
-work in research. In one case (I'm sure more than one, actually), they sit around some couches near the lobby of the hotel drinking and swearing in Math
-terms excitedly and scribbling on notepads. And basically, their working things out is debating or going back and forth on stuff. To an onlooker, it might
+work in research, in terms of their methodology for working collaboratively. In one case (I'm sure more than one, actually), they sit around some couches near the lobby of the hotel drinking and swearing in Math
+terms excitedly and scribbling on notepads. And basically, the way they are working things out is by debating or going back and forth on stuff. To an onlooker, it might
 seem a little bit like sometimes they are arguing, too. It reminded me of what a friend over summer said; she used to be a Mathematics major in undergrad but switched
 to Computer Science for her PhD, and said that Mathematicians are always arguing. 
 I just thought that that was the coolest thing. It seemed a lot more exciting to me than say, watching someone
