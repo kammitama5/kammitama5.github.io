@@ -65,6 +65,7 @@ discipline (i.e. Pure Mathematics), but there is a deep sense of and respect for
 work of others, and I like that a lot. I know that no field is perfect, but I really appreciate that about the culture. I don't want to be made fun of
 (yet again) because I don't want to talk about Chat-GPT and find it uninteresting, and because I think Cray machines are cool and that we should know
 our history more. Because we should.
+- During the dinner, the vibe was so cool that I was able to carpool for an airport ride with two other PhD students, talk with Renée about postdocs and the whole tenure-track road, as well as Mathematics community-culture stuff and getting the most out of your Mathematics research experience, and one of my PhD friends, Alex, said that he has a theory that it's because Mathematics is so large and there's been so much done, that we can't do it alone, so it's important to have this culture of collaboration. I really liked that. Also, I sadly learned that Robert didn't end up doing karoke after all, because the bar was closed for spring break (wonk wonk).
 
 ## Anyways
 - Here are some photos
@@ -104,6 +105,18 @@ our history more. Because we should.
 <img src="/images1/Birthday23small/birthday2311.png" width="300">
 
 <img src="/images1/Birthday23small/birthday2312.png" width="300">
+
+<img src="/images1/Birthday23small/birthday2320.png" width="300">
+
+- Brandon had a German Carnival hat! So had to take a selfie with him and the fancy hat during dinner!
+
+<img src="/images1/Birthday23small/birthday2321.png" width="300">
+
+- Our dinner event on the last evening!
+
+<img src="/images1/Birthday23small/birthday2322.png" width="300">
+
+<img src="/images1/Birthday23small/birthday2323.png" width="300">
 
 - My parents sent me a birthday card from our two dogs! I loved that they made the dog toys I bought them over Christmas break to be binary :)
 
