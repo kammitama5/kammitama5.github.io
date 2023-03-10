@@ -22,6 +22,8 @@ at IPAM, and
 - I got a shoutout for Women's International Day by Technovation.
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 (This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
+- I have been accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers",
+where I will present a poster! 
 - Continuing with Quantum Computing Book club (2022-2023)! There may also be an opportunity to do some Quantum Formalism with the group, too.
 - The ICLR Tiny Papers Track has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers).
   
