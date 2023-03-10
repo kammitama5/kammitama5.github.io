@@ -72,7 +72,7 @@ our history more. Because we should.
 ## Anyways
 - Here are some photos
 
-- A surprise visit the night before my birthday!
+- A surprise visit from a US Senator from my state (!!) the night before my birthday!
 
 
 <img src="/images1/Birthday23small/birthday2301.png" width="400">
