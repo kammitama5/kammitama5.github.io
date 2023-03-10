@@ -99,7 +99,7 @@ our history more. Because we should.
 
 <img src="/images1/Birthday23small/birthday2309.png" width="300">
 
-- This is prickly pear
+- This is prickly pear. On the last day, I bought some coconut lavender tea to bring back with me, and sampled the prickly pear tea! The Prickly pear tea has no caffeine (yay!) and is best with a bit of lemon and some honey. It's delicious!
 
 
 <img src="/images1/Birthday23small/birthday2310.png" width="300">
