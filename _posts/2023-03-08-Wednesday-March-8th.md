@@ -67,6 +67,7 @@ work of others, and I like that a lot. I know that no field is perfect, but I re
 our history more. Because we should.
 - During the dinner, the vibe was so cool that I was able to carpool for an airport ride with two other PhD students (Sung Min and Alex), talk with Renée about postdocs and the whole tenure-track road, as well as Mathematics community-culture stuff and getting the most out of your Mathematics research experience, and one of my PhD friends, Alex, said that he has a theory that it's because Mathematics is so large and there's been so much done, that we can't do it alone, so it's important to have this culture of collaboration. I really liked that. Also, I sadly learned that Robert didn't end up doing karoke after all, because the bar was closed for spring break (wonk wonk).
 - What I also really noticed is that I felt like all of these students were absolutely brilliant, but they were so humble. So you could just have a conversation with anyone, and they would take the time to explain things to you in a non-judgmental way. I wished so much I had been a part of this community from the first day of my PhD! But I'm happy to have found them now.
+- Also, the best part is being in the airport and hearing people randomly talk about Field Extensions or Preimages, or seeing someone pass by with a Sierpinski Triangle on a bag that says "Maths Research Symposium" on it. It made me feel like I was going to Hogwarts and overheard someone commenting to another person about "muggles" or something.
 
 ## Anyways
 - Here are some photos
