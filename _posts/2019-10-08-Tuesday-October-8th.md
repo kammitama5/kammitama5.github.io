@@ -10,6 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
+- I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila). 
 - I'm also going to be attending the Machine Assisted Proofs workshop
 at IPAM, and
