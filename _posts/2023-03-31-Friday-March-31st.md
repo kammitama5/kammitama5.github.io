@@ -18,11 +18,14 @@ a positive space for me!
 
 ## Social
 - We had one afternoon free, so I chose to go to the hot springs with three other ladies. It was wonderful!
+- Some of the other groups went cross-country skiing and took gondola trips or went to Lake Louise and whatnot.
+- And would you believe our group had so much energy that after some people went skiing, we still worked until after 11pm that night!?
+- It was really such an energizing space to be in; I enjoyed my time and my group so much!
 
 ## Work
 - We are advised not to speak about what we are working on until it is published, but we worked on a lot! Pretty much, it could be about 4 papers
 in the making. We also will plan at the least to publish in the proceedings for the workshop, too!
-- Our group was unique in that we had two Computer Scientists and Two mathematicians. Our skillset was very unique, as will be the work we publish!
+- Our group was unique in that we had two Computer Scientists and Two mathematicians and a remote Computer Scientist who is a mentee of one of our mentors / works with her (and is leaving to start grad school!). Our skillset was very unique, as will be the work we publish!
 - Basically, we will keep working weekly on what we started this week, and as we publish (earliest summer), we also plan to continue working on the
 other projects / spinoffs we initiated at the group. Also, stay tuned for a possible trip, too related to this! (during summer!)
 
@@ -47,11 +50,15 @@ other projects / spinoffs we initiated at the group. Also, stay tuned for a poss
 
 <img src="/images1/Banff23/banff8.png" width="400">
 
+- The Hot springs! Highly recommend! We ended up staying there for 4 hours! Was so good!
+
 <img src="/images1/Banff23/banff9.png" width="400">
 
 <img src="/images1/Banff23/banff10.png" width="400">
 
 <img src="/images1/Banff23/banff11.png" width="400">
+
+- A fake deer (made of logs) next to a real one!
 
 <img src="/images1/Banff23/banff12.png" width="400">
 
