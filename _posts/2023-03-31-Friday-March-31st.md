@@ -4,14 +4,18 @@
 - I thought I might post these, as I have a bit of time before my shuttle arrives to the airport.
 - I had an incredible time, first with the email that said that I had been accepted to this year's WIN! Secondly, in realizing that my booked ride
 in Burlington didn't show up after 10 minutes. This resulted in my texting my Maths advisor, and in her picking me up five minutes later, and telling
-me to have fun, but also to "be careful, because it's a pretty wild time!". I didn't know what to expect, but it exceeded my expectations!
+me to have fun, but also to "be careful, because it's a pretty wild time!". I didn't know what to expect, but it exceeded my expectations! I did
+not cut myself opening a wine bottle (true story from a past workshop apparently!), or break a leg skiing (another true story), or split my jaw
+open (another true story), so I came back all in one piece. I almost slipped on ice once going down to downtown Banff on the way to hot springs,
+but I did not fall or anything like that. So yay advisor giving me great advice! :)
 - It is the ideal mindset and space to do research. Everyone is incredibly wonderful, and it is really just the community to grow as a junior 
 researcher, while being mentored by senior researchers. And with luck, I was mentored by one of the founders of the group, and of the event!
 I've thought so highly of her for years as a pioneer in her field, and she greeted me eagerly with a hug!
 - The event started to encourage these kinds of collaboration and research, because as one of the co-founders mentioned, it was found in studies that
 "men invite men to speak at conferences, and women invite both men and women". I was so happy to be there, because it felt like everyone was taking
 the time to invest in you.
-- I mentioned to one person that I couldn't believe I had gotten in, and she mentioned that she had applied at every occasion during grad school,
+- I mentioned to one person that I couldn't believe I had gotten in, and she mentioned that she had applied at every occasion during grad school
+(the workshop is only held every two years, with a maximum of 42 persons who can be at the venue / workshop, so it's pretty competitive),
 but only got in as a postdoc, so that I must indeed be a special person. That warmed my heart, as did so many interactions this week. It was such
 a positive space for me!
 - In the mornings, there were usually talks, with half an hour breaks, and then we launched into working groups. Then, we'd take a break for lunch,
@@ -23,7 +27,7 @@ just a good time; all the groups were really matched really well!
 - We had one afternoon free, so I chose to go to the hot springs with three other ladies. It was wonderful!
 - Some of the other groups went cross-country skiing and took gondola trips or went to Lake Louise and whatnot.
 - And would you believe our group had so much energy that after some people went skiing, we still worked until after 11pm that night!?
-- In the evenings, we also had panels we sat in a circle and chatted about anything from postdoc advice to tenure track advice to grant funding and 
+- In the evenings, we also had panels where we sat in a circle in a foyer of a building and chatted about anything from postdoc advice to tenure track advice to grant funding and 
 sabbaticals and the impact of COVID on teaching and grad school life, and afterwards we would sometimes get a drink at a bar on-site, or play pool.
 - On another night, people went to the gym and the hot tub. There was just always so much to do, and so many people to interact with, and it was
 such a great time.
@@ -62,6 +66,9 @@ other projects / spinoffs we initiated at the group. Also, stay tuned for a poss
 <img src="/images1/Banff23/banff9.png" width="400">
 
 <img src="/images1/Banff23/banff10.png" width="400">
+
+- We were working and someone spotted a deer! So we ran out and followed the little fella. And soon, we realized, it wasn't just one, but two!
+They were everywhere! It was lovely!
 
 <img src="/images1/Banff23/banff11.png" width="400">
 
