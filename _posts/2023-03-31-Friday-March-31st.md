@@ -96,7 +96,7 @@ on and off for years online, but I finally got to meet him, and it was a blast! 
 hours but uh-oh..flights and stuff...
 - So I made it to Chicago, except there was this crazy flash flood thing happening, and first my flight was delayed to Vermont by 5 hours, then
 by six, then six and a half, then cancelled. Fortunately, a bunch of other flights were cancelled, and the airport was nice enough to give us
-these really nice Coleman lounging chairs, a pillow and a blanket, and I was able to rebook my flight for the next morning successfully.
+these really nice Coleman lounging chairs, a pillow and a blanket, and I was able to rebook my flight for the next morning (which was almost going to be midnight because of delays, but just ended up being a 5pm flight) successfully. So it all worked out and I was able to spend an evening resting.
 - What a journey, what an experience! 
 
 ## And that's it!
