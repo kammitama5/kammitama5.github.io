@@ -85,6 +85,10 @@ They were everywhere! It was lovely!
 
 <img src="/images1/Banff23/banff16.png" width="400">
 
+<img src="/images1/Banff23/banff17.png" width="400">
+
+- We joked that this was really just an AI, and that people on the Slack aren't real people :). The comments were all "we exist in the real world!" and everyone was pretty thrilled.
+
 ## The adventure home!
 - That was not the end! Getting home was an adventure!
 - Firstly, I was able to catch up with my friend, Kevin, from the functional programming community at the Calgary airport! We've been chatting
