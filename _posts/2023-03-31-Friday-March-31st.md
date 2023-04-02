@@ -61,7 +61,8 @@ other projects / spinoffs we initiated at the group. Also, stay tuned for a poss
 
 <img src="/images1/Banff23/banff8.png" width="400">
 
-- The Hot springs! Highly recommend! We ended up staying there for 4 hours! Was so good!
+- The Hot springs! Highly recommend! We ended up staying there for 4 hours! Was so good! It is geothermally heated with a gradated entrance so that you
+start putting your feet into the water even before you get to the pool. The water was 40 degrees (I am from an ex-British colony so I don't know what that is in Fahrenheit) on the day we went!
 
 <img src="/images1/Banff23/banff9.png" width="400">
 
