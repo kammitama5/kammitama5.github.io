@@ -12,7 +12,8 @@
 ## 2023
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
-- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila). 
+- I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila).
+- I've been accepted to attend the “Machine-Checked Proofs” workshop at the Lorentz Center in Leiden (the Netherlands), which will be on Lean! 
 - I'm also going to be attending the Machine Assisted Proofs workshop
 at IPAM, and
 - the research workshop at WIN6 in Banff, Canada (assigned to the Machine Learning and Mathematics / AI for Mathematics research group)! I'm tremendously excited for all of these opportunities!
