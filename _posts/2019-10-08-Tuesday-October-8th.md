@@ -24,6 +24,7 @@ at IPAM, and
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
 - I got a shoutout for Women's International Day by Technovation.
 - I will be at UT Austin over summer at the iSchool Inclusion Institute (I3) teaching a "Computational Tools" class for 10 days! I am OVER THE MOON excited for the opportunity!!!
+- I will be participating in the LXAI at CVPR Mentorship Program as a mentee!
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 (This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
 - I have been accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers",
