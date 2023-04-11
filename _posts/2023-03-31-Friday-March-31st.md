@@ -89,6 +89,11 @@ They were everywhere! It was lovely!
 
 - We joked that this was really just an AI, and that people on the Slack aren't real people :). The comments were all "we exist in the real world!" and everyone was pretty thrilled.
 
+
+<img src="/images1/Banff23/groupphoto1.jpeg" width="400">
+
+- Our group for the conference (sans one of our PIs, who was grabbing a coat and hat and just missed the photo op :(. Image courtesy of [BIRS](http://www.birs.ca/events/2023/5-day-workshops/23w5175) and WIN!
+
 ## The adventure home!
 - That was not the end! Getting home was an adventure!
 - Firstly, I was able to catch up with my friend, Kevin, from the functional programming community at the Calgary airport! We've been chatting
