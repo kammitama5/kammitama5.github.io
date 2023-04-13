@@ -146,6 +146,15 @@ who unfortunately, years later found out had passed away, and often drew at 3Kic
 - I took a few workshops on painting, colour and composition with [Bill Perkins](https://www.gallerynucleus.com/event/296). When you complete his workshops, he gives you an array of hats to pick from, and I got one from NCIS (not the show; the real organization).
 - Red Engine School (took a bunch of digital painting classes there, eg Character Design, Environment Design, Worldbuilding). [Patrick Hanenberger](http://www.patrickhanenberger.com/about)'s Worldbuilding workshop left a huge impression on me (LA)
 - Foundation Arts (took a bunch of painting, charcoal and sight size drawing classes there; school is closed) (LA)
+
+<img src="/images1/paint213.png" width="200">
+
+- We had an assignment to paint four man-made objects, so I had a can of sardines, a pepper shaker and two other things in my apartment. 
+
+<img src="/images1/paint113.png" width="200">
+
+- Painting with a limited palette. I did hundreds of these at home when I wasn't out drawing. I also sculpted with Chavant NSP. This one is obviously not completed; I got tired by the time I had to do the hair lol. But these are in oils on fabric.
+
 - Studio Arts (took a bunch of vfx and digital 3D classes there; I took all the Modo and Vectorworks classes, Zbrush, Maya, Digital Sketching classes and learned some Typography in Illustrator. I also learned Rhino, which is still my go-to software for mock-ups. Took a gazillion of [Todd](https://www.thecanadianencyclopedia.ca/en/article/todd-cherniawsky)'s classes. Learned about [Renderman](https://en.wikipedia.org/wiki/Pixar_RenderMan). Got first taste of scripting in Rhino+Modo class from [Cadjunkie](http://www.cadjunkie.com/); took at least 3 of his classes. I also took a couple classes by the amazing [Jordu Schell](https://en.wikipedia.org/wiki/Jordu_Schell)). (LA)
 
 <img src="/images/ebell1.png" width="600">
