@@ -10,6 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
+- I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in SF, where I will be learning about the Vampire Theorem Prover! I am super stoked!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila).
