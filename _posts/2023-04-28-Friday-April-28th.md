@@ -49,7 +49,7 @@ and even sat with a professor and researcher from NIST at the banquet dinner, wh
 to mine in terms of the pivoting and obstacles. It was *so* encouraging. I also learned that apparently European bread and chocolate is a pretty
 great combination after being coaxed to try some.
 - I remember chatting with an Israeli researcher about how much I had wanted to do this for the longest time, and how much tougher it had been
-for me to join the community and to find my way, and he responded by saying that "nothing that is truly worth something is easy". It warmed my 
+for me to join the community and to find my way, and he responded by saying that "nothing that is truly worth doing is easy". It warmed my 
 heart! I had another moment when I wanted to turn into a ball of tears when a friend of mine excitedly told me that she had presented her first
 talk ever at this conference workshop, and we both celebrated presenting together. "We are doing the thing!" I said excitedly. There was so much
 of that! It was just the kind of space where you could celebrate the achievements of everyone, no matter how big or small.
