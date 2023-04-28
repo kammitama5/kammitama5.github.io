@@ -24,7 +24,7 @@ people who thought they could get away from the French protest and ran into the 
 pretty fine for myself and my roommate.
 
 ## Talks and Banquet
-- The workshops were incredible! Everyone was quite wonderful, and one the first day I attended the Isogenies Brainstorming workshop. So, I knew
+- The workshops were incredible! Everyone was quite wonderful, and on the first day I attended the Isogenies Brainstorming workshop. So, I knew
 some of the people there before via Zoom; I had been part of several talks and sessions that met pretty regularly. That ended up being a blast
 because after persons presented ideas for brainstorming "Hey, I have this thing, but I'm not sure if it will work or where to go from here", 
 we divided ourselves into groups and worked together, and it was so incredibly well-put together and everyone was so nice that I got a lot out of it.
