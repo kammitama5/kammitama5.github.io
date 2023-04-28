@@ -43,6 +43,19 @@ and see people scribbling down diagrams and writing code and I just felt like a 
 be in, and where all the people lived who I would sneak away to see talks from online from the comfort of my home. It was incredible! It was all
 happening here!
 
+## Quite a few mentors
+- I met quite a few mentors there, including an isogenist Professor from Singapore who remembered me from Zoom! I also met rock-star Luca,
+and even sat with a professor and researcher from NIST at the banquet dinner, who told me about his own path, which was surprisingly similar
+to mine in terms of the pivoting and obstacles. It was *so* encouraging. I also learned that apparently European bread and chocolate is a pretty
+great combination after being coaxed to try some.
+- I remember chatting with an Israeli researcher about how much I had wanted to do this for the longest time, and how much tougher it had been
+for me to join the community and to find my way, and he responded by saying that "nothing that is truly worth something is easy". It warmed my 
+heart! I had another moment when I wanted to turn into a ball of tears when a friend of mine excitedly told me that she had presented her first
+talk ever at this conference workshop, and we both celebrated presenting together. "We are doing the thing!" I said excitedly. There was so much
+of that! It was just the kind of space where you could celebrate the achievements of everyone, no matter how big or small.
+- What was best is that I totally was certain I was an isogenist after going there, regardless of what anyone outside the community thought,
+it was pretty clear the people *in* the community wanted me there. And that feeling was incredible!
+
 ## The Way Back
 - On the way back, I got stuck in Atlanta for a night, because of a flight delay from Paris, so they put us up in the hotel for the evening.
 - In the morning, unfortunately, after being on such large planes, I had my first claustrophobia panic attack, and I learned a bit about more
