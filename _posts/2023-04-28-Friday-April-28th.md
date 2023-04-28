@@ -9,7 +9,7 @@ me (grumble grumble). Then again, my Aussie friend has in general given me a hea
 And the questions were so ambiguous, and it was 7am or something like that. But I made it through. I immediately was awestruck by what I recognized 
 was a [Calatrava design](https://en.wikipedia.org/wiki/Lyon-Saint-Exup%C3%A9ry_TGV_station), and if you know me, you know I LOVE his work! So that was a treat! Then, I made it to the hotel with a French gentleman asking
 me "so, here on holiday?". Everyone was so incredibly friendly and the people here in Lyon had a great tongue-in-cheek humour that I loved, and they are
-just a lot of fun to be around.
+just a lot of fun to be around. I'm not sure if it was either the Spanish population or Portuguese population there, but they also *really* took a liking to me in Lyon! They took care of me, whether they were at the hotel, or a restaurant; I don't know the history of settlers in the region, but it felt surprisingly like they had my back there.
 
 ## Roommate and Protests
 - My roommate wasn't there the first evening, and I was a bit worried, but also had a thought that maybe I wouldn't have one? To my delight, she was
