@@ -71,6 +71,9 @@ what it should have cost and told me to come back. I will! It was incredible!
 
 <img src="/images1/EuroCryptSmall23/eurocrypt2.png" width="300">
 
+- Very typical; you start with a salad, then main course, then dessert (three plates). I also got espresso, too, because they seemed keen on
+keeping me there haha.
+
 <img src="/images1/EuroCryptSmall23/eurocrypt3.png" width="300">
 
 <img src="/images1/EuroCryptSmall23/eurocrypt4.png" width="300">
