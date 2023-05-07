@@ -35,93 +35,164 @@ friendly and the whole environment was just one that I would love for more AI co
 - Maybe...see you in Vienna?
 
 ## Photos
+
 <img src="/images1/ICLR23small/rwanda1.png" width="400">
 
+- On the way at JFK to my International flight
+
 <img src="/images1/ICLR23small/rwanda2.png" width="400">
+
+- Hi; you're in Lomé (in Togo)
 
 
 <img src="/images1/ICLR23small/rwanda3.png" width="400">
 
+- Hi, now you're in Rwanda.
+
 
 <img src="/images1/ICLR23small/rwanda4.png" width="400">
+
+- Day 1 breakfast. The breakfast was soooo good!
 
 
 <img src="/images1/ICLR23small/rwanda5.png" width="400">
 
+- More Breakfast!
+
 <img src="/images1/ICLR23small/rwanda6.png" width="400">
 
+- Represent lol. People texted me and told me I was in the keynote apparently, but I was on a flight so didn't manage to make it to that.
+
 <img src="/images1/ICLR23small/rwanda7.png" width="400">
+
+- The view each day!
 
 
 <img src="/images1/ICLR23small/rwanda8.png" width="400">
 
+- The lobby!
+
 
 <img src="/images1/ICLR23small/rwanda9.png" width="400">
+
+- Ack I had a swimsuit in my luggage :(
 
 
 <img src="/images1/ICLR23small/rwanda10.png" width="400">
 
+- Beautiful flowers in the lobby
+
 <img src="/images1/ICLR23small/rwanda11.png" width="400">
 
+- A gathering for the organizer dinner. It was so much fun! 
+
 <img src="/images1/ICLR23small/rwanda12.png" width="400">
+
+- This random (but very tasty) fish showed up on our table. So good!
 
 
 <img src="/images1/ICLR23small/rwanda13.png" width="400">
 
+- Top view!
+
 
 <img src="/images1/ICLR23small/rwanda14.png" width="400">
+
+- More flowers from the lobby. So beautiful!
 
 
 <img src="/images1/ICLR23small/rwanda15.png" width="400">
 
+- Pool close-up!
+
 <img src="/images1/ICLR23small/rwanda16.png" width="400">
 
+- I gave in the night before our workshop and did room service. It was so amazing!
+A channa and potato burger with fried onion rings on top and fries with thousand island sauce.
+I also *loved* African tea! Spicy and so good in the mornings!
+
 <img src="/images1/ICLR23small/rwanda17.png" width="400">
+
+- Part of the daily breakfast spread!
 
 
 <img src="/images1/ICLR23small/rwanda18.png" width="400">
 
+- Part of the snack spread at KCC
+
 
 <img src="/images1/ICLR23small/rwanda19.png" width="400">
+
+- More snack spread in the afternoon at KCC
 
 
 <img src="/images1/ICLR23small/rwanda20.png" width="400">
 
+- Yummy!
+
 <img src="/images1/ICLR23small/rwanda21.png" width="400">
 
+- Sweet pepper design
+
 <img src="/images1/ICLR23small/rwanda22.png" width="400">
+
+- KCC
 
 
 <img src="/images1/ICLR23small/rwanda23.png" width="400">
 
+- Walking to our workshop dinner at The Hut
+
 
 <img src="/images1/ICLR23small/rwanda24.png" width="400">
+
+- View from The Hut balcony
 
 
 <img src="/images1/ICLR23small/rwanda25.png" width="400">
 
+- More beautiful views
+
 <img src="/images1/ICLR23small/rwanda26.png" width="400">
 
+- Panoramic shot
+
 <img src="/images1/ICLR23small/rwanda27.png" width="400">
+
+- Roof of the Hut, which is on the 4th floor
 
 
 <img src="/images1/ICLR23small/rwanda28.png" width="400">
 
+- Our group of 30 became 50!
+
 
 <img src="/images1/ICLR23small/rwanda29.png" width="400">
+
+- Then Andrea ordered some Portugese red wine that was amazing!
 
 
 <img src="/images1/ICLR23small/rwanda30.png" width="400">
 
+- Avocado fries
+
 <img src="/images1/ICLR23small/rwanda31.png" width="400">
+
+- Peanut stew shrimp on skewers with potato and veggies
 
 
 <img src="/images1/ICLR23small/rwanda32.png" width="400">
 
+- Beautiful Kigali Convention Centre roof!
+
 
 <img src="/images1/ICLR23small/rwanda33.png" width="400">
 
+- Taking a photo in Addis
+
 
 <img src="/images1/ICLR23small/rwanda34.png" width="400">
+
+- Taking a photo in Togo.
 
 ## And that's it!
