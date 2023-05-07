@@ -14,7 +14,7 @@ I really, really enjoyed my stay and everything else, including the conference. 
 - Oh, and I did eventually get my bag back, so all is well! So it was just an experience! :)
 
 ## A little bit of anxiety
-- I've had a little bit of anxiety these days, and on one day I had off during the conference, I watched the documentary on Tim Bergling
+- I've had a little bit of anxiety these days, and on one day I had off during the conference, I watched the [documentary](https://www.dailymotion.com/video/x8gz5vl) on Tim Bergling
 just before he passed away. The flying across the world had my sleep schedule a bit messed up, but not having all my clothes meant
 I couldn't go to the gym, and my mind tends to go into overdrive, giving me anxiety at night so I can't go to sleep. And I missed my
 weekly meditation with my group of postdocs (yes, that's a thing I also do). I will never be Tim, but I relate a lot to his introverted
