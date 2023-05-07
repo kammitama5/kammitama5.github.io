@@ -11,6 +11,7 @@ extra in New York. Then, a trip from JFK to Lomé, then a trip to Addis, then fi
 in time, and it ended up being the case that I got it back when I went to the airport to leave to head back to the US.
 - The great thing was that the organizers were so amazing, that they got me new clothes! Also, the hotel was so fantastic, that
 I really, really enjoyed my stay and everything else, including the conference. It was fantastic. Don't believe me; see the photos below!
+- Oh, and I did eventually get my bag back, so all is well! So it was just an experience! :)
 
 ## A little bit of anxiety
 - I've had a little bit of anxiety these days, and on one day I had off during the conference, I watched the documentary on Tim Bergling
