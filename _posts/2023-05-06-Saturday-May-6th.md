@@ -21,7 +21,7 @@ weekly meditation with my group of postdocs (yes, that's a thing I also do). I w
 nature and anxiety when being around large groups of people. I often have to psych myself up, and feel exhausted afterwards.
 What was nice was that the organizers of ICLR were so awesome that we had a staff room (MR6) where I could take breaks and recharge.
 I really appreciated that because I get *exhausted* around large groups of people for extended bits of time, and this can manifest
-itself in anxiety and stress.
+itself in anxiety and stress. Travel can also make me feel burned out because there is generally a lack of private space / people are in your personal space a lot when you are travelling. Culturally, I have a strong sense of wanting my personal space, so having that invaded / outside of my control can be draining. So sometimes I need an entire day just to decompress in silence and listen to music / not interact with anyone (except maybe close family / friends) to recharge.
 
 ## Anyways
 - I had an amazing time! The workshop we co-hosted was AMAZING, and I heard from Yan that people were asking *when* the next ICLR
