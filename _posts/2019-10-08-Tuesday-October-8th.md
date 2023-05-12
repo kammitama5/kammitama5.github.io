@@ -11,6 +11,7 @@
   
 ## 2023
 - I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in SF, where I will be learning about the Vampire Theorem Prover! I am super stoked!
+- I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I was accepted into the Zaiku's Software Verification class. The group focuses on reasoning about Quantum systems, and in particular, this six week
 class focuses on Software Verification using Functional Programming.
