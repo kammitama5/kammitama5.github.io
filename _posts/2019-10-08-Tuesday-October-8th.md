@@ -11,10 +11,10 @@
   
 ## 2023
 - I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in SF, where I will be learning about the Vampire Theorem Prover! I am super stoked!
-- I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity!
+- I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is TBD!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I was accepted into the Zaiku's Software Verification class. The group focuses on reasoning about Quantum systems, and in particular, this six week
-class focuses on Software Verification using Functional Programming.
+class focuses on Software Verification using Functional Programming and using Lean, specifically.
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila).
 - I've been accepted to attend the “Machine-Checked Proofs” workshop at the Lorentz Center in Leiden (the Netherlands), which will be on Lean! 
