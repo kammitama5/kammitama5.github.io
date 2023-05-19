@@ -24,6 +24,7 @@ at IPAM, and
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and 
 - was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
+- I will be on the PC Committee (and review) for the Safe and Trustworthy AI Conference at the International Conference on Logic Programming!
 - I attended the Two Sigma Quant Talks (1/24) and (2/23) by invitation.
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
 - I got a shoutout for Women's International Day by Technovation.
