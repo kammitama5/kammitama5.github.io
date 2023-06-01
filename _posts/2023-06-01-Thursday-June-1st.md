@@ -100,7 +100,7 @@ and I don't have to be interested in Programming Languages necessarily (not ever
 
 <img src="/images1/FormalMethods23/fm22.png" width="400">
 
-- Jessie gives a talk on Verifying LLMs and Challenges in that space that could benefit from a formal methods approach.
+- Jesse gives a talk on Verifying LLMs and Challenges in that space that could benefit from a formal methods approach.
 
 <img src="/images1/FormalMethods23/fm23.png" width="400">
 
@@ -115,6 +115,6 @@ and I don't have to be interested in Programming Languages necessarily (not ever
 - There are a number of fields that could benefit from these methods, and in particular, what they emphasize is in particular fields that do not know they necessarily need them, rather than just the typical "programming languages" approach. In fact, I used to think
 that PL was formal verification, but they're two quite separate fields, and I really enjoyed learning about them in a context that
 wasn't just focused on programming languages techniques and approaches. I learned so much, and it was very applicable to my area of
-research!
+research! I would definitely like to return within a year, having stuck with Lean and with the working group (using PVS) to see how that would impact my experience.
 
 ## That's it
