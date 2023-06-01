@@ -8,7 +8,7 @@ CS people, and 20 percent Maths (Model Theory people, etc), with some people fro
 was exceptional.
 - It was a very close-knit group, and even though we worked together, we also took a trip to San Francisco, did a hike at the 
 Stanford Dish Trail and campus, did trips to various tech companies, the Computer History museum, and all the things (including
-several boba runs).
+several boba runs). In fact, it's been so positive that a group of us will continue to learn one of the theorem provers together and continue to meet after the workshop ends, which is amazing!
 
 ## As for the workshop
 - The format was as such: in the first week, we had lectures in the morning, and labs in the afternoon (two each), where we 
@@ -27,17 +27,31 @@ and I don't have to be interested in Programming Languages necessarily, but just
 
 <img src="/images1/FormalMethods23/fm1.png" width="400">
 
+- On the way to San Francisco via Caltrain!
+
 <img src="/images1/FormalMethods23/fm2.png" width="400">
+
+- On the Stanford Dish Trail!
 
 <img src="/images1/FormalMethods23/fm3.png" width="400">
 
+- At Fisherman's Wharf in SF!
+
 <img src="/images1/FormalMethods23/fm4.png" width="400">
+
+- Also in SF
 
 <img src="/images1/FormalMethods23/fm5.png" width="400">
 
+- Making our way back to Caltrain at the end of the night
+
 <img src="/images1/FormalMethods23/fm6.png" width="400">
 
+- At the dish at Stanford Dish trail.
+
 <img src="/images1/FormalMethods23/fm7.png" width="400">
+
+- Beautiful sunset at Stanford Dish trail.
 
 <img src="/images1/FormalMethods23/fm8.png" width="400">
 
@@ -45,19 +59,31 @@ and I don't have to be interested in Programming Languages necessarily, but just
 
 <img src="/images1/FormalMethods23/fm10.png" width="400">
 
+- Touring Stanford
+
 <img src="/images1/FormalMethods23/fm11.png" width="400">
 
 <img src="/images1/FormalMethods23/fm12.png" width="400">
+
+- Union Square in SF photo
 
 <img src="/images1/FormalMethods23/fm13.png" width="400">
 
 <img src="/images1/FormalMethods23/fm14.png" width="400">
 
+- Someone asked Lamport a GPT generated question during the Q&A session
+
 <img src="/images1/FormalMethods23/fm15.png" width="400">
+
+- Learning TPTP from Geoff
 
 <img src="/images1/FormalMethods23/fm16.png" width="400">
 
+- Wine made by scientists at SRI!
+
 <img src="/images1/FormalMethods23/fm17.png" width="400">
+
+- Carolyn talks about "A basis for a Mathematical Theory of Computation"
 
 <img src="/images1/FormalMethods23/fm18.png" width="400">
 
@@ -65,14 +91,29 @@ and I don't have to be interested in Programming Languages necessarily, but just
 
 <img src="/images1/FormalMethods23/fm20.png" width="400">
 
+- Andrei gives out certificates from the summer school with Shankar
+
 <img src="/images1/FormalMethods23/fm21.png" width="400">
+
+- Banquet desserts
 
 <img src="/images1/FormalMethods23/fm22.png" width="400">
 
+- Jessie gives a talk on Verifying LLMs and Challenges in that space that could benefit from a formal methods approach.
+
 <img src="/images1/FormalMethods23/fm23.png" width="400">
+
+- elote! I've been dreaming about elote since there isn't good elote where I live!
 
 <img src="/images1/FormalMethods23/fm24.png" width="400">
 
 <img src="/images1/FormalMethods23/fm25.png" width="400">
+
+## In Conclusion
+- I highly recommend it!
+- There are a number of fields that could benefit from these methods, and in particular, what they emphasize is in particular fields that do not know they necessarily need them, rather than just the typical "programming languages" approach. In fact, I used to think
+that PL was formal verification, but they're two quite separate fields, and I really enjoyed learning about them in a context that
+wasn't just focused on programming languages techniques and approaches. I learned so much, and it was very applicable to my area of
+research!
 
 ## That's it
