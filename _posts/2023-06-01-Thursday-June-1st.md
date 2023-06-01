@@ -20,7 +20,7 @@ and Geoff's website adds a delay to a random if you don't donate, which I though
 ## My purpose for attending
 - I'm learning Lean in-depth this summer on my own, and am interested in using it as a tool for my work now and in the future.
 - It made me realize that I can completely learn and use these tools (I liked Isabelle as well, but sticking with Lean for now),
-and I don't have to be interested in Programming Languages necessarily, but just use it as a tool for checking my assumptions about cryptography as I work through a system. So that's kind of been my goal. Plus, a lot of Mathematicians seem to like it, so unlike some of the other tools, it's not a tool that would distance me from the community I want to be a part of as I continue to do research.
+and I don't have to be interested in Programming Languages necessarily (not everyone wants to build languages! I wish some communities would stop selling formal verification as "PL" because there's a distinction that can be missed between the communities), but just use it as a tool for checking my assumptions about cryptography as I work through a system (modelling behavior, verifying my assumptions are correct). So that's kind of been my goal. Plus, a lot of Mathematicians seem to like it, so unlike some of the other tools, it's not a tool that would distance me from the community I want to be a part of as I continue to do research.
 - Also, finally, good news: I got into another workshop on my topic of research, which will be in August! I'm super stoked about that! 
 
 ## Here are some photos from the summer school!
