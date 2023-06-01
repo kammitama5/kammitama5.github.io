@@ -15,6 +15,13 @@ several boba runs).
 were exposed to various Theorem Provers such as the Vampire Theorem prover, Alloy, PVS, and TPTP. TPTP has wonderful syntax,
 and Geoff's website adds a delay to a random if you don't donate, which I thought was pretty funny.
 - We had a lovely talk by Carolyn Talcott on McCarthy's paper for its 60th birthday, and a session with Leslie Lamport on Paxos.
+- We also did questions like a Soduku solver, and DDH using Easycrypt. Easycrypt looks interesting and definitely something I may put my hands on in the future, as it's very applicable to some of the work I'm doing.
+
+## My purpose for attending
+- I'm learning Lean in-depth this summer on my own, and am interested in using it as a tool for my work now and in the future.
+- It made me realize that I can completely learn and use these tools (I liked Isabelle as well, but sticking with Lean for now),
+and I don't have to be interested in Programming Languages necessarily, but just use it as a tool for checking my assumptions about cryptography as I work through a system. So that's kind of been my goal. Plus, a lot of Mathematicians seem to like it, so unlike some of the other tools, it's not a tool that would distance me from the community I want to be a part of as I continue to do research.
+- Also, finally, good news: I got into another workshop on my topic of research, which will be in August! I'm super stoked about that! 
 
 ## Here are some photos from the summer school!
 
