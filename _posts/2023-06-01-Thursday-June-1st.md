@@ -88,7 +88,7 @@ and I don't have to be interested in Programming Languages (not everyone wants t
 
 <img src="/images1/FormalMethods23/fm17.png" width="400">
 
-- Carolyn talks about "A basis for a Mathematical Theory of Computation"
+- Carolyn talks about "A basis for a Mathematical Theory of Computation". Coincidentally, the first Meetup I ever attended in LA was on a paper by Hoare which cites this paper. It was my introduction to Computer Science (and the very next day I went to a Haskell meetup).
 
 <img src="/images1/FormalMethods23/fm18.png" width="400">
 
