@@ -11,7 +11,7 @@
   
 ## 2023
 - I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August!
-- I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in Atherton, where I will be learning about the Vampire Theorem Prover and attending a session hosted by Lamport on Paxos! I am super stoked!
+- I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in Atherton, where I will be learning about the Vampire Theorem Prover, TPTP, Alloy, PVS and attending a session hosted by Lamport on Paxos! I am super stoked!
 - I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is TBD!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I was accepted into the Zaiku's Software Verification class. The group focuses on reasoning about Quantum systems, and in particular, this six week
