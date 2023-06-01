@@ -14,6 +14,7 @@ several boba runs). In fact, it's been so positive that a group of us will conti
 - The format was as such: in the first week, we had lectures in the morning, and labs in the afternoon (two each), where we 
 were exposed to various Theorem Provers such as the Vampire Theorem prover, Alloy, PVS, and TPTP. TPTP has wonderful syntax,
 and Geoff's website adds a delay to a random if you don't donate, which I thought was pretty funny.
+- We honestly also got enough knowledge to build our own theorem prover, too, which is awesome and something maybe I do in the future (with more time, after my PhD).
 - We had a lovely talk by Carolyn Talcott on McCarthy's paper for its 60th birthday, and a session with Leslie Lamport on Paxos.
 - We also did questions like a Soduku solver, and DDH using Easycrypt. Easycrypt looks interesting and definitely something I may put my hands on in the future, as it's very applicable to some of the work I'm doing.
 
