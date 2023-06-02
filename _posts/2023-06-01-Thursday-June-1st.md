@@ -8,7 +8,7 @@ CS people, and 20 percent Maths (Model Theory people, etc), with some people fro
 was exceptional.
 - It was a very close-knit group, and even though we worked together, we also took a trip to San Francisco, did a hike at the 
 Stanford Dish Trail and campus, did trips to various tech companies, the Computer History museum, and all the things (including
-several boba runs). In fact, it's been so positive that a group of us will continue to learn one of the theorem provers together and continue to meet after the workshop ends, which is amazing!
+several boba runs, movie night and games of Clue and Guess Who). In fact, it's been so positive that a group of us will continue to learn one of the theorem provers together and continue to meet after the workshop ends, which is amazing!
 
 ## As for the workshop
 - The format was as such: in the first week, we had lectures in the morning, and labs in the afternoon (two each), where we 
@@ -114,6 +114,14 @@ and I don't have to be interested in Programming Languages (not everyone wants t
 <img src="/images1/FormalMethods23/fm24.png" width="400">
 
 <img src="/images1/FormalMethods23/fm25.png" width="400">
+
+<img src="/images1/FormalMethods23/fm26.png" width="400">
+
+- On our hike at Stanford Dish Trail
+
+<img src="/images1/FormalMethods23/fm27.png" width="400">
+
+- At Stanford at the Denning House for a photo op.
 
 ## In Conclusion
 - I highly recommend it!
