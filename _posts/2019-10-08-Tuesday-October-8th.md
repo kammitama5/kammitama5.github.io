@@ -352,9 +352,9 @@ study group.
 - More Abstract Algebra :)
 
 ## Quals topics (yes; a CS student sitting three Maths quals!)
-- Elliptic Curves (Maths)
+- Elliptic Curves (Maths) (completed June 14th, 2023)
 - Graph Theory (Maths)
-- Quantum Computing and Mathematical Cryptography (Maths)
+- Quantum Computing and Mathematical Cryptography (Maths) (in progress)
 
 ## I think this means I'm not doing *too* badly
 
