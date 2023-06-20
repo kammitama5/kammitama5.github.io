@@ -6,7 +6,7 @@
   some of the stuff I've done this year.
   
 - PhDs do that, I guess, so maybe I should too?
-- If you find this confusing, please check out my most up to date CV in the Other section of the [About](https://kammitama5.github.io/about/) page.
+- If you find this confusing, please check out my most up to date CV in the first section of the [About](https://kammitama5.github.io/about/) page.
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
