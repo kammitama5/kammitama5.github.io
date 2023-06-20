@@ -10,6 +10,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
+- I passed my elliptic curves qual! (June 14th at 1:30pm). Thank you Silverman, and my bird studying mascott, Verschiebung McFlocland!
 - I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August! Excited to be back in Banff!
 - I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in Atherton, where I will be learning about the Vampire Theorem Prover, TPTP, Alloy, PVS and attending a session hosted by Lamport on Paxos! I am super stoked!
 - I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is one on coding theory, which I am super stoked about!
