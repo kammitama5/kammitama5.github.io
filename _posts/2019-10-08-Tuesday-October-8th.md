@@ -10,12 +10,12 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
   
 ## 2023
-- I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August!
+- I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August! Excited to be back in Banff!
 - I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in Atherton, where I will be learning about the Vampire Theorem Prover, TPTP, Alloy, PVS and attending a session hosted by Lamport on Paxos! I am super stoked!
-- I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is TBD!
+- I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is one on coding theory, which I am super stoked about!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
 - I was accepted into the Zaiku's Software Verification class. The group focuses on reasoning about Quantum systems, and in particular, this six week
-class focuses on Software Verification using Functional Programming and using Lean, specifically.
+class focuses on Software Verification using Functional Programming and using Lean 3, specifically.
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila).
 - I've been accepted to attend the “Machine-Checked Proofs” workshop at the Lorentz Center in Leiden (the Netherlands), which will be on Lean! 
@@ -31,7 +31,7 @@ at IPAM, and
 - I got a shoutout for Women's International Day by Technovation.
 - I will be at UT Austin over summer at the iSchool Inclusion Institute (I3) teaching a "Computational Tools" class for 10 days! I am OVER THE MOON excited for the opportunity!!!
 - I will be participating in the LXAI at CVPR Mentorship Program as a mentee!
-- I have been invited to LuCaNT at ICERM, which focuses on LMFDB, Computation and Number Theory! (with funding!)
+- I have been invited to LuCaNT at ICERM, which focuses on LMFDB, Computation and Number Theory! (with funding!). My research group is TBD!
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 (This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
 - I have been accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers",
