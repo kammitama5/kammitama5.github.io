@@ -12,7 +12,7 @@ and staying in the Mathematics community, of course.
 - Over the past two weeks, I participated in the Rethinking Number Theory (RNT) workshop, which was remote. The motivation for the workshop is to reimagine and have
 better spaces in the mathematics community, specifically within Number Theory. You never know if you'll get a spot in these kinds of workshops, as a lot of people
 do apply, but I was fortunate enough to get in (score!) and also get into the exact research group I wanted to get into (double score!). So I was elated.
-- My group is working on a project in coding theory, which is something I have always wanted to learn more about, and had in earnest started working with a professor
+- My group is working on a project in [coding theory](https://en.wikipedia.org/wiki/Coding_theory), which is something I have always wanted to learn more about, and had in earnest started working with a professor
 on in my university, but neither of us really had the proper background for it. So this was the perfect introduction, and the group plans to publish the work in
 a journal, I believe.
 
