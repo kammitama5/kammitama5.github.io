@@ -16,6 +16,7 @@ do apply, but I was fortunate enough to get in (score!) and also get into the ex
 on in my university, but neither of us really had the proper background for it. So this was the perfect introduction, and the group plans to publish the work in
 a journal, I believe.
 - I am able to talk about this work because the author has already published a paper, which we will be extending upon, so the idea itself is not going to be scooped.
+- I guess I shouldn't be so unkind to myself; my undergrad and my time in Hollywood exposed me to quite a few practical applications of coding theory, and I do know about file formats, as that is the kind of stuff we worked with daily (and I was a member of SMPTE for several years), but understanding them from working purely in a theoretical setting is unfamiliar to me.
 
 ## What is Coding Theory
 - In our final presentation, we gave a talk on our project (about 8 minutes so each member had around 2 minutes to speak) and what we had done over the two weeks,
