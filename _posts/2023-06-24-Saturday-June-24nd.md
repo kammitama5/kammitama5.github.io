@@ -66,5 +66,9 @@ why don't you just go into a corner and write awesome papers by yourself and sub
 and organizer of your own awesome conference, can give a talk in a conference that only you attend? Ugh.). This workshops built me back up, and it was so
 encouraging when members said I did things, they wanted to continue working with me, I was even asked if I wanted to give a talk at a university by
 someone in my group, and the PI gave me a specific example to work on for our next meeting in three weeks!
+- This year, I've been pleasantly surprised, after being torn down in the past that (i) I could be valued for my perspective and for research (ii) quite
+a lot of people want to work with me. It's been an overwhelming but very rewarding year for me, and very validating for having stuck with research, in
+spite of these initial setbacks. So I'm keeping my eyes forward, and continuing to learn from and enjoy each day. Thank you for those who continued to
+believe in me and to support me, and to encourage me; I'm happy to have made it this far, and I love my current research community!
 
 ## And that's it
