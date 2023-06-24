@@ -20,7 +20,7 @@ a journal, I believe.
 ## What is Coding Theory
 - In our final presentation, we gave a talk on our project (about 8 minutes so each member had around 2 minutes to speak) and what we had done over the two weeks,
 and how we plan to proceed. I introduced the topic, which is what it is, and what we are doing in our paper. In communication, you can think of two people; one
-which is a generator or encoder and the other which is a decoder of a message. And we have a linear code, which gives us information over a finite field as to
+which is a generator or encoder (i.e. the speaking party) and the other which is a decoder of a message (i.e. the listening party). And we have a linear code, which gives us information over a finite field as to
 how many messages we can encode, and our hamming weight tells us what our errors might look like. And these things are important because they give us information
 about the strength of our ability to encode and decode (in terms of our algorithms), as well as our errors. They also tell us about our efficiency of our codes,
 which is important in terms of computation.
