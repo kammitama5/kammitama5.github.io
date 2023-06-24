@@ -1,7 +1,7 @@
 ## A Day off and Recap of RNT
 
 ## The others are at the museum
-- I decided to take a day off today to rest, do laundry and get some work done on my Lean learning. I had done the readings before, but there are exercises to do and
+- I decided to take a day off today to rest (while the rest of the group went to an Art Museum and to a Games Arcade), do laundry and get some work done on my Lean learning. I had done the readings before, but there are exercises to do and
 that sort of thing, and I want to get more comfortable with the Hilbert syntax. The mathematical notation itself is straightforward for me, but not the sort of notation
 that we are using (because that is based on Logic systems), so I want to get comfortable writing that and formulating programmes in Lean. I want to be clear that I don't care about programming languages,
 but I do care about learning Lean, and I wouldn't mind learning some theorem proving / formal methods on my own, since my university doesn't really have a strong
