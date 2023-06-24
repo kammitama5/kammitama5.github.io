@@ -15,6 +15,7 @@ do apply, but I was fortunate enough to get in (score!) and also get into the ex
 - My group is working on a project in [coding theory](https://en.wikipedia.org/wiki/Coding_theory), which is something I have always wanted to learn more about, and had in earnest started working with a professor
 on in my university, but neither of us really had the proper background for it. So this was the perfect introduction, and the group plans to publish the work in
 a journal, I believe.
+- I am able to talk about this work because the author has already published a paper, which we will be extending upon, so the idea itself is not going to be scooped.
 
 ## What is Coding Theory
 - In our final presentation, we gave a talk on our project (about 8 minutes so each member had around 2 minutes to speak) and what we had done over the two weeks,
