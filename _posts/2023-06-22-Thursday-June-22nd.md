@@ -17,8 +17,8 @@ Another word of advice I have heard from some of the professors guiding us is:
 - Most recently, I've also been exposed to some methods I had never heard of before (even with a lot of coaching in the Grad Writing Centre at my university; Nancy did a great job with respect to that), so again, I'm learning a lot.
 
 ## Debrief
-- Thursday 22nd: 
-- Friday 23rd: 
+- Thursday 22nd: being rooted in the real world while living in Academia. A driver heard I was going for a fellowship, and thought it was a religious fellowship :D. Completely agree that that could have been the case, but I guess I've been in Academia long enough this semester that at first I assumed he would know what I meant. Mistake on my part for not being clearer via communication. Was fascinating that compared to where I am (living), there are deeper discussions on things like how being disadvantaged societally affects people in communities. In particular, people speak about who gets to tell history, how that affects what we learn, perspectives and they think about misinformation as also a rewriting of history to suit a particular agenda. One of the fellows is working on this with respect to refugee communities and museums (how are their stories told, and by whom), which is fascinating, too. I really like that people in the group seem pretty worldly here, too; it's refreshing.
+- Friday 23rd: your passions can be a relatable tool for pedagogy. I saw an alum of the fellowship teaching students programming using a drum machine to talk about how music loops are like loops we use in programming. I thought that that was really cool! Went to an amazing restaurant for dinner and found a lot of similar stories between participants on the (amount of) labour of outreach and expectations in Academia, which was interesting. It's nice to be able to share that and not be gaslit for just speaking up about something that is so clear to me, just because it makes others who don't have those responsibilities "feel uncomfortable".
 
 ## Main TIL Week One
 - Monday 26th: 
