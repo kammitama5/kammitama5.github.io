@@ -63,7 +63,7 @@ again for every little thing I did, and just bragged about how
 awesome they were the whole time, how smart they were and how "hard" the things they were doing were to work on (in retrospect I realize this was not true!),
 which is not an something anyone should ever have to experience, because it's just self-serving (if you're so awesome,
 why don't you just go into a corner and write awesome papers by yourself and submit them to a conference where you, the awesome reviewer
-and organizer of your own awesome conference, can give a talk in a conference that only you attend? Ugh.). This workshops built me back up, and it was so
+and organizer of your own awesome conference, can give a talk in a conference that only you attend? Ugh.). This workshop built me back up, and it was so
 encouraging when members said I did things, they wanted to continue working with me, I was even asked if I wanted to give a talk at a university by
 someone in my group, and the PI gave me a specific example to work on for our next meeting in three weeks!
 - This year, I've been pleasantly surprised, after being torn down in the past that (i) I could be valued for my perspective and for research (ii) quite
