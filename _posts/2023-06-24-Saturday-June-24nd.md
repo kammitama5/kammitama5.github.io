@@ -34,7 +34,7 @@ no one treated me like I was less than capable. I really am SO appreciative of t
 writing out notes, answering my questions, admitting things he did not know but had to think about, and gave me an example to try on my own that will contribute
 to the larger paper.
 
-## Workshop, etc
+## Workshop structure and birds
 - In terms of the actual workshop, not only did we engage in research, but we also held sessions in which we spoke about different ideas for reimagining pedagogy
 and in things that could just be better within the Mathematics community, and how we might provide more impactful solutions or contributions in these spaces.
 So that was really rewarding, and I really enjoyed every day of the workshop. We communicated mainly on Zulip, which is an application I initially resisted,
@@ -47,7 +47,7 @@ looked like a multi-coloured pigeon doing a bunch of spectral / vector multiplic
 such as the Counting Crows (which is an amazing Number Theory bird name in general), the Dynamic Dancing Penguins (because they were doing Arithmetic Dynamics)
 etc, and the organizers were the Chickadees. I loved their sense of humour and just had a blast!
 
-## All of these things
+## Collaborations past and moving forward
 - All of these things contributed to my having a fantastic collaboration experience where I learned so much about a topic I genuinely would love to also
 continue publishing in, and it fits quite nicely with my actual research topic, too! And I made a bunch of friends with whom I can collaborate!
 - Furthermore, the entire experience was *so* joyful for me; it made me realize that sometimes in grad school, if you feel like deep down you still have
