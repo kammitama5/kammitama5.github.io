@@ -42,6 +42,6 @@ students seem big. Research labs in industry spin fool's gold. I trust their act
 - Because prestigious or not, we are in the land of grifters and  prestige is cashing (or cache-ing) in on old capital; it isn't a guarantee of the future
 or as is said in finance, "Returns represent past performance, and are not a guarantee of future performance".
 - And the truth is, with each new generation, I have seen those systems collapse. If the universe is expanding, as institutions become more
-interdisciplinary, by definition that old guard is unsustainable. I am waiting.
+interdisciplinary, by definition that old guard is unsustainable. I believe that those systems deterministically eat themselves from the inside out, like a giant rot, spoiled fruit. I am waiting.
 
 ## And that's it.
