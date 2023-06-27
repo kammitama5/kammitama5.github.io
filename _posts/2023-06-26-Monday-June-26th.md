@@ -37,7 +37,8 @@ club. I know I have to work around those systems. They are systems of grift.
 - I don't take those things personally (anymore), but these days I take it as a challenge to succeed *in spite of them*. I also by definition don't trust
 "promises" of words in Academia. To me, they might was well be that of a snake oil salesman. Everyone is trying to make themselves and their
 students seem big. Research labs in industry spin fool's gold. I trust their actions; what they do when it matters most.
-- Because prestigious or not, we are in the land of grifters and  prestige is cashing in on old capital; it isn't a guarantee of the future.
+- Because prestigious or not, we are in the land of grifters and  prestige is cashing in on old capital; it isn't a guarantee of the future
+or as is said in finance, "Returns represent past performance, and are not a guarantee of future performance".
 - And the truth is, with each new generation, I have seen those systems collapse. If the universe is expanding, as institutions become more
 interdisciplinary, by definition that old guard is unsustainable. I am waiting.
 
