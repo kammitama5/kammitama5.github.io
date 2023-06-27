@@ -26,9 +26,9 @@ The makeup artist was enthralled by my courage. With our friendly banter, I left
 Coordinator, but this time I was a set technician, and to be honest there was no one who looked like me, and this job was pretty much male-dominated.
 But on the way out, I heard my friend say, exasperated, "omg have you ever seen anyone like her on set before!?". He made the case that I was special,
 and that I deserved even more to have a spot.
-- Then. Nothing. But this time, my friend told me when they were shooting, and as it turned out, I. had just slipped between the cracks. I controlled
+- Then. Nothing. But this time, my friend told me when they were shooting, and as it turned out, I had just slipped between the cracks. I controlled
 my destiny this time and showed up to set on the first day, and they put me to work. On the second day, my name was on the call sheet. And I ended up
-working the entire shoot, and everyone was impressed with me by the time we wrapped.
+working the entire shoot, and everyone was impressed with me by the time we wrapped, and got my credit.
 
 ## Academia
 - Because of these experiences, I have spent less time in spaces where people pretend it is for "everyone", but the culture dictates that it is a closed
