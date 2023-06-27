@@ -21,7 +21,7 @@ Another word of advice I have heard from some of the professors guiding us is:
 - Friday 23rd: your passions can be a relatable tool for pedagogy. I saw an alum of the fellowship teaching students programming using a drum machine to talk about how music loops are like loops we use in programming. I thought that that was really cool! Went to an amazing restaurant for dinner and found a lot of similar stories between participants on the (amount of) labour of outreach and expectations in Academia, which was interesting. It's nice to be able to share that and not be gaslit for just speaking up about something that is so clear to me, just because it makes others who don't have those responsibilities "feel uncomfortable".
 
 ## Main TIL Week One
-- Monday 26th: 
+- Monday 26th: Slides or visual tools are helpful, especially when there is a lot of information. Also games are great (we did the PBJ exercise today, which students enjoyed!)
 - Tuesday 27th: 
 - Wednesday 28th: 
 - Thursday 29th: 
