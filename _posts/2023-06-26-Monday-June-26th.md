@@ -33,7 +33,8 @@ working the entire shoot, and everyone was impressed with me by the time we wrap
 ## Academia
 - Because of these experiences, I have spent less time in spaces where people pretend it is for "everyone", but the culture dictates that it is a closed
 club. I know I have to work around those systems. They are systems of grift.
-- I don't say that lightly; like vultures, they exploit and they steal from, without giving credit. If you are none the wiser, they can also break your spirit or like vultures, feast on your heart. 
+- I don't say that lightly; like vultures, they exploit and they steal from, without giving credit. If you are none the wiser, they can also break your spirit or like vultures, feast on your heart.
+- In essence, what they are saying is that you are worth less than those they have systemically been set up to succeed; your ideas, your work, are to pilfered, your labour only to be extracted for the use of others. And that is why it is so much more difficult if you don't fit neatly within the confines of that system. But their system is a lie. The grifter has spun a lie so deep he cannot tell its difference between the truth.
 - I don't take those things personally (anymore), but these days I take it as a challenge to succeed *in spite of them*. I also by definition don't trust
 "promises" of words in Academia. To me, they might was well be that of a snake oil salesman. Everyone is trying to make themselves and their
 students seem big. Research labs in industry spin fool's gold. I trust their actions; what they do when it matters most rather than their [Stromboli-esque](https://en.wikipedia.org/wiki/Mangiafuoco) antics.
