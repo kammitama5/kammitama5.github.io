@@ -17,8 +17,8 @@ the train back home, having found a place to stay.
 - Then nothing. I picked up another gig in-between the start date, and finally got in touch with the Production Coordinator, who told me that "all
 the interns were already working on set". It was the first time I had been led down the road of being made to believe that I had an opportunity "in
 the bag" and it turned out to be a lie. What was worse is that a friend of mine knew the set photographer, and had offered me the opportunity of
-being his assistant, but I was naive enough to think I had this PA job in the bag and had passed. By the time I reached out to him, his words stung
-"that ship has already sailed".
+being his assistant, but I was naive enough to think I had this PA job in the bag and had passed. By the time I reached out to him, his words stung.
+"That ship has already sailed".
 
 ## The Second Time
 - The second time I was at well-known studio in Hollywood, where the Production coordinator had called me for an interview. This time, I had an advocate.
