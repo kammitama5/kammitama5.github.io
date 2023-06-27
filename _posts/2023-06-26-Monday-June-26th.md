@@ -28,7 +28,7 @@ But on the way out, I heard my new friend, the makeup artist, say, exasperated, 
 and that I deserved even more to have a spot. Finding someone like me in that capacity was like finding a *unicorn*.
 - Then. Nothing. But this time, my new friend told me when they were shooting, as he had been hired for a key role (i.e. makeup artist to the actors), and as it turned out, I had just slipped between the cracks. I controlled
 my destiny this time and showed up to set on the first day, and they put me to work. On the second day, my name was on the call sheet. And I ended up
-working the entire shoot, and everyone was impressed with me by the time we wrapped, and got my credit.
+working the entire shoot, and everyone was impressed with me by the time we wrapped, and I got my credit, as well as having had great mentorship for someone who had just moved to LA, working under a gaffer who had walked off of Spielberg's latest movie in town, who taught me so much, and was so kind.
 
 ## Academia
 - Because of these experiences, I have spent less time in spaces where people pretend it is for "everyone", but the culture dictates that it is a closed
