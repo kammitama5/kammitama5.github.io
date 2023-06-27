@@ -33,7 +33,8 @@ working the entire shoot, and everyone was impressed with me by the time we wrap
 ## Academia
 - Because of these experiences, I have spent less time in spaces where people pretend it is for "everyone", but the culture dictates that it is a closed
 club. I know I have to work around those systems. They are systems of grift.
-- I don't take those things personally, but these days I take it as a challenge to succeed *in spite of them*. I also by definition don't trust
+- I don't say that lightly; they exploit and they steal from, without giving credit. If you are none the wiser, they can also break your spirit. 
+- I don't take those things personally (anymore), but these days I take it as a challenge to succeed *in spite of them*. I also by definition don't trust
 "promises" of words in Academia. To me, they might was well be that of a snake oil salesman. Everyone is trying to make themselves and their
 students seem big. Research labs in industry spin fool's gold. I trust their actions; what they do when it matters most.
 - Because prestigious or not, we are in the land of grifters and  prestige is cashing in on old capital; it isn't a guarantee of the future.
