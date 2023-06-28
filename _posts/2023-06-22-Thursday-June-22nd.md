@@ -22,7 +22,7 @@ Another word of advice I have heard from some of the professors guiding us is:
 
 ## Main TIL Week One
 - Monday 26th: Slides or visual tools are helpful, especially when there is a lot of information. Also games are great (we did the PBJ exercise today, which students enjoyed!)
-- Tuesday 27th: 
+- Tuesday 27th: Some days are better than others, especially when working with software. It's okay to take a step back and evaluate whether there are different levels in a classroom, and if co-teaching, perhaps think of splitting the groups into two (based on comfort-level and pace).
 - Wednesday 28th: 
 - Thursday 29th: 
 - Friday 30th:
