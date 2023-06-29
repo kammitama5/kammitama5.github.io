@@ -23,7 +23,7 @@ Another word of advice I have heard from some of the professors guiding us is:
 ## Main TIL Week One
 - Monday 26th: Slides or visual tools are helpful, especially when there is a lot of information. Also games are great (we did the PBJ exercise today, which students enjoyed!)
 - Tuesday 27th: Some days are better than others, especially when working with software. It's okay to take a step back and evaluate whether there are different levels in a classroom, and if co-teaching, perhaps think of splitting the groups into two (based on comfort-level and pace).
-- Wednesday 28th: 
+- Wednesday 28th: We tried splitting into two groups. It is useful to give a choice, not giving any judgment or tradeoff between groups (no group is "less than"), but rather that it's about building specific toolsets. It was also helpful to learn to ask the students to install things ahead of time. Also, just standardize the tool; it isn't worth the hassle of going between two tools. Live coding is risky. Another way of working with variance within a group is to perhaps have the entire lesson to be worked through for students who feel comfortable / want to move ahead, or have the students have access to the lesson and then indicate if they are stuck. The stickies method might be a good approach (so they don't have to raise their hand for assistance / it's more low-key).
 - Thursday 29th: 
 - Friday 30th:
 
