@@ -28,7 +28,7 @@ Another word of advice I have heard from some of the professors guiding us is:
 - Friday 30th: Used a pre-survey, slides and the notebook today. I loved giving this lecture today because I got to talk about graph data, including nodes, edges (yay graph theory), adjacency matrices, bipartite graphs, and even things like dark patterns and the Page Rank Algorithm, and finally about Maths having a "bad PR problem". I'm enjoying this so much more, and already am excited for some activities next week! They're a great group! (including the fun activities like BBQ, karaoke, paddleboarding, barcades, etc). Also was on the panel today and spoke about my path to grad school; it made me realize how much I had gone through, and that I never took the time to really acknowledge / value that, because I've gone through so many spaces where I was just devalued. So now that I've had the time to appreciate that, I'm grateful, and I feel really supported here.
 
 ## Main TIL Week Two
-- Monday 3rd
+- Monday 3rd: A survey is a great way of motivating how to move forward in terms of time (lab vs lecture).
 - Tuesday 4th
 - Wednesday 5th
 - Thursday 6th
