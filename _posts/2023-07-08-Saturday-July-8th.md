@@ -191,6 +191,10 @@ my home country, as far as I recall. (we have oil-birds and iguanas and stuff)
 
 - They took us out to dinner on the first day we arrived!
 
+<img src="/images1/I3photo/i333.png" width="400">
+
+- I loved this so much! This was in our lobby.
+
 ## Everything
 - Everything was so thoughtful, so done with love, and care that it was so emotional leaving. But I'm part of this group now,
 and I am so happy for the support! I feel so lucky and grateful for the opportunity!
