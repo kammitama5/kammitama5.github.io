@@ -46,37 +46,82 @@ to be a part of this"; the wonderful, incredible, immensely rewarding community 
 
 <img src="/images1/I3photo/i31.png" width="400">
 
+- A Quidditch puzzle with a large number of pieces solved in a couple of days 
+by various people hanging out in the lounges while chatting. There is a hilarious
+transcript of a video made when it was completed.
+
 <img src="/images1/I3photo/i32.png" width="400">
+
+- We found a vegan milkshake place and there was a lot of art in the area. This is 
+a mural.
 
 <img src="/images1/I3photo/i33.png" width="400">
 
+- One of the students totally would say this, so I took a photo and showed her.
+It also completely matches the feeling of my whole two weeks!
+
 <img src="/images1/I3photo/i34.png" width="400">
+
+- vegan milkshakes! Mine was some kind of strawberry one..with edible glitter!
 
 <img src="/images1/I3photo/i35.png" width="400">
 
+- More vegan place artwork
+
 <img src="/images1/I3photo/i36.png" width="400">
+
+- This place led to a lot of shouting and cheering as the students took the bus
+for 30 minutes to go to this place. The food is amazing. I had a large horchata
+that was literally the largest horchata drink I have ever had in my life!
 
 <img src="/images1/I3photo/i37.png" width="400">
 
+- On the way back from kayaking and paddle-boarding.
+
 <img src="/images1/I3photo/i38.png" width="400">
+
+- We went paddle-boarding and kayaking on Lady Bird lake. I loved it!
 
 <img src="/images1/I3photo/i39.png" width="400">
 
 <img src="/images1/I3photo/i310.png" width="400">
 
+- Our group on the last day! Four PhD teaching fellows with students (25 total students,
+four total PhD fellows!). It was such a special group!
+
 <img src="/images1/I3photo/i311.png" width="400">
+
+- One random day I was going to 99Ranch, one of the students asked me what my favourite
+animal was, and because I liked the squirrels in Austin, I said "squirrel". And apparently
+this was the reason; they drew our favourite animal and also wrote kind words. I need to
+laminate this. One of my graph theory professors said she'd been teaching for 15 years
+and never got something so nice!
 
 <img src="/images1/I3photo/i312.png" width="400">
 
+- They had taken photos (I hadn't even noticed) from different times; when I was helping
+students, at socials, etc, and made this beautiful montage. Another thing to frame!
+
 <img src="/images1/I3photo/i313.png" width="400">
+
+- This was next to one of my morning coffee places, Lucky Lab, which I endearingly called
+"Dog Coffee". The Lavender Matcha with oat milk was a staple.
 
 <img src="/images1/I3photo/i314.png" width="400">
 
 <img src="/images1/I3photo/i315.png" width="400">
 
+- They took us to Trudy's the evening before we left, and they had elote, and I was SO
+happy! After moving from LA, elote has haunted my dreams!
+
 <img src="/images1/I3photo/i316.png" width="400">
 
+- We met and had lunch with the dean, who was amazing!
+
 <img src="/images1/I3photo/i317.png" width="400">
+
+- July 4th was amazing. I hadn't celebrated with a group in a long time.
+They piped out classical music, which I love, and there were food trucks.
 
 <img src="/images1/I3photo/i318.png" width="400">
 
@@ -84,11 +129,27 @@ to be a part of this"; the wonderful, incredible, immensely rewarding community 
 
 <img src="/images1/I3photo/i320.png" width="400">
 
+- At the end of the night, rather than opting to squeeze with all those people on a bus,
+a group of us walked for 45 minutes to an hour back home, and we saw a bunny on the way!
+I have lived in cities so my first thought is that it was a rat (lol), but fortunately,
+it was really a bunny!
+
 <img src="/images1/I3photo/i321.png" width="400">
+
+- Apparently there was a toy museum near the July 4th Ampitheatre, so we saw someone
+driving by with a dinosaur.
 
 <img src="/images1/I3photo/i322.png" width="400">
 
+- View on the walk to July 4th celebrations.
+
 <img src="/images1/I3photo/i323.png" width="200">
+
+- One day I was walking back from class, and as soon as I got to the entrance of our
+accommodations, five people from our programme said they had ordered a Lyft and
+said they had room for one more, and asked if I wanted to come to Kinokuniya with them!
+So I said sure, and two seconds later, I was in a Lyft and we ended up buying a bunch
+of stuff, having rotating sushi and even had this robot drop us water and whatnot.
 
 <img src="/images1/I3photo/i324.png" width="400">
 
@@ -96,16 +157,42 @@ to be a part of this"; the wonderful, incredible, immensely rewarding community 
 
 <img src="/images1/I3photo/i326.png" width="400">
 
+- The five of us stopping to take a photo at 85 degrees. I haven't felt so included
+in things in a while. I can't believe how easily they thought of me, invited me to things.
+Oh, and there is a story of how one of the organizers brings an ice-maker with him,
+and I was kind of jealous because we had a fridge but no ice. But there was an ice-maker
+that had "chick-fil-a"-style (I didn't know this was a thing!) ice in the basement that
+the students had found, and one of them messaged me to ask which room was mine, and
+then they filled up a cup and brought me ice, which was SO NICE!!! 
+
 <img src="/images1/I3photo/i327.png" width="400">
+
+- The second time we went back to Kinokuniya, there was a little totoro sitting on
+this fella. LOVE!
 
 <img src="/images1/I3photo/i328.png" width="400">
 
+- Oh hey, maybe it IS my favourite animal. Funny because we don't have squirrels in
+my home country, as far as I recall. (we have oil-birds and iguanas and stuff)
+
 <img src="/images1/I3photo/i329.png" width="400">
+
+- A sign near Dog Coffee!
 
 <img src="/images1/I3photo/i330.png" width="400">
 
+- People in my cohort taught me about this meme on Vine.
+
 <img src="/images1/I3photo/i331.png" width="400">
 
+- We went out for ice cream within a day or two of arriving!
+
 <img src="/images1/I3photo/i332.png" width="400">
+
+- They took us out to dinner on the first day we arrived!
+
+## Everything
+- Everything was so thoughtful, so done with love, and care that it was so emotional leaving. But I'm part of this group now,
+and I am so happy for the support! I feel so lucky and grateful for the opportunity!
 
 ## And that's it!
