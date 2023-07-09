@@ -30,12 +30,14 @@ Another word of advice I have heard from some of the professors guiding us is:
 ## Main TIL Week Two
 - Monday 3rd: A survey is a great way of motivating how to move forward in terms of time (lab vs lecture).
 - Tuesday 4th: one can give autonomy and gentle guidance (like letting them do whatever they'd like, while giving them a template of what the final presentation might include). Play and fun is fine, too (like the Audio files stuff we did). It was nice to use some of my audio background in today's class! I thought the direction I was going might have been a little weird but heard it was much appreciated!
-- Wednesday 5th
-- Thursday 6th
-- Friday 7th
+- Wednesday 5th: I did a lecture on classification. 
+- Thursday 6th: I did a lecture on glitch art and generative AI
+- Friday 7th: I cried a lot. It was very moving to see how personal and beautiful their projects were, and they incorporated a lot of the stuff we learned. It was so worth it!
 
 ## Post Notes
-
+- It was an incredible experience. I learned a lot and the students and everyone was so awesome! It was so much more than I could have ever imagined!
 
 ## Other Stuff
-- TODO
+- Take a rest the evening you get back (especially as you fly out again the following evening!). Take time to celebrate!
+
+## That's it
