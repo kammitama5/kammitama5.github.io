@@ -1,6 +1,6 @@
 ## My PhD Teaching Fellowship in Austin
 
-- I spend the past two weeks as one of two PhD teaching fellows at Austin this summer. It was one of the highlights of grad school for me.
+- I spent the past two weeks as one of two PhD teaching fellows at Austin this summer. It was one of the highlights of grad school for me.
 - After last summer, I felt really burned out and miserable after my last internship, and wanted to have this summer to myself instead of to just
 another corporation. I do not regret that choice to this day. This has been one of the most fun for me in terms of summers in grad school so far,
 and we're still in the middle of it.
