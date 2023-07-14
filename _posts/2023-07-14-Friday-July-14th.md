@@ -18,7 +18,13 @@ that, which was wonderful. She really treated me with dignity and I appreciated 
 - I also loved that she was feminine without being a "girly-girl"; when I was growing up, I related most to Jo from Little Women, as a fellow
 tomboy, and I found my home with Jeannea because she reminded me that it was okay to like taking things apart, doing technical stuff and having
 your hands elbow-deep in fixing a diesel engine, replacing o-rings and even climbing masts. I needed that, because it's closer to who I am,
-and her sincerity of identity really strengthened me.
+and her sincerity of identity really strengthened me. Sailing was also grounding for me in a time when there was a lot of uncertainty
+(i.e. what's next? I knew I didn't want to continue in the industry because I had grown bored of my opportunities for advancement, and
+not knowing whether I would gain permanent residency after a long road of following the due process). To this day, water is still
+grounding for me; last week, going kayaking brought me back, at least for a little bit. It was my first time, but almost immediately
+it brought me back to that grounded feeling, and I was one of the first to enter the water in our group, and one of the last to leave.
+I guess wherever I move to next, I will have to find some kind of opportunity to continue that (either the place has to have kayaking
+or something like that)).
 - When I saw her state after her recovery from cancer, and how she still found a way to sail even after her surgery, I got a bit teary-eyed.
 There was something so beautiful and fearless about her, and it inspired me so much, and I will remember that forever!
 - I have so many positive memories of her, and I remember how much she just valued me as intelligent and talented, and how she sought to
