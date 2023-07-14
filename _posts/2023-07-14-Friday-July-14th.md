@@ -5,7 +5,7 @@
 - I want to take a few sentences to write a tribute to her, as I remember her.
 - I knew if she was sailing, I always had a spot on her boat, and she encouraged me to be the best that I could be, which can be sometimes
 difficult in a town like Los Angeles, where you are constantly ground down and undervalued. She was determined to make me feel included,
-make me learn how to sail, and she thought constantly about how to include me to journeys I would have never imagined, like that of
+make me learn how to sail, and she thought constantly about how to include me on journeys I would have never imagined, like that of
 sailing to Long Beach and then to Newport beach for the Women's Sailing Convention, or to Catalina, or to go whale watching.
 I remember the one time we went whale watching and I was so excited; it was my first time, but we didn't see a single whale. Then,
 I decided to go below the deck to use the restroom, and when I came out, I heard shouting! She looked at me and said "thank you!"
