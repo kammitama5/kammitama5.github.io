@@ -15,6 +15,10 @@ always a fun time whenever she was around.
 really invested a lot in making those of us lucky enough to be included on her boat succeed. She really took the time to get to know you,
 understand you, and she was really someone who loved life, loved her children and her husband; she didn't hold any toxicity or anything like
 that, which was wonderful. She really treated me with dignity and I appreciated that so much.
+- I also loved that she was feminine without being a "girly-girl"; when I was growing up, I related most to Jo from Little Women, as a fellow
+tomboy, and I found my home with Jeannea because she reminded me that it was okay to like taking things apart, doing technical stuff and having
+your hands elbow-deep in fixing a diesel engine, replacing o-rings and even climbing masts. I needed that, because it's closer to who I am,
+and her sincerity of identity really strengthened me.
 - When I saw her state after her recovery from cancer, and how she still found a way to sail even after her surgery, I got a bit teary-eyed.
 There was something so beautiful and fearless about her, and it inspired me so much, and I will remember that forever!
 - I have so many positive memories of her, and I remember how much she just valued me as intelligent and talented, and how she sought to
