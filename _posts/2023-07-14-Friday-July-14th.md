@@ -26,6 +26,8 @@ and that was all she ever requested if you wanted to bring something to day sail
 
 <img src="/images1/icermphoto23/icerm19.png" width="100">
 
+- An [article](https://www.cedars-sinai.org/newsroom/cancer-patient-sails-again/) about her recovery after surgery.
+
 ## Jeannea's last message to me
 
 <img src="/images1/icermphoto23/icerm20.png" width="600">
