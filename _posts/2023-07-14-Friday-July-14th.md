@@ -48,7 +48,7 @@ had conversations and laughed with various persons, and it is just a nice group!
 - I had the strange incident of being assigned room 404 (which is hilarious), and also went to a rice bowl place and was recognized as someone
 else (apparently there is someone at Brown who looks like me who frequents the place), and today some of the mathematicians even decided to go
 crash an MBA pitch night for free sushi, which was pretty hilarious. A couple of us just ended up trying a vegan place instead. And the night
-before, some of us went to a Peruvian / Bosnian food place.
+before, some of us went to a Peruvian / Bolivian food place.
 - I have even been invited to a conference next year, which I am planning on attending and at least trying to
 submit a paper for that, too! So things have been really great in that sense.
 
