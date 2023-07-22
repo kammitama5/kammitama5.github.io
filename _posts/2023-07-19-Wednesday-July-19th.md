@@ -93,5 +93,33 @@ down. Because I am a scientist, researcher and mathematician, whether they like 
 - Our walk from yesterday near the conference centre. We ended up turning back, going on another walk and ended up walking for 8.7 miles that evening!
 But we also went for tacos and whatnot afterwards, and I got an awesome horchata and tamarind jarrito!
 
+<img src="/images1/quantumsummer23/quantum25.png" width="300">
+
+- Sitting in the audience a day before Oppenheimer opens. We got to see it a day early because part was filmed at IAS.
+
+<img src="/images1/quantumsummer23/quantum26.png" width="300">
+
+- Sitting in on a lecture on tensor products for the Undergrad Summer School. I'm in the graduate Summer
+School, but we sat in on this class because the prof was very popular and we wanted to see how he taught
+things (we being my advisor and myself).
+
+<img src="/images1/quantumsummer23/quantum27.png" width="300">
+
+- My Maths advisor and I met at a restaurant called Sergio's before I saw Oppenheimer, and I had a shrimp cocktail.
+
+<img src="/images1/quantumsummer23/quantum28.png" width="300">
+
+- From the immersive 360 storytelling session. 360 camera rig and 3d sound rig. In practice, many of the zoom
+audio devices would be used.
+
+<img src="/images1/quantumsummer23/quantum29.png" width="300">
+
+- The larger 360 spherical image camera.
+
+<img src="/images1/quantumsummer23/quantum30.png" width="200">
+
+- A Ukulele friend and myself took a stroll through a beautiful graveyard near where we were staying before heading in for the evening.
+There are birch trees everywhere, and most of the graves are from the 1800s.
+
 ## And that's it
 
