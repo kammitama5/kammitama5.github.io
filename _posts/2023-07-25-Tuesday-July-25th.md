@@ -99,4 +99,3 @@ It's all happening!
 
 ## And that's it!
 
-<img src="/images1/quantumsummer223/quantum7.png" width="300">
