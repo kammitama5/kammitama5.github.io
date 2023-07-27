@@ -84,6 +84,27 @@ more serious and more scary online!), and also does AI Safety. It was easy to ju
 
 - They are everywhere at Maths conferences!
 
+<img src="/images1/quantumsummer223/quantum10.png" width="300">
+
+- Instead of taking the bus, a group of us walks down to the conference centre each morning, about a 20 minute walk.
+
+<img src="/images1/quantumsummer223/quantum9.png" width="300">
+
+- Spoilers (sorry!) Grabbing a quick bite before seeing Barbie. I actually didn't enjoy this one as much as I'd like, and preferred Oppenheimer,
+which I guess makes me one of a minority of persons, or maybe too brainwashed by film-art or something lol. I liked the Eilish
+song at the end, but even preferred the music in Oppenheimer, and the script, although the clothes were beautiful in Barbie.
+There were also a lot more females in the crew (but still an all-make rigging crew..go figure!), which I super appreciated.
+Things seem to be changing, albeit slowly (I did notice that it might be the case that a bunch of people retired or left the biz
+either during the quarantine or just after, too). I realize I may not be the audience for Barbie, though (tomboy all the way).
+Also, I wanted Jake / Ken to commit to being a bad guy. Strauss was a great, solid, committed bad guy and I loved him in his
+part. He was sooo good and such a believable villain!
+
+<img src="/images1/quantumsummer223/quantum8.png" width="300">
+
+- Nice walkable areas. I've really been enjoying the hiking here, although the altitude definitely takes getting used to.
+I've been opting for easier hikes because I don't want to underestimate the effects of the altitude, being from an island.
+Also, Happy Anniversary parents! Got to chat with them a bit today!
+
 ## Oh
 - I might have mentioned that last year, I was part of this Quantum book club and was one of the persons who stuck it out,
 and was also involved in another one this year, and a hackathon, and another course, all outside of my university!
