@@ -14,7 +14,7 @@ of building the circuits and running them, etc.
 
 ## Photos
 
-<img src="/images1/quantumsummer234/quantum1.png" width="300">
+<img src="/images1/quantumsummer234/quantum1.png" width="400">
 
 - Our team was the "Phase Estimators"! Some people our team wanted to name our team "SBF used to work at JS", but we decided
 against that (lol). In any case, none of us really wants to work at those places (I think more CS people dream
