@@ -51,6 +51,14 @@ not have picked a better group!
 
 - I heard no screams, so knew it was a chill experience.
 
+<img src="/images1/quantumsummer235/quantum18.jpeg" width="250">
+
+- Squaaad.
+
+<img src="/images1/quantumsummer235/quantum19.jpeg" width="250">
+
+- Slide squad.
+
 <img src="/images1/quantumsummer235/quantum11.png" width="350">
 
 - Pano during our break.
