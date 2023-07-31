@@ -19,6 +19,7 @@
 - I will be participating virtually in the Summer of Quantum workshop by the Laboratory for Physical Sciences (LPS)
 - I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is one on coding theory, which I am super stoked about!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
+- Our team's proposal was accepted into the Quantum Hackathon! Excited as this will be my first!
 - I was accepted into the Zaiku's Software Verification class. The group focuses on reasoning about Quantum systems, and in particular, this six week
 class focuses on Software Verification using Functional Programming and using Lean 3, specifically.
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
@@ -36,7 +37,7 @@ at IPAM, and
 - I got a shoutout for Women's International Day by Technovation.
 - I will be at UT Austin over summer at the iSchool Inclusion Institute (I3) teaching a "Computational Tools" class for 10 days! I am OVER THE MOON excited for the opportunity!!!
 - I will be participating in the LXAI at CVPR Mentorship Program as a mentee!
-- I have been invited to LuCaNT at ICERM, which focuses on LMFDB, Computation and Number Theory! (with funding!). My research group is TBD!
+- I have been invited to LuCaNT at ICERM, which focuses on LMFDB, Computation and Number Theory! (with funding!).
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 (This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
 - I have been accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers",
