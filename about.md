@@ -103,5 +103,5 @@ in a quantum formalism course (because why not).
 
 ### Contact me
 - We may have met. [Have we met?](https://kammitama5.github.io/Sunday-May-3rd/)
-- I've removed my email from this website, but if you dig around, you can find ways to contact me. Thanks!
+- I've removed my email from this website, but if you dig around, you can [find](firstname) [ways](dot) [to](lastname) [contact me](gmail). Thanks!
 
