@@ -42,6 +42,12 @@ the DiffGeo class he taught. It's nice to see material having an overlap with th
 
 <img src="/images1/quantumsummer237/quantum9.png" width="300">
 
+<img src="/images1/quantumsummer237/quantum10.png" width="300">
+
+- they finished it!
+
+<img src="/images1/quantumsummer237/quantum11.png" width="300">
+
 ## More Stuff coming soon!
 
 - We're supposedly going star-gazing, back to the slides, and to a show with Olympic athletes doing stunts with skis and stuff!
