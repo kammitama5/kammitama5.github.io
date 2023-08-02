@@ -6,7 +6,7 @@
 from time to time) and left his bag of sunchips lying around,
 so I ate them, because there weren't any more left in the snacks area. I was telling someone that "I had to settle for Pommersheim's sun chips" that
 he left and then I saw him looking over at me, surprised (So that's where they went! haha).
-- I was given permission to eat them because apparently Pommersheim also took a bottle of water and forgot he was drinking it and just dunk it
+- I was given permission to eat them because apparently Pommersheim also took a bottle of water and forgot he was drinking it and just dunked it
 over his head instead or something, I heard. So the sun chips were pretty much a go, everyone said, as they didn't think he would come back for
 them.
 - It is very fun here! And there are mathematicians who walk around bare-footed, write on
