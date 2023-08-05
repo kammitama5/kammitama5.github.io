@@ -16,6 +16,8 @@ there was this barbecue with 50 people, we hiked back from Olympic Park and then
 
 <img src="/images1/quantumsummer238/quantum2.png" width="300">
 
+- We went stargazing.
+
 <img src="/images1/quantumsummer238/quantum3.png" width="300">
 
 - With Sarah and Lia at Olympic Park.
