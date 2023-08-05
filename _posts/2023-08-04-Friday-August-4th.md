@@ -8,7 +8,7 @@ there was this barbecue with 50 people, we hiked back from Olympic Park and then
 
 ## Here are some photos
 
-<img src="/images1/quantumsummer238/quantum23.png" width="300">
+<img src="/images1/quantumsummer238/quantum23.png" width="200">
 
 - I went foraging for black currants with Irena.
 
