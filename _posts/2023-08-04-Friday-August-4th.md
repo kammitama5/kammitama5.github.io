@@ -26,7 +26,11 @@ there was this barbecue with 50 people, we hiked back from Olympic Park and then
 
 <img src="/images1/quantumsummer238/quantum5.png" width="300">
 
+- Thai food at Taste of Thai in Kimball Junction.
+
 <img src="/images1/quantumsummer238/quantum6.png" width="300">
+
+- Our 45 minute walk down from Olympic Park.
 
 <img src="/images1/quantumsummer238/quantum7.png" width="300">
 
