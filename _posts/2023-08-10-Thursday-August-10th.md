@@ -58,62 +58,180 @@ is really a beautiful thing, and it definitely may not "come early".
 
 <img src="/images1/grepsec23/grepsec1.png" width="300">
 
+- Very nice! And the spelling is even correct!
+
 <img src="/images1/grepsec23/grepsec2.png" width="300">
+
+- I couldn't with all of this all over. Creeped me out a bit. 
 
 <img src="/images1/grepsec23/grepsec3.png" width="300">
 
+- On my first day, this guy working at the hotel gave me all the dibs on good food places!
+I appreciated that so much! The staff is always awesome and will give you all the files if
+you're nice to them!
+
 <img src="/images1/grepsec23/grepsec4.png" width="300">
+
+- Apparently we had a pool and a hot tub. But I was just going to the workshops and then
+to bed and doing work in-between for the time. I did spend an afternoon checking out the
+fireworks at the park, though!
 
 <img src="/images1/grepsec23/grepsec5.png" width="300">
 
+- View from where I stayed. I couldn't see the fireworks from here, but I did on the last day!
+I could usually hear them every evening, though, from around 9:30pm to 10:30pm.
+
 <img src="/images1/grepsec23/grepsec6.png" width="300">
+
+- A beautiful fountain by the conference centre. My friend Josephine and I walked over there
+on the afternoon of grepsec and hung out a bit. It was a beautiful day. I'm thankful for
+the nice people there, including her; she was lovely!
 
 <img src="/images1/grepsec23/grepsec7.png" width="300">
 
+- The conference centre. This is not actually where it was held, but I didn't now and
+on the first day wandered over by accident to a coffee conference, which is not a bad
+thing to wander into by accident (I don't drink coffee ordinarily; I'm a tea person btw).
+
 <img src="/images1/grepsec23/grepsec8.png" width="300">
+
+- Omgggg. This speaker had a talk on Privacy Engineering and spoke about PETS, and each
+dog or cat had a label, like Differential Privacy, SMPC, etc. I loved it! I later sat
+next to him at lunch and he remembered the question I asked in the workshop! We had a
+great chat until I remembered I was ten minutes late for speed-mentoring, so I had to leave.
 
 <img src="/images1/grepsec23/grepsec9.png" width="300">
 
+- Okay, so when I lived in LA, there was this restaurant on Vine. They described it as
+"A Japanese restaurant with a club vibe" hahaha. Honestly, back in the day, it was sort
+of just a place young people would go to eat, and I remember having a nice lunch / dinner
+with my friend, Dee, on her birthday (we celebrated together, as we are both around
+the same time of year). It was such a staple of my time in LA, but it is no longer on Vine.
+So I was looking one night to see what food is in the area and spotted one in Brea! So
+for old times' sake, I decided to order. Someone at the conference asked me if it was
+as good as I remembered, and I said not really, but it was still pretty good!
+It's one of the things I really remember about my time in LA; it was a place we'd go
+for a treat or special occasions, and there as a place called Zen Zoo next door that
+had boba, so we'd go get boba afterwards! Zen Zoo is no longer there, either. Also,
+there was a Borders bookstore on the corner (which I think is now a Walgreens or something).
+
 <img src="/images1/grepsec23/grepsec10.png" width="300">
+
+- Fantastic talk on domestic partner abuse and privacy.
 
 <img src="/images1/grepsec23/grepsec11.png" width="300">
 
+- Great talk on via indicators, which can show when email is "phishy" versus from a third-party,
+like how a bank might outsource to Mailchimp to send emails to their customers, and how this
+can be verified, so that customers know when email is legit or not.
+
 <img src="/images1/grepsec23/grepsec12.png" width="300">
+
+- Our keynote was by a lawyer talking about privacy policy and how much data is revealed,
+leaked and implications to law.
 
 <img src="/images1/grepsec23/grepsec13.png" width="300">
 
+- She also spoke about privacy by design.
+
 <img src="/images1/grepsec23/grepsec14.png" width="300">
+
+- In the evening, there was an amazing reception with kind of a habachi thing going on
+with scallops and I ate about a plate of dinner's worth so I didn't have to buy dinner
+and was full by the time I returned to my room (hashtag grad student hack lololol).
 
 <img src="/images1/grepsec23/grepsec15.png" width="300">
 
+- The portabello mushrooms were amazing here. Someone thought it was steak, and I told
+her and she regretted the past two days not taking some! I'm so thankful they were really
+cognizant about dietary needs of persons.
+
 <img src="/images1/grepsec23/grepsec16.png" width="300">
+
+- Yay!
 
 <img src="/images1/grepsec23/grepsec17.png" width="300">
 
+- More Yay! I finally got to meet some of the organizers! Really lovely people!
+
 <img src="/images1/grepsec23/grepsec18.png" width="300">
+
+- Kevin's talk was so amazing! He heads the PRISM group on Security and Privacy for
+Vulnerable populations.
 
 <img src="/images1/grepsec23/grepsec19.png" width="300">
 
+- What can I say? I'm a grad student; we love good food! I'm also super into healthy
+stuff. I don't think being a grad student means you should eat junk because that stuff
+adds up later in life in terms of health issues, so we are about eating healthily and
+encouraging that. Plus health insurance is usually not great as a grad student,
+so taking care of your teeth and eyes and ears and stuff is important.
+
 <img src="/images1/grepsec23/grepsec20.png" width="300">
+
+- Yay! Someone had a talk on Programming languages and verification! I asked a question
+about proof assistants, too, during the Q and A, and I got to talk with her as she
+mentored me later on, too (twice!). I LOVED chatting with her! She was so inspiring
+and very hard-nosed about my ability to make it in the field and succeed. Love that
+and needed that so much!! Yes, I'm learning Lean now; no one can stop me! And I'm
+having FUN and being encouraged and supported (I even got a fellowship to attend a
+workshop coming up!) I too can do proof assistant stuff; it's not just for people doing
+programming languages research! I think that this (telling others it's okay and can
+be applicable to their research areas) should be encouraged rather than gatekeeping people
+(this is what I do, not you). Someone legit did that to me for AI, too, early in grad
+school. Looking back, I experienced some pretty terrible stuff, and people keep apologizing
+that I had such a terrible experience from some of my peers, but I'm at the stage now where
+after perspevering and getting advice from others, I realize that it wasn't me!
 
 <img src="/images1/grepsec23/grepsec21.png" width="300">
 
+- We love her! She's awesome!!! She used her formal methods background to do research in
+privacy and security, and I think that's cool! She was SUCH a good mentor to me, too!
+
 <img src="/images1/grepsec23/grepsec22.png" width="300">
+
+- A talk on creepy and problematic web ads! This was a great talk, too!
 
 <img src="/images1/grepsec23/grepsec23.png" width="300">
 
+- Haha more of that awesome mushroom!
+
 <img src="/images1/grepsec23/grepsec24.png" width="300">
+
+- We stan you mushroom!
 
 <img src="/images1/grepsec23/grepsec25.png" width="300">
 
+- The PRISM team, including Elissa Redmiles and Kevin Butler. Such a great initiative!
+Security and Privacy for Vulnerable populations! I love that they include this as part of
+the community, rather than shouldering the responsibility only on persons who are members
+of those community. I think the work coming out of this field will be better because of it!
+Roya gave an awesome talk on VPNs, for example, and how it affects vulnerable populations'
+security.
+
 <img src="/images1/grepsec23/grepsec26.png" width="300">
+
+- Part of the park on my walk to find fireworks
 
 <img src="/images1/grepsec23/grepsec27.png" width="300">
 
+- It's telling me I need to check out in a few hours. I was doing laundry and working through
+Lean homework, as well as doing some research stuff in the background while this popped up.
+I thought it was a neat touch!
+
 <img src="/images1/grepsec23/grepsec28.png" width="300">
 
+- This is in the Santa Ana airport. I apologize that I did not catch the artists' names, but please do go visit it,
+and promote their work! I thought it was so beautiful!
+
 ## Tired
-- I am pretty tired right now, and have a number of things in the works. Right now, I'm just doing my best, but over the next few days,
+- I am pretty tired right now, and have a number of things in the works. I am reviewing things, working on a bunch of research projects, taking a class in
+Lean for which I will be working on a small project involving Maths proofs (translation into Lean), and generally recovering from my
+trips. I will be leaving in two weeks also to start working with another group on another research project. Fortunately, the last place
+I went had laundry, so I came back with clean clothes, which is a lot better than how I left (I didn't have laundry so basically stuffed
+a garbage bag full of drenched (but washed) clothes into a suitcase, which was such a hot mess!). So that's kind of my life right now.
+I missed my friend's wedding online because I was too tired. I'm sorry ugggh!
+- Right now, I'm just doing my best, but over the next few days,
 there should be a degree of normalcy as I sort things out before heading out again.
 
 ## And that's it
