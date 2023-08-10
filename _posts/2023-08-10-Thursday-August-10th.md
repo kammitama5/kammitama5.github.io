@@ -228,8 +228,8 @@ and promote their work! I thought it was so beautiful!
 - I am pretty tired right now, and have a number of things in the works. I am reviewing things, working on a bunch of research projects, taking a class in
 Lean for which I will be working on a small project involving Maths proofs (translation into Lean), and generally recovering from my
 trips. I will be leaving in two weeks also to start working with another group on another research project. Fortunately, the last place
-I went had laundry, so I came back with clean clothes, which is a lot better than how I left (I didn't have laundry so basically stuffed
-a garbage bag full of drenched (but washed) clothes into a suitcase, which was such a hot mess!). So that's kind of my life right now.
+I went had laundry, so I came back with clean clothes, which is a lot better than how I left (I didn't have time to complete my drying cycle for my laundry so basically stuffed
+a garbage bag full of drenched (but washed) clothes that were half-dry into a suitcase, which was such a hot mess!). So that's kind of my life right now.
 I missed my friend's wedding online because I was too tired. I'm sorry ugggh!
 - Right now, I'm just doing my best, but over the next few days,
 there should be a degree of normalcy as I sort things out before heading out again.
