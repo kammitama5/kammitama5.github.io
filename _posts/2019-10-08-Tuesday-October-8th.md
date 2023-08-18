@@ -14,6 +14,8 @@
 - I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August! Excited to be back in Banff!
 - I received a Fellowship to attend the Institute of Logic and Data Science's Coq and Lean School, which is co-located with the Working Formal Methods Symposium (FROM) 2023, in Bucharest!
 - I've been accepted as a student volunteer (SV) for IEEE Quantum Computation and Engineering (QCE), which will be in Bellvue, Washington!
+- I am an invited participant to the Pre-Arizona winter school! The group to which I am assigned is "Abelian varieties over finite fields"
+- I am an invited participant / future prospective faculty to the Pathways to RIT computing edition!
 - I will be attending GREPSEC in Anaheim 2023 at USENIX! Say hi if you're there! Excited to be there in-person!
 - I have received a grant to attend SOUPS at USENIX, so I will be at USENIX 2023 in Anaheim from August 6th through the 8th!
 - I've been invited to be a reviewer for the Algorithmic Fairness through the Lens of Time workshops at NeurIPS 2023.
