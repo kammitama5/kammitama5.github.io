@@ -75,7 +75,7 @@ is the American Institute for Mathematics at Caltech.
 - View from our window fuelling up in Lincoln, Nebraska. My first time there!
 
 ## Onwards
-- I've been juggling quite a few research projects, but things are a lot better after this workshop. It's a nice reminder that I do have a space where I am supported and seeing so many mentors who are living the dream and helping us to achieve ours, too, was super inspiring.
+- I've been juggling quite a few research projects (and I got into the Pre-AWS, specifically into the abelian varieties group! Hooray! That's the one I wanted!), but things are a lot better after this workshop. It's a nice reminder that I do have a space where I am supported and seeing so many mentors who are living the dream and helping us to achieve ours, too, was super inspiring, in spite of the obstacles we inevitably faced at our home institutions.
 
 
 ## And that's it
