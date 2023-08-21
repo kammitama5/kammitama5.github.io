@@ -22,7 +22,7 @@ is the American Institute for Mathematics at Caltech.
 
 <img src="/images1/roudy23/roudy2.png" width="300">
 
-- We had indian food! Mine was a paneer dosa! It's been a while since I've had good indian food. I was just in Texas, so opting for good indian food was a great choice as I don't know when I'll experience that again!
+- We had indian food! Mine was a paneer dosa! It's been a while since I've had good indian food. I was just in Texas (so I ate myself full of TexMex, tacos, etc), so opting for good indian food was a great choice as I don't know when I'll experience that again!
 
 <img src="/images1/roudy23/roudy3.png" width="300">
 
