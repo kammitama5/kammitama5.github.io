@@ -15,6 +15,8 @@ definitely been a little intimidating, because everyone is bright and works quic
 also been the loveliest group of people; so friendly, so helpful, and it's been a joy.
 - In the mornings, we have also had talks; today Kate Stange gave a talk on sphere-packing, and
 there was another one based on the general theme of our workshop.
+- Something neat I learned is that Banff requires you to work in five years to be able to live there.
+Something as simple as that rule prevents (or at least disincentivizes) random people (who say, work remotely) from buying up all the land so that locals cannot live there).
 
 ## Here are some photos from our free afternoon.
 
