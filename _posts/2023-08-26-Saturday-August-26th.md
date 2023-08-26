@@ -107,6 +107,6 @@ very popular here (in fact, someone said if I find any to tell him!), which is s
 
 <img src="/images1/banffmw123/banff14.png" width="300">
 
-- In other news, I am super excited to sleep. It's after 4am, and it's about that time, I think.
+- In other news, I am super excited to sleep. It's after 4am, and it's about that time, I think. Good night.
 
 ## And that's it
