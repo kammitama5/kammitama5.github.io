@@ -11,9 +11,9 @@
   
 ## 2023
 - I passed my elliptic curves qual! (June 14th at 1:30pm). Thank you Silverman, and my bird studying mascott, Verschiebung McFlocland!
-- I will be attending the Banff Isogeny-based cryptography research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic (per group) for the workshop is TBD until August! Excited to be back in Banff!
+- I will be attending the Banff Isogeny-based graphs research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic concerns expander graphs (of course!) as they relate to isogeny-based cryptography! Excited to be back in Banff!
 - I received a Fellowship to attend the Institute of Logic and Data Science's Coq and Lean School, which is co-located with the Working Formal Methods Symposium (FROM) 2023, in Bucharest!
-- I've been accepted as a student volunteer (SV) for IEEE Quantum Computation and Engineering (QCE), which will be in Bellvue, Washington!
+- I've been accepted as a student volunteer (SV) for IEEE Quantum Computation and Engineering (QCE), which will be in Bellvue, Washington! See you there!
 - I am an invited participant to the Pre-Arizona winter school! The group to which I am assigned is "Abelian varieties over finite fields"
 - I am an invited participant / future prospective faculty to the Pathways to RIT computing edition!
 - I will be attending GREPSEC in Anaheim 2023 at USENIX! Say hi if you're there! Excited to be there in-person!
@@ -34,7 +34,7 @@ at IPAM, and
 - the research workshop at WIN6 in Banff, Canada (assigned to the Machine Learning and Mathematics / AI for Mathematics research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and 
-- was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
+- I was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
 - I will be on the PC Committee (and review) for the Safe and Trustworthy AI workshop at the International Conference on Logic Programming!
 - I attended the Two Sigma Quant Talks (1/24) and (2/23) by invitation.
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
