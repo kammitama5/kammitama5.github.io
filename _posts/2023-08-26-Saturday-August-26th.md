@@ -3,7 +3,7 @@
 ## We just got back from Montreal
 - I thought the trip was because it was more convenient (to fly to Montreal
 rather than directly to Burlington), but I think what happened is that the school made
-the Pure Maths people take a cheaper route or something...I don't even know (I was offered once on a trip to France or something but said no and I was booked through Burlington, because I'm also just wary for cancellations or delays and being stuck in a city with nowhere to stay, versus if something is delayed or cancelled in Burlington, I can just go home and sleep in my bed for free!). So an hour's worth of driving ended
+the Pure Maths people take a cheaper route or something...I don't even know (I was offered once on a trip to France or something but said no and I was booked through Burlington, because I'm also just wary of cancellations or delays and being stuck in a city with nowhere to stay, versus if something is delayed or cancelled in Burlington, I can just go home and sleep in my bed for free!). So an hour's worth of driving ended
 up being a 3.5-hour long trip from Montreal to Burlington via bus. Personally, it was a thing that was nice
 to try as an adventure, but I certainly wouldn't want to do it regularly. The logic doesn't make sense to me
 either, considering that people are literally going halfway across the world in other departments
