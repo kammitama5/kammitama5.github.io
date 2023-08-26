@@ -30,7 +30,7 @@ they would probably not do on their own, while simultaneously being filled with 
 about this new adventure that the school put up pillars of support to encourage them to attend.
 - That in turn affects how students talk about their institution out in the world (to their peers, other PIs),
 and how others see those institutions (making a mark, actively publishing and speaking about their work).
-I think that we still have sort of a oompa loompa vibe, where we think just promoting one or two people and
+I think that we still have sort of an *oompa loompa* vibe, where we think just promoting one or two people and
 hiding the work of other(s/departments) is useful, but I disagree. I think a world-class institution has
 to present itself as *holistically* world-class, with constant momentum from various departments, with access
 to opportunity. I observe this a lot at institutions; ones in which just by being merely in its flow you can
