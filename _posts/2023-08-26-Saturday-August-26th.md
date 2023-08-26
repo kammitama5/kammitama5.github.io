@@ -49,7 +49,7 @@ That shouldn't be assumed to be the case for everyone; travelling can be intimid
 People (okay, mostly professors, who don't want to go anywhere after years of travelling) do tire of travel, but I don't think that is something that should be denied students at the age-range
 that they give up to participate in grad school. It's one of the very few perks.
 - In 2016, when I did a programme via NASA, one of the things I always remember is that my roommates at the time
-were waiting on me to show up because (as I was also working part-time) I was the only one who had enough
+were waiting on me to show up because (as I was also working full-time) I was the only one who had enough
 money in my account to put my card as the incident fee hold card for the hotel
 that NASA booked for us to stay in. NASA had paid for it, but the hotel still wanted a card on file
 to hold something like $75, which is a lot of money for a student who is just going to school,
