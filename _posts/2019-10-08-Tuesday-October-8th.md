@@ -18,8 +18,12 @@
 - I am an invited participant / future prospective faculty to the Pathways to RIT computing edition!
 - I will be attending GREPSEC in Anaheim 2023 at USENIX! Say hi if you're there! Excited to be there in-person!
 - I have received a grant to attend SOUPS at USENIX, so I will be at USENIX 2023 in Anaheim from August 6th through the 8th!
-- I've been invited to be a reviewer for the Algorithmic Fairness through the Lens of Time workshops at NeurIPS 2023.
+- I've been invited to be a reviewer for the Algorithmic Fairness through the Lens of Time workshops at NeurIPS 2023
+and the Black in AI Workshop at NeurIPS.
 - I will be attending the Twelfth Summer School on Formal Techniques + FMiTF Bootcamp (with funding!), to be held in Atherton, where I will be learning about the Vampire Theorem Prover, TPTP, Alloy, PVS and attending a session hosted by Lamport on Paxos! I am super stoked!
+- I will be participating in the QClass Quantum 23/24 class online, covering everything from Algorithms, Quantum
+Key Distribution, Error-Correcting Codes and Quantum Games, among other topics. It is also in preparation for
+my qual on Quantum Algorithms, which I will be working on this semester.
 - I will be participating virtually in the Summer of Quantum workshop by the Laboratory for Physical Sciences (LPS)
 - I will be participating in the Rethinking Number Theory workshop! Super stoked for this opportunity; my assigned research group is one on coding theory, which I am super stoked about!
 - I will be attending the RoUdy Reunion from last summer's Roots of Unity workshop in Pasadena at the American Institute of Mathematics (AIM) at Caltech in August!!!
