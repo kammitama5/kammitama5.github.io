@@ -11,6 +11,7 @@
   
 ## 2023
 - I passed my elliptic curves qual! (June 14th at 1:30pm). Thank you Silverman, and my bird studying mascott, Verschiebung McFlocland!
+- I received the Southwest Quantum Information and Technology (SQuInT) Fellowship! I will be attending this workshop in Albuquerque, New Mexico! (Fellowship pays for registration, hotel, flight).
 - I will be attending the Banff Isogeny-based graphs research workshop hosted by de Quehen, Petit and Martindale! Our assigned research topic concerns expander graphs (of course!) as they relate to isogeny-based cryptography! Excited to be back in Banff!
 - I received a Fellowship to attend the Institute of Logic and Data Science's Coq and Lean School, which is co-located with the Working Formal Methods Symposium (FROM) 2023, in Bucharest!
 - I've been accepted as a student volunteer (SV) for IEEE Quantum Computation and Engineering (QCE), which will be in Bellevue, Washington! See you there!
