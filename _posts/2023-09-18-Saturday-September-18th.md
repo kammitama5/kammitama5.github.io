@@ -102,6 +102,11 @@ That, quite honestly, would be amazing!
 
 <img src="/images1/QCEpics23/qce24.png" width="300">
 
+- Oh, so one day I wanted thai food, so I found a place, and while I was waited, I decided to ask
+if I could get a glass of Merlot to mill on. As it turns out, they thought I wanted a bottle apparently?
+Fortunately, they realized that was a mistake and didn't end up charging me for an entire bottle of
+Merlot lol.
+
 <img src="/images1/QCEpics23/qce25.png" width="300">
 
 <img src="/images1/QCEpics23/qce26.png" width="300">
