@@ -15,7 +15,7 @@ So great stuff!
 great timing!
 
 ## Afterwards
-- I rejoined some of my Quantum friends from the conference I actually came here to attend to have dinner.
+- I rejoined some of my Quantum friends from the conference to attend to have dinner.
 - We went to a Taiwanese restaurant. The food was good, and affordable! We have planned more activities
 in the evening tomorrow, too! I'm pretty excited.
 - As I was walking back to my hotel, I kept thinking that these are so my people, and I'm having such a great time!
