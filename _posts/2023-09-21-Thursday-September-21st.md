@@ -5,9 +5,9 @@
 hung out at a karaoke bar. And yes, there was karaoke. I can't unhear my Italian friend singing "just the two of
 us" while I sat there, sipping on a glass of Merlot. It was a fun time!
 - On top of that, there was a Coldplay concert in town, so there were lots of people milling about for that.
-All in all, I got home after 1am, and went to sleep around 2. I had a meeting at 7am and 8am, so I managed
+All in all, I got home after 1am, and went to sleep around 2. I had a research meetings at 7am and 8am, so I managed
 to attend those, and then took a nap from 9am to 10am, and then had to head to the conference because well,
-lunch.
+lunch. 
 - On Day 4, I student-volunteered, and they put me for a workshop involving a domain-specific language, which
 I thought was funny, considering my path (did they know things about me? lol). And it was super relevant,
 as the research project I was picked for in the (research) class I am doing is exactly on Quantum Walks.
