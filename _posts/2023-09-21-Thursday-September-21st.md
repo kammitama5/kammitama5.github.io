@@ -8,7 +8,7 @@ us" while I sat there, sipping on a glass of Merlot. It was a fun time!
 All in all, I got home after 1am, and went to sleep around 2. I had a research meetings at 7am and 8am, so I managed
 to attend those, and then took a nap from 9am to 10am, and then had to head to the conference because well,
 lunch. 
-- On Day 4, I student-volunteered, and they put me for a workshop involving a domain-specific language, which
+- On Day 4, I student-volunteered, and they put me for a workshop involving a domain-specific language for quantum (so I got to learn about that and the tooling), which
 I thought was funny, considering my path (did they know things about me? lol). And it was super relevant,
 as the research project I was picked for in the (research) class I am doing is exactly on Quantum Walks.
 So I was able to ask some of the people running the workshop for resources to get started before the class
