@@ -11,7 +11,7 @@ got a tenure-track position. So she agreed to meet me at the conference and we d
 - I learned that burnout near the end of the PhD is a real thing, and about how to balance that out better.
 - Also, how to take care of yourself and self-manage your PhD, so that you don't rely on just your advisor to
 make the most of your time during grad school. I'm really thankful for the community outside of my uni, as
-they've really been the backbone of my support (outside of family, long-term friend).
+they've really been the backbone of my support (outside of family, long-term friends and suspect vices (just kidding!)).
 
 ## Here are some photos
 <img src="/images1/qcepics234/qce1.png" width="300">
