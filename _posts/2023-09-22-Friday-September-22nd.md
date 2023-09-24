@@ -46,5 +46,8 @@ they've really been the backbone of my support (outside of family, long-term fri
 
 <img src="/images1/qcepics234/qce16.png" width="300">
 
+<img src="/images1/qcepics234/qce18.png" width="300">
+
+
 ## Now for a rest!
 
