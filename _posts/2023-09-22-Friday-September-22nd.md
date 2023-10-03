@@ -2,7 +2,7 @@
 
 ## Today was the last day
 - I am typing this within the last half an hour of the conference, although some of us may be going to dinner or
-Seattle again in the evening. I am experiencing a bit of fatigue, but that is because of some amazing Indian food
+Seattle again in the evening. I am experiencing a bit of fatigue, but that is because of some amazing Indian food (!!)
 I had for lunch! Since there is going to be a lot of uncertainty in my last year and a half of uni, I sought out some
 advice on a Slack group I am in with some scholars, and was pointed to a discord group, where I've been pretty
 active. It's for academics like myself, and it's really been a great space for me. The people there are awesome.
