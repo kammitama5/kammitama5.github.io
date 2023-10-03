@@ -14,6 +14,7 @@ make the most of your time during grad school. I'm really thankful for the commu
 they've really been the backbone of my support (outside of family, long-term friends and suspect vices (just kidding!)).
 
 ## Here are some photos
+
 <img src="/images1/qcepics234/qce1.png" width="300">
 
 <img src="/images1/qcepics234/qce2.png" width="300">
