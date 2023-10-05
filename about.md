@@ -57,7 +57,7 @@ with a solid introduction on Quantum Computing in general, and how it relates to
 [Ravenclaw](https://en.wikipedia.org/wiki/Hogwarts#Ravenclaw). Started out in New York, mostly in California, but get around to the other states, too.
 
 
-[Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California -> Vermont
+[Trinidad](https://en.wikipedia.org/wiki/Trinidad_and_Tobago) -> New York -> California -> Vermont -> ?
 
 ### Other 
 <!--- - [My CV](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
