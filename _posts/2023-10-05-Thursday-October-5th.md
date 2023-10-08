@@ -86,7 +86,7 @@ podcaster mentioned that scientists need a place to wander, and spaces to fail. 
 areas that have iterations or cycles that are too fast, that I think have hurt me in terms of
 the process of taking the time and learning to think and iterate, and I'm really happy I am
 no longer a part of those spaces, or rather, that I can pick and choose whether I want to be.
-I'm legitimately happy about the projects I am working on; they suit both my temperament and
+- I'm legitimately happy about the projects I am working on; they suit both my temperament and
 are super interesting! I'm in a much happier space.
 
 ## And that's it.
