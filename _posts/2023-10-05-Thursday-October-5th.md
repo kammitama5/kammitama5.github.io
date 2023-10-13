@@ -77,6 +77,8 @@ that my answer was, in fact, correct! After that, I continued to the third, and 
 challenge, and by the time the bot did their next round, it confirmed that I had been successful
 on all my challenges! Wohoo!
 
+<img src="/images1/QClassiq/classiqcertificate.png" width="300">
+
 ## Otherwise
 - As I mentioned, I'm juggling quite a lot at the moment, but being not on campus this semester
 has been quite good for me in terms of productivity and my mental headspace. I'm very excited
