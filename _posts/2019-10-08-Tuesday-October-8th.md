@@ -8,6 +8,10 @@
 - PhDs do that, I guess, so maybe I should too?
 - If you find this confusing, please check out my most up to date CV in the first section of the [About](https://kammitama5.github.io/about/) page.
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
+
+## 2024
+- I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
+- I will be DEI Co-chair of AISTATS in Valencia, Spain.
   
 ## 2023
 - I passed my elliptic curves qual! (June 14th at 1:30pm). Thank you Silverman, and my bird studying mascott, Verschiebung McFlocland!
