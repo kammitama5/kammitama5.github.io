@@ -12,6 +12,7 @@
 ## 2024
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
+- I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
   
 ## 2023
 - I passed my elliptic curves qual! (June 14th at 1:30pm). Thank you Silverman, and my bird studying mascott, Verschiebung McFlocland!
