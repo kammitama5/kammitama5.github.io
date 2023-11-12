@@ -55,7 +55,7 @@ on their class to pick up this knowledge!), but, this year I've felt very proud 
 accomplish so far. This has included:
     - attending both an in-person and virtual summer camp on Quantum Computing (1 of 50 grad students!)
     - attending a Foundational Algorithms class and a Quantum Computing class, and being invited to participate in another course
-      where we work on proejects that lead to a manuscript in Quantum Computing (to be published; 1 of 80 students admitted).
+      where we work on projects that lead to a manuscript in Quantum Computing (to be published; 1 of 80 students admitted).
     - student-volunteering at flagship Quantum Computing conference
     - Submitting an Abstract to a flagship Quantum Computing conference
     - Submitting a proposal for funding (tbd 2024, but I got an interview!)
@@ -104,7 +104,7 @@ access to materials, I know *some* stuff, but I have to fill in a lot of gaps, a
 quite common when one is self-learning. However, my win this week
 was being able to answer all the questions in the live class, which is pretty impressive considering not
 a single such class is offered at my institution, and I've been doing substantial legwork on my own.
-- I want to to be clear that learning about quantum computing that is not merely on a non-superficial level is challenging. So do I think Quantum Computing is for everyone? Honestly, given the state of where things are
+- I want to to be clear that learning about quantum computing that is not merely on a superficial level is challenging. So do I think Quantum Computing is for everyone? Honestly, given the state of where things are
 right now, I would say "No". It's still largely dominated (in terms of access) to a particular set of schools,
 even though it's gotten *better*. And it's still very challenging to get access to the information and
 to succeed (especially on research projects!) unless you have access to a mentor working in the field.
