@@ -21,7 +21,7 @@ related to this, and had to bother the organizers *three times* and even almost 
 after expressing wanting to take part, they still neglected to tell me when registration had opened), but was
 able to take the workshop. I was very frustrated, thinking it might have been a personal sleight that
 no one wanted me in that community (honestly, when this happens, it may just be the case that people get busy, and
-especially if you're not in their immediately circle, sometimes you just don't get access to the information, such
+especially if you're not in their immediate circle, sometimes you just don't get access to the information, such
 as "hey, we just opened registration"!).
 
 ## 2022
@@ -62,7 +62,7 @@ accomplish so far. This has included:
     - Getting 1 of 5 Fellowships to attend a Quantum Symposium.
     - Joining a group and working on writings and learnings about Quantum Resource Estimation, a new, niche subfield.
     - Being Invited to and participating in a Quantum Hackathon
-    - Particating and completing a Quantum Computing Bootcamp (with a perfect score!)
+    - Participating and completing a Quantum Computing Bootcamp (with a perfect score!)
     - Wrangling a group at my lab to start an affiliated project in 2024.
     - Being admitted to a Quantum Computing and Mathematics class outside of my institution (2024). This was a story
     of persistence. I emailed every two weeks, and heard nothing. I had a meeting with one of my PIs and they told
@@ -96,7 +96,7 @@ in the area, and *constant* doors being shut in my face, in favour of other stud
 because their institution just had more infrastructure and funding in place to accommodate more and earlier
 learning in the field. But it hasn't been in vain, and it's definitely been a journey.
 
-## What's next?
+## What's next and do I think Quantum is for everyone?
 - I can't say right now, but I'm definitely looking forward to continuing, and I have friends in this area
 now. I'm still learning a lot, but this week I was at the point where I attended a class and the instructor
 thought it might be "too easy" for me, which I don't think is the case because by virtue of my not having
@@ -104,7 +104,23 @@ access to materials, I know *some* stuff, but I have to fill in a lot of gaps, a
 quite common when one is self-learning. However, my win this week
 was being able to answer all the questions in the live class, which is pretty impressive considering not
 a single such class is offered at my institution, and I've been doing substantial legwork on my own.
-- I want to to be clear that learning about quantum computing that is not merely on a non-superficial level is challenging.
+- I want to to be clear that learning about quantum computing that is not merely on a non-superficial level is challenging. So do I think Quantum Computing is for everyone? Honestly, given the state of where things are
+right now, I would say "No". It's still largely dominated (in terms of access) to a particular set of schools,
+even though it's gotten *better*. And it's still very challenging to get access to the information and
+to succeed (especially on research projects!) unless you have access to a mentor working in the field.
+That being said, I think that it's an area with a lot of wonderful (especially in Pure Mathematics and
+Distributed Systems!) challenges to explore. A bit of the culture reminds me of the tech lore of
+"tech is for everyone", where someone would read a blog about that, learn to code, and then find that it
+is actually *near impossible* to get that first gig. Right now, I'd say that Quantum is *very* much like that,
+so if you aren't at one of those institutions that has access to all the shiny tools and fancy people, it's
+going to be filled with lots of ups and downs. And you're also dealing with a new culture coming forth from
+a legacy-culture that has primarily been very non-inclusive, even going so far as to blatantly even tell those
+that have been granted admission that they probably will never make a contribution to the area (true story
+from a peer about their experience in a Quantum Physics department). These are things that the community is
+still trying to sort out, so if you're in it for the long haul, patience and understanding of this is required.
+At the same time, there is the weird intersection with the entrepreneurial side, which is interesting, I guess.
+This side has intersected heavily with areas like Finance, etc, but I honestly haven't interacted especially
+with it yet; my focus has typically been on the science research / grad school student side.
 I've spent several hours trying to write out answers to questions, translating notation, programming circuits,
 and I still hit roadblocks constantly. But I'm willing to stick with it, along with my current paths in Mathematics.
 My intent is to continue to work and publish in this area, as it intersects with my other interests (mathematical
