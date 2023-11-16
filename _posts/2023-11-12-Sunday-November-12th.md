@@ -57,7 +57,7 @@ accomplish so far. This has included:
     - attending a Foundational Algorithms class and a Quantum Computing class, and being invited to participate in another course
       where we work on projects that lead to a manuscript in Quantum Computing (to be published; 1 of 80 students admitted).
     - student-volunteering at flagship Quantum Computing conference
-    - Submitting an Abstract to a flagship Quantum Computing conference
+    - Submitting an Abstract to a flagship Quantum Computing conference (accepted to QIP 2024!)
     - Submitting a proposal for funding (tbd 2024, but I got an interview!)
     - Getting 1 of 5 Fellowships to attend a Quantum Symposium.
     - Joining a group and working on writings and learnings about Quantum Resource Estimation, a new, niche subfield.
