@@ -10,6 +10,9 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2024
+- Our abstract got accepted to QIP 2024!
+- I will be a Visiting Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
+  Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
