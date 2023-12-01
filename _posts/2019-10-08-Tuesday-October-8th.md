@@ -15,6 +15,9 @@
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation (not at my current PhD institution), with
   permission from the instructor!
+- I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon
+  submission (work done from August-November)!
+- I have been invited to Adobe Research's Experience Day 2023!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
