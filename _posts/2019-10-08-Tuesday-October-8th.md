@@ -11,7 +11,7 @@
 
 ## 2024
 - Our abstract got accepted to QIP 2024!
-- I will be a Visiting Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
+- I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation (not at my current PhD institution), with
   permission from the instructor!
@@ -54,7 +54,7 @@ at IPAM, and
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and 
 - I was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
-- I will be on the PC Committee (and review) for the Safe and Trustworthy AI workshop at the International Conference on Logic Programming!
+- I will be on the PC Committee (and review) for the Safe and Trustworthy AI workshop at the International Conference on Logic Programming (ICALP)!
 - I attended the Two Sigma Quant Talks (1/24) and (2/23) by invitation.
 - I attended the RIMS workshop on Zeta functions and their representations virtually.
 - I got a shoutout for Women's International Day by Technovation.
@@ -63,8 +63,8 @@ at IPAM, and
 - I have been invited to LuCaNT at ICERM, which focuses on LMFDB, Computation and Number Theory! (with funding!).
 - I have been invited to High Assurance Cryptographic Software (HACS), a post-quantum focused verification workshop at Real World Crypto (Japan) 2023!
 (This conflicts with WIN for me, but I'm working with organizers (and a mentor) to catch up on the material, for which I'm super grateful!)
-- I have been accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers",
-where I will present a poster on my post-quantum cryptography work in Lyon, France (received funding for flight, registration and accommodation, courtesy of sponsor PQ-Shield)! 
+- Our abstract was accepted to CrossFyre at Eurocrypt, the workshop on "Cryptography, Robust and Provably Secure Schemes for Female Young Researchers";
+I will present a poster on my post-quantum cryptography work in Lyon, France (received funding for flight, registration and accommodation, courtesy of sponsor PQ-Shield)! 
 - I was invited to the virtual RIT Pathways day, to meet with faculty! I'm honoured! (*puts on tweed suit with swanky shoes*) :D
 - Continuing with Quantum Computing Book club (2022-2023)! There may also be an opportunity to do some Quantum Formalism with the group, too.
 - The ICLR Tiny Papers Track has been announced and will be happening, as part of our DEI initiative this year (thanks to lovely collaborators Tom and Rosanne!), after having worked tirelessly over the last few months. Check it out [here](https://iclr.cc/Conferences/2023/CallForTinyPapers). And yes, you'll find me in Kigali this year (please say hi)!
