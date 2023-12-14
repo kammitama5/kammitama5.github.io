@@ -2,9 +2,7 @@
 
 ## I just completed a Meeting
 - I've been poking around the Internet to see what PhD profiles can and do look like. 
-  It occurred to me after a one and a half hour long weekend that I haven't taken the time to acknowledge 
-  some of the stuff I've done this year.
-  
+  It occurred to me after a one and a half hour long weekend that I haven't taken the time to acknowledge some of the stuff I've done this year.
 - PhDs do that, I guess, so maybe I should too?
 - If you find this confusing, please check out my most up to date CV in the first section of the [About](https://kammitama5.github.io/about/) page.
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
@@ -13,11 +11,8 @@
 - Our abstract got accepted to QIP 2024!
 - I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
-- I'm taking a class on Algebraic Graph Theory and Quantum Computation (not at my current PhD institution), with
-  permission from the instructor!
-- I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon
-  submission (work done from August-November)!
-- I have been invited to Adobe Research's Experience Day 2023!
+- I'm taking a class on Algebraic Graph Theory and Quantum Computation (not at my current PhD institution), with permission from the instructor!
+- I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November)!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
@@ -32,6 +27,8 @@
 - I am an invited participant to the Pre-Arizona winter school! The group to which I am assigned is "Abelian varieties over finite fields"
 - I am an invited participant / future prospective faculty to the Pathways to RIT computing edition!
 - I will be attending GREPSEC in Anaheim 2023 at USENIX! Say hi if you're there! Excited to be there in-person!
+- I have been invited to Adobe Research's Experience Day 2023!
+- I have been invited to Goldman Sachs' HackerRank Prep for their 2024 roles!
 - I have received a grant to attend SOUPS at USENIX, so I will be at USENIX 2023 in Anaheim from August 6th through the 8th!
 - I've been invited to be a reviewer for the Algorithmic Fairness through the Lens of Time workshops at NeurIPS 2023
 - I have been invited to be a reviewer for the Black in AI Workshop at NeurIPS 2023.
@@ -48,9 +45,9 @@ class focuses on Software Verification using Functional Programming and using Le
 - I'm attending PCMI's Graduate Summer School on Quantum Computation (with full-funding). I'm mega-hyped!!!
 - I'm attending the Arizona Winter School, "Unlikely Intersections" in Tucson, AZ, assigned to the "Point Counting and Applications" group (by J. Pila).
 - I've been accepted to attend the “Machine-Checked Proofs” workshop at the Lorentz Center in Leiden (the Netherlands), which will be on Lean! 
-- I'm also going to be attending the Machine Assisted Proofs workshop
-at IPAM, and
-- the research workshop at WIN6 in Banff, Canada (assigned to the Machine Learning and Mathematics / AI for Mathematics research group)! I'm tremendously excited for all of these opportunities!
+- I'm also going to be attending the Machine Assisted Proofs (MAP) workshop
+at IPAM
+- I will be attending the research workshop at WIN6 in Banff, Canada (assigned to the Machine Learning and Mathematics / AI for Mathematics research group)! I'm tremendously excited for all of these opportunities!
 - I'm attending MSRI's "Algebraic Cycles, L-Values and Euler Systems" virtually (was invited to attend in-person but opted for virtual attendance).
 - I'm finishing up reviewing a (Haskell) book and 
 - I was also invited to do a podcast talking about my (non-internship) Bitcoin research work over summer!
