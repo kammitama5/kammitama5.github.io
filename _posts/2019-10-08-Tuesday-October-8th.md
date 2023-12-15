@@ -12,6 +12,7 @@
 - I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation (not at my current PhD institution), with permission from the instructor!
+- I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November)!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
