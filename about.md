@@ -100,6 +100,16 @@ with a solid introduction on Quantum Computing in general, and how it relates to
 - [Openmined Writing Group](https://github.com/OpenMined/Roadmap/tree/master/writing_team)
 - [M4SGD: Mechanism for Social Good](http://md4sg.com/)
 
+## Open Source
+- I've worked quite a bit on open source via programmes:
+  - Google Summer of Code (GSOC) (2018)
+  - Mozilla's Rust Reach (2018)
+  - SageMaths (104: Arithmetic Dynamics library) (2019)
+  - Microsoft Reinforcement Learning Open Source Fest (RLOS) (2021)
+  - Summer of Bitcoin (2022)
+- I'm currently very interested in contributing to the Quantum Open Source eco-system and the Pure Maths open source eco-systems,
+so if you're in these communities, you'll probably find me there!
+
 ### Books I'm currently reading
 - [What I'm reading: Books, papers in the future (currently on a GH repo)](https://kammitama5.github.io/Tuesday-November-16th/)
 - Current favourite shows: Silent Witness, Industry, Suits, Billions (I'm seeing a trend), 48 hours.
