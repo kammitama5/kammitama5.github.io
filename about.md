@@ -107,6 +107,7 @@ with a solid introduction on Quantum Computing in general, and how it relates to
   - SageMaths (104: Arithmetic Dynamics library) (2019)
   - Microsoft Reinforcement Learning Open Source Fest (RLOS) (2021)
   - Summer of Bitcoin (2022)
+  - LMFDB (via LUCANT) (2023) (just 1 pull-request fixing some LaTeX!)
 - I'm currently very interested in contributing to the Quantum Open Source eco-system and the Pure Maths open source eco-systems,
 so if you're in these communities, you'll probably find me there!
 
