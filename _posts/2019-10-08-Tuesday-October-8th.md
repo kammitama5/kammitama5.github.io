@@ -15,6 +15,7 @@
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams!!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Phoenix, Arizona!
+- I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
