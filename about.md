@@ -102,7 +102,7 @@ with a solid introduction on Quantum Computing in general, and how it relates to
 
 ## Open Source
 - I've worked quite a bit on open source via programmes:
-  - Google Summer of Code (GSOC) (2018)
+  - Haskell.org for Google Summer of Code (GSOC) (2018)
   - Mozilla's Rust Reach (2018)
   - SageMaths (104: Arithmetic Dynamics library) (2019)
   - Microsoft Reinforcement Learning Open Source Fest (RLOS) (2021)
