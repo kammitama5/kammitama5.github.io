@@ -8,12 +8,12 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2024
-- Our abstract got accepted to QIP 2024!
+- Our abstract got accepted to Quantum Information Processing (QIP) 2024!
 - I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor!
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography!
-- I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November)!
+- I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams!!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Phoenix, Arizona!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
