@@ -8,7 +8,7 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2024
-- Our abstract got accepted to Quantum Information Processing (QIP) 2024!
+- Our abstract, entitled "Post-Quantum Secure Recursive Proofs of Isogeny Knowledge with Reduced Time Complexity" got accepted to Quantum Information Processing (QIP) 2024!
 - I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor!
