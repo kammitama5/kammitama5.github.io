@@ -26,12 +26,12 @@ my break, but then again, I've had committee meetings during my Christmas break,
 proud of this stuff, even more so than my previous work. I'm super excited about these. I've spoken about it
 before, but it was important to me to be able to access and be a part of a certain standard / quality of work,
 and I think I'm closer to that with these upcoming works. Yay 2024!
-- Enjoy my first visiting position! I'm very excited about this, and am excited to reconnect with my peers in this
+- Enjoy my first visiting position based on my area of research! I'm very excited about this, and am excited to reconnect with my peers in this
 area of research. The Bay is like home to me, and especially since I'm returning to the Bay for my summer internship (that
-I'm also super excited about, and to publish another paper!), it should
+I'm also super excited about, and to publish another paper, based on my area of research!), it should
 be fun and informative! I literally want to give my host a hug for doing so much to accommodate me!
 - I want to continue learning Lean. After checking it out all the way in 2018, I attended a workshop in February 2023 which was a nice
-mix of Mathematicians and Computer Scientists, and it gave me the courage to pick it up again, and I've been enjoying that. I needed to be a non-judgmental space for that to happen, and that was the space. I continued that by attending Formal Methods summer school, which kicked off an entire Spring class (based on conversations I had been having with others in my lab about my experience over summer) on that that I was subsequently excluded from at my own Uni (meh), but by that time I had moved on from caring about finding that kind of support locally, much less validating any sort of need to be considered "a PL person" (I'm not, but I can do Formal Methods, which is different from PL lol).
+mix of Mathematicians and Computer Scientists, and it gave me the courage to pick it up again, and I've been enjoying that. I needed to be a non-judgmental space for that to happen, and that was the space. I continued that by attending Formal Methods summer school, which kicked off an entire Spring class (based on conversations I had been having with others in my lab about my experience over summer) on that that I was subsequently excluded from at my own Uni (meh), but by that time I had moved on from caring about finding that kind of support locally, much less validating any sort of need to be considered "a PL person" (I'm not because I don't want to make languages, but I can do Formal Methods, and I understand the distinction and like Lean a lot, as it turns out).
 I have been working 1:1 with a professor based in the UK who has been quite patient with me, and I'm super grateful for that.
 - Continue my Maths and Quantum journey: I did get accepted for a couple important Maths workshops, and a Quantum and
 Graph Theory class outside of my University, and I am really excited about those things! It's also helped to put in perspective the fact that
