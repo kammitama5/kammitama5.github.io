@@ -48,6 +48,10 @@ who support me. I feel really great. I should have trusted my instincts to dista
 from anything that worked against my progress towards my degree, but I was able to do this
 successfully in Fall, and I enjoyed my Fall semester very much! I was so happy! I'm excited for 2024 and to continue
 my journey!
+- I realized just how many people are supportive of me; I can't tell you how many people checked in with me in Fall,
+from various universities. So many people want me to succeed, and I'm super grateful, even though they aren't necessarily
+connected to my current institution (actually, none are). It's important to remember that there are mentors, sponsors, and good people out there
+who are rooting for you! It really warmed my heart!
 - Happy New Year to you!
 
 ## And that's it
