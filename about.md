@@ -34,9 +34,11 @@ won't use it much, except to read, as I'm pretty busy.
 - I see programming as a tool, but these days, I spend a lot more time writing (badly-written, but improving and learning!) proofs, improving my mathematical clarity in writing in general, and learning Lean. I believe that coming from a different perspective is important in solving new problems in research, and I enjoy collaborating with people who are from various backgounds in research.
   
 ## 2024
-- I will be a visiting scholar at the Simons Institute for the Theory of Computing in Berkeley, California!
-- I will be there for the Quantum Algorithms, Complexity and Fault Tolerance workshop (specifically, the Error-Correcting
-  Codes Bootcamp and the Quantum Coding sections, for the duration of a month, courtesy of the Institute!)!
+- I will be a visiting PhD scholar at the Simons Institute for the Theory of Computing in Berkeley, California!
+- I will be there for the "Quantum Algorithms, Complexity and Fault Tolerance" workshop via:
+  -  the Quantum Coding workshop 
+  -  the Error-Correcting
+  Codes Bootcamp, for the duration of a month, courtesy of the Institute!
   
 ### Update (as of 2019)
 - I began focusing on [Supersingular Isogeny-based Cryptography](https://en.wikipedia.org/wiki/Supersingular_isogeny_graph) research in Winter 2020. I absolutely love it, and I am working on progress with my two advisors (I also attended a summer workshop on Isogeny Based Cryptography in 2020, and another affiliated workshop on post-quantum networks, which focused on implementation into current non-post-quantum secure protocols). In the past, I have done research on Provable Fairness and Differential Privacy, too. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
