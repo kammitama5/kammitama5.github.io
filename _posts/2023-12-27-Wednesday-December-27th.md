@@ -2,7 +2,7 @@
 
 ## Home Sweet Home
 - I'm home again, and it is WARM. It should be winter, but instead, I'm currently sitting in an air-conditioned room, while I have some experiments running
-in the background. This year, my parents and I have been watching a steady stream of Poirot, The Vicar of Dibley
+in the background. This year, my parents and I have been watching a steady stream of Poirot, The Vicar of Dibley, Vera 
 and even a Canadian show called Little Mosque on the Prairie. We love British murder / detective movies.
 - 2023 has been a blast, and such a journey. I'm working on about three to four projects from home at this
 time of year, while trying to balance hanging out with family and friends. It's tough, but I try to chip through a little
