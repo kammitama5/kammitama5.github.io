@@ -15,7 +15,7 @@ talk about how they'd like to renovate this area or that, while inviting you ove
 The place where people expect that you can look like yourself and have an intelligent conversation, a debate between educated
 people on everything from law to finance to literature. The place where there is so much liquidity that people talk casually
 about family members who live in various countries all over the world (Wasn't he/she last in South Africa,
-China, France?), or a recent trip to Dubai. Travelling is not a big deal; it's like breathing air.
+China, France?), or a recent trip to Dubai (earlier this year, I met someone in the airport where I travel in the town I live in the US who was from my home country, and they were in Stowe for a wedding, but planning to go to Maldives or something like that afterwards). Travelling is not a big deal; it's like breathing air, and it's not something people brag about; they merely mention it and bring back souvenirs for friends, and photos.
 My parents and myself usually walk in our neighbourhood for close to an hour early in the mornings, and we overhear conversations like "there's
 this place called Banff...", and I chuckle.
 It's not perfect, but it's nice to be back.
