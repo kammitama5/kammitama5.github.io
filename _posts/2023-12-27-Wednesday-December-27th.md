@@ -41,7 +41,7 @@ I rely a lot less for my dissertation work on my current University, and don't r
 Occasionally this year I've glanced to see what is going on, but it really doesn't make much sense / matter to me anymore and
 good for them I guess (shrug).
 - Of course, continue with new papers! I had to stagger the start of some people who reached out about starting projects,
-so I guess I'll have to start those in the New Year. Right now I'm at capacity, but it's nice to have built this sort of
+so I guess I'll have to start those in the New Year. Right now I'm at capacity (until the end of Jan), but it's nice to have built this sort of
 research network, and to be able to work with people I want to work with! So in short, things have been great.
 
 ## Happy New Year
