@@ -25,7 +25,9 @@ It's not perfect, but it's nice to be back.
 my break, but then again, I've had committee meetings during my Christmas break, among other things, in the past. I'm incredibly
 proud of this stuff, even more so than my previous work. I'm super excited about these. I've spoken about it
 before, but it was important to me to be able to access and be a part of a certain standard / quality of work,
-and I think I'm closer to that with these upcoming works. Yay 2024!
+and I think I'm closer to that with these upcoming works. As a mentor told me years ago about learning Haskell,
+"it takes what it takes". I'm at the stage where I'd prefer something to be done properly than to churn out papers
+every two months. Anyways...yay 2024!
 - Enjoy my first visiting position based on my area of research! I'm very excited about this, and am excited to reconnect with my peers in this
 area of research. The Bay is like home to me, and especially since I'm returning to the Bay for my summer internship (that
 I'm also super excited about, and to publish another paper, based on my area of research!), it should
