@@ -31,7 +31,7 @@ area of research. The Bay is like home to me, and especially since I'm returning
 I'm also super excited about, and to publish another paper, based on my area of research!), it should
 be fun and informative! I literally want to give my host a hug for doing so much to accommodate me!
 - I want to continue learning Lean. After checking it out all the way in 2018, I attended a workshop in February 2023 which was a nice
-mix of Mathematicians and Computer Scientists, and it gave me the courage to pick it up again, and I've been enjoying that. I needed to be a non-judgmental space for that to happen, and that was the space. I continued that by attending Formal Methods summer school, which kicked off an entire Spring class (based on conversations I had been having with others in my lab about my experience over summer) on that that I was subsequently excluded from at my own Uni (meh), but by that time I had moved on from caring about finding that kind of support locally, much less validating any sort of need to be considered "a PL person" (I'm not because I don't want to make languages, but I can do Formal Methods, and I understand the distinction and like Lean a lot, as it turns out).
+mix of Mathematicians and Computer Scientists, and it gave me the courage to pick it up again, and I've been enjoying that. I needed to be a non-judgmental space for that to happen, and that was the space. I continued that by attending Formal Methods summer school, which kicked off an entire Spring class a year later (based on conversations I had been having with others in my lab about my experience over summer) on that that I was subsequently excluded from at my own Uni (meh), but by that time I had moved on from caring about finding that kind of support locally, much less validating any sort of need to be considered "a PL person" (I'm not because I don't want to make languages, but I can do Formal Methods, and I understand the distinction and like Lean a lot, as it turns out).
 I have been working 1:1 with a professor based in the UK who has been quite patient with me, and I'm super grateful for that.
 - Continue my Maths and Quantum journey: I did get accepted for a couple important Maths workshops, and a Quantum and
 Graph Theory class outside of my University, and I am really excited about those things! It's also helped to put in perspective the fact that
@@ -40,7 +40,7 @@ Occasionally this year I've glanced to see what is going on, but it really doesn
 good for them I guess (shrug).
 - Of course, continue with new papers! I had to stagger the start of some people who reached out about starting projects,
 so I guess I'll have to start those in the New Year. Right now I'm at capacity, but it's nice to have built this sort of
-research network, and to be able to work with people I want to work with!
+research network, and to be able to work with people I want to work with! So in short, things have been great.
 
 ## Happy New Year
 - I'm finally starting to enjoy just doing research and being left to my devices, with people
