@@ -34,7 +34,7 @@ won't use it much, except to read, as I'm pretty busy.
 - I see programming as a tool, but these days, I spend a lot more time writing (badly-written, but improving and learning!) proofs, improving my mathematical clarity in writing in general, and learning Lean. I believe that coming from a different perspective is important in solving new problems in research, and I enjoy collaborating with people who are from various backgounds in research.
   
 ## 2024
-- I will be a visiting PhD scholar at the Simons Institute for the Theory of Computing in Berkeley, California!
+- I will be a visiting PhD scholar at the Simons Institute for the Theory of Computing in UC Berkeley, California!
 - I will be there for the "Quantum Algorithms, Complexity and Fault Tolerance" workshop via:
   -  the Quantum Coding workshop 
   -  the Error-Correcting
