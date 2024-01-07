@@ -35,7 +35,7 @@ won't use it much, except to read, as I'm pretty busy.
   
 ## 2024
 - I will be a visiting PhD scholar at the Simons Institute for the Theory of Computing in UC Berkeley, California!
-- I will be there for the "Quantum Algorithms, Complexity and Fault Tolerance" workshop via:
+- I will be there for the ["Quantum Algorithms, Complexity and Fault Tolerance" workshop](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) via:
   -  the Quantum Coding workshop 
   -  the Error-Correcting
   Codes Bootcamp, for the duration of a month, courtesy of the Institute!
