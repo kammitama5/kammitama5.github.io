@@ -9,7 +9,7 @@
 
 ## 2024
 - Our abstract, entitled "Post-Quantum Secure Recursive Proofs of Isogeny Knowledge with Reduced Time Complexity" got accepted to Quantum Information Processing (QIP) 2024!
-- I will be a Visiting Student Researcher at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
+- I will be a [Visiting Student Researcher](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor!
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography!
