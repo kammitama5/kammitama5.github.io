@@ -35,4 +35,20 @@ of promising them to be researchers.
 I have a good enough sense of self that I don't take the sleights in academia personally. This was pretty fun, and I might
 add to it if I feel like it.
 
+## Beach Photos!
+<img src="/images1/beacn24/beach1.png" width="400">
+
+<img src="/images1/beacn24/beach2.png" width="300">
+
+
+<img src="/images1/beacn24/beach3.png" width="400">
+
+
+<img src="/images1/beacn24/beach4.png" width="400">
+
+
+<img src="/images1/beacn24/beach5.png" width="500">
+
+
+
 ## And that's it
