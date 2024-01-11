@@ -9,7 +9,7 @@ a hateful, oblivious academic.
  ## Note
  - This is a parody as written by haters of mine, because I don't care and think it would be a  hilarious experiment. Here goes:
  - This is why we should never let these liberal arts people into STEM. She hardly ever works; liberal arts is easy
- and really doesn't create serious researchers because as a discipline it lacks rigour.
+ and really doesn't create serious researchers because as a discipline it lacks rigour. These people will never be good at STEM subjects, but they will be good at communicating, because that is all the liberal arts is about, and when people choose a discipline, that is all they are good at for life.
 She spends her entire career networking and lying on the beach...probably; she is from some island, after all.
 When she writes a paper, it is is something
 to do with racism and how research is sexist, and all she does is organize hateful events to promote diversity, instead of
