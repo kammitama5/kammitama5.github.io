@@ -24,6 +24,7 @@ to her, as she will not know how to efficiently use these opportunities. It must
 people don't really want to do themselves; the cast-off tasks. The awards she gets are probably because people feel sorry for
 her, because they know she probably should not be here. She cannot possibly deserve any accolades because she is not a serious,
 technical person, and the Academy is only for people like that.
+- She is rude and aggressive. Why doesn't she know her place and accept things as we tell her? I don't understand why she tries to challenge us in this place that promises to be a place where people challenge norms, but actually doesn't do any of that in reality!
 - No one wants to collaborate with her because she is not a serious researcher. People only collaborate with serious people;
 people who flatulate Betti numbers and homotopy type theory in the morning.
 - I do not think she can write or speaks English properly; her sentences are incomplete. Maybe she is from a place where there
