@@ -6,8 +6,11 @@ one such photo was the screensaver for my laptop), but people have now only begu
 so I guess why not.
 - What's cool is that for years I used to take photos of them when going back and forth with an Olympus camera or a Sony
 Cybershot camera, but I'm currently using my first smart phone ever (thanks first-internship at fruit company!) and realized
-it was geolocating what the different places were, which was cool.
-- So some of them are tagged Turks and Caicos and things like that on my actual phone, which is cool. Speaking of smart phones
+it was geolocating what the different places were, which was cool. So some of photos are tagged Turks and Caicos and things like that on my actual phone, which is cool. The last one is where I'm from, as we are leaving
+the coast. It's really cool that because of the location of our airport (which is a real International airport that goes
+to London and all sorts of places like that lol), we always do this sort of turn and then head North, so you get a view
+of the azimuth of our Nothern Range and the Northern coast.
+- Speaking of smart phones
 during the break, I saw the video in which Matt Parker found a bug in the iCalendar and found it amusing. It's called "Why is
 Apple Calendar so broken?" [link](https://www.youtube.com/watch?v=ER1a6jgW1Gs). On my phone at least, it seems to be fixed,
 but I love that kind of stuff; I find it to be very fun. His channel is pretty cool in any case.
