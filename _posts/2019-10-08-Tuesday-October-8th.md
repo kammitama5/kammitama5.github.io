@@ -16,7 +16,7 @@
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography!
 - I will be interning at Visa Research for Summer 2024 as a Staff Research Scientist intern in Foster City, CA! I will be working with the Security / Cryptography team!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams!!
-- I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona!
+- I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
 - I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
