@@ -51,11 +51,11 @@ to have had the opportunity to be here!
 
 - my new bag, courtesy of the airport on my way to SFO.
 
-<img src="/images1/simonds24small/simons242.png" width="200">
+<img src="/images1/simonds24small/simons242.png" width="300">
 
 - beautiful sunset on the way to SFO just as we were boarding.
 
-<img src="/images1/simonds24small/simons243.png" width="200">
+<img src="/images1/simonds24small/simons243.png" width="300">
 
 - I took the long way through the back of campus on the first day. Yeah, never again it was too long lol.
 Beautiful buildings though!
@@ -80,12 +80,12 @@ Beautiful buildings though!
 
 - And this ball.
 
-<img src="/images1/simonds24small/simons249.png" width="200">
+<img src="/images1/simonds24small/simons249.png" width="300">
 
 - So awesome! I had a thought this week where I was like "well, maybe I should just do visiting positions for the rest
 of grad school" lol
 
-<img src="/images1/simonds24small/simons2410.png" width="200">
+<img src="/images1/simonds24small/simons2410.png" width="300">
 
 - Is me!
 
