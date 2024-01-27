@@ -39,6 +39,9 @@ work done, because it just is the kind of space where I've felt (at least so far
 all the things I need to do what I came to grad school to do. And it also feels a bit bittersweet that I didn't really
 feel like I had that as much before. I had a realization sometime during the week where I thought "oh, so this is what
 it feels like to be supported." It all feels so comfortable, and foreign at the same time.
+- Being here has put me in the mood of "why would I want to do anything else" with my life besides research, in a way that
+has just been refreshing for me. In the evenings, we talk about music, people play music, we socialize, and during the day we work
+hard on things we care deeply about. And being a part of that is just fantastic.
 
 ## So
 - While I'm here, I'm making the most out of everything; it's just been so fantastic, and I'm so thankful and happy
