@@ -67,6 +67,8 @@ all coming together, which is lovely.
 
 <img src="/images1/qcepics233/qce20.png" width="300">
 
+<img src="/images1/QCEpics23/qcekrystal24.png" width="300">
+
 ## And that's it!
 
 
