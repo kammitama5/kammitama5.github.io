@@ -3,7 +3,7 @@
 ## I'm not going to do these every week
 - So I don't think I'm going to do these every week of course, but certainly, recording my experiences in my first week, I think,
 is useful. I got in really late on Sunday, after my flight was delayed to SFO in Detroit, and fifteen minutes before boarding my
-bookpack completely split apart and I had to get a new one last-minute and repack in a hot second. It worked out, and even better,
+backpack completely split apart and I had to get a new one last-minute and repack in a hot second. It worked out, and even better,
 there was an empty seat between myself and another passenger (who took the window seat) for our 5 hour 28 minute trip.
 - When I got to SFO, it was late and raining, so I tried to get a Lyft and one kept circling for a while (5 minutes away
 then 15, then 28, then 33...thanks tech layoffs!), until I got switched
