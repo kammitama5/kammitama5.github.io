@@ -24,10 +24,10 @@ Wednesday, I got to give a speed talk (which was well-received! A lot of people 
 I was a good speaker, which was surprising given how nervous I felt throughout the entire break before the talks), meet some incredibly
 kind and fun people who are at the top of the field, have access to a fantastic and collaborative space with any and all the
 amenities I could possibly need, go out for lunch each day with old and new friends, explore the campus and talk to undergrads
-about the different clubs on campus, engage in several receptions with faculty from all over the world, meet postdocs and other
+about the different clubs on campus (while a Cybertruck was randomly on campus), engage in several receptions with faculty from all over the world, meet postdocs and other
 visiting scientists in my area (I have never seen so many overleafs open on screens in my life!), experience my first happy hour
 open problem session, in which there was food and drink, but also, people were working on problems, and finally, go out to
-happy hour with friends from the workshop..all in the first week.
+happy hour with friends from the workshop and hang out with a past PhD friend over the weekend who now works as a Rust developer..all in the first week.
 
 ## My assessment
 - I've been trying to process everything, and how wonderful this experience has been in only the first week of being here,
