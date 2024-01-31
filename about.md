@@ -26,6 +26,7 @@ I've done some Machine Learning in the past, and it's cool, but I honestly enjoy
 - I also recently joined Mastodon and [BlueSky](https://bsky.app/profile/kammitama.bsky.social). You can find me on Mathstodon at: kammitama@mathstodon.xyz. I joined the Maths one because that's mostly what I've been hanging out around these days. Also, I found this particular one while looking up [something](https://11011110.github.io/blog/2020/07/12/graham-pollak-partitions.html) in Combinatorics, and figured it would be a good fit for me. I probably
 won't use it much, except to read, as I'm pretty busy.
 - I've been (i) an extramural undergraduate student at Cornell University, (ii) a visiting PhD student at UC Berkeley, and (iii) a faculty member (through a PhD Teaching programme for two weeks) at UT Austin!
+- I have also audited graduate classes at Stanford University (Information Theory and Scalability of Blockchain in 2021), UC Berkeley (Coding Theory 2024) and have taken a graduate class (for transfer credit) at the University of Waterloo (Algebraic Graph Theory and Blockchain (2024)).
 - Also a book junkie. Love Haskell, Hackerspaces, [puzzles](https://en.wikipedia.org/wiki/MIT_Mystery_Hunt), making and sailing.
 
 ### What's Unique about me
