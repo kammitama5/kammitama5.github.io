@@ -67,4 +67,16 @@ it warmed my heart!
 time in growing up. So many things seem so nostalgic and familiar, like visiting a place for the first time, while
 feeling like you've been there before.
 
+## This week
+- I stayed up until after 2am watching [this video](https://www.youtube.com/watch?v=-OkwGDKoY0o). Besides being communicated
+so well that it has over a million views, it's insightful in terms of digging at the heart of what made me join this
+community. He talks about not just having a taste for interesting problems, but championing unpopular ideas.
+When I left for grad school, there was this feeling I had, hanging out with some of the JPL scientists (one in particular),
+where I was seeking a community to which I could belong. Hanging out with them made me feel more at home than I had
+ever really felt being sort of this weird, half-science, half-art person trying to force my way through the entertainment
+industry, thinking about Snell's law casually in CAD class when the teacher was talking about surface subscattering.
+Being here has felt like getting that feeling back, where I can just be myself, in a way I haven't felt for a while.
+And it's quite wonderful. There isn't some sort of rigid definition of what a scientist should be here, but moreso
+a place to learn, play, collaborate and engage in one's curiosities. And it's wonderful.
+
 ## And that's it
