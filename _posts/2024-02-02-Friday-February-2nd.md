@@ -36,6 +36,10 @@ while others casually chatted with each other, holding cups of boba drinks.
 - It's been a welcome respite and to top it off, I heard that I got funding to two Post-Quantum Cryptography workshops
 today, so I guess I'll be going to those in a couple months; one is in Toronto, and the other is in Pasadena, California!
 I'm very much looking forward to it all!
+- What was interesting was that as I did a small happy dance, a labmate asked me what happened, and I told him, and he
+just said "Congratulations!". And I realized it had been a long time since I had really heard that in a, "I feel
+really happy for you in earnest" way. And it felt nice to just be able to say "Thank you" and bask in just feeling good
+about having access to some really great opportunities that will lead to my growth and learning as researcher / academic.
 - In other news, I had been craving rice balls all week, and skipped Happy Hour drinking and eats this evening to find
 them, and I regret nothing!
 
