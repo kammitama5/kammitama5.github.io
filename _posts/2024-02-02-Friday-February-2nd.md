@@ -35,7 +35,9 @@ Economics and of course, Psychedelics. I've been able to see students weave in a
 while others casually chatted with each other, holding cups of boba drinks.
 - It's been a welcome respite and to top it off, I heard that I got funding to two Post-Quantum Cryptography workshops
 today, so I guess I'll be going to those in a couple months; one is in Toronto, and the other is in Pasadena, California!
-I'm very much looking forward to it all!
+Also, our team won my first ever Quantum Hackathon!!! Super cool, considering all the hackathons I've ever participated in, I've been on the winning team! I thought about how years ago, in my first hackathon in LA, I tried to talk to a team and
+they just stared at me, no one responded, and I eventually left (it was in Node.js anyways, so no biggie lol). Their loss haha.
+Anyways, in terms of the upcoming workshops; I'm very much looking forward to it all!
 - What was interesting was that as I did a small happy dance, a labmate asked me what happened, and I told him, and he
 just said "Congratulations!". And I realized it had been a long time since I had really heard that in a, "I feel
 really happy for you in earnest" way. And it felt nice to just be able to say "Thank you" and bask in just feeling good
@@ -66,6 +68,10 @@ it warmed my heart!
 - The name of this church, which is strangely the closest to campus, is also the name of the church I spent the most
 time in growing up. So many things seem so nostalgic and familiar, like visiting a place for the first time, while
 feeling like you've been there before.
+
+<img src="/images1/simonds241small/chinatown.png" width="300">
+
+- On Saturday, I hung out with my friend, Tyler, who I met in grad school (Combinatorialist), who became a Rustacean. We went to Chinatown in SF and had a grand time for the New Year. It was crazy packed, and a lot of fun!
 
 ## This week
 - I stayed up until after 2am watching [this video](https://www.youtube.com/watch?v=-OkwGDKoY0o). Besides being communicated
