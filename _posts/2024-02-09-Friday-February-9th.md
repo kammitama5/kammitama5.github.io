@@ -35,6 +35,7 @@ After all, she was literally heading to Sacramento.
 - I had coffee with a friend at a coffee shop I have never been to before, which was definitely an
 experience! Three students gave me the whole run-down on how this is "a happening place". Thank you
 for that!
+- I also went on a hike! We went to Seaview trail! It was a beautiful day!
 - I also got to chat with the Associate Director of the Institute that hosted me, and she is so amazing
 and inspiring! The one thing that everyone keeps asking me since I've arrived is, "when are you finishing
 up again?", as though they're all waiting to put my suitcase in a barren room, which is hilarious. You can see
@@ -97,6 +98,41 @@ such a labour of love for him. The film is so beautifully made.
 <img src="/images1/simons243small/simons13.png" width="300">
 
 - view from the lab. How can one not be productive with this view?
+
+## Hiking photos
+
+<img src="/images1/simons244small/simons1.png" width="300">
+
+<img src="/images1/simons244small/simons2.png" width="300">
+
+<img src="/images1/simons244small/simons3.png" width="300">
+
+<img src="/images1/simons244small/simons4.png" width="300">
+
+<img src="/images1/simons244small/simons5.png" width="300">
+
+<img src="/images1/simons244small/simons6.png" width="300">
+
+<img src="/images1/simons244small/simons7.png" width="300">
+
+<img src="/images1/simons244small/simons8.png" width="300">
+
+<img src="/images1/simons244small/simons9.png" width="300">
+
+<img src="/images1/simons244small/simons10.png" width="300">
+
+<img src="/images1/simons244small/simons11.png" width="300">
+
+<img src="/images1/simons244small/simons12.png" width="300">
+
+<img src="/images1/simons244small/simons13.png" width="300">
+
+<img src="/images1/simons244small/simons14.png" width="300">
+
+<img src="/images1/simons244small/simons15.png" width="300">
+
+<img src="/images1/simons244small/simons16.png" width="300">
+
 
 ## In other news
 - If you are willing to host me in the Bay area to work on a research project as a visiting PhD student,
