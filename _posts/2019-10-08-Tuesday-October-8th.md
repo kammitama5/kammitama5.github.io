@@ -9,6 +9,8 @@
 
 ## 2024
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
+- I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
+in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be giving a talk at Carnegie Mellon University (CMU) in April! 
 - Our abstract, entitled "Post-Quantum Secure Recursive Proofs of Isogeny Knowledge with Reduced Time Complexity" got accepted to Quantum Information Processing (QIP) 2024! I also applied for and received a student stipend to attend!
 - I will be a [Visiting Student Researcher](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
