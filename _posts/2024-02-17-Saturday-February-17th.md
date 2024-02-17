@@ -27,7 +27,7 @@ one can take the time to think and do research. The whole experience was incredi
 
 - A talk about homology and error-correcting codes; specifically, Homological Quantum Rotor Codes. 
 Hilariously, this led to myself and another PhD student explaining what the dual is
-to another friend of ours who is a Quantum Simulation architect. I really liked that about this space in general; there were a mix of people
+to another friend of ours who is a Quantum Simulation architect. I really liked that about this space in general; there was a mix of people
 whose background was anything from Physics, Maths, Chemistry, Computer Science and even Economics (apparently either micro or macro
 has some crossover, I was told, or maybe my friend was trolling me lol). Anyways, it was kind of awesome.
 
@@ -76,7 +76,7 @@ I've only ever been in this one through a friend at X years ago (like in 2017 or
 <img src="/images1/simons245small/simons13.png" width="300">
 
 - Beverland is a G. Such a nice guy! He didn't even know me and walked right up to me on the first day he arrived and started chatting with me,
-a student. Much appreciated! That was the general vibe, though, and people care as much about what school you went to, as what you found 
+a student. Much appreciated! That was the general vibe, though, and people don't care as much about what school you went to, as what you found 
 interesting, and what you were interested in working on. I was surprised when I mentioned what I was interested in, and a postdoc told me
 he was super interested and told me about one of the most beautiful papers he had ever read related to that. People were just constantly
 willing to share knowledge. Of course, there are people who are working on things that they can't have scooped, and there was a nice 
