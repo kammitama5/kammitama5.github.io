@@ -8,6 +8,8 @@
   I tend to list things as I hear about things here, so they're not necessarily ordered in terms of the months I have to perform such tasks (sorry!).
 
 ## 2024
+- I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
+and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
 - I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
 in May (with housing covered and funding for flight!)! I'm thrilled!
