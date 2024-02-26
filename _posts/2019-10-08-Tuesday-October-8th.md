@@ -25,6 +25,8 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
 - I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
+- I will be attending "Connecting Heavy Tails and Differential Privacy in Machine Learning" (virtually; was given the option to attend in-person or virtual), organized by
+  the Alan Turing Institute and the Newton Gateway to Mathematics in London, UK for their Open for Business day.
 - I will be DEI Co-chair of AISTATS in Valencia, Spain.
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
   
