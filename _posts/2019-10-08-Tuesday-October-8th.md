@@ -16,13 +16,16 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be giving a talk at Carnegie Mellon University (CMU) in April! 
 - Our abstract, entitled "Post-Quantum Secure Recursive Proofs of Isogeny Knowledge with Reduced Time Complexity" got accepted to Quantum Information Processing (QIP) 2024! I also applied for and received a student stipend to attend!
 - I will be a [Visiting Student Researcher](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
-  Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California!
+  Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California! During my time there, I participated
+  in the Cryptography Codes reading group, the Reed Muller Codes reading group and the Pseudorandomness reading group.
 -  I will also gave a well-received 10-minute at Simons (Jan 26th at 2:30pm) during our Error-Correcting Codes session!
 - I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor!
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography! I have received funding ($1200 worth) and free registration to attend! Thank you so much to the organizers!
 - I will be interning at Visa Research for Summer 2024 as a Staff Research Scientist intern in Foster City, CA! I will be working with the Security / Cryptography team!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams...and eventually won the Quantum Hackathon!!
+- Our Quantum Hackathon team gave a talk on our work for the Hackathon on Thursday 29th 2024!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
+- I am regularly attending a Group Representation Theory Course Meetup weekly with some fellow Californians; our group is a mix of people with Physics backgrounds, Mathematics backgrounds and Computer Science backgrounds.
 - I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be attending "Connecting Heavy Tails and Differential Privacy in Machine Learning" (virtually; was given the option to attend in-person or virtual), organized by
