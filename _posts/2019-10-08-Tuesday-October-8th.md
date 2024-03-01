@@ -11,6 +11,7 @@
 - I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
 and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
+- Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
 - I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
 in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be giving a talk at Carnegie Mellon University (CMU) in April! 
