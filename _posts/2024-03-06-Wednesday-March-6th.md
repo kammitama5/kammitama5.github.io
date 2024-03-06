@@ -148,6 +148,9 @@ things, and to reimagine. It's probably why I ran away from the East Coast early
 ## So how does it feel to be one year older?
 - I guess, thrilling. I'm so happy to have been here to share it with some of my favourite people, in a place with fresh
 guacamole, the largest cacti and prickly pear tea. I'm excited to see what's next and for future collaborations.
+- Oh, and there's a Discord bot for a server I'm on that spits out random things if you tell it your birthday ahead of time.
+I liked mine: very Ren-faire.... "Huzzah! On this joyous occasion, let us raise our goblets high in honor of (me)! May the festivities be as grand as a royal banquet in the great halls of a medieval castle! And what better way to commemorate this special day than with a feast fit for a knight, complete with savory tacos overflowing with delicious fillings! Let us partake in the merriment and revelry, for today is a day to celebrate the brilliance and splendor of (meeee)!" I especially liked that somehow
+they knew I was in a place with access to good tacos!
 
 ## And that's it.
 
