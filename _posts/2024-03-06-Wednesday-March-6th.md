@@ -108,7 +108,16 @@ to try. I came for one cup and left with three!
 
 <img src="/images1/AWS24pics/aws15.png" width="300">
 
-- Joel Silverbear, as he was called lol
+- Joel Silverbear, as he was called lol. It was kind of an inside joke because when I was drawing up the slides
+(which were apparently a hit; one teammate said that they "never wanted to write anything again" after they
+saw my penmanship, which is really just the result of taking too many hand-drafting classes with vellum in
+undergrad), I accidentally said "Joel Silverman". So we decided that that was Silverman's alter-ego, who
+is a bear. Then I found out I wasn't the only one and apparently someone else had mistakenly also called
+Silverman "John". So then I drew a cowboy and said that was Silverman's cowboy alter-ego, and we had a good
+laugh about it. Hopefully he doesn't read this (lol). Oh, and Sutherland came up to my friend because he was
+really interested in his computational algorithmic approach and was chatting with him, and at the end,
+my friend in my group goes "who are you again?" and we laughed as he realized who he was talking to; *the* Sutherland.
+These things happen, I guess. They were all good sports about it.
 
 <img src="/images1/AWS24pics/aws16.png" width="300">
 
