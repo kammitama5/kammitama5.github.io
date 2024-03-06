@@ -28,6 +28,7 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams...and eventually won the Quantum Hackathon!!
 - Our Quantum Hackathon team gave a talk on our work for the Hackathon on Thursday 29th 2024!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
+- We gave a 20 minute talk on our findings for our project at the Arizona Winter School (AWS), for Silverman's working group. Project III. We hope to continue and write up our results after the workshop! (link to paper TBD).
 - I am regularly attending a Group Representation Theory Course Meetup weekly with some fellow Californians; our group is a mix of people with Physics backgrounds, Mathematics backgrounds and Computer Science backgrounds.
 - I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
