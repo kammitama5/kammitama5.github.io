@@ -22,7 +22,8 @@ midnight. It was really a memorable time. Our mentors were wonderful, and it was
 - I'll definitely have to post some of the group photos our team took. It was such an epic time.
 
 ## I was thinking about what someone said
-- I've been thinking about how much interest I've gotten being in Mathematics. In Computer Science, there wasn't (imo) as much interest,
+- I've been thinking about how much interest I've gotten being in Mathematics. In Computer Science, there wasn't (imo) as much interest (quite frankly, "they" (the systemic structure / organizations / people with power in that system) were happy to waste my time on having me some kind of token diversity student while offering little
+to no support for what I actually came to grad school to accomplish),
 but there seems to be something about the things I am interested in and my skillset that is appealing to the Maths people, and I
 remember my Maths advisor saying that the other day, when I was applying for something and trying to decide if I should pick Maths
 or Computer Science for reviewers. Her response was "Maths, because I think they would find it interesting". That's been in the
@@ -30,7 +31,12 @@ back of my mind for a bit, because I've generally been hired by Mathematicians, 
 grad school), and seem to work with them easily, and am having a lot of fun doing that. I've also most recently also been working
 with some physicists, but the core of people I work with on projects are Mathematicians, which is interesting. I've honestly never
 felt more at home, and productive.
-- I think that's an interesting point to make, which a labmate and I were talking about the other day; the previous community they
+- They've also just been more supportive of me as a budding professional. They've invested so much into me in a way I've been proud
+of; I'm a stronger researcher because of my time deliberately working with this peer group moreso than that of the Computer Science
+community. They hold me accountable in a way I've never experienced in my own original discipline, which I think is the most honest
+way of saying systemically that they *care*. I know that the Mathematics community isn't perfect, and there are tradeoffs, but
+to me that is authentic.
+- Also, I think that my Maths' advisor's point is an interesting point to make, which a labmate and I were talking about the other day; the previous community they
 were showing their work to was kind of like "okay, meh", but they suddenly interacted with another, and they were fascinated by
 their work. That can be difficult to find, especially as a grad student, but it really is the case that one can find a community
 that is adjacent to (or even, not so much adjacent to) one's direct field, and find that they derive a lot of value from what you
