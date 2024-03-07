@@ -145,6 +145,15 @@ These things happen, I guess. They were all good sports about it.
 we looked at in Undergrad Art History class. I think in my heart, the allure of the American West is this place of being able to run free, try new
 things, and to reimagine. It's probably why I ran away from the East Coast early on, and imo the West Coast is still the best coast lol.
 
+<img src="/images1/AWS24pics/aws22.png" width="300">
+
+<img src="/images1/AWS24pics/aws23.png" width="300">
+
+<img src="/images1/AWS24pics/aws24.png" width="200">
+
+<img src="/images1/AWS24pics/aws25.png" width="200">
+
+
 ## So how does it feel to be one year older?
 - I guess, thrilling. I'm so happy to have been here to share it with some of my favourite people, in a place with fresh
 guacamole, the largest cacti and prickly pear tea. I'm excited to see what's next and for future collaborations.
