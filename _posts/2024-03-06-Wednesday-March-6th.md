@@ -27,8 +27,10 @@ to no support for what I actually came to grad school to accomplish; even so far
 everyone gets to use me as a ladder for their career, while blatantly insulting me to my face (have you ever had anyone laugh at you in your face and tell you you are stupid, or "not serious", or that you only get things because they are the things no one wants? Because if not, you've been exempt somehow from the toxic travesty that is Computer Science culture at the academic research level in garbage environments.
 - I eventually learned
 that this is just abuse, awful and I didn't have to take it, and I started pushing back, which is hilarious (and often unexpected,
-because they usually think you will just sit there and take it, because I just stopped caring, and eventually found better spaces in Maths and Quantum. The whole "not as technical" vibe is a lie, too (it's a trope that is deliberately pushed to make people like myself accept lower positions, with less pay). A plus of being in the Maths community is seeing HOW MANY women there are here; they're excellent, their work is super rigorous and they can run rings around lots of "CS dudes with hubris")),
-but there seems to be something about the things I am interested in and my skillset that is appealing to the Maths people, and I
+because they usually think you will just sit there and take it, because I just stopped caring, and eventually found better spaces in Maths and Quantum. The whole "not as technical" vibe is a lie, too (it's a trope that is deliberately pushed to make people like myself accept lower positions, with less pay). A plus of being in the Maths community is seeing HOW MANY women there are here; they're excellent, their work is super rigorous and they can run rings around lots of "CS dudes with hubris"; not even kidding.
+One such example is seeing a dude who had never taken a single basic Graph Theory class act like they could teach me graph theory,
+when I've taken about seven grad level classes so far lol)).
+- But there seems to be something about the things I am interested in and my skillset that is appealing to the Maths people, and I
 remember my Maths advisor saying that the other day, when I was applying for something and trying to decide if I should pick Maths
 or Computer Science for reviewers. Her response was "Maths, because I think they would find it interesting".
 - That's been in the
