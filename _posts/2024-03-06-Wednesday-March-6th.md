@@ -22,8 +22,9 @@ midnight. It was really a memorable time. Our mentors were wonderful, and it was
 - I'll definitely have to post some of the group photos our team took. It was such an epic time.
 
 ## I was thinking about what someone said
-- I've been thinking about how much interest I've gotten being in Mathematics. In Computer Science, there wasn't (imo) as much interest (quite frankly, "they" (the systemic structure / organizations / people with power in that system) were happy to waste my time on having me some kind of token diversity student while offering little
-to no support for what I actually came to grad school to accomplish),
+- I've been thinking about how much interest I've gotten being in Mathematics. In Computer Science, there wasn't (imo) as much interest (quite frankly, "they" (the systemic structure / organizations / people with power in that system) were happy to waste my time on having me be some kind of political token diversity muppet of a student while offering little
+to no support for what I actually came to grad school to accomplish; even so far as to not acknowledging work that came from me and straight up giving it to other students, trying to get me to support everyone else while getting no support, etc, so basically
+everyone gets to use me as a ladder for their career),
 but there seems to be something about the things I am interested in and my skillset that is appealing to the Maths people, and I
 remember my Maths advisor saying that the other day, when I was applying for something and trying to decide if I should pick Maths
 or Computer Science for reviewers. Her response was "Maths, because I think they would find it interesting". That's been in the
