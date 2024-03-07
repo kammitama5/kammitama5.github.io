@@ -154,11 +154,23 @@ things, and to reimagine. It's probably why I ran away from the East Coast early
 
 <img src="/images1/AWS24pics/aws22.png" width="300">
 
+- Project Silverman group 3.
+
 <img src="/images1/AWS24pics/aws23.png" width="300">
+
+- Vegan dinner for the banquet.
 
 <img src="/images1/AWS24pics/aws24.png" width="200">
 
+- Bubbly.
+
 <img src="/images1/AWS24pics/aws25.png" width="200">
+
+- Dessert. I walked around in the evening afterwards and discovered that my middle name is also a word in Turkish, apparently.
+I had a falafel and a group of people were going to karaoke, and some others ended up going to a burlesque show, but I had
+already done laundry, so I didn't feel like coming back with a jacket smelling of booze. That being said, I had a fun time
+chatting with some Berkeley Maths students along the way. Their flight apparently got switched for some really early morning
+flight because their original one got cancelled. 
 
 
 ## So how does it feel to be one year older?
