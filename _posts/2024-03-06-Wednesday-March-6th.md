@@ -38,7 +38,7 @@ back of my mind for a bit, because I've generally been hired by Mathematicians, 
 grad school), and seem to work with them easily, and am having a lot of fun doing that. I've also most recently also been working
 with some physicists, but the core of people I work with on projects are Mathematicians, which is interesting. I've honestly never
 felt more at home, and productive.
-- They've also just been more supportive of me as a budding professional. They've invested so much into me in a way I've been proud
+- They've also just been more supportive of me as a budding professional. You can hear how much they want me to succeed when they come up to me and say "this is your time; the senior members should be doing X other work", or, most recently before our presentation, Professor Bell said "I hope you're speaking during the presentation tomorrow! You better speak!" (haha; of course I did!). They've invested so much into me in a way I've been proud
 of; I'm a stronger researcher because of my time deliberately working with this peer group moreso than that of the Computer Science
 community. They hold me accountable in a way I've never experienced in my own original discipline, which I think is the most honest
 way of saying systemically that they *care*. I know that the Mathematics community isn't perfect, and there are tradeoffs, but
