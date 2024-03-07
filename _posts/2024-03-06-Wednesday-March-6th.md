@@ -23,7 +23,7 @@ midnight. It was really a memorable time. Our mentors were wonderful, and it was
 
 ## I was thinking about what someone said
 - I've been thinking about how much interest I've gotten being in Mathematics. In Computer Science, there wasn't (imo) as much interest (quite frankly, "they" (the systemic structure / organizations / people with power in that system) were happy to waste my time on having me be some kind of political token diversity muppet of a student while offering little
-to no support for what I actually came to grad school to accomplish; even so far as to not acknowledging work that came from me and straight up giving it to other students, trying to get me to support everyone else while getting no support, etc, so basically
+to no support for what I actually came to grad school to accomplish; even so far as to not acknowledge work that came from me and straight up giving it to other students, trying to get me to support everyone else while getting no support, etc, so basically
 everyone gets to use me as a ladder for their career),
 but there seems to be something about the things I am interested in and my skillset that is appealing to the Maths people, and I
 remember my Maths advisor saying that the other day, when I was applying for something and trying to decide if I should pick Maths
@@ -37,7 +37,7 @@ of; I'm a stronger researcher because of my time deliberately working with this 
 community. They hold me accountable in a way I've never experienced in my own original discipline, which I think is the most honest
 way of saying systemically that they *care*. I know that the Mathematics community isn't perfect, and there are tradeoffs, but
 to me that is authentic.
-- Also, I think that my Maths' advisor's point is an interesting point to make, which a labmate and I were talking about the other day; the previous community they
+- Also, I think that my Maths advisor's point is an interesting point to make, which a labmate and I were talking about the other day; the previous community they
 were showing their work to was kind of like "okay, meh", but they suddenly interacted with another, and they were fascinated by
 their work. That can be difficult to find, especially as a grad student, but it really is the case that one can find a community
 that is adjacent to (or even, not so much adjacent to) one's direct field, and find that they derive a lot of value from what you
