@@ -12,6 +12,8 @@
 and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
 - Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
+- The workshop was also featured for International Women's Day and I made it into the last photo of the
+article [link](https://notes.math.ca/en/article/women-in-numbers/)
 - My application to Underrepresented Students in Topology and Algebra Research Symposium (USTARS) was accepted;
 I will be presenting a poster there and was granted funding (meals, flight, lodging) via the University of Iowa.
 - I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
@@ -26,7 +28,7 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography! I have received funding ($1200 worth) and free registration to attend! Thank you so much to the organizers!
 - I will be interning at Visa Research for Summer 2024 as a Staff Research Scientist intern in Foster City, CA! I will be working with the Advanced Cryptography team!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams...and eventually won the Quantum Hackathon!!
-- Our Quantum Hackathon team gave a talk on our work for the Hackathon on Thursday 29th 2024!
+- Our Quantum Hackathon team gave a talk on our work for the Hackathon on Thursday 29th 2024! [link](https://youtu.be/uifMeBaS5C8)
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
 - We gave a 20 minute talk on our findings for our project at the Arizona Winter School (AWS), for Silverman's working group. Project III. We hope to continue and write up our results after the workshop! (link to paper TBD).
 - I am regularly attending a Group Representation Theory Course Meetup weekly with some fellow Californians; our group is a mix of people with Physics backgrounds, Mathematics backgrounds and Computer Science backgrounds.
