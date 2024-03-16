@@ -24,7 +24,7 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California! During my time there, I participated
   in the Cryptography Codes reading group, the Reed Muller Codes reading group and the Pseudorandomness reading group.
 -  I will also gave a well-received 10-minute talk at Simons (Jan 26th at 2:30pm) during our Error-Correcting Codes session!
-- I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor!
+- I'm taking a class on Algebraic Graph Theory and Quantum Computation at the University of Waterloo, with permission from the instructor! As a result of this class, I was invited to attended Godsil75, a celebration of the professor's birthday, with lots of interesting talks at the intersection of Graph Theory, Algebra and Quantum!
 - I will be attending High Assurance Cryptographic Software (HACS) 2024, which is a workshop that precedes Real World Crypto (RWC) 2024 in Toronto, CA and focuses on the intersection of Cryptography and Formal Methods, this year specifically related to Post-Quantum Cryptography! I have received funding ($1200 worth) and free registration to attend! Thank you so much to the organizers!
 - I will be interning at Visa Research for Summer 2024 as a Staff Research Scientist intern in Foster City, CA! I will be working with the Advanced Cryptography team!
 - I have been invited to our group presentation at the QC+AI Meetup to talk about our recent Quantum Hackathon submission (work done from August-November), where we are one of the top scoring teams...and eventually won the Quantum Hackathon!!
@@ -32,7 +32,7 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be attending the Arizona Winter School (AWS) on Abelian Varieties in Tucson, Arizona, where I have been assigned to Silverman's working group! I'm thrilled!
 - We gave a 20 minute talk on our findings for our project at the Arizona Winter School (AWS), for Silverman's working group. Project III. We hope to continue and write up our results after the workshop! (link to paper TBD).
 - I am regularly attending a Group Representation Theory Course Meetup weekly with some fellow Californians; our group is a mix of people with Physics backgrounds, Mathematics backgrounds and Computer Science backgrounds.
-- I have been invited to and will attend Goldman Sachs' Women's Possibilities 2024 Summit!
+- I was invited to and attended Goldman Sachs' Women's Possibilities 2024 Summit, where I received a mentor from GS after the successful completion of the Summit.
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be attending "Connecting Heavy Tails and Differential Privacy in Machine Learning" (virtually; was given the option to attend in-person or virtual), organized by
   the Alan Turing Institute and the Newton Gateway to Mathematics in London, UK for their Open for Business day.
