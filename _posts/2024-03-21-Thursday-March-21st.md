@@ -32,7 +32,7 @@ Oh, and Nexus scanned my passport successfully this time, which was a major win.
 - It took me about three hours to check-in, but that was also something I guess I handled with grace because
 I had been having back and forths with the place for a couple days down to the day before leaving because a link
 on their website was broken. But they were super great about everything, and I was just exhausted afterwards.
-However, I did attend Graph Theory class in the lobby.
+However, I did attend Graph Theory class in the lobby (I'm taking an Algebraic Graph Theory and Quantum Computing class at another institution that meets three times a week online, where the homework is Putnam-style proof-writing. I LOVE the class, quite frankly, and the professor is AMAZING. I love his lectures and love the material a lot! The professor also knows my name now, too, which I did not expect since I'm not from his primary institution, and I appreciate).
 
 ## HACS Day 1
 - HACS, fortunately, was barely 10 minutes from where I'm staying, which was awesome (so is the thing that is
