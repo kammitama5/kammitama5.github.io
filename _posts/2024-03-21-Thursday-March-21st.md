@@ -73,8 +73,8 @@ insightful contributions! This gives everyone a chance to do so.
 not something I can imagine coming from my institution I would ordinarily have the chance to do. Also, when I met my
 current Maths advisor, I took her mathematical cryptography class and for a final assignment wrote a paper on Signal's
 protocol. So it was like coming full-circle. When one person asked me just to be clear "do you know X in our protocol?"
-in regards to post-quantum migration, and I said "yes, actually I wrote a paper on it for this class where I met my
-Maths advisor". They smiled, and really enjoyed that. And then we spoke about Maths for a couple hours and introduced
+in regards to post-quantum migration, I said "yes, actually I wrote a paper on it for this class where I met my
+Maths advisor", it felt surreal. They smiled, and really enjoyed that. And then we spoke about Maths for a couple hours (they actually teach a Maths camp for high schoolers!) and introduced
 me to some other people on their team. It's just been quite wonderful!
 
 ## So in short
