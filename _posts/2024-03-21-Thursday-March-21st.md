@@ -92,8 +92,10 @@ day, I already found a website with some options!
 - One thing I always underestimate is how TIRED I will be at the end of the day. I had planned to stay up late working,
 but I ended up falling asleep instead. I think it's important to not burn out, so maybe I really needed to do that.
 Besides, I was strangly up at 3am watching Suits lol (just seasons 1 and 2) and pushed a 6am research 1:1 meeting by a day. Needless to say, I do have to catch up
-on two sets of homework, but good news! I found out I got into a Quantum-Safe workshops based in IBM Research
-Zurich that I thought I had *no chance* of getting into, *and* they gave me funding!
+on two sets of homework, but good news! I found out I got into a Quantum-Safe workshop based in IBM Research
+Zurich that I thought I had *no chance* of getting into, *and* they gave me funding! I say this because for this workshop, (1) only 1 student per institution (per department) can be recommended to be admitted to any of the grad
+summer workshops that year (2) the only workshop I wanted to attend filled up within seconds, and was very popular.
+I was in fact on the waitlist, even though my advisor submitted as soon as the portal opened. Fortunately, I got a spot!
 - Zurich has been one of those places that has been within my grasp but the timing has never quite worked out (every
 academic seems to have a place like this). It started pre-grad school, actually, when I wanted to attend ZuriHac.
 Then EuroCrypt is this year in Zurich, but I am interning. So we'll see if this also is outside of my grasp.
