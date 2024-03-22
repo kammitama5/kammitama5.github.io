@@ -3,7 +3,7 @@
 ## Hello!
 - I'm here in Toronto for HACS, which is a workshop just before Real World Crypto. Yes; RWC was the conference I
 attended in 2020 that was *just* before everything locked down, and I haven't really been back in-person since!
-Things are so different since then. Can you believe back then I was learning about Differential Privacy, and since then (1) published a paper in that area (2) do post-quantum cryptography and have a desk in the Puare Maths department now?
+Things are so different since then. Can you believe back then I was learning about Differential Privacy, and since then (1) published a paper in that area (2) do post-quantum cryptography and have a desk in the Pure Maths department now?
 - There is something about this year that has made me feel more "in my own skin" than I have ever felt in a LONG
 time. I have so far attributed it to Berkeley, but I really can't say why for sure right now. However, my peers
 have found me to be a riot because it's been a long time since I've just been *myself*. I even spoke with a mentor
