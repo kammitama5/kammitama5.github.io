@@ -50,6 +50,10 @@ you want a lanyard indicating it's okay to be photographed vs not. Most people o
 as I was in a mood because I woke up to my ticket back being cancelled (yay, Canada wants me to stay!) and frantically
 (I mean like ten minutes before I left!) was rebooking so that I could, idk get back to the US when I said I would.
 Yeah, my life "do be like that" sometimes.
+- From the beginning, we are encouraged to specifically talk to someone we hadn't met before. I loved this, because
+many times there aren't a lot of people who look like me, I stick out, and I'm the only person from my school,
+and all the people at certain companies or schools just hang out with each other. This was so different because a
+number of people came up to me, were friendly and I made a lot of friends! 
 - After introductions, we had about 11 smaller breakout sessions where people who wanted to have discussions had groups
 of chairs around their board, and every 30 minutes or so, we would switch to another group. I started off with Chipala's
 group on [fiatcrypto](https://github.com/mit-plv/fiat-crypto) and bedrock and learned about the Vale programming language.
