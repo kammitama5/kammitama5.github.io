@@ -46,7 +46,7 @@ last year (in Japan) it was around 150; this year they had an upper bound of 100
 who had been there before and those who hadn't, and when you sign in, you can choose (a la Strange Loop) whether
 you want a lanyard indicating it's okay to be photographed vs not. Most people opted photographs okay.
 - The first thing we did is went around the room and did introductions (three sentences). Yours truly kicked it off,
-as I was in a mood because I woke up to my ticket back being cancelled (yay, Canada wants me to stay!) and frantically
+as I was in a mood because I woke up to my flight ticket back being cancelled (yay, Canada wants me to stay!) and frantically
 (I mean like ten minutes before I left!) was rebooking so that I could, idk get back to the US when I said I would.
 Yeah, my life "do be like that" sometimes.
 - From the beginning, we are encouraged to specifically talk to someone we hadn't met before. I loved this, because
