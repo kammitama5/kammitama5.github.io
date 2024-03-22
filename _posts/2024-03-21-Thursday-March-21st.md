@@ -43,7 +43,7 @@ the topic was the intersection of cryptography and formal methods, specifically 
 cryptography. And yes; there were a handful of isogenists I knew from other workshops there!
 - So how does HACS run? They're updating the programme each year, but this year they opted for a smaller group;
 last year (in Japan) it was around 150; this year they had an upper bound of 100 people. It was a mix of persons
-who ahd been there before and those who hadn't, and when you sign in, you can choose (a la Strange Loop) whether
+who had been there before and those who hadn't, and when you sign in, you can choose (a la Strange Loop) whether
 you want a lanyard indicating it's okay to be photographed vs not. Most people opted photographs okay.
 - The first thing we did is went around the room and did introductions (three sentences). Yours truly kicked it off,
 as I was in a mood because I woke up to my ticket back being cancelled (yay, Canada wants me to stay!) and frantically
