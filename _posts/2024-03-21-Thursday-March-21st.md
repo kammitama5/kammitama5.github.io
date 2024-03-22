@@ -91,7 +91,7 @@ myself I'd also try the Trini food here, as quite a few people I know migrated h
 day, I already found a website with some options!
 - One thing I always underestimate is how TIRED I will be at the end of the day. I had planned to stay up late working,
 but I ended up falling asleep instead. I think it's important to not burn out, so maybe I really needed to do that.
-Besides, I was strangly up at 3am watching Suits lol (just seasons 1 and 2). Needless to say, I do have to catch up
+Besides, I was strangly up at 3am watching Suits lol (just seasons 1 and 2) and pushed a 6am research 1:1 meeting by a day. Needless to say, I do have to catch up
 on two sets of homework, but good news! I found out I got into a Quantum-Safe workshops based in IBM Research
 Zurich that I thought I had *no chance* of getting into, *and* they gave me funding!
 - Zurich has been one of those places that has been within my grasp but the timing has never quite worked out (every
