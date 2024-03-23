@@ -137,4 +137,14 @@ wonderful!
 
 <img src="/images1/hacs24pics/hacs8.png" width="200">
 
+## The second day
+- On the second day of HACS, we continued working sessions. I went to a ZK compiler working session,
+which is a little in the direction of not what I do, but it was informative anyways, and through that
+I ended up eventually bumping into two people who were able to help me make progress on a research
+problem! Later, we all went out for dinner, and I got to meet this person whose blog I've been
+following for years, which was awesome. The evening ended with dumplings and snow actually fell,
+which was wild. It was a great day, and I was a bit teary-eyed.
+Also, I unwittingly volunteered (through another person) to lead a Hack Day session and we got a
+TONNE of signups! So that's exciting!
+
 ## And that's it!
