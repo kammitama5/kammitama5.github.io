@@ -127,4 +127,14 @@ wonderful!
 
 - View from LaGuardia before waiting to board
 
+<img src="/images1/hacs24pics/hacs5.png" width="200">
+
+- On the second day, we wrapped up HACS and a bunch of us went out for dumplings!
+
+<img src="/images1/hacs24pics/hacs6.png" width="200">
+
+<img src="/images1/hacs24pics/hacs7.png" width="200">
+
+<img src="/images1/hacs24pics/hacs8.png" width="200">
+
 ## And that's it!
