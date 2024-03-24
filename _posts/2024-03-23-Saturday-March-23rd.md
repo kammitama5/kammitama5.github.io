@@ -1,7 +1,8 @@
 ## HACS Hack Day 2024
 
 ## I went to Hack Day today
-- I spent the first part of the morning deciding whether to go to the EasyCrypt tutorial or the Jasmin one,
+- It started at breakfast, when I mentioned the Kepler conjecture, and soon the whole table was talking about sphere-packing, which was hilarious.
+- Then, I spent the first part of the morning deciding whether to go to the EasyCrypt tutorial or the Jasmin one,
 and decided to learn about [Jasmin](https://github.com/jasmin-lang/jasmin) instead. Then I got nerd-swiped
 by a friend, Victor, who helped me work on a research project, and we looked at some code and some solutions
 together and it was lunch. We decided we would follow up after the conference.
