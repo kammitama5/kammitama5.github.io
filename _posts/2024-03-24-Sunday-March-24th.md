@@ -83,5 +83,6 @@ ended up on the West Coast.
 
 <img src="/images1/hacs243/hacs20.png" width="250">
 
+- Sorry this is sort of an art blog post today or whatever. It is what it is lol.
 
 ## And that's it
