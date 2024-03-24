@@ -13,7 +13,7 @@ wonderful! We passed through Chinatown on the way back, and I even saw my other 
 waved at me on the way back, as they were having dinner, and I felt kind of bad not joining them, but
 I was pretty tired by then. It's been a day! And it's been so wonderful to have new friends, and I'm
 particularly happy to have met Asra, who walked an hour one way and back to have roti (and doubles!) with me, and
-amazing chocolate! I feel happy to have made it, and we gave each other a warm hug as we parted.
+amazing chocolate at SOMA! I feel happy to have made it, and we gave each other a warm hug as we parted.
 - Also hilarious story; we both went a little wild in Chinatown looking at snacks to take with us,
 but we didn't end up actually taking any because well, as it turns out, we can't fly with them.
 And then we were like, why don't we live here again!? We also figured that at some point over summer,
