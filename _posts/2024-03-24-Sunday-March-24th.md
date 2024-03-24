@@ -22,7 +22,12 @@ as a real industry, which is a whole topic I don't even want to get into), which
 
 <img src="/images1/hacs243/hacs1.png" width="250">
 
+- mango sticky rice!
+
 <img src="/images1/hacs243/hacs2.png" width="250">
+
+- Thai green coconut curry with shrimp...in a coconut! And yes, there was jelly in the coconut that you could scrape
+off and eat from the coconut with the curry!
 
 <img src="/images1/hacs243/hacs3.png" width="250">
 
