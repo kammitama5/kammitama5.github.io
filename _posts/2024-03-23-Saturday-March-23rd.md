@@ -19,7 +19,7 @@ but we didn't end up actually taking any because well, as it turns out, we can't
 And then we were like, why don't we live here again!? We also figured that at some point over summer,
 we should try to hang out!
 
- ## Here are some photos from today from our journey!
+## Here are some photos from today from our journey!
 
 <img src="/images1/hacs242pics/hacs1.png" width="300">
 
@@ -50,4 +50,4 @@ we should try to hang out!
 <img src="/images1/hacs242pics/hacs14.png" width="300">
 
 
- ## And that's it!
+## And that's it!
