@@ -9,6 +9,8 @@
 
 ## 2024
 - I have been accepted to SLMath's Summer Graduate School at IBM Zurich Research Laboratory on "Introduction to Quantum-Safe Cryptography"! Absolutely thrilled!
+- Our poster was accepted to the 10th International Conference on Quantum Information and Quantum
+Control (CQIQC-X), which will be held at the Fields Institute in Toronto, Canada (Aug 26-30)! See you there!
 - I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
 and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
