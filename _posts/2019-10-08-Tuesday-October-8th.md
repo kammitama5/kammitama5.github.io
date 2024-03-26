@@ -39,7 +39,7 @@ in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be co-organizing the Tiny Papers Workshop (We strike back!) in Vienna, Austria, as part of ICLR 2024.
 - I will be attending "Connecting Heavy Tails and Differential Privacy in Machine Learning" (virtually; was given the option to attend in-person or virtual), organized by
   the Alan Turing Institute and the Newton Gateway to Mathematics in London, UK for their Open for Business day.
-- I will be DEI Co-chair of AISTATS in Valencia, Spain.
+- I will be DEI Co-chair of AISTATS in Valencia, Spain. I subsequently stepped down, along with my co-organizer, because of irreconcilable differences :) 
 - I am an invited reviewer for AAAI-Privacy Preserving AI workshop (2024).
   
 ## 2023
