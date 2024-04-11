@@ -22,7 +22,7 @@ I will be presenting a poster there and was granted funding (meals, flight, lodg
 - I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
 in May (with housing covered and funding for flight!)! I'm thrilled!
 - I will be giving a talk at Carnegie Mellon University (CMU) in April on Isogenies meets Formal Methods!
-- My guest post will be out on April 11th for the Mathematical Association of America (MAA) Graduate Student Blog!
+- My guest post, posted April 11th for the Mathematical Association of America (MAA) Graduate Student Blog is [here](https://www.mathvalues.org/masterblog/this-is-not-my-home-embracing-the-nomadic-life-of-grad-school)!
 - Our abstract, entitled "Post-Quantum Secure Recursive Proofs of Isogeny Knowledge with Reduced Time Complexity" got accepted to Quantum Information Processing (QIP) 2024! I also applied for and received a student stipend to attend!
 - I will be a [Visiting Student Researcher](https://simons.berkeley.edu/programs/quantum-algorithms-complexity-fault-tolerance) at the Simons Institute for their Fault Tolerance Quantum Coding workshop and
   Error-Correcting Codes bootcamp from Jan 22nd to Feb 16th in Berkeley, California! During my time there, I participated
