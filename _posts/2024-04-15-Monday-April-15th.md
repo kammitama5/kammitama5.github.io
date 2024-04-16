@@ -81,6 +81,32 @@ We went up to the 36th floors and the views were incredible!
 
 - How can you ever have a bad day with this view!?
 
+## Robots!
+<img src="/images1/cmupics24/robot1.png" width="300">
+
+<img src="/images1/cmupics24/robot2.png" width="300">
+
+<img src="/images1/cmupics24/robot3.png" width="300">
+
+<img src="/images1/cmupics24/robot4.png" width="300">
+
+<img src="/images1/cmupics24/robot5.png" width="300">
+
+<img src="/images1/cmupics24/robot6.png" width="300">
+
+<img src="/images1/cmupics24/robot7.png" width="300">
+
+<img src="/images1/cmupics24/robot8.png" width="300">
+
+<img src="/images1/cmupics24/robot9.png" width="300">
+
+<img src="/images1/cmupics24/robot10.png" width="300">
+
+<img src="/images1/cmupics24/robot11.png" width="300">
+
+
+
+
 ## Thrilled and happy!
 - Visiting the lab and the campus was a thrilling experience I will never forget. I left thinking so highly of this
 place and all the people I met. They were just great people, super passionate, creative, and genuinely lovely people.
