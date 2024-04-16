@@ -27,6 +27,9 @@ have connected so much with a lab in such a short time! It was the chillest, kin
 I'm grateful to have had the opportunity!
 
 ## Here are some photos!
+
+<img src="/images1/cmupics24/pittsburgh.png" width="400">
+
 <img src="/images1/cmupics24/cmu1.png" width="200">
 
 - spinach and shrimp dumplings! So good!
@@ -54,7 +57,7 @@ I can find some more since I'll be back in the Bay!
 
 <img src="/images1/cmupics24/cmu8.png" width="200">
 
-<img src="/images1/cmupics24/cmu9.png" width="200">
+<img src="/images1/cmupics24/cmu9.png" width="300">
 
 <img src="/images1/cmupics24/cmu10.png" width="200">
 
@@ -69,12 +72,12 @@ I can find some more since I'll be back in the Bay!
 - Okay, obligatory photo together for my friend from Berkeley, who told us we were his two favourite people and so
 we had to meet! Did not disappoint!
 
-<img src="/images1/cmupics24/cmu14.png" width="200">
+<img src="/images1/cmupics24/cmu14.png" width="300">
 
 - Sam took me on a tour of one of the highest spots in the area, which was at the University of Pittsburgh.
 We went up to the 36th floors and the views were incredible!
 
-<img src="/images1/cmupics24/cmu15.png" width="200">
+<img src="/images1/cmupics24/cmu15.png" width="300">
 
 - How can you ever have a bad day with this view!?
 
@@ -85,7 +88,7 @@ I've felt like it's been such a gift this year to have been giving the opportuni
 during this time and at Berkeley. Also, in the midst of all of that, I was working on research and a paper, and I felt
 like they really made it a healthy and productive space within which I could work. You really got the sense that the people
 here work hard but are also just good citizens, and that was something I super appreciated. Again, I'm super thankful for
-the opportunity and had an absolute blast!
+the opportunity and had an absolute blast! What a beautiful city and wonderful people!
 - Also, I bought another quantum book today, as I got a gift card from an organization I'm in. I'm hoping it arrives in time
 for my next flight, so I can read it along the way!
 
