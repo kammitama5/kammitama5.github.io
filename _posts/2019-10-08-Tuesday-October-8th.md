@@ -13,6 +13,7 @@
 Control (CQIQC-X), which will be held at the Fields Institute in Toronto, Canada (Aug 26-30)! See you there; I'll be presenting a poster on our work, including some of the progress we've made since QIP!
 - I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
 and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
+- I have been accepted as a virtual participant to the Co-design Center for Quantum Advantage (C2QA) QIS 102: Applied Quantum Computing Summer School at Brookhaven National Laboratory (June 10 - June 28, 2024), where I also receive a weekly stipend for my participation!
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
 - Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
 - The workshop was also featured for International Women's Day and I made it into the last photo of the
