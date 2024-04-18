@@ -14,7 +14,8 @@ Control (CQIQC-X), which will be held at the Fields Institute in Toronto, Canada
 - I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
 and numerical techniques with examples from quantum hardware experiments (Rhode Island, given free housing).
 - I have been accepted as a virtual participant / intern to the Co-design Center for Quantum Advantage (C2QA) QIS 102: Applied Quantum Computing Summer School at Brookhaven National Laboratory (June 10 - June 28, 2024), where I also receive a weekly stipend for my participation!
-- I have been selected to participate in the 11th Heidelberg Laureate Forum (HLF) from Sept 22nd to 27th in Heidelberg, Germany! I am SO excited!!!
+- I have been selected to participate in the 11th Heidelberg Laureate Forum (HLF) from Sept 22nd to 27th in Heidelberg, Germany!
+In terms of the candidacy: "Applicants are subject to a highly competitive selection process, hand-picked by international experts who are appointed by the following award-granting institutions: The Association for Computing Machinery, the Norwegian Academy of Science and Letters, and the International Mathematical Union. Each successfully completed application is reviewed by at least three international reviewers, with the top 100 candidates in each discipline issued an invitation." I am SO excited!!!
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
 - Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
 - The workshop was also featured for International Women's Day and I made it into the last photo of the
