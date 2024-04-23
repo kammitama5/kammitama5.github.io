@@ -2,7 +2,7 @@
 
 ## It is super early
 - I'm actually writing this after working on a paper submission, just before heading to sleep. It's been a week!
-- I just got back from presenting a paper at USTARS, which is the Underrepresented Students in Topology and Algebra Research
+- I just got back from presenting a poster at USTARS, which is the Underrepresented Students in Topology and Algebra Research
 Symposium. It's my first time, it was in Iowa City, and I have to say it was AMAZING! You really felt pretty close with
 everyone by the end of the Symposium. Also, my labmate Jeremy gave a Distinguished talk, which was awesome! We were both
 plotting about whether or not we would make it this year, and I was convinced!
