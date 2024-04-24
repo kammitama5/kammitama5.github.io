@@ -95,11 +95,11 @@ was well-attended.
 - Or even paper planes!
 
 ## Edit
-- I mostly write for fun about my experiences, for fun, and for myself. Sometimes, it does help others find resources that
-they didn't know existed (like this conference I wrote about, for example), and I'm happy that some people find this kind of resource helpful.
-- I had a photo of myself and my poster but I decided to take it out for now, as I received recruitment that was a bit too stalkerish wrt my work just a couple hours after this post(!!), so I'm removing it until I feel better about it. Unfortunately, this has been an ongoing problem for me in grad school; persons seeking me out to extract / exploit the work that I am doing, (often for some kind of commercial interests) and yes, it is always upsetting.
-- I've spent several years truly studying in my area of expertise, after being pushed out of another area by some really awful, toxic people, losing access to another because of an advisor leaving, and I am now very passionate about the work I am doing, and finally finding my footing in it. I don't care about making your startup wealthy.
-- Otoh, if you'd like to truly support my work, you should cite it as needed, and give me credit when it is due instead.
+- I mostly write about my experiences for fun, and for myself. Sometimes, posts will help others find resources that
+they didn't know existed (like this conference I wrote about, for example), and I'm happy that some people find this kind of information helpful.
+- I had a photo of myself and my poster but I decided to take it down for now, as I received recruitment that was a bit too stalkerish wrt my work just a couple hours after this post(!!), so I'm removing it until I feel better about it. Unfortunately, this has been an ongoing problem for me in grad school; persons seeking me out to extract / exploit the work that I am doing, (often for some kind of commercial interests) and yes, it is always upsetting.
+- I've spent several years truly studying in my area of expertise, after being pushed out of another area by some really awful, toxic people (out of jealousy), losing access to another because of an advisor leaving (because of academic politics), and I am now *very passionate* about the work I am doing, and finally finding my footing in it. I don't care about making your startup wealthy.
+- Otoh, if you'd like to truly support my work, you should cite it as needed, and give me credit when it is due instead. I'm also always happy to chat with other researchers or persons in the space who are dedicated to their work, and to research in general, or are just nice people :) 
 - Additionally, I am only interested in being a researcher at this point, and in doing research.
 
 ## Okay
