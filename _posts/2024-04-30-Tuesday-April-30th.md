@@ -54,6 +54,10 @@ that was a thing!). Interestingly, he wanted to study Computational Mathematics 
 but at the time, the Maths department said "that sounds like something you should talk to the computer science department
 about" and the CS department said "that sounds like a Maths thing". No such field really existed back then. So that was
 really interesting, because there's literally a Computational Mathematics building on Caltech's campus, now.
+- Also, Caltech had Mongolian BBQ in their cafeteria, so I fulfilled my desire to get some of that while in SoCal. I think
+I looked it up and I'm also pretty close to one where I'll be staying in the Bay over summer, too. One of my friends is
+moving to the bay to start a full-time gig in Mt View around the time I'll be there, so I hope to catch up with them, too!
+I also have at least four other people to catch up with during the summer, so we'll see how that goes!
 - I seem to have a lot of friends like that, to be honest, or maybe I just draw in people like that into my life. They're
 always "early" in terms of how they think, their perspectives, and often it can be quite painful and unfair when people
 just don't get why you think something is important / necessary. If I had a dollar for every time I had a story like that...
@@ -139,7 +143,9 @@ I was surprised that she looks a lot like her photo online (lol). She is also ju
 
 <img src="/images1/AIMPQC24/aimpqc18.png" width="200">
 
-- a book my friend (who came all the way from Zurich; I met him at Eurocrypt last year, in Lyon!) and I found on the first day!
+- a book my friend (who came all the way from Zurich; I met him at Eurocrypt last year, in Lyon! (he is in grad school,
+but also part-time at IBM research, and will be my TA for the Zurich summer school this year!) and I found on the first day!
+One of my research collaborators will also be at the same summer school, so I'm super excited about that, too!
 
 <img src="/images1/AIMPQC24/aimpqc19.png" width="200">
 
