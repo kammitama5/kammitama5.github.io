@@ -1,14 +1,14 @@
 ## AIM PQC
 
 ## Hi!
-- I'm in SoCal, full after having eaten churros and celebrating Taco Tuesdays. It feels weird to be back, and to hear people
+- I'm in SoCal, full after having eaten churros and celebrating Taco Tuesday. It feels weird to be back, and to hear people
 say that "this is a place everyone wants to be", having left that place, after having lived there for many years
 (I do "get it" though; as a coworker said years ago, "California is 'easy living'" comparable to other states).
 If you are from say, NYC or the Bay, the pace is a lot different, though, and that can be a bit annoying sometimes (lol).
 You have to just enjoy the pace, and realize that well, messed up stuff that causes traffic or random things happens, too.
-If you live here, you accept these things. Like idk, a random actor shooting (no; with a gun, not a movie)
+If you live here, you accept these things. Like idk, a random "actor" [shooting](https://www.dailymail.co.uk/news/article-2072435/Sunset-Boulevard-gunman-fired-crowds-mistaken-actor-gangster-movie.html) (no; with a gun, not a movie)
 at cars on Sunset boulevard, or choppers going
-after a rogue officer from the military who wrote a manifesto talking about corruption, or idk, a tank on Hollywood Boulevard
+after a [rogue officer](https://en.wikipedia.org/wiki/Christopher_Dorner_shootings_and_manhunt) from the LAPD who wrote a manifesto talking about corruption, or idk, a [tank](https://en.wikipedia.org/wiki/G.I._Joe:_The_Rise_of_Cobra) on Hollywood Boulevard for a premiere 
 (all things I experienced having lived there).
 - It's also strange to be back; the sketchy part of Pasadena is now gentrified, and some of the people
 I knew even retired from the biz,
