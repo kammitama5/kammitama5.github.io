@@ -150,7 +150,7 @@ One of my research collaborators will also be at the same summer school, so I'm 
 <img src="/images1/AIMPQC24/aimpqc19.png" width="200">
 
 - the morning after I arrived, I had problems sleeping (I went to sleep early the evening before and got up at 2am), and realized
-Poirot was showing at 3am! My parents (especially my mom) love Poirot, so I had to text her.
+Poirot was showing at 3am! My parents (especially my mom) love Poirot, so I had to text her. 
 
 <img src="/images1/AIMPQC24/aimpqc20.png" width="200">
 
