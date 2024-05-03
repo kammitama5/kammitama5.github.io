@@ -2,7 +2,7 @@
 
 ## Okay, so the heading is intentional
 - Today was...a bit different. The night before, I had a pretty full day! One of my friends from years ago (who is basically
-my family) went all the way to Altadena to buy really good indian food during lunch and then set up an entire picnic on the
+my family) went all the way to Altadena to buy really good Indian food during lunch and then set up an entire picnic on the
 Caltech campus! We chatted for the entirety of lunch, and it was just really wonderful.
 - This year she was able to work quite a few days, which was great to hear, and she may also be visiting me in NorCal!
 So that's super exciting! Unfortunately, I learned that one of her friends, who I met, passed away. We met at NASA
@@ -33,7 +33,7 @@ a paper, and that was a bit frustrating on a personal level, because I felt like
 somehow knew that this was going to happen.  They claimed that it was just
 that "two groups came together" and were writing a paper, but idk. There was never indication before today of that,
 and on average, each group had about 4 people, with my advisor's group originally having the largest group of people,
-which then whittled down yesterday to about 3 (and they spend a short time yesterday and then went to other groups;
+which then whittled down yesterday to about 3 (and they spent a short time yesterday and then went to other groups;
 she went to ours yesterday).
 I guess I knew then why the group suddenly "had so much interest"
 for the afternoon session, as a group of about four people suddenly became ten, so they were added and could
@@ -62,7 +62,7 @@ at the right time" and getting listed as an author, but I've heard of countless 
 and how someone even mentioned a paper I co-authored, but they literally called it "most famous person on the paper"'s
 work. Like seriously, what the heck? Am I just the drummer!? It reminded me of that part in the movie, "Almost Famous",
 in which the band members are pissed off by the fact that their faces are not included in the t-shirt / merchandise
-for the band; only the lead singer's is. Even when you do things that lead to credibility, you aren't even
+for the band; only the lead guitarist's ([Russell's](https://www.youtube.com/watch?v=6OPp0MyQfoM)) is (see the clip "The T-shirt is everything"). Even when you do things that lead to credibility, you aren't even
 acknowledged; only the people who already have it are.
 - They were discussing it and I thought well, I could say something, but then I sort of mumbled something like "whatever,
 I'm going to stay out of that", as they surmised various things about the work, and then I added a little context to
