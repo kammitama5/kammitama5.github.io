@@ -75,7 +75,7 @@ You know, it's like a boat they own on a dock or something. I just day sailed wi
 getting some bags so I don't have to check-in bags for my next couple of trips.
 - Seriously, though, I hope all academics aren't so tone deaf. It's not a feature, and while I *do* want it to be
 better, I've been thinking a lot about the fact that maybe some systems are really by design; they're meant to bleed
-the good-will out of people, expell people who are "too giving" like garbage, and contain the sociopaths who move through systems without
+the good-will out of people, expel people who are "too giving" like garbage, and contain the sociopaths who move through systems without
 having to think about how their actions might affect others. There they are; these are the teachers of the future that we
 are graduating, the people who will lead the world in research in the future. I hope you are happy with your choices,
 academia (lol).
