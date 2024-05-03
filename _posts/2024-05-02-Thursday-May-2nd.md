@@ -1,6 +1,6 @@
 ## A lot of Guacamole, and Making Lemonade
 
-## Okay, so the heading is intentional
+## Okay, so the heading is intentional...
 - Today was...a bit different. The night before, I had a pretty full day! One of my friends from years ago (who is basically
 my family) went all the way to Altadena to buy really good Indian food during lunch and then set up an entire picnic on the
 Caltech campus! We chatted for the entirety of lunch, and it was just really wonderful.
