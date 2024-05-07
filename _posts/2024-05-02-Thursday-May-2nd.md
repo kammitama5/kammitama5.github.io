@@ -5,9 +5,9 @@
 my family) went all the way to Altadena to buy really good Indian food during lunch and then set up an entire picnic on the
 Caltech campus! We chatted for the entirety of lunch, and it was just really wonderful.
 - This year she was able to work quite a few days, which was great to hear, and she may also be visiting me in NorCal!
-So that's super exciting! Unfortunately, I learned that one of her friends, who I met, passed away. We met at NASA
+So that's super exciting! Unfortunately, I learned that one of her friends, who I met, [passed](https://iatse.net/remembering-j-c-spike-osorio-local-728/) [away](https://www.gofundme.com/f/juan-spike-osorio-wu). We met at NASA
 years ago, during JPL's Open House. The saddest part was that it was while he was working on a movie set of a rather
-big-budget movie. So I guess the unions have to figure all that stuff out and liability, etc. It was tragic and
+big-budget tv-show. So I guess the unions have to figure all that stuff out and liability, etc. It was tragic and
 senseless, but I'm making a note of it here to remember (February 6th, 2024). I don't want his death to be in vain.
 - I then met up with my other friend who I worked with years ago, in Glendale of all places, and I took the bus to get there.
 Apparently, five years later and it's literally only 25 cents more in terms of price. That shocked even me!
