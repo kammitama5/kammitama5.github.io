@@ -62,7 +62,11 @@ white wine with a meal, this was hilarious, but it ended up being really fun, on
 
 <img src="/images1/iclrphotos24/iclr14.png" width="200">
 
+- Tom, Rosanne and Erin, deciding to sneak up a glass of wine (or two) at the end of the reception.
+
 <img src="/images1/iclrphotos24/iclr15.png" width="200">
+
+- Yisong and Been thanking everyone for their work at ICLR
 
 <img src="/images1/iclrphotos24/iclr16.png" width="200">
 
