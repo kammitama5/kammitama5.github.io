@@ -77,6 +77,6 @@ white wine with a meal, this was hilarious, but it ended up being really fun, on
 - Rosanne being interviewed on research at the DeepMind booth.
 
 ## And....
-- I'm giong to enjoy this glass of wine I snuck up to my room and call it an evening!
+- I'm going to enjoy this glass of wine I snuck up to my room and call it an evening!
 
 ## That's it
