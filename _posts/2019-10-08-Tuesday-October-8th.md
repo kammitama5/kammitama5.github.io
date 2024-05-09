@@ -17,6 +17,7 @@ and numerical techniques with examples from quantum hardware experiments (Rhode 
 - I have been selected to participate in the 11th Heidelberg Laureate Forum (HLF) from Sept 22nd to 27th in Heidelberg, Germany!
 In terms of the candidacy: "Applicants are subject to a highly competitive selection process, hand-picked by international experts who are appointed by the following award-granting institutions: The Association for Computing Machinery, the Norwegian Academy of Science and Letters, and the International Mathematical Union. Each successfully completed application is reviewed by at least three international reviewers, with the top 100 candidates in each discipline issued an invitation." I am SO excited!!!
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
+- I have been named on LDV Capital's List of 100 Brilliant Women in AI! Very honoured for the opportunity!
 - Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
 - The workshop was also featured for International Women's Day and I made it into the last photo of the
 article [link](https://notes.math.ca/en/article/women-in-numbers/)
