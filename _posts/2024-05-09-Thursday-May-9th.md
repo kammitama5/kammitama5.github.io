@@ -33,6 +33,9 @@ It's very unexpected, but I'll take it tyvm!
 
 <img src="/images1/iclrphotos24/iclr1.png" width="200">
 
+- A bunch of us went to get lunch at a restaurant, and then went bar hopping. As someone who at most has a glass of
+white wine with a meal, this was hilarious, but it ended up being really fun, only because of the people.
+
 <img src="/images1/iclrphotos24/iclr2.png" width="200">
 
 <img src="/images1/iclrphotos24/iclr3.png" width="200">
@@ -65,7 +68,9 @@ It's very unexpected, but I'll take it tyvm!
 
 <img src="/images1/iclrphotos24/iclr17.png" width="200">
 
-<img src="/images1/iclrphotos24/iclr18.png" width="200">
+<img src="/images1/iclrphotos24/iclr18.png" width="300">
+
+- Rosanne being interviewed on research at the DeepMind booth.
 
 ## And....
 - I'm giong to enjoy this glass of wine I snuck up to my room and call it an evening!
