@@ -56,5 +56,7 @@ some Maths with them. Today was just about installing software tooling, which I 
 
 <img src="/images1/HIMsmall24/him15.png" width="200">
 
+<img src="/images1/HIMsmall24/him16.png" width="400">
+
 
 ## And that's it!
