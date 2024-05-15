@@ -3,7 +3,7 @@
 ## I made it in yesterday
 - I made it in yesterday to a workshop in Bonn at Hausdorff. It's about formalizing Mathematics, and I am super excited!
 - It's been a really friendly group of people including Mathematicians, Formal Methods people, and even some people with
-backgrounds in Law and Philosophical logic / ontologies, etc. I'm really enjoying it and Bonn so far.
+backgrounds in Human Computer Interaction, Law and Philosophical logic / ontologies, etc. I'm really enjoying it and Bonn so far.
 - It's been really easy to just go out with a large group, or a small group (or anything in-between, really) for lunch,
 to strike up a conversation, and today we had a special "beer and pretzels" Happy Hour. I walked with two new friends
 to the Rhine and passed by Beethoven's place, as he is all over Bonn. I joked that we (Beethoven and myself) are friends
