@@ -70,8 +70,21 @@ enjoyed the sauces in currywurst more here. It's just so good, I've been binging
 
 <img src="/images1/Arithmeumsmall24/arith26.png" width="200">
 
+<img src="/images1/Arithmeumsmall24/arith30.png" width="200">
+
+<img src="/images1/Arithmeumsmall24/arith31.png" width="200">
+
+<img src="/images1/Arithmeumsmall24/arith32.png" width="200">
+
+<img src="/images1/Arithmeumsmall24/arith33.png" width="200">
+
+<img src="/images1/Arithmeumsmall24/arith34.png" width="200">
+
+- My friend Beethoven in the lights. I joked that he has hair like me :) What an inspiration!
+
 ## So good!
 - I've loved every minute of my time here. A new friend of mine (from the workshop that I've been eating lunch with,
-walking home with, going sightseeing with) convinced me that I should visit Berlin, too! She said it sounds like I'd love it!
+walking home with, going sightseeing with) convinced me that I should visit Berlin, too! She said it sounds like I'd love it! We spent the evening with a large group of 14 people eating Indian food; it was so good! It was the first time
+I really got to chat with Professor Davenport, also; he is a riot and just a wonderful person! A group of us walked back home and chatted. It's just been such a positive experience for me! I feel grateful for the experience!
 
 ## And that's it
