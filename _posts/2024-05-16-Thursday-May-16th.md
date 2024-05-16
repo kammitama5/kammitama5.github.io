@@ -7,7 +7,8 @@ if you want to ensure that you understand a paper, follow a proof, etc.
 - I also learned a bit of Naproche, which is this other cool system that allows you to formally verify LaTeX proofs.
 - So think of it as one tool for annotating symbolic notation in LaTeX so that someone can hover over the proofs and gain
 more information, and the other for writing papers and formally verifying proofs written in LaTeX. Both so useful and
-I had heard of neither tool before this week.
+I had heard of neither tool before this week, but especially as I'll be writing more Maths papers, I'm seriously planning
+on investing in these tools, for my own learning, and also as I continue to learn Lean.
 
 ## Arithmeum
 - I went with a friend from the workshop also to the Arithmeum. The museum has a number of calculating machines, as well
