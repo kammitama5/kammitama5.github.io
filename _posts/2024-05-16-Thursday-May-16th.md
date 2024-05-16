@@ -1,7 +1,8 @@
 ## The Arithmeum and LaTeX
 
 ## LaTeX
-- I spent my time this week mostly learning sTeX and Naproche. In sTeX, you can write symbolic annotations in your proofs.
+- I spent my time this week mostly learning [sTeX](https://github.com/slatex/sTeX/blob/main/doc/stex-manual.pdf) and [Naproche](https://naproche.github.io/). In sTeX, you can write symbolic annotations in your proofs. This is really helpful
+if you want to ensure that you understand a paper, follow a proof, etc.
 - I wrote a couple toy proofs but I can probably write a longer, more serious post soon about my experience.
 - I also learned a bit of Naproche, which is this other cool system that allows you to formally verify LaTeX proofs.
 - So think of it as one tool for annotating symbolic notation in LaTeX so that someone can hover over the proofs and gain
