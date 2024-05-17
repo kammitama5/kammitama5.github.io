@@ -7,6 +7,9 @@ for the first time and have food there. It's basically cheap (in price), canteen
 healthy.
 - I headed out a bit early as I had three research meetings pretty much back to back, and hadn't realized how tired I was!
 - It's been a really fun time, though; I would definitely love to visit Bonn again, for a longer period of time.
+- Oh, and I am on this list of 120+ women "behind many of the technological innovations that we experience today" [link](https://www.ldv.co/blog/women-spearheading-advances-in-visual-tech-and-ai?mc_cid=1a09b11732&mc_eid=08b1ff825a).
+A dream accomplished; I'm super grateful for the acknowledgement. It was really unexpected, and I was in disbelief, but
+I honestly love what I do and have been enjoying research with the people I'm working with at the moment. 
 
 ## Here are some Photos
 
