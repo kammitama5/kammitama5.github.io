@@ -5,6 +5,8 @@ DeepMind talk on RL and Theorem Proving (which was at the Computer Science depar
 James, but I had to shoot him an email instead, as my friend and I got back late from lunch; I got to visit the [Mensa](https://de.wikipedia.org/wiki/Mensa)
 for the first time and have food there. It's basically cheap (in price), canteen food, with a wide variety and is pretty
 healthy.
+- I headed out a bit early as I had three research meetings pretty much back to back, and hadn't realized how tired I was!
+- It's been a really fun time, though; I would definitely love to visit Bonn again, for a longer period of time.
 
 ## Here are some Photos
 
@@ -30,7 +32,11 @@ healthy.
 
 <img src="/images1/HIMsmall243/him50.png" width="200">
 
-
+## Going forward
+- Besides my grad Maths workshop, I may have to be less active during summer, but we'll see. Maybe I'll just post
+some sTeX and Naproche stuff and side projects or general thoughts kind of things. You know how internships are;
+companies generally don't like persons revealing information, locations, etc, so it may be tougher to post in general,
+but we'll see.
 
 
 ## That's it
