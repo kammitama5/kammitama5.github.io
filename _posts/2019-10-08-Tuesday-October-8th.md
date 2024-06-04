@@ -18,7 +18,7 @@ and numerical techniques with examples from quantum hardware experiments (Rhode 
 In terms of the candidacy: "Applicants are subject to a highly competitive selection process, hand-picked by international experts who are appointed by the following award-granting institutions: The Association for Computing Machinery, the Norwegian Academy of Science and Letters, and the International Mathematical Union. Each successfully completed application is reviewed by at least three international reviewers, with the top 100 candidates in each discipline issued an invitation." I am SO excited!!!
 - I will be participating in the American Institute of Mathematics (AIM) workshop on "Post Quantum Group-Based Cryptography" in Pasadena, California (April-May), with funding (lodging covered, $750 for flight)! Thank you so much and see you there!
 - I have been named on [LDV Capital's List of 120+ Brilliant Women in Technology](https://www.ldv.co/blog/women-spearheading-advances-in-visual-tech-and-ai?mc_cid=1a09b11732&mc_eid=08b1ff825a)! Very honoured for the opportunity!
-- Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254).
+- Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254). It was accepted to the Women in Numbers 6 journal as of June 4th!! :) 
 - The workshop was also featured for International Women's Day and I made it into the last photo of the
 article [link](https://notes.math.ca/en/article/women-in-numbers/)
 - My application to Underrepresented Students in Topology and Algebra Research Symposium (USTARS) was accepted;
