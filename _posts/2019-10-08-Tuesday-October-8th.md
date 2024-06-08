@@ -21,6 +21,7 @@ In terms of the candidacy: "Applicants are subject to a highly competitive selec
 - Our paper from the Women in Number Theory (WIN) workshop on "Machine Learning for Modular Multiplication" is live and can be accessed [here](http://arxiv.org/abs/2402.19254). It was accepted to the Women in Numbers 6 journal as of June 4th!! :) 
 - The workshop was also featured for International Women's Day and I made it into the last photo of the
 article [link](https://notes.math.ca/en/article/women-in-numbers/)
+- I will be speaking on the Code2040 Alumni panel (June 15th) in Oakland about my experiences and how the programme shaped me!
 - My application to present work at Underrepresented Students in Topology and Algebra Research Symposium (USTARS) was accepted;
 I will be presenting a poster there and was granted funding (meals, flight, lodging) via the University of Iowa.
 - I will be participating in the Hausdorff Research Institute for Mathematics' "Formal Mathematics" workshop in Lean
