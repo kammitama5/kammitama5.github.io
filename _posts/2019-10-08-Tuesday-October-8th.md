@@ -9,6 +9,8 @@
 
 ## 2024
 - I have been accepted to SLMath's Summer Graduate School at IBM Zurich Research Laboratory on "Introduction to Quantum-Safe Cryptography"! Absolutely thrilled!
+- I have been invited as a reviewer for the Black in AI workshop at NeurIPS (BAI).
+- I have been invited to speak at the Joint Maths Meeting (JMM) in 2025.
 - Our abstract was accepted to the 10th International Conference on Quantum Information and Quantum
 Control (CQIQC-X), which will be held at the Fields Institute in Toronto, Canada (Aug 26-30)! See you there; I'll be presenting a poster on our work, including some of the progress we've made since QIP!
 - I was accepted to attend QSim Summer School. The focus of the 2024 summer school is on many-body systems, combining both theoretical
