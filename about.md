@@ -41,6 +41,7 @@ won't use it much, except to read, as I'm pretty busy.
   -  the Quantum Coding workshop 
   -  the Error-Correcting
   Codes Bootcamp, for the duration of a month, courtesy of the Institute!
+- I was also fully funded for the SL Math "Intro to Quantum-Safe Cryptography" workshop, which was held in IBM Research Zurich in Switzerland (June 24-July 5th).
   
 ### Update (as of 2019)
 - I began focusing on [Supersingular Isogeny-based Cryptography](https://en.wikipedia.org/wiki/Supersingular_isogeny_graph) research in Winter 2020. I absolutely love it, and I am working on progress with my two advisors (I also attended a summer workshop on Isogeny Based Cryptography in 2020, and another affiliated workshop on post-quantum networks, which focused on implementation into current non-post-quantum secure protocols). In the past, I have done research on Provable Fairness and Differential Privacy, too. I have also TA-ed for Data Privacy coursework (Python), a Programming for Engineers Matlab course (Matlab), 
