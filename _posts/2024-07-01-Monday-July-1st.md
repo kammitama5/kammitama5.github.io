@@ -22,7 +22,7 @@ requiring the use of SageMaths / Python.
 ## On the weekends
 - So I actually have been spending my evenings working at IBM Research; they gave me a space to work out of, which
 was really really nice of them! And I've been making progress on my internship and even gave a presentation
-from their office (I'm not an employee (nor do I want to be, quite frankly), but I just needed a space that was quiet and had a board to work from
+from their office (I'm not an employee (nor do I want to be, quite frankly, and years ago did have an opportunity to join, but the work was not what I wanted to do), but I just needed a space that was quiet and had a board to work from
 in the evenings). So I have to admit I didn't end up doing as much exploring as some of the other students.
 I really like my research project and working with the people at my internship, so I wanted to keep that up.
 However, on the weekends, I did eat at some places, go to see some of the Costume Festival and that sort of thing.
