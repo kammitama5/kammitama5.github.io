@@ -28,7 +28,7 @@ in the evenings). So I have to admit I didn't end up doing as much exploring as 
 I really like my research project and working with the people at my internship, so I wanted to keep that up.
 However, on the weekends, I did eat at some places, go to see some of the Costume Festival and that sort of thing.
 Oh, and my phone randomly started not charging and dying, so that led me to an journey of finding a local
-repairman, who was excellent.
+electronics phone-repair technician, who was excellent.
 
 ## Anyways, here are some photos
 
