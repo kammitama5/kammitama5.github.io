@@ -26,7 +26,8 @@ was really really nice of them! And I've been making progress on my internship a
 from their office (I'm not an employee (nor do I want to be, quite frankly, and years ago did have an opportunity to join, but the work was not what I wanted to do; they wanted me to do work more on AI and provable fairness, but I opted for an internship focused more on security instead, which I care more about), but I just needed a space that was quiet and had a board to work from
 in the evenings). So I have to admit I didn't end up doing as much exploring as some of the other students.
 I really like my research project and working with the people at my internship, so I wanted to keep that up.
-However, on the weekends, I did eat at some places, go to see some of the Costume Festival and that sort of thing.
+- We had an opportunity to give ten-minute talks on our work, so naturally, I signed up to do this.
+- However, on the weekends, I did eat at some places, go to see some of the Costume Festival and that sort of thing.
 Oh, and my phone randomly started not charging and dying, so that led me to an journey of finding a local
 electronics phone-repair technician, who was excellent.
 
