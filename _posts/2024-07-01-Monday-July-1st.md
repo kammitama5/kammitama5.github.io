@@ -7,7 +7,8 @@ as a bunch of other cool Maths PhD students. I even got to see Tatiana remotely 
 affiliated with SL Math).
 - Our workshop is at IBM Research, and it's only the second time they've hosted researchers here. I think the deal is
 that they hope some of us will want to return to do an internship or something, but most mathematicians aren't really
-thinking about that kind of stuff, which quite frankly is a bit refreshing compared to the average CS student.
+thinking about that kind of stuff, which quite frankly is a bit refreshing compared to the average CS student, for whom internships can be about leveraging brand-name and levelling-up to other companies they want to join (so using
+other companies as a stepping stone rather than just enjoying the growth and work for its own sake).
 Also, I learned that there is always a spot held for one researcher from an agency; as you may or may not know, they
 are the largest employer of mathematicians. That was also interesting (regardless of what your thoughts are of them)
 because it was a non-platformed way to meet someone who actually works there, and that person was really just
