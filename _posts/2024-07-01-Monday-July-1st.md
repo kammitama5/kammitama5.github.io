@@ -19,6 +19,7 @@ library and resources related to that.
 - We did have a career panel featuring Vadim and Jonathan from IBM Research, and Chloe from U Bristol, moderated
 by Luca. Also, the talks were a mix of slides and board talks, and we had both assignments in proofs and those
 requiring the use of SageMaths / Python.
+- Oh, and they have a set of student presentations, so I get to say I gave a talk at IBM Research, I guess, too!
 
 ## On the weekends
 - So I actually have been spending my evenings working at IBM Research; they gave me a space to work out of, which
