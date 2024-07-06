@@ -32,6 +32,22 @@ I really like my research project and working with the people at my internship, 
 Oh, and my phone randomly started not charging and dying, so that led me to an journey of finding a local
 electronics phone-repair technician, who was excellent.
 
+## July 4th
+- I celebrated American Independence in Zurich in a karaoke bar with our group. Unexpectedly, some of the instructors came in!
+There was a lot of screaming and hollering when we saw them, so much so that another person sitting next to me who was not in
+our group asked if they were perhaps Swiss celebrities.
+- Later (around 1am), six of us decided to walk home instead of take an Uber (there is no Lyft here...yet), and that took us
+about an hour, but it was a really fun walk. I was still up afterwards, so I ended up doing laundry.
+
+## The Last day
+- On the last day, we had a couple more lectures and then I did my student presentation, which was well-received! So much so,
+actually, that one of the researchers at IBM said that they wanted to know when our paper will come out (which is soon; within a week
+or so!) so that they could cite it, as they are doing similar work but using different methods! Also, they said that it was an
+area no one was really working on, so they were excited by the work I was doing!
+- Finally, I went with a friend to a couple chocolate shops, and found a chocolate from my home country! So I had to buy it,
+and apparently it was a limited edition! I was able to pack and hilariously, the people at the airport just wanted to know
+how Grenada and Tobago was doing because of the hurricane when they saw my passport. I appreciate their concern, too!
+
 ## Anyways, here are some photos
 
 <img src="/images1/slmath24/slmath241.png" width="300">
