@@ -44,6 +44,9 @@ about an hour, but it was a really fun walk. I was still up afterwards, so I end
 actually, that one of the researchers at IBM said that they wanted to know when our paper will come out (which is soon; within a week
 or so!) so that they could cite it, as they are doing similar work but using different methods! Also, they said that it was an
 area no one was really working on, so they were excited by the work I was doing!
+- After the presentations, they took agency guy to a room and sang a version of "There's a Party in the US" to custom lyrics about him. It was very fun and nice of them to do that; he was quite well-loved at the workshop and people enjoyed that he was so nice
+about asking questions, really humble and just cool. Someone suggested if they did want to recruit PhD Maths students, they should
+ask him, and he did say he might go for JMM or something like that.
 - Finally, I went with a friend to a couple chocolate shops, and found a chocolate from my home country! So I had to buy it,
 and apparently it was a limited edition! I was able to pack and hilariously, the people at the airport just wanted to know
 how Grenada and Tobago was doing because of the hurricane when they saw my passport. I appreciate their concern, too!
