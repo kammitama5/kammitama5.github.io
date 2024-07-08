@@ -62,6 +62,10 @@ to wrap my head around the fact that these are tropical foods being spoken of as
 was everywhere. I did find a chocolate place that had cashew-milk chocolate, though! But I was telling my parents I spent
 half my time feeling bloated and the other with indigestion; it didn't end up turning out to be a culinary place I could
 spend a lot of time, and soon I was longing to just go back (although I enjoyed the school very much!).
+- Because of that, I ended up spending less than two days of the per diem they gave us, out of the 13 day allowance, because
+I would mostly eat street food from immigrant shops to the tune of 8.50 CHF in the evenings, while my peers were eating
+to the tune of 50 CHF plus a meal. There was this one shop in particular that had fresh paninis that I could eat; that was
+a bulk of my dinner. Whenever I wandered away from that (besides the vegetarian restaurant), I would inevitably get indigestion. Sigh.
 - Even though the people were kind to me, and the experience was great, and I can finally say that
 I made it to Zurich, I was happy to get back. Hilariously, I took an Uber to the airport in which this Greek driver was
 telling me that the new President is "one of those green types" and mandated that the roads could not be driven more than
