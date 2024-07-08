@@ -54,7 +54,7 @@ how Grenada and Tobago was doing because of the hurricane when they saw my passp
 
 ## Addendum
 - I have to say, as a person from a cocoa-producing country, being in Zurich turned out to be a strange experience for me.
-I noticed some other things, too, lke quite a bit of passion fruit in their desserts, which is something I also grew up with
+I noticed some other things, too, like quite a bit of passion fruit in their desserts, which is something I also grew up with
 (my grandmother literally grew passion fruits on their fence growing up, and made fresh juice with it). I also met the
 multivariate cryptography professor, Simona, who was from Macedonia, and she also grew up with passion fruit. It was difficult
 to wrap my head around the fact that these are tropical foods being spoken of as though they are from Switzerland lol.
