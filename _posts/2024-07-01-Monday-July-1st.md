@@ -50,6 +50,27 @@ ask him, and he did say he might go for JMM or something like that.
 - Finally, I went with a friend to a couple chocolate shops, and found a chocolate from my home country! So I had to buy it,
 and apparently it was a limited edition! I was able to pack and hilariously, the people at the airport just wanted to know
 how Grenada and Tobago was doing because of the hurricane when they saw my passport. I appreciate their concern, too!
+- Interestingly, our cocoa is some of the best in the world, as it is known to not only be of high quality but to be naturally flavoured, which is not typical of cocoa used by chocolate companies. But we don't produce a lot of it.
+
+## Addendum
+- I have to say, as a person from a cocoa-producing country, being in Zurich turned out to be a strange experience for me.
+I noticed some other things, too, lke quite a bit of passion fruit in their desserts, which is something I also grew up with
+(my grandmother literally grew passion fruits on their fence growing up, and made fresh juice with it). I also met the
+multivariate cryptography professor, Simona, who was from Macedonia, and she also grew up with passion fruit. It was difficult
+to wrap my head around the fact that these are tropical foods being spoken of as though they are from Switzerland lol.
+- Also, I really struggled with the food. As I have gotten older, I've become very lactose-intolerant, and alpine cow-milk
+was everywhere. I did find a chocolate place that had cashew-milk chocolate, though! But I was telling my parents I spent
+half my time feeling bloated and the other with indigestion; it didn't end up turning out to be a culinary place I could
+spend a lot of time, and soon I was longing to just go back (although I enjoyed the school very much!).
+- Even though the people were kind to me, and the experience was great, and I can finally say that
+I made it to Zurich, I was happy to get back. Hilariously, I took an Uber to the airport in which this Greek driver was
+telling me that the new President is "one of those green types" and mandated that the roads could not be driven more than
+30 km per hour, so he said all those people who have maseratis and whatnot could not drive more than 30. Then we got to a
+point in which we could drive up to 60, and he joked "hold on to your seat..we can go to 60 now!". He said that if you
+sped beyond that, they would take away your licence for 3 months and fine you a percentage of your salary (he said
+"imagine you can pay 10,000 dollars if you are rich!"). He mentioned that he didn't think the food was very good here,
+and that they basically "just borrow from other people's food". Ouch. I kind of regretted not taking an Uber to my hotel
+because this man had tea lol. 
 
 ## Anyways, here are some photos
 
