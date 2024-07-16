@@ -9,6 +9,7 @@
 
 ## 2024
 - I have been accepted to SLMath's Summer Graduate School at IBM Zurich Research Laboratory on "Introduction to Quantum-Safe Cryptography"! Absolutely thrilled!
+- Our paper "Foldable, Recursive Proofs of Isogeny Computation with Reduced Time Complexity" was accepted to the IEEE International Conference on Quantum Computing and Engineering (QCE24) under the Quantum Networking and Communications Technical Paper Submissions! Let's gooooo.
 - I have been invited as a reviewer for the Black in AI workshop at NeurIPS (BAI).
 - I have been invited to speak at the Joint Maths Meeting (JMM) in 2025.
 - Our abstract was accepted to the 10th International Conference on Quantum Information and Quantum
