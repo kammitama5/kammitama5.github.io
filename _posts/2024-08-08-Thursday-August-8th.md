@@ -14,8 +14,8 @@ in-office schedule, which was really great. Also, the interns were all really ve
 among other things. There were team socials, like go-karting and an ice-cream social, and for the interns
 several social events including one in SF in which our group of interns took a really fancy ride back because
 we had pooled our resources together to get a rideshare back, and another in which we painted!
-- A highlight for me was meeting the co-founder of elliptic curves in my first week, as well as attending
-a quantum day event on my second day of my first week. So many things.
+- A highlight for me was meeting the co-founder of elliptic curve cryptography in my first week, as well as attending
+a quantum day event on my second day of my first week (with Professor Lange and Professor Jacques). So many great things. People were just so nice.
 - I visited friends in the Bay, including friends from various companies (OpenAI, Google, Nvidia, etc). I missed
 out on a final social at Netflix, but there is always another time. It's wild that I have so many friends here,
 when I am one of the hardest people to get to come out of my accommodations on the East Coast, or to socialize
