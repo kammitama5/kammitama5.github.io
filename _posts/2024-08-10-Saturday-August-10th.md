@@ -45,6 +45,8 @@ beliefs, academics can and do, in fact, double down. Especially if statements (h
 they don't hold any trust or belief in; people who think they are unworthy. I think that enough time has passed
 that if this person thinks I am "unworthy", I will likely never be (worthy) in their eyes, and they will never truly
 support me.
+Every opportunity I earn then becomes something that I "didn't really earn", and therefore must be given to others,
+or isn't worth much / can be diminished.
 So it is what it is. I can move on and protect myself emotionally with respect to that.
 
 ## A friend
