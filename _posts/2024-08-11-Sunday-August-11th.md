@@ -33,4 +33,8 @@ friend, we headed to our hotels in Providence.
 
 <img src="/images1/qsimphotos24/qsim9.png" width="300">
 
+<img src="/images1/qsimphotos24/qsim10.png" width="300">
+
+<img src="/images1/qsimphotos24/qsim11.png" width="300">
+
 ## And that's it
